@@ -11,5 +11,5 @@ This platform contains facilitates individual code transforms in SQL, Python, an
  - Data Robustness Matrix: [R](), [Python](), [SQL]()
 
 ## Primary Contributors
-Much of the code used in this project involves shared logic used across all N3C project as described in the [N3C Cohort Paper](https://www.medrxiv.org/content/10.1101/2021.01.12.21249511v3.full-text). Additional coding was done primarily by 
+A portion of the code used in this project (ECMO, race and gender standardization, mechanical ventilation, and smoking status) involves shared logic used across all N3C project as described in the [N3C Cohort Paper](https://www.medrxiv.org/content/10.1101/2021.01.12.21249511v3.full-text). Additional coding was done primarily by 
 [Alfred Jerrod Anzalone, MS](https://www.unmc.edu/bmi/current-students/student-bios/anzalone-jerrod-bio.html) with statistical direction and validation done by [Ronald Horswell, PhD](https://lbrn.t-bio.info/our_team/dr-ronald-horswell/) and [San Chu, MS](https://www.linkedin.com/in/san-chu-17a6a359)
