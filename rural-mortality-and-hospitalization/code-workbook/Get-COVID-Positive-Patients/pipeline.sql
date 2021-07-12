@@ -110,7 +110,7 @@ FROM
 (SELECT month(date_of_earliest_covid_diagnosis) as month1, year(date_of_earliest_covid_diagnosis) as year1, COUNT(*) as month_year_count
 FROM covid_positive_with_index c
 INNER JOIN pers p on p.person_id = c.person_id
---WHERE p.data_partner_id NOT IN (808, 325)
+--WHERE p.data_partner_id NOT IN [redacted]
 GROUP BY month(date_of_earliest_covid_diagnosis), year(date_of_earliest_covid_diagnosis)
 ORDER BY year(date_of_earliest_covid_diagnosis) ASC, month(date_of_earliest_covid_diagnosis) ASC
 ) X
