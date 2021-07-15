@@ -8,7 +8,6 @@ This platform contains facilitates individual code transforms in SQL, Python, an
  - [Defining COVID-19 Positivity](https://github.com/National-COVID-Cohort-Collaborative/CS-Rural-Health/tree/main/rural-mortality-and-hospitalization/code-workbook/Get-COVID-Positive-Patients)
  - [Cohort Definition along with Proposed OS](https://github.com/National-COVID-Cohort-Collaborative/CS-Rural-Health/tree/main/ordinal-scale/code-workbook/Adjusted_OS)
  - [Data Presentation](https://github.com/National-COVID-Cohort-Collaborative/CS-Rural-Health/tree/main/ordinal-scale/code-workbook/Transitional_Probabilities)
- - 
  - [Data Summarization](https://github.com/National-COVID-Cohort-Collaborative/CS-Rural-Health/tree/main/ordinal-scale/code-workbook/Summary_Tables)
 
 ## Primary Contributors
