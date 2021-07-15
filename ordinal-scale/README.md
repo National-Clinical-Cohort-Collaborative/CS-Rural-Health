@@ -20,7 +20,7 @@ CONCLUSIONS: As we move forward with treating COVID-19, the ability to have high
 
 This repository is broken down into two sections: 
 
-[Concept Sets](https://github.com/National-COVID-Cohort-Collaborative/CS-Rural-Health/tree/main/ordinal-scale/concept-sets)
+[Concept Sets](https://github.com/National-COVID-Cohort-Collaborative/CS-Rural-Health/tree/main/ordinal-scale/concept-set)
 
 [Code Workbooks](https://github.com/National-COVID-Cohort-Collaborative/CS-Rural-Health/tree/main/ordinal-scale/code-workbook)
 
