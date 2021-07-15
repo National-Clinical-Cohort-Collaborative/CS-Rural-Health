@@ -6,8 +6,11 @@ A code workbook is the fundamental coding pipeline used by the platform underlyi
 This platform contains facilitates individual code transforms in SQL, Python, and R with an Apache Spark backend. This folder describes the primary code used in this project, including: 
 
  - [Defining COVID-19 Positivity](https://github.com/National-COVID-Cohort-Collaborative/CS-Rural-Health/tree/main/rural-mortality-and-hospitalization/code-workbook/Get-COVID-Positive-Patients)
+ - 
  - [Cohort Definition along with Proposed OS](https://github.com/National-COVID-Cohort-Collaborative/CS-Rural-Health/tree/main/ordinal-scale/code-workbook/Adjusted OS)
+ - 
  - [Data Presentation](https://github.com/National-COVID-Cohort-Collaborative/CS-Rural-Health/tree/main/ordinal-scale/code-workbook/Transitional_Probabilities)
+ - 
  - [Data Summarization](https://github.com/National-COVID-Cohort-Collaborative/CS-Rural-Health/tree/main/ordinal-scale/code-workbook/Summary_Tables)
 
 ## Primary Contributors
