@@ -17,9 +17,9 @@ d) Outcomes – COVID-19-related death rates will also be compared by rurality o
 
 ## Project Directory
 
--[Evaluation of Rural-Urban Differences in Hospitalization and Mortality Rates for US COVID-19 Patients in the United States](https://github.com/National-COVID-Cohort-Collaborative/CS-Rural-Health/tree/main/rural-mortality-and-hospitalization)
+[Evaluation of Rural-Urban Differences in Hospitalization and Mortality Rates for US COVID-19 Patients in the United States](https://github.com/National-COVID-Cohort-Collaborative/CS-Rural-Health/tree/main/rural-mortality-and-hospitalization)
 
--[Adaptation of the World Health Organization COVID-19 Ordinal Scale for Clinical Improvement for Use in EHR Studies in a Multi-Center Data Enclave](https://github.com/National-COVID-Cohort-Collaborative/CS-Rural-Health/tree/main/ordinal-scale)
+[Adaptation of the World Health Organization COVID-19 Ordinal Scale for Clinical Improvement for Use in EHR Studies in a Multi-Center Data Enclave](https://github.com/National-COVID-Cohort-Collaborative/CS-Rural-Health/tree/main/ordinal-scale)
 
 
 ## License
