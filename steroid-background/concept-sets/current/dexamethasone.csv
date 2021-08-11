@@ -1,0 +1,390 @@
+Concept Name,Concept Id,Valid Start Date,Invalid Reason,Vocabulary Id,Concept Code,Concept Class Id,Standard Concept,Concept Name,Domain Id,Valid End Date
+dexamethasone 0.5 MG Oral Tablet [Decadron],19006962,1970-01-01,,RxNorm,105392,Branded Drug,S,dexamethasone 0.5 MG Oral Tablet [Decadron],Drug,2099-12-31
+dexamethasone 0.5 MG Oral Tablet,1518258,1970-01-01,,RxNorm,197577,Clinical Drug,S,dexamethasone 0.5 MG Oral Tablet,Drug,2099-12-31
+dexamethasone 2 MG Oral Tablet,1518261,1970-01-01,,RxNorm,197581,Clinical Drug,S,dexamethasone 2 MG Oral Tablet,Drug,2099-12-31
+dexamethasone 0.2 MG/ML Oral Solution,1518491,1970-01-01,,RxNorm,242882,Clinical Drug,S,dexamethasone 0.2 MG/ML Oral Solution,Drug,2099-12-31
+dexamethasone 1 MG/ML Oral Solution [Dexamethasone Intensol],19029973,1970-01-01,,RxNorm,205702,Branded Drug,S,dexamethasone 1 MG/ML Oral Solution [Dexamethasone Intensol],Drug,2099-12-31
+dexamethasone 1 MG/ML Oral Solution,19076135,1970-01-01,,RxNorm,309684,Clinical Drug,S,dexamethasone 1 MG/ML Oral Solution,Drug,2099-12-31
+dexamethasone 0.1 MG/ML Oral Solution,19076136,1970-01-01,,RxNorm,309686,Clinical Drug,S,dexamethasone 0.1 MG/ML Oral Solution,Drug,2099-12-31
+dexamethasone 0.1 MG/ML,1518603,1970-01-01,,RxNorm,315773,Clinical Drug Comp,S,dexamethasone 0.1 MG/ML,Drug,2099-12-31
+dexamethasone 0.5 MG,1518605,1970-01-01,,RxNorm,315775,Clinical Drug Comp,S,dexamethasone 0.5 MG,Drug,2099-12-31
+dexamethasone 2 MG,1518610,1970-01-01,,RxNorm,317346,Clinical Drug Comp,S,dexamethasone 2 MG,Drug,2099-12-31
+dexamethasone 1 MG/ML,1518611,1970-01-01,,RxNorm,317629,Clinical Drug Comp,S,dexamethasone 1 MG/ML,Drug,2099-12-31
+dexamethasone,1518254,1970-01-01,,RxNorm,3264,Ingredient,S,dexamethasone,Drug,2099-12-31
+dexamethasone Oral Solution,40028599,1970-01-01,,RxNorm,371728,Clinical Drug Form,S,dexamethasone Oral Solution,Drug,2099-12-31
+dexamethasone Oral Tablet,40028601,1970-01-01,,RxNorm,371729,Clinical Drug Form,S,dexamethasone Oral Tablet,Drug,2099-12-31
+dexamethasone 0.4 MG/ML,1518644,1970-01-01,,RxNorm,328743,Clinical Drug Comp,S,dexamethasone 0.4 MG/ML,Drug,2099-12-31
+dexamethasone 0.4 MG,1518684,1970-01-01,,RxNorm,332984,Clinical Drug Comp,S,dexamethasone 0.4 MG,Drug,2099-12-31
+dexamethasone 0.2 MG/ML,1518687,1970-01-01,,RxNorm,333673,Clinical Drug Comp,S,dexamethasone 0.2 MG/ML,Drug,2099-12-31
+dexamethasone 0.4 MG/ML Oral Solution,19010639,1970-01-01,,RxNorm,108882,Clinical Drug,S,dexamethasone 0.4 MG/ML Oral Solution,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Ratio-Dexamethasone],44034851,2017-08-24,,RxNorm Extension,OMOP1029482,Branded Drug,S,Dexamethasone 0.5 MG Oral Tablet [Ratio-Dexamethasone],Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet [Pms Dexamethasone],44034852,2017-08-24,,RxNorm Extension,OMOP1029483,Branded Drug,S,Dexamethasone 2 MG Oral Tablet [Pms Dexamethasone],Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Phl-Dexamethasone] by Pharmel,44050994,2017-08-24,,RxNorm Extension,OMOP1045625,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Phl-Dexamethasone] by Pharmel,Drug,2099-12-31
+dexamethasone 0.5 MG/ML Oral Solution,19105671,1970-01-01,,RxNorm,422009,Clinical Drug,S,dexamethasone 0.5 MG/ML Oral Solution,Drug,2099-12-31
+dexamethasone Oral Capsule,40028598,1970-01-01,,RxNorm,438882,Clinical Drug Form,S,dexamethasone Oral Capsule,Drug,2099-12-31
+dexamethasone 0.5 MG/ML,19109493,1970-01-01,,RxNorm,438889,Clinical Drug Comp,S,dexamethasone 0.5 MG/ML,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Phl-Dexamethasone],44125584,2017-08-24,,RxNorm Extension,OMOP1120215,Branded Drug,S,Dexamethasone 0.5 MG Oral Tablet [Phl-Dexamethasone],Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Ratio-Dexamethasone] by TEVA,44128589,2017-08-24,,RxNorm Extension,OMOP1123220,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Ratio-Dexamethasone] by TEVA,Drug,2099-12-31
+5 ML Dexamethasone 0.1 MG/ML Oral Solution [Pms Dexamethasone] by Pharmascience,44131112,2017-08-24,,RxNorm Extension,OMOP1125743,Marketed Product,S,5 ML Dexamethasone 0.1 MG/ML Oral Solution [Pms Dexamethasone] by Pharmascience,Drug,2099-12-31
+5 ML Dexamethasone 0.1 MG/ML Oral Solution,44131574,2017-08-24,,RxNorm Extension,OMOP1126205,Quant Clinical Drug,S,5 ML Dexamethasone 0.1 MG/ML Oral Solution,Drug,2099-12-31
+5 ML Dexamethasone 0.1 MG/ML Oral Solution [Pms Dexamethasone],44131635,2017-08-24,,RxNorm Extension,OMOP1126266,Quant Branded Drug,S,5 ML Dexamethasone 0.1 MG/ML Oral Solution [Pms Dexamethasone],Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 20 by Jenapharm,40822869,2017-08-24,,RxNorm Extension,OMOP2020831,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 20 by Jenapharm,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Decadron] Box of 10,40823097,2017-08-24,,RxNorm Extension,OMOP2021059,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Decadron] Box of 10,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Apo-Dexamethasone],44060943,2017-08-24,,RxNorm Extension,OMOP1055574,Branded Drug,S,Dexamethasone 0.5 MG Oral Tablet [Apo-Dexamethasone],Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Apo-Dexamethasone] by Apotex,44076707,2017-08-24,,RxNorm Extension,OMOP1071338,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Apo-Dexamethasone] by Apotex,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet by Pharmascience,44064008,2017-08-24,,RxNorm Extension,OMOP1058639,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet by Pharmascience,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet [Pms Dexamethasone] Box of 100 by Pharmascience,44064010,2017-08-24,,RxNorm Extension,OMOP1058641,Marketed Product,S,Dexamethasone 2 MG Oral Tablet [Pms Dexamethasone] Box of 100 by Pharmascience,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 1200,41023663,2017-08-24,,RxNorm Extension,OMOP2221625,Clinical Drug Box,S,Dexamethasone 0.5 MG Oral Tablet Box of 1200,Drug,2099-12-31
+Dexamethasone 0.5 MG/ML Oral Solution Box of 1,41023669,2017-08-24,,RxNorm Extension,OMOP2221631,Clinical Drug Box,S,Dexamethasone 0.5 MG/ML Oral Solution Box of 1,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Predni F] Box of 20 by Sanofi,40887050,2017-08-24,,RxNorm Extension,OMOP2085012,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Predni F] Box of 20 by Sanofi,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 20 by Mylan,40887051,2017-08-24,,RxNorm Extension,OMOP2085013,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 20 by Mylan,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Cortidexason] Box of 20,40878695,2017-08-24,,RxNorm Extension,OMOP2076657,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Cortidexason] Box of 20,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 200,40992701,2017-08-24,,RxNorm Extension,OMOP2190663,Clinical Drug Box,S,Dexamethasone 2 MG Oral Tablet Box of 200,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 20 by Mibe,41011635,2017-08-24,,RxNorm Extension,OMOP2209597,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 20 by Mibe,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Millicorten] Box of 10,41003381,2017-08-24,,RxNorm Extension,OMOP2201343,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Millicorten] Box of 10,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Afpred],41003382,2017-08-24,,RxNorm Extension,OMOP2201344,Branded Drug,S,Dexamethasone 0.5 MG Oral Tablet [Afpred],Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 50 by Jenapharm,40980292,2017-08-24,,RxNorm Extension,OMOP2178254,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 50 by Jenapharm,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet [Fortecortin] Box of 50 by Mylan,40980302,2017-08-24,,RxNorm Extension,OMOP2178264,Marketed Product,S,Dexamethasone 2 MG Oral Tablet [Fortecortin] Box of 50 by Mylan,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Millicorten],40972028,2017-08-24,,RxNorm Extension,OMOP2169990,Branded Drug,S,Dexamethasone 0.5 MG Oral Tablet [Millicorten],Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 100,40972029,2017-08-24,,RxNorm Extension,OMOP2169991,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 100,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Cortidexason] Box of 100,40972030,2017-08-24,,RxNorm Extension,OMOP2169992,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Cortidexason] Box of 100,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Predni F] Box of 100 by Beiersdorf,40917954,2017-08-24,,RxNorm Extension,OMOP2115916,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Predni F] Box of 100 by Beiersdorf,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexamonozon] Box of 100 by Medice,40917955,2017-08-24,,RxNorm Extension,OMOP2115917,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Dexamonozon] Box of 100 by Medice,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet [Fortecortin] Box of 100 by Mylan,40917956,2017-08-24,,RxNorm Extension,OMOP2115918,Marketed Product,S,Dexamethasone 2 MG Oral Tablet [Fortecortin] Box of 100 by Mylan,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexamed] Box of 100,40941073,2017-08-24,,RxNorm Extension,OMOP2139035,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Dexamed] Box of 100,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexamonozon] Box of 100,40941074,2017-08-24,,RxNorm Extension,OMOP2139036,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Dexamonozon] Box of 100,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Decadron] Box of 300,40941075,2017-08-24,,RxNorm Extension,OMOP2139037,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Decadron] Box of 300,Drug,2099-12-31
+Dexamethasone 0.4 MG Oral Capsule [Dexamethason Abz] Box of 100,40909691,2017-08-24,,RxNorm Extension,OMOP2107653,Branded Drug Box,S,Dexamethasone 0.4 MG Oral Capsule [Dexamethason Abz] Box of 100,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Predni F] Box of 10,40909695,2017-08-24,,RxNorm Extension,OMOP2107657,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Predni F] Box of 10,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexaflam],40909696,2017-08-24,,RxNorm Extension,OMOP2107658,Branded Drug,S,Dexamethasone 0.5 MG Oral Tablet [Dexaflam],Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Auxiloson] Box of 20,40909697,2017-08-24,,RxNorm Extension,OMOP2107659,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Auxiloson] Box of 20,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet [Fortecortin] Box of 20,40909700,2017-08-24,,RxNorm Extension,OMOP2107662,Branded Drug Box,S,Dexamethasone 2 MG Oral Tablet [Fortecortin] Box of 20,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 125,40930143,2017-08-24,,RxNorm Extension,OMOP2128105,Clinical Drug Box,S,Dexamethasone 0.5 MG Oral Tablet Box of 125,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 50 by Galen,40949294,2017-08-24,,RxNorm Extension,OMOP2147256,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 50 by Galen,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 30 by Galen,40949295,2017-08-24,,RxNorm Extension,OMOP2147257,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 30 by Galen,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Cortidexason] Box of 20 by DermaPharm,40949303,2017-08-24,,RxNorm Extension,OMOP2147265,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Cortidexason] Box of 20 by DermaPharm,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Predni F] Box of 100 by Sanofi,41136913,2017-08-24,,RxNorm Extension,OMOP2334875,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Predni F] Box of 100 by Sanofi,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Cortidexason] Box of 100 by DermaPharm,41136914,2017-08-24,,RxNorm Extension,OMOP2334876,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Cortidexason] Box of 100 by DermaPharm,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexamed] Box of 30,41097167,2017-08-24,,RxNorm Extension,OMOP2295129,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Dexamed] Box of 30,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexamethason Berco],41097168,2017-08-24,,RxNorm Extension,OMOP2295130,Branded Drug,S,Dexamethasone 0.5 MG Oral Tablet [Dexamethason Berco],Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 1000,41117722,2017-08-24,,RxNorm Extension,OMOP2315684,Clinical Drug Box,S,Dexamethasone 0.5 MG Oral Tablet Box of 1000,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 200,41117723,2017-08-24,,RxNorm Extension,OMOP2315685,Clinical Drug Box,S,Dexamethasone 0.5 MG Oral Tablet Box of 200,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexamonozon] Box of 30,41128512,2017-08-24,,RxNorm Extension,OMOP2326474,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Dexamonozon] Box of 30,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexamethason Abz] Box of 20,41128513,2017-08-24,,RxNorm Extension,OMOP2326475,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Dexamethason Abz] Box of 20,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 100 by Mibe,41042724,2017-08-24,,RxNorm Extension,OMOP2240686,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 100 by Mibe,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 100 by Mylan,41042732,2017-08-24,,RxNorm Extension,OMOP2240694,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 100 by Mylan,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexamethason Berco] Box of 20 by Funke Kleve,41042733,2017-08-24,,RxNorm Extension,OMOP2240695,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Dexamethason Berco] Box of 20 by Funke Kleve,Drug,2099-12-31
+Dexamethasone 0.4 MG Oral Capsule Box of 100,41054910,2017-08-24,,RxNorm Extension,OMOP2252872,Clinical Drug Box,S,Dexamethasone 0.4 MG Oral Capsule Box of 100,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Predni F] Box of 100,41065616,2017-08-24,,RxNorm Extension,OMOP2263578,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Predni F] Box of 100,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 150,41065617,2017-08-24,,RxNorm Extension,OMOP2263579,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 150,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 20,41065618,2017-08-24,,RxNorm Extension,OMOP2263580,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 20,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 10,41065619,2017-08-24,,RxNorm Extension,OMOP2263581,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 10,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexamethason Berco] Box of 100,41065620,2017-08-24,,RxNorm Extension,OMOP2263582,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Dexamethason Berco] Box of 100,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexamonozon] Box of 30 by Medice,41074063,2017-08-24,,RxNorm Extension,OMOP2272025,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Dexamonozon] Box of 30 by Medice,Drug,2099-12-31
+Dexamethasone 0.4 MG Oral Capsule [Dexamethason Abz],41034497,2017-08-24,,RxNorm Extension,OMOP2232459,Branded Drug,S,Dexamethasone 0.4 MG Oral Capsule [Dexamethason Abz],Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexamethason Berco] Box of 20,41034501,2017-08-24,,RxNorm Extension,OMOP2232463,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Dexamethason Berco] Box of 20,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Cortidexason] Box of 50,41034502,2017-08-24,,RxNorm Extension,OMOP2232464,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Cortidexason] Box of 50,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet by Valeant,44089590,2017-08-24,,RxNorm Extension,OMOP1084221,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet by Valeant,Drug,2099-12-31
+Dexamethasone 0.1 MG/ML Oral Solution [Pms Dexamethasone],44112414,2017-08-24,,RxNorm Extension,OMOP1107045,Branded Drug,S,Dexamethasone 0.1 MG/ML Oral Solution [Pms Dexamethasone],Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet [Pms Dexamethasone] Box of 100,44099637,2017-08-24,,RxNorm Extension,OMOP1094268,Branded Drug Box,S,Dexamethasone 2 MG Oral Tablet [Pms Dexamethasone] Box of 100,Drug,2099-12-31
+dexamethasone 0.1 MG/ML Oral Solution [Baycadron],40173366,2010-04-04,,RxNorm,901649,Branded Drug,S,dexamethasone 0.1 MG/ML Oral Solution [Baycadron],Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Auxiloson] Box of 250,40847597,2017-08-24,,RxNorm Extension,OMOP2045559,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Auxiloson] Box of 250,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet [Fortecortin] Box of 100,40847602,2017-08-24,,RxNorm Extension,OMOP2045564,Branded Drug Box,S,Dexamethasone 2 MG Oral Tablet [Fortecortin] Box of 100,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 20,40867951,2017-08-24,,RxNorm Extension,OMOP2065913,Clinical Drug Box,S,Dexamethasone 2 MG Oral Tablet Box of 20,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 20 by Galen,40855733,2017-08-24,,RxNorm Extension,OMOP2053695,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 20 by Galen,Drug,2099-12-31
+Dexamethasone 0.4 MG Oral Capsule [Dexamethason Abz] Box of 100 by Erlenbeck,40855738,2017-08-24,,RxNorm Extension,OMOP2053700,Marketed Product,S,Dexamethasone 0.4 MG Oral Capsule [Dexamethason Abz] Box of 100 by Erlenbeck,Drug,2099-12-31
+dexamethasone 0.1 MG/ML Oral Solution [Decadron],1518851,2008-03-02,,RxNorm,755976,Branded Drug,S,dexamethasone 0.1 MG/ML Oral Solution [Decadron],Drug,2099-12-31
+dexamethasone 0.1 MG/ML Oral Solution [Hexadrol],1518872,2008-03-02,,RxNorm,755977,Branded Drug,S,dexamethasone 0.1 MG/ML Oral Solution [Hexadrol],Drug,2099-12-31
+dexamethasone 0.4 MG Oral Capsule,19103651,1970-01-01,,RxNorm,411225,Clinical Drug,S,dexamethasone 0.4 MG Oral Capsule,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 20,41149177,2017-08-24,,RxNorm Extension,OMOP2347139,Clinical Drug Box,S,Dexamethasone 0.5 MG Oral Tablet Box of 20,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 10,41149178,2017-08-24,,RxNorm Extension,OMOP2347140,Clinical Drug Box,S,Dexamethasone 0.5 MG Oral Tablet Box of 10,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 25,41273500,2017-08-24,,RxNorm Extension,OMOP2471462,Clinical Drug Box,S,Dexamethasone 0.5 MG Oral Tablet Box of 25,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexamethason Abz] Box of 1,41315379,2017-08-24,,RxNorm Extension,OMOP2513341,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Dexamethason Abz] Box of 1,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 600,41315393,2017-08-24,,RxNorm Extension,OMOP2513355,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 600,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexamonozon],41315394,2017-08-24,,RxNorm Extension,OMOP2513356,Branded Drug,S,Dexamethasone 0.5 MG Oral Tablet [Dexamonozon],Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexamed],41315395,2017-08-24,,RxNorm Extension,OMOP2513357,Branded Drug,S,Dexamethasone 0.5 MG Oral Tablet [Dexamed],Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Afpred] Box of 30,41315396,2017-08-24,,RxNorm Extension,OMOP2513358,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Afpred] Box of 30,Drug,2099-12-31
+Dexamethasone 0.5 MG/ML Oral Solution [Infectodexakrupp],41315401,2017-08-24,,RxNorm Extension,OMOP2513363,Branded Drug,S,Dexamethasone 0.5 MG/ML Oral Solution [Infectodexakrupp],Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 50 by Mylan,41323797,2017-08-24,,RxNorm Extension,OMOP2521759,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 50 by Mylan,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexamethason Abz] Box of 20 by Medphano,41323798,2017-08-24,,RxNorm Extension,OMOP2521760,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Dexamethason Abz] Box of 20 by Medphano,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexaflam] Box of 100 by Sanofi,41323799,2017-08-24,,RxNorm Extension,OMOP2521761,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Dexaflam] Box of 100 by Sanofi,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Predni F] Box of 30 by Sanofi,41323809,2017-08-24,,RxNorm Extension,OMOP2521771,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Predni F] Box of 30 by Sanofi,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 600,41304565,2017-08-24,,RxNorm Extension,OMOP2502527,Clinical Drug Box,S,Dexamethasone 0.5 MG Oral Tablet Box of 600,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 300,41304566,2017-08-24,,RxNorm Extension,OMOP2502528,Clinical Drug Box,S,Dexamethasone 0.5 MG Oral Tablet Box of 300,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 250,41304567,2017-08-24,,RxNorm Extension,OMOP2502529,Clinical Drug Box,S,Dexamethasone 0.5 MG Oral Tablet Box of 250,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 150,41304568,2017-08-24,,RxNorm Extension,OMOP2502530,Clinical Drug Box,S,Dexamethasone 0.5 MG Oral Tablet Box of 150,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 1,41180277,2017-08-24,,RxNorm Extension,OMOP2378239,Clinical Drug Box,S,Dexamethasone 0.5 MG Oral Tablet Box of 1,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Millicorten] Box of 100,41222190,2017-08-24,,RxNorm Extension,OMOP2420152,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Millicorten] Box of 100,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Decadron] Box of 150,41222191,2017-08-24,,RxNorm Extension,OMOP2420153,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Decadron] Box of 150,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet [Fortecortin] Box of 200,41222195,2017-08-24,,RxNorm Extension,OMOP2420157,Branded Drug Box,S,Dexamethasone 2 MG Oral Tablet [Fortecortin] Box of 200,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Predni F] Box of 20,41284128,2017-08-24,,RxNorm Extension,OMOP2482090,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Predni F] Box of 20,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 200,41284144,2017-08-24,,RxNorm Extension,OMOP2482106,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 200,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 50,41284145,2017-08-24,,RxNorm Extension,OMOP2482107,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 50,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexamed] Box of 10,41284146,2017-08-24,,RxNorm Extension,OMOP2482108,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Dexamed] Box of 10,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexaflam] Box of 100,41284147,2017-08-24,,RxNorm Extension,OMOP2482109,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Dexaflam] Box of 100,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexaflam] Box of 20,41284148,2017-08-24,,RxNorm Extension,OMOP2482110,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Dexaflam] Box of 20,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet [Fortecortin] Box of 50,41284149,2017-08-24,,RxNorm Extension,OMOP2482111,Branded Drug Box,S,Dexamethasone 2 MG Oral Tablet [Fortecortin] Box of 50,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Predni F],41191069,2017-08-24,,RxNorm Extension,OMOP2389031,Branded Drug,S,Dexamethasone 0.5 MG Oral Tablet [Predni F],Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexamethason Abz],41191084,2017-08-24,,RxNorm Extension,OMOP2389046,Branded Drug,S,Dexamethasone 0.5 MG Oral Tablet [Dexamethason Abz],Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Auxiloson] Box of 50,41191085,2017-08-24,,RxNorm Extension,OMOP2389047,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Auxiloson] Box of 50,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet by Essential Generics,35752984,2017-08-24,,RxNorm Extension,OMOP2754445,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet by Essential Generics,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 28 by Essential Generics,35769727,2017-08-24,,RxNorm Extension,OMOP2771188,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 28 by Essential Generics,Drug,2099-12-31
+2 ML Dexamethasone 4 MG/ML Prefilled Syringe,21107263,2017-08-24,,RxNorm Extension,OMOP303246,Quant Clinical Drug,S,2 ML Dexamethasone 4 MG/ML Prefilled Syringe,Drug,2099-12-31
+2 ML Dexamethasone 4 MG/ML Prefilled Syringe by Organon,21126742,2017-08-24,,RxNorm Extension,OMOP303247,Marketed Product,S,2 ML Dexamethasone 4 MG/ML Prefilled Syringe by Organon,Drug,2099-12-31
+2 ML Dexamethasone 4 MG/ML Prefilled Syringe by Alliance,21156450,2017-08-24,,RxNorm Extension,OMOP303248,Marketed Product,S,2 ML Dexamethasone 4 MG/ML Prefilled Syringe by Alliance,Drug,2099-12-31
+2 ML Dexamethasone 4 MG/ML Prefilled Syringe by A A H,21107264,2017-08-24,,RxNorm Extension,OMOP303249,Marketed Product,S,2 ML Dexamethasone 4 MG/ML Prefilled Syringe by A A H,Drug,2099-12-31
+2 ML Dexamethasone 4 MG/ML Prefilled Syringe Box of 10,21038537,2017-08-24,,RxNorm Extension,OMOP303250,Quant Clinical Box,S,2 ML Dexamethasone 4 MG/ML Prefilled Syringe Box of 10,Drug,2099-12-31
+2 ML Dexamethasone 4 MG/ML Prefilled Syringe Box of 10 by Organon,21068027,2017-08-24,,RxNorm Extension,OMOP303251,Marketed Product,S,2 ML Dexamethasone 4 MG/ML Prefilled Syringe Box of 10 by Organon,Drug,2099-12-31
+2 ML Dexamethasone 4 MG/ML Prefilled Syringe Box of 10 by Alliance,21068028,2017-08-24,,RxNorm Extension,OMOP303253,Marketed Product,S,2 ML Dexamethasone 4 MG/ML Prefilled Syringe Box of 10 by Alliance,Drug,2099-12-31
+2 ML Dexamethasone 4 MG/ML Prefilled Syringe Box of 10 by A A H,21048340,2017-08-24,,RxNorm Extension,OMOP303254,Marketed Product,S,2 ML Dexamethasone 4 MG/ML Prefilled Syringe Box of 10 by A A H,Drug,2099-12-31
+2 ML Dexamethasone 3 MG/ML Prefilled Syringe,21028732,2017-08-24,,RxNorm Extension,OMOP303255,Quant Clinical Drug,S,2 ML Dexamethasone 3 MG/ML Prefilled Syringe,Drug,2099-12-31
+2 ML Dexamethasone 3 MG/ML Prefilled Syringe by Hospira,21166218,2017-08-24,,RxNorm Extension,OMOP303256,Marketed Product,S,2 ML Dexamethasone 3 MG/ML Prefilled Syringe by Hospira,Drug,2099-12-31
+2 ML Dexamethasone 3 MG/ML Prefilled Syringe by Hameln,21136630,2017-08-24,,RxNorm Extension,OMOP303257,Marketed Product,S,2 ML Dexamethasone 3 MG/ML Prefilled Syringe by Hameln,Drug,2099-12-31
+2 ML Dexamethasone 3 MG/ML Prefilled Syringe by Alliance,21048341,2017-08-24,,RxNorm Extension,OMOP303258,Marketed Product,S,2 ML Dexamethasone 3 MG/ML Prefilled Syringe by Alliance,Drug,2099-12-31
+2 ML Dexamethasone 3 MG/ML Prefilled Syringe by A A H,21068029,2017-08-24,,RxNorm Extension,OMOP303259,Marketed Product,S,2 ML Dexamethasone 3 MG/ML Prefilled Syringe by A A H,Drug,2099-12-31
+2 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 5,21146473,2017-08-24,,RxNorm Extension,OMOP303260,Quant Clinical Box,S,2 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 5,Drug,2099-12-31
+2 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 5 by Hospira,21038538,2017-08-24,,RxNorm Extension,OMOP303261,Marketed Product,S,2 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 5 by Hospira,Drug,2099-12-31
+2 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 5 by Hameln,21097404,2017-08-24,,RxNorm Extension,OMOP303262,Marketed Product,S,2 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 5 by Hameln,Drug,2099-12-31
+2 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 5 by Alliance,21126743,2017-08-24,,RxNorm Extension,OMOP303264,Marketed Product,S,2 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 5 by Alliance,Drug,2099-12-31
+2 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 5 by A A H,21068030,2017-08-24,,RxNorm Extension,OMOP303265,Marketed Product,S,2 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 5 by A A H,Drug,2099-12-31
+1 ML Dexamethasone 1 MG/ML Oral Solution,21155810,2017-08-24,,RxNorm Extension,OMOP291522,Quant Clinical Drug,S,1 ML Dexamethasone 1 MG/ML Oral Solution,Drug,2099-12-31
+1 ML Dexamethasone 1 MG/ML Oral Suspension,21106626,2017-08-24,,RxNorm Extension,OMOP291524,Quant Clinical Drug,S,1 ML Dexamethasone 1 MG/ML Oral Suspension,Drug,2099-12-31
+1 ML Dexamethasone 0.1 MG/ML Oral Solution,21135988,2017-08-24,,RxNorm Extension,OMOP291540,Quant Clinical Drug,S,1 ML Dexamethasone 0.1 MG/ML Oral Solution,Drug,2099-12-31
+1 ML Dexamethasone 0.1 MG/ML Oral Suspension,21096788,2017-08-24,,RxNorm Extension,OMOP291542,Quant Clinical Drug,S,1 ML Dexamethasone 0.1 MG/ML Oral Suspension,Drug,2099-12-31
+1 ML Dexamethasone 0.5 MG/ML Oral Solution,21126126,2017-08-24,,RxNorm Extension,OMOP291544,Quant Clinical Drug,S,1 ML Dexamethasone 0.5 MG/ML Oral Solution,Drug,2099-12-31
+1 ML Dexamethasone 0.5 MG/ML Oral Suspension,21145862,2017-08-24,,RxNorm Extension,OMOP291546,Quant Clinical Drug,S,1 ML Dexamethasone 0.5 MG/ML Oral Suspension,Drug,2099-12-31
+1 ML Dexamethasone 4 MG/ML Prefilled Syringe by Aspen,21165616,2017-08-24,,RxNorm Extension,OMOP291562,Marketed Product,S,1 ML Dexamethasone 4 MG/ML Prefilled Syringe by Aspen,Drug,2099-12-31
+1 ML Dexamethasone 4 MG/ML Prefilled Syringe by Alliance,21028107,2017-08-24,,RxNorm Extension,OMOP291563,Marketed Product,S,1 ML Dexamethasone 4 MG/ML Prefilled Syringe by Alliance,Drug,2099-12-31
+1 ML Dexamethasone 4 MG/ML Prefilled Syringe by A A H,21145865,2017-08-24,,RxNorm Extension,OMOP291564,Marketed Product,S,1 ML Dexamethasone 4 MG/ML Prefilled Syringe by A A H,Drug,2099-12-31
+1 ML Dexamethasone 4 MG/ML Prefilled Syringe Box of 10,21057547,2017-08-24,,RxNorm Extension,OMOP291565,Quant Clinical Box,S,1 ML Dexamethasone 4 MG/ML Prefilled Syringe Box of 10,Drug,2099-12-31
+1 ML Dexamethasone 4 MG/ML Prefilled Syringe Box of 10 by Aspen,21145866,2017-08-24,,RxNorm Extension,OMOP291566,Marketed Product,S,1 ML Dexamethasone 4 MG/ML Prefilled Syringe Box of 10 by Aspen,Drug,2099-12-31
+1 ML Dexamethasone 4 MG/ML Prefilled Syringe Box of 10 by Alliance,21037913,2017-08-24,,RxNorm Extension,OMOP291567,Marketed Product,S,1 ML Dexamethasone 4 MG/ML Prefilled Syringe Box of 10 by Alliance,Drug,2099-12-31
+1 ML Dexamethasone 4 MG/ML Prefilled Syringe Box of 10 by A A H,21067383,2017-08-24,,RxNorm Extension,OMOP291568,Marketed Product,S,1 ML Dexamethasone 4 MG/ML Prefilled Syringe Box of 10 by A A H,Drug,2099-12-31
+1 ML Dexamethasone 3 MG/ML Prefilled Syringe,21106629,2017-08-24,,RxNorm Extension,OMOP291574,Quant Clinical Drug,S,1 ML Dexamethasone 3 MG/ML Prefilled Syringe,Drug,2099-12-31
+1 ML Dexamethasone 3 MG/ML Prefilled Syringe by Hospira,21126128,2017-08-24,,RxNorm Extension,OMOP291575,Marketed Product,S,1 ML Dexamethasone 3 MG/ML Prefilled Syringe by Hospira,Drug,2099-12-31
+1 ML Dexamethasone 3 MG/ML Prefilled Syringe by Hameln,21028108,2017-08-24,,RxNorm Extension,OMOP291576,Marketed Product,S,1 ML Dexamethasone 3 MG/ML Prefilled Syringe by Hameln,Drug,2099-12-31
+1 ML Dexamethasone 3 MG/ML Prefilled Syringe by Alliance,21067384,2017-08-24,,RxNorm Extension,OMOP291577,Marketed Product,S,1 ML Dexamethasone 3 MG/ML Prefilled Syringe by Alliance,Drug,2099-12-31
+1 ML Dexamethasone 3 MG/ML Prefilled Syringe by A A H,21087011,2017-08-24,,RxNorm Extension,OMOP291578,Marketed Product,S,1 ML Dexamethasone 3 MG/ML Prefilled Syringe by A A H,Drug,2099-12-31
+1 ML Dexamethasone 3 MG/ML Prefilled Syringe by Wockhardt,21087012,2017-08-24,,RxNorm Extension,OMOP291579,Marketed Product,S,1 ML Dexamethasone 3 MG/ML Prefilled Syringe by Wockhardt,Drug,2099-12-31
+1 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 5,21037914,2017-08-24,,RxNorm Extension,OMOP291580,Quant Clinical Box,S,1 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 5,Drug,2099-12-31
+1 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 5 by Hospira,21175334,2017-08-24,,RxNorm Extension,OMOP291582,Marketed Product,S,1 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 5 by Hospira,Drug,2099-12-31
+1 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 5 by Hameln,21175335,2017-08-24,,RxNorm Extension,OMOP291583,Marketed Product,S,1 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 5 by Hameln,Drug,2099-12-31
+1 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 5 by Alliance,21037915,2017-08-24,,RxNorm Extension,OMOP291584,Marketed Product,S,1 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 5 by Alliance,Drug,2099-12-31
+1 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 5 by A A H,21067385,2017-08-24,,RxNorm Extension,OMOP291585,Marketed Product,S,1 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 5 by A A H,Drug,2099-12-31
+1 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 10,21087013,2017-08-24,,RxNorm Extension,OMOP291586,Quant Clinical Box,S,1 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 10,Drug,2099-12-31
+1 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 10 by Hameln,21126129,2017-08-24,,RxNorm Extension,OMOP291587,Marketed Product,S,1 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 10 by Hameln,Drug,2099-12-31
+1 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 10 by Alliance,21037916,2017-08-24,,RxNorm Extension,OMOP291588,Marketed Product,S,1 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 10 by Alliance,Drug,2099-12-31
+1 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 10 by A A H,21116401,2017-08-24,,RxNorm Extension,OMOP291589,Marketed Product,S,1 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 10 by A A H,Drug,2099-12-31
+1 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 10 by Wockhardt,21057548,2017-08-24,,RxNorm Extension,OMOP291590,Marketed Product,S,1 ML Dexamethasone 3 MG/ML Prefilled Syringe Box of 10 by Wockhardt,Drug,2099-12-31
+1 ML Dexamethasone 0.2 MG/ML Oral Solution,21116402,2017-08-24,,RxNorm Extension,OMOP291591,Quant Clinical Drug,S,1 ML Dexamethasone 0.2 MG/ML Oral Solution,Drug,2099-12-31
+1 ML Dexamethasone 0.2 MG/ML Oral Suspension,21047745,2017-08-24,,RxNorm Extension,OMOP291594,Quant Clinical Drug,S,1 ML Dexamethasone 0.2 MG/ML Oral Suspension,Drug,2099-12-31
+1 ML Dexamethasone 0.02 MG/ML Oral Solution,21067387,2017-08-24,,RxNorm Extension,OMOP291605,Quant Clinical Drug,S,1 ML Dexamethasone 0.02 MG/ML Oral Solution,Drug,2099-12-31
+1 ML Dexamethasone 0.02 MG/ML Oral Suspension,21077280,2017-08-24,,RxNorm Extension,OMOP291607,Quant Clinical Drug,S,1 ML Dexamethasone 0.02 MG/ML Oral Suspension,Drug,2099-12-31
+1 ML Dexamethasone 0.4 MG/ML Oral Solution,21155814,2017-08-24,,RxNorm Extension,OMOP291611,Quant Clinical Drug,S,1 ML Dexamethasone 0.4 MG/ML Oral Solution,Drug,2099-12-31
+1 ML Dexamethasone 0.04 MG/ML Oral Solution,21028112,2017-08-24,,RxNorm Extension,OMOP291638,Quant Clinical Drug,S,1 ML Dexamethasone 0.04 MG/ML Oral Solution,Drug,2099-12-31
+1 ML Dexamethasone 0.04 MG/ML Oral Suspension,21028113,2017-08-24,,RxNorm Extension,OMOP291640,Quant Clinical Drug,S,1 ML Dexamethasone 0.04 MG/ML Oral Suspension,Drug,2099-12-31
+5 ML Dexamethasone 20 MG/ML Prefilled Syringe,21068238,2017-08-24,,RxNorm Extension,OMOP307188,Quant Clinical Drug,S,5 ML Dexamethasone 20 MG/ML Prefilled Syringe,Drug,2099-12-31
+5 ML Dexamethasone 20 MG/ML Prefilled Syringe by Hospira,21097606,2017-08-24,,RxNorm Extension,OMOP307189,Marketed Product,S,5 ML Dexamethasone 20 MG/ML Prefilled Syringe by Hospira,Drug,2099-12-31
+5 ML Dexamethasone 20 MG/ML Prefilled Syringe by A A H,21117206,2017-08-24,,RxNorm Extension,OMOP307190,Marketed Product,S,5 ML Dexamethasone 20 MG/ML Prefilled Syringe by A A H,Drug,2099-12-31
+5 ML Dexamethasone 20 MG/ML Prefilled Syringe Box of 1,21166401,2017-08-24,,RxNorm Extension,OMOP307191,Quant Clinical Box,S,5 ML Dexamethasone 20 MG/ML Prefilled Syringe Box of 1,Drug,2099-12-31
+5 ML Dexamethasone 20 MG/ML Prefilled Syringe Box of 1 by Hospira,21176167,2017-08-24,,RxNorm Extension,OMOP307193,Marketed Product,S,5 ML Dexamethasone 20 MG/ML Prefilled Syringe Box of 1 by Hospira,Drug,2099-12-31
+5 ML Dexamethasone 20 MG/ML Prefilled Syringe Box of 1 by A A H,21136831,2017-08-24,,RxNorm Extension,OMOP307194,Marketed Product,S,5 ML Dexamethasone 20 MG/ML Prefilled Syringe Box of 1 by A A H,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexamed] Box of 125,41253150,2017-08-24,,RxNorm Extension,OMOP2451112,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Dexamed] Box of 125,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Predni F] Box of 30,41253151,2017-08-24,,RxNorm Extension,OMOP2451113,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Predni F] Box of 30,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Decadron] Box of 100,41253152,2017-08-24,,RxNorm Extension,OMOP2451114,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Decadron] Box of 100,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexaflam] Box of 20 by Sanofi,41292455,2017-08-24,,RxNorm Extension,OMOP2490417,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Dexaflam] Box of 20 by Sanofi,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 50 by Mibe,41292456,2017-08-24,,RxNorm Extension,OMOP2490418,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 50 by Mibe,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 100 by Galen,41292463,2017-08-24,,RxNorm Extension,OMOP2490425,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 100 by Galen,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 100 by Jenapharm,41230580,2017-08-24,,RxNorm Extension,OMOP2428542,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 100 by Jenapharm,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Predni F] Box of 30 by Beiersdorf,41230587,2017-08-24,,RxNorm Extension,OMOP2428549,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Predni F] Box of 30 by Beiersdorf,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 30 by Mylan,41230588,2017-08-24,,RxNorm Extension,OMOP2428550,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 30 by Mylan,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Cortidexason] Box of 50 by DermaPharm,41230589,2017-08-24,,RxNorm Extension,OMOP2428551,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Cortidexason] Box of 50 by DermaPharm,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet [Fortecortin] Box of 20 by Mylan,41230590,2017-08-24,,RxNorm Extension,OMOP2428552,Marketed Product,S,Dexamethasone 2 MG Oral Tablet [Fortecortin] Box of 20 by Mylan,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Millicorten] Box of 30,41159941,2017-08-24,,RxNorm Extension,OMOP2357903,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Millicorten] Box of 30,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 30,41159942,2017-08-24,,RxNorm Extension,OMOP2357904,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Fortecortin] Box of 30,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Auxiloson],41159943,2017-08-24,,RxNorm Extension,OMOP2357905,Branded Drug,S,Dexamethasone 0.5 MG Oral Tablet [Auxiloson],Drug,2099-12-31
+Dexamethasone 0.5 MG/ML Oral Solution [Infectodexakrupp] Box of 1,41159951,2017-08-24,,RxNorm Extension,OMOP2357913,Branded Drug Box,S,Dexamethasone 0.5 MG/ML Oral Solution [Infectodexakrupp] Box of 1,Drug,2099-12-31
+30 ML Dexamethasone 0.5 MG/ML Oral Solution,41384989,2017-08-24,,RxNorm Extension,OMOP2582951,Quant Clinical Drug,S,30 ML Dexamethasone 0.5 MG/ML Oral Solution,Drug,2099-12-31
+30 ML Dexamethasone 0.5 MG/ML Oral Solution [Infectodexakrupp] Box of 1,41385717,2017-08-24,,RxNorm Extension,OMOP2583679,Quant Branded Box,S,30 ML Dexamethasone 0.5 MG/ML Oral Solution [Infectodexakrupp] Box of 1,Drug,2099-12-31
+30 ML Dexamethasone 0.5 MG/ML Oral Solution Box of 1,41387037,2017-08-24,,RxNorm Extension,OMOP2584999,Quant Clinical Box,S,30 ML Dexamethasone 0.5 MG/ML Oral Solution Box of 1,Drug,2099-12-31
+30 ML Dexamethasone 0.5 MG/ML Oral Solution [Infectodexakrupp] Box of 1 by Infectopharm,41388366,2017-08-24,,RxNorm Extension,OMOP2586328,Marketed Product,S,30 ML Dexamethasone 0.5 MG/ML Oral Solution [Infectodexakrupp] Box of 1 by Infectopharm,Drug,2099-12-31
+30 ML Dexamethasone 0.5 MG/ML Oral Solution [Infectodexakrupp],41389105,2017-08-24,,RxNorm Extension,OMOP2587067,Quant Branded Drug,S,30 ML Dexamethasone 0.5 MG/ML Oral Solution [Infectodexakrupp],Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [DECTANCYL],43213647,2017-08-24,,RxNorm Extension,OMOP464748,Branded Drug,S,Dexamethasone 0.5 MG Oral Tablet [DECTANCYL],Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [DECTANCYL] Box of 30,43169801,2017-08-24,,RxNorm Extension,OMOP464750,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [DECTANCYL] Box of 30,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [DECTANCYL] Box of 30 by Sanofi,43158931,2017-08-24,,RxNorm Extension,OMOP464751,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [DECTANCYL] Box of 30 by Sanofi,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet by Teva Takeda,35161252,2019-03-11,,RxNorm Extension,OMOP4818225,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet by Teva Takeda,Drug,2099-12-31
+1 ML Dexamethasone 0.1 MG/ML Oral Solution [Decadron],35161862,2019-03-11,,RxNorm Extension,OMOP4818826,Quant Branded Drug,S,1 ML Dexamethasone 0.1 MG/ML Oral Solution [Decadron],Drug,2099-12-31
+150 ML Dexamethasone 0.4 MG/ML Oral Solution by AMCo,36809113,2019-01-28,,RxNorm Extension,OMOP4823151,Marketed Product,S,150 ML Dexamethasone 0.4 MG/ML Oral Solution by AMCo,Drug,2099-12-31
+Dexamethasone 0.4 MG/ML Oral Solution by AMCo,36810846,2019-01-28,,RxNorm Extension,OMOP4824882,Marketed Product,S,Dexamethasone 0.4 MG/ML Oral Solution by AMCo,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet [Glensoludex],40738334,2018-06-04,,RxNorm Extension,OMOP4718794,Branded Drug,S,Dexamethasone 2 MG Oral Tablet [Glensoludex],Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet [Glensoludex] by Glenmark,40738333,2018-06-04,,RxNorm Extension,OMOP4718795,Marketed Product,S,Dexamethasone 2 MG Oral Tablet [Glensoludex] by Glenmark,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet [Glensoludex] Box of 50,40738332,2018-06-04,,RxNorm Extension,OMOP4718796,Branded Drug Box,S,Dexamethasone 2 MG Oral Tablet [Glensoludex] Box of 50,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet [Glensoludex] Box of 50 by Glenmark,40738331,2018-06-04,,RxNorm Extension,OMOP4718797,Marketed Product,S,Dexamethasone 2 MG Oral Tablet [Glensoludex] Box of 50 by Glenmark,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet by Sigma,40738413,2018-06-04,,RxNorm Extension,OMOP4718798,Marketed Product,S,Dexamethasone 2 MG Oral Tablet by Sigma,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet by Phoenix Healthcare Distribution,40738330,2018-06-04,,RxNorm Extension,OMOP4718799,Marketed Product,S,Dexamethasone 2 MG Oral Tablet by Phoenix Healthcare Distribution,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet by Aspire,40738329,2018-06-04,,RxNorm Extension,OMOP4718800,Marketed Product,S,Dexamethasone 2 MG Oral Tablet by Aspire,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet by TEVA,40738328,2018-06-04,,RxNorm Extension,OMOP4718801,Marketed Product,S,Dexamethasone 2 MG Oral Tablet by TEVA,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet by Glenmark,40738327,2018-06-04,,RxNorm Extension,OMOP4718802,Marketed Product,S,Dexamethasone 2 MG Oral Tablet by Glenmark,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 50 by Sigma,40738326,2018-06-04,,RxNorm Extension,OMOP4718803,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 50 by Sigma,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 50 by Phoenix Healthcare Distribution,40738325,2018-06-04,,RxNorm Extension,OMOP4718804,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 50 by Phoenix Healthcare Distribution,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 50 by Aspire,40738324,2018-06-04,,RxNorm Extension,OMOP4718805,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 50 by Aspire,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 50 by TEVA,40738323,2018-06-04,,RxNorm Extension,OMOP4718806,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 50 by TEVA,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 50 by Glenmark,40738322,2018-06-04,,RxNorm Extension,OMOP4718807,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 50 by Glenmark,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 100 by Sigma,40738321,2018-06-04,,RxNorm Extension,OMOP4718808,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 100 by Sigma,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 100 by Phoenix Healthcare Distribution,40738320,2018-06-04,,RxNorm Extension,OMOP4718809,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 100 by Phoenix Healthcare Distribution,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 100 by TEVA,40738319,2018-06-04,,RxNorm Extension,OMOP4718810,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 100 by TEVA,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 500 by Sigma,40738869,2018-06-04,,RxNorm Extension,OMOP4718811,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 500 by Sigma,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 500 by Phoenix Healthcare Distribution,40738868,2018-06-04,,RxNorm Extension,OMOP4718812,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 500 by Phoenix Healthcare Distribution,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 500 by TEVA,40738867,2018-06-04,,RxNorm Extension,OMOP4718813,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 500 by TEVA,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet by Sigma,40738866,2018-06-04,,RxNorm Extension,OMOP4718814,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet by Sigma,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet by Consilient,40738865,2018-06-04,,RxNorm Extension,OMOP4718815,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet by Consilient,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet by TEVA,40738864,2018-06-04,,RxNorm Extension,OMOP4718816,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet by TEVA,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 28 by Sigma,40738863,2018-06-04,,RxNorm Extension,OMOP4718817,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 28 by Sigma,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 28 by Aspire,40738862,2018-06-04,,RxNorm Extension,OMOP4718818,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 28 by Aspire,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 28 by TEVA,40738861,2018-06-04,,RxNorm Extension,OMOP4718819,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 28 by TEVA,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 30 by Sigma,40738860,2018-06-04,,RxNorm Extension,OMOP4718820,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 30 by Sigma,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 30 by A A H,40738859,2018-06-04,,RxNorm Extension,OMOP4718821,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 30 by A A H,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 30 by Consilient,40738858,2018-06-04,,RxNorm Extension,OMOP4718822,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 30 by Consilient,Drug,2099-12-31
+Dexamethasone 0.4 MG/ML Oral Solution by Sigma,40738832,2018-06-04,,RxNorm Extension,OMOP4718848,Marketed Product,S,Dexamethasone 0.4 MG/ML Oral Solution by Sigma,Drug,2099-12-31
+Dexamethasone 0.4 MG/ML Oral Solution by TEVA,40738831,2018-06-04,,RxNorm Extension,OMOP4718849,Marketed Product,S,Dexamethasone 0.4 MG/ML Oral Solution by TEVA,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [YUHAN DEXAMETHASONE],42948544,2018-08-21,,RxNorm Extension,OMOP4675133,Branded Drug,S,Dexamethasone 0.5 MG Oral Tablet [YUHAN DEXAMETHASONE],Drug,2099-12-31
+150 ML Dexamethasone 0.4 MG/ML Oral Solution by Sigma,40711224,2018-06-04,,RxNorm Extension,OMOP4745969,Marketed Product,S,150 ML Dexamethasone 0.4 MG/ML Oral Solution by Sigma,Drug,2099-12-31
+150 ML Dexamethasone 0.4 MG/ML Oral Solution by TEVA,40711223,2018-06-04,,RxNorm Extension,OMOP4745970,Marketed Product,S,150 ML Dexamethasone 0.4 MG/ML Oral Solution by TEVA,Drug,2099-12-31
+1 ML Dexamethasone 0.1 MG/ML Oral Solution by Towa,35142078,2019-03-11,,RxNorm Extension,OMOP4799199,Marketed Product,S,1 ML Dexamethasone 0.1 MG/ML Oral Solution by Towa,Drug,2099-12-31
+1 ML Dexamethasone 0.1 MG/ML Oral Solution by Nissin,35142689,2019-03-11,,RxNorm Extension,OMOP4799800,Marketed Product,S,1 ML Dexamethasone 0.1 MG/ML Oral Solution by Nissin,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet by Mawdsley-Brooks,21130235,2017-08-24,,RxNorm Extension,OMOP352354,Marketed Product,S,Dexamethasone 2 MG Oral Tablet by Mawdsley-Brooks,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet by Aspen,21081305,2017-08-24,,RxNorm Extension,OMOP352355,Marketed Product,S,Dexamethasone 2 MG Oral Tablet by Aspen,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet by Phoenix Labs,21071595,2017-08-24,,RxNorm Extension,OMOP352356,Marketed Product,S,Dexamethasone 2 MG Oral Tablet by Phoenix Labs,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet by Kent,21120468,2017-08-24,,RxNorm Extension,OMOP352357,Marketed Product,S,Dexamethasone 2 MG Oral Tablet by Kent,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet by Sigma-Tau,21130236,2017-08-24,,RxNorm Extension,OMOP352358,Marketed Product,S,Dexamethasone 2 MG Oral Tablet by Sigma-Tau,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet by Alliance,21061655,2017-08-24,,RxNorm Extension,OMOP352359,Marketed Product,S,Dexamethasone 2 MG Oral Tablet by Alliance,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet by Waymade,21150008,2017-08-24,,RxNorm Extension,OMOP352360,Marketed Product,S,Dexamethasone 2 MG Oral Tablet by Waymade,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet by DE,21051863,2017-08-24,,RxNorm Extension,OMOP352361,Marketed Product,S,Dexamethasone 2 MG Oral Tablet by DE,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet by A A H,21032177,2017-08-24,,RxNorm Extension,OMOP352363,Marketed Product,S,Dexamethasone 2 MG Oral Tablet by A A H,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet by Actavis,21140169,2017-08-24,,RxNorm Extension,OMOP352364,Marketed Product,S,Dexamethasone 2 MG Oral Tablet by Actavis,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet by Almus,21061656,2017-08-24,,RxNorm Extension,OMOP352365,Marketed Product,S,Dexamethasone 2 MG Oral Tablet by Almus,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 50,21061657,2017-08-24,,RxNorm Extension,OMOP352366,Clinical Drug Box,S,Dexamethasone 2 MG Oral Tablet Box of 50,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 50 by Mawdsley-Brooks,21140170,2017-08-24,,RxNorm Extension,OMOP352367,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 50 by Mawdsley-Brooks,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 50 by Aspen,21032178,2017-08-24,,RxNorm Extension,OMOP352368,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 50 by Aspen,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 50 by Phoenix Labs,21061658,2017-08-24,,RxNorm Extension,OMOP352369,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 50 by Phoenix Labs,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 50 by Kent,21081306,2017-08-24,,RxNorm Extension,OMOP352370,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 50 by Kent,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 50 by Sigma-Tau,21022442,2017-08-24,,RxNorm Extension,OMOP352371,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 50 by Sigma-Tau,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 50 by Alliance,21061659,2017-08-24,,RxNorm Extension,OMOP352372,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 50 by Alliance,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 50 by Waymade,21110799,2017-08-24,,RxNorm Extension,OMOP352374,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 50 by Waymade,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 50 by DE,21140171,2017-08-24,,RxNorm Extension,OMOP352375,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 50 by DE,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 50 by A A H,21071596,2017-08-24,,RxNorm Extension,OMOP352376,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 50 by A A H,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 50 by Actavis,21169760,2017-08-24,,RxNorm Extension,OMOP352377,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 50 by Actavis,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 50 by Almus,21140172,2017-08-24,,RxNorm Extension,OMOP352378,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 50 by Almus,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 100,21159966,2017-08-24,,RxNorm Extension,OMOP352379,Clinical Drug Box,S,Dexamethasone 2 MG Oral Tablet Box of 100,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 100 by Mawdsley-Brooks,21061660,2017-08-24,,RxNorm Extension,OMOP352380,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 100 by Mawdsley-Brooks,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 100 by Aspen,21140173,2017-08-24,,RxNorm Extension,OMOP352381,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 100 by Aspen,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 100 by Phoenix Labs,21091041,2017-08-24,,RxNorm Extension,OMOP352382,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 100 by Phoenix Labs,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 100 by Sigma-Tau,21150009,2017-08-24,,RxNorm Extension,OMOP352383,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 100 by Sigma-Tau,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 100 by Alliance,21071597,2017-08-24,,RxNorm Extension,OMOP352384,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 100 by Alliance,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 100 by Waymade,21169761,2017-08-24,,RxNorm Extension,OMOP352385,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 100 by Waymade,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 100 by DE,21071598,2017-08-24,,RxNorm Extension,OMOP352386,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 100 by DE,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 100 by A A H,21169762,2017-08-24,,RxNorm Extension,OMOP352387,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 100 by A A H,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 100 by Actavis,21061661,2017-08-24,,RxNorm Extension,OMOP352388,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 100 by Actavis,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 100 by Almus,21061662,2017-08-24,,RxNorm Extension,OMOP352389,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 100 by Almus,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 500,21042124,2017-08-24,,RxNorm Extension,OMOP352390,Clinical Drug Box,S,Dexamethasone 2 MG Oral Tablet Box of 500,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 500 by Aspen,21150010,2017-08-24,,RxNorm Extension,OMOP352391,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 500 by Aspen,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 500 by Phoenix Labs,21120469,2017-08-24,,RxNorm Extension,OMOP352392,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 500 by Phoenix Labs,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 500 by Sigma-Tau,21032179,2017-08-24,,RxNorm Extension,OMOP352393,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 500 by Sigma-Tau,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 500 by Alliance,21140174,2017-08-24,,RxNorm Extension,OMOP352395,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 500 by Alliance,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 500 by A A H,21150011,2017-08-24,,RxNorm Extension,OMOP352396,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 500 by A A H,Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet Box of 500 by Actavis,21081307,2017-08-24,,RxNorm Extension,OMOP352397,Marketed Product,S,Dexamethasone 2 MG Oral Tablet Box of 500 by Actavis,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet by Aspire,21071599,2017-08-24,,RxNorm Extension,OMOP352437,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet by Aspire,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet by Organon,21042128,2017-08-24,,RxNorm Extension,OMOP352438,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet by Organon,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet by Sigma-Tau,21120474,2017-08-24,,RxNorm Extension,OMOP352439,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet by Sigma-Tau,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet by Alliance,21071600,2017-08-24,,RxNorm Extension,OMOP352440,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet by Alliance,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet by DE,21130237,2017-08-24,,RxNorm Extension,OMOP352441,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet by DE,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet by A A H,21130238,2017-08-24,,RxNorm Extension,OMOP352442,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet by A A H,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet by Actavis,21100966,2017-08-24,,RxNorm Extension,OMOP352443,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet by Actavis,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet by Generics,21061668,2017-08-24,,RxNorm Extension,OMOP352444,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet by Generics,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 28,21100967,2017-08-24,,RxNorm Extension,OMOP352445,Clinical Drug Box,S,Dexamethasone 0.5 MG Oral Tablet Box of 28,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 28 by Sigma-Tau,21061669,2017-08-24,,RxNorm Extension,OMOP352446,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 28 by Sigma-Tau,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 28 by Alliance,21150013,2017-08-24,,RxNorm Extension,OMOP352447,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 28 by Alliance,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 28 by A A H,21169768,2017-08-24,,RxNorm Extension,OMOP352448,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 28 by A A H,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 28 by Actavis,21081309,2017-08-24,,RxNorm Extension,OMOP352449,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 28 by Actavis,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 28 by Generics,21032184,2017-08-24,,RxNorm Extension,OMOP352450,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 28 by Generics,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 30,21061670,2017-08-24,,RxNorm Extension,OMOP352451,Clinical Drug Box,S,Dexamethasone 0.5 MG Oral Tablet Box of 30,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 30 by Aspire,21022445,2017-08-24,,RxNorm Extension,OMOP352452,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 30 by Aspire,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 30 by Sigma-Tau,21100968,2017-08-24,,RxNorm Extension,OMOP352454,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 30 by Sigma-Tau,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 30 by Alliance,21100969,2017-08-24,,RxNorm Extension,OMOP352455,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 30 by Alliance,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 30 by DE,21150014,2017-08-24,,RxNorm Extension,OMOP352456,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 30 by DE,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 50,21061671,2017-08-24,,RxNorm Extension,OMOP352457,Clinical Drug Box,S,Dexamethasone 0.5 MG Oral Tablet Box of 50,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 50 by Organon,21061672,2017-08-24,,RxNorm Extension,OMOP352458,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 50 by Organon,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 50 by Alliance,21091043,2017-08-24,,RxNorm Extension,OMOP352459,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 50 by Alliance,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 50 by A A H,21061673,2017-08-24,,RxNorm Extension,OMOP352460,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 50 by A A H,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 100,21100970,2017-08-24,,RxNorm Extension,OMOP352461,Clinical Drug Box,S,Dexamethasone 0.5 MG Oral Tablet Box of 100,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 100 by Organon,21150015,2017-08-24,,RxNorm Extension,OMOP352462,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 100 by Organon,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 100 by Alliance,21051868,2017-08-24,,RxNorm Extension,OMOP352463,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 100 by Alliance,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 100 by A A H,21140177,2017-08-24,,RxNorm Extension,OMOP352464,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 100 by A A H,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 500,21169769,2017-08-24,,RxNorm Extension,OMOP352465,Clinical Drug Box,S,Dexamethasone 0.5 MG Oral Tablet Box of 500,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 500 by Organon,21061674,2017-08-24,,RxNorm Extension,OMOP352466,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 500 by Organon,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 500 by Alliance,21120475,2017-08-24,,RxNorm Extension,OMOP352467,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 500 by Alliance,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet Box of 500 by A A H,21091044,2017-08-24,,RxNorm Extension,OMOP352468,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet Box of 500 by A A H,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Decadron] by Merck,21159968,2017-08-24,,RxNorm Extension,OMOP352469,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Decadron] by Merck,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Decadron] Box of 30,21140178,2017-08-24,,RxNorm Extension,OMOP352470,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Decadron] Box of 30,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Decadron] Box of 30 by Merck,21042129,2017-08-24,,RxNorm Extension,OMOP352471,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Decadron] Box of 30 by Merck,Drug,2099-12-31
+Dexamethasone 0.1 MG Oral Capsule,21081312,2017-08-24,,RxNorm Extension,OMOP352486,Clinical Drug,S,Dexamethasone 0.1 MG Oral Capsule,Drug,2099-12-31
+Dexamethasone 0.1 MG Oral Capsule Box of 1,21061676,2017-08-24,,RxNorm Extension,OMOP352488,Clinical Drug Box,S,Dexamethasone 0.1 MG Oral Capsule Box of 1,Drug,2099-12-31
+Dexamethasone 0.02 MG/ML Oral Solution,21140180,2017-08-24,,RxNorm Extension,OMOP352490,Clinical Drug,S,Dexamethasone 0.02 MG/ML Oral Solution,Drug,2099-12-31
+Dexamethasone 0.02 MG/ML Oral Suspension,21100972,2017-08-24,,RxNorm Extension,OMOP352492,Clinical Drug,S,Dexamethasone 0.02 MG/ML Oral Suspension,Drug,2099-12-31
+Dexamethasone 0.4 MG Oral Capsule Box of 1,21169771,2017-08-24,,RxNorm Extension,OMOP352496,Clinical Drug Box,S,Dexamethasone 0.4 MG Oral Capsule Box of 1,Drug,2099-12-31
+Dexamethasone 0.4 MG/ML Oral Solution by Focus,21150018,2017-08-24,,RxNorm Extension,OMOP352510,Marketed Product,S,Dexamethasone 0.4 MG/ML Oral Solution by Focus,Drug,2099-12-31
+Dexamethasone 0.4 MG/ML Oral Solution by Sigma-Tau,21051870,2017-08-24,,RxNorm Extension,OMOP352511,Marketed Product,S,Dexamethasone 0.4 MG/ML Oral Solution by Sigma-Tau,Drug,2099-12-31
+Dexamethasone 0.4 MG/ML Oral Solution by Waymade,21140182,2017-08-24,,RxNorm Extension,OMOP352513,Marketed Product,S,Dexamethasone 0.4 MG/ML Oral Solution by Waymade,Drug,2099-12-31
+Dexamethasone 0.4 MG/ML Oral Solution by DE,21081313,2017-08-24,,RxNorm Extension,OMOP352514,Marketed Product,S,Dexamethasone 0.4 MG/ML Oral Solution by DE,Drug,2099-12-31
+Dexamethasone 0.4 MG/ML Oral Solution by A A H,21130241,2017-08-24,,RxNorm Extension,OMOP352515,Marketed Product,S,Dexamethasone 0.4 MG/ML Oral Solution by A A H,Drug,2099-12-31
+Dexamethasone 0.4 MG/ML Oral Solution by Actavis,21042133,2017-08-24,,RxNorm Extension,OMOP352516,Marketed Product,S,Dexamethasone 0.4 MG/ML Oral Solution by Actavis,Drug,2099-12-31
+Dexamethasone 0.4 MG/ML Oral Solution [Martapan],21150019,2017-08-24,,RxNorm Extension,OMOP352518,Branded Drug,S,Dexamethasone 0.4 MG/ML Oral Solution [Martapan],Drug,2099-12-31
+Dexamethasone 0.4 MG/ML Oral Solution [Martapan] by Martindale,21150020,2017-08-24,,RxNorm Extension,OMOP352519,Marketed Product,S,Dexamethasone 0.4 MG/ML Oral Solution [Martapan] by Martindale,Drug,2099-12-31
+Dexamethasone 0.4 MG/ML Oral Solution [Dexsol],21032187,2017-08-24,,RxNorm Extension,OMOP352520,Branded Drug,S,Dexamethasone 0.4 MG/ML Oral Solution [Dexsol],Drug,2099-12-31
+Dexamethasone 0.4 MG/ML Oral Solution [Dexsol] by Rosemont,21169772,2017-08-24,,RxNorm Extension,OMOP352521,Marketed Product,S,Dexamethasone 0.4 MG/ML Oral Solution [Dexsol] by Rosemont,Drug,2099-12-31
+Dexamethasone 0.04 MG/ML Oral Solution,21061683,2017-08-24,,RxNorm Extension,OMOP352541,Clinical Drug,S,Dexamethasone 0.04 MG/ML Oral Solution,Drug,2099-12-31
+Dexamethasone 0.04 MG/ML Oral Suspension,21051871,2017-08-24,,RxNorm Extension,OMOP352543,Clinical Drug,S,Dexamethasone 0.04 MG/ML Oral Suspension,Drug,2099-12-31
+75 ML Dexamethasone 0.4 MG/ML Oral Solution,21059044,2017-08-24,,RxNorm Extension,OMOP320516,Quant Clinical Drug,S,75 ML Dexamethasone 0.4 MG/ML Oral Solution,Drug,2099-12-31
+75 ML Dexamethasone 0.4 MG/ML Oral Solution by DE,21088477,2017-08-24,,RxNorm Extension,OMOP320517,Marketed Product,S,75 ML Dexamethasone 0.4 MG/ML Oral Solution by DE,Drug,2099-12-31
+75 ML Dexamethasone 0.4 MG/ML Oral Solution by A A H,21068974,2017-08-24,,RxNorm Extension,OMOP320518,Marketed Product,S,75 ML Dexamethasone 0.4 MG/ML Oral Solution by A A H,Drug,2099-12-31
+75 ML Dexamethasone 0.4 MG/ML Oral Solution [Dexsol],21039468,2017-08-24,,RxNorm Extension,OMOP320519,Quant Branded Drug,S,75 ML Dexamethasone 0.4 MG/ML Oral Solution [Dexsol],Drug,2099-12-31
+75 ML Dexamethasone 0.4 MG/ML Oral Solution [Dexsol] by Rosemont,21088478,2017-08-24,,RxNorm Extension,OMOP320520,Marketed Product,S,75 ML Dexamethasone 0.4 MG/ML Oral Solution [Dexsol] by Rosemont,Drug,2099-12-31
+150 ML Dexamethasone 0.4 MG/ML Oral Solution,21167582,2017-08-24,,RxNorm Extension,OMOP325601,Quant Clinical Drug,S,150 ML Dexamethasone 0.4 MG/ML Oral Solution,Drug,2099-12-31
+150 ML Dexamethasone 0.4 MG/ML Oral Solution by Focus,21157795,2017-08-24,,RxNorm Extension,OMOP325602,Marketed Product,S,150 ML Dexamethasone 0.4 MG/ML Oral Solution by Focus,Drug,2099-12-31
+150 ML Dexamethasone 0.4 MG/ML Oral Solution by Sigma-Tau,21059467,2017-08-24,,RxNorm Extension,OMOP325603,Marketed Product,S,150 ML Dexamethasone 0.4 MG/ML Oral Solution by Sigma-Tau,Drug,2099-12-31
+150 ML Dexamethasone 0.4 MG/ML Oral Solution by Waymade,21098772,2017-08-24,,RxNorm Extension,OMOP325604,Marketed Product,S,150 ML Dexamethasone 0.4 MG/ML Oral Solution by Waymade,Drug,2099-12-31
+150 ML Dexamethasone 0.4 MG/ML Oral Solution by DE,21167583,2017-08-24,,RxNorm Extension,OMOP325605,Marketed Product,S,150 ML Dexamethasone 0.4 MG/ML Oral Solution by DE,Drug,2099-12-31
+150 ML Dexamethasone 0.4 MG/ML Oral Solution by A A H,21049667,2017-08-24,,RxNorm Extension,OMOP325606,Marketed Product,S,150 ML Dexamethasone 0.4 MG/ML Oral Solution by A A H,Drug,2099-12-31
+150 ML Dexamethasone 0.4 MG/ML Oral Solution by Actavis,21118342,2017-08-24,,RxNorm Extension,OMOP325607,Marketed Product,S,150 ML Dexamethasone 0.4 MG/ML Oral Solution by Actavis,Drug,2099-12-31
+150 ML Dexamethasone 0.4 MG/ML Oral Solution [Martapan],21079170,2017-08-24,,RxNorm Extension,OMOP325608,Quant Branded Drug,S,150 ML Dexamethasone 0.4 MG/ML Oral Solution [Martapan],Drug,2099-12-31
+150 ML Dexamethasone 0.4 MG/ML Oral Solution [Martapan] by Martindale,21167584,2017-08-24,,RxNorm Extension,OMOP325609,Marketed Product,S,150 ML Dexamethasone 0.4 MG/ML Oral Solution [Martapan] by Martindale,Drug,2099-12-31
+150 ML Dexamethasone 0.4 MG/ML Oral Solution [Dexsol],21030045,2017-08-24,,RxNorm Extension,OMOP325610,Quant Branded Drug,S,150 ML Dexamethasone 0.4 MG/ML Oral Solution [Dexsol],Drug,2099-12-31
+150 ML Dexamethasone 0.4 MG/ML Oral Solution [Dexsol] by Rosemont,21137953,2017-08-24,,RxNorm Extension,OMOP325611,Marketed Product,S,150 ML Dexamethasone 0.4 MG/ML Oral Solution [Dexsol] by Rosemont,Drug,2099-12-31
+100 ML Dexamethasone 0.2 MG/ML Oral Solution,43829332,2017-08-24,,RxNorm Extension,OMOP830931,Quant Clinical Drug,S,100 ML Dexamethasone 0.2 MG/ML Oral Solution,Drug,2099-12-31
+100 ML Dexamethasone 0.2 MG/ML Oral Solution [Solutio Cordes],43793204,2017-08-24,,RxNorm Extension,OMOP830932,Quant Branded Drug,S,100 ML Dexamethasone 0.2 MG/ML Oral Solution [Solutio Cordes],Drug,2099-12-31
+100 ML Dexamethasone 0.2 MG/ML Oral Solution [Solutio Cordes] by Ichthyol-Gesellschaft Cordes,43739423,2017-08-24,,RxNorm Extension,OMOP830933,Marketed Product,S,100 ML Dexamethasone 0.2 MG/ML Oral Solution [Solutio Cordes] by Ichthyol-Gesellschaft Cordes,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet by Mibe,43654630,2017-08-24,,RxNorm Extension,OMOP878044,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet by Mibe,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet by Galen,43582411,2017-08-24,,RxNorm Extension,OMOP878055,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet by Galen,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Fortecortin],43780406,2017-08-24,,RxNorm Extension,OMOP878066,Branded Drug,S,Dexamethasone 0.5 MG Oral Tablet [Fortecortin],Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Fortecortin] by Merck,43600449,2017-08-24,,RxNorm Extension,OMOP878076,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Fortecortin] by Merck,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Cortidexason],43582412,2017-08-24,,RxNorm Extension,OMOP878084,Branded Drug,S,Dexamethasone 0.5 MG Oral Tablet [Cortidexason],Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Cortidexason] by DermaPharm,43582413,2017-08-24,,RxNorm Extension,OMOP878091,Marketed Product,S,Dexamethasone 0.5 MG Oral Tablet [Cortidexason] by DermaPharm,Drug,2099-12-31
+Dexamethasone 0.2 MG/ML Oral Solution [Solutio Cordes],43636592,2017-08-24,,RxNorm Extension,OMOP878888,Branded Drug,S,Dexamethasone 0.2 MG/ML Oral Solution [Solutio Cordes],Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet [Fortecortin],43762320,2017-08-24,,RxNorm Extension,OMOP879000,Branded Drug,S,Dexamethasone 2 MG Oral Tablet [Fortecortin],Drug,2099-12-31
+Dexamethasone 2 MG Oral Tablet [Fortecortin] by Merck,43582421,2017-08-24,,RxNorm Extension,OMOP879011,Marketed Product,S,Dexamethasone 2 MG Oral Tablet [Fortecortin] by Merck,Drug,2099-12-31
+Dexamethasone 0.2 MG/ML Oral Solution Box of 10,43834617,2017-08-24,,RxNorm Extension,OMOP879106,Clinical Drug Box,S,Dexamethasone 0.2 MG/ML Oral Solution Box of 10,Drug,2099-12-31
+Dexamethasone 0.2 MG/ML Oral Solution [Otobacid N],43600454,2017-08-24,,RxNorm Extension,OMOP879117,Branded Drug,S,Dexamethasone 0.2 MG/ML Oral Solution [Otobacid N],Drug,2099-12-31
+Dexamethasone 0.2 MG/ML Oral Solution [Otobacid N] Box of 10,43798364,2017-08-24,,RxNorm Extension,OMOP879128,Branded Drug Box,S,Dexamethasone 0.2 MG/ML Oral Solution [Otobacid N] Box of 10,Drug,2099-12-31
+1 ML Dexamethasone 0.2 MG/ML Oral Solution [Solutio Cordes],43661832,2017-08-24,,RxNorm Extension,OMOP725502,Quant Branded Drug,S,1 ML Dexamethasone 0.2 MG/ML Oral Solution [Solutio Cordes],Drug,2099-12-31
+1 ML Dexamethasone 0.2 MG/ML Oral Solution [Solutio Cordes] by Ichthyol-Gesellschaft Cordes,43787422,2017-08-24,,RxNorm Extension,OMOP725503,Marketed Product,S,1 ML Dexamethasone 0.2 MG/ML Oral Solution [Solutio Cordes] by Ichthyol-Gesellschaft Cordes,Drug,2099-12-31
+50 ML Dexamethasone 0.2 MG/ML Oral Solution,43755476,2017-08-24,,RxNorm Extension,OMOP810359,Quant Clinical Drug,S,50 ML Dexamethasone 0.2 MG/ML Oral Solution,Drug,2099-12-31
+50 ML Dexamethasone 0.2 MG/ML Oral Solution [Solutio Cordes],43701694,2017-08-24,,RxNorm Extension,OMOP810360,Quant Branded Drug,S,50 ML Dexamethasone 0.2 MG/ML Oral Solution [Solutio Cordes],Drug,2099-12-31
+50 ML Dexamethasone 0.2 MG/ML Oral Solution [Solutio Cordes] by Ichthyol-Gesellschaft Cordes,43701695,2017-08-24,,RxNorm Extension,OMOP810362,Marketed Product,S,50 ML Dexamethasone 0.2 MG/ML Oral Solution [Solutio Cordes] by Ichthyol-Gesellschaft Cordes,Drug,2099-12-31
+5 ML Dexamethasone 0.2 MG/ML Oral Solution,43663548,2017-08-24,,RxNorm Extension,OMOP766066,Quant Clinical Drug,S,5 ML Dexamethasone 0.2 MG/ML Oral Solution,Drug,2099-12-31
+5 ML Dexamethasone 0.2 MG/ML Oral Solution Box of 10,43627251,2017-08-24,,RxNorm Extension,OMOP766067,Quant Clinical Box,S,5 ML Dexamethasone 0.2 MG/ML Oral Solution Box of 10,Drug,2099-12-31
+5 ML Dexamethasone 0.2 MG/ML Oral Solution [Otobacid N],43735367,2017-08-24,,RxNorm Extension,OMOP766068,Quant Branded Drug,S,5 ML Dexamethasone 0.2 MG/ML Oral Solution [Otobacid N],Drug,2099-12-31
+5 ML Dexamethasone 0.2 MG/ML Oral Solution [Otobacid N] by Chiesi,43771203,2017-08-24,,RxNorm Extension,OMOP766069,Marketed Product,S,5 ML Dexamethasone 0.2 MG/ML Oral Solution [Otobacid N] by Chiesi,Drug,2099-12-31
+5 ML Dexamethasone 0.2 MG/ML Oral Solution [Otobacid N] Box of 10,43645394,2017-08-24,,RxNorm Extension,OMOP766070,Quant Branded Box,S,5 ML Dexamethasone 0.2 MG/ML Oral Solution [Otobacid N] Box of 10,Drug,2099-12-31
+5 ML Dexamethasone 0.2 MG/ML Oral Solution [Otobacid N] Box of 10 by Chiesi,43843369,2017-08-24,,RxNorm Extension,OMOP766071,Marketed Product,S,5 ML Dexamethasone 0.2 MG/ML Oral Solution [Otobacid N] Box of 10 by Chiesi,Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexmethsone],43271749,2017-08-24,,RxNorm Extension,OMOP529455,Branded Drug,S,Dexamethasone 0.5 MG Oral Tablet [Dexmethsone],Drug,2099-12-31
+Dexamethasone 0.5 MG Oral Tablet [Dexmethsone] Box of 30,43271750,2017-08-24,,RxNorm Extension,OMOP529456,Branded Drug Box,S,Dexamethasone 0.5 MG Oral Tablet [Dexmethsone] Box of 30,Drug,2099-12-31

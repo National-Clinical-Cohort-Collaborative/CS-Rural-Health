@@ -1,0 +1,796 @@
+Concept Name,Concept Id,Valid Start Date,Invalid Reason,Vocabulary Id,Concept Code,Concept Class Id,Standard Concept,Concept Name,Domain Id,Valid End Date
+prednisolone 5 MG Oral Tablet [Prednesol],19007005,1970-01-01,,RxNorm,105407,Branded Drug,S,prednisolone 5 MG Oral Tablet [Prednesol],Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet,19007006,1970-01-01,,RxNorm,105408,Clinical Drug,S,prednisolone 2.5 MG Delayed Release Oral Tablet,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet,19007007,1970-01-01,,RxNorm,105409,Clinical Drug,S,prednisolone 5 MG Delayed Release Oral Tablet,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet,19007008,1970-01-01,,RxNorm,105410,Clinical Drug,S,prednisolone 5 MG Disintegrating Oral Tablet,Drug,2099-12-31
+{48 (prednisolone 5 MG Oral Tablet) } Pack,40225703,2010-09-05,,RxNorm,1005830,Clinical Pack,S,{48 (prednisolone 5 MG Oral Tablet) } Pack,Drug,2099-12-31
+{48 (prednisolone 5 MG Oral Tablet [MILLIPRED]) } Pack [Millipred DP 12 Day],40225702,2010-09-05,,RxNorm,1005831,Branded Pack,S,{48 (prednisolone 5 MG Oral Tablet [MILLIPRED]) } Pack [Millipred DP 12 Day],Drug,2099-12-31
+{21 (prednisolone 5 MG Oral Tablet) } Pack,40227495,2010-10-03,,RxNorm,1013114,Clinical Pack,S,{21 (prednisolone 5 MG Oral Tablet) } Pack,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Stintisone],19001447,1970-01-01,,RxNorm,102858,Branded Drug,S,prednisolone 5 MG Oral Tablet [Stintisone],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet,1550560,1970-01-01,,RxNorm,198142,Clinical Drug,S,prednisolone 5 MG Oral Tablet,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet,1550561,1970-01-01,,RxNorm,199343,Clinical Drug,S,prednisolone 1 MG Oral Tablet,Drug,2099-12-31
+prednisolone 25 MG Oral Tablet,1550572,1970-01-01,,RxNorm,199967,Clinical Drug,S,prednisolone 25 MG Oral Tablet,Drug,2099-12-31
+prednisolone 5 MG,1550777,1970-01-01,,RxNorm,316579,Clinical Drug Comp,S,prednisolone 5 MG,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet,19096439,1970-01-01,,RxNorm,348428,Clinical Drug,S,prednisolone 50 MG Oral Tablet,Drug,2099-12-31
+prednisolone 50 MG,19096935,1970-01-01,,RxNorm,349801,Clinical Drug Comp,S,prednisolone 50 MG,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Cotolone],1550975,1970-01-01,,RxNorm,351519,Branded Drug,S,prednisolone 5 MG Oral Tablet [Cotolone],Drug,2099-12-31
+prednisolone Delayed Release Oral Tablet,40073190,1970-01-01,,RxNorm,373572,Clinical Drug Form,S,prednisolone Delayed Release Oral Tablet,Drug,2099-12-31
+prednisolone Oral Tablet,40073458,1970-01-01,,RxNorm,373578,Clinical Drug Form,S,prednisolone Oral Tablet,Drug,2099-12-31
+prednisolone 1 MG,19089451,1970-01-01,,RxNorm,333209,Clinical Drug Comp,S,prednisolone 1 MG,Drug,2099-12-31
+prednisolone 25 MG,19089452,1970-01-01,,RxNorm,333210,Clinical Drug Comp,S,prednisolone 25 MG,Drug,2099-12-31
+prednisolone 2.5 MG,1550948,1970-01-01,,RxNorm,335529,Clinical Drug Comp,S,prednisolone 2.5 MG,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednistab],40244441,2011-12-04,,RxNorm,1191686,Branded Drug,S,prednisolone 5 MG Oral Tablet [Prednistab],Drug,2099-12-31
+{21 (prednisolone 5 MG Oral Tablet [MILLIPRED]) } Pack [Millipred DP 6 Day],42707634,2012-05-07,,RxNorm,1235042,Branded Pack,S,{21 (prednisolone 5 MG Oral Tablet [MILLIPRED]) } Pack [Millipred DP 6 Day],Drug,2099-12-31
+prednisolone 10 MG Oral Tablet,19108490,1970-01-01,,RxNorm,436279,Clinical Drug,S,prednisolone 10 MG Oral Tablet,Drug,2099-12-31
+5 ML prednisolone 1 MG/ML Oral Solution [Pediapred],44130319,2017-08-24,,RxNorm Extension,OMOP1124950,Quant Branded Drug,S,5 ML prednisolone 1 MG/ML Oral Solution [Pediapred],Drug,2099-12-31
+5 ML prednisolone 1 MG/ML Oral Solution [Pms-Prednisolone] by Pharmascience,44130388,2017-08-24,,RxNorm Extension,OMOP1125019,Marketed Product,S,5 ML prednisolone 1 MG/ML Oral Solution [Pms-Prednisolone] by Pharmascience,Drug,2099-12-31
+5 ML prednisolone 1 MG/ML Oral Solution [Pediapred] by Fisons,44130389,2017-08-24,,RxNorm Extension,OMOP1125020,Marketed Product,S,5 ML prednisolone 1 MG/ML Oral Solution [Pediapred] by Fisons,Drug,2099-12-31
+5 ML prednisolone 1 MG/ML Oral Solution [Pediapred] by Sanofi,44130609,2017-08-24,,RxNorm Extension,OMOP1125240,Marketed Product,S,5 ML prednisolone 1 MG/ML Oral Solution [Pediapred] by Sanofi,Drug,2099-12-31
+5 ML prednisolone 1 MG/ML Oral Solution [Pms-Prednisolone],44130990,2017-08-24,,RxNorm Extension,OMOP1125621,Quant Branded Drug,S,5 ML prednisolone 1 MG/ML Oral Solution [Pms-Prednisolone],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [PREDNISOLONE RATIOPHARM] Box of 100,40823035,2017-08-24,,RxNorm Extension,OMOP2020997,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [PREDNISOLONE RATIOPHARM] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni Coelin],40824287,2017-08-24,,RxNorm Extension,OMOP2022249,Branded Drug,S,prednisolone 5 MG Oral Tablet [Predni Coelin],Drug,2099-12-31
+prednisolone 10 MG Oral Tablet Box of 20 by Galen,40824398,2017-08-24,,RxNorm Extension,OMOP2022360,Marketed Product,S,prednisolone 10 MG Oral Tablet Box of 20 by Galen,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Rotexmedica] Box of 30 by Rotexmedica,40825955,2017-08-24,,RxNorm Extension,OMOP2023917,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Rotexmedica] Box of 30 by Rotexmedica,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Predni H],40841316,2017-08-24,,RxNorm Extension,OMOP2039278,Branded Drug,S,prednisolone 50 MG Oral Tablet [Predni H],Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Decortin] Box of 50,40841321,2017-08-24,,RxNorm Extension,OMOP2039283,Branded Drug Box,S,prednisolone 1 MG Oral Tablet [Decortin] Box of 50,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Ultracorten] Box of 10,40841326,2017-08-24,,RxNorm Extension,OMOP2039288,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Ultracorten] Box of 10,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Scherisolon] Box of 600,40841327,2017-08-24,,RxNorm Extension,OMOP2039289,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Scherisolon] Box of 600,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Al] Box of 20,40841329,2017-08-24,,RxNorm Extension,OMOP2039291,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednisolon Al] Box of 20,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni Blue] Box of 50,40841330,2017-08-24,,RxNorm Extension,OMOP2039292,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Predni Blue] Box of 50,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Duraprednisolon],40841331,2017-08-24,,RxNorm Extension,OMOP2039293,Branded Drug,S,prednisolone 5 MG Oral Tablet [Duraprednisolon],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decortin] Box of 100,40841332,2017-08-24,,RxNorm Extension,OMOP2039294,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Decortin] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednoral],19113764,2005-09-11,,RxNorm,541705,Branded Drug,S,prednisolone 5 MG Oral Tablet [Prednoral],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Novo-Prednisolone],44072828,2017-08-24,,RxNorm Extension,OMOP1067459,Branded Drug,S,prednisolone 5 MG Oral Tablet [Novo-Prednisolone],Drug,2099-12-31
+prednisolone 25 MG Oral Tablet Box of 30,36884729,2017-08-24,,RxNorm Extension,OMOP1003553,Clinical Drug Box,S,prednisolone 25 MG Oral Tablet Box of 30,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [MILLIPRED],19132464,2008-11-09,,RxNorm,808118,Branded Drug,S,prednisolone 5 MG Oral Tablet [MILLIPRED],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Novo-Prednisolone] by Novopharm,44062629,2017-08-24,,RxNorm Extension,OMOP1057260,Marketed Product,S,prednisolone 5 MG Oral Tablet [Novo-Prednisolone] by Novopharm,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Stada] Box of 50 by Stada,41008339,2017-08-24,,RxNorm Extension,OMOP2206301,Marketed Product,S,prednisolone 50 MG Oral Tablet [Prednisolon Stada] Box of 50 by Stada,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Al] Box of 50 by Aliud,41008340,2017-08-24,,RxNorm Extension,OMOP2206302,Marketed Product,S,prednisolone 50 MG Oral Tablet [Prednisolon Al] Box of 50 by Aliud,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 100 by Galen,41008341,2017-08-24,,RxNorm Extension,OMOP2206303,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 100 by Galen,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 20 by Mibe,41008342,2017-08-24,,RxNorm Extension,OMOP2206304,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 20 by Mibe,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni H] Box of 30 by Sanofi,41008352,2017-08-24,,RxNorm Extension,OMOP2206314,Marketed Product,S,prednisolone 5 MG Oral Tablet [Predni H] Box of 30 by Sanofi,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Duraprednisolon] Box of 30 by Mylan,41008353,2017-08-24,,RxNorm Extension,OMOP2206315,Marketed Product,S,prednisolone 5 MG Oral Tablet [Duraprednisolon] Box of 30 by Mylan,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Deltacortril] Box of 20 by Pfizer,41008354,2017-08-24,,RxNorm Extension,OMOP2206316,Marketed Product,S,prednisolone 5 MG Oral Tablet [Deltacortril] Box of 20 by Pfizer,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 50 by Galen,41008355,2017-08-24,,RxNorm Extension,OMOP2206317,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 50 by Galen,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 20 by Boerner,41008356,2017-08-24,,RxNorm Extension,OMOP2206318,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 20 by Boerner,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet Box of 100 by Galen,41008357,2017-08-24,,RxNorm Extension,OMOP2206319,Marketed Product,S,prednisolone 10 MG Oral Tablet Box of 100 by Galen,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet Box of 20 by Acis,41008358,2017-08-24,,RxNorm Extension,OMOP2206320,Marketed Product,S,prednisolone 10 MG Oral Tablet Box of 20 by Acis,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednihexal] Box of 10 by Novartis,40976978,2017-08-24,,RxNorm Extension,OMOP2174940,Marketed Product,S,prednisolone 50 MG Oral Tablet [Prednihexal] Box of 10 by Novartis,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet Box of 50 by Mibe,40976979,2017-08-24,,RxNorm Extension,OMOP2174941,Marketed Product,S,prednisolone 50 MG Oral Tablet Box of 50 by Mibe,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet Box of 10 by Mibe,40976980,2017-08-24,,RxNorm Extension,OMOP2174942,Marketed Product,S,prednisolone 50 MG Oral Tablet Box of 10 by Mibe,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Decortin] Box of 30 by Mylan,40976981,2017-08-24,,RxNorm Extension,OMOP2174943,Marketed Product,S,prednisolone 1 MG Oral Tablet [Decortin] Box of 30 by Mylan,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 20 by Orion,40976982,2017-08-24,,RxNorm Extension,OMOP2174944,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 20 by Orion,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Stada] Box of 100 by Stada,40976991,2017-08-24,,RxNorm Extension,OMOP2174953,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Stada] Box of 100 by Stada,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Rotexmedica] Box of 20 by Rotexmedica,40976992,2017-08-24,,RxNorm Extension,OMOP2174954,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Rotexmedica] Box of 20 by Rotexmedica,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Al] Box of 50 by Aliud,40976993,2017-08-24,,RxNorm Extension,OMOP2174955,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Al] Box of 50 by Aliud,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Al] Box of 30 by Aliud,40976994,2017-08-24,,RxNorm Extension,OMOP2174956,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Al] Box of 30 by Aliud,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Dermosolon] Box of 20 by DermaPharm,40976995,2017-08-24,,RxNorm Extension,OMOP2174957,Marketed Product,S,prednisolone 5 MG Oral Tablet [Dermosolon] Box of 20 by DermaPharm,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decaprednil] Box of 100 by Galen,40976996,2017-08-24,,RxNorm Extension,OMOP2174958,Marketed Product,S,prednisolone 5 MG Oral Tablet [Decaprednil] Box of 100 by Galen,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 100 by Orion,40976997,2017-08-24,,RxNorm Extension,OMOP2174959,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 100 by Orion,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Stada] Box of 20 by Stada,40976998,2017-08-24,,RxNorm Extension,OMOP2174960,Marketed Product,S,prednisolone 10 MG Oral Tablet [Prednisolon Stada] Box of 20 by Stada,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Al] Box of 50 by Aliud,40976999,2017-08-24,,RxNorm Extension,OMOP2174961,Marketed Product,S,prednisolone 10 MG Oral Tablet [Prednisolon Al] Box of 50 by Aliud,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet Box of 50 by Galen,40977000,2017-08-24,,RxNorm Extension,OMOP2174962,Marketed Product,S,prednisolone 10 MG Oral Tablet Box of 50 by Galen,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 20,40959111,2017-08-24,,RxNorm Extension,OMOP2157073,Clinical Drug Box,S,prednisolone 1 MG Oral Tablet Box of 20,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Al] Box of 10,40934725,2017-08-24,,RxNorm Extension,OMOP2132687,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [Prednisolon Al] Box of 10,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Scherisolon] Box of 150,40934733,2017-08-24,,RxNorm Extension,OMOP2132695,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Scherisolon] Box of 150,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Stada] Box of 20,40934734,2017-08-24,,RxNorm Extension,OMOP2132696,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednisolon Stada] Box of 20,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Rotexmedica],40934736,2017-08-24,,RxNorm Extension,OMOP2132698,Branded Drug,S,prednisolone 5 MG Oral Tablet [Prednisolon Rotexmedica],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Al] Box of 100,40934737,2017-08-24,,RxNorm Extension,OMOP2132699,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednisolon Al] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni H] Box of 30,40934738,2017-08-24,,RxNorm Extension,OMOP2132700,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Predni H] Box of 30,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Duraprednisolon] Box of 20,40934739,2017-08-24,,RxNorm Extension,OMOP2132701,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Duraprednisolon] Box of 20,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Deltacortril] Box of 1000,40934740,2017-08-24,,RxNorm Extension,OMOP2132702,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Deltacortril] Box of 1000,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Stada] Box of 50,40934755,2017-08-24,,RxNorm Extension,OMOP2132717,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Prednisolon Stada] Box of 50,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Al] Box of 20,40934756,2017-08-24,,RxNorm Extension,OMOP2132718,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Prednisolon Al] Box of 20,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Scherisolon],40903521,2017-08-24,,RxNorm Extension,OMOP2101483,Branded Drug,S,prednisolone 5 MG Oral Tablet [Scherisolon],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Lentia] Box of 100,40903522,2017-08-24,,RxNorm Extension,OMOP2101484,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednisolon Lentia] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Dura] Box of 100,40903523,2017-08-24,,RxNorm Extension,OMOP2101485,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednisolon Dura] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednihexal] Box of 100,40903524,2017-08-24,,RxNorm Extension,OMOP2101486,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednihexal] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni H] Box of 50,40903525,2017-08-24,,RxNorm Extension,OMOP2101487,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Predni H] Box of 50,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni Coelin] Box of 1000,40903526,2017-08-24,,RxNorm Extension,OMOP2101488,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Predni Coelin] Box of 1000,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Hefasolon] Box of 30,40903527,2017-08-24,,RxNorm Extension,OMOP2101489,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Hefasolon] Box of 30,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Predni H] Box of 30,40903545,2017-08-24,,RxNorm Extension,OMOP2101507,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Predni H] Box of 30,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 30,40927820,2017-08-24,,RxNorm Extension,OMOP2125782,Clinical Drug Box,S,prednisolone 1 MG Oral Tablet Box of 30,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 1,40927821,2017-08-24,,RxNorm Extension,OMOP2125783,Clinical Drug Box,S,prednisolone 1 MG Oral Tablet Box of 1,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 6000,40927824,2017-08-24,,RxNorm Extension,OMOP2125786,Clinical Drug Box,S,prednisolone 5 MG Oral Tablet Box of 6000,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 150,40927825,2017-08-24,,RxNorm Extension,OMOP2125787,Clinical Drug Box,S,prednisolone 5 MG Oral Tablet Box of 150,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Al] Box of 10 by Aliud,40946035,2017-08-24,,RxNorm Extension,OMOP2143997,Marketed Product,S,prednisolone 50 MG Oral Tablet [Prednisolon Al] Box of 10 by Aliud,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Predni H] Box of 10 by Sanofi,40946036,2017-08-24,,RxNorm Extension,OMOP2143998,Marketed Product,S,prednisolone 50 MG Oral Tablet [Predni H] Box of 10 by Sanofi,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Decortin] Box of 100 by Mylan,40946037,2017-08-24,,RxNorm Extension,OMOP2143999,Marketed Product,S,prednisolone 1 MG Oral Tablet [Decortin] Box of 100 by Mylan,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Decaprednil] Box of 50 by Galen,40946038,2017-08-24,,RxNorm Extension,OMOP2144000,Marketed Product,S,prednisolone 1 MG Oral Tablet [Decaprednil] Box of 50 by Galen,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 50 by Orion,40946039,2017-08-24,,RxNorm Extension,OMOP2144001,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 50 by Orion,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni H] Box of 20 by Sanofi,40946041,2017-08-24,,RxNorm Extension,OMOP2144003,Marketed Product,S,prednisolone 5 MG Oral Tablet [Predni H] Box of 20 by Sanofi,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni Blue] Box of 100 by Blue,40946042,2017-08-24,,RxNorm Extension,OMOP2144004,Marketed Product,S,prednisolone 5 MG Oral Tablet [Predni Blue] Box of 100 by Blue,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decortin] Box of 20 by Mylan,40946043,2017-08-24,,RxNorm Extension,OMOP2144005,Marketed Product,S,prednisolone 5 MG Oral Tablet [Decortin] Box of 20 by Mylan,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Decortin] Box of 20 by Mylan,40946044,2017-08-24,,RxNorm Extension,OMOP2144006,Marketed Product,S,prednisolone 10 MG Oral Tablet [Decortin] Box of 20 by Mylan,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet Box of 50 by Acis,40946045,2017-08-24,,RxNorm Extension,OMOP2144007,Marketed Product,S,prednisolone 10 MG Oral Tablet Box of 50 by Acis,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Scherisolon] Box of 1200,40965890,2017-08-24,,RxNorm Extension,OMOP2163852,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Scherisolon] Box of 1200,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [PREDNISOLONE RATIOPHARM],40965892,2017-08-24,,RxNorm Extension,OMOP2163854,Branded Drug,S,prednisolone 5 MG Oral Tablet [PREDNISOLONE RATIOPHARM],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednicorm],40965893,2017-08-24,,RxNorm Extension,OMOP2163855,Branded Drug,S,prednisolone 5 MG Oral Tablet [Prednicorm],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni H] Box of 10,40965894,2017-08-24,,RxNorm Extension,OMOP2163856,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Predni H] Box of 10,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Hefasolon] Box of 500,40965895,2017-08-24,,RxNorm Extension,OMOP2163857,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Hefasolon] Box of 500,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decortin] Box of 20,40965896,2017-08-24,,RxNorm Extension,OMOP2163858,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Decortin] Box of 20,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decaprednil] Box of 100,40965897,2017-08-24,,RxNorm Extension,OMOP2163859,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Decaprednil] Box of 100,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednihexal] Box of 20,40965919,2017-08-24,,RxNorm Extension,OMOP2163881,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Prednihexal] Box of 20,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Dermosolon] Box of 20,40965920,2017-08-24,,RxNorm Extension,OMOP2163882,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Dermosolon] Box of 20,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Merck] Box of 10,41122189,2017-08-24,,RxNorm Extension,OMOP2320151,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [Prednisolon Merck] Box of 10,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Predni H] Box of 50,41122190,2017-08-24,,RxNorm Extension,OMOP2320152,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [Predni H] Box of 50,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Dermosolon] Box of 50,41122191,2017-08-24,,RxNorm Extension,OMOP2320153,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [Dermosolon] Box of 50,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni H] Box of 100,41122202,2017-08-24,,RxNorm Extension,OMOP2320164,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Predni H] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni H] Box of 20,41122203,2017-08-24,,RxNorm Extension,OMOP2320165,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Predni H] Box of 20,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Hefasolon] Box of 150,41122204,2017-08-24,,RxNorm Extension,OMOP2320166,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Hefasolon] Box of 150,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Duraprednisolon] Box of 500,41122205,2017-08-24,,RxNorm Extension,OMOP2320167,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Duraprednisolon] Box of 500,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Al] Box of 100,41122211,2017-08-24,,RxNorm Extension,OMOP2320173,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Prednisolon Al] Box of 100,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Dermosolon] Box of 50,41122212,2017-08-24,,RxNorm Extension,OMOP2320174,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Dermosolon] Box of 50,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 600,41084132,2017-08-24,,RxNorm Extension,OMOP2282094,Clinical Drug Box,S,prednisolone 5 MG Oral Tablet Box of 600,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 120,41084133,2017-08-24,,RxNorm Extension,OMOP2282095,Clinical Drug Box,S,prednisolone 5 MG Oral Tablet Box of 120,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Decaprednil],41091065,2017-08-24,,RxNorm Extension,OMOP2289027,Branded Drug,S,prednisolone 1 MG Oral Tablet [Decaprednil],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Stada] Box of 50,41091072,2017-08-24,,RxNorm Extension,OMOP2289034,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednisolon Stada] Box of 50,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Lentia] Box of 500,41091073,2017-08-24,,RxNorm Extension,OMOP2289035,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednisolon Lentia] Box of 500,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Hostacortin] Box of 10,41091074,2017-08-24,,RxNorm Extension,OMOP2289036,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Hostacortin] Box of 10,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decortin] Box of 50,41091075,2017-08-24,,RxNorm Extension,OMOP2289037,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Decortin] Box of 50,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Merck] Box of 20,41091088,2017-08-24,,RxNorm Extension,OMOP2289050,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Prednisolon Merck] Box of 20,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Decortin] Box of 50,41091089,2017-08-24,,RxNorm Extension,OMOP2289051,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Decortin] Box of 50,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet Box of 10 by Galen,41102126,2017-08-24,,RxNorm Extension,OMOP2300088,Marketed Product,S,prednisolone 50 MG Oral Tablet Box of 10 by Galen,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 100 by Mibe,41102127,2017-08-24,,RxNorm Extension,OMOP2300089,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 100 by Mibe,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 100 by Jenapharm,41102128,2017-08-24,,RxNorm Extension,OMOP2300090,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 100 by Jenapharm,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Rotexmedica] Box of 50 by Rotexmedica,41102135,2017-08-24,,RxNorm Extension,OMOP2300097,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Rotexmedica] Box of 50 by Rotexmedica,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Merck] Box of 50 by Mylan,41102136,2017-08-24,,RxNorm Extension,OMOP2300098,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Merck] Box of 50 by Mylan,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Merck] Box of 20 by Mylan,41102137,2017-08-24,,RxNorm Extension,OMOP2300099,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Merck] Box of 20 by Mylan,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni H] Box of 100 by Sanofi,41102138,2017-08-24,,RxNorm Extension,OMOP2300100,Marketed Product,S,prednisolone 5 MG Oral Tablet [Predni H] Box of 100 by Sanofi,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 500 by Boerner,41102139,2017-08-24,,RxNorm Extension,OMOP2300101,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 500 by Boerner,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 20 by Galen,41102140,2017-08-24,,RxNorm Extension,OMOP2300102,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 20 by Galen,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 20 by Berco- Gottfried Herzberg,41102141,2017-08-24,,RxNorm Extension,OMOP2300103,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 20 by Berco- Gottfried Herzberg,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 200,41115357,2017-08-24,,RxNorm Extension,OMOP2313319,Clinical Drug Box,S,prednisolone 1 MG Oral Tablet Box of 200,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 20,41115363,2017-08-24,,RxNorm Extension,OMOP2313325,Clinical Drug Box,S,prednisolone 5 MG Oral Tablet Box of 20,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 1,41115364,2017-08-24,,RxNorm Extension,OMOP2313326,Clinical Drug Box,S,prednisolone 5 MG Oral Tablet Box of 1,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednihexal] Box of 50 by Novartis,41133485,2017-08-24,,RxNorm Extension,OMOP2331447,Marketed Product,S,prednisolone 50 MG Oral Tablet [Prednihexal] Box of 50 by Novartis,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Dermosolon] Box of 50 by DermaPharm,41133486,2017-08-24,,RxNorm Extension,OMOP2331448,Marketed Product,S,prednisolone 50 MG Oral Tablet [Dermosolon] Box of 50 by DermaPharm,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 100 by Mibe,41133491,2017-08-24,,RxNorm Extension,OMOP2331453,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 100 by Mibe,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Dura] Box of 100 by Mylan,41133492,2017-08-24,,RxNorm Extension,OMOP2331454,Marketed Product,S,prednisolone 10 MG Oral Tablet [Prednisolon Dura] Box of 100 by Mylan,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Predni Blue] Box of 100 by Blue,41133493,2017-08-24,,RxNorm Extension,OMOP2331455,Marketed Product,S,prednisolone 10 MG Oral Tablet [Predni Blue] Box of 100 by Blue,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Predni Blue] Box of 20 by Blue,41133494,2017-08-24,,RxNorm Extension,OMOP2331456,Marketed Product,S,prednisolone 10 MG Oral Tablet [Predni Blue] Box of 20 by Blue,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet Box of 100 by Acis,41133495,2017-08-24,,RxNorm Extension,OMOP2331457,Marketed Product,S,prednisolone 10 MG Oral Tablet Box of 100 by Acis,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet Box of 20 by Mibe,41133496,2017-08-24,,RxNorm Extension,OMOP2331458,Marketed Product,S,prednisolone 10 MG Oral Tablet Box of 20 by Mibe,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet Box of 50 by Acis,41039425,2017-08-24,,RxNorm Extension,OMOP2237387,Marketed Product,S,prednisolone 50 MG Oral Tablet Box of 50 by Acis,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Decortin] Box of 50 by Mylan,41039426,2017-08-24,,RxNorm Extension,OMOP2237388,Marketed Product,S,prednisolone 1 MG Oral Tablet [Decortin] Box of 50 by Mylan,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Decortin] Box of 20 by Mylan,41039427,2017-08-24,,RxNorm Extension,OMOP2237389,Marketed Product,S,prednisolone 1 MG Oral Tablet [Decortin] Box of 20 by Mylan,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Merck] Box of 100 by Mylan,41039430,2017-08-24,,RxNorm Extension,OMOP2237392,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Merck] Box of 100 by Mylan,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Duraprednisolon] Box of 100 by Mylan,41039431,2017-08-24,,RxNorm Extension,OMOP2237393,Marketed Product,S,prednisolone 5 MG Oral Tablet [Duraprednisolon] Box of 100 by Mylan,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decaprednil] Box of 50 by Galen,41039432,2017-08-24,,RxNorm Extension,OMOP2237394,Marketed Product,S,prednisolone 5 MG Oral Tablet [Decaprednil] Box of 50 by Galen,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 100 by Ge Hc Buchler,41039433,2017-08-24,,RxNorm Extension,OMOP2237395,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 100 by Ge Hc Buchler,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 50 by Acis,41039434,2017-08-24,,RxNorm Extension,OMOP2237396,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 50 by Acis,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Al] Box of 20 by Aliud,41039436,2017-08-24,,RxNorm Extension,OMOP2237398,Marketed Product,S,prednisolone 10 MG Oral Tablet [Prednisolon Al] Box of 20 by Aliud,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet Box of 50,41052527,2017-08-24,,RxNorm Extension,OMOP2250489,Clinical Drug Box,S,prednisolone 50 MG Oral Tablet Box of 50,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 1200,41052531,2017-08-24,,RxNorm Extension,OMOP2250493,Clinical Drug Box,S,prednisolone 5 MG Oral Tablet Box of 1200,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet Box of 10,41052540,2017-08-24,,RxNorm Extension,OMOP2250502,Clinical Drug Box,S,prednisolone 10 MG Oral Tablet Box of 10,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [PREDNISOLONE RATIOPHARM] Box of 10 by Ratiopharm,41070704,2017-08-24,,RxNorm Extension,OMOP2268666,Marketed Product,S,prednisolone 50 MG Oral Tablet [PREDNISOLONE RATIOPHARM] Box of 10 by Ratiopharm,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 100 by Ge Hc Buchler,41070705,2017-08-24,,RxNorm Extension,OMOP2268667,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 100 by Ge Hc Buchler,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Scherisolon] Box of 30 by Bayer,41070713,2017-08-24,,RxNorm Extension,OMOP2268675,Marketed Product,S,prednisolone 5 MG Oral Tablet [Scherisolon] Box of 30 by Bayer,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [PREDNISOLONE RATIOPHARM] Box of 100 by Ratiopharm,41070714,2017-08-24,,RxNorm Extension,OMOP2268676,Marketed Product,S,prednisolone 5 MG Oral Tablet [PREDNISOLONE RATIOPHARM] Box of 100 by Ratiopharm,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Hefasolon] Box of 20 by Riemser,41070715,2017-08-24,,RxNorm Extension,OMOP2268677,Marketed Product,S,prednisolone 5 MG Oral Tablet [Hefasolon] Box of 20 by Riemser,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Duraprednisolon] Box of 20 by Mylan,41070716,2017-08-24,,RxNorm Extension,OMOP2268678,Marketed Product,S,prednisolone 5 MG Oral Tablet [Duraprednisolon] Box of 20 by Mylan,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decortin] Box of 30 by Mylan,41070717,2017-08-24,,RxNorm Extension,OMOP2268679,Marketed Product,S,prednisolone 5 MG Oral Tablet [Decortin] Box of 30 by Mylan,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Merck] Box of 50 by Mylan,41070718,2017-08-24,,RxNorm Extension,OMOP2268680,Marketed Product,S,prednisolone 10 MG Oral Tablet [Prednisolon Merck] Box of 50 by Mylan,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Dermosolon] Box of 20 by DermaPharm,41070719,2017-08-24,,RxNorm Extension,OMOP2268681,Marketed Product,S,prednisolone 10 MG Oral Tablet [Dermosolon] Box of 20 by DermaPharm,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Decortin] Box of 50 by Mylan,41070720,2017-08-24,,RxNorm Extension,OMOP2268682,Marketed Product,S,prednisolone 10 MG Oral Tablet [Decortin] Box of 50 by Mylan,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Decortin] Box of 10,41059467,2017-08-24,,RxNorm Extension,OMOP2257429,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [Decortin] Box of 10,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Ultracorten] Box of 100,41059476,2017-08-24,,RxNorm Extension,OMOP2257438,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Ultracorten] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni H] Box of 1000,41059478,2017-08-24,,RxNorm Extension,OMOP2257440,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Predni H] Box of 1000,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Hostacortin] Box of 20,41059479,2017-08-24,,RxNorm Extension,OMOP2257441,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Hostacortin] Box of 20,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Hefasolon] Box of 100,41059480,2017-08-24,,RxNorm Extension,OMOP2257442,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Hefasolon] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Deltacortril],41059481,2017-08-24,,RxNorm Extension,OMOP2257443,Branded Drug,S,prednisolone 5 MG Oral Tablet [Deltacortril],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decaprednil],41059482,2017-08-24,,RxNorm Extension,OMOP2257444,Branded Drug,S,prednisolone 5 MG Oral Tablet [Decaprednil],Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Predni H] Box of 10,41059495,2017-08-24,,RxNorm Extension,OMOP2257457,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Predni H] Box of 10,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Predni H],41059496,2017-08-24,,RxNorm Extension,OMOP2257458,Branded Drug,S,prednisolone 10 MG Oral Tablet [Predni H],Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Decortin] Box of 200,41028253,2017-08-24,,RxNorm Extension,OMOP2226215,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [Decortin] Box of 200,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Deltacortril],41028259,2017-08-24,,RxNorm Extension,OMOP2226221,Branded Drug,S,prednisolone 1 MG Oral Tablet [Deltacortril],Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Decaprednil] Box of 50,41028260,2017-08-24,,RxNorm Extension,OMOP2226222,Branded Drug Box,S,prednisolone 1 MG Oral Tablet [Decaprednil] Box of 50,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [PREDNISOLONE RATIOPHARM] Box of 30,41028265,2017-08-24,,RxNorm Extension,OMOP2226227,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [PREDNISOLONE RATIOPHARM] Box of 30,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednihexal] Box of 50,41028266,2017-08-24,,RxNorm Extension,OMOP2226228,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednihexal] Box of 50,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni H],41028267,2017-08-24,,RxNorm Extension,OMOP2226229,Branded Drug,S,prednisolone 5 MG Oral Tablet [Predni H],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni Coelin] Box of 10,41028268,2017-08-24,,RxNorm Extension,OMOP2226230,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Predni Coelin] Box of 10,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Hefasolon] Box of 200,41028269,2017-08-24,,RxNorm Extension,OMOP2226231,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Hefasolon] Box of 200,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Hefasolon] Box of 120,41028270,2017-08-24,,RxNorm Extension,OMOP2226232,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Hefasolon] Box of 120,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Duraprednisolon] Box of 120,41028271,2017-08-24,,RxNorm Extension,OMOP2226233,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Duraprednisolon] Box of 120,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Merck],41028281,2017-08-24,,RxNorm Extension,OMOP2226243,Branded Drug,S,prednisolone 10 MG Oral Tablet [Prednisolon Merck],Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Dura] Box of 100,41028282,2017-08-24,,RxNorm Extension,OMOP2226244,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Prednisolon Dura] Box of 100,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednihexal] Box of 50,41028283,2017-08-24,,RxNorm Extension,OMOP2226245,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Prednihexal] Box of 50,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Stada] Box of 10,40997195,2017-08-24,,RxNorm Extension,OMOP2195157,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [Prednisolon Stada] Box of 10,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednihexal] Box of 50,40997196,2017-08-24,,RxNorm Extension,OMOP2195158,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [Prednihexal] Box of 50,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Predni Blue] Box of 50,40997197,2017-08-24,,RxNorm Extension,OMOP2195159,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [Predni Blue] Box of 50,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Dermosolon] Box of 10,40997198,2017-08-24,,RxNorm Extension,OMOP2195160,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [Dermosolon] Box of 10,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Decortin] Box of 100,40997201,2017-08-24,,RxNorm Extension,OMOP2195163,Branded Drug Box,S,prednisolone 1 MG Oral Tablet [Decortin] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Ultracorten],40997208,2017-08-24,,RxNorm Extension,OMOP2195170,Branded Drug,S,prednisolone 5 MG Oral Tablet [Ultracorten],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Rotexmedica] Box of 20,40997209,2017-08-24,,RxNorm Extension,OMOP2195171,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednisolon Rotexmedica] Box of 20,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Merck] Box of 100,40997210,2017-08-24,,RxNorm Extension,OMOP2195172,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednisolon Merck] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Lentia] Box of 30,40997211,2017-08-24,,RxNorm Extension,OMOP2195173,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednisolon Lentia] Box of 30,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni Coelin] Box of 100,40997212,2017-08-24,,RxNorm Extension,OMOP2195174,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Predni Coelin] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni Coelin] Box of 30,40997213,2017-08-24,,RxNorm Extension,OMOP2195175,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Predni Coelin] Box of 30,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decortin],40997214,2017-08-24,,RxNorm Extension,OMOP2195176,Branded Drug,S,prednisolone 5 MG Oral Tablet [Decortin],Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Predni Blue] Box of 100,40997234,2017-08-24,,RxNorm Extension,OMOP2195196,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Predni Blue] Box of 100,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Predni Blue] Box of 50,40997235,2017-08-24,,RxNorm Extension,OMOP2195197,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Predni Blue] Box of 50,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Predni Blue] Box of 20,40997236,2017-08-24,,RxNorm Extension,OMOP2195198,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Predni Blue] Box of 20,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Predni Blue],40997237,2017-08-24,,RxNorm Extension,OMOP2195199,Branded Drug,S,prednisolone 10 MG Oral Tablet [Predni Blue],Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Dermosolon] Box of 100,40997238,2017-08-24,,RxNorm Extension,OMOP2195200,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Dermosolon] Box of 100,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Decortin] Box of 200,40997239,2017-08-24,,RxNorm Extension,OMOP2195201,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Decortin] Box of 200,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Decortin],40997240,2017-08-24,,RxNorm Extension,OMOP2195202,Branded Drug,S,prednisolone 10 MG Oral Tablet [Decortin],Drug,2099-12-31
+prednisolone Disintegrating Oral Tablet,40073185,1970-01-01,,RxNorm,379264,Clinical Drug Form,S,prednisolone Disintegrating Oral Tablet,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [PREDNISOLONE RATIOPHARM] Box of 50 by Ratiopharm,40914652,2017-08-24,,RxNorm Extension,OMOP2112614,Marketed Product,S,prednisolone 50 MG Oral Tablet [PREDNISOLONE RATIOPHARM] Box of 50 by Ratiopharm,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Merck] Box of 50 by Mylan,40914653,2017-08-24,,RxNorm Extension,OMOP2112615,Marketed Product,S,prednisolone 50 MG Oral Tablet [Prednisolon Merck] Box of 50 by Mylan,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Predni Blue] Box of 10 by Blue,40914654,2017-08-24,,RxNorm Extension,OMOP2112616,Marketed Product,S,prednisolone 50 MG Oral Tablet [Predni Blue] Box of 10 by Blue,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Dermosolon] Box of 10 by DermaPharm,40914655,2017-08-24,,RxNorm Extension,OMOP2112617,Marketed Product,S,prednisolone 50 MG Oral Tablet [Dermosolon] Box of 10 by DermaPharm,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 100 by Orion,40914656,2017-08-24,,RxNorm Extension,OMOP2112618,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 100 by Orion,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednihexal] Box of 100 by Novartis,40914662,2017-08-24,,RxNorm Extension,OMOP2112624,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednihexal] Box of 100 by Novartis,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni Coelin] Box of 100 by Dr R Pfleger,40914663,2017-08-24,,RxNorm Extension,OMOP2112625,Marketed Product,S,prednisolone 5 MG Oral Tablet [Predni Coelin] Box of 100 by Dr R Pfleger,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 100 by Boerner,40914664,2017-08-24,,RxNorm Extension,OMOP2112626,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 100 by Boerner,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 20 by Mibe,40914665,2017-08-24,,RxNorm Extension,OMOP2112627,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 20 by Mibe,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 20 by Acis,40914666,2017-08-24,,RxNorm Extension,OMOP2112628,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 20 by Acis,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Decortin] Box of 100 by Mylan,40914668,2017-08-24,,RxNorm Extension,OMOP2112630,Marketed Product,S,prednisolone 10 MG Oral Tablet [Decortin] Box of 100 by Mylan,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Stada] Box of 50,40872498,2017-08-24,,RxNorm Extension,OMOP2070460,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [Prednisolon Stada] Box of 50,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Predni Blue],40872499,2017-08-24,,RxNorm Extension,OMOP2070461,Branded Drug,S,prednisolone 50 MG Oral Tablet [Predni Blue],Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Decortin] Box of 30,40872503,2017-08-24,,RxNorm Extension,OMOP2070465,Branded Drug Box,S,prednisolone 1 MG Oral Tablet [Decortin] Box of 30,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Rotexmedica] Box of 100,40872513,2017-08-24,,RxNorm Extension,OMOP2070475,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednisolon Rotexmedica] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Hostacortin] Box of 100,40872514,2017-08-24,,RxNorm Extension,OMOP2070476,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Hostacortin] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Duraprednisolon] Box of 100,40872515,2017-08-24,,RxNorm Extension,OMOP2070477,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Duraprednisolon] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decortin] Box of 10,40872516,2017-08-24,,RxNorm Extension,OMOP2070478,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Decortin] Box of 10,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decaprednil] Box of 20,40872517,2017-08-24,,RxNorm Extension,OMOP2070479,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Decaprednil] Box of 20,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Merck] Box of 100,40872544,2017-08-24,,RxNorm Extension,OMOP2070506,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Prednisolon Merck] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 200,40896811,2017-08-24,,RxNorm Extension,OMOP2094773,Clinical Drug Box,S,prednisolone 5 MG Oral Tablet Box of 200,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet Box of 200,40896823,2017-08-24,,RxNorm Extension,OMOP2094785,Clinical Drug Box,S,prednisolone 10 MG Oral Tablet Box of 200,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Decortin] Box of 50 by Mylan,40852475,2017-08-24,,RxNorm Extension,OMOP2050437,Marketed Product,S,prednisolone 50 MG Oral Tablet [Decortin] Box of 50 by Mylan,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Decortin] Box of 10 by Mylan,40852476,2017-08-24,,RxNorm Extension,OMOP2050438,Marketed Product,S,prednisolone 50 MG Oral Tablet [Decortin] Box of 10 by Mylan,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet Box of 50 by Galen,40852477,2017-08-24,,RxNorm Extension,OMOP2050439,Marketed Product,S,prednisolone 50 MG Oral Tablet Box of 50 by Galen,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Al] Box of 20 by Aliud,40852482,2017-08-24,,RxNorm Extension,OMOP2050444,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Al] Box of 20 by Aliud,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednihexal] Box of 20 by Novartis,40852483,2017-08-24,,RxNorm Extension,OMOP2050445,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednihexal] Box of 20 by Novartis,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Hefasolon] Box of 30 by Riemser,40852484,2017-08-24,,RxNorm Extension,OMOP2050446,Marketed Product,S,prednisolone 5 MG Oral Tablet [Hefasolon] Box of 30 by Riemser,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Deltacortril] Box of 100 by Pfizer,40852485,2017-08-24,,RxNorm Extension,OMOP2050447,Marketed Product,S,prednisolone 5 MG Oral Tablet [Deltacortril] Box of 100 by Pfizer,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decortin] Box of 200 by Mylan,40852486,2017-08-24,,RxNorm Extension,OMOP2050448,Marketed Product,S,prednisolone 5 MG Oral Tablet [Decortin] Box of 200 by Mylan,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decaprednil] Box of 20 by Galen,40852487,2017-08-24,,RxNorm Extension,OMOP2050449,Marketed Product,S,prednisolone 5 MG Oral Tablet [Decaprednil] Box of 20 by Galen,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 30 by Galen,40852488,2017-08-24,,RxNorm Extension,OMOP2050450,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 30 by Galen,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 20 by Jenapharm,40852489,2017-08-24,,RxNorm Extension,OMOP2050451,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 20 by Jenapharm,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Merck] Box of 100 by Mylan,40852490,2017-08-24,,RxNorm Extension,OMOP2050452,Marketed Product,S,prednisolone 10 MG Oral Tablet [Prednisolon Merck] Box of 100 by Mylan,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet Box of 50 by Mibe,40852491,2017-08-24,,RxNorm Extension,OMOP2050453,Marketed Product,S,prednisolone 10 MG Oral Tablet Box of 50 by Mibe,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Stada] Box of 10 by Stada,40883726,2017-08-24,,RxNorm Extension,OMOP2081688,Marketed Product,S,prednisolone 50 MG Oral Tablet [Prednisolon Stada] Box of 10 by Stada,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Predni H] Box of 50 by Sanofi,40883727,2017-08-24,,RxNorm Extension,OMOP2081689,Marketed Product,S,prednisolone 50 MG Oral Tablet [Predni H] Box of 50 by Sanofi,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Predni Blue] Box of 50 by Blue,40883728,2017-08-24,,RxNorm Extension,OMOP2081690,Marketed Product,S,prednisolone 50 MG Oral Tablet [Predni Blue] Box of 50 by Blue,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 50 by Mibe,40883729,2017-08-24,,RxNorm Extension,OMOP2081691,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 50 by Mibe,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Stada] Box of 50 by Stada,40883739,2017-08-24,,RxNorm Extension,OMOP2081701,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Stada] Box of 50 by Stada,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [PREDNISOLONE RATIOPHARM] Box of 30 by Ratiopharm,40883740,2017-08-24,,RxNorm Extension,OMOP2081702,Marketed Product,S,prednisolone 5 MG Oral Tablet [PREDNISOLONE RATIOPHARM] Box of 30 by Ratiopharm,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Duraprednisolon] Box of 120 by Mylan,40883741,2017-08-24,,RxNorm Extension,OMOP2081703,Marketed Product,S,prednisolone 5 MG Oral Tablet [Duraprednisolon] Box of 120 by Mylan,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decortin] Box of 50 by Mylan,40883742,2017-08-24,,RxNorm Extension,OMOP2081704,Marketed Product,S,prednisolone 5 MG Oral Tablet [Decortin] Box of 50 by Mylan,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Stada] Box of 50 by Stada,40883743,2017-08-24,,RxNorm Extension,OMOP2081705,Marketed Product,S,prednisolone 10 MG Oral Tablet [Prednisolon Stada] Box of 50 by Stada,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet Box of 100 by Mibe,40883744,2017-08-24,,RxNorm Extension,OMOP2081706,Marketed Product,S,prednisolone 10 MG Oral Tablet Box of 100 by Mibe,Drug,2099-12-31
+prednisolone,1550557,1970-01-01,,RxNorm,8638,Ingredient,S,prednisolone,Drug,2099-12-31
+prednisolone 10 MG,19112502,1970-01-01,,RxNorm,452820,Clinical Drug Comp,S,prednisolone 10 MG,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Deltacortril] Box of 20,41153734,2017-08-24,,RxNorm Extension,OMOP2351696,Branded Drug Box,S,prednisolone 1 MG Oral Tablet [Deltacortril] Box of 20,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Decortin],41153735,2017-08-24,,RxNorm Extension,OMOP2351697,Branded Drug,S,prednisolone 1 MG Oral Tablet [Decortin],Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Decaprednil] Box of 20,41153736,2017-08-24,,RxNorm Extension,OMOP2351698,Branded Drug Box,S,prednisolone 1 MG Oral Tablet [Decaprednil] Box of 20,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Ultracorten] Box of 20,41153743,2017-08-24,,RxNorm Extension,OMOP2351705,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Ultracorten] Box of 20,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednicorm] Box of 20,41153745,2017-08-24,,RxNorm Extension,OMOP2351707,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednicorm] Box of 20,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Dermosolon] Box of 100,41153746,2017-08-24,,RxNorm Extension,OMOP2351708,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Dermosolon] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Deltacortril] Box of 100,41153747,2017-08-24,,RxNorm Extension,OMOP2351709,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Deltacortril] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Deltacortril] Box of 20,41153748,2017-08-24,,RxNorm Extension,OMOP2351710,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Deltacortril] Box of 20,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decortin] Box of 150,41153749,2017-08-24,,RxNorm Extension,OMOP2351711,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Decortin] Box of 150,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Stada] Box of 100,41153765,2017-08-24,,RxNorm Extension,OMOP2351727,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Prednisolon Stada] Box of 100,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Stada] Box of 20,41153766,2017-08-24,,RxNorm Extension,OMOP2351728,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Prednisolon Stada] Box of 20,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 50,41271191,2017-08-24,,RxNorm Extension,OMOP2469153,Clinical Drug Box,S,prednisolone 1 MG Oral Tablet Box of 50,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet Box of 20,41271201,2017-08-24,,RxNorm Extension,OMOP2469163,Clinical Drug Box,S,prednisolone 10 MG Oral Tablet Box of 20,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 50 by Jenapharm,41320474,2017-08-24,,RxNorm Extension,OMOP2518436,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 50 by Jenapharm,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Rotexmedica] Box of 100 by Rotexmedica,41320476,2017-08-24,,RxNorm Extension,OMOP2518438,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Rotexmedica] Box of 100 by Rotexmedica,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Al] Box of 100 by Aliud,41320477,2017-08-24,,RxNorm Extension,OMOP2518439,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Al] Box of 100 by Aliud,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednihexal] Box of 50 by Novartis,41320478,2017-08-24,,RxNorm Extension,OMOP2518440,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednihexal] Box of 50 by Novartis,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni Coelin] Box of 10 by Dr R Pfleger,41320479,2017-08-24,,RxNorm Extension,OMOP2518441,Marketed Product,S,prednisolone 5 MG Oral Tablet [Predni Coelin] Box of 10 by Dr R Pfleger,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Dermosolon] Box of 100 by DermaPharm,41320480,2017-08-24,,RxNorm Extension,OMOP2518442,Marketed Product,S,prednisolone 5 MG Oral Tablet [Dermosolon] Box of 100 by DermaPharm,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Dermosolon] Box of 50 by DermaPharm,41320481,2017-08-24,,RxNorm Extension,OMOP2518443,Marketed Product,S,prednisolone 5 MG Oral Tablet [Dermosolon] Box of 50 by DermaPharm,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decortin] Box of 100 by Mylan,41320482,2017-08-24,,RxNorm Extension,OMOP2518444,Marketed Product,S,prednisolone 5 MG Oral Tablet [Decortin] Box of 100 by Mylan,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 100 by Acis,41320483,2017-08-24,,RxNorm Extension,OMOP2518445,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 100 by Acis,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 50 by Sanofi,41320484,2017-08-24,,RxNorm Extension,OMOP2518446,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 50 by Sanofi,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 20 by Orion,41320485,2017-08-24,,RxNorm Extension,OMOP2518447,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 20 by Orion,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 20 by Ge Hc Buchler,41320486,2017-08-24,,RxNorm Extension,OMOP2518448,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 20 by Ge Hc Buchler,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Al] Box of 100 by Aliud,41320487,2017-08-24,,RxNorm Extension,OMOP2518449,Marketed Product,S,prednisolone 10 MG Oral Tablet [Prednisolon Al] Box of 100 by Aliud,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Predni Blue] Box of 50 by Blue,41320488,2017-08-24,,RxNorm Extension,OMOP2518450,Marketed Product,S,prednisolone 10 MG Oral Tablet [Predni Blue] Box of 50 by Blue,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet Box of 200,41302308,2017-08-24,,RxNorm Extension,OMOP2500270,Clinical Drug Box,S,prednisolone 50 MG Oral Tablet Box of 200,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 10,41302313,2017-08-24,,RxNorm Extension,OMOP2500275,Clinical Drug Box,S,prednisolone 5 MG Oral Tablet Box of 10,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Dura] Box of 50 by Mylan,41164804,2017-08-24,,RxNorm Extension,OMOP2362766,Marketed Product,S,prednisolone 50 MG Oral Tablet [Prednisolon Dura] Box of 50 by Mylan,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Lentia] Box of 100 by Ge Hc Buchler,41164809,2017-08-24,,RxNorm Extension,OMOP2362771,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Lentia] Box of 100 by Ge Hc Buchler,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni H] Box of 50 by Sanofi,41164810,2017-08-24,,RxNorm Extension,OMOP2362772,Marketed Product,S,prednisolone 5 MG Oral Tablet [Predni H] Box of 50 by Sanofi,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni Blue] Box of 20 by Blue,41164811,2017-08-24,,RxNorm Extension,OMOP2362773,Marketed Product,S,prednisolone 5 MG Oral Tablet [Predni Blue] Box of 20 by Blue,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 100 by Jenapharm,41164812,2017-08-24,,RxNorm Extension,OMOP2362774,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 100 by Jenapharm,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednihexal] Box of 50 by Novartis,41164814,2017-08-24,,RxNorm Extension,OMOP2362776,Marketed Product,S,prednisolone 10 MG Oral Tablet [Prednihexal] Box of 50 by Novartis,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [PREDNISOLONE RATIOPHARM] Box of 50,41184758,2017-08-24,,RxNorm Extension,OMOP2382720,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [PREDNISOLONE RATIOPHARM] Box of 50,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Merck],41184759,2017-08-24,,RxNorm Extension,OMOP2382721,Branded Drug,S,prednisolone 50 MG Oral Tablet [Prednisolon Merck],Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Al] Box of 50,41184760,2017-08-24,,RxNorm Extension,OMOP2382722,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [Prednisolon Al] Box of 50,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Predni H] Box of 10,41184761,2017-08-24,,RxNorm Extension,OMOP2382723,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [Predni H] Box of 10,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Decortin] Box of 20,41184766,2017-08-24,,RxNorm Extension,OMOP2382728,Branded Drug Box,S,prednisolone 1 MG Oral Tablet [Decortin] Box of 20,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Rotexmedica] Box of 30,41184768,2017-08-24,,RxNorm Extension,OMOP2382730,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednisolon Rotexmedica] Box of 30,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Merck],41184769,2017-08-24,,RxNorm Extension,OMOP2382731,Branded Drug,S,prednisolone 5 MG Oral Tablet [Prednisolon Merck],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Hostacortin],41184770,2017-08-24,,RxNorm Extension,OMOP2382732,Branded Drug,S,prednisolone 5 MG Oral Tablet [Hostacortin],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Hefasolon] Box of 10,41184771,2017-08-24,,RxNorm Extension,OMOP2382733,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Hefasolon] Box of 10,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Hefasolon],41184772,2017-08-24,,RxNorm Extension,OMOP2382734,Branded Drug,S,prednisolone 5 MG Oral Tablet [Hefasolon],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Deltacortril] Box of 5000,41184773,2017-08-24,,RxNorm Extension,OMOP2382735,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Deltacortril] Box of 5000,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decortin] Box of 200,41184774,2017-08-24,,RxNorm Extension,OMOP2382736,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Decortin] Box of 200,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Predni H] Box of 100,41184783,2017-08-24,,RxNorm Extension,OMOP2382745,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Predni H] Box of 100,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednihexal] Box of 100,41184784,2017-08-24,,RxNorm Extension,OMOP2382746,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Prednihexal] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Boots,35749310,2017-08-24,,RxNorm Extension,OMOP2750771,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Boots,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Phoenix Labs,35749311,2017-08-24,,RxNorm Extension,OMOP2750772,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Phoenix Labs,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by Mawdsley-Brooks,35749312,2017-08-24,,RxNorm Extension,OMOP2750773,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by Mawdsley-Brooks,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet [Pevanti] Box of 30,35750568,2017-08-24,,RxNorm Extension,OMOP2752029,Branded Drug Box,S,prednisolone 5 MG Delayed Release Oral Tablet [Pevanti] Box of 30,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet [Pevanti] by AMCo,35753473,2017-08-24,,RxNorm Extension,OMOP2754934,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet [Pevanti] by AMCo,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 100 by Boston,35753474,2017-08-24,,RxNorm Extension,OMOP2754935,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 100 by Boston,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Co-Pharma,35753475,2017-08-24,,RxNorm Extension,OMOP2754936,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Co-Pharma,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 28 by Arrow Generics,35753476,2017-08-24,,RxNorm Extension,OMOP2754937,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 28 by Arrow Generics,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by Wockhardt,35753477,2017-08-24,,RxNorm Extension,OMOP2754938,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by Wockhardt,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet [Pevanti],35754793,2017-08-24,,RxNorm Extension,OMOP2756254,Branded Drug,S,prednisolone 5 MG Delayed Release Oral Tablet [Pevanti],Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet [Pevanti] Box of 30 by AMCo,35745112,2017-08-24,,RxNorm Extension,OMOP2746573,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet [Pevanti] Box of 30 by AMCo,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 1000 by Wockhardt,35745114,2017-08-24,,RxNorm Extension,OMOP2746575,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 1000 by Wockhardt,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 1000 by Kent,35745115,2017-08-24,,RxNorm Extension,OMOP2746576,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 1000 by Kent,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Wockhardt,35745116,2017-08-24,,RxNorm Extension,OMOP2746577,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Wockhardt,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Waymade,35745117,2017-08-24,,RxNorm Extension,OMOP2746578,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Waymade,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Mawdsley-Brooks,35745118,2017-08-24,,RxNorm Extension,OMOP2746579,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Mawdsley-Brooks,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by Co-Pharma,35745119,2017-08-24,,RxNorm Extension,OMOP2746580,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by Co-Pharma,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet [Pevanti] by AMCo,35757650,2017-08-24,,RxNorm Extension,OMOP2759111,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet [Pevanti] by AMCo,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet [Pevanti] Box of 30 by AMCo,35757652,2017-08-24,,RxNorm Extension,OMOP2759113,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet [Pevanti] Box of 30 by AMCo,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by Boston,35757653,2017-08-24,,RxNorm Extension,OMOP2759114,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by Boston,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 28 by Arrow Generics,35757654,2017-08-24,,RxNorm Extension,OMOP2759115,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 28 by Arrow Generics,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Arrow Generics,35765904,2017-08-24,,RxNorm Extension,OMOP2767365,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Arrow Generics,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Arrow Generics,35765905,2017-08-24,,RxNorm Extension,OMOP2767366,Marketed Product,S,prednisolone 5 MG Oral Tablet by Arrow Generics,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by Arrow Generics,35765907,2017-08-24,,RxNorm Extension,OMOP2767368,Marketed Product,S,prednisolone 1 MG Oral Tablet by Arrow Generics,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet [Pevanti] Box of 30,35767213,2017-08-24,,RxNorm Extension,OMOP2768674,Branded Drug Box,S,prednisolone 2.5 MG Delayed Release Oral Tablet [Pevanti] Box of 30,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 1000 by Alliance,35770222,2017-08-24,,RxNorm Extension,OMOP2771683,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 1000 by Alliance,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet [Pevanti],35771555,2017-08-24,,RxNorm Extension,OMOP2773016,Branded Drug,S,prednisolone 2.5 MG Delayed Release Oral Tablet [Pevanti],Drug,2099-12-31
+1 ML prednisolone 25 MG/ML Prefilled Syringe,21077153,2017-08-24,,RxNorm Extension,OMOP289398,Quant Clinical Drug,S,1 ML prednisolone 25 MG/ML Prefilled Syringe,Drug,2099-12-31
+1 ML prednisolone 25 MG/ML Prefilled Syringe Box of 10,21155690,2017-08-24,,RxNorm Extension,OMOP289399,Quant Clinical Box,S,1 ML prednisolone 25 MG/ML Prefilled Syringe Box of 10,Drug,2099-12-31
+1 ML prednisolone 25 MG/ML Prefilled Syringe [Deltastab],21096670,2017-08-24,,RxNorm Extension,OMOP289400,Quant Branded Drug,S,1 ML prednisolone 25 MG/ML Prefilled Syringe [Deltastab],Drug,2099-12-31
+1 ML prednisolone 25 MG/ML Prefilled Syringe [Deltastab] by AMCo,21165505,2017-08-24,,RxNorm Extension,OMOP289401,Marketed Product,S,1 ML prednisolone 25 MG/ML Prefilled Syringe [Deltastab] by AMCo,Drug,2099-12-31
+1 ML prednisolone 25 MG/ML Prefilled Syringe [Deltastab] Box of 10,21067268,2017-08-24,,RxNorm Extension,OMOP289402,Quant Branded Box,S,1 ML prednisolone 25 MG/ML Prefilled Syringe [Deltastab] Box of 10,Drug,2099-12-31
+1 ML prednisolone 25 MG/ML Prefilled Syringe [Deltastab] Box of 10 by AMCo,21106525,2017-08-24,,RxNorm Extension,OMOP289403,Marketed Product,S,1 ML prednisolone 25 MG/ML Prefilled Syringe [Deltastab] Box of 10 by AMCo,Drug,2099-12-31
+1 ML prednisolone 0.334 MG/ML Oral Solution,21096671,2017-08-24,,RxNorm Extension,OMOP289408,Quant Clinical Drug,S,1 ML prednisolone 0.334 MG/ML Oral Solution,Drug,2099-12-31
+1 ML prednisolone 0.334 MG/ML Oral Suspension,21086904,2017-08-24,,RxNorm Extension,OMOP289410,Quant Clinical Drug,S,1 ML prednisolone 0.334 MG/ML Oral Suspension,Drug,2099-12-31
+1 ML prednisolone 0.4 MG/ML Oral Suspension,21027997,2017-08-24,,RxNorm Extension,OMOP289430,Quant Clinical Drug,S,1 ML prednisolone 0.4 MG/ML Oral Suspension,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by Boots,35761829,2017-08-24,,RxNorm Extension,OMOP2763290,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by Boots,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by Arrow Generics,35761830,2017-08-24,,RxNorm Extension,OMOP2763291,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by Arrow Generics,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 1000,35762488,2017-08-24,,RxNorm Extension,OMOP2763949,Clinical Drug Box,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 1000,Drug,2099-12-31
+5 ML prednisolone 1 MG/ML Oral Solution,21058267,2017-08-24,,RxNorm Extension,OMOP306728,Quant Clinical Drug,S,5 ML prednisolone 1 MG/ML Oral Solution,Drug,2099-12-31
+5 ML prednisolone 1 MG/ML Oral Solution by Logixx,21117187,2017-08-24,,RxNorm Extension,OMOP306730,Marketed Product,S,5 ML prednisolone 1 MG/ML Oral Solution by Logixx,Drug,2099-12-31
+5 ML prednisolone 1 MG/ML Oral Solution by A A H,21136802,2017-08-24,,RxNorm Extension,OMOP306731,Marketed Product,S,5 ML prednisolone 1 MG/ML Oral Solution by A A H,Drug,2099-12-31
+5 ML prednisolone 1 MG/ML Oral Solution Box of 10,21176138,2017-08-24,,RxNorm Extension,OMOP306732,Quant Clinical Box,S,5 ML prednisolone 1 MG/ML Oral Solution Box of 10,Drug,2099-12-31
+5 ML prednisolone 1 MG/ML Oral Solution Box of 10 by Logixx,21068210,2017-08-24,,RxNorm Extension,OMOP306733,Marketed Product,S,5 ML prednisolone 1 MG/ML Oral Solution Box of 10 by Logixx,Drug,2099-12-31
+5 ML prednisolone 1 MG/ML Oral Solution Box of 10 by A A H,21068211,2017-08-24,,RxNorm Extension,OMOP306734,Marketed Product,S,5 ML prednisolone 1 MG/ML Oral Solution Box of 10 by A A H,Drug,2099-12-31
+5 ML prednisolone 1 MG/ML Oral Solution [Prednisolone Dompe],21048518,2017-08-24,,RxNorm Extension,OMOP306735,Quant Branded Drug,S,5 ML prednisolone 1 MG/ML Oral Solution [Prednisolone Dompe],Drug,2099-12-31
+5 ML prednisolone 1 MG/ML Oral Solution [Prednisolone Dompe] by Logixx,21097581,2017-08-24,,RxNorm Extension,OMOP306736,Marketed Product,S,5 ML prednisolone 1 MG/ML Oral Solution [Prednisolone Dompe] by Logixx,Drug,2099-12-31
+5 ML prednisolone 1 MG/ML Oral Solution [Prednisolone Dompe] Box of 10,21058268,2017-08-24,,RxNorm Extension,OMOP306737,Quant Branded Box,S,5 ML prednisolone 1 MG/ML Oral Solution [Prednisolone Dompe] Box of 10,Drug,2099-12-31
+5 ML prednisolone 1 MG/ML Oral Solution [Prednisolone Dompe] Box of 10 by Logixx,21097582,2017-08-24,,RxNorm Extension,OMOP306738,Marketed Product,S,5 ML prednisolone 1 MG/ML Oral Solution [Prednisolone Dompe] Box of 10 by Logixx,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 500,41177865,2017-08-24,,RxNorm Extension,OMOP2375827,Clinical Drug Box,S,prednisolone 5 MG Oral Tablet Box of 500,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [PREDNISOLONE RATIOPHARM] Box of 10,41216074,2017-08-24,,RxNorm Extension,OMOP2414036,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [PREDNISOLONE RATIOPHARM] Box of 10,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Dura] Box of 50,41216075,2017-08-24,,RxNorm Extension,OMOP2414037,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [Prednisolon Dura] Box of 50,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Ultracorten] Box of 1200,41216082,2017-08-24,,RxNorm Extension,OMOP2414044,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Ultracorten] Box of 1200,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Scherisolon] Box of 30,41216083,2017-08-24,,RxNorm Extension,OMOP2414045,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Scherisolon] Box of 30,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Stada] Box of 100,41216084,2017-08-24,,RxNorm Extension,OMOP2414046,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednisolon Stada] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Al] Box of 50,41216085,2017-08-24,,RxNorm Extension,OMOP2414047,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednisolon Al] Box of 50,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednicorm] Box of 100,41216086,2017-08-24,,RxNorm Extension,OMOP2414048,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednicorm] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Dermosolon] Box of 50,41216087,2017-08-24,,RxNorm Extension,OMOP2414049,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Dermosolon] Box of 50,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Dermosolon] Box of 20,41216088,2017-08-24,,RxNorm Extension,OMOP2414050,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Dermosolon] Box of 20,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decortin] Box of 30,41216089,2017-08-24,,RxNorm Extension,OMOP2414051,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Decortin] Box of 30,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Decortin] Box of 20,41216103,2017-08-24,,RxNorm Extension,OMOP2414065,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Decortin] Box of 20,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Decortin],41247107,2017-08-24,,RxNorm Extension,OMOP2445069,Branded Drug,S,prednisolone 50 MG Oral Tablet [Decortin],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Rotexmedica] Box of 50,41247114,2017-08-24,,RxNorm Extension,OMOP2445076,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednisolon Rotexmedica] Box of 50,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Merck] Box of 50,41247115,2017-08-24,,RxNorm Extension,OMOP2445077,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednisolon Merck] Box of 50,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Lentia],41247116,2017-08-24,,RxNorm Extension,OMOP2445078,Branded Drug,S,prednisolone 5 MG Oral Tablet [Prednisolon Lentia],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni Blue] Box of 100,41247117,2017-08-24,,RxNorm Extension,OMOP2445079,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Predni Blue] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decortin] Box of 1200,41247118,2017-08-24,,RxNorm Extension,OMOP2445080,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Decortin] Box of 1200,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Predni H] Box of 5000,41247134,2017-08-24,,RxNorm Extension,OMOP2445096,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Predni H] Box of 5000,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Decortin] Box of 100,41247135,2017-08-24,,RxNorm Extension,OMOP2445097,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Decortin] Box of 100,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Merck] Box of 10 by Mylan,41258021,2017-08-24,,RxNorm Extension,OMOP2455983,Marketed Product,S,prednisolone 50 MG Oral Tablet [Prednisolon Merck] Box of 10 by Mylan,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Decortin] Box of 100 by Mylan,41258022,2017-08-24,,RxNorm Extension,OMOP2455984,Marketed Product,S,prednisolone 50 MG Oral Tablet [Decortin] Box of 100 by Mylan,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 50 by Galen,41258023,2017-08-24,,RxNorm Extension,OMOP2455985,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 50 by Galen,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 20 by Jenapharm,41258024,2017-08-24,,RxNorm Extension,OMOP2455986,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 20 by Jenapharm,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Hefasolon] Box of 120 by Riemser,41258028,2017-08-24,,RxNorm Extension,OMOP2455990,Marketed Product,S,prednisolone 5 MG Oral Tablet [Hefasolon] Box of 120 by Riemser,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Hefasolon] Box of 100 by Riemser,41258029,2017-08-24,,RxNorm Extension,OMOP2455991,Marketed Product,S,prednisolone 5 MG Oral Tablet [Hefasolon] Box of 100 by Riemser,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Stada] Box of 100 by Stada,41258030,2017-08-24,,RxNorm Extension,OMOP2455992,Marketed Product,S,prednisolone 10 MG Oral Tablet [Prednisolon Stada] Box of 100 by Stada,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Dermosolon] Box of 50 by DermaPharm,41258031,2017-08-24,,RxNorm Extension,OMOP2455993,Marketed Product,S,prednisolone 10 MG Oral Tablet [Dermosolon] Box of 50 by DermaPharm,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [PREDNISOLONE RATIOPHARM],41277929,2017-08-24,,RxNorm Extension,OMOP2475891,Branded Drug,S,prednisolone 50 MG Oral Tablet [PREDNISOLONE RATIOPHARM],Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Predni Blue] Box of 10,41277930,2017-08-24,,RxNorm Extension,OMOP2475892,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [Predni Blue] Box of 10,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Decortin] Box of 100,41277931,2017-08-24,,RxNorm Extension,OMOP2475893,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [Decortin] Box of 100,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Decortin] Box of 50,41277932,2017-08-24,,RxNorm Extension,OMOP2475894,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [Decortin] Box of 50,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Deltacortril] Box of 100,41277938,2017-08-24,,RxNorm Extension,OMOP2475900,Branded Drug Box,S,prednisolone 1 MG Oral Tablet [Deltacortril] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Merck] Box of 20,41277942,2017-08-24,,RxNorm Extension,OMOP2475904,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednisolon Merck] Box of 20,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Al] Box of 30,41277943,2017-08-24,,RxNorm Extension,OMOP2475905,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednisolon Al] Box of 30,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni Blue],41277944,2017-08-24,,RxNorm Extension,OMOP2475906,Branded Drug,S,prednisolone 5 MG Oral Tablet [Predni Blue],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Duraprednisolon] Box of 30,41277945,2017-08-24,,RxNorm Extension,OMOP2475907,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Duraprednisolon] Box of 30,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decaprednil] Box of 50,41277946,2017-08-24,,RxNorm Extension,OMOP2475908,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Decaprednil] Box of 50,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Al] Box of 50,41277959,2017-08-24,,RxNorm Extension,OMOP2475921,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Prednisolon Al] Box of 50,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Merck] Box of 50,41309158,2017-08-24,,RxNorm Extension,OMOP2507120,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [Prednisolon Merck] Box of 50,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednihexal] Box of 10,41309159,2017-08-24,,RxNorm Extension,OMOP2507121,Branded Drug Box,S,prednisolone 50 MG Oral Tablet [Prednihexal] Box of 10,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Decaprednil] Box of 100,41309162,2017-08-24,,RxNorm Extension,OMOP2507124,Branded Drug Box,S,prednisolone 1 MG Oral Tablet [Decaprednil] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednihexal] Box of 20,41309170,2017-08-24,,RxNorm Extension,OMOP2507132,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Prednihexal] Box of 20,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni Blue] Box of 20,41309171,2017-08-24,,RxNorm Extension,OMOP2507133,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Predni Blue] Box of 20,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Hefasolon] Box of 50,41309172,2017-08-24,,RxNorm Extension,OMOP2507134,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Hefasolon] Box of 50,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Hefasolon] Box of 20,41309173,2017-08-24,,RxNorm Extension,OMOP2507135,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Hefasolon] Box of 20,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decortin] Box of 6000,41309174,2017-08-24,,RxNorm Extension,OMOP2507136,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Decortin] Box of 6000,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decortin] Box of 600,41309175,2017-08-24,,RxNorm Extension,OMOP2507137,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Decortin] Box of 600,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Merck] Box of 50,41309193,2017-08-24,,RxNorm Extension,OMOP2507155,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Prednisolon Merck] Box of 50,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet Box of 50 by Jenapharm,41196154,2017-08-24,,RxNorm Extension,OMOP2394116,Marketed Product,S,prednisolone 50 MG Oral Tablet Box of 50 by Jenapharm,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet Box of 10 by Acis,41196155,2017-08-24,,RxNorm Extension,OMOP2394117,Marketed Product,S,prednisolone 50 MG Oral Tablet Box of 10 by Acis,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 20 by Ge Hc Buchler,41196156,2017-08-24,,RxNorm Extension,OMOP2394118,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 20 by Ge Hc Buchler,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Hefasolon] Box of 50 by Riemser,41196160,2017-08-24,,RxNorm Extension,OMOP2394122,Marketed Product,S,prednisolone 5 MG Oral Tablet [Hefasolon] Box of 50 by Riemser,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 50 by Mibe,41196161,2017-08-24,,RxNorm Extension,OMOP2394123,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 50 by Mibe,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 50 by Ge Hc Buchler,41196162,2017-08-24,,RxNorm Extension,OMOP2394124,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 50 by Ge Hc Buchler,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 50 by Boerner,41196163,2017-08-24,,RxNorm Extension,OMOP2394125,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 50 by Boerner,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet Box of 10 by Jenapharm,41227226,2017-08-24,,RxNorm Extension,OMOP2425188,Marketed Product,S,prednisolone 50 MG Oral Tablet Box of 10 by Jenapharm,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 50 by Ge Hc Buchler,41227227,2017-08-24,,RxNorm Extension,OMOP2425189,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 50 by Ge Hc Buchler,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 20 by Galen,41227228,2017-08-24,,RxNorm Extension,OMOP2425190,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 20 by Galen,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Stada] Box of 20 by Stada,41227236,2017-08-24,,RxNorm Extension,OMOP2425198,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Stada] Box of 20 by Stada,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Lentia] Box of 30 by Ge Hc Buchler,41227237,2017-08-24,,RxNorm Extension,OMOP2425199,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Lentia] Box of 30 by Ge Hc Buchler,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Dura] Box of 100 by Mylan,41227238,2017-08-24,,RxNorm Extension,OMOP2425200,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Dura] Box of 100 by Mylan,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni Blue] Box of 50 by Blue,41227239,2017-08-24,,RxNorm Extension,OMOP2425201,Marketed Product,S,prednisolone 5 MG Oral Tablet [Predni Blue] Box of 50 by Blue,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 50 by Orion,41227240,2017-08-24,,RxNorm Extension,OMOP2425202,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 50 by Orion,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednihexal] Box of 100 by Novartis,41227241,2017-08-24,,RxNorm Extension,OMOP2425203,Marketed Product,S,prednisolone 10 MG Oral Tablet [Prednihexal] Box of 100 by Novartis,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet Box of 100,41240344,2017-08-24,,RxNorm Extension,OMOP2438306,Clinical Drug Box,S,prednisolone 10 MG Oral Tablet Box of 100,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet Box of 50,41240345,2017-08-24,,RxNorm Extension,OMOP2438307,Clinical Drug Box,S,prednisolone 10 MG Oral Tablet Box of 50,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 5000,41209376,2017-08-24,,RxNorm Extension,OMOP2407338,Clinical Drug Box,S,prednisolone 5 MG Oral Tablet Box of 5000,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 50,41209377,2017-08-24,,RxNorm Extension,OMOP2407339,Clinical Drug Box,S,prednisolone 5 MG Oral Tablet Box of 50,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet Box of 5000,41209383,2017-08-24,,RxNorm Extension,OMOP2407345,Clinical Drug Box,S,prednisolone 10 MG Oral Tablet Box of 5000,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet Box of 10,41146911,2017-08-24,,RxNorm Extension,OMOP2344873,Clinical Drug Box,S,prednisolone 50 MG Oral Tablet Box of 10,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 100 by Galen,41289145,2017-08-24,,RxNorm Extension,OMOP2487107,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 100 by Galen,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 50 by Jenapharm,41289146,2017-08-24,,RxNorm Extension,OMOP2487108,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 50 by Jenapharm,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Merck] Box of 20 by Mylan,41289148,2017-08-24,,RxNorm Extension,OMOP2487110,Marketed Product,S,prednisolone 10 MG Oral Tablet [Prednisolon Merck] Box of 20 by Mylan,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednihexal] Box of 20 by Novartis,41289149,2017-08-24,,RxNorm Extension,OMOP2487111,Marketed Product,S,prednisolone 10 MG Oral Tablet [Prednihexal] Box of 20 by Novartis,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Dermosolon] Box of 100 by DermaPharm,41289150,2017-08-24,,RxNorm Extension,OMOP2487112,Marketed Product,S,prednisolone 10 MG Oral Tablet [Dermosolon] Box of 100 by DermaPharm,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 30 by TEVA,43024862,2019-10-06,,RxNorm Extension,OMOP4839965,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 30 by TEVA,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [SOLUPRED] Box of 30,43024864,2019-10-06,,RxNorm Extension,OMOP4839967,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [SOLUPRED] Box of 30,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [SOLUPRED] Box of 30 by Sanofi,43024814,2019-10-06,,RxNorm Extension,OMOP4839968,Marketed Product,S,prednisolone 5 MG Oral Tablet [SOLUPRED] Box of 30 by Sanofi,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet by Bristol Labs,36810960,2019-01-28,,RxNorm Extension,OMOP4824997,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet by Bristol Labs,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by Bristol Labs,36812136,2019-01-28,,RxNorm Extension,OMOP4826169,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by Bristol Labs,Drug,2099-12-31
+5 ML prednisolone 1 MG/ML Oral Solution by Alliance,40716271,2018-06-04,,RxNorm Extension,OMOP4740874,Marketed Product,S,5 ML prednisolone 1 MG/ML Oral Solution by Alliance,Drug,2099-12-31
+5 ML prednisolone 1 MG/ML Oral Solution Box of 10 by Alliance,40716270,2018-06-04,,RxNorm Extension,OMOP4740875,Marketed Product,S,5 ML prednisolone 1 MG/ML Oral Solution Box of 10 by Alliance,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by Mylan Seiyaku,35150648,2019-03-11,,RxNorm Extension,OMOP4807696,Marketed Product,S,prednisolone 1 MG Oral Tablet by Mylan Seiyaku,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by Asahi Kasei,35145109,2019-03-11,,RxNorm Extension,OMOP4802202,Marketed Product,S,prednisolone 1 MG Oral Tablet by Asahi Kasei,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Prelon],35132472,2019-03-11,,RxNorm Extension,OMOP4789697,Branded Drug,S,prednisolone 1 MG Oral Tablet [Prelon],Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by Generics,21128906,2017-08-24,,RxNorm Extension,OMOP389207,Marketed Product,S,prednisolone 1 MG Oral Tablet by Generics,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by Mawdsley-Brooks,21040699,2017-08-24,,RxNorm Extension,OMOP389218,Marketed Product,S,prednisolone 1 MG Oral Tablet by Mawdsley-Brooks,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by Boston,21168396,2017-08-24,,RxNorm Extension,OMOP389229,Marketed Product,S,prednisolone 1 MG Oral Tablet by Boston,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by Kent,21099578,2017-08-24,,RxNorm Extension,OMOP389240,Marketed Product,S,prednisolone 1 MG Oral Tablet by Kent,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by Sigma-Tau,21070245,2017-08-24,,RxNorm Extension,OMOP389251,Marketed Product,S,prednisolone 1 MG Oral Tablet by Sigma-Tau,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by Alliance,21060295,2017-08-24,,RxNorm Extension,OMOP389262,Marketed Product,S,prednisolone 1 MG Oral Tablet by Alliance,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by Waymade,21050461,2017-08-24,,RxNorm Extension,OMOP389273,Marketed Product,S,prednisolone 1 MG Oral Tablet by Waymade,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by DE,21021102,2017-08-24,,RxNorm Extension,OMOP389284,Marketed Product,S,prednisolone 1 MG Oral Tablet by DE,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by Co-Pharma,21089674,2017-08-24,,RxNorm Extension,OMOP389295,Marketed Product,S,prednisolone 1 MG Oral Tablet by Co-Pharma,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by A A H,21099579,2017-08-24,,RxNorm Extension,OMOP389306,Marketed Product,S,prednisolone 1 MG Oral Tablet by A A H,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by TEVA,21148653,2017-08-24,,RxNorm Extension,OMOP389318,Marketed Product,S,prednisolone 1 MG Oral Tablet by TEVA,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by Actavis,21040700,2017-08-24,,RxNorm Extension,OMOP389329,Marketed Product,S,prednisolone 1 MG Oral Tablet by Actavis,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by Dowelhurst,21040701,2017-08-24,,RxNorm Extension,OMOP389339,Marketed Product,S,prednisolone 1 MG Oral Tablet by Dowelhurst,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by Boots,21109434,2017-08-24,,RxNorm Extension,OMOP389349,Marketed Product,S,prednisolone 1 MG Oral Tablet by Boots,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by Wockhardt,21158592,2017-08-24,,RxNorm Extension,OMOP389360,Marketed Product,S,prednisolone 1 MG Oral Tablet by Wockhardt,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by Almus,21040702,2017-08-24,,RxNorm Extension,OMOP389371,Marketed Product,S,prednisolone 1 MG Oral Tablet by Almus,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 28,21148654,2017-08-24,,RxNorm Extension,OMOP389382,Clinical Drug Box,S,prednisolone 1 MG Oral Tablet Box of 28,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 28 by Generics,21079961,2017-08-24,,RxNorm Extension,OMOP389393,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 28 by Generics,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 28 by Mawdsley-Brooks,21099580,2017-08-24,,RxNorm Extension,OMOP389403,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 28 by Mawdsley-Brooks,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 28 by Kent,21079962,2017-08-24,,RxNorm Extension,OMOP389414,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 28 by Kent,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 28 by Alliance,21021103,2017-08-24,,RxNorm Extension,OMOP389426,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 28 by Alliance,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 28 by Waymade,21128907,2017-08-24,,RxNorm Extension,OMOP389436,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 28 by Waymade,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 28 by DE,21168397,2017-08-24,,RxNorm Extension,OMOP389446,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 28 by DE,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 28 by Co-Pharma,21158593,2017-08-24,,RxNorm Extension,OMOP389457,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 28 by Co-Pharma,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 28 by A A H,21128908,2017-08-24,,RxNorm Extension,OMOP389467,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 28 by A A H,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 28 by TEVA,21148655,2017-08-24,,RxNorm Extension,OMOP389477,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 28 by TEVA,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 28 by Actavis,21070246,2017-08-24,,RxNorm Extension,OMOP389488,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 28 by Actavis,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 28 by Dowelhurst,21070247,2017-08-24,,RxNorm Extension,OMOP389497,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 28 by Dowelhurst,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 28 by Boots,21021104,2017-08-24,,RxNorm Extension,OMOP389508,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 28 by Boots,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 28 by Wockhardt,21089675,2017-08-24,,RxNorm Extension,OMOP389516,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 28 by Wockhardt,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 28 by Almus,21070248,2017-08-24,,RxNorm Extension,OMOP389526,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 28 by Almus,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 100,21148656,2017-08-24,,RxNorm Extension,OMOP389536,Clinical Drug Box,S,prednisolone 1 MG Oral Tablet Box of 100,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 100 by Boston,21148657,2017-08-24,,RxNorm Extension,OMOP389546,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 100 by Boston,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 100 by Sigma-Tau,21021105,2017-08-24,,RxNorm Extension,OMOP389557,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 100 by Sigma-Tau,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 500,21030820,2017-08-24,,RxNorm Extension,OMOP389568,Clinical Drug Box,S,prednisolone 1 MG Oral Tablet Box of 500,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 500 by Kent,21128909,2017-08-24,,RxNorm Extension,OMOP389579,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 500 by Kent,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 1000,21128910,2017-08-24,,RxNorm Extension,OMOP389590,Clinical Drug Box,S,prednisolone 1 MG Oral Tablet Box of 1000,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 1000 by Alliance,21138806,2017-08-24,,RxNorm Extension,OMOP389601,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 1000 by Alliance,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet by Focus,21168400,2017-08-24,,RxNorm Extension,OMOP390060,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet by Focus,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet by Sigma-Tau,21119129,2017-08-24,,RxNorm Extension,OMOP390070,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet by Sigma-Tau,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet by Alliance,21168401,2017-08-24,,RxNorm Extension,OMOP390079,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet by Alliance,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet by DE,21089678,2017-08-24,,RxNorm Extension,OMOP390088,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet by DE,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet by AMCo,21050464,2017-08-24,,RxNorm Extension,OMOP390098,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet by AMCo,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet by A A H,21158595,2017-08-24,,RxNorm Extension,OMOP390109,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet by A A H,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet by Sovereign,21138809,2017-08-24,,RxNorm Extension,OMOP390120,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet by Sovereign,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet Box of 30,21099584,2017-08-24,,RxNorm Extension,OMOP390131,Clinical Drug Box,S,prednisolone 5 MG Disintegrating Oral Tablet Box of 30,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet Box of 30 by Focus,21099585,2017-08-24,,RxNorm Extension,OMOP390142,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet Box of 30 by Focus,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet Box of 30 by Sigma-Tau,21089679,2017-08-24,,RxNorm Extension,OMOP390152,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet Box of 30 by Sigma-Tau,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet Box of 30 by Alliance,21070250,2017-08-24,,RxNorm Extension,OMOP390163,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet Box of 30 by Alliance,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet Box of 30 by DE,21158596,2017-08-24,,RxNorm Extension,OMOP390170,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet Box of 30 by DE,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet Box of 30 by AMCo,21119130,2017-08-24,,RxNorm Extension,OMOP390178,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet Box of 30 by AMCo,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet Box of 30 by A A H,21138810,2017-08-24,,RxNorm Extension,OMOP390189,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet Box of 30 by A A H,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet Box of 30 by Sovereign,21119131,2017-08-24,,RxNorm Extension,OMOP390198,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet Box of 30 by Sovereign,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Generics,21070251,2017-08-24,,RxNorm Extension,OMOP390218,Marketed Product,S,prednisolone 5 MG Oral Tablet by Generics,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Mawdsley-Brooks,21070252,2017-08-24,,RxNorm Extension,OMOP390229,Marketed Product,S,prednisolone 5 MG Oral Tablet by Mawdsley-Brooks,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Phoenix Labs,21040705,2017-08-24,,RxNorm Extension,OMOP390241,Marketed Product,S,prednisolone 5 MG Oral Tablet by Phoenix Labs,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Boston,21148659,2017-08-24,,RxNorm Extension,OMOP390251,Marketed Product,S,prednisolone 5 MG Oral Tablet by Boston,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Kent,21060298,2017-08-24,,RxNorm Extension,OMOP390261,Marketed Product,S,prednisolone 5 MG Oral Tablet by Kent,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Alliance,21128912,2017-08-24,,RxNorm Extension,OMOP390272,Marketed Product,S,prednisolone 5 MG Oral Tablet by Alliance,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Waymade,21089680,2017-08-24,,RxNorm Extension,OMOP390282,Marketed Product,S,prednisolone 5 MG Oral Tablet by Waymade,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by DE,21158597,2017-08-24,,RxNorm Extension,OMOP390291,Marketed Product,S,prednisolone 5 MG Oral Tablet by DE,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Co-Pharma,21138811,2017-08-24,,RxNorm Extension,OMOP390301,Marketed Product,S,prednisolone 5 MG Oral Tablet by Co-Pharma,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by A A H,21099586,2017-08-24,,RxNorm Extension,OMOP390312,Marketed Product,S,prednisolone 5 MG Oral Tablet by A A H,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by TEVA,21168402,2017-08-24,,RxNorm Extension,OMOP390323,Marketed Product,S,prednisolone 5 MG Oral Tablet by TEVA,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Actavis,21158598,2017-08-24,,RxNorm Extension,OMOP390333,Marketed Product,S,prednisolone 5 MG Oral Tablet by Actavis,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Dowelhurst,21128913,2017-08-24,,RxNorm Extension,OMOP390344,Marketed Product,S,prednisolone 5 MG Oral Tablet by Dowelhurst,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Boots,21050465,2017-08-24,,RxNorm Extension,OMOP390355,Marketed Product,S,prednisolone 5 MG Oral Tablet by Boots,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Wockhardt,21138812,2017-08-24,,RxNorm Extension,OMOP390362,Marketed Product,S,prednisolone 5 MG Oral Tablet by Wockhardt,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Almus,21148660,2017-08-24,,RxNorm Extension,OMOP390373,Marketed Product,S,prednisolone 5 MG Oral Tablet by Almus,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 28,21119132,2017-08-24,,RxNorm Extension,OMOP390384,Clinical Drug Box,S,prednisolone 5 MG Oral Tablet Box of 28,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 28 by Generics,21099587,2017-08-24,,RxNorm Extension,OMOP390395,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 28 by Generics,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 28 by Mawdsley-Brooks,21040706,2017-08-24,,RxNorm Extension,OMOP390404,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 28 by Mawdsley-Brooks,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 28 by Phoenix Labs,21158599,2017-08-24,,RxNorm Extension,OMOP390413,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 28 by Phoenix Labs,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 28 by Kent,21099588,2017-08-24,,RxNorm Extension,OMOP390424,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 28 by Kent,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 28 by Alliance,21040707,2017-08-24,,RxNorm Extension,OMOP390435,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 28 by Alliance,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 28 by Waymade,21060299,2017-08-24,,RxNorm Extension,OMOP390447,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 28 by Waymade,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 28 by DE,21138813,2017-08-24,,RxNorm Extension,OMOP390458,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 28 by DE,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 28 by Co-Pharma,21021110,2017-08-24,,RxNorm Extension,OMOP390467,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 28 by Co-Pharma,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 28 by A A H,21158600,2017-08-24,,RxNorm Extension,OMOP390478,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 28 by A A H,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 28 by TEVA,21148661,2017-08-24,,RxNorm Extension,OMOP390487,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 28 by TEVA,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 28 by Actavis,21168403,2017-08-24,,RxNorm Extension,OMOP390495,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 28 by Actavis,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 28 by Dowelhurst,21138814,2017-08-24,,RxNorm Extension,OMOP390504,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 28 by Dowelhurst,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 28 by Boots,21070253,2017-08-24,,RxNorm Extension,OMOP390510,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 28 by Boots,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 28 by Wockhardt,21030821,2017-08-24,,RxNorm Extension,OMOP390518,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 28 by Wockhardt,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 28 by Almus,21099589,2017-08-24,,RxNorm Extension,OMOP390529,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 28 by Almus,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 30,21158601,2017-08-24,,RxNorm Extension,OMOP390541,Clinical Drug Box,S,prednisolone 5 MG Oral Tablet Box of 30,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 100,21089681,2017-08-24,,RxNorm Extension,OMOP390550,Clinical Drug Box,S,prednisolone 5 MG Oral Tablet Box of 100,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 100 by Boston,21099590,2017-08-24,,RxNorm Extension,OMOP390560,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 100 by Boston,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 1000,21128914,2017-08-24,,RxNorm Extension,OMOP390568,Clinical Drug Box,S,prednisolone 5 MG Oral Tablet Box of 1000,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 1000 by Kent,21021111,2017-08-24,,RxNorm Extension,OMOP390579,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 1000 by Kent,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 1000 by Alliance,21099591,2017-08-24,,RxNorm Extension,OMOP390590,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 1000 by Alliance,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 1000 by Wockhardt,21089682,2017-08-24,,RxNorm Extension,OMOP390599,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 1000 by Wockhardt,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Pevanti],21030822,2017-08-24,,RxNorm Extension,OMOP390606,Branded Drug,S,prednisolone 5 MG Oral Tablet [Pevanti],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Pevanti] by AMCo,21040708,2017-08-24,,RxNorm Extension,OMOP390614,Marketed Product,S,prednisolone 5 MG Oral Tablet [Pevanti] by AMCo,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Pevanti] Box of 30,21119133,2017-08-24,,RxNorm Extension,OMOP390619,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Pevanti] Box of 30,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Pevanti] Box of 30 by AMCo,21119134,2017-08-24,,RxNorm Extension,OMOP390626,Marketed Product,S,prednisolone 5 MG Oral Tablet [Pevanti] Box of 30 by AMCo,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by Phoenix Labs,21119135,2017-08-24,,RxNorm Extension,OMOP390646,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by Phoenix Labs,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by Kent,21021112,2017-08-24,,RxNorm Extension,OMOP390653,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by Kent,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by Sigma-Tau,21128915,2017-08-24,,RxNorm Extension,OMOP390660,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by Sigma-Tau,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by Waymade,21109436,2017-08-24,,RxNorm Extension,OMOP390681,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by Waymade,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by DE,21021113,2017-08-24,,RxNorm Extension,OMOP390688,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by DE,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by A A H,21030823,2017-08-24,,RxNorm Extension,OMOP390699,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by A A H,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by Approved Prescription,21168404,2017-08-24,,RxNorm Extension,OMOP390708,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by Approved Prescription,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by Alliance,21099593,2017-08-24,,RxNorm Extension,OMOP390718,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by Alliance,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by TEVA,21070254,2017-08-24,,RxNorm Extension,OMOP390728,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by TEVA,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by Actavis,21070255,2017-08-24,,RxNorm Extension,OMOP390737,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by Actavis,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by Dowelhurst,21138815,2017-08-24,,RxNorm Extension,OMOP390748,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by Dowelhurst,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by Almus,21050466,2017-08-24,,RxNorm Extension,OMOP390759,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by Almus,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 28,21119136,2017-08-24,,RxNorm Extension,OMOP390769,Clinical Drug Box,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 28,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Kent,21109437,2017-08-24,,RxNorm Extension,OMOP390779,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Kent,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Sigma-Tau,21070256,2017-08-24,,RxNorm Extension,OMOP390788,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Sigma-Tau,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Alliance,21060300,2017-08-24,,RxNorm Extension,OMOP390799,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Alliance,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by DE,21040709,2017-08-24,,RxNorm Extension,OMOP390809,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by DE,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by A A H,21119137,2017-08-24,,RxNorm Extension,OMOP390821,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by A A H,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by TEVA,21070257,2017-08-24,,RxNorm Extension,OMOP390832,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by TEVA,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Actavis,21050467,2017-08-24,,RxNorm Extension,OMOP390839,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Actavis,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Dowelhurst,21030824,2017-08-24,,RxNorm Extension,OMOP390847,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Dowelhurst,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Almus,21138816,2017-08-24,,RxNorm Extension,OMOP390850,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Almus,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 30,21050468,2017-08-24,,RxNorm Extension,OMOP390859,Clinical Drug Box,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 30,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 30 by Phoenix Labs,21158602,2017-08-24,,RxNorm Extension,OMOP390868,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 30 by Phoenix Labs,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 30 by Waymade,21128916,2017-08-24,,RxNorm Extension,OMOP390886,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 30 by Waymade,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 30 by DE,21128917,2017-08-24,,RxNorm Extension,OMOP390897,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 30 by DE,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 30 by A A H,21050469,2017-08-24,,RxNorm Extension,OMOP390908,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 30 by A A H,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 30 by Alliance,21158603,2017-08-24,,RxNorm Extension,OMOP390919,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 30 by Alliance,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 30 by TEVA,21099594,2017-08-24,,RxNorm Extension,OMOP390929,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 30 by TEVA,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 30 by Actavis,21128918,2017-08-24,,RxNorm Extension,OMOP390940,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 30 by Actavis,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 100,21138817,2017-08-24,,RxNorm Extension,OMOP390951,Clinical Drug Box,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 100,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 100 by Kent,21050470,2017-08-24,,RxNorm Extension,OMOP390960,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 100 by Kent,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 100 by A A H,21050471,2017-08-24,,RxNorm Extension,OMOP390977,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 100 by A A H,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 100 by Alliance,21070258,2017-08-24,,RxNorm Extension,OMOP390987,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 100 by Alliance,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 100 by Actavis,21070259,2017-08-24,,RxNorm Extension,OMOP390993,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 100 by Actavis,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 500,21099595,2017-08-24,,RxNorm Extension,OMOP391002,Clinical Drug Box,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 500,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 500 by A A H,21128919,2017-08-24,,RxNorm Extension,OMOP391011,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 500 by A A H,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 500 by Approved Prescription,21070260,2017-08-24,,RxNorm Extension,OMOP391021,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 500 by Approved Prescription,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet [Deltacortril],21128920,2017-08-24,,RxNorm Extension,OMOP391029,Branded Drug,S,prednisolone 5 MG Delayed Release Oral Tablet [Deltacortril],Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet [Deltacortril] by Alliance,21109438,2017-08-24,,RxNorm Extension,OMOP391039,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet [Deltacortril] by Alliance,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet [Deltacortril] Box of 30,21148662,2017-08-24,,RxNorm Extension,OMOP391046,Branded Drug Box,S,prednisolone 5 MG Delayed Release Oral Tablet [Deltacortril] Box of 30,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet [Deltacortril] Box of 30 by Alliance,21040710,2017-08-24,,RxNorm Extension,OMOP391052,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet [Deltacortril] Box of 30 by Alliance,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet [Deltacortril] Box of 100,21158604,2017-08-24,,RxNorm Extension,OMOP391062,Branded Drug Box,S,prednisolone 5 MG Delayed Release Oral Tablet [Deltacortril] Box of 100,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet [Deltacortril] Box of 100 by Alliance,21099596,2017-08-24,,RxNorm Extension,OMOP391072,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet [Deltacortril] Box of 100 by Alliance,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet [Dilacort],21021115,2017-08-24,,RxNorm Extension,OMOP391081,Branded Drug,S,prednisolone 5 MG Delayed Release Oral Tablet [Dilacort],Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet [Dilacort] by Auden Mckenzie,21070261,2017-08-24,,RxNorm Extension,OMOP391093,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet [Dilacort] by Auden Mckenzie,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet [Dilacort] Box of 28,21099597,2017-08-24,,RxNorm Extension,OMOP391104,Branded Drug Box,S,prednisolone 5 MG Delayed Release Oral Tablet [Dilacort] Box of 28,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet [Dilacort] Box of 28 by Auden Mckenzie,21148663,2017-08-24,,RxNorm Extension,OMOP391115,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet [Dilacort] Box of 28 by Auden Mckenzie,Drug,2099-12-31
+prednisolone 0.334 MG/ML Oral Solution,21158608,2017-08-24,,RxNorm Extension,OMOP391389,Clinical Drug,S,prednisolone 0.334 MG/ML Oral Solution,Drug,2099-12-31
+prednisolone 0.334 MG/ML Oral Suspension,21050475,2017-08-24,,RxNorm Extension,OMOP391411,Clinical Drug,S,prednisolone 0.334 MG/ML Oral Suspension,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet Box of 30,21089686,2017-08-24,,RxNorm Extension,OMOP391581,Clinical Drug Box,S,prednisolone 10 MG Oral Tablet Box of 30,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Pevanti],21128921,2017-08-24,,RxNorm Extension,OMOP391591,Branded Drug,S,prednisolone 10 MG Oral Tablet [Pevanti],Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Pevanti] by AMCo,21119139,2017-08-24,,RxNorm Extension,OMOP391598,Marketed Product,S,prednisolone 10 MG Oral Tablet [Pevanti] by AMCo,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Pevanti] Box of 30,21089687,2017-08-24,,RxNorm Extension,OMOP391609,Branded Drug Box,S,prednisolone 10 MG Oral Tablet [Pevanti] Box of 30,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Pevanti] Box of 30 by AMCo,21079965,2017-08-24,,RxNorm Extension,OMOP391617,Marketed Product,S,prednisolone 10 MG Oral Tablet [Pevanti] Box of 30 by AMCo,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet by A A H,21060303,2017-08-24,,RxNorm Extension,OMOP391656,Marketed Product,S,prednisolone 50 MG Oral Tablet by A A H,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet by Approved Prescription,21030826,2017-08-24,,RxNorm Extension,OMOP391665,Marketed Product,S,prednisolone 50 MG Oral Tablet by Approved Prescription,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet Box of 100,21168407,2017-08-24,,RxNorm Extension,OMOP391670,Clinical Drug Box,S,prednisolone 50 MG Oral Tablet Box of 100,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet Box of 100 by A A H,21158610,2017-08-24,,RxNorm Extension,OMOP391679,Marketed Product,S,prednisolone 50 MG Oral Tablet Box of 100 by A A H,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet Box of 100 by Approved Prescription,21060304,2017-08-24,,RxNorm Extension,OMOP391687,Marketed Product,S,prednisolone 50 MG Oral Tablet Box of 100 by Approved Prescription,Drug,2099-12-31
+prednisolone 0.4 MG/ML Oral Suspension,21030827,2017-08-24,,RxNorm Extension,OMOP391849,Clinical Drug,S,prednisolone 0.4 MG/ML Oral Suspension,Drug,2099-12-31
+prednisolone 25 MG Oral Tablet by Phoenix Labs,21030828,2017-08-24,,RxNorm Extension,OMOP391945,Marketed Product,S,prednisolone 25 MG Oral Tablet by Phoenix Labs,Drug,2099-12-31
+prednisolone 25 MG Oral Tablet by Alliance,21089688,2017-08-24,,RxNorm Extension,OMOP391955,Marketed Product,S,prednisolone 25 MG Oral Tablet by Alliance,Drug,2099-12-31
+prednisolone 25 MG Oral Tablet by A A H,21079968,2017-08-24,,RxNorm Extension,OMOP391964,Marketed Product,S,prednisolone 25 MG Oral Tablet by A A H,Drug,2099-12-31
+prednisolone 25 MG Oral Tablet by Actavis,21099603,2017-08-24,,RxNorm Extension,OMOP391974,Marketed Product,S,prednisolone 25 MG Oral Tablet by Actavis,Drug,2099-12-31
+prednisolone 25 MG Oral Tablet by Zentiva,21040711,2017-08-24,,RxNorm Extension,OMOP391982,Marketed Product,S,prednisolone 25 MG Oral Tablet by Zentiva,Drug,2099-12-31
+prednisolone 25 MG Oral Tablet Box of 56,21148669,2017-08-24,,RxNorm Extension,OMOP391991,Clinical Drug Box,S,prednisolone 25 MG Oral Tablet Box of 56,Drug,2099-12-31
+prednisolone 25 MG Oral Tablet Box of 56 by Phoenix Labs,21050480,2017-08-24,,RxNorm Extension,OMOP392002,Marketed Product,S,prednisolone 25 MG Oral Tablet Box of 56 by Phoenix Labs,Drug,2099-12-31
+prednisolone 25 MG Oral Tablet Box of 56 by Alliance,21138822,2017-08-24,,RxNorm Extension,OMOP392011,Marketed Product,S,prednisolone 25 MG Oral Tablet Box of 56 by Alliance,Drug,2099-12-31
+prednisolone 25 MG Oral Tablet Box of 56 by A A H,21109440,2017-08-24,,RxNorm Extension,OMOP392019,Marketed Product,S,prednisolone 25 MG Oral Tablet Box of 56 by A A H,Drug,2099-12-31
+prednisolone 25 MG Oral Tablet Box of 56 by Actavis,21168408,2017-08-24,,RxNorm Extension,OMOP392028,Marketed Product,S,prednisolone 25 MG Oral Tablet Box of 56 by Actavis,Drug,2099-12-31
+prednisolone 25 MG Oral Tablet Box of 56 by Zentiva,21079969,2017-08-24,,RxNorm Extension,OMOP392037,Marketed Product,S,prednisolone 25 MG Oral Tablet Box of 56 by Zentiva,Drug,2099-12-31
+prednisolone 25 MG Oral Tablet [Pevanti],21168409,2017-08-24,,RxNorm Extension,OMOP392046,Branded Drug,S,prednisolone 25 MG Oral Tablet [Pevanti],Drug,2099-12-31
+prednisolone 25 MG Oral Tablet [Pevanti] by AMCo,21119141,2017-08-24,,RxNorm Extension,OMOP392057,Marketed Product,S,prednisolone 25 MG Oral Tablet [Pevanti] by AMCo,Drug,2099-12-31
+prednisolone 25 MG Oral Tablet [Pevanti] Box of 56,21089689,2017-08-24,,RxNorm Extension,OMOP392068,Branded Drug Box,S,prednisolone 25 MG Oral Tablet [Pevanti] Box of 56,Drug,2099-12-31
+prednisolone 25 MG Oral Tablet [Pevanti] Box of 56 by AMCo,21040712,2017-08-24,,RxNorm Extension,OMOP392079,Marketed Product,S,prednisolone 25 MG Oral Tablet [Pevanti] Box of 56 by AMCo,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet by Phoenix Labs,21138823,2017-08-24,,RxNorm Extension,OMOP392194,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet by Phoenix Labs,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet by Kent,21109442,2017-08-24,,RxNorm Extension,OMOP392203,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet by Kent,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet by Sigma-Tau,21168414,2017-08-24,,RxNorm Extension,OMOP392211,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet by Sigma-Tau,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet by Waymade,21148670,2017-08-24,,RxNorm Extension,OMOP392227,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet by Waymade,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet by DE,21070266,2017-08-24,,RxNorm Extension,OMOP392238,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet by DE,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet by A A H,21021120,2017-08-24,,RxNorm Extension,OMOP392249,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet by A A H,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet by Approved Prescription,21070267,2017-08-24,,RxNorm Extension,OMOP392255,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet by Approved Prescription,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet by Alliance,21070268,2017-08-24,,RxNorm Extension,OMOP392258,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet by Alliance,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet by TEVA,21138824,2017-08-24,,RxNorm Extension,OMOP392263,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet by TEVA,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet by Actavis,21089690,2017-08-24,,RxNorm Extension,OMOP392271,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet by Actavis,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet by Dowelhurst,21070269,2017-08-24,,RxNorm Extension,OMOP392279,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet by Dowelhurst,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet by Almus,21138825,2017-08-24,,RxNorm Extension,OMOP392286,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet by Almus,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28,21158612,2017-08-24,,RxNorm Extension,OMOP392293,Clinical Drug Box,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by Kent,21119143,2017-08-24,,RxNorm Extension,OMOP392299,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by Kent,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by Sigma-Tau,21138826,2017-08-24,,RxNorm Extension,OMOP392307,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by Sigma-Tau,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by Alliance,21070270,2017-08-24,,RxNorm Extension,OMOP392316,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by Alliance,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by Waymade,21119144,2017-08-24,,RxNorm Extension,OMOP392322,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by Waymade,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by DE,21099605,2017-08-24,,RxNorm Extension,OMOP392330,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by DE,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by A A H,21070271,2017-08-24,,RxNorm Extension,OMOP392338,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by A A H,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by TEVA,21168415,2017-08-24,,RxNorm Extension,OMOP392348,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by TEVA,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by Actavis,21040713,2017-08-24,,RxNorm Extension,OMOP392359,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by Actavis,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by Dowelhurst,21079970,2017-08-24,,RxNorm Extension,OMOP392369,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by Dowelhurst,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by Almus,21030829,2017-08-24,,RxNorm Extension,OMOP392380,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by Almus,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 30,21109443,2017-08-24,,RxNorm Extension,OMOP392388,Clinical Drug Box,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 30,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 30 by Phoenix Labs,21030830,2017-08-24,,RxNorm Extension,OMOP392399,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 30 by Phoenix Labs,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 30 by DE,21109444,2017-08-24,,RxNorm Extension,OMOP392421,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 30 by DE,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 30 by A A H,21168416,2017-08-24,,RxNorm Extension,OMOP392432,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 30 by A A H,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 30 by Alliance,21070272,2017-08-24,,RxNorm Extension,OMOP392440,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 30 by Alliance,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 30 by TEVA,21060305,2017-08-24,,RxNorm Extension,OMOP392448,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 30 by TEVA,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 30 by Actavis,21030831,2017-08-24,,RxNorm Extension,OMOP392457,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 30 by Actavis,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 100,21040714,2017-08-24,,RxNorm Extension,OMOP392468,Clinical Drug Box,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 100,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 100 by Kent,21070273,2017-08-24,,RxNorm Extension,OMOP392477,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 100 by Kent,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 100 by A A H,21148672,2017-08-24,,RxNorm Extension,OMOP392489,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 100 by A A H,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 100 by Alliance,21168417,2017-08-24,,RxNorm Extension,OMOP392494,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 100 by Alliance,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 100 by Actavis,21070274,2017-08-24,,RxNorm Extension,OMOP392505,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 100 by Actavis,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 500,21089691,2017-08-24,,RxNorm Extension,OMOP392515,Clinical Drug Box,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 500,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 500 by A A H,21138827,2017-08-24,,RxNorm Extension,OMOP392524,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 500 by A A H,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 500 by Approved Prescription,21021121,2017-08-24,,RxNorm Extension,OMOP392531,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 500 by Approved Prescription,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet [Deltacortril],21079971,2017-08-24,,RxNorm Extension,OMOP392540,Branded Drug,S,prednisolone 2.5 MG Delayed Release Oral Tablet [Deltacortril],Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet [Deltacortril] by Alliance,21089692,2017-08-24,,RxNorm Extension,OMOP392550,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet [Deltacortril] by Alliance,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet [Deltacortril] Box of 30,21040715,2017-08-24,,RxNorm Extension,OMOP392558,Branded Drug Box,S,prednisolone 2.5 MG Delayed Release Oral Tablet [Deltacortril] Box of 30,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet [Deltacortril] Box of 30 by Alliance,21158613,2017-08-24,,RxNorm Extension,OMOP392567,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet [Deltacortril] Box of 30 by Alliance,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet [Deltacortril] Box of 100,21079972,2017-08-24,,RxNorm Extension,OMOP392576,Branded Drug Box,S,prednisolone 2.5 MG Delayed Release Oral Tablet [Deltacortril] Box of 100,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet [Deltacortril] Box of 100 by Alliance,21109445,2017-08-24,,RxNorm Extension,OMOP392586,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet [Deltacortril] Box of 100 by Alliance,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet [Dilacort],21079973,2017-08-24,,RxNorm Extension,OMOP392596,Branded Drug,S,prednisolone 2.5 MG Delayed Release Oral Tablet [Dilacort],Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet [Dilacort] by Auden Mckenzie,21040716,2017-08-24,,RxNorm Extension,OMOP392607,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet [Dilacort] by Auden Mckenzie,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet [Dilacort] Box of 28,21128925,2017-08-24,,RxNorm Extension,OMOP392616,Branded Drug Box,S,prednisolone 2.5 MG Delayed Release Oral Tablet [Dilacort] Box of 28,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet [Dilacort] Box of 28 by Auden Mckenzie,21109446,2017-08-24,,RxNorm Extension,OMOP392627,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet [Dilacort] Box of 28 by Auden Mckenzie,Drug,2099-12-31
+prednisolone 25 MG Oral Tablet by Phoenix Healthcare Distribution,40749971,2018-06-04,,RxNorm Extension,OMOP4707740,Marketed Product,S,prednisolone 25 MG Oral Tablet by Phoenix Healthcare Distribution,Drug,2099-12-31
+prednisolone 25 MG Oral Tablet Box of 56 by Phoenix Healthcare Distribution,40749970,2018-06-04,,RxNorm Extension,OMOP4707741,Marketed Product,S,prednisolone 25 MG Oral Tablet Box of 56 by Phoenix Healthcare Distribution,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by Sigma,40749560,2018-06-04,,RxNorm Extension,OMOP4707748,Marketed Product,S,prednisolone 1 MG Oral Tablet by Sigma,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by Strides Shasun,40749559,2018-06-04,,RxNorm Extension,OMOP4707749,Marketed Product,S,prednisolone 1 MG Oral Tablet by Strides Shasun,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by Genesis,40749558,2018-06-04,,RxNorm Extension,OMOP4707750,Marketed Product,S,prednisolone 1 MG Oral Tablet by Genesis,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 28 by Strides Shasun,40749557,2018-06-04,,RxNorm Extension,OMOP4707751,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 28 by Strides Shasun,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 28 by Genesis,40749556,2018-06-04,,RxNorm Extension,OMOP4707752,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 28 by Genesis,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 30 by Alliance,40749555,2018-06-04,,RxNorm Extension,OMOP4707753,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 30 by Alliance,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 30 by A A H,40749554,2018-06-04,,RxNorm Extension,OMOP4707754,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 30 by A A H,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet Box of 100 by Sigma,40749553,2018-06-04,,RxNorm Extension,OMOP4707755,Marketed Product,S,prednisolone 1 MG Oral Tablet Box of 100 by Sigma,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet by A A H,40749550,2018-06-04,,RxNorm Extension,OMOP4707758,Marketed Product,S,prednisolone 10 MG Oral Tablet by A A H,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet by Actavis,40749549,2018-06-04,,RxNorm Extension,OMOP4707759,Marketed Product,S,prednisolone 10 MG Oral Tablet by Actavis,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet Box of 28,40749548,2018-06-04,,RxNorm Extension,OMOP4707760,Clinical Drug Box,S,prednisolone 10 MG Oral Tablet Box of 28,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet Box of 28 by A A H,40749547,2018-06-04,,RxNorm Extension,OMOP4707761,Marketed Product,S,prednisolone 10 MG Oral Tablet Box of 28 by A A H,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet Box of 28 by Actavis,40749546,2018-06-04,,RxNorm Extension,OMOP4707762,Marketed Product,S,prednisolone 10 MG Oral Tablet Box of 28 by Actavis,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet by Sigma,40749493,2018-06-04,,RxNorm Extension,OMOP4707777,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet by Sigma,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet by Phoenix Healthcare Distribution,40749492,2018-06-04,,RxNorm Extension,OMOP4707778,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet by Phoenix Healthcare Distribution,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by Sigma,40749491,2018-06-04,,RxNorm Extension,OMOP4707779,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 28 by Sigma,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet Box of 30 by Phoenix Healthcare Distribution,40749490,2018-06-04,,RxNorm Extension,OMOP4707780,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet Box of 30 by Phoenix Healthcare Distribution,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet [Dilacort] by Crescent,40749489,2018-06-04,,RxNorm Extension,OMOP4707781,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet [Dilacort] by Crescent,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet [Dilacort] by TEVA,40749488,2018-06-04,,RxNorm Extension,OMOP4707782,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet [Dilacort] by TEVA,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet [Dilacort] Box of 28 by Crescent,40749487,2018-06-04,,RxNorm Extension,OMOP4707783,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet [Dilacort] Box of 28 by Crescent,Drug,2099-12-31
+prednisolone 2.5 MG Delayed Release Oral Tablet [Dilacort] Box of 28 by TEVA,40749486,2018-06-04,,RxNorm Extension,OMOP4707784,Marketed Product,S,prednisolone 2.5 MG Delayed Release Oral Tablet [Dilacort] Box of 28 by TEVA,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by Sigma,40749467,2018-06-04,,RxNorm Extension,OMOP4707802,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by Sigma,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by Phoenix Healthcare Distribution,40749466,2018-06-04,,RxNorm Extension,OMOP4707803,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by Phoenix Healthcare Distribution,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet by Bristol Labs,40749465,2018-06-04,,RxNorm Extension,OMOP4707804,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet by Bristol Labs,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Sigma,40749464,2018-06-04,,RxNorm Extension,OMOP4707805,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Sigma,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Bristol Labs,40749463,2018-06-04,,RxNorm Extension,OMOP4707806,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 28 by Bristol Labs,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet Box of 30 by Phoenix Healthcare Distribution,40749462,2018-06-04,,RxNorm Extension,OMOP4707807,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet Box of 30 by Phoenix Healthcare Distribution,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet [Dilacort] by Crescent,40749461,2018-06-04,,RxNorm Extension,OMOP4707808,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet [Dilacort] by Crescent,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet [Dilacort] by TEVA,40749460,2018-06-04,,RxNorm Extension,OMOP4707809,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet [Dilacort] by TEVA,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet [Dilacort] Box of 28 by Crescent,40749459,2018-06-04,,RxNorm Extension,OMOP4707810,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet [Dilacort] Box of 28 by Crescent,Drug,2099-12-31
+prednisolone 5 MG Delayed Release Oral Tablet [Dilacort] Box of 28 by TEVA,40749458,2018-06-04,,RxNorm Extension,OMOP4707811,Marketed Product,S,prednisolone 5 MG Delayed Release Oral Tablet [Dilacort] Box of 28 by TEVA,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet by Sigma,40749457,2018-06-04,,RxNorm Extension,OMOP4707812,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet by Sigma,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet by Phoenix Labs,40749456,2018-06-04,,RxNorm Extension,OMOP4707813,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet by Phoenix Labs,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet by Actavis,40749455,2018-06-04,,RxNorm Extension,OMOP4707814,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet by Actavis,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet Box of 30 by Sigma,40749454,2018-06-04,,RxNorm Extension,OMOP4707815,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet Box of 30 by Sigma,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet Box of 30 by Phoenix Labs,40749453,2018-06-04,,RxNorm Extension,OMOP4707816,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet Box of 30 by Phoenix Labs,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet Box of 30 by Actavis,40749452,2018-06-04,,RxNorm Extension,OMOP4707817,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet Box of 30 by Actavis,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Sigma,40749449,2018-06-04,,RxNorm Extension,OMOP4707820,Marketed Product,S,prednisolone 5 MG Oral Tablet by Sigma,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Phoenix Healthcare Distribution,40749448,2018-06-04,,RxNorm Extension,OMOP4707821,Marketed Product,S,prednisolone 5 MG Oral Tablet by Phoenix Healthcare Distribution,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Strides Shasun,40749447,2018-06-04,,RxNorm Extension,OMOP4707822,Marketed Product,S,prednisolone 5 MG Oral Tablet by Strides Shasun,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Focus,40749446,2018-06-04,,RxNorm Extension,OMOP4707823,Marketed Product,S,prednisolone 5 MG Oral Tablet by Focus,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Sovereign,40749445,2018-06-04,,RxNorm Extension,OMOP4707824,Marketed Product,S,prednisolone 5 MG Oral Tablet by Sovereign,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Genesis,40749444,2018-06-04,,RxNorm Extension,OMOP4707825,Marketed Product,S,prednisolone 5 MG Oral Tablet by Genesis,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by AMCo,40749443,2018-06-04,,RxNorm Extension,OMOP4707826,Marketed Product,S,prednisolone 5 MG Oral Tablet by AMCo,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 28 by Phoenix Healthcare Distribution,40749442,2018-06-04,,RxNorm Extension,OMOP4707827,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 28 by Phoenix Healthcare Distribution,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 28 by Strides Shasun,40749441,2018-06-04,,RxNorm Extension,OMOP4707828,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 28 by Strides Shasun,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 28 by Genesis,40749440,2018-06-04,,RxNorm Extension,OMOP4707829,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 28 by Genesis,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 30 by Sigma,40749439,2018-06-04,,RxNorm Extension,OMOP4707830,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 30 by Sigma,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 30 by Focus,40749438,2018-06-04,,RxNorm Extension,OMOP4707831,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 30 by Focus,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 30 by Sovereign,40749437,2018-06-04,,RxNorm Extension,OMOP4707832,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 30 by Sovereign,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 30 by Alliance,40749436,2018-06-04,,RxNorm Extension,OMOP4707833,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 30 by Alliance,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 30 by A A H,40749435,2018-06-04,,RxNorm Extension,OMOP4707834,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 30 by A A H,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 30 by DE,40749434,2018-06-04,,RxNorm Extension,OMOP4707835,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 30 by DE,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 30 by Phoenix Labs,40749433,2018-06-04,,RxNorm Extension,OMOP4707836,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 30 by Phoenix Labs,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 30 by AMCo,40749432,2018-06-04,,RxNorm Extension,OMOP4707837,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 30 by AMCo,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 30 by Actavis,40749431,2018-06-04,,RxNorm Extension,OMOP4707838,Marketed Product,S,prednisolone 5 MG Oral Tablet Box of 30 by Actavis,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet Box of 50,43201183,2017-08-24,,RxNorm Extension,OMOP449791,Clinical Drug Box,S,prednisolone 5 MG Disintegrating Oral Tablet Box of 50,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet [SOLUPRED],43157291,2017-08-24,,RxNorm Extension,OMOP449792,Branded Drug,S,prednisolone 5 MG Disintegrating Oral Tablet [SOLUPRED],Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet [SOLUPRED] Box of 30,43168162,2017-08-24,,RxNorm Extension,OMOP449793,Branded Drug Box,S,prednisolone 5 MG Disintegrating Oral Tablet [SOLUPRED] Box of 30,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet [SOLUPRED] Box of 30 by Sanofi,43201184,2017-08-24,,RxNorm Extension,OMOP449794,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet [SOLUPRED] Box of 30 by Sanofi,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet [SOLUPRED] Box of 50,43211978,2017-08-24,,RxNorm Extension,OMOP449795,Branded Drug Box,S,prednisolone 5 MG Disintegrating Oral Tablet [SOLUPRED] Box of 50,Drug,2099-12-31
+prednisolone 5 MG Disintegrating Oral Tablet [SOLUPRED] Box of 50 by Sanofi,43211979,2017-08-24,,RxNorm Extension,OMOP449796,Marketed Product,S,prednisolone 5 MG Disintegrating Oral Tablet [SOLUPRED] Box of 50 by Sanofi,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet by Mibe,43600466,2017-08-24,,RxNorm Extension,OMOP880478,Marketed Product,S,prednisolone 1 MG Oral Tablet by Mibe,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Decortin] by Merck,43852578,2017-08-24,,RxNorm Extension,OMOP880500,Marketed Product,S,prednisolone 1 MG Oral Tablet [Decortin] by Merck,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet by Mibe,43708482,2017-08-24,,RxNorm Extension,OMOP880602,Marketed Product,S,prednisolone 10 MG Oral Tablet by Mibe,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet by Galen,43690612,2017-08-24,,RxNorm Extension,OMOP880613,Marketed Product,S,prednisolone 10 MG Oral Tablet by Galen,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Dura],43654649,2017-08-24,,RxNorm Extension,OMOP880624,Branded Drug,S,prednisolone 10 MG Oral Tablet [Prednisolon Dura],Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Dura] by Mylan,43672763,2017-08-24,,RxNorm Extension,OMOP880635,Marketed Product,S,prednisolone 10 MG Oral Tablet [Prednisolon Dura] by Mylan,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Stada],43600467,2017-08-24,,RxNorm Extension,OMOP880646,Branded Drug,S,prednisolone 10 MG Oral Tablet [Prednisolon Stada],Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Stada] by Stada,43798368,2017-08-24,,RxNorm Extension,OMOP880657,Marketed Product,S,prednisolone 10 MG Oral Tablet [Prednisolon Stada] by Stada,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Acis],43834625,2017-08-24,,RxNorm Extension,OMOP880668,Branded Drug,S,prednisolone 10 MG Oral Tablet [Prednisolon Acis],Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Acis] by Acis,43834626,2017-08-24,,RxNorm Extension,OMOP880679,Marketed Product,S,prednisolone 10 MG Oral Tablet [Prednisolon Acis] by Acis,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Al],43690613,2017-08-24,,RxNorm Extension,OMOP880690,Branded Drug,S,prednisolone 10 MG Oral Tablet [Prednisolon Al],Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednisolon Al] by Aliud,43708483,2017-08-24,,RxNorm Extension,OMOP880701,Marketed Product,S,prednisolone 10 MG Oral Tablet [Prednisolon Al] by Aliud,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Decortin] by Merck,43600468,2017-08-24,,RxNorm Extension,OMOP880722,Marketed Product,S,prednisolone 10 MG Oral Tablet [Decortin] by Merck,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednihexal],43708484,2017-08-24,,RxNorm Extension,OMOP880733,Branded Drug,S,prednisolone 10 MG Oral Tablet [Prednihexal],Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Prednihexal] by Hexal,43798369,2017-08-24,,RxNorm Extension,OMOP880740,Marketed Product,S,prednisolone 10 MG Oral Tablet [Prednihexal] by Hexal,Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Dermosolon],43636595,2017-08-24,,RxNorm Extension,OMOP880751,Branded Drug,S,prednisolone 10 MG Oral Tablet [Dermosolon],Drug,2099-12-31
+prednisolone 10 MG Oral Tablet [Dermosolon] by DermaPharm,43672764,2017-08-24,,RxNorm Extension,OMOP880762,Marketed Product,S,prednisolone 10 MG Oral Tablet [Dermosolon] by DermaPharm,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet by Mibe,43852580,2017-08-24,,RxNorm Extension,OMOP880860,Marketed Product,S,prednisolone 50 MG Oral Tablet by Mibe,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet by Galen,43672768,2017-08-24,,RxNorm Extension,OMOP880861,Marketed Product,S,prednisolone 50 MG Oral Tablet by Galen,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Dura],43834629,2017-08-24,,RxNorm Extension,OMOP880862,Branded Drug,S,prednisolone 50 MG Oral Tablet [Prednisolon Dura],Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Dura] by Mylan,43834630,2017-08-24,,RxNorm Extension,OMOP880863,Marketed Product,S,prednisolone 50 MG Oral Tablet [Prednisolon Dura] by Mylan,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Predni H] by Winthrop,43708486,2017-08-24,,RxNorm Extension,OMOP880865,Marketed Product,S,prednisolone 50 MG Oral Tablet [Predni H] by Winthrop,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Stada],43708487,2017-08-24,,RxNorm Extension,OMOP880866,Branded Drug,S,prednisolone 50 MG Oral Tablet [Prednisolon Stada],Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Stada] by Stada,43816413,2017-08-24,,RxNorm Extension,OMOP880867,Marketed Product,S,prednisolone 50 MG Oral Tablet [Prednisolon Stada] by Stada,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Acis],43690616,2017-08-24,,RxNorm Extension,OMOP880868,Branded Drug,S,prednisolone 50 MG Oral Tablet [Prednisolon Acis],Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Acis] by Acis,43672769,2017-08-24,,RxNorm Extension,OMOP880869,Marketed Product,S,prednisolone 50 MG Oral Tablet [Prednisolon Acis] by Acis,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Al],43672770,2017-08-24,,RxNorm Extension,OMOP880870,Branded Drug,S,prednisolone 50 MG Oral Tablet [Prednisolon Al],Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednisolon Al] by Aliud,43708488,2017-08-24,,RxNorm Extension,OMOP880871,Marketed Product,S,prednisolone 50 MG Oral Tablet [Prednisolon Al] by Aliud,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Decortin] by Merck,43816414,2017-08-24,,RxNorm Extension,OMOP880873,Marketed Product,S,prednisolone 50 MG Oral Tablet [Decortin] by Merck,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednihexal],43726414,2017-08-24,,RxNorm Extension,OMOP880874,Branded Drug,S,prednisolone 50 MG Oral Tablet [Prednihexal],Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Prednihexal] by Hexal,43780420,2017-08-24,,RxNorm Extension,OMOP880875,Marketed Product,S,prednisolone 50 MG Oral Tablet [Prednihexal] by Hexal,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [PREDNISOLONE RATIOPHARM] by Ratiopharm,43600477,2017-08-24,,RxNorm Extension,OMOP880877,Marketed Product,S,prednisolone 50 MG Oral Tablet [PREDNISOLONE RATIOPHARM] by Ratiopharm,Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Dermosolon],43672771,2017-08-24,,RxNorm Extension,OMOP880879,Branded Drug,S,prednisolone 50 MG Oral Tablet [Dermosolon],Drug,2099-12-31
+prednisolone 50 MG Oral Tablet [Dermosolon] by DermaPharm,43654651,2017-08-24,,RxNorm Extension,OMOP880880,Marketed Product,S,prednisolone 50 MG Oral Tablet [Dermosolon] by DermaPharm,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Mibe,43636599,2017-08-24,,RxNorm Extension,OMOP880897,Marketed Product,S,prednisolone 5 MG Oral Tablet by Mibe,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet by Galen,43708491,2017-08-24,,RxNorm Extension,OMOP880898,Marketed Product,S,prednisolone 5 MG Oral Tablet by Galen,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Dura],43816418,2017-08-24,,RxNorm Extension,OMOP880899,Branded Drug,S,prednisolone 5 MG Oral Tablet [Prednisolon Dura],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Dura] by Mylan,43834632,2017-08-24,,RxNorm Extension,OMOP880900,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Dura] by Mylan,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Predni H] by Winthrop,43672772,2017-08-24,,RxNorm Extension,OMOP880902,Marketed Product,S,prednisolone 5 MG Oral Tablet [Predni H] by Winthrop,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Stada],43762331,2017-08-24,,RxNorm Extension,OMOP880903,Branded Drug,S,prednisolone 5 MG Oral Tablet [Prednisolon Stada],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Stada] by Stada,43636600,2017-08-24,,RxNorm Extension,OMOP880904,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Stada] by Stada,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Acis],43798374,2017-08-24,,RxNorm Extension,OMOP880905,Branded Drug,S,prednisolone 5 MG Oral Tablet [Prednisolon Acis],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Acis] by Acis,43672773,2017-08-24,,RxNorm Extension,OMOP880906,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Acis] by Acis,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Al],43816419,2017-08-24,,RxNorm Extension,OMOP880908,Branded Drug,S,prednisolone 5 MG Oral Tablet [Prednisolon Al],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednisolon Al] by Aliud,43654655,2017-08-24,,RxNorm Extension,OMOP880909,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednisolon Al] by Aliud,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Decortin] by Merck,43654656,2017-08-24,,RxNorm Extension,OMOP880911,Marketed Product,S,prednisolone 5 MG Oral Tablet [Decortin] by Merck,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednihexal],43600478,2017-08-24,,RxNorm Extension,OMOP880912,Branded Drug,S,prednisolone 5 MG Oral Tablet [Prednihexal],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Prednihexal] by Hexal,43654657,2017-08-24,,RxNorm Extension,OMOP880913,Marketed Product,S,prednisolone 5 MG Oral Tablet [Prednihexal] by Hexal,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [PREDNISOLONE RATIOPHARM] by Ratiopharm,43762332,2017-08-24,,RxNorm Extension,OMOP880915,Marketed Product,S,prednisolone 5 MG Oral Tablet [PREDNISOLONE RATIOPHARM] by Ratiopharm,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Dermosolon],43726416,2017-08-24,,RxNorm Extension,OMOP880916,Branded Drug,S,prednisolone 5 MG Oral Tablet [Dermosolon],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Dermosolon] by DermaPharm,43726417,2017-08-24,,RxNorm Extension,OMOP880917,Marketed Product,S,prednisolone 5 MG Oral Tablet [Dermosolon] by DermaPharm,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet Box of 60,43289858,2017-08-24,,RxNorm Extension,OMOP546039,Clinical Drug Box,S,prednisolone 5 MG Oral Tablet Box of 60,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Panafcortelone],43273660,2017-08-24,,RxNorm Extension,OMOP546040,Branded Drug,S,prednisolone 5 MG Oral Tablet [Panafcortelone],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Panafcortelone] Box of 60,43289859,2017-08-24,,RxNorm Extension,OMOP546042,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Panafcortelone] Box of 60,Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Solone],43268146,2017-08-24,,RxNorm Extension,OMOP546043,Branded Drug,S,prednisolone 5 MG Oral Tablet [Solone],Drug,2099-12-31
+prednisolone 5 MG Oral Tablet [Solone] Box of 60,43295291,2017-08-24,,RxNorm Extension,OMOP546044,Branded Drug Box,S,prednisolone 5 MG Oral Tablet [Solone] Box of 60,Drug,2099-12-31
+prednisolone 25 MG Oral Tablet [Panafcortelone],43284462,2017-08-24,,RxNorm Extension,OMOP546048,Branded Drug,S,prednisolone 25 MG Oral Tablet [Panafcortelone],Drug,2099-12-31
+prednisolone 25 MG Oral Tablet [Panafcortelone] Box of 30,43268147,2017-08-24,,RxNorm Extension,OMOP546049,Branded Drug Box,S,prednisolone 25 MG Oral Tablet [Panafcortelone] Box of 30,Drug,2099-12-31
+prednisolone 25 MG Oral Tablet [Solone],43257278,2017-08-24,,RxNorm Extension,OMOP546050,Branded Drug,S,prednisolone 25 MG Oral Tablet [Solone],Drug,2099-12-31
+prednisolone 25 MG Oral Tablet [Solone] Box of 30,43289860,2017-08-24,,RxNorm Extension,OMOP546051,Branded Drug Box,S,prednisolone 25 MG Oral Tablet [Solone] Box of 30,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Panafcortelone],43262688,2017-08-24,,RxNorm Extension,OMOP546056,Branded Drug,S,prednisolone 1 MG Oral Tablet [Panafcortelone],Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Panafcortelone] Box of 100,43284464,2017-08-24,,RxNorm Extension,OMOP546057,Branded Drug Box,S,prednisolone 1 MG Oral Tablet [Panafcortelone] Box of 100,Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Predsolone],43295293,2017-08-24,,RxNorm Extension,OMOP546058,Branded Drug,S,prednisolone 1 MG Oral Tablet [Predsolone],Drug,2099-12-31
+prednisolone 1 MG Oral Tablet [Predsolone] Box of 100,43295294,2017-08-24,,RxNorm Extension,OMOP546060,Branded Drug Box,S,prednisolone 1 MG Oral Tablet [Predsolone] Box of 100,Drug,2099-12-31
