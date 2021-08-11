@@ -1,6 +1,6 @@
 # Rural Health Domain Team Project Repository
 
-[Join the Rural Heallth Domain Team](https://covid.cd2h.org/rural-health)
+[Join the Rural Health Domain Team](https://covid.cd2h.org/rural-health)
 
 ## Mission
 The Rural Health Domain Team seeks to understand the epidemiology, utilization, treatment, and outcomes of the COVID-19 pandemic in rural communities. The overarching goal is to develop better evidence for potential differences in the COVID-19 epidemic response and outcomes for rural health care centers and rural dwellers. Studying the at-risk populations and unique challenges faced by rural communities during and after the pandemic may provide opportunities for improving rural health and health care. 
