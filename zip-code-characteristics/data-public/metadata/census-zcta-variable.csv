@@ -1,0 +1,102 @@
+variable_code,desired,variable_name,variable_name_original,concept
+B01003_001,TRUE,"pop","Estimate!!Total","TOTAL POPULATION"
+B01001_002,TRUE,"pop_male","Estimate!!Total!!Male","SEX BY AGE"
+B01001_003,TRUE,"pop_male_00_04","Estimate!!Total!!Male!!Under 5 years","SEX BY AGE"
+B01001_004,TRUE,"pop_male_00_09","Estimate!!Total!!Male!!5 to 9 years","SEX BY AGE"
+B01001_005,TRUE,"pop_male_10_14","Estimate!!Total!!Male!!10 to 14 years","SEX BY AGE"
+B01001_006,TRUE,"pop_male_15_17","Estimate!!Total!!Male!!15 to 17 years","SEX BY AGE"
+B01001_007,TRUE,"pop_male_18_19","Estimate!!Total!!Male!!18 and 19 years","SEX BY AGE"
+B01001_008,TRUE,"pop_male_20_20","Estimate!!Total!!Male!!20 years","SEX BY AGE"
+B01001_009,TRUE,"pop_male_21_21","Estimate!!Total!!Male!!21 years","SEX BY AGE"
+B01001_010,TRUE,"pop_male_22_24","Estimate!!Total!!Male!!22 to 24 years","SEX BY AGE"
+B01001_011,TRUE,"pop_male_25_29","Estimate!!Total!!Male!!25 to 29 years","SEX BY AGE"
+B01001_012,TRUE,"pop_male_30_34","Estimate!!Total!!Male!!30 to 34 years","SEX BY AGE"
+B01001_013,TRUE,"pop_male_35_39","Estimate!!Total!!Male!!35 to 39 years","SEX BY AGE"
+B01001_014,TRUE,"pop_male_40_44","Estimate!!Total!!Male!!40 to 44 years","SEX BY AGE"
+B01001_015,TRUE,"pop_male_45_49","Estimate!!Total!!Male!!45 to 49 years","SEX BY AGE"
+B01001_016,TRUE,"pop_male_50_54","Estimate!!Total!!Male!!50 to 54 years","SEX BY AGE"
+B01001_017,TRUE,"pop_male_55_59","Estimate!!Total!!Male!!55 to 59 years","SEX BY AGE"
+B01001_018,TRUE,"pop_male_60_61","Estimate!!Total!!Male!!60 and 61 years","SEX BY AGE"
+B01001_019,TRUE,"pop_male_62_64","Estimate!!Total!!Male!!62 to 64 years","SEX BY AGE"
+B01001_020,TRUE,"pop_male_65_66","Estimate!!Total!!Male!!65 and 66 years","SEX BY AGE"
+B01001_021,TRUE,"pop_male_67_69","Estimate!!Total!!Male!!67 to 69 years","SEX BY AGE"
+B01001_022,TRUE,"pop_male_70_74","Estimate!!Total!!Male!!70 to 74 years","SEX BY AGE"
+B01001_023,TRUE,"pop_male_75_79","Estimate!!Total!!Male!!75 to 79 years","SEX BY AGE"
+B01001_024,TRUE,"pop_male_80_84","Estimate!!Total!!Male!!80 to 84 years","SEX BY AGE"
+B01001_025,TRUE,"pop_male_85_plus","Estimate!!Total!!Male!!85 years and over","SEX BY AGE"
+B01001_026,TRUE,"pop_female","Estimate!!Total!!Female","SEX BY AGE"
+B01001_027,TRUE,"pop_female_00_04","Estimate!!Total!!Female!!Under 5 years","SEX BY AGE"
+B01001_028,TRUE,"pop_female_00_09","Estimate!!Total!!Female!!5 to 9 years","SEX BY AGE"
+B01001_029,TRUE,"pop_female_10_14","Estimate!!Total!!Female!!10 to 14 years","SEX BY AGE"
+B01001_030,TRUE,"pop_female_15_17","Estimate!!Total!!Female!!15 to 17 years","SEX BY AGE"
+B01001_031,TRUE,"pop_female_18_19","Estimate!!Total!!Female!!18 and 19 years","SEX BY AGE"
+B01001_032,TRUE,"pop_female_20_20","Estimate!!Total!!Female!!20 years","SEX BY AGE"
+B01001_033,TRUE,"pop_female_21_21","Estimate!!Total!!Female!!21 years","SEX BY AGE"
+B01001_034,TRUE,"pop_female_22_24","Estimate!!Total!!Female!!22 to 24 years","SEX BY AGE"
+B01001_035,TRUE,"pop_female_25_29","Estimate!!Total!!Female!!25 to 29 years","SEX BY AGE"
+B01001_036,TRUE,"pop_female_30_34","Estimate!!Total!!Female!!30 to 34 years","SEX BY AGE"
+B01001_037,TRUE,"pop_female_35_39","Estimate!!Total!!Female!!35 to 39 years","SEX BY AGE"
+B01001_038,TRUE,"pop_female_40_44","Estimate!!Total!!Female!!40 to 44 years","SEX BY AGE"
+B01001_039,TRUE,"pop_female_45_49","Estimate!!Total!!Female!!45 to 49 years","SEX BY AGE"
+B01001_040,TRUE,"pop_female_50_54","Estimate!!Total!!Female!!50 to 54 years","SEX BY AGE"
+B01001_041,TRUE,"pop_female_55_59","Estimate!!Total!!Female!!55 to 59 years","SEX BY AGE"
+B01001_042,TRUE,"pop_female_60_61","Estimate!!Total!!Female!!60 and 61 years","SEX BY AGE"
+B01001_043,TRUE,"pop_female_62_64","Estimate!!Total!!Female!!62 to 64 years","SEX BY AGE"
+B01001_044,TRUE,"pop_female_65_66","Estimate!!Total!!Female!!65 and 66 years","SEX BY AGE"
+B01001_045,TRUE,"pop_female_67_69","Estimate!!Total!!Female!!67 to 69 years","SEX BY AGE"
+B01001_046,TRUE,"pop_female_70_74","Estimate!!Total!!Female!!70 to 74 years","SEX BY AGE"
+B01001_047,TRUE,"pop_female_75_79","Estimate!!Total!!Female!!75 to 79 years","SEX BY AGE"
+B01001_048,TRUE,"pop_female_80_84","Estimate!!Total!!Female!!80 to 84 years","SEX BY AGE"
+B01001_049,TRUE,"pop_female_85_plus","Estimate!!Total!!Female!!85 years and over","SEX BY AGE"
+
+
+B01001A_001,FALSE,"pop_white_with_latino",Estimate!!Total,SEX BY AGE (WHITE ALONE)
+B01001A_002,FALSE,"pop_white_with_latino_male",Estimate!!Total!!Male,SEX BY AGE (WHITE ALONE)
+B01001A_017,FALSE,"pop_white_with_latino_female",Estimate!!Total!!Female,SEX BY AGE (WHITE ALONE)
+B01001B_001,TRUE,"pop_black",Estimate!!Total,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE)
+B01001B_002,TRUE,"pop_black_male",Estimate!!Total!!Male,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE)
+B01001B_017,TRUE,"pop_black_female",Estimate!!Total!!Female,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE)
+B01001C_001,TRUE,"pop_american_indian",Estimate!!Total,SEX BY AGE (AMERICAN INDIAN AND ALASKA NATIVE ALONE)
+B01001C_002,TRUE,"pop_american_indian_male",Estimate!!Total!!Male,SEX BY AGE (AMERICAN INDIAN AND ALASKA NATIVE ALONE)
+B01001C_017,TRUE,"pop_american_indian_female",Estimate!!Total!!Female,SEX BY AGE (AMERICAN INDIAN AND ALASKA NATIVE ALONE)
+B01001D_001,TRUE,"pop_asian",Estimate!!Total,SEX BY AGE (ASIAN ALONE)
+B01001D_002,TRUE,"pop_asian_male",Estimate!!Total!!Male,SEX BY AGE (ASIAN ALONE)
+B01001D_017,TRUE,"pop_asian_female",Estimate!!Total!!Female,SEX BY AGE (ASIAN ALONE)
+B01001E_001,TRUE,"pop_pacific",Estimate!!Total,SEX BY AGE (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE)
+B01001E_002,TRUE,"pop_pacific_male",Estimate!!Total!!Male,SEX BY AGE (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE)
+B01001E_017,TRUE,"pop_pacific_female",Estimate!!Total!!Female,SEX BY AGE (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE)
+B01001F_001,TRUE,"pop_other",Estimate!!Total,SEX BY AGE (SOME OTHER RACE ALONE)
+B01001F_002,TRUE,"pop_other_male",Estimate!!Total!!Male,SEX BY AGE (SOME OTHER RACE ALONE)
+B01001F_017,TRUE,"pop_other_female",Estimate!!Total!!Female,SEX BY AGE (SOME OTHER RACE ALONE)
+B01001G_001,TRUE,"pop_mixed",Estimate!!Total,SEX BY AGE (TWO OR MORE RACES)
+B01001G_002,TRUE,"pop_mixed_male",Estimate!!Total!!Male,SEX BY AGE (TWO OR MORE RACES)
+B01001G_017,TRUE,"pop_mixed_female",Estimate!!Total!!Female,SEX BY AGE (TWO OR MORE RACES)
+B01001H_001,TRUE,"pop_white",Estimate!!Total,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO)"
+B01001H_002,TRUE,"pop_white_male",Estimate!!Total!!Male,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO)"
+B01001H_017,TRUE,"pop_white_female",Estimate!!Total!!Female,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO)"
+B01001I_001,TRUE,"pop_latino",Estimate!!Total,SEX BY AGE (HISPANIC OR LATINO)
+B01001I_002,TRUE,"pop_latino_male",Estimate!!Total!!Male,SEX BY AGE (HISPANIC OR LATINO)
+B01001I_017,TRUE,"pop_latino_female",Estimate!!Total!!Female,SEX BY AGE (HISPANIC OR LATINO)
+B05001_006,TRUE,"pop_not_citizen",Estimate!!Total!!Not a U.S. citizen,NATIVITY AND CITIZENSHIP STATUS IN THE UNITED STATES
+B05002_013,TRUE,"pop_foreign_born",Estimate!!Total!!Foreign born,PLACE OF BIRTH BY NATIVITY AND CITIZENSHIP STATUS
+B05010_001,TRUE,"pop_poverty_ratio",Estimate!!Total,RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS BY NATIVITY OF CHILDREN UNDER 18 YEARS IN FAMILIES AND SUBFAMILIES BY LIVING ARRANGEMENTS AND NATIVITY OF PARENTS
+B05010_002,TRUE,"pop_poverty_ratio_0_1",Estimate!!Total!!Under 1.00,RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS BY NATIVITY OF CHILDREN UNDER 18 YEARS IN FAMILIES AND SUBFAMILIES BY LIVING ARRANGEMENTS AND NATIVITY OF PARENTS
+B05010_010,TRUE,"pop_poverty_ratio_1_2",Estimate!!Total!!1.00 to 1.99,RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS BY NATIVITY OF CHILDREN UNDER 18 YEARS IN FAMILIES AND SUBFAMILIES BY LIVING ARRANGEMENTS AND NATIVITY OF PARENTS
+B05010_018,TRUE,"pop_poverty_ratio_2_plus",Estimate!!Total!!2.00 and over,RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS BY NATIVITY OF CHILDREN UNDER 18 YEARS IN FAMILIES AND SUBFAMILIES BY LIVING ARRANGEMENTS AND NATIVITY OF PARENTS
+B19001_001,TRUE,"pop_income_000_000k",Estimate!!Total,HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS)
+B19001_002,TRUE,"pop_income_000_009k","Estimate!!Total!!Less than $10,000","HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS)"
+B19001_003,TRUE,"pop_income_010_014k","Estimate!!Total!!$10,000 to $14,999","HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS)"
+B19001_004,TRUE,"pop_income_015_019k","Estimate!!Total!!$15,000 to $19,999","HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS)"
+B19001_005,TRUE,"pop_income_020_024k","Estimate!!Total!!$20,000 to $24,999","HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS)"
+B19001_006,TRUE,"pop_income_025_029","Estimate!!Total!!$25,000 to $29,999","HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS)"
+B19001_007,TRUE,"pop_income_030_034","Estimate!!Total!!$30,000 to $34,999","HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS)"
+B19001_008,TRUE,"pop_income_035_039","Estimate!!Total!!$35,000 to $39,999","HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS)"
+B19001_009,TRUE,"pop_income_040_044","Estimate!!Total!!$40,000 to $44,999","HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS)"
+B19001_010,TRUE,"pop_income_045_049","Estimate!!Total!!$45,000 to $49,999","HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS)"
+B19001_011,TRUE,"pop_income_050_059","Estimate!!Total!!$50,000 to $59,999","HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS)"
+B19001_012,TRUE,"pop_income_060_074","Estimate!!Total!!$60,000 to $74,999","HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS)"
+B19001_013,TRUE,"pop_income_075_099","Estimate!!Total!!$75,000 to $99,999","HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS)"
+B19001_014,TRUE,"pop_income_100_124","Estimate!!Total!!$100,000 to $124,999","HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS)"
+B19001_015,TRUE,"pop_income_125_149","Estimate!!Total!!$125,000 to $149,999","HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS)"
+B19001_016,TRUE,"pop_income_150_199","Estimate!!Total!!$150,000 to $199,999","HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS)"
+B19001_017,TRUE,"pop_income_200_plus","Estimate!!Total!!$200,000 or more","HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS)"
