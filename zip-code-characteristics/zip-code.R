@@ -18,7 +18,7 @@ requireNamespace("checkmate"    ) # For asserting conditions meet expected patte
 # requireNamespace("odbc"         ) # For communicating with SQL Server over a locally-configured DSN.  Uncomment if you use 'upload-to-db' chunk.
 requireNamespace("OuhscMunge"   ) # remotes::install_github(repo="OuhscBbmc/OuhscMunge")
 requireNamespace("geosphere")
-requireNamespace("tidycensus")
+# requireNamespace("tidycensus")
 
 # ---- declare-globals ---------------------------------------------------------
 # Constant values that won't change.
@@ -36,6 +36,12 @@ col_types_zcta <- readr::cols_only(
   # AWATER_SQMI     = readr::col_double(),
   INTPTLAT        = readr::col_double(),
   INTPTLONG       = readr::col_double()
+)
+
+col_types_hospital <- readr::cols_only( # OuhscMunge::readr_spec_aligned(config$path_city)
+  `city_ascii`      = readr::col_character(),
+  `lat`             = readr::col_double(),
+  `lng`             = readr::col_double()
 )
 
 # col_types_ruca <- readr::cols_only( # OuhscMunge::readr_spec_aligned(config$path_zipcode_ruca)
@@ -76,7 +82,8 @@ col_types_zcta <- readr::cols_only(
 
 # ---- load-data ---------------------------------------------------------------
 # Read the CSVs
-ds_zcta_latlong  <- readr::read_tsv(config$path_zipcode_zcta  , col_types=col_types_zcta)
+ds_zcta_latlong   <- readr::read_tsv(config$path_zipcode_zcta  , col_types=col_types_zcta)
+ds_hospital       <- readr::read_csv(config$path_city          , col_types=col_types_hospital)
 # ds_ruca          <- readr::read_csv(config$path_zipcode_ruca  , col_types=col_types_ruca)
 # ds_variable      <- readr::read_csv(config$path_census_variable  , col_types=col_types_census_variable)
 #
@@ -96,10 +103,10 @@ ds_zcta_latlong  <- readr::read_tsv(config$path_zipcode_zcta  , col_types=col_ty
 # Basic population call ("B01003_001"): https://api.census.gov/data/2018/acs/acs5?get=B01003_001E%2CB01003_001M%2CNAME&for=zip%20code%20tabulation%20area%3A%2A
 # Census API call: https://api.census.gov/data/2018/acs/acs5?get=B01003_001E%2CB01003_001M%2CB01001_002E%2CB01001_002M%2CNAME&for=zip%20code%20tabulation%20area%3A%2A
 
-rm(col_types_zcta) #, col_types_ruca)
+rm(col_types_zcta, col_types_hospital) #, col_types_ruca)
 
 # ---- tweak-data --------------------------------------------------------------
-# OuhscMunge::column_rename_headstart(ds_zcta_census) #Spit out columns to help write call ato `dplyr::rename()`.
+# OuhscMunge::column_rename_headstart(ds_hospital) #Spit out columns to help write call ato `dplyr::rename()`.
 
 # ds_zcta_variable2 <-
 #   ds_zcta_variable %>%
@@ -119,6 +126,16 @@ ds_zcta_latlong <-
     lat         = INTPTLAT,
     long        = INTPTLONG,
   )
+
+ds_hospital <-
+  ds_hospital |>
+  dplyr::select(    # `dplyr::select()` drops columns not included.
+    city                  = `city_ascii`,
+    lat                   = `lat`,
+    long                  = `lng`,
+  )
+
+
 
 # ds_ruca <-
 #   ds_ruca %>%

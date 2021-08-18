@@ -1,14 +1,15 @@
-default:    
+default:
 
     path_census_variable:   "data-public/metadata/census-zcta-variable.csv"
     path_zipcode_zcta:      "data-public/raw/zipcode-zcta-2019.txt"
     path_zipcode_ruca:      "data-public/raw/zipcode-ruca-2014.csv"
+    path_city:              "data-public/raw/city-us.csv"
 
     api_key_census          : "455eaac83a3c638ee6a0605f774c4639db5b5b02"
 
     miles_per_km            : 0.6213711922
     miles_per_m             : 0.0006213711922
-    
+
     # # To be processed by Ellis lanes
     # path_subject_1_raw:       "data-public/raw/subject-1.csv"
     # path_mlm_1_raw:           "data-public/raw/mlm-1.csv"
