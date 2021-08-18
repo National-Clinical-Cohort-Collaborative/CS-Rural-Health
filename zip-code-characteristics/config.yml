@@ -6,33 +6,10 @@ default:
     path_raw_city                 : "data-public/raw/city-us.csv"
     path_derived_zip_code         : "data-public/derived/zip-code.csv"
 
-    api_key_census          : "455eaac83a3c638ee6a0605f774c4639db5b5b02"
-
-    miles_per_km            : 0.6213711922
-    miles_per_m             : 0.0006213711922
-
-    # # To be processed by Ellis lanes
-    # path_subject_1_raw:       "data-public/raw/subject-1.csv"
-    # path_mlm_1_raw:           "data-public/raw/mlm-1.csv"
-
-    # path_car_raw:             "data-public/raw/mtcar.csv"
+    miles_per_km                  : 0.6213711922
+    miles_per_m                   : 0.0006213711922
 
     # # Central Database (produced by Ellis lanes).
     # path_database:            "data-public/derived/db.sqlite3"
-
-    # # Derived Rectangles (produced by Ellis lanes).
-
-    # # Analysis-ready datasets (produced by scribes & consumed by analyses).
-
-    # path_county_derived:      "data-public/derived/county.rds"
-    # path_county_year_derived: "data-public/derived/county-year.rds"
-    # path_mlm_1_derived:       "data-public/derived/mlm-1.rds"
-
-    # path_te_county:           "data-public/derived/te/te-county.rds"
-    # path_te_county_month:     "data-public/derived/te/te-county-month.rds"
-
-    # path_car_derived:         "data-public/derived/car.rds" # Actually produced by an Ellis
-
-    # path_annotation:          "data-public/metadata/cqi-annotation.csv"
 
     # path_log_flow:            !expr strftime(Sys.time(), "data-unshared/log/%Y/%Y-%m/flow-%Y-%m-%d--%H-%M-%S.log")
