@@ -120,10 +120,10 @@ ds2 <-
 # OuhscMunge::verify_value_headstart(ds2)
 
 checkmate::assert_character(ds2$zip_code         , any.missing=F , pattern="^\\d{5}$" , unique=T)
-checkmate::assert_numeric(  ds2$distance_min     , any.missing=T , lower=0, upper=200 )
-checkmate::assert_integer(  ds2$count_within_20  , any.missing=T , lower=0, upper=200 )
-checkmate::assert_integer(  ds2$count_within_60  , any.missing=T , lower=0, upper=200 )
-checkmate::assert_integer(  ds2$count_within_100 , any.missing=T , lower=0, upper=200 )
+checkmate::assert_numeric(  ds2$distance_min     , any.missing=T , lower=0, upper= 200 )
+checkmate::assert_integer(  ds2$count_within_20  , any.missing=T , lower=0, upper= 500 )
+checkmate::assert_integer(  ds2$count_within_60  , any.missing=T , lower=0, upper=1000 )
+checkmate::assert_integer(  ds2$count_within_100 , any.missing=T , lower=0, upper=2000 )
 
 # ---- specify-columns-to-write ------------------------------------------------
 # Print colnames that `dplyr::select()`  should contain below:
