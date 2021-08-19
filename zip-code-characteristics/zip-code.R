@@ -71,6 +71,7 @@ ds_city <-
   )
 
 
+system.time({
 ds <-
   "
     SELECT
@@ -87,11 +88,14 @@ ds <-
         z.long between c.long - 4 and c.long + 4
   " |>
   sqldf::sqldf()
+})
 
 # +/-1  7,824,232
 # +/-2 26,052,128
 
 # ---- find-distance-to-city ---------------------------------------------------
+message("Distance start time: ", Sys.time())
+system.time({
 ds2 <-
   ds |>
   # dplyr::slice(1:2000) |>
@@ -113,7 +117,7 @@ ds2 <-
   dplyr::mutate(
     zip_code_prefix_3  = substr(zip_code, 1, 3)
   )
-
+}) # 4360.75 sec on i7 8th gen w/ 32GB
 
 # ---- verify-values -----------------------------------------------------------
 # Sniff out problems
