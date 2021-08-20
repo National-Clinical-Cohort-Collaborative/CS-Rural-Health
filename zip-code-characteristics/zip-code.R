@@ -17,7 +17,6 @@ requireNamespace("checkmate"    ) # For asserting conditions meet expected patte
 requireNamespace("sqldf"       ) # For interfacing w/ SQLite
 requireNamespace("OuhscMunge"   ) # remotes::install_github(repo="OuhscBbmc/OuhscMunge")
 requireNamespace("geosphere")
-# requireNamespace("tidycensus")
 
 # ---- declare-globals ---------------------------------------------------------
 # Constant values that won't change.
@@ -53,8 +52,8 @@ rm(col_types_zcta, col_types_city)
 # OuhscMunge::column_rename_headstart(ds_city) #Spit out columns to help write call ato `dplyr::rename()`.
 
 ds_zcta_latlong <-
-  ds_zcta_latlong |>
-  # dplyr::slice(1:2000) |>
+  ds_zcta_latlong %>%
+  dplyr::slice(1:200) %>%
   dplyr::select(    # `dplyr::select()` drops columns not mentioned.
     zip_code    = GEOID,
     long        = INTPTLONG,
@@ -62,8 +61,8 @@ ds_zcta_latlong <-
   )
 
 ds_city <-
-  ds_city |>
-  # dplyr::slice(1:2000) |>
+  ds_city %>%
+  dplyr::slice(1:200) %>%
   dplyr::select(    # `dplyr::select()` drops columns not included.
     city                  = `city_ascii`,
     long                  = `lng`,
@@ -86,7 +85,7 @@ ds <-
         z.lat  between c.lat  - 3 and c.lat  + 3
         and
         z.long between c.long - 4 and c.long + 4
-  " |>
+  " %>%
   sqldf::sqldf()
 })
 
@@ -97,23 +96,23 @@ ds <-
 message("Distance start time: ", Sys.time())
 system.time({
 ds2 <-
-  ds |>
-  # dplyr::slice(1:2000) |>
+  ds %>%
+  # dplyr::slice(1:2000) %>%
   dplyr::mutate(
     distance_from_zip_code_to_city_in_miles =
       geosphere::distVincentyEllipsoid(
         p1  = cbind(.data$z_long, .data$z_lat),
         p2  = cbind(.data$c_long, .data$c_lat)
       ) * config$miles_per_m
-  ) |>
-  dplyr::group_by(zip_code) |>
+  ) %>%
+  dplyr::group_by(zip_code) %>%
   dplyr::summarize(
     distance_min      = min(distance_from_zip_code_to_city_in_miles),
     count_within_20   = sum(distance_from_zip_code_to_city_in_miles <=  20),
     count_within_60   = sum(distance_from_zip_code_to_city_in_miles <=  60),
     count_within_100  = sum(distance_from_zip_code_to_city_in_miles <= 100),
-  ) |>
-  dplyr::ungroup() |>
+  ) %>%
+  dplyr::ungroup() %>%
   dplyr::mutate(
     zip_code_prefix_3  = substr(zip_code, 1, 3)
   )
@@ -136,8 +135,8 @@ checkmate::assert_integer(  ds2$count_within_100 , any.missing=T , lower=0, uppe
 # Define the subset of columns that will be needed in the analyses.
 #   The fewer columns that are exported, the fewer things that can break downstream.
 ds_slim <-
-  ds2 |>
-  # dplyr::slice(1:100) |>
+  ds2 %>%
+  # dplyr::slice(1:100) %>%
   dplyr::select(
     zip_code,
     distance_min,
