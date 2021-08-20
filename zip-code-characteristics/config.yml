@@ -12,4 +12,4 @@ default:
     # # Central Database (produced by Ellis lanes).
     # path_database:            "data-public/derived/db.sqlite3"
 
-    # path_log_flow:            !expr strftime(Sys.time(), "data-unshared/log/%Y/%Y-%m/flow-%Y-%m-%d--%H-%M-%S.log")
+    path_log_flow:            !expr strftime(Sys.time(), "data-unshared/log/%Y/%Y-%m/flow-%Y-%m-%d--%H-%M-%S.log")

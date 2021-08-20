@@ -15,7 +15,7 @@ requireNamespace("dplyr"        ) # Avoid attaching dplyr, b/c its function name
 # requireNamespace("testit"       ) # For asserting conditions meet expected patterns/conditions.
 requireNamespace("checkmate"    ) # For asserting conditions meet expected patterns/conditions. # remotes::install_github("mllg/checkmate")
 requireNamespace("sqldf"       ) # For interfacing w/ SQLite
-requireNamespace("OuhscMunge"   ) # remotes::install_github(repo="OuhscBbmc/OuhscMunge")
+# requireNamespace("OuhscMunge"   ) # remotes::install_github(repo="OuhscBbmc/OuhscMunge")
 requireNamespace("geosphere")
 
 # ---- declare-globals ---------------------------------------------------------
@@ -53,7 +53,7 @@ rm(col_types_zcta, col_types_city)
 
 ds_zcta_latlong <-
   ds_zcta_latlong %>%
-  dplyr::slice(1:200) %>%
+  # dplyr::slice(1:200) %>%
   dplyr::select(    # `dplyr::select()` drops columns not mentioned.
     zip_code    = GEOID,
     long        = INTPTLONG,
@@ -62,7 +62,7 @@ ds_zcta_latlong <-
 
 ds_city <-
   ds_city %>%
-  dplyr::slice(1:200) %>%
+  # dplyr::slice(1:200) %>%
   dplyr::select(    # `dplyr::select()` drops columns not included.
     city                  = `city_ascii`,
     long                  = `lng`,
