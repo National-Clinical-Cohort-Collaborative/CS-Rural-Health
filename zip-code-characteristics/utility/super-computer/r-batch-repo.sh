@@ -2,10 +2,10 @@
 #
 #SBATCH --partition=normal
 #SBATCH --ntasks=1
-#SBATCH --mem=10240
+#SBATCH --mem=32G
 #SBATCH --output=utility/super-computer/output/repo.txt
 #SBATCH --error=utility/super-computer/error/repo.txt
-#SBATCH --time=02:00:00
+#SBATCH --time=06:00:00
 #SBATCH --job-name=zip-code-characteristics
 #SBATCH --mail-user=wibeasley@hotmail.com
 #SBATCH --mail-type=ALL
