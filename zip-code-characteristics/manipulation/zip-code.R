@@ -107,7 +107,7 @@ ds2 <-
   ) %>%
   dplyr::group_by(zip_code) %>%
   dplyr::summarize(
-    distance_min      = min(distance_from_zip_code_to_city_in_miles),
+    distance_min      = as.integer(round(min(distance_from_zip_code_to_city_in_miles))),
     count_within_20   = sum(distance_from_zip_code_to_city_in_miles <=  20),
     count_within_60   = sum(distance_from_zip_code_to_city_in_miles <=  60),
     count_within_100  = sum(distance_from_zip_code_to_city_in_miles <= 100),
@@ -123,7 +123,7 @@ ds2 <-
 # OuhscMunge::verify_value_headstart(ds2)
 
 checkmate::assert_character(ds2$zip_code         , any.missing=F , pattern="^\\d{5}$" , unique=T)
-checkmate::assert_numeric(  ds2$distance_min     , any.missing=T , lower=0, upper= 200 )
+checkmate::assert_integer(  ds2$distance_min     , any.missing=T , lower=0, upper= 200 )
 checkmate::assert_integer(  ds2$count_within_20  , any.missing=T , lower=0, upper= 500 )
 checkmate::assert_integer(  ds2$count_within_60  , any.missing=T , lower=0, upper=1000 )
 checkmate::assert_integer(  ds2$count_within_100 , any.missing=T , lower=0, upper=2000 )
