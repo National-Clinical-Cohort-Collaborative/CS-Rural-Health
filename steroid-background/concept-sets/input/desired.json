@@ -1,174 +1,173 @@
 {
-    "items": [
-        {
-            "concept": {
-                "CONCEPT_ID": 40776078,
-                "CONCEPT_NAME": "Narcotics and opioids",
-                "STANDARD_CONCEPT": "N",
-                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-                "INVALID_REASON": "V",
-                "INVALID_REASON_CAPTION": "Valid",
-                "CONCEPT_CODE": "LP18149-2",
-                "DOMAIN_ID": "Observation",
-                "VOCABULARY_ID": "LOINC",
-                "CONCEPT_CLASS_ID": "LOINC Component"
-            },
-            "isExcluded": false,
-            "includeDescendants": true,
-            "includeMapped": false
-        },
-        {
-            "concept": {
-                "CONCEPT_ID": 3025557,
-                "CONCEPT_NAME": "Narcotics and opioids [Identifier] in Blood",
-                "STANDARD_CONCEPT": "S",
-                "STANDARD_CONCEPT_CAPTION": "Standard",
-                "INVALID_REASON": "V",
-                "INVALID_REASON_CAPTION": "Valid",
-                "CONCEPT_CODE": "29376-1",
-                "DOMAIN_ID": "Measurement",
-                "VOCABULARY_ID": "LOINC",
-                "CONCEPT_CLASS_ID": "Lab Test"
-            },
-            "isExcluded": false,
-            "includeDescendants": true,
-            "includeMapped": false
-        },
-        {
-            "concept": {
-                "CONCEPT_ID": 3014103,
-                "CONCEPT_NAME": "Narcotics and opioids [Identifier] in Urine",
-                "STANDARD_CONCEPT": "S",
-                "STANDARD_CONCEPT_CAPTION": "Standard",
-                "INVALID_REASON": "V",
-                "INVALID_REASON_CAPTION": "Valid",
-                "CONCEPT_CODE": "12554-2",
-                "DOMAIN_ID": "Measurement",
-                "VOCABULARY_ID": "LOINC",
-                "CONCEPT_CLASS_ID": "Lab Test"
-            },
-            "isExcluded": false,
-            "includeDescendants": true,
-            "includeMapped": false
-        },
-        {
-            "concept": {
-                "CONCEPT_ID": 40793931,
-                "CONCEPT_NAME": "Narcotics and opioids | Bile fluid",
-                "STANDARD_CONCEPT": "N",
-                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-                "INVALID_REASON": "D",
-                "INVALID_REASON_CAPTION": "Invalid",
-                "CONCEPT_CODE": "LP49594-2",
-                "DOMAIN_ID": "Measurement",
-                "VOCABULARY_ID": "LOINC",
-                "CONCEPT_CLASS_ID": "LOINC Hierarchy"
-            },
-            "isExcluded": false,
-            "includeDescendants": true,
-            "includeMapped": false
-        },
-        {
-            "concept": {
-                "CONCEPT_ID": 37060772,
-                "CONCEPT_NAME": "Narcotics and opioids | Bile fluid | Drug toxicology",
-                "STANDARD_CONCEPT": "C",
-                "STANDARD_CONCEPT_CAPTION": "Classification",
-                "INVALID_REASON": "V",
-                "INVALID_REASON_CAPTION": "Valid",
-                "CONCEPT_CODE": "LP389793-3",
-                "DOMAIN_ID": "Measurement",
-                "VOCABULARY_ID": "LOINC",
-                "CONCEPT_CLASS_ID": "LOINC Hierarchy"
-            },
-            "isExcluded": false,
-            "includeDescendants": true,
-            "includeMapped": false
-        },
-        {
-            "concept": {
-                "CONCEPT_ID": 37049050,
-                "CONCEPT_NAME": "Narcotics and opioids | Blood | Drug toxicology",
-                "STANDARD_CONCEPT": "C",
-                "STANDARD_CONCEPT_CAPTION": "Classification",
-                "INVALID_REASON": "V",
-                "INVALID_REASON_CAPTION": "Valid",
-                "CONCEPT_CODE": "LP389794-1",
-                "DOMAIN_ID": "Measurement",
-                "VOCABULARY_ID": "LOINC",
-                "CONCEPT_CLASS_ID": "LOINC Hierarchy"
-            },
-            "isExcluded": false,
-            "includeDescendants": true,
-            "includeMapped": false
-        },
-        {
-            "concept": {
-                "CONCEPT_ID": 40793872,
-                "CONCEPT_NAME": "Narcotics and opioids | Gastric fluid",
-                "STANDARD_CONCEPT": "N",
-                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-                "INVALID_REASON": "D",
-                "INVALID_REASON_CAPTION": "Invalid",
-                "CONCEPT_CODE": "LP49084-4",
-                "DOMAIN_ID": "Measurement",
-                "VOCABULARY_ID": "LOINC",
-                "CONCEPT_CLASS_ID": "LOINC Hierarchy"
-            },
-            "isExcluded": false,
-            "includeDescendants": true,
-            "includeMapped": false
-        },
-        {
-            "concept": {
-                "CONCEPT_ID": 37046896,
-                "CONCEPT_NAME": "Narcotics and opioids | Gastric fluid | Drug toxicology",
-                "STANDARD_CONCEPT": "C",
-                "STANDARD_CONCEPT_CAPTION": "Classification",
-                "INVALID_REASON": "V",
-                "INVALID_REASON_CAPTION": "Valid",
-                "CONCEPT_CODE": "LP389795-8",
-                "DOMAIN_ID": "Measurement",
-                "VOCABULARY_ID": "LOINC",
-                "CONCEPT_CLASS_ID": "LOINC Hierarchy"
-            },
-            "isExcluded": false,
-            "includeDescendants": true,
-            "includeMapped": false
-        },
-        {
-            "concept": {
-                "CONCEPT_ID": 40796451,
-                "CONCEPT_NAME": "Narcotics and opioids | Urine",
-                "STANDARD_CONCEPT": "N",
-                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
-                "INVALID_REASON": "D",
-                "INVALID_REASON_CAPTION": "Invalid",
-                "CONCEPT_CODE": "LP42082-5",
-                "DOMAIN_ID": "Measurement",
-                "VOCABULARY_ID": "LOINC",
-                "CONCEPT_CLASS_ID": "LOINC Hierarchy"
-            },
-            "isExcluded": false,
-            "includeDescendants": true,
-            "includeMapped": false
-        },
-        {
-            "concept": {
-                "CONCEPT_ID": 37043066,
-                "CONCEPT_NAME": "Narcotics and opioids | Urine | Drug toxicology",
-                "STANDARD_CONCEPT": "C",
-                "STANDARD_CONCEPT_CAPTION": "Classification",
-                "INVALID_REASON": "V",
-                "INVALID_REASON_CAPTION": "Valid",
-                "CONCEPT_CODE": "LP389796-6",
-                "DOMAIN_ID": "Measurement",
-                "VOCABULARY_ID": "LOINC",
-                "CONCEPT_CLASS_ID": "LOINC Hierarchy"
-            },
-            "isExcluded": false,
-            "includeDescendants": true,
-            "includeMapped": false
-        }
-    ]
-}
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_ID": 40776078,
+        "CONCEPT_NAME": "Narcotics and opioids",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "LP18149-2",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "LOINC",
+        "CONCEPT_CLASS_ID": "LOINC Component"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 3025557,
+        "CONCEPT_NAME": "Narcotics and opioids [Identifier] in Blood",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "29376-1",
+        "DOMAIN_ID": "Measurement",
+        "VOCABULARY_ID": "LOINC",
+        "CONCEPT_CLASS_ID": "Lab Test"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 3014103,
+        "CONCEPT_NAME": "Narcotics and opioids [Identifier] in Urine",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "12554-2",
+        "DOMAIN_ID": "Measurement",
+        "VOCABULARY_ID": "LOINC",
+        "CONCEPT_CLASS_ID": "Lab Test"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40793931,
+        "CONCEPT_NAME": "Narcotics and opioids | Bile fluid",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "D",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "LP49594-2",
+        "DOMAIN_ID": "Measurement",
+        "VOCABULARY_ID": "LOINC",
+        "CONCEPT_CLASS_ID": "LOINC Hierarchy"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37060772,
+        "CONCEPT_NAME": "Narcotics and opioids | Bile fluid | Drug toxicology",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "LP389793-3",
+        "DOMAIN_ID": "Measurement",
+        "VOCABULARY_ID": "LOINC",
+        "CONCEPT_CLASS_ID": "LOINC Hierarchy"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37049050,
+        "CONCEPT_NAME": "Narcotics and opioids | Blood | Drug toxicology",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "LP389794-1",
+        "DOMAIN_ID": "Measurement",
+        "VOCABULARY_ID": "LOINC",
+        "CONCEPT_CLASS_ID": "LOINC Hierarchy"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40793872,
+        "CONCEPT_NAME": "Narcotics and opioids | Gastric fluid",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "D",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "LP49084-4",
+        "DOMAIN_ID": "Measurement",
+        "VOCABULARY_ID": "LOINC",
+        "CONCEPT_CLASS_ID": "LOINC Hierarchy"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37046896,
+        "CONCEPT_NAME": "Narcotics and opioids | Gastric fluid | Drug toxicology",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "LP389795-8",
+        "DOMAIN_ID": "Measurement",
+        "VOCABULARY_ID": "LOINC",
+        "CONCEPT_CLASS_ID": "LOINC Hierarchy"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40796451,
+        "CONCEPT_NAME": "Narcotics and opioids | Urine",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "D",
+        "INVALID_REASON_CAPTION": "Invalid",
+        "CONCEPT_CODE": "LP42082-5",
+        "DOMAIN_ID": "Measurement",
+        "VOCABULARY_ID": "LOINC",
+        "CONCEPT_CLASS_ID": "LOINC Hierarchy"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37043066,
+        "CONCEPT_NAME": "Narcotics and opioids | Urine | Drug toxicology",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "LP389796-6",
+        "DOMAIN_ID": "Measurement",
+        "VOCABULARY_ID": "LOINC",
+        "CONCEPT_CLASS_ID": "LOINC Hierarchy"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    }
+  ]

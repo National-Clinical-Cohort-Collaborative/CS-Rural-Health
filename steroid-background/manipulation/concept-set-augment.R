@@ -122,6 +122,7 @@ DBI::dbDisconnect(cnn); rm(cnn, sql_retrieve)
 ds2 <-
   ds |>
   tidyr::pack(concept = tidyr::everything())
+
 l2 <-
   list(
     items =
@@ -209,4 +210,8 @@ jsonlite::fromJSON(
 
 # ---- save-to-disk -------------------------------------------------
 # readr::write_csv(ds_slim, config$path_derived_zip_code)
-jsonlite::write_json(l2, config$directory_codeset_output_try1, )
+jsonlite::write_json(
+  x       = l2,
+  path    = config$directory_codeset_output_try1,
+  pretty  = FALSE
+)

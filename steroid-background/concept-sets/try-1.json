@@ -1,89 +1,89 @@
 {
-    "items": [
-        {
-            "concept": {
-                "codeset": "dexamethasone",
-                "concept_id": 19006962,
-                "concept_name": "dexamethasone 0.5 MG Oral Tablet [Decadron]",
-                "standard_concept": "S",
-                "standard_concept_caption": "",
-                "invalid_reason_caption": "",
-                "concept_code": "105392",
-                "domain_id": "Drug",
-                "vocabulary_id": "RxNorm",
-                "concept_class_id": "Branded Drug"
-            },
-            "isExcluded": false,
-            "includeDescendants": true,
-            "includeMapped": false
-        },
-        {
-            "concept": {
-                "codeset": "dexamethasone",
-                "concept_id": 1518258,
-                "concept_name": "dexamethasone 0.5 MG Oral Tablet",
-                "standard_concept": "S",
-                "standard_concept_caption": "",
-                "invalid_reason_caption": "",
-                "concept_code": "197577",
-                "domain_id": "Drug",
-                "vocabulary_id": "RxNorm",
-                "concept_class_id": "Clinical Drug"
-            },
-            "isExcluded": false,
-            "includeDescendants": true,
-            "includeMapped": false
-        },
-        {
-            "concept": {
-                "codeset": "dexamethasone",
-                "concept_id": 1518261,
-                "concept_name": "dexamethasone 2 MG Oral Tablet",
-                "standard_concept": "S",
-                "standard_concept_caption": "",
-                "invalid_reason_caption": "",
-                "concept_code": "197581",
-                "domain_id": "Drug",
-                "vocabulary_id": "RxNorm",
-                "concept_class_id": "Clinical Drug"
-            },
-            "isExcluded": false,
-            "includeDescendants": true,
-            "includeMapped": false
-        },
-        {
-            "concept": {
-                "codeset": "dexamethasone",
-                "concept_id": 1518491,
-                "concept_name": "dexamethasone 0.2 MG/ML Oral Solution",
-                "standard_concept": "S",
-                "standard_concept_caption": "",
-                "invalid_reason_caption": "",
-                "concept_code": "242882",
-                "domain_id": "Drug",
-                "vocabulary_id": "RxNorm",
-                "concept_class_id": "Clinical Drug"
-            },
-            "isExcluded": false,
-            "includeDescendants": true,
-            "includeMapped": false
-        },
-        {
-            "concept": {
-                "codeset": "dexamethasone",
-                "concept_id": 19029973,
-                "concept_name": "dexamethasone 1 MG/ML Oral Solution [Dexamethasone Intensol]",
-                "standard_concept": "S",
-                "standard_concept_caption": "",
-                "invalid_reason_caption": "",
-                "concept_code": "205702",
-                "domain_id": "Drug",
-                "vocabulary_id": "RxNorm",
-                "concept_class_id": "Branded Drug"
-            },
-            "isExcluded": false,
-            "includeDescendants": true,
-            "includeMapped": false
-        }
-    ]
+  "items": [
+    {
+      "concept": {
+        "codeset": "dexamethasone",
+        "concept_id": 19006962,
+        "concept_name": "dexamethasone 0.5 MG Oral Tablet [Decadron]",
+        "standard_concept": "S",
+        "standard_concept_caption": "",
+        "invalid_reason_caption": "",
+        "concept_code": "105392",
+        "domain_id": "Drug",
+        "vocabulary_id": "RxNorm",
+        "concept_class_id": "Branded Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "codeset": "dexamethasone",
+        "concept_id": 1518258,
+        "concept_name": "dexamethasone 0.5 MG Oral Tablet",
+        "standard_concept": "S",
+        "standard_concept_caption": "",
+        "invalid_reason_caption": "",
+        "concept_code": "197577",
+        "domain_id": "Drug",
+        "vocabulary_id": "RxNorm",
+        "concept_class_id": "Clinical Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "codeset": "dexamethasone",
+        "concept_id": 1518261,
+        "concept_name": "dexamethasone 2 MG Oral Tablet",
+        "standard_concept": "S",
+        "standard_concept_caption": "",
+        "invalid_reason_caption": "",
+        "concept_code": "197581",
+        "domain_id": "Drug",
+        "vocabulary_id": "RxNorm",
+        "concept_class_id": "Clinical Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "codeset": "dexamethasone",
+        "concept_id": 1518491,
+        "concept_name": "dexamethasone 0.2 MG/ML Oral Solution",
+        "standard_concept": "S",
+        "standard_concept_caption": "",
+        "invalid_reason_caption": "",
+        "concept_code": "242882",
+        "domain_id": "Drug",
+        "vocabulary_id": "RxNorm",
+        "concept_class_id": "Clinical Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "codeset": "dexamethasone",
+        "concept_id": 19029973,
+        "concept_name": "dexamethasone 1 MG/ML Oral Solution [Dexamethasone Intensol]",
+        "standard_concept": "S",
+        "standard_concept_caption": "",
+        "invalid_reason_caption": "",
+        "concept_code": "205702",
+        "domain_id": "Drug",
+        "vocabulary_id": "RxNorm",
+        "concept_class_id": "Branded Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    }
+  ]
 }
