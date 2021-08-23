@@ -25,7 +25,7 @@ config    <- config::get()
 # OuhscMunge::readr_spec_aligned("concept-sets/input/dexamethasone.csv")
 col_types <- readr::cols_only(
   # `Concept Name`        = readr::col_character(),
-  `Concept Id`          = readr::col_integer(),
+  `concept_id`          = readr::col_integer(),
   # `Valid Start Date`    = readr::col_date(format = ""),
   # `Invalid Reason`      = readr::col_logical(),
   # `Vocabulary Id`       = readr::col_character(),
@@ -54,10 +54,20 @@ sql_create <- c(
 sql_retrieve <-
   "
     SELECT
-      *
+      csm.codeset
+      ,c.concept_id
+      ,c.concept_name
+      ,c.standard_concept
+      ,'' as standard_concept_caption
+      ,c.invalid_reason
+      ,'' as invalid_reason_caption
+      ,c.concept_code
+      ,c.domain_id
+      ,c.vocabulary_id
+      ,c.concept_class_id
     FROM  concept c
       inner join codeset_member csm on c.concept_id = csm.concept_id
-    LIMIT 100
+    LIMIT 5
   "
 
 # ---- load-data ---------------------------------------------------------------
@@ -76,13 +86,13 @@ ds_csm <-
       .id = "source"
     )
   }() |>
-  tidyr::drop_na(`Concept Id`) |>
+  tidyr::drop_na(concept_id) |>
   dplyr::mutate(
     codeset = fs::path_ext_remove(fs::path_file(source)),
   ) |>
   dplyr::select(
     codeset,
-    concept_id  = `Concept Id`,
+    concept_id,#  = `Concept Id`,
   ) |>
   dplyr::distinct()
 
@@ -109,6 +119,17 @@ DBI::dbDisconnect(cnn); rm(cnn, sql_retrieve)
 # ---- tweak-data --------------------------------------------------------------
 # OuhscMunge::column_rename_headstart(") #Spit out columns to help write call ato `dplyr::rename()`.
 
+ds2 <-
+  ds |>
+  tidyr::pack(concept = tidyr::everything())
+str(ds2)
+
+l <-
+  list(
+    items = ds
+  )
+
+l
 
 
 # ---- verify-values -----------------------------------------------------------
@@ -141,4 +162,4 @@ DBI::dbDisconnect(cnn); rm(cnn, sql_retrieve)
 
 # ---- save-to-disk -------------------------------------------------
 # readr::write_csv(ds_slim, config$path_derived_zip_code)
-jsonlite::write_json(ds, config$directory_codeset_output_try1)
+jsonlite::write_json(l, config$directory_codeset_output_try1)
