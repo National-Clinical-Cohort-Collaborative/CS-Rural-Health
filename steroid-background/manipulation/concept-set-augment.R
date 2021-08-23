@@ -122,14 +122,61 @@ DBI::dbDisconnect(cnn); rm(cnn, sql_retrieve)
 ds2 <-
   ds |>
   tidyr::pack(concept = tidyr::everything())
-str(ds2)
-
-l <-
+l2 <-
   list(
-    items = ds
+    items =
+      data.frame(
+        concept               = ds2,
+        isExcluded          = rep(FALSE   , nrow(ds2)),
+        includeDescendants  = rep(TRUE    , nrow(ds2)),
+        includeMapped       = rep(FALSE   , nrow(ds2))
+      )
   )
+str(l2)
 
+# l <-
+#   list(
+#     items = ds
+#   )
+#
+# l
+#
+# test <-
+#   list(
+#     list(
+#       concept = list(
+#         CONCEPT_ID               = ds$concept_id,
+#         CONCEPT_NAME             = ds$concept_name,
+#         STANDARD_CONCEPT         = ds$standard_concept,
+#         STANDARD_CONCEPT_CAPTION = ds$standard_concept_caption,
+#         INVALID_REASON           = ds$invalid_reason,
+#         INVALID_REAON_CAPTION    = ds$invalid_reason_caption
+#       )
+#     ),
+#     list(isExcluded = 'false'),
+#     list(includeDescendants = 'true'),
+#     list(includeMapped = 'false')
+#   )
+#
+# View(test)
+li <- list()
+for (i in seq_len(nrow(ds))) {
+  li[i] <- list(
+    concept = ds[i, ]
+    # isExcluded = 'false',
+    # includeDescendants = 'true',
+    # includeMapped = 'false'
+  )
+}
+
+l <- list(items = li)
 l
+as.list(ds[1, ])
+
+jsonlite::fromJSON(
+  txt = "concept-sets/input/desired.json"
+) |>
+  str()
 
 
 # ---- verify-values -----------------------------------------------------------
@@ -162,4 +209,4 @@ l
 
 # ---- save-to-disk -------------------------------------------------
 # readr::write_csv(ds_slim, config$path_derived_zip_code)
-jsonlite::write_json(l, config$directory_codeset_output_try1)
+jsonlite::write_json(l2, config$directory_codeset_output_try1, )
