@@ -1,0 +1,15 @@
+default:
+
+    # path_census_variable:   "data-public/metadata/census-zcta-variable.csv"
+    path_raw_zip_code_zcta        : "data-public/raw/zip-code-zcta-2019.txt"
+    path_raw_zip_code_ruca        : "data-public/raw/zip-code-ruca-2014.csv"
+    path_raw_city                 : "data-public/raw/city-us.csv"
+    path_derived_zip_code         : "data-public/derived/zip-code.csv"
+
+    miles_per_km                  : 0.6213711922
+    miles_per_m                   : 0.0006213711922
+
+    # # Central Database (produced by Ellis lanes).
+    # path_database:            "data-public/derived/db.sqlite3"
+
+    path_log_flow:            !expr strftime(Sys.time(), "data-unshared/log/%Y/%Y-%m/flow-%Y-%m-%d--%H-%M-%S.log")
