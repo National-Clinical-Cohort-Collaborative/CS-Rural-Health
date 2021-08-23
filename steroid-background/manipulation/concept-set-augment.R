@@ -213,5 +213,5 @@ jsonlite::fromJSON(
 jsonlite::write_json(
   x       = l2,
   path    = config$directory_codeset_output_try1,
-  pretty  = FALSE
+  pretty  = TRUE
 )
