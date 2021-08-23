@@ -1,4 +1,4 @@
-Concept Name,Concept Id,Valid Start Date,Invalid Reason,Vocabulary Id,Concept Code,Concept Class Id,Standard Concept,Concept Name,Domain Id,Valid End Date
+concept_name,concept_id,valid_start_date,invalid_reason,vocabulary_id,concept_code,concept_class_id,standar_concept,concept_name,domain_id,valid_end_date
 hydrocortisone; systemic,21602737,1970-01-01,,ATC,H02AB09,ATC 5th,C,hydrocortisone; systemic,Drug,2099-12-31
 hydrocortisone; oral,21600036,1970-01-01,,ATC,A01AC03,ATC 5th,C,hydrocortisone; oral,Drug,2099-12-31
 hydrocortisone acetate 0.0055 MG/MG,40226630,2010-10-03,,RxNorm,1012219,Clinical Drug Comp,S,hydrocortisone acetate 0.0055 MG/MG,Drug,2099-12-31

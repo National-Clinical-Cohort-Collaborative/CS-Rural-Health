@@ -1,4 +1,4 @@
-Concept Name,Concept Id,Valid Start Date,Invalid Reason,Vocabulary Id,Concept Code,Concept Class Id,Standard Concept,Concept Name,Domain Id,Valid End Date
+concept_name,concept_id,valid_start_date,invalid_reason,vocabulary_id,concept_code,concept_class_id,standar_concept,concept_name,domain_id,valid_end_date
 hydrocortisone acetate 50 MG/ML,40228300,2010-10-31,,RxNorm,1037327,Clinical Drug Comp,S,hydrocortisone acetate 50 MG/ML,Drug,2099-12-31
 hydrocortisone acetate 50 MG/ML Injectable Suspension,40228301,2010-10-31,,RxNorm,1037328,Clinical Drug,S,hydrocortisone acetate 50 MG/ML Injectable Suspension,Drug,2099-12-31
 hydrocortisone acetate 50 MG/ML [Hydrocortone Acetate],40228303,2010-10-31,,RxNorm,1037329,Branded Drug Comp,S,hydrocortisone acetate 50 MG/ML [Hydrocortone Acetate],Drug,2099-12-31
