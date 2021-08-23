@@ -1,4 +1,4 @@
-Concept Name,Concept Id,Valid Start Date,Invalid Reason,Vocabulary Id,Concept Code,Concept Class Id,Standard Concept,Concept Name,Domain Id,Valid End Date
+concept_name,concept_id,valid_start_date,invalid_reason,vocabulary_id,concept_code,concept_class_id,standar_concept,concept_name,domain_id,valid_end_date
 prednisolone 5 MG Oral Tablet [Prednesol],19007005,1970-01-01,,RxNorm,105407,Branded Drug,S,prednisolone 5 MG Oral Tablet [Prednesol],Drug,2099-12-31
 prednisolone 2.5 MG Delayed Release Oral Tablet,19007006,1970-01-01,,RxNorm,105408,Clinical Drug,S,prednisolone 2.5 MG Delayed Release Oral Tablet,Drug,2099-12-31
 prednisolone 5 MG Delayed Release Oral Tablet,19007007,1970-01-01,,RxNorm,105409,Clinical Drug,S,prednisolone 5 MG Delayed Release Oral Tablet,Drug,2099-12-31
