@@ -1,9 +1,9 @@
 default:
+    dsn_omop                      : "cdw_omop_1"
 
     directory_codeset_input       : "concept-sets/input"
 
-
-    # # Central Database (produced by Ellis lanes).
-    # path_database:            "data-public/derived/db.sqlite3"
+    # Central Database (a cache of the OMOP concept table).
+    path_database:            "data-unshared/db.sqlite3"
 
     path_log_flow:            !expr strftime(Sys.time(), "data-unshared/log/%Y/%Y-%m/flow-%Y-%m-%d--%H-%M-%S.log")
