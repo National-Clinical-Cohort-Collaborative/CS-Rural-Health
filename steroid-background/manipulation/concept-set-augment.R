@@ -21,112 +21,105 @@ requireNamespace("geosphere")
 # ---- declare-globals ---------------------------------------------------------
 # Constant values that won't change.
 config    <- config::get()
-max_pop   <- 200000 # The largest zip code in 2018 is 122814
 
-# figure_path <- 'stitched-output/manipulation/te/'
-
-col_types_zcta <- readr::cols_only(
-  GEOID           = readr::col_character(),
-  # ALAND           = readr::col_double(),
-  # AWATER          = readr::col_double(),
-  # ALAND_SQMI      = readr::col_double(),
-  # AWATER_SQMI     = readr::col_double(),
-  INTPTLAT        = readr::col_double(),
-  INTPTLONG       = readr::col_double()
+# OuhscMunge::readr_spec_aligned("concept-sets/input/dexamethasone.csv")
+col_types <- readr::cols_only(
+  # `Concept Name`        = readr::col_character(),
+  `Concept Id`          = readr::col_integer(),
+  # `Valid Start Date`    = readr::col_date(format = ""),
+  # `Invalid Reason`      = readr::col_logical(),
+  # `Vocabulary Id`       = readr::col_character(),
+  # `Concept Code`        = readr::col_character(),
+  # `Concept Class Id`    = readr::col_character(),
+  # `Standard Concept`    = readr::col_character(),
+  # `Concept Name_1`      = readr::col_character(),
+  # `Domain Id`           = readr::col_character(),
+  # `Valid End Date`      = readr::col_date(format = "")
 )
 
-col_types_city <- readr::cols_only( # OuhscMunge::readr_spec_aligned(config$path_raw_city)
-  `city_ascii`      = readr::col_character(),
-  `lat`             = readr::col_double(),
-  `lng`             = readr::col_double()
+
+sql_create <- c(
+  "
+    DROP TABLE IF EXISTS codeset_member;
+  ",
+  "
+    CREATE TABLE codeset_member (
+      codeset              varchar(255)  not null,
+      concept_id           int           not null,
+      primary key(codeset, concept_id)
+    )
+  "
 )
+
+sql_retrieve <-
+  "
+    SELECT
+      *
+    FROM  concept c
+      inner join codeset_member csm on c.concept_id = csm.concept_id
+    LIMIT 100
+  "
 
 # ---- load-data ---------------------------------------------------------------
 # Read the CSVs
-ds_zcta_latlong   <- readr::read_tsv(config$path_raw_zip_code_zcta  , col_types = col_types_zcta)
-ds_city           <- readr::read_csv(config$path_raw_city           , col_types = col_types_city)
+paths <- fs::dir_ls(config$directory_codeset_input)[1:3]
 
-rm(col_types_zcta, col_types_city)
+ds_csm <-
+  paths |>
+  {\(path)
+    purrr::map_dfr(
+      .x = path,
+      ~readr::read_csv(
+        file      = path,
+        col_types = col_types
+      ),
+      .id = "source"
+    )
+  }() |>
+  tidyr::drop_na(`Concept Id`) |>
+  dplyr::mutate(
+    codeset = fs::path_ext_remove(fs::path_file(source)),
+  ) |>
+  dplyr::select(
+    codeset,
+    concept_id  = `Concept Id`,
+  ) |>
+  dplyr::distinct()
+
+
+# Open connection
+cnn <- DBI::dbConnect(drv=RSQLite::SQLite(), dbname=config$path_database)
+
+# Create tables
+sql_create %>%
+  purrr::walk(~DBI::dbExecute(cnn, .))
+purrr::walk(sql_create, ~DBI::dbExecute(cnn, .))
+# DBI::dbListTables(cnn)
+
+# Write to database
+DBI::dbWriteTable(cnn, name='codeset_member', value=ds_csm, append=TRUE, row.names=FALSE)
+
+ds <-
+  DBI::dbGetQuery(cnn, sql_retrieve)
+
+
+# Close connection
+DBI::dbDisconnect(cnn); rm(cnn, sql_retrieve)
 
 # ---- tweak-data --------------------------------------------------------------
-# OuhscMunge::column_rename_headstart(ds_city) #Spit out columns to help write call ato `dplyr::rename()`.
-
-ds_zcta_latlong <-
-  ds_zcta_latlong %>%
-  # dplyr::slice(1:200) %>%
-  dplyr::select(    # `dplyr::select()` drops columns not mentioned.
-    zip_code    = GEOID,
-    long        = INTPTLONG,
-    lat         = INTPTLAT,
-  )
-
-ds_city <-
-  ds_city %>%
-  # dplyr::slice(1:200) %>%
-  dplyr::select(    # `dplyr::select()` drops columns not included.
-    city                  = `city_ascii`,
-    long                  = `lng`,
-    lat                   = `lat`,
-  )
+# OuhscMunge::column_rename_headstart(") #Spit out columns to help write call ato `dplyr::rename()`.
 
 
-system.time({
-ds <-
-  "
-    SELECT
-      z.zip_code
-      ,c.city    as c_city
-      ,z.long    as z_long
-      ,z.lat     as z_lat
-      ,c.long    as c_long
-      ,c.lat     as c_lat
-    FROM ds_zcta_latlong z
-      left  join ds_city c on
-        z.lat  between c.lat  - 3 and c.lat  + 3
-        and
-        z.long between c.long - 4 and c.long + 4
-  " %>%
-  sqldf::sqldf()
-})
-
-# +/-1  7,824,232
-# +/-2 26,052,128
-
-# ---- find-distance-to-city ---------------------------------------------------
-message("Distance start time: ", Sys.time())
-system.time({
-ds2 <-
-  ds %>%
-  # dplyr::slice(1:2000) %>%
-  dplyr::mutate(
-    distance_from_zip_code_to_city_in_miles =
-      geosphere::distVincentyEllipsoid(
-        p1  = cbind(.data$z_long, .data$z_lat),
-        p2  = cbind(.data$c_long, .data$c_lat)
-      ) * config$miles_per_m
-  ) %>%
-  dplyr::group_by(zip_code) %>%
-  dplyr::summarize(
-    distance_min      = as.integer(round(min(distance_from_zip_code_to_city_in_miles))),
-    count_within_20   = sum(distance_from_zip_code_to_city_in_miles <=  20),
-    count_within_60   = sum(distance_from_zip_code_to_city_in_miles <=  60),
-    count_within_100  = sum(distance_from_zip_code_to_city_in_miles <= 100),
-  ) %>%
-  dplyr::ungroup() %>%
-  dplyr::mutate(
-    zip_code_prefix_3  = substr(zip_code, 1, 3)
-  )
-}) # 4360.75 sec on i7 8th gen w/ 32GB
 
 # ---- verify-values -----------------------------------------------------------
 # Sniff out problems
 # OuhscMunge::verify_value_headstart(ds2)
 
-checkmate::assert_character(ds2$zip_code         , any.missing=F , pattern="^\\d{5}$" , unique=T)
-checkmate::assert_integer(  ds2$distance_min     , any.missing=T , lower=0, upper= 200 )
-checkmate::assert_integer(  ds2$count_within_20  , any.missing=T , lower=0, upper= 500 )
-checkmate::assert_integer(  ds2$count_within_60  , any.missing=T , lower=0, upper=1000 )
-checkmate::assert_integer(  ds2$count_within_100 , any.missing=T , lower=0, upper=2000 )
+# checkmate::assert_character(ds2$zip_code         , any.missing=F , pattern="^\\d{5}$" , unique=T)
+# checkmate::assert_integer(  ds2$distance_min     , any.missing=T , lower=0, upper= 200 )
+# checkmate::assert_integer(  ds2$count_within_20  , any.missing=T , lower=0, upper= 500 )
+# checkmate::assert_integer(  ds2$count_within_60  , any.missing=T , lower=0, upper=1000 )
+# checkmate::assert_integer(  ds2$count_within_100 , any.missing=T , lower=0, upper=2000 )
 
 # ---- specify-columns-to-write ------------------------------------------------
 # Print colnames that `dplyr::select()`  should contain below:
@@ -134,17 +127,18 @@ checkmate::assert_integer(  ds2$count_within_100 , any.missing=T , lower=0, uppe
 
 # Define the subset of columns that will be needed in the analyses.
 #   The fewer columns that are exported, the fewer things that can break downstream.
-ds_slim <-
-  ds2 %>%
-  # dplyr::slice(1:100) %>%
-  dplyr::select(
-    zip_code,
-    distance_min,
-    count_within_20,
-    count_within_60,
-    count_within_100,
-  )
-# ds_slim
+# ds_slim <-
+#   ds2 %>%
+#   # dplyr::slice(1:100) %>%
+#   dplyr::select(
+#     zip_code,
+#     distance_min,
+#     count_within_20,
+#     count_within_60,
+#     count_within_100,
+#   )
+# # ds_slim
 
 # ---- save-to-disk -------------------------------------------------
-readr::write_csv(ds_slim, config$path_derived_zip_code)
+# readr::write_csv(ds_slim, config$path_derived_zip_code)
+jsonlite::write_json(ds, config$directory_codeset_output_try1)

@@ -1,4 +1,4 @@
-Concept Name,Concept Id,Valid Start Date,Invalid Reason,Vocabulary Id,Concept Code,Concept Class Id,Standard Concept,Concept Name,Domain Id,Valid End Date
+concept_name,concept_id,valid_start_date,invalid_reason,vocabulary_id,concept_code,concept_class_id,standar_concept,concept_name,domain_id,valid_end_date
 methylprednisolone; topical,21602101,1970-01-01,,ATC,D07AA01,ATC 5th,C,methylprednisolone; topical,Drug,2099-12-31
 "SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",21602681,1970-01-01,,ATC,H,ATC 1st,C,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Drug,2099-12-31
 "CORTICOSTEROIDS FOR SYSTEMIC USE, PLAIN",21602723,1970-01-01,,ATC,H02A,ATC 3rd,C,"CORTICOSTEROIDS FOR SYSTEMIC USE, PLAIN",Drug,2099-12-31
