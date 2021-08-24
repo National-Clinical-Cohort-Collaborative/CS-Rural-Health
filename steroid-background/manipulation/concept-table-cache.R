@@ -6,7 +6,7 @@ rm(list = ls(all.names = TRUE)) # Clear the memory of variables from previous ru
 # base::source(file="dal/osdh/arch/benchmark-client-program-arch.R") #Load retrieve_benchmark_client_program
 
 # ---- load-packages -----------------------------------------------------------
-import::from("magrittr", "%>%")
+# import::from("magrittr", "%>%")
 requireNamespace("DBI")
 requireNamespace("odbc")
 requireNamespace("tibble")
@@ -66,7 +66,7 @@ ds <- readr::read_tsv(path_in, col_types = col_types)
 # ---- tweak-data --------------------------------------------------------------
 # OuhscMunge::column_rename_headstart(ds) # Help write `dplyr::select()` call.
 ds <-
-  ds %>%
+  ds |>
   dplyr::select(    # `dplyr::select()` drops columns not included.
     concept_id,
     concept_name,
@@ -109,8 +109,8 @@ checkmate::assert_character(ds$invalid_reason   , any.missing=T , pattern="^[DU]
 #   The fewer columns that are exported, the fewer things that can break downstream.
 
 ds_slim <-
-  ds %>%
-  # dplyr::slice(1:100) %>%
+  ds |>
+  # dplyr::slice(1:100) |>
   dplyr::select(
     concept_id,
     concept_name,
@@ -167,20 +167,33 @@ DBI::dbClearResult(result)
 DBI::dbListTables(cnn)
 
 # Create tables
-sql_create %>%
+sql_create |>
   purrr::walk(~DBI::dbExecute(cnn, .))
 
 purrr::walk(sql_create, ~DBI::dbExecute(cnn, .))
 
 DBI::dbListTables(cnn)
 
+# is_date <- function(x) {
+#   inherits(x, "Date")
+#   # inherits(x, c("Date", "POSIXt"))
+# }
+
+# is_date(ds$invalid_reason)
 # Write to database
-ds_slim %>%
-  dplyr::mutate(
-    valid_start_date   = as.character(valid_start_date    ),
-    valid_end_date     = as.character(valid_end_date    ),
-  ) %>%
-  DBI::dbWriteTable(cnn, name='concept',              value=.,        append=TRUE, row.names=FALSE)
+ds_slim |>
+  # dplyr::slice(1:100) |>
+  # dplyr::mutate_if(is_date, as.character)
+  {\(.x)
+    dplyr::mutate_if(.x, ~inherits(.x, "Date"), as.character)
+  }() |>
+  # dplyr::mutate(
+  #   valid_start_date   = as.character(valid_start_date    ),
+  #   valid_end_date     = as.character(valid_end_date    ),
+  # ) |>
+  {\(.d)
+    DBI::dbWriteTable(cnn, name = 'concept', value = .d, append = TRUE, row.names = FALSE)
+  }()
 
 # DBI::dbWriteTable(cnn, name='subject',            value=ds_subject,        append=TRUE, row.names=FALSE)
 
