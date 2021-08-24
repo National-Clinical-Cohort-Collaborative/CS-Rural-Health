@@ -6,7 +6,7 @@ rm(list = ls(all.names = TRUE)) # Clear the memory of variables from previous ru
 # base::source(file="dal/osdh/arch/benchmark-client-program-arch.R") #Load retrieve_benchmark_client_program
 
 # ---- load-packages -----------------------------------------------------------
-import::from("magrittr", "%>%")
+# import::from("magrittr", "%>%")
 requireNamespace("DBI")
 requireNamespace("odbc")
 requireNamespace("tibble")
@@ -20,39 +20,53 @@ requireNamespace("OuhscMunge"                 )  # remotes::install_github("Ouhs
 # ---- declare-globals ---------------------------------------------------------
 # Constant values that won't change.
 config                         <- config::get()
+path_in <- "S:/BBMC/prairie-outpost/omop-1/downloads-athena/omop-v5/CONCEPT.csv"
 
-sql <-
-  "
-    SELECT
-      concept_id
-      ,concept_name      COLLATE SQL_Latin1_General_CP1_CI_AI as concept_name
-      ,domain_id
-      ,vocabulary_id
-      ,concept_class_id
-      ,standard_concept
-      ,concept_code
-      ,valid_start_date
-      ,valid_end_date
-      ,invalid_reason
-    FROM v6.concept
-    WHERE
-      domain_id in ('drug')
-    ORDER BY concept_id;
-
-  "
+# OuhscMunge::readr_spec_aligned(path_in)
+col_types <- readr::cols_only(
+  concept_id	        = readr::col_integer(),
+  concept_name	      = readr::col_character(),
+  domain_id	          = readr::col_character(),
+  vocabulary_id	      = readr::col_character(),
+  concept_class_id    = readr::col_character(),
+  standard_concept    = readr::col_character(),
+  concept_code	      = readr::col_character(),
+  valid_start_date    = readr::col_date("%Y%m%d"),
+  valid_end_date	    = readr::col_date("%Y%m%d"),
+  invalid_reason      = readr::col_character()
+)
+# sql <-
+#   "
+#     SELECT
+#       concept_id
+#       ,concept_name      COLLATE SQL_Latin1_General_CP1_CI_AI as concept_name
+#       ,domain_id
+#       ,vocabulary_id
+#       ,concept_class_id
+#       ,standard_concept
+#       ,concept_code
+#       ,valid_start_date
+#       ,valid_end_date
+#       ,invalid_reason
+#     FROM v6.concept
+#     WHERE
+#       domain_id in ('drug')
+#     ORDER BY concept_id;
+#   "
 
 
 # ---- load-data ---------------------------------------------------------------
 # cnn <- DBI::dbConnect(drv = RSQLite::SQLite(), dbname = path_db)
-cnn_warehouse <- DBI::dbConnect(odbc::odbc(), dsn = config$dsn_omop)
-ds            <- DBI::dbGetQuery(cnn_warehouse, sql)
-DBI::dbDisconnect(cnn_warehouse); rm(cnn_warehouse, sql)
+# cnn_warehouse <- DBI::dbConnect(odbc::odbc(), dsn = config$dsn_omop)
+# ds            <- DBI::dbGetQuery(cnn_warehouse, sql)
+# DBI::dbDisconnect(cnn_warehouse); rm(cnn_warehouse, sql)
+ds <- readr::read_tsv(path_in, col_types = col_types)
 
 
 # ---- tweak-data --------------------------------------------------------------
 # OuhscMunge::column_rename_headstart(ds) # Help write `dplyr::select()` call.
 ds <-
-  ds %>%
+  ds |>
   dplyr::select(    # `dplyr::select()` drops columns not included.
     concept_id,
     concept_name,
@@ -65,15 +79,17 @@ ds <-
     valid_end_date,
     invalid_reason,
   ) |>
-  dplyr::mutate(
-    concept_name  = iconv(concept_name,"WINDOWS-1252","UTF-8")
-  )
+  tidyr::drop_na(concept_name)
+
+  # dplyr::mutate(
+  #   concept_name  = iconv(concept_name,"WINDOWS-1252","UTF-8")
+  # )
 
 
 
 # ---- verify-values -----------------------------------------------------------
 # OuhscMunge::verify_value_headstart(ds)
-checkmate::assert_integer(  ds$concept_id       , any.missing=F , lower=1, upper=2^31-1, unique=T)
+checkmate::assert_integer(  ds$concept_id       , any.missing=F , lower=0, upper=2^31-1, unique=T)
 checkmate::assert_character(ds$concept_name     , any.missing=F )
 checkmate::assert_character(ds$domain_id        , any.missing=F , min.chars = 1 )
 checkmate::assert_character(ds$vocabulary_id    , any.missing=F , min.chars = 1 )
@@ -93,8 +109,8 @@ checkmate::assert_character(ds$invalid_reason   , any.missing=T , pattern="^[DU]
 #   The fewer columns that are exported, the fewer things that can break downstream.
 
 ds_slim <-
-  ds %>%
-  # dplyr::slice(1:100) %>%
+  ds |>
+  # dplyr::slice(1:100) |>
   dplyr::select(
     concept_id,
     concept_name,
@@ -151,20 +167,33 @@ DBI::dbClearResult(result)
 DBI::dbListTables(cnn)
 
 # Create tables
-sql_create %>%
+sql_create |>
   purrr::walk(~DBI::dbExecute(cnn, .))
 
 purrr::walk(sql_create, ~DBI::dbExecute(cnn, .))
 
 DBI::dbListTables(cnn)
 
+# is_date <- function(x) {
+#   inherits(x, "Date")
+#   # inherits(x, c("Date", "POSIXt"))
+# }
+
+# is_date(ds$invalid_reason)
 # Write to database
-ds_slim %>%
-  dplyr::mutate(
-    valid_start_date   = as.character(valid_start_date    ),
-    valid_end_date     = as.character(valid_end_date    ),
-  ) %>%
-  DBI::dbWriteTable(cnn, name='concept',              value=.,        append=TRUE, row.names=FALSE)
+ds_slim |>
+  # dplyr::slice(1:100) |>
+  # dplyr::mutate_if(is_date, as.character)
+  {\(.x)
+    dplyr::mutate_if(.x, ~inherits(.x, "Date"), as.character)
+  }() |>
+  # dplyr::mutate(
+  #   valid_start_date   = as.character(valid_start_date    ),
+  #   valid_end_date     = as.character(valid_end_date    ),
+  # ) |>
+  {\(.d)
+    DBI::dbWriteTable(cnn, name = 'concept', value = .d, append = TRUE, row.names = FALSE)
+  }()
 
 # DBI::dbWriteTable(cnn, name='subject',            value=ds_subject,        append=TRUE, row.names=FALSE)
 
