@@ -1,4 +1,6 @@
 use cdw_omop_1
+
+--this produces the inhaled-corticosteroid concept set
 SELECT
   --csm.codeset
   c.concept_id
@@ -28,6 +30,10 @@ WHERE
     or
     concept_name like '%Beclomethasone%'
    )
+  --and 
+  --standard_concept !=  'C'
+
+--this produces the nasal spray concept set
 
 SELECT
   --csm.codeset
