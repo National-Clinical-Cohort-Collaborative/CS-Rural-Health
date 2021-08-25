@@ -93,30 +93,28 @@ ds_csm <-
   #     .id = "source"
   #   ) #|>
 
-    # purrr::map_dfr(
-    #
-    #   {\(p)
-    #     ~readr::read_csv(
-    #       file      = p,
-    #       col_types = col_types
-    #     )
-    #   }()
-    #   # .id = "source"
-    # ) |>
-paths |>
-  # {\(p)
+  # paths |>
+  #   purrr::map(
+  #     .f =
+  #       {\(p)
+  #         readr::read_csv(
+  #           file      = p,
+  #           col_types = col_types
+  #         )
+  #       }()
+  #     # , .id = "source"
+  #   ) #|>
+
+  paths |>
     purrr::map_dfr(
-      # .x = p,
-      .f =
-        function(p2) {
-          readr::read_csv(
-            file      = p2,
-            col_types = col_types
-          )
-        },
+      function(ppp) {
+        readr::read_csv(
+          file      = ppp,
+          col_types = col_types
+        )
+      },
       .id = "source"
     ) |>
-  # }()
 
 # paths |>
 #   {\(p)
