@@ -30,8 +30,8 @@ WHERE
     or
     concept_name like '%Beclomethasone%'
    )
-  --and 
-  --standard_concept !=  'C'
+  and 
+  standard_concept =  'S'
 
 --this produces the nasal spray concept set
 
@@ -66,4 +66,5 @@ WHERE
     or
     concept_name like '%Beclometasone%' 
   )
-
+    and 
+  standard_concept =  'S'
