@@ -68,7 +68,7 @@ sql_retrieve <-
     FROM  concept c
       inner join codeset_member csm on c.concept_id = csm.concept_id
     ORDER BY c.concept_id
-    LIMIT 5
+    --LIMIT 5
   "
 
 # ---- load-data ---------------------------------------------------------------
@@ -82,17 +82,60 @@ paths <-
   rlang::set_names()
 
 ds_csm <-
-  paths |>
-  {\(path)
+  # paths %>%
+  #   purrr::map(
+  #     .x = .,
+  #     .f =
+  #       ~readr::read_csv(
+  #         file      = .,
+  #         col_types = col_types
+  #       ),
+  #     .id = "source"
+  #   ) #|>
+
+    # purrr::map_dfr(
+    #
+    #   {\(p)
+    #     ~readr::read_csv(
+    #       file      = p,
+    #       col_types = col_types
+    #     )
+    #   }()
+    #   # .id = "source"
+    # ) |>
+paths |>
+  # {\(p)
     purrr::map_dfr(
-      .x = path,
-      ~readr::read_csv(
-        file      = path,
-        col_types = col_types
-      ),
+      # .x = p,
+      .f =
+        function(p2) {
+          readr::read_csv(
+            file      = p2,
+            col_types = col_types
+          )
+        },
       .id = "source"
-    )
-  }() |>
+    ) |>
+  # }()
+
+# paths |>
+#   {\(p)
+#     purrr::map(
+#       .x = p,
+#       .f =
+#         function(p2) {
+#           readr::read_csv(
+#             file      = p2,
+#             col_types = col_types
+#           )
+#         }#,
+#       # .id = "source"
+#     )
+#   }()
+
+
+
+
   tidyr::drop_na(concept_id) |>
   dplyr::mutate(
     codeset = fs::path_ext_remove(fs::path_file(source)),
@@ -102,6 +145,20 @@ ds_csm <-
     concept_id,#  = `Concept Id`,
   ) |>
   dplyr::distinct()
+
+# table(ds_csm$codeset)
+#
+# # inhaled, but not nasal
+# setdiff(
+#   ds_csm[ds_csm$codeset == "inhaled-corticosteroid", ]$concept_id,
+#   ds_csm[ds_csm$codeset == "nasal-spray", ]$concept_id
+# )
+#
+# # nasal, but not inhaled
+# setdiff(
+#   ds_csm[ds_csm$codeset == "nasal-spray", ]$concept_id,
+#   ds_csm[ds_csm$codeset == "inhaled-corticosteroid", ]$concept_id
+# )
 
 
 # Open connection
@@ -140,7 +197,7 @@ l2 <-
         includeMapped       = rep(FALSE   , nrow(ds2))
       )
   )
-str(l2)
+# str(l2)
 
 # l <-
 #   list(
@@ -178,8 +235,8 @@ for (i in seq_len(nrow(ds))) {
 }
 
 l <- list(items = li)
-l
-as.list(ds[1, ])
+# l
+# as.list(ds[1, ])
 
 # jsonlite::fromJSON(
 #   txt = "concept-sets/input/desired.json"
