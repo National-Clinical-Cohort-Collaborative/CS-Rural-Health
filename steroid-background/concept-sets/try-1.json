@@ -3,14 +3,15 @@
     {
       "concept": {
         "codeset": "nasal-spray",
-        "concept_id": 505722,
-        "concept_name": "Budesonide 200micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free 120 dose",
+        "concept_id": 739917,
+        "concept_name": "triamcinolone acetonide 40 MG/ML Injection [Kenalog]",
+        "standard_concept": "S",
         "standard_concept_caption": "",
         "invalid_reason_caption": "",
-        "concept_code": "32925511000001101",
+        "concept_code": "2480109",
         "domain_id": "Drug",
-        "vocabulary_id": "SNOMED",
-        "concept_class_id": "Pharma/Biol Product"
+        "vocabulary_id": "RxNorm",
+        "concept_class_id": "Branded Drug"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -19,14 +20,15 @@
     {
       "concept": {
         "codeset": "inhaled-corticosteroid",
-        "concept_id": 505722,
-        "concept_name": "Budesonide 200micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free 120 dose",
+        "concept_id": 739917,
+        "concept_name": "triamcinolone acetonide 40 MG/ML Injection [Kenalog]",
+        "standard_concept": "S",
         "standard_concept_caption": "",
         "invalid_reason_caption": "",
-        "concept_code": "32925511000001101",
+        "concept_code": "2480109",
         "domain_id": "Drug",
-        "vocabulary_id": "SNOMED",
-        "concept_class_id": "Pharma/Biol Product"
+        "vocabulary_id": "RxNorm",
+        "concept_class_id": "Branded Drug"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -35,14 +37,15 @@
     {
       "concept": {
         "codeset": "nasal-spray",
-        "concept_id": 505969,
-        "concept_name": "Mometasone 0.1% ointment 25% in White soft paraffin 1 gram",
+        "concept_id": 740264,
+        "concept_name": "1 ML triamcinolone acetonide 40 MG/ML Injection [Kenalog]",
+        "standard_concept": "S",
         "standard_concept_caption": "",
         "invalid_reason_caption": "",
-        "concept_code": "32680911000001105",
+        "concept_code": "2480108",
         "domain_id": "Drug",
-        "vocabulary_id": "SNOMED",
-        "concept_class_id": "Pharma/Biol Product"
+        "vocabulary_id": "RxNorm",
+        "concept_class_id": "Quant Branded Drug"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -51,14 +54,15 @@
     {
       "concept": {
         "codeset": "inhaled-corticosteroid",
-        "concept_id": 505969,
-        "concept_name": "Mometasone 0.1% ointment 25% in White soft paraffin 1 gram",
+        "concept_id": 740264,
+        "concept_name": "1 ML triamcinolone acetonide 40 MG/ML Injection [Kenalog]",
+        "standard_concept": "S",
         "standard_concept_caption": "",
         "invalid_reason_caption": "",
-        "concept_code": "32680911000001105",
+        "concept_code": "2480108",
         "domain_id": "Drug",
-        "vocabulary_id": "SNOMED",
-        "concept_class_id": "Pharma/Biol Product"
+        "vocabulary_id": "RxNorm",
+        "concept_class_id": "Quant Branded Drug"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -67,14 +71,15 @@
     {
       "concept": {
         "codeset": "nasal-spray",
-        "concept_id": 505970,
-        "concept_name": "Mometasone 0.1% ointment 10% in White soft paraffin 1 gram",
+        "concept_id": 789930,
+        "concept_name": "triamcinolone acetonide 80 MG/ML Injectable Suspension",
+        "standard_concept": "S",
         "standard_concept_caption": "",
         "invalid_reason_caption": "",
-        "concept_code": "32680611000001104",
+        "concept_code": "2168081",
         "domain_id": "Drug",
-        "vocabulary_id": "SNOMED",
-        "concept_class_id": "Pharma/Biol Product"
+        "vocabulary_id": "RxNorm",
+        "concept_class_id": "Clinical Drug"
       },
       "isExcluded": false,
       "includeDescendants": true,
