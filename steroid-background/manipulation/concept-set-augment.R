@@ -67,12 +67,19 @@ sql_retrieve <-
       ,c.concept_class_id
     FROM  concept c
       inner join codeset_member csm on c.concept_id = csm.concept_id
+    ORDER BY c.concept_id
     LIMIT 5
   "
 
 # ---- load-data ---------------------------------------------------------------
 # Read the CSVs
-paths <- fs::dir_ls(config$directory_codeset_input)[1:3]
+# paths <- fs::dir_ls(config$directory_codeset_input)[1:3]
+paths <-
+  c(
+    "concept-sets/input/nasal-spray.csv",
+    "concept-sets/input/inhaled-corticosteroid.csv"
+  ) |>
+  rlang::set_names()
 
 ds_csm <-
   paths |>
@@ -174,10 +181,10 @@ l <- list(items = li)
 l
 as.list(ds[1, ])
 
-jsonlite::fromJSON(
-  txt = "concept-sets/input/desired.json"
-) |>
-  str()
+# jsonlite::fromJSON(
+#   txt = "concept-sets/input/desired.json"
+# ) |>
+#   str()
 
 
 # ---- verify-values -----------------------------------------------------------

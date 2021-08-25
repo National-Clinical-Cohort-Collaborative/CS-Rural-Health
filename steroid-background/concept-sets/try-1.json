@@ -2,16 +2,15 @@
   "items": [
     {
       "concept": {
-        "codeset": "dexamethasone",
-        "concept_id": 19006962,
-        "concept_name": "dexamethasone 0.5 MG Oral Tablet [Decadron]",
-        "standard_concept": "S",
+        "codeset": "nasal-spray",
+        "concept_id": 505722,
+        "concept_name": "Budesonide 200micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free 120 dose",
         "standard_concept_caption": "",
         "invalid_reason_caption": "",
-        "concept_code": "105392",
+        "concept_code": "32925511000001101",
         "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Branded Drug"
+        "vocabulary_id": "SNOMED",
+        "concept_class_id": "Pharma/Biol Product"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -19,16 +18,15 @@
     },
     {
       "concept": {
-        "codeset": "dexamethasone",
-        "concept_id": 1518258,
-        "concept_name": "dexamethasone 0.5 MG Oral Tablet",
-        "standard_concept": "S",
+        "codeset": "inhaled-corticosteroid",
+        "concept_id": 505722,
+        "concept_name": "Budesonide 200micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free 120 dose",
         "standard_concept_caption": "",
         "invalid_reason_caption": "",
-        "concept_code": "197577",
+        "concept_code": "32925511000001101",
         "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug"
+        "vocabulary_id": "SNOMED",
+        "concept_class_id": "Pharma/Biol Product"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -36,16 +34,15 @@
     },
     {
       "concept": {
-        "codeset": "dexamethasone",
-        "concept_id": 1518261,
-        "concept_name": "dexamethasone 2 MG Oral Tablet",
-        "standard_concept": "S",
+        "codeset": "nasal-spray",
+        "concept_id": 505969,
+        "concept_name": "Mometasone 0.1% ointment 25% in White soft paraffin 1 gram",
         "standard_concept_caption": "",
         "invalid_reason_caption": "",
-        "concept_code": "197581",
+        "concept_code": "32680911000001105",
         "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug"
+        "vocabulary_id": "SNOMED",
+        "concept_class_id": "Pharma/Biol Product"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -53,16 +50,15 @@
     },
     {
       "concept": {
-        "codeset": "dexamethasone",
-        "concept_id": 1518491,
-        "concept_name": "dexamethasone 0.2 MG/ML Oral Solution",
-        "standard_concept": "S",
+        "codeset": "inhaled-corticosteroid",
+        "concept_id": 505969,
+        "concept_name": "Mometasone 0.1% ointment 25% in White soft paraffin 1 gram",
         "standard_concept_caption": "",
         "invalid_reason_caption": "",
-        "concept_code": "242882",
+        "concept_code": "32680911000001105",
         "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug"
+        "vocabulary_id": "SNOMED",
+        "concept_class_id": "Pharma/Biol Product"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -70,16 +66,15 @@
     },
     {
       "concept": {
-        "codeset": "dexamethasone",
-        "concept_id": 19029973,
-        "concept_name": "dexamethasone 1 MG/ML Oral Solution [Dexamethasone Intensol]",
-        "standard_concept": "S",
+        "codeset": "nasal-spray",
+        "concept_id": 505970,
+        "concept_name": "Mometasone 0.1% ointment 10% in White soft paraffin 1 gram",
         "standard_concept_caption": "",
         "invalid_reason_caption": "",
-        "concept_code": "205702",
+        "concept_code": "32680611000001104",
         "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Branded Drug"
+        "vocabulary_id": "SNOMED",
+        "concept_class_id": "Pharma/Biol Product"
       },
       "isExcluded": false,
       "includeDescendants": true,
