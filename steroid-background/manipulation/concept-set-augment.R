@@ -78,19 +78,13 @@ paths <-
   c(
     "concept-sets/input/nasal-spray.csv",
     "concept-sets/input/inhaled-corticosteroid.csv"
-  ) |>
-  rlang::set_names()
+  )
 
 ds_csm <-
   paths |>
-    purrr::map_dfr(
-      \(ppp) {
-        readr::read_csv(
-          file      = ppp,
-          col_types = col_types
-        )
-      },
-      .id = "source"
+    readr::read_csv(
+      col_types = col_types,
+      id        = "source"
     ) |>
   tidyr::drop_na(concept_id) |>
   dplyr::mutate(
