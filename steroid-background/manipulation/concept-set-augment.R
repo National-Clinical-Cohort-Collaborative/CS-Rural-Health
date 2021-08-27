@@ -82,32 +82,9 @@ paths <-
   rlang::set_names()
 
 ds_csm <-
-  # paths %>%
-  #   purrr::map(
-  #     .x = .,
-  #     .f =
-  #       ~readr::read_csv(
-  #         file      = .,
-  #         col_types = col_types
-  #       ),
-  #     .id = "source"
-  #   ) #|>
-
-  # paths |>
-  #   purrr::map(
-  #     .f =
-  #       {\(p)
-  #         readr::read_csv(
-  #           file      = p,
-  #           col_types = col_types
-  #         )
-  #       }()
-  #     # , .id = "source"
-  #   ) #|>
-
   paths |>
     purrr::map_dfr(
-      function(ppp) {
+      \(ppp) {
         readr::read_csv(
           file      = ppp,
           col_types = col_types
@@ -115,25 +92,6 @@ ds_csm <-
       },
       .id = "source"
     ) |>
-
-# paths |>
-#   {\(p)
-#     purrr::map(
-#       .x = p,
-#       .f =
-#         function(p2) {
-#           readr::read_csv(
-#             file      = p2,
-#             col_types = col_types
-#           )
-#         }#,
-#       # .id = "source"
-#     )
-#   }()
-
-
-
-
   tidyr::drop_na(concept_id) |>
   dplyr::mutate(
     codeset = fs::path_ext_remove(fs::path_file(source)),
