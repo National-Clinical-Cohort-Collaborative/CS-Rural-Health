@@ -107,9 +107,9 @@ ds2 <-
   dplyr::group_by(zip_code) %>%
   dplyr::summarize(
     distance_min      = as.integer(round(min(distance_from_zip_code_to_hospital_in_miles))),
-    count_within_20   = sum(distance_from_zip_code_to_hospital_in_miles <=  20),
-    count_within_60   = sum(distance_from_zip_code_to_hospital_in_miles <=  60),
-    count_within_100  = sum(distance_from_zip_code_to_hospital_in_miles <= 100),
+    count_within_20   = sum(distance_from_zip_code_to_hospital_in_miles <=  20L),
+    count_within_60   = sum(distance_from_zip_code_to_hospital_in_miles <=  60L),
+    count_within_100  = sum(distance_from_zip_code_to_hospital_in_miles <= 100L),
   ) %>%
   dplyr::ungroup() %>%
   dplyr::mutate(
