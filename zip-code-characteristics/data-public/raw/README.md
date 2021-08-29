@@ -1,6 +1,16 @@
 `data-public/raw/` Directory
 =========
 
+Contents
+-----------------
+
+* **hospital.csv**:  One row per hospital, updated on the ArcGIS site Dec 2020.  Downloaded by [Jared Anzalone](https://github.com/jerrodanzalone) from <https://hifld-geoplatform.opendata.arcgis.com/datasets/geoplatform::hospitals/about>.
+
+
+Comments
+-----------------
+
+
 This directory should contain the raw, unmodified files that serve as an input to the project.  In theory the schema of these data files shouldn't change when new data arrive.  But of course this is frequently violated, so at minimum, our code should assert that the required columns are present, and contain reasonable values.  More thorough checking can be warranted.
 
 For the sake of long-term reproducibility, these files are ideally in a nonproprietary format that is human readable.  Plain text files (*e.g.*, CSVs & XML) are preferred. Binary & proprietary formats (*e.g.*, Excel & SAS) may not be readable if certain software is missing from the user's computer; or they might be able to be read by only old versions of software (*e.g.*, Excel 97).

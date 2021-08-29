@@ -4,7 +4,9 @@ default:
     path_raw_zip_code_zcta        : "data-public/raw/zip-code-zcta-2019.txt"
     path_raw_zip_code_ruca        : "data-public/raw/zip-code-ruca-2014.csv"
     path_raw_city                 : "data-public/raw/city-us.csv"
+    path_raw_hospital             : "data-public/raw/hospital.csv"
     path_derived_zip_code         : "data-public/derived/zip-code.csv"
+    path_derived_zip_code_hospital: "data-public/derived/zip-code-hospital.csv"
 
     miles_per_km                  : 0.6213711922
     miles_per_m                   : 0.0006213711922
