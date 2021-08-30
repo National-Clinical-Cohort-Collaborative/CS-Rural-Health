@@ -135,6 +135,7 @@ DBI::dbDisconnect(cnn); rm(cnn, sql_retrieve)
 
 ds <-
   ds |>
+  tibble::as_tibble() |>
   dplyr::mutate(
     standard_concept_caption  = dplyr::recode(
       standard_concept,
@@ -147,7 +148,8 @@ ds <-
 
 ds_packed <-
   ds |>
-  tidyr::pack(concept = tidyr::everything())
+  tidyr::pack(concept = -codeset)
+  # tidyr::pack(concept = tidyr::everything())
 
 l2 <-
   list(
@@ -161,12 +163,6 @@ l2 <-
   )
 # str(l2)
 
-# l <-
-#   list(
-#     items = ds
-#   )
-#
-# l
 #
 # test <-
 #   list(
