@@ -145,6 +145,14 @@ ds2 <-
   dplyr::ungroup() %>%
   dplyr::mutate(
     zip_code_prefix_3  = substr(zip_code, 1, 3)
+  ) %>%
+  dplyr::left_join(
+    ds_zcta_latlong %>%
+      dplyr::select(
+        zip_code,
+        year_last_existed,
+      ),
+    by = "zip_code"
   )
 }) #  1904.72 sec on i7 2th gen w/ 16GB
 
@@ -157,6 +165,7 @@ checkmate::assert_integer(  ds2$distance_min     , any.missing=T , lower=0, uppe
 checkmate::assert_integer(  ds2$count_within_20  , any.missing=T , lower=0, upper= 500 )
 checkmate::assert_integer(  ds2$count_within_60  , any.missing=T , lower=0, upper=1000 )
 checkmate::assert_integer(  ds2$count_within_100 , any.missing=T , lower=0, upper=2000 )
+checkmate::assert_integer(  ds2$year_last_existed , any.missing=F , lower=2019, upper=2021 )
 
 # ---- specify-columns-to-write ------------------------------------------------
 # Print colnames that `dplyr::select()`  should contain below:
@@ -173,6 +182,7 @@ ds_slim <-
     count_within_20,
     count_within_60,
     count_within_100,
+    year_last_existed,
   )
 # ds_slim
 
