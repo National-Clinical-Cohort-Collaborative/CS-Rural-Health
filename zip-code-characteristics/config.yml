@@ -1,7 +1,7 @@
 default:
 
     # path_census_variable:   "data-public/metadata/census-zcta-variable.csv"
-    path_raw_zip_code_zcta        : "data-public/raw/zip-code-zcta-2021.csv"
+    path_raw_zip_code_zcta_pattern: "data-public/raw/zip-code-zcta-(?<year>20\\d{2}).txt"
     path_raw_zip_code_ruca        : "data-public/raw/zip-code-ruca-2014.csv"
     path_raw_city                 : "data-public/raw/city-us.csv"
     path_raw_hospital             : "data-public/raw/hospital.csv"

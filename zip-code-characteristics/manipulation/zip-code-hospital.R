@@ -22,22 +22,24 @@ requireNamespace("geosphere")
 # Constant values that won't change.
 config    <- config::get()
 
+zip_paths <- fs::dir_ls(regexp = config$path_raw_zip_code_zcta_pattern, recurse = T, perl = T)
+
 # figure_path <- 'stitched-output/manipulation/te/'
 
-col_types_zcta <- readr::cols_only(
-  ZIP       = readr::col_integer(),
-  LAT       = readr::col_double(),
-  LONG      = readr::col_double()
-)
 # col_types_zcta <- readr::cols_only(
-#   GEOID           = readr::col_character(),
-#   # ALAND           = readr::col_double(),
-#   # AWATER          = readr::col_double(),
-#   # ALAND_SQMI      = readr::col_double(),
-#   # AWATER_SQMI     = readr::col_double(),
-#   INTPTLAT        = readr::col_double(),
-#   INTPTLONG       = readr::col_double()
+#   ZIP       = readr::col_integer(),
+#   LAT       = readr::col_double(),
+#   LONG      = readr::col_double()
 # )
+col_types_zcta <- readr::cols_only(
+  GEOID           = readr::col_character(),
+  # ALAND           = readr::col_double(),
+  # AWATER          = readr::col_double(),
+  # ALAND_SQMI      = readr::col_double(),
+  # AWATER_SQMI     = readr::col_double(),
+  INTPTLAT        = readr::col_double(),
+  INTPTLONG       = readr::col_double()
+)
 
 col_types_hospital <- readr::cols_only( # OuhscMunge::readr_spec_aligned(config$col_types_hospital)
   `OBJECTID`        = readr::col_integer(),
@@ -47,7 +49,12 @@ col_types_hospital <- readr::cols_only( # OuhscMunge::readr_spec_aligned(config$
 
 # ---- load-data ---------------------------------------------------------------
 # Read the CSVs
-ds_zcta_latlong   <- readr::read_csv(config$path_raw_zip_code_zcta  , col_types = col_types_zcta)
+ds_zcta_latlong   <-
+  readr::read_tsv(
+    file        = zip_paths,
+    col_types   = col_types_zcta,
+    id          = "file_path"
+  )
 ds_hospital       <- readr::read_csv(config$path_raw_hospital       , col_types = col_types_hospital)
 
 rm(col_types_zcta, col_types_hospital)
@@ -59,14 +66,29 @@ ds_zcta_latlong <-
   ds_zcta_latlong %>%
   # dplyr::slice(1:200) %>%
   dplyr::select(    # `dplyr::select()` drops columns not mentioned.
-    zip_code    = ZIP,
-    long        = LONG,
-    lat         = LAT,
-  ) |>
+    zip_code    = GEOID,
+    long        = INTPTLONG,
+    lat         = INTPTLAT,
+    file_path
+  ) %>%
+  rematch2::bind_re_match(from = file_path, config$path_raw_zip_code_zcta_pattern) %>%
   dplyr::mutate(
-    zip_code    = sprintf("%05i", zip_code)
+    year  = as.integer(year),
+    # zip_code    = sprintf("%05i", zip_code) # If the variable had been converted to an integer
+  ) %>%
+  tibble::as_tibble() %>%
+  dplyr::group_by(zip_code) %>%
+  dplyr::mutate(
+    index_within_year   = dplyr::n() - dplyr::row_number(year),
+  ) %>%
+  dplyr::ungroup() %>%
+  dplyr::filter(index_within_year == 0L) %>%
+  dplyr::select(    # `dplyr::select()` drops columns not mentioned.
+    zip_code,
+    long,
+    lat,
+    year_last_existed = year,
   )
-
 
 ds_hospital <-
   ds_hospital %>%
