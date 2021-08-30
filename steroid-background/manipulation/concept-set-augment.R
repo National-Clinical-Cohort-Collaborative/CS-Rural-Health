@@ -133,7 +133,19 @@ DBI::dbDisconnect(cnn); rm(cnn, sql_retrieve)
 # ---- tweak-data --------------------------------------------------------------
 # OuhscMunge::column_rename_headstart(") #Spit out columns to help write call ato `dplyr::rename()`.
 
-ds2 <-
+ds <-
+  ds |>
+  dplyr::mutate(
+    standard_concept_caption  = dplyr::recode(
+      standard_concept,
+      "S"   = "Standard"
+      # Add more as needed
+    ),
+    invalid_reason_caption = dplyr::if_else(!is.na(invalid_reason), "Invalid", "Valid")
+  )
+
+
+ds_packed <-
   ds |>
   tidyr::pack(concept = tidyr::everything())
 
@@ -141,10 +153,10 @@ l2 <-
   list(
     items =
       data.frame(
-        concept               = ds2,
-        isExcluded          = rep(FALSE   , nrow(ds2)),
-        includeDescendants  = rep(TRUE    , nrow(ds2)),
-        includeMapped       = rep(FALSE   , nrow(ds2))
+        concept             = ds_packed,
+        isExcluded          = rep(FALSE   , nrow(ds_packed)),
+        includeDescendants  = rep(TRUE    , nrow(ds_packed)),
+        includeMapped       = rep(FALSE   , nrow(ds_packed))
       )
   )
 # str(l2)
@@ -196,13 +208,19 @@ l <- list(items = li)
 
 # ---- verify-values -----------------------------------------------------------
 # Sniff out problems
-# OuhscMunge::verify_value_headstart(ds2)
+# OuhscMunge::verify_value_headstart(ds)
 
-# checkmate::assert_character(ds2$zip_code         , any.missing=F , pattern="^\\d{5}$" , unique=T)
-# checkmate::assert_integer(  ds2$distance_min     , any.missing=T , lower=0, upper= 200 )
-# checkmate::assert_integer(  ds2$count_within_20  , any.missing=T , lower=0, upper= 500 )
-# checkmate::assert_integer(  ds2$count_within_60  , any.missing=T , lower=0, upper=1000 )
-# checkmate::assert_integer(  ds2$count_within_100 , any.missing=T , lower=0, upper=2000 )
+checkmate::assert_character(ds$codeset                  , any.missing=F , pattern="^.{11,22}$"    )
+checkmate::assert_integer(  ds$concept_id               , any.missing=F , lower=1, upper=2^31     )
+checkmate::assert_character(ds$concept_name             , any.missing=F , pattern="^.{5,255}$"    )
+checkmate::assert_character(ds$standard_concept         , any.missing=F , pattern="^S$"           )
+checkmate::assert_character(ds$standard_concept_caption , any.missing=F , pattern="^Standard$"    )
+checkmate::assert_character(ds$invalid_reason           , all.missing=T)
+checkmate::assert_character(ds$invalid_reason_caption   , any.missing=F , pattern="^Valid$"       )
+checkmate::assert_character(ds$concept_code             , any.missing=F , pattern="^\\d{4,7}$"    )
+checkmate::assert_character(ds$domain_id                , any.missing=F , pattern="^Drug$"        )
+checkmate::assert_character(ds$vocabulary_id            , any.missing=F , pattern="^RxNorm$"      )
+checkmate::assert_character(ds$concept_class_id         , any.missing=F , pattern="^.{10,50}$"    )
 
 # ---- specify-columns-to-write ------------------------------------------------
 # Print colnames that `dplyr::select()`  should contain below:
