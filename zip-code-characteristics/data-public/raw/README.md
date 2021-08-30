@@ -6,7 +6,11 @@ Contents
 
 * **hospital.csv**:  One row per hospital, updated on the ArcGIS site Dec 2020.  Downloaded by [Jared Anzalone](https://github.com/jerrodanzalone) from <https://hifld-geoplatform.opendata.arcgis.com/datasets/geoplatform::hospitals/about>.
 
-* **zipcode-zcta-2021.csv**:  One row per zcta (*i.e.*, the Census's version of a zipcode).  Downloaded by [Jared Anzalone](https://github.com/jerrodanzalone) from <https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html>.
+* **zipcode-zcta-2019.csv**:  One row per zcta (*i.e.*, the Census's version of a zipcode).  Downloaded by [Will Beasley](https://github.com/wibeasley) from <https://www.census.gov/programs-surveys/geography/technical-documentation/records-layout/gaz-record-layouts.html>
+
+* **zipcode-zcta-2020.csv**:  One row per zcta (*i.e.*, the Census's version of a zipcode).  Downloaded by [Will Beasley](https://github.com/wibeasley) from <https://www.census.gov/programs-surveys/geography/technical-documentation/records-layout/gaz-record-layouts.html>
+
+* **zipcode-zcta-2021.csv**:  One row per zcta (*i.e.*, the Census's version of a zipcode).  Downloaded by [Will Beasley](https://github.com/wibeasley) from <https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html>.  An alternative was found by  [Jared Anzalone](https://github.com/jerrodanzalone), with a slightly different file format.
 
 Comments
 -----------------
