@@ -6,13 +6,12 @@ rm(list = ls(all.names = TRUE))  # Clear the variables from previous runs.
 
 # ---- load-packages -----------------------------------------------------------
 # Attach these package(s) so their functions don't need to be qualified: http://r-pkgs.had.co.nz/namespace.html#search-path
-library(magrittr            , quietly=TRUE)
+import::from("magrittr", "%>%")
 
 # Verify these packages are available on the machine, but their functions need to be qualified: http://r-pkgs.had.co.nz/namespace.html#search-path
 requireNamespace("readr"        )
 requireNamespace("tidyr"        )
 requireNamespace("dplyr"        ) # Avoid attaching dplyr, b/c its function names conflict with a lot of packages (esp base, stats, and plyr).
-# requireNamespace("testit"       ) # For asserting conditions meet expected patterns/conditions.
 requireNamespace("checkmate"    ) # For asserting conditions meet expected patterns/conditions. # remotes::install_github("mllg/checkmate")
 requireNamespace("sqldf"       ) # For interfacing w/ SQLite
 # requireNamespace("OuhscMunge"   ) # remotes::install_github(repo="OuhscBbmc/OuhscMunge")
@@ -26,11 +25,6 @@ zip_paths <- fs::dir_ls(regexp = config$path_raw_zip_code_zcta_pattern, recurse 
 
 # figure_path <- 'stitched-output/manipulation/te/'
 
-# col_types_zcta <- readr::cols_only(
-#   ZIP       = readr::col_integer(),
-#   LAT       = readr::col_double(),
-#   LONG      = readr::col_double()
-# )
 col_types_zcta <- readr::cols_only(
   GEOID           = readr::col_character(),
   # ALAND           = readr::col_double(),
@@ -42,30 +36,30 @@ col_types_zcta <- readr::cols_only(
 )
 
 col_types_hospital <- readr::cols_only( # OuhscMunge::readr_spec_aligned(config$path_raw_hospital)
-  `OBJECTID`        = readr::col_integer(),
-  `LATITUDE`        = readr::col_double(),
-  `LONGITUDE`       = readr::col_double(),
-  `TYPE`          = readr::col_character(),
-  `STATUS`        = readr::col_character()
+  `OBJECTID`    = readr::col_integer(),
+  `LATITUDE`    = readr::col_double(),
+  `LONGITUDE`   = readr::col_double(),
+  `TYPE`        = readr::col_character(),
+  `STATUS`      = readr::col_character()
 )
 
 # ---- load-data ---------------------------------------------------------------
 # Read the CSVs
-ds_zcta_latlong   <-
+ds_zcta  <-
   readr::read_tsv(
     file        = zip_paths,
     col_types   = col_types_zcta,
     id          = "file_path"
   )
-ds_hospital       <- readr::read_csv(config$path_raw_hospital       , col_types = col_types_hospital)
+ds_hospital <- readr::read_csv(config$path_raw_hospital, col_types = col_types_hospital)
 
 rm(col_types_zcta, col_types_hospital)
 
 # ---- tweak-data --------------------------------------------------------------
 # OuhscMunge::column_rename_headstart(ds_city) #Spit out columns to help write call ato `dplyr::rename()`.
 
-ds_zcta_latlong <-
-  ds_zcta_latlong %>%
+ds_zcta <-
+  ds_zcta %>%
   # dplyr::slice(1:200) %>%
   dplyr::select(    # `dplyr::select()` drops columns not mentioned.
     zip_code    = GEOID,
@@ -96,11 +90,11 @@ ds_hospital <-
   ds_hospital %>%
   # dplyr::slice(1:200) %>%
   dplyr::select(    # `dplyr::select()` drops columns not included.
-    hospital_id           = `OBJECTID`,
-    long                  = `LONGITUDE`,
-    lat                   = `LATITUDE`,
-    status                = `STATUS`,
-    type                  = `TYPE`,
+    hospital_id   = OBJECTID,
+    long          = LONGITUDE,
+    lat           = LATITUDE,
+    status        = STATUS,
+    type          = TYPE,
   ) %>%
   dplyr::filter(status == "OPEN") %>%
   dplyr::filter(type %in% c("CRITICAL ACCESS", "GENERAL ACUTE CARE")) %>%
@@ -120,7 +114,7 @@ ds <-
       ,z.lat     as z_lat
       ,h.long    as h_long
       ,h.lat     as h_lat
-    FROM ds_zcta_latlong z
+    FROM ds_zcta z
       left  join ds_hospital h on
         z.lat  between h.lat  - 3 and h.lat  + 3
         and
@@ -154,7 +148,7 @@ ds2 <-
     zip_code_prefix_3  = substr(zip_code, 1, 3)
   ) %>%
   dplyr::left_join(
-    ds_zcta_latlong %>%
+    ds_zcta %>%
       dplyr::select(
         zip_code,
         year_last_existed,
@@ -172,7 +166,7 @@ checkmate::assert_integer(  ds2$distance_min     , any.missing=T , lower=0, uppe
 checkmate::assert_integer(  ds2$count_within_20  , any.missing=T , lower=0, upper= 500 )
 checkmate::assert_integer(  ds2$count_within_60  , any.missing=T , lower=0, upper=1000 )
 checkmate::assert_integer(  ds2$count_within_100 , any.missing=T , lower=0, upper=2000 )
-checkmate::assert_integer(  ds2$year_last_existed , any.missing=F , lower=2019, upper=2021 )
+checkmate::assert_integer(  ds2$year_last_existed, any.missing=F , lower=2019, upper=2021 )
 
 # ---- specify-columns-to-write ------------------------------------------------
 # Print colnames that `dplyr::select()`  should contain below:
