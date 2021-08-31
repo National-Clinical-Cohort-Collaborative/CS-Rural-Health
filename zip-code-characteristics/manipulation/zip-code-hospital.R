@@ -41,10 +41,12 @@ col_types_zcta <- readr::cols_only(
   INTPTLONG       = readr::col_double()
 )
 
-col_types_hospital <- readr::cols_only( # OuhscMunge::readr_spec_aligned(config$col_types_hospital)
+col_types_hospital <- readr::cols_only( # OuhscMunge::readr_spec_aligned(config$path_raw_hospital)
   `OBJECTID`        = readr::col_integer(),
   `LATITUDE`        = readr::col_double(),
-  `LONGITUDE`       = readr::col_double()
+  `LONGITUDE`       = readr::col_double(),
+  `TYPE`          = readr::col_character(),
+  `STATUS`        = readr::col_character()
 )
 
 # ---- load-data ---------------------------------------------------------------
@@ -97,8 +99,16 @@ ds_hospital <-
     hospital_id           = `OBJECTID`,
     long                  = `LONGITUDE`,
     lat                   = `LATITUDE`,
+    status                = `STATUS`,
+    type                  = `TYPE`,
+  ) %>%
+  dplyr::filter(status == "OPEN") %>%
+  dplyr::filter(type %in% c("CRITICAL ACCESS", "GENERAL ACUTE CARE")) %>%
+  dplyr::select(
+    hospital_id,
+    long,
+    lat,
   )
-
 
 system.time({
 ds <-
@@ -118,9 +128,6 @@ ds <-
   " %>%
   sqldf::sqldf()
 })
-
-# +/-1  7,824,232
-# +/-2 26,052,128
 
 # ---- find-distance-to-city ---------------------------------------------------
 message("Distance start time: ", Sys.time())
@@ -154,7 +161,7 @@ ds2 <-
       ),
     by = "zip_code"
   )
-}) #  1904.72 sec on i7 2th gen w/ 16GB
+}) #  1340.62  sec on i7 2th gen w/ 16GB
 
 # ---- verify-values -----------------------------------------------------------
 # Sniff out problems
