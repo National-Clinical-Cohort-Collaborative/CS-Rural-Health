@@ -121,9 +121,9 @@ ds <-
       ,h.lat     as h_lat
     FROM ds_zcta z
       left  join ds_hospital h on
-        z.lat  between h.lat  - 4 and h.lat  + 4
+        z.lat  between h.lat  - 3 and h.lat  + 3
         and
-        z.long between h.long - 5 and h.long + 5
+        z.long between h.long - 4 and h.long + 4
   " %>%
   sqldf::sqldf() %>%
   tibble::as_tibble()
@@ -145,13 +145,37 @@ ds2 <-
   dplyr::group_by(zip_code, hospital_type) %>%
   dplyr::summarize(
     distance_min      = as.integer(round(min(distance_from_zip_code_to_hospital_in_miles))),
-    count_within_20   = sum(distance_from_zip_code_to_hospital_in_miles <=  20L),
-    count_within_60   = sum(distance_from_zip_code_to_hospital_in_miles <=  60L),
-    count_within_100  = sum(distance_from_zip_code_to_hospital_in_miles <= 100L),
+    count_within_20mi = sum(distance_from_zip_code_to_hospital_in_miles <=  20L),
+    count_within_60mi = sum(distance_from_zip_code_to_hospital_in_miles <=  60L),
+    count_within_100mi= sum(distance_from_zip_code_to_hospital_in_miles <= 100L),
   ) %>%
-  dplyr::ungroup() %>%
+  dplyr::ungroup()
+}) #  1340.62  sec on i7 2th gen w/ 16GB
+
+
+ds_wide <-
+  ds2 %>%
   dplyr::mutate(
-    zip_code_prefix_3  = substr(zip_code, 1, 3)
+    # hospital_type = gsub(" ", "_", hospital_type),
+    hospital_type =
+      dplyr::recode(
+        hospital_type,
+        "critical access"     = "critical",
+        "general acute care"  = "acute"
+      )
+  ) %>%
+  tidyr::pivot_wider(
+    id_cols     = "zip_code",
+    names_from  = "hospital_type",
+    values_from = c("distance_min", "count_within_20mi", "count_within_60mi", "count_within_100mi")
+  ) %>%
+  dplyr::mutate(
+    count_within_20mi_acute        = dplyr::coalesce(count_within_20mi_acute      , 0L),
+    count_within_20mi_critical     = dplyr::coalesce(count_within_20mi_critical   , 0L),
+    count_within_60mi_acute        = dplyr::coalesce(count_within_60mi_acute      , 0L),
+    count_within_60mi_critical     = dplyr::coalesce(count_within_60mi_critical   , 0L),
+    count_within_100mi_acute       = dplyr::coalesce(count_within_100mi_acute     , 0L),
+    count_within_100mi_critical    = dplyr::coalesce(count_within_100mi_critical  , 0L),
   ) %>%
   dplyr::left_join(
     ds_zcta %>%
@@ -161,39 +185,52 @@ ds2 <-
       ),
     by = "zip_code"
   )
-}) #  1340.62  sec on i7 2th gen w/ 16GB
 
 # ---- verify-values -----------------------------------------------------------
 # Sniff out problems
-# OuhscMunge::verify_value_headstart(ds2)
+# OuhscMunge::verify_value_headstart(ds_wide)
 
-checkmate::assert_character(ds2$zip_code         , any.missing=F , pattern="^\\d{5}$" , unique=F)
-checkmate::assert_character(ds2$hospital_type    , any.missing=T , pattern="^.{15,18}$"   )
-checkmate::assert_integer(  ds2$distance_min     , any.missing=T , lower=0, upper= 400 )
-checkmate::assert_integer(  ds2$count_within_20  , any.missing=T , lower=0, upper= 500 )
-checkmate::assert_integer(  ds2$count_within_60  , any.missing=T , lower=0, upper=1000 )
-checkmate::assert_integer(  ds2$count_within_100 , any.missing=T , lower=0, upper=2000 )
-checkmate::assert_integer(  ds2$year_last_existed, any.missing=F , lower=2019, upper=2021 )
+checkmate::assert_character(ds_wide$zip_code                    , any.missing=F , pattern="^\\d{5}$"     , unique=T)
+checkmate::assert_integer(  ds_wide$distance_min_acute          , any.missing=T , lower=0, upper=500      )
+checkmate::assert_integer(  ds_wide$distance_min_critical       , any.missing=T , lower=0, upper=500     )
+checkmate::assert_integer(  ds_wide$count_within_20mi_acute     , any.missing=F , lower=0, upper=999     )
+checkmate::assert_integer(  ds_wide$count_within_20mi_critical  , any.missing=F , lower=0, upper=999     )
+checkmate::assert_integer(  ds_wide$count_within_60mi_acute     , any.missing=F , lower=0, upper=999     )
+checkmate::assert_integer(  ds_wide$count_within_60mi_critical  , any.missing=F , lower=0, upper=999     )
+checkmate::assert_integer(  ds_wide$count_within_100mi_acute    , any.missing=F , lower=0, upper=999     )
+checkmate::assert_integer(  ds_wide$count_within_100mi_critical , any.missing=F , lower=0, upper=999     )
+checkmate::assert_integer(  ds_wide$year_last_existed           , any.missing=F , lower=2019, upper=2021 )
 
-combo <- paste(ds2$zip_code, ds2$hospital_type)
-checkmate::assert_character(combo, any.missing=F, unique=T) # The combination should be unique
+# checkmate::assert_character(ds2$zip_code         , any.missing=F , pattern="^\\d{5}$" , unique=F)
+# checkmate::assert_character(ds2$hospital_type    , any.missing=T , pattern="^.{15,18}$"   )
+# checkmate::assert_integer(  ds2$distance_min     , any.missing=T , lower=0, upper= 400 )
+# checkmate::assert_integer(  ds2$count_within_20  , any.missing=T , lower=0, upper= 500 )
+# checkmate::assert_integer(  ds2$count_within_60  , any.missing=T , lower=0, upper=1000 )
+# checkmate::assert_integer(  ds2$count_within_100 , any.missing=T , lower=0, upper=2000 )
+# checkmate::assert_integer(  ds2$year_last_existed, any.missing=F , lower=2019, upper=2021 )
+#
+# combo <- paste(ds2$zip_code, ds2$hospital_type)
+# checkmate::assert_character(combo, any.missing=F, unique=T) # The combination should be unique
 
 # ---- specify-columns-to-write ------------------------------------------------
 # Print colnames that `dplyr::select()`  should contain below:
-#   cat(paste0("    ", colnames(ds), collapse=",\n"))
+#   cat(paste0("    ", colnames(ds_wide), collapse=",\n"))
 
 # Define the subset of columns that will be needed in the analyses.
 #   The fewer columns that are exported, the fewer things that can break downstream.
 ds_slim <-
-  ds2 %>%
+  ds_wide %>%
   # dplyr::slice(1:100) %>%
   dplyr::select(
     zip_code,
-    hospital_type,
-    distance_min,
-    count_within_20,
-    count_within_60,
-    count_within_100,
+    distance_min_acute,
+    distance_min_critical,
+    count_within_20mi_acute,
+    count_within_20mi_critical,
+    count_within_60mi_acute,
+    count_within_60mi_critical,
+    count_within_100mi_acute,
+    count_within_100mi_critical,
     year_last_existed,
   )
 # ds_slim
