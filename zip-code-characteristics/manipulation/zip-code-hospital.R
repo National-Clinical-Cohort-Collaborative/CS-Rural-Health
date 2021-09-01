@@ -94,14 +94,18 @@ ds_hospital <-
     long          = LONGITUDE,
     lat           = LATITUDE,
     status        = STATUS,
-    type          = TYPE,
+    hospital_type = TYPE,
   ) %>%
   dplyr::filter(status == "OPEN") %>%
-  dplyr::filter(type %in% c("CRITICAL ACCESS", "GENERAL ACUTE CARE")) %>%
+  dplyr::filter(hospital_type %in% c("CRITICAL ACCESS", "GENERAL ACUTE CARE")) %>%
+  dplyr::mutate(
+    hospital_type  = factor(tolower(hospital_type)),
+  ) %>%
   dplyr::select(
     hospital_id,
     long,
     lat,
+    hospital_type,
   )
 
 system.time({
@@ -110,17 +114,19 @@ ds <-
     SELECT
       z.zip_code
       ,h.hospital_id
+      ,h.hospital_type
       ,z.long    as z_long
       ,z.lat     as z_lat
       ,h.long    as h_long
       ,h.lat     as h_lat
     FROM ds_zcta z
       left  join ds_hospital h on
-        z.lat  between h.lat  - 3 and h.lat  + 3
+        z.lat  between h.lat  - 4 and h.lat  + 4
         and
-        z.long between h.long - 4 and h.long + 4
+        z.long between h.long - 5 and h.long + 5
   " %>%
-  sqldf::sqldf()
+  sqldf::sqldf() %>%
+  tibble::as_tibble()
 })
 
 # ---- find-distance-to-city ---------------------------------------------------
@@ -128,7 +134,7 @@ message("Distance start time: ", Sys.time())
 system.time({
 ds2 <-
   ds %>%
-  # dplyr::slice(1:2000) %>%
+  # dplyr::slice(1:20000) %>%
   dplyr::mutate(
     distance_from_zip_code_to_hospital_in_miles =
       geosphere::distVincentyEllipsoid(
@@ -136,7 +142,7 @@ ds2 <-
         p2  = cbind(.data$h_long, .data$h_lat)
       ) * config$miles_per_m
   ) %>%
-  dplyr::group_by(zip_code) %>%
+  dplyr::group_by(zip_code, hospital_type) %>%
   dplyr::summarize(
     distance_min      = as.integer(round(min(distance_from_zip_code_to_hospital_in_miles))),
     count_within_20   = sum(distance_from_zip_code_to_hospital_in_miles <=  20L),
@@ -161,12 +167,16 @@ ds2 <-
 # Sniff out problems
 # OuhscMunge::verify_value_headstart(ds2)
 
-checkmate::assert_character(ds2$zip_code         , any.missing=F , pattern="^\\d{5}$" , unique=T)
+checkmate::assert_character(ds2$zip_code         , any.missing=F , pattern="^\\d{5}$" , unique=F)
+checkmate::assert_character(ds2$hospital_type    , any.missing=T , pattern="^.{15,18}$"   )
 checkmate::assert_integer(  ds2$distance_min     , any.missing=T , lower=0, upper= 400 )
 checkmate::assert_integer(  ds2$count_within_20  , any.missing=T , lower=0, upper= 500 )
 checkmate::assert_integer(  ds2$count_within_60  , any.missing=T , lower=0, upper=1000 )
 checkmate::assert_integer(  ds2$count_within_100 , any.missing=T , lower=0, upper=2000 )
 checkmate::assert_integer(  ds2$year_last_existed, any.missing=F , lower=2019, upper=2021 )
+
+combo <- paste(ds2$zip_code, ds2$hospital_type)
+checkmate::assert_character(combo, any.missing=F, unique=T) # The combination should be unique
 
 # ---- specify-columns-to-write ------------------------------------------------
 # Print colnames that `dplyr::select()`  should contain below:
@@ -179,6 +189,7 @@ ds_slim <-
   # dplyr::slice(1:100) %>%
   dplyr::select(
     zip_code,
+    hospital_type,
     distance_min,
     count_within_20,
     count_within_60,
