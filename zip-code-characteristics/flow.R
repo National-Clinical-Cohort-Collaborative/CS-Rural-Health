@@ -46,7 +46,8 @@ ds_rail  <- tibble::tribble(
   ~fx         , ~path,
 
   # ETL (extract-transform-load) the data from the outside world.
-  "run_r"     , "manipulation/zip-code.R"
+  "run_r"     , "manipulation/zip-code-hospital.R"
+  # "run_r"     , "manipulation/zip-code.R"
 
   # Second-level manipulation on data inside the warehouse.
   # "run_sql" , "manipulation/inserts-to-normalized-tables.sql"

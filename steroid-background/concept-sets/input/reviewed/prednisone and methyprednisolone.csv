@@ -67,11 +67,11 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 19104623,TRUE,,methylprednisolone 20 MG/ML Injectable Solution,S,,NULL,,415817,Drug,RxNorm,Clinical Drug
 19104629,TRUE,,methylprednisolone 5 MG/ML Injectable Solution,S,,NULL,,415856,Drug,RxNorm,Clinical Drug
 19104630,TRUE,,methylprednisolone 10 MG/ML Injectable Solution,S,,NULL,,415857,Drug,RxNorm,Clinical Drug
-19105235,TRUE,,chloramphenicol 0.002 MG/MG / prednisone 0.005 MG/MG Topical Ointment,S,,NULL,,418863,Drug,RxNorm,Clinical Drug
-19105412,TRUE,,piroxicam 10 MG / prednisone 2 MG Rectal Suppository,S,,NULL,,420639,Drug,RxNorm,Clinical Drug
-19105447,TRUE,,prednisone 5 MG Rectal Suppository,S,,NULL,,420771,Drug,RxNorm,Clinical Drug
-19105448,TRUE,,prednisone 30 MG Rectal Suppository,S,,NULL,,420772,Drug,RxNorm,Clinical Drug
-19105449,TRUE,,prednisone 100 MG Rectal Suppository,S,,NULL,,420773,Drug,RxNorm,Clinical Drug
+19105235,TRUE,delete,chloramphenicol 0.002 MG/MG / prednisone 0.005 MG/MG Topical Ointment,S,,NULL,,418863,Drug,RxNorm,Clinical Drug
+19105412,TRUE,delete,piroxicam 10 MG / prednisone 2 MG Rectal Suppository,S,,NULL,,420639,Drug,RxNorm,Clinical Drug
+19105447,TRUE,delete,prednisone 5 MG Rectal Suppository,S,,NULL,,420771,Drug,RxNorm,Clinical Drug
+19105448,TRUE,delete,prednisone 30 MG Rectal Suppository,S,,NULL,,420772,Drug,RxNorm,Clinical Drug
+19105449,TRUE,delete,prednisone 100 MG Rectal Suppository,S,,NULL,,420773,Drug,RxNorm,Clinical Drug
 19007004,TRUE,,methylprednisolone 50 MG/ML Injectable Solution,S,,NULL,,105404,Drug,RxNorm,Clinical Drug
 19007010,TRUE,,prednisone 5 MG Oral Tablet [Decortisyl],S,,NULL,,105412,Drug,RxNorm,Branded Drug
 19009116,TRUE,,meprednisone,S,,NULL,,29523,Drug,RxNorm,Ingredient
@@ -114,7 +114,7 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 19043531,TRUE,,methylprednisolone 32 MG [Medrol],S,,NULL,,567932,Drug,RxNorm,Branded Drug Comp
 19043532,TRUE,,methylprednisolone 4 MG [Medrol],S,,NULL,,574125,Drug,RxNorm,Branded Drug Comp
 19048394,TRUE,,methylprednisolone 62.5 MG/ML [Solu-Medrol],S,,NULL,,567984,Drug,RxNorm,Branded Drug Comp
-19060038,TRUE,,methylprednisolone 1 MG/ML Ophthalmic Solution,S,,NULL,,246024,Drug,RxNorm,Clinical Drug
+19060038,TRUE,delete,methylprednisolone 1 MG/ML Ophthalmic Solution,S,,NULL,,246024,Drug,RxNorm,Clinical Drug
 19061425,TRUE,,meprednisone 40 MG Oral Tablet,S,,NULL,,248702,Drug,RxNorm,Clinical Drug
 19064110,TRUE,,piroxicam 10 MG / prednisone 2 MG Delayed Release Oral Tablet,S,,NULL,,250996,Drug,RxNorm,Clinical Drug
 19067555,TRUE,,methylprednisolone 4 MG Oral Tablet [Medrol],S,,NULL,,260330,Drug,RxNorm,Branded Drug
@@ -137,11 +137,11 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 19135074,TRUE,,{48 (prednisone 10 MG Oral Tablet [Sterapred DS]) } Pack [Sterapred DS 12 Day Uni-Pak],S,,NULL,,845493,Drug,RxNorm,Branded Pack
 19135075,TRUE,,{21 (prednisone 10 MG Oral Tablet [Sterapred DS]) } Pack [Sterapred DS Uni-Pak],S,,NULL,,845494,Drug,RxNorm,Branded Pack
 35606531,TRUE,,methylprednisolone 125 MG,S,,NULL,,1743702,Drug,RxNorm,Clinical Drug Comp
-19105450,TRUE,,prednisone 10 MG Rectal Suppository,S,,NULL,,420774,Drug,RxNorm,Clinical Drug
+19105450,TRUE,delete,prednisone 10 MG Rectal Suppository,S,,NULL,,420774,Drug,RxNorm,Clinical Drug
 19106650,TRUE,,methylprednisolone 40 MG Oral Tablet,S,,NULL,,429197,Drug,RxNorm,Clinical Drug
 19106693,TRUE,,prednisone 8 MG Oral Tablet,S,,NULL,,429331,Drug,RxNorm,Clinical Drug
 19106694,TRUE,,prednisone 40 MG Oral Tablet,S,,NULL,,429332,Drug,RxNorm,Clinical Drug
-19109240,TRUE,,prednisone 0.005 MG/MG,S,,NULL,,438434,Drug,RxNorm,Clinical Drug Comp
+19109240,TRUE,delete,prednisone 0.005 MG/MG,S,,NULL,,438434,Drug,RxNorm,Clinical Drug Comp
 19110847,TRUE,,methylprednisolone 10 MG/ML,S,,NULL,,446407,Drug,RxNorm,Clinical Drug Comp
 19110848,TRUE,,methylprednisolone 5 MG/ML,S,,NULL,,446408,Drug,RxNorm,Clinical Drug Comp
 19111642,TRUE,,prednisone 100 MG,S,,NULL,,451141,Drug,RxNorm,Clinical Drug Comp
@@ -164,18 +164,18 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 19127775,TRUE,,prednisone 5 MG Oral Capsule,S,,NULL,,746837,Drug,RxNorm,Clinical Drug
 40055571,TRUE,,meprednisone Oral Solution,S,,NULL,,372772,Drug,RxNorm,Clinical Drug Form
 40055572,TRUE,,meprednisone Oral Tablet,S,,NULL,,372773,Drug,RxNorm,Clinical Drug Form
-40060699,TRUE,,methylprednisolone Enema,S,,NULL,,372865,Drug,RxNorm,Clinical Drug Form
+40060699,TRUE,delete,methylprednisolone Enema,S,,NULL,,372865,Drug,RxNorm,Clinical Drug Form
 40060701,TRUE,,methylprednisolone Injectable Solution,S,,NULL,,376656,Drug,RxNorm,Clinical Drug Form
 40060704,TRUE,,methylprednisolone Injectable Solution [Solu-Medrol],S,,NULL,,362772,Drug,RxNorm,Branded Drug Form
 40060705,TRUE,,methylprednisolone Injectable Suspension,S,,NULL,,372866,Drug,RxNorm,Clinical Drug Form
 40060710,TRUE,,methylprednisolone Injectable Suspension [Depo-Medrol],S,,NULL,,365570,Drug,RxNorm,Branded Drug Form
-40060727,TRUE,,methylprednisolone Ophthalmic Solution,S,,NULL,,372867,Drug,RxNorm,Clinical Drug Form
+40060727,TRUE,delete,methylprednisolone Ophthalmic Solution,S,,NULL,,372867,Drug,RxNorm,Clinical Drug Form
 40060728,TRUE,,methylprednisolone Oral Tablet,S,,NULL,,372868,Drug,RxNorm,Clinical Drug Form
 40060730,TRUE,,methylprednisolone Oral Tablet [Medrol],S,,NULL,,368772,Drug,RxNorm,Branded Drug Form
-40060734,TRUE,,methylprednisolone Topical Cream,S,,NULL,,377758,Drug,RxNorm,Clinical Drug Form
-40060736,TRUE,,methylprednisolone Topical Ointment,S,,NULL,,372863,Drug,RxNorm,Clinical Drug Form
-40066583,TRUE,,methylprednisolone / neomycin Topical Cream,S,,NULL,,376403,Drug,RxNorm,Clinical Drug Form
-40066585,TRUE,,methylprednisolone / neomycin Topical Ointment,S,,NULL,,376326,Drug,RxNorm,Clinical Drug Form
+40060734,TRUE,delete,methylprednisolone Topical Cream,S,,NULL,,377758,Drug,RxNorm,Clinical Drug Form
+40060736,TRUE,delete,methylprednisolone Topical Ointment,S,,NULL,,372863,Drug,RxNorm,Clinical Drug Form
+40066583,TRUE,delete,methylprednisolone / neomycin Topical Cream,S,,NULL,,376403,Drug,RxNorm,Clinical Drug Form
+40066585,TRUE,delete,methylprednisolone / neomycin Topical Ointment,S,,NULL,,376326,Drug,RxNorm,Clinical Drug Form
 40073529,TRUE,,prednisone Oral Solution,S,,NULL,,373583,Drug,RxNorm,Clinical Drug Form
 40073530,TRUE,,prednisone Oral Solution [Liquid Pred],S,,NULL,,364008,Drug,RxNorm,Branded Drug Form
 40073531,TRUE,,prednisone Oral Tablet,S,,NULL,,373585,Drug,RxNorm,Clinical Drug Form
@@ -188,10 +188,10 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 40073810,TRUE,,prednisone Oral Tablet [Prednicot],S,,NULL,,368654,Drug,RxNorm,Branded Drug Form
 40073811,TRUE,,prednisone Oral Tablet [Sterapred DS],S,,NULL,,368806,Drug,RxNorm,Branded Drug Form
 40073812,TRUE,,prednisone Oral Tablet [Sterapred],S,,NULL,,368812,Drug,RxNorm,Branded Drug Form
-40073813,TRUE,,prednisone Rectal Suppository,S,,NULL,,451142,Drug,RxNorm,Clinical Drug Form
+40073813,TRUE,delete,prednisone Rectal Suppository,S,,NULL,,451142,Drug,RxNorm,Clinical Drug Form
 40077886,TRUE,,piroxicam / prednisone Delayed Release Oral Tablet,S,,NULL,,373495,Drug,RxNorm,Clinical Drug Form
 40077887,TRUE,,piroxicam / prednisone Oral Tablet,S,,NULL,,376283,Drug,RxNorm,Clinical Drug Form
-40077888,TRUE,,piroxicam / prednisone Rectal Suppository,S,,NULL,,450881,Drug,RxNorm,Clinical Drug Form
+40077888,TRUE,delete,piroxicam / prednisone Rectal Suppository,S,,NULL,,450881,Drug,RxNorm,Clinical Drug Form
 40119172,TRUE,,prednisone Oral Tablet [Predone],S,,NULL,,541814,Drug,RxNorm,Branded Drug Form
 40127030,TRUE,,prednisone Oral Solution [Prednisone Intensol],S,,NULL,,582602,Drug,RxNorm,Branded Drug Form
 40143531,TRUE,,prednisone Oral Capsule,S,,NULL,,746379,Drug,RxNorm,Clinical Drug Form
@@ -235,24 +235,24 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 35606596,TRUE,,methylprednisolone Injection [A-MethaPred],S,,NULL,,1744021,Drug,RxNorm,Branded Drug Form
 35606597,TRUE,,methylprednisolone 125 MG [A-MethaPred],S,,NULL,,1744024,Drug,RxNorm,Branded Drug Comp
 40012593,TRUE,,aspirin / methylprednisolone Oral Tablet,S,,NULL,,372870,Drug,RxNorm,Clinical Drug Form
-40022944,TRUE,,chloramphenicol / prednisone Topical Ointment,S,,NULL,,438435,Drug,RxNorm,Clinical Drug Form
-40239145,TRUE,,methylprednisolone acetate 0.01 MG/MG,S,,NULL,,1100385,Drug,RxNorm,Clinical Drug Comp
-40239146,TRUE,,methylprednisolone acetate 0.01 MG/MG Topical Gel,S,,NULL,,1100387,Drug,RxNorm,Clinical Drug
-40239147,TRUE,,methylprednisolone acetate 0.01 MG/MG Topical Gel [HybriSil],S,,NULL,,1100391,Drug,RxNorm,Branded Drug
-40239148,TRUE,,methylprednisolone acetate 0.01 MG/MG [HybriSil],S,,NULL,,1100389,Drug,RxNorm,Branded Drug Comp
-40239242,TRUE,,methylprednisolone Topical Gel,S,,NULL,,1100386,Drug,RxNorm,Clinical Drug Form
-40239243,TRUE,,methylprednisolone Topical Gel [HybriSil],S,,NULL,,1100390,Drug,RxNorm,Branded Drug Form
+40022944,TRUE,delete,chloramphenicol / prednisone Topical Ointment,S,,NULL,,438435,Drug,RxNorm,Clinical Drug Form
+40239145,TRUE,delete,methylprednisolone acetate 0.01 MG/MG,S,,NULL,,1100385,Drug,RxNorm,Clinical Drug Comp
+40239146,TRUE,delete,methylprednisolone acetate 0.01 MG/MG Topical Gel,S,,NULL,,1100387,Drug,RxNorm,Clinical Drug
+40239147,TRUE,delete,methylprednisolone acetate 0.01 MG/MG Topical Gel [HybriSil],S,,NULL,,1100391,Drug,RxNorm,Branded Drug
+40239148,TRUE,delete,methylprednisolone acetate 0.01 MG/MG [HybriSil],S,,NULL,,1100389,Drug,RxNorm,Branded Drug Comp
+40239242,TRUE,delete,methylprednisolone Topical Gel,S,,NULL,,1100386,Drug,RxNorm,Clinical Drug Form
+40239243,TRUE,delete,methylprednisolone Topical Gel [HybriSil],S,,NULL,,1100390,Drug,RxNorm,Branded Drug Form
 42901433,TRUE,,methylprednisolone acetate 40 MG/ML,S,,NULL,,1358496,Drug,RxNorm,Clinical Drug Comp
-42901434,TRUE,,lidocaine / methylprednisolone Injectable Suspension,S,,NULL,,1358497,Drug,RxNorm,Clinical Drug Form
-42901435,TRUE,,methylprednisolone acetate 0.0025 MG/MG,S,,NULL,,1358499,Drug,RxNorm,Clinical Drug Comp
-42901437,TRUE,,methylprednisolone acetate 0.0025 MG/MG / neomycin 0.0035 MG/MG [Neo-Medrol],S,,NULL,,1358502,Drug,RxNorm,Branded Drug Comp
-42901438,TRUE,,methylprednisolone / neomycin Topical Ointment [Neo-Medrol],S,,NULL,,1358503,Drug,RxNorm,Branded Drug Form
+42901434,TRUE,delete,lidocaine / methylprednisolone Injectable Suspension,S,,NULL,,1358497,Drug,RxNorm,Clinical Drug Form
+42901435,TRUE,delete,methylprednisolone acetate 0.0025 MG/MG,S,,NULL,,1358499,Drug,RxNorm,Clinical Drug Comp
+42901437,TRUE,delete,methylprednisolone acetate 0.0025 MG/MG / neomycin 0.0035 MG/MG [Neo-Medrol],S,,NULL,,1358502,Drug,RxNorm,Branded Drug Comp
+42901438,TRUE,delete,methylprednisolone / neomycin Topical Ointment [Neo-Medrol],S,,NULL,,1358503,Drug,RxNorm,Branded Drug Form
 42901439,TRUE,,methylprednisolone acetate 20 MG/ML,S,,NULL,,1358509,Drug,RxNorm,Clinical Drug Comp
 42901440,TRUE,,methylprednisolone acetate 20 MG/ML [Depo-Medrol],S,,NULL,,1358511,Drug,RxNorm,Branded Drug Comp
 42901442,TRUE,,methylprednisolone acetate 40 MG/ML [Depo-Medrol],S,,NULL,,1358611,Drug,RxNorm,Branded Drug Comp
 42901444,TRUE,,methylprednisolone acetate 80 MG/ML,S,,NULL,,1358616,Drug,RxNorm,Clinical Drug Comp
 42901445,TRUE,,methylprednisolone acetate 80 MG/ML [Depo-Medrol],S,,NULL,,1358618,Drug,RxNorm,Branded Drug Comp
-42901473,TRUE,,methylprednisolone acetate 0.005 MG/MG,S,,NULL,,1358743,Drug,RxNorm,Clinical Drug Comp
+42901473,TRUE,delete,methylprednisolone acetate 0.005 MG/MG,S,,NULL,,1358743,Drug,RxNorm,Clinical Drug Comp
 42901474,TRUE,,methylprednisolone acetate 10 MG/ML,S,,NULL,,1358745,Drug,RxNorm,Clinical Drug Comp
 42901475,TRUE,,methylprednisolone acetate 16 MG/ML,S,,NULL,,1358747,Drug,RxNorm,Clinical Drug Comp
 42901476,TRUE,,methylprednisolone acetate 2.5 MG/ML,S,,NULL,,1358749,Drug,RxNorm,Clinical Drug Comp
@@ -260,23 +260,23 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 42901997,TRUE,,methylprednisolone 2000 MG Injection,S,,NULL,,1357886,Drug,RxNorm,Clinical Drug
 42901998,TRUE,,methylprednisolone 2000 MG Injection [Solu-Medrol],S,,NULL,,1357888,Drug,RxNorm,Branded Drug
 42902102,TRUE,,lidocaine hydrochloride 10 MG/ML / methylprednisolone acetate 40 MG/ML Injectable Suspension,S,,NULL,,1358498,Drug,RxNorm,Clinical Drug
-42902103,TRUE,,methylprednisolone acetate 0.0025 MG/MG / neomycin 0.0035 MG/MG Topical Ointment,S,,NULL,,1358500,Drug,RxNorm,Clinical Drug
-42902104,TRUE,,methylprednisolone acetate 0.0025 MG/MG / neomycin 0.0035 MG/MG Topical Ointment [Neo-Medrol],S,,NULL,,1358505,Drug,RxNorm,Branded Drug
-42902105,TRUE,,methylprednisolone acetate 0.0025 MG/MG Topical Ointment,S,,NULL,,1358506,Drug,RxNorm,Clinical Drug
-42902106,TRUE,,methylprednisolone acetate 0.01 MG/MG Topical Ointment,S,,NULL,,1358508,Drug,RxNorm,Clinical Drug
+42902103,TRUE,delete,methylprednisolone acetate 0.0025 MG/MG / neomycin 0.0035 MG/MG Topical Ointment,S,,NULL,,1358500,Drug,RxNorm,Clinical Drug
+42902104,TRUE,delete,methylprednisolone acetate 0.0025 MG/MG / neomycin 0.0035 MG/MG Topical Ointment [Neo-Medrol],S,,NULL,,1358505,Drug,RxNorm,Branded Drug
+42902105,TRUE,delete,methylprednisolone acetate 0.0025 MG/MG Topical Ointment,S,,NULL,,1358506,Drug,RxNorm,Clinical Drug
+42902106,TRUE,delete,methylprednisolone acetate 0.01 MG/MG Topical Ointment,S,,NULL,,1358508,Drug,RxNorm,Clinical Drug
 42902107,TRUE,,methylprednisolone acetate 20 MG/ML Injectable Suspension,S,,NULL,,1358510,Drug,RxNorm,Clinical Drug
 42902108,TRUE,,methylprednisolone acetate 20 MG/ML Injectable Suspension [Depo-Medrol],S,,NULL,,1358512,Drug,RxNorm,Branded Drug
 42902110,TRUE,,methylprednisolone acetate 40 MG/ML Injectable Suspension,S,,NULL,,1358610,Drug,RxNorm,Clinical Drug
 42902111,TRUE,,methylprednisolone acetate 40 MG/ML Injectable Suspension [Depo-Medrol],S,,NULL,,1358612,Drug,RxNorm,Branded Drug
 42902114,TRUE,,methylprednisolone acetate 80 MG/ML Injectable Suspension,S,,NULL,,1358617,Drug,RxNorm,Clinical Drug
 42902115,TRUE,,methylprednisolone acetate 80 MG/ML Injectable Suspension [Depo-Medrol],S,,NULL,,1358619,Drug,RxNorm,Branded Drug
-42902152,TRUE,,methylprednisolone acetate 0.0025 MG/MG / neomycin 0.007 MG/MG Topical Ointment,S,,NULL,,1358737,Drug,RxNorm,Clinical Drug
-42902156,TRUE,,methylprednisolone acetate 0.005 MG/MG Topical Ointment,S,,NULL,,1358744,Drug,RxNorm,Clinical Drug
-42902157,TRUE,,methylprednisolone acetate 10 MG/ML / neomycin 3.5 MG/ML Topical Cream,S,,NULL,,1358746,Drug,RxNorm,Clinical Drug
+42902152,TRUE,delete,methylprednisolone acetate 0.0025 MG/MG / neomycin 0.007 MG/MG Topical Ointment,S,,NULL,,1358737,Drug,RxNorm,Clinical Drug
+42902156,TRUE,delete,methylprednisolone acetate 0.005 MG/MG Topical Ointment,S,,NULL,,1358744,Drug,RxNorm,Clinical Drug
+42902157,TRUE,delete,methylprednisolone acetate 10 MG/ML / neomycin 3.5 MG/ML Topical Cream,S,,NULL,,1358746,Drug,RxNorm,Clinical Drug
 42902158,TRUE,,methylprednisolone acetate 16 MG/ML Injectable Suspension,S,,NULL,,1358748,Drug,RxNorm,Clinical Drug
-42902159,TRUE,,methylprednisolone acetate 2.5 MG/ML / neomycin 3.5 MG/ML Topical Cream,S,,NULL,,1358750,Drug,RxNorm,Clinical Drug
-42902162,TRUE,,methylprednisolone acetate 2.5 MG/ML Topical Cream,S,,NULL,,1358754,Drug,RxNorm,Clinical Drug
-42902166,TRUE,,methylprednisolone acetate 40 MG Enema,S,,NULL,,1358761,Drug,RxNorm,Clinical Drug
+42902159,TRUE,delete,methylprednisolone acetate 2.5 MG/ML / neomycin 3.5 MG/ML Topical Cream,S,,NULL,,1358750,Drug,RxNorm,Clinical Drug
+42902162,TRUE,delete,methylprednisolone acetate 2.5 MG/ML Topical Cream,S,,NULL,,1358754,Drug,RxNorm,Clinical Drug
+42902166,TRUE,delete,methylprednisolone acetate 40 MG Enema,S,,NULL,,1358761,Drug,RxNorm,Clinical Drug
 45774913,TRUE,,methylprednisolone acetate 40 ML,S,,NULL,,1545708,Drug,RxNorm,Clinical Drug Comp
 45774914,TRUE,,methylprednisolone acetate 40 ML Injectable Suspension,S,,NULL,,1545709,Drug,RxNorm,Clinical Drug
 45774915,TRUE,,methylprednisolone acetate 40 ML [Depo-Medrol],S,,NULL,,1545711,Drug,RxNorm,Branded Drug Comp

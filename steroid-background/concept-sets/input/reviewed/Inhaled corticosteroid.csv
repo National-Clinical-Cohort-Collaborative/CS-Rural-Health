@@ -8,19 +8,19 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 792492,TRUE,,fluticasone furoate 0.1 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Trelegy],S,,NULL,,1945046,Drug,RxNorm,Branded Drug
 792493,TRUE,,30 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,1945047,Drug,RxNorm,Quant Clinical Drug
 792494,TRUE,,30 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Trelegy],S,,NULL,,1945048,Drug,RxNorm,Quant Branded Drug
-792586,TRUE,,fluticasone propionate 0.093 MG/ACTUAT,S,,NULL,,1946582,Drug,RxNorm,Clinical Drug Comp
-792587,TRUE,,fluticasone propionate 0.093 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1946583,Drug,RxNorm,Clinical Drug
-792589,TRUE,,fluticasone propionate 0.093 MG/ACTUAT [Xhance],S,,NULL,,1946585,Drug,RxNorm,Branded Drug Comp
-792590,TRUE,,fluticasone Metered Dose Nasal Spray [Xhance],S,,NULL,,1946586,Drug,RxNorm,Branded Drug Form
-792593,TRUE,,fluticasone propionate 0.093 MG/ACTUAT Metered Dose Nasal Spray [Xhance],S,,NULL,,1946589,Drug,RxNorm,Branded Drug
-793456,TRUE,,mometasone furoate 1.35 MG,S,,NULL,,1995982,Drug,RxNorm,Clinical Drug Comp
-793457,TRUE,,mometasone furoate 1.35 MG Drug Implant,S,,NULL,,1995983,Drug,RxNorm,Clinical Drug
-793459,TRUE,,mometasone furoate 1.35 MG [Sinuva],S,,NULL,,1995985,Drug,RxNorm,Branded Drug Comp
-793460,TRUE,,mometasone Drug Implant [Sinuva],S,,NULL,,1995986,Drug,RxNorm,Branded Drug Form
-793462,TRUE,,mometasone furoate 1.35 MG Drug Implant [Sinuva],S,,NULL,,1995988,Drug,RxNorm,Branded Drug
-793577,TRUE,,fluticasone propionate 0.05 MG/ACTUAT [Fluticare],S,,NULL,,1996208,Drug,RxNorm,Branded Drug Comp
-793578,TRUE,,fluticasone Metered Dose Nasal Spray [Fluticare],S,,NULL,,1996209,Drug,RxNorm,Branded Drug Form
-793581,TRUE,,fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Fluticare],S,,NULL,,1996212,Drug,RxNorm,Branded Drug
+792586,TRUE,delete,fluticasone propionate 0.093 MG/ACTUAT,S,,NULL,,1946582,Drug,RxNorm,Clinical Drug Comp
+792587,TRUE,delete,fluticasone propionate 0.093 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1946583,Drug,RxNorm,Clinical Drug
+792589,TRUE,delete,fluticasone propionate 0.093 MG/ACTUAT [Xhance],S,,NULL,,1946585,Drug,RxNorm,Branded Drug Comp
+792590,TRUE,delete,fluticasone Metered Dose Nasal Spray [Xhance],S,,NULL,,1946586,Drug,RxNorm,Branded Drug Form
+792593,TRUE,delete,fluticasone propionate 0.093 MG/ACTUAT Metered Dose Nasal Spray [Xhance],S,,NULL,,1946589,Drug,RxNorm,Branded Drug
+793456,TRUE,delete,mometasone furoate 1.35 MG,S,,NULL,,1995982,Drug,RxNorm,Clinical Drug Comp
+793457,TRUE,delete,mometasone furoate 1.35 MG Drug Implant,S,,NULL,,1995983,Drug,RxNorm,Clinical Drug
+793459,TRUE,delete,mometasone furoate 1.35 MG [Sinuva],S,,NULL,,1995985,Drug,RxNorm,Branded Drug Comp
+793460,TRUE,delete,mometasone Drug Implant [Sinuva],S,,NULL,,1995986,Drug,RxNorm,Branded Drug Form
+793462,TRUE,delete,mometasone furoate 1.35 MG Drug Implant [Sinuva],S,,NULL,,1995988,Drug,RxNorm,Branded Drug
+793577,TRUE,delete,fluticasone propionate 0.05 MG/ACTUAT [Fluticare],S,,NULL,,1996208,Drug,RxNorm,Branded Drug Comp
+793578,TRUE,delete,fluticasone Metered Dose Nasal Spray [Fluticare],S,,NULL,,1996209,Drug,RxNorm,Branded Drug Form
+793581,TRUE,delete,fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Fluticare],S,,NULL,,1996212,Drug,RxNorm,Branded Drug
 793912,TRUE,,60 ACTUAT fluticasone propionate 0.113 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,1941531,Drug,RxNorm,Quant Clinical Drug
 793914,TRUE,,fluticasone propionate 0.113 MG/ACTUAT [Armonair],S,,NULL,,1941533,Drug,RxNorm,Branded Drug Comp
 793915,TRUE,,fluticasone Dry Powder Inhaler [Armonair],S,,NULL,,1941534,Drug,RxNorm,Branded Drug Form
@@ -38,48 +38,48 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 793939,TRUE,,fluticasone propionate 0.055 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,1941614,Drug,RxNorm,Clinical Drug
 793940,TRUE,,fluticasone propionate 0.055 MG/ACTUAT Dry Powder Inhaler [Armonair],S,,NULL,,1941615,Drug,RxNorm,Branded Drug
 1115572,TRUE,,beclomethasone,S,,NULL,,1347,Drug,RxNorm,Ingredient
-1115647,TRUE,,beclomethasone 0.00025 MG/MG,S,,NULL,,331154,Drug,RxNorm,Clinical Drug Comp
-1115673,TRUE,,beclomethasone 0.25 MG/ML,S,,NULL,,358485,Drug,RxNorm,Clinical Drug Comp
-1115678,TRUE,,beclomethasone 0.05 MG/ACTUAT Nasal Spray,S,,NULL,,562655,Drug,RxNorm,Clinical Drug
-1146317,TRUE,,ciclesonide 0.343 MG/ACTUAT,S,,NULL,,2377376,Drug,RxNorm,Clinical Drug Comp
-1146318,TRUE,,ciclesonide 0.343 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,2377377,Drug,RxNorm,Clinical Drug
-1146320,TRUE,,ciclesonide 0.343 MG/ACTUAT [Aservo],S,,NULL,,2377379,Drug,RxNorm,Branded Drug Comp
-1146321,TRUE,,ciclesonide Metered Dose Nasal Spray [Aservo],S,,NULL,,2377380,Drug,RxNorm,Branded Drug Form
-1146324,TRUE,,ciclesonide 0.343 MG/ACTUAT Metered Dose Nasal Spray [Aservo],S,,NULL,,2377383,Drug,RxNorm,Branded Drug
+1115647,TRUE,delete,beclomethasone 0.00025 MG/MG,S,,NULL,,331154,Drug,RxNorm,Clinical Drug Comp
+1115673,TRUE,delete,beclomethasone 0.25 MG/ML,S,,NULL,,358485,Drug,RxNorm,Clinical Drug Comp
+1115678,TRUE,delete,beclomethasone 0.05 MG/ACTUAT Nasal Spray,S,,NULL,,562655,Drug,RxNorm,Clinical Drug
+1146317,TRUE,delete,ciclesonide 0.343 MG/ACTUAT,S,,NULL,,2377376,Drug,RxNorm,Clinical Drug Comp
+1146318,TRUE,delete,ciclesonide 0.343 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,2377377,Drug,RxNorm,Clinical Drug
+1146320,TRUE,delete,ciclesonide 0.343 MG/ACTUAT [Aservo],S,,NULL,,2377379,Drug,RxNorm,Branded Drug Comp
+1146321,TRUE,delete,ciclesonide Metered Dose Nasal Spray [Aservo],S,,NULL,,2377380,Drug,RxNorm,Branded Drug Form
+1146324,TRUE,delete,ciclesonide 0.343 MG/ACTUAT Metered Dose Nasal Spray [Aservo],S,,NULL,,2377383,Drug,RxNorm,Branded Drug
 1149380,TRUE,,fluticasone,S,,NULL,,41126,Drug,RxNorm,Ingredient
-1592230,TRUE,,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Pattotic],S,,NULL,,1870810,Drug,RxNorm,Branded Drug Comp
-1592698,TRUE,,fluticasone propionate 0.05 MG/ACTUAT [Nasopro 24],S,,NULL,,1872963,Drug,RxNorm,Branded Drug Comp
-1592699,TRUE,,fluticasone Metered Dose Nasal Spray [Nasopro 24],S,,NULL,,1872964,Drug,RxNorm,Branded Drug Form
-1592702,TRUE,,fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasopro 24],S,,NULL,,1872967,Drug,RxNorm,Branded Drug
-1593605,TRUE,,fluticasone propionate 0.0275 MG/ACTUAT,S,,NULL,,1866621,Drug,RxNorm,Clinical Drug Comp
-1593606,TRUE,,fluticasone propionate 0.0275 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1866622,Drug,RxNorm,Clinical Drug
-1593607,TRUE,,fluticasone propionate 0.0275 MG/ACTUAT [Flonase],S,,NULL,,1866623,Drug,RxNorm,Branded Drug Comp
-1593608,TRUE,,fluticasone propionate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase],S,,NULL,,1866624,Drug,RxNorm,Branded Drug
+1592230,TRUE,delete,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Pattotic],S,,NULL,,1870810,Drug,RxNorm,Branded Drug Comp
+1592698,TRUE,delete,fluticasone propionate 0.05 MG/ACTUAT [Nasopro 24],S,,NULL,,1872963,Drug,RxNorm,Branded Drug Comp
+1592699,TRUE,delete,fluticasone Metered Dose Nasal Spray [Nasopro 24],S,,NULL,,1872964,Drug,RxNorm,Branded Drug Form
+1592702,TRUE,delete,fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasopro 24],S,,NULL,,1872967,Drug,RxNorm,Branded Drug
+1593605,TRUE,delete,fluticasone propionate 0.0275 MG/ACTUAT,S,,NULL,,1866621,Drug,RxNorm,Clinical Drug Comp
+1593606,TRUE,delete,fluticasone propionate 0.0275 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1866622,Drug,RxNorm,Clinical Drug
+1593607,TRUE,delete,fluticasone propionate 0.0275 MG/ACTUAT [Flonase],S,,NULL,,1866623,Drug,RxNorm,Branded Drug Comp
+1593608,TRUE,delete,fluticasone propionate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase],S,,NULL,,1866624,Drug,RxNorm,Branded Drug
 902938,TRUE,,ciclesonide,S,,NULL,,274964,Drug,RxNorm,Ingredient
 902939,TRUE,,ciclesonide 0.16 MG/ACTUAT,S,,NULL,,597915,Drug,RxNorm,Clinical Drug Comp
 902941,TRUE,,ciclesonide 0.08 MG/ACTUAT,S,,NULL,,597917,Drug,RxNorm,Clinical Drug Comp
 902963,TRUE,,ciclesonide 0.05 MG/ACTUAT,S,,NULL,,687254,Drug,RxNorm,Clinical Drug Comp
 902971,TRUE,,120 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler,S,,NULL,,825318,Drug,RxNorm,Quant Clinical Drug
 905233,TRUE,,mometasone,S,,NULL,,108118,Drug,RxNorm,Ingredient
-905236,TRUE,,mometasone furoate 1 MG/ML Topical Cream,S,,NULL,,311753,Drug,RxNorm,Clinical Drug
-905238,TRUE,,mometasone furoate 0.001 MG/MG,S,,NULL,,336758,Drug,RxNorm,Clinical Drug Comp
-905240,TRUE,,mometasone furoate 0.05 MG/ACTUAT,S,,NULL,,358793,Drug,RxNorm,Clinical Drug Comp
-905264,TRUE,,mometasone furoate 0.2 MG/ACTUAT,S,,NULL,,617269,Drug,RxNorm,Clinical Drug Comp
+905236,TRUE,delete,mometasone furoate 1 MG/ML Topical Cream,S,,NULL,,311753,Drug,RxNorm,Clinical Drug
+905238,TRUE,delete,mometasone furoate 0.001 MG/MG,S,,NULL,,336758,Drug,RxNorm,Clinical Drug Comp
+905240,TRUE,delete,mometasone furoate 0.05 MG/ACTUAT,S,,NULL,,358793,Drug,RxNorm,Clinical Drug Comp
+905264,TRUE,delete,mometasone furoate 0.2 MG/ACTUAT,S,,NULL,,617269,Drug,RxNorm,Clinical Drug Comp
 905271,TRUE,,14 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex],S,,NULL,,746811,Drug,RxNorm,Quant Branded Drug
 905292,TRUE,,30 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,746812,Drug,RxNorm,Quant Clinical Drug
 905293,TRUE,,30 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex],S,,NULL,,746813,Drug,RxNorm,Quant Branded Drug
 905294,TRUE,,60 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,746814,Drug,RxNorm,Quant Clinical Drug
 905295,TRUE,,60 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex],S,,NULL,,746815,Drug,RxNorm,Quant Branded Drug
-905343,TRUE,,mometasone furoate 1 MG/ML Topical Cream [Elocon],S,,NULL,,92582,Drug,RxNorm,Branded Drug
-905344,TRUE,,mometasone furoate 1 MG/ML Topical Lotion [Elocon],S,,NULL,,92583,Drug,RxNorm,Branded Drug
-905345,TRUE,,mometasone furoate 0.001 MG/MG Topical Ointment [Elocon],S,,NULL,,92584,Drug,RxNorm,Branded Drug
-939259,TRUE,,budesonide,S,,NULL,,19831,Drug,RxNorm,Ingredient
-939294,TRUE,,budesonide 0.02 MG/ML Enema,S,,NULL,,153173,Drug,RxNorm,Clinical Drug
-939300,TRUE,,budesonide 0.032 MG/ACTUAT Nasal Spray,S,,NULL,,247551,Drug,RxNorm,Clinical Drug
-939301,TRUE,,budesonide 0.1 MG/ACTUAT Nasal Spray,S,,NULL,,247691,Drug,RxNorm,Clinical Drug
-939352,TRUE,,budesonide 3 MG Oral Tablet,S,,NULL,,249241,Drug,RxNorm,Clinical Drug
+905343,TRUE,delete,mometasone furoate 1 MG/ML Topical Cream [Elocon],S,,NULL,,92582,Drug,RxNorm,Branded Drug
+905344,TRUE,delete,mometasone furoate 1 MG/ML Topical Lotion [Elocon],S,,NULL,,92583,Drug,RxNorm,Branded Drug
+905345,TRUE,delete,mometasone furoate 0.001 MG/MG Topical Ointment [Elocon],S,,NULL,,92584,Drug,RxNorm,Branded Drug
+939259,TRUE,delete,budesonide,S,,NULL,,19831,Drug,RxNorm,Ingredient
+939294,TRUE,delete,budesonide 0.02 MG/ML Enema,S,,NULL,,153173,Drug,RxNorm,Clinical Drug
+939300,TRUE,delete,budesonide 0.032 MG/ACTUAT Nasal Spray,S,,NULL,,247551,Drug,RxNorm,Clinical Drug
+939301,TRUE,delete,budesonide 0.1 MG/ACTUAT Nasal Spray,S,,NULL,,247691,Drug,RxNorm,Clinical Drug
+939352,TRUE,delete,budesonide 3 MG Oral Tablet,S,,NULL,,249241,Drug,RxNorm,Clinical Drug
 939359,TRUE,,budesonide 0.5 MG/ML Inhalation Suspension,S,,NULL,,252559,Drug,RxNorm,Clinical Drug
-939361,TRUE,,budesonide 0.032 MG/ACTUAT,S,,NULL,,315498,Drug,RxNorm,Clinical Drug Comp
+939361,TRUE,delete,budesonide 0.032 MG/ACTUAT,S,,NULL,,315498,Drug,RxNorm,Clinical Drug Comp
 939393,TRUE,,budesonide 3 MG,S,,NULL,,332685,Drug,RxNorm,Clinical Drug Comp
 939394,TRUE,,budesonide 0.1 MG/ACTUAT,S,,NULL,,332686,Drug,RxNorm,Clinical Drug Comp
 939395,TRUE,,budesonide 0.05 MG/ACTUAT,S,,NULL,,332687,Drug,RxNorm,Clinical Drug Comp
@@ -96,13 +96,13 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 963843,TRUE,,Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar],S,,NULL,,1998772,Drug,RxNorm,Branded Drug
 963844,TRUE,,Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler,S,,NULL,,1998773,Drug,RxNorm,Clinical Drug
 963845,TRUE,,Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar],S,,NULL,,1998774,Drug,RxNorm,Branded Drug
-980899,TRUE,,beclomethasone 0.25 MG/ML / clioquinol 30 MG/ML Topical Cream,S,,NULL,,247435,Drug,RxNorm,Clinical Drug
-980900,TRUE,,beclomethasone 0.00025 MG/MG / clioquinol 0.03 MG/MG Topical Ointment,S,,NULL,,247449,Drug,RxNorm,Clinical Drug
-1355732,TRUE,,mometasone / orbifloxacin / posaconazole Otic Suspension,S,,NULL,,2105735,Drug,RxNorm,Clinical Drug Form
-1355733,TRUE,,mometasone furoate 1 MG/ML / orbifloxacin 10 MG/ML / posaconazole 1 MG/ML Otic Suspension,S,,NULL,,2105737,Drug,RxNorm,Clinical Drug
-1355735,TRUE,,mometasone furoate 1 MG/ML / orbifloxacin 10 MG/ML / posaconazole 1 MG/ML [Posatex],S,,NULL,,2105739,Drug,RxNorm,Branded Drug Comp
-1355736,TRUE,,mometasone / orbifloxacin / posaconazole Otic Suspension [Posatex],S,,NULL,,2105740,Drug,RxNorm,Branded Drug Form
-1355738,TRUE,,mometasone furoate 1 MG/ML / orbifloxacin 10 MG/ML / posaconazole 1 MG/ML Otic Suspension [Posatex],S,,NULL,,2105742,Drug,RxNorm,Branded Drug
+980899,TRUE,delete,beclomethasone 0.25 MG/ML / clioquinol 30 MG/ML Topical Cream,S,,NULL,,247435,Drug,RxNorm,Clinical Drug
+980900,TRUE,delete,beclomethasone 0.00025 MG/MG / clioquinol 0.03 MG/MG Topical Ointment,S,,NULL,,247449,Drug,RxNorm,Clinical Drug
+1355732,TRUE,delete,mometasone / orbifloxacin / posaconazole Otic Suspension,S,,NULL,,2105735,Drug,RxNorm,Clinical Drug Form
+1355733,TRUE,delete,mometasone furoate 1 MG/ML / orbifloxacin 10 MG/ML / posaconazole 1 MG/ML Otic Suspension,S,,NULL,,2105737,Drug,RxNorm,Clinical Drug
+1355735,TRUE,delete,mometasone furoate 1 MG/ML / orbifloxacin 10 MG/ML / posaconazole 1 MG/ML [Posatex],S,,NULL,,2105739,Drug,RxNorm,Branded Drug Comp
+1355736,TRUE,delete,mometasone / orbifloxacin / posaconazole Otic Suspension [Posatex],S,,NULL,,2105740,Drug,RxNorm,Branded Drug Form
+1355738,TRUE,delete,mometasone furoate 1 MG/ML / orbifloxacin 10 MG/ML / posaconazole 1 MG/ML Otic Suspension [Posatex],S,,NULL,,2105742,Drug,RxNorm,Branded Drug
 1356140,TRUE,,budesonide Inhalation Suspension,S,,NULL,,2108295,Drug,RxNorm,Clinical Drug Form
 1356141,TRUE,,budesonide Inhalation Suspension [Pulmicort],S,,NULL,,2108297,Drug,RxNorm,Branded Drug Form
 1356142,TRUE,,budesonide 0.2 MG,S,,NULL,,2108301,Drug,RxNorm,Clinical Drug Comp
@@ -136,40 +136,40 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 1510710,TRUE,,fluticasone furoate 0.05 MG/ACTUAT [Arnuity],S,,NULL,,2047720,Drug,RxNorm,Branded Drug Comp
 1510779,TRUE,,30 ACTUAT fluticasone furoate 0.05 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,2045377,Drug,RxNorm,Quant Clinical Drug
 1510780,TRUE,,30 ACTUAT fluticasone furoate 0.05 MG/ACTUAT Dry Powder Inhaler [Arnuity],S,,NULL,,2045382,Drug,RxNorm,Quant Branded Drug
-1510935,TRUE,,fluticasone propionate 0.5 MG/ML [Beser],S,,NULL,,2121407,Drug,RxNorm,Branded Drug Comp
-1510936,TRUE,,fluticasone Topical Lotion [Beser],S,,NULL,,2121408,Drug,RxNorm,Branded Drug Form
-1510938,TRUE,,fluticasone propionate 0.5 MG/ML Topical Lotion [Beser],S,,NULL,,2121410,Drug,RxNorm,Branded Drug
-1511378,TRUE,,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Maxi-Otic],S,,NULL,,2166109,Drug,RxNorm,Branded Drug Comp
-1511379,TRUE,,clotrimazole / gentamicin / mometasone Otic Suspension [Maxi-Otic],S,,NULL,,2166110,Drug,RxNorm,Branded Drug Form
-1511381,TRUE,,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Maxi-Otic],S,,NULL,,2166112,Drug,RxNorm,Branded Drug
-19002275,TRUE,,beclomethasone dipropionate 0.00025 MG/MG Topical Ointment [Beconase],S,,NULL,,103413,Drug,RxNorm,Branded Drug
-19002276,TRUE,,beclomethasone dipropionate 0.00025 MG/MG Topical Ointment [Propaderm A],S,,NULL,,103414,Drug,RxNorm,Branded Drug
-19002277,TRUE,,beclomethasone dipropionate 0.25 MG/ML Topical Cream [Propaderm C],S,,NULL,,103415,Drug,RxNorm,Branded Drug
-19002278,TRUE,,beclomethasone dipropionate 0.00025 MG/MG Topical Ointment [Propaderm C],S,,NULL,,103416,Drug,RxNorm,Branded Drug
-19002398,TRUE,,budesonide 0.25 MG/ML Topical Cream [Preferid],S,,NULL,,103472,Drug,RxNorm,Branded Drug
-19002399,TRUE,,budesonide 0.00025 MG/MG Topical Ointment [Preferid],S,,NULL,,103473,Drug,RxNorm,Branded Drug
-19009950,TRUE,,beclomethasone dipropionate 0.25 MG/ML Topical Cream [Beconase],S,,NULL,,108092,Drug,RxNorm,Branded Drug
-19011841,TRUE,,budesonide 0.25 MG/ML Topical Cream,S,,NULL,,142074,Drug,RxNorm,Clinical Drug
-19011842,TRUE,,budesonide 0.00025 MG/MG Topical Ointment,S,,NULL,,142075,Drug,RxNorm,Clinical Drug
-19012749,TRUE,,mometasone furoate 0.001 MG/MG Topical Ointment,S,,NULL,,151029,Drug,RxNorm,Clinical Drug
-19012750,TRUE,,mometasone furoate 1 MG/ML Topical Lotion,S,,NULL,,151030,Drug,RxNorm,Clinical Drug
-19016962,TRUE,,budesonide 0.02 MG/ML Enema [Entocort],S,,NULL,,153174,Drug,RxNorm,Branded Drug
-19023533,TRUE,,mometasone furoate 0.05 MG/ACTUAT [Nasonex],S,,NULL,,565252,Drug,RxNorm,Branded Drug Comp
-19026109,TRUE,,budesonide 0.1 MG/ACTUAT Nasal Spray [Rhinocort Aqua],S,,NULL,,202142,Drug,RxNorm,Branded Drug
-19029347,TRUE,,budesonide 0.032 MG/ACTUAT Nasal Spray [Rhinocort],S,,NULL,,205481,Drug,RxNorm,Branded Drug
+1510935,TRUE,delete,fluticasone propionate 0.5 MG/ML [Beser],S,,NULL,,2121407,Drug,RxNorm,Branded Drug Comp
+1510936,TRUE,delete,fluticasone Topical Lotion [Beser],S,,NULL,,2121408,Drug,RxNorm,Branded Drug Form
+1510938,TRUE,delete,fluticasone propionate 0.5 MG/ML Topical Lotion [Beser],S,,NULL,,2121410,Drug,RxNorm,Branded Drug
+1511378,TRUE,delete,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Maxi-Otic],S,,NULL,,2166109,Drug,RxNorm,Branded Drug Comp
+1511379,TRUE,delete,clotrimazole / gentamicin / mometasone Otic Suspension [Maxi-Otic],S,,NULL,,2166110,Drug,RxNorm,Branded Drug Form
+1511381,TRUE,delete,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Maxi-Otic],S,,NULL,,2166112,Drug,RxNorm,Branded Drug
+19002275,TRUE,delete,beclomethasone dipropionate 0.00025 MG/MG Topical Ointment [Beconase],S,,NULL,,103413,Drug,RxNorm,Branded Drug
+19002276,TRUE,delete,beclomethasone dipropionate 0.00025 MG/MG Topical Ointment [Propaderm A],S,,NULL,,103414,Drug,RxNorm,Branded Drug
+19002277,TRUE,delete,beclomethasone dipropionate 0.25 MG/ML Topical Cream [Propaderm C],S,,NULL,,103415,Drug,RxNorm,Branded Drug
+19002278,TRUE,delete,beclomethasone dipropionate 0.00025 MG/MG Topical Ointment [Propaderm C],S,,NULL,,103416,Drug,RxNorm,Branded Drug
+19002398,TRUE,delete,budesonide 0.25 MG/ML Topical Cream [Preferid],S,,NULL,,103472,Drug,RxNorm,Branded Drug
+19002399,TRUE,delete,budesonide 0.00025 MG/MG Topical Ointment [Preferid],S,,NULL,,103473,Drug,RxNorm,Branded Drug
+19009950,TRUE,delete,beclomethasone dipropionate 0.25 MG/ML Topical Cream [Beconase],S,,NULL,,108092,Drug,RxNorm,Branded Drug
+19011841,TRUE,delete,budesonide 0.25 MG/ML Topical Cream,S,,NULL,,142074,Drug,RxNorm,Clinical Drug
+19011842,TRUE,delete,budesonide 0.00025 MG/MG Topical Ointment,S,,NULL,,142075,Drug,RxNorm,Clinical Drug
+19012749,TRUE,delete,mometasone furoate 0.001 MG/MG Topical Ointment,S,,NULL,,151029,Drug,RxNorm,Clinical Drug
+19012750,TRUE,delete,mometasone furoate 1 MG/ML Topical Lotion,S,,NULL,,151030,Drug,RxNorm,Clinical Drug
+19016962,TRUE,delete,budesonide 0.02 MG/ML Enema [Entocort],S,,NULL,,153174,Drug,RxNorm,Branded Drug
+19023533,TRUE,delete,mometasone furoate 0.05 MG/ACTUAT [Nasonex],S,,NULL,,565252,Drug,RxNorm,Branded Drug Comp
+19026109,TRUE,delete,budesonide 0.1 MG/ACTUAT Nasal Spray [Rhinocort Aqua],S,,NULL,,202142,Drug,RxNorm,Branded Drug
+19029347,TRUE,delete,budesonide 0.032 MG/ACTUAT Nasal Spray [Rhinocort],S,,NULL,,205481,Drug,RxNorm,Branded Drug
 19038788,TRUE,,budesonide 0.25 MG/ML [Pulmicort],S,,NULL,,616816,Drug,RxNorm,Branded Drug Comp
 19038789,TRUE,,budesonide 0.5 MG/ML [Pulmicort],S,,NULL,,616818,Drug,RxNorm,Branded Drug Comp
 19038790,TRUE,,budesonide 0.125 MG/ML [Pulmicort],S,,NULL,,616829,Drug,RxNorm,Branded Drug Comp
 19038814,TRUE,,budesonide 0.032 MG/ACTUAT [Rhinocort],S,,NULL,,566387,Drug,RxNorm,Branded Drug Comp
-19054213,TRUE,,beclomethasone 0.05 MG/ACTUAT Nasal Spray [Beclo-aqua 50],S,,NULL,,226440,Drug,RxNorm,Branded Drug
-19060643,TRUE,,budesonide 0.05 MG/ACTUAT Nasal Spray,S,,NULL,,247042,Drug,RxNorm,Clinical Drug
+19054213,TRUE,delete,beclomethasone 0.05 MG/ACTUAT Nasal Spray [Beclo-aqua 50],S,,NULL,,226440,Drug,RxNorm,Branded Drug
+19060643,TRUE,delete,budesonide 0.05 MG/ACTUAT Nasal Spray,S,,NULL,,247042,Drug,RxNorm,Clinical Drug
 19060647,TRUE,,budesonide 0.2 MG Inhalation Powder,S,,NULL,,247047,Drug,RxNorm,Clinical Drug
-19060708,TRUE,,beclomethasone 0.25 MG/ML Topical Lotion,S,,NULL,,247072,Drug,RxNorm,Clinical Drug
-19063315,TRUE,,budesonide 0.064 MG/ACTUAT Nasal Spray,S,,NULL,,250648,Drug,RxNorm,Clinical Drug
-19064076,TRUE,,mometasone furoate 1 MG/ML [Elocon],S,,NULL,,562875,Drug,RxNorm,Branded Drug Comp
-19064077,TRUE,,mometasone furoate 0.001 MG/MG [Elocon],S,,NULL,,562876,Drug,RxNorm,Branded Drug Comp
-19129670,TRUE,,ciclesonide 0.05 MG/ACTUAT [Omnaris],S,,NULL,,790274,Drug,RxNorm,Branded Drug Comp
-19129672,TRUE,,mometasone furoate 0.1 MG/ACTUAT,S,,NULL,,790277,Drug,RxNorm,Clinical Drug Comp
+19060708,TRUE,delete,beclomethasone 0.25 MG/ML Topical Lotion,S,,NULL,,247072,Drug,RxNorm,Clinical Drug
+19063315,TRUE,delete,budesonide 0.064 MG/ACTUAT Nasal Spray,S,,NULL,,250648,Drug,RxNorm,Clinical Drug
+19064076,TRUE,delete,mometasone furoate 1 MG/ML [Elocon],S,,NULL,,562875,Drug,RxNorm,Branded Drug Comp
+19064077,TRUE,delete,mometasone furoate 0.001 MG/MG [Elocon],S,,NULL,,562876,Drug,RxNorm,Branded Drug Comp
+19129670,TRUE,delete,ciclesonide 0.05 MG/ACTUAT [Omnaris],S,,NULL,,790274,Drug,RxNorm,Branded Drug Comp
+19129672,TRUE,delete,mometasone furoate 0.1 MG/ACTUAT,S,,NULL,,790277,Drug,RxNorm,Clinical Drug Comp
 19129673,TRUE,,7 ACTUAT mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,790278,Drug,RxNorm,Quant Clinical Drug
 19129674,TRUE,,mometasone furoate 0.1 MG/ACTUAT [Asmanex],S,,NULL,,790279,Drug,RxNorm,Branded Drug Comp
 19129675,TRUE,,7 ACTUAT mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler [Asmanex],S,,NULL,,790280,Drug,RxNorm,Quant Branded Drug
@@ -190,10 +190,10 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 1593842,TRUE,,60 ACTUAT fluticasone propionate 0.055 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo],S,,NULL,,1918211,Drug,RxNorm,Quant Branded Drug
 1593843,TRUE,,fluticasone propionate 0.055 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,1918212,Drug,RxNorm,Clinical Drug
 1593844,TRUE,,fluticasone propionate 0.055 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo],S,,NULL,,1918213,Drug,RxNorm,Branded Drug
-1594236,TRUE,,fluticasone furoate 0.0275 MG/ACTUAT [Flonase Sensimist],S,,NULL,,1869708,Drug,RxNorm,Branded Drug Comp
-1594237,TRUE,,fluticasone Metered Dose Nasal Spray [Flonase Sensimist],S,,NULL,,1869709,Drug,RxNorm,Branded Drug Form
-1594240,TRUE,,fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist],S,,NULL,,1869712,Drug,RxNorm,Branded Drug
-1594500,TRUE,,clotrimazole / gentamicin / mometasone Otic Suspension [Pattotic],S,,NULL,,1870316,Drug,RxNorm,Branded Drug Form
+1594236,TRUE,delete,fluticasone furoate 0.0275 MG/ACTUAT [Flonase Sensimist],S,,NULL,,1869708,Drug,RxNorm,Branded Drug Comp
+1594237,TRUE,delete,fluticasone Metered Dose Nasal Spray [Flonase Sensimist],S,,NULL,,1869709,Drug,RxNorm,Branded Drug Form
+1594240,TRUE,delete,fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist],S,,NULL,,1869712,Drug,RxNorm,Branded Drug
+1594500,TRUE,delete,clotrimazole / gentamicin / mometasone Otic Suspension [Pattotic],S,,NULL,,1870316,Drug,RxNorm,Branded Drug Form
 19086456,TRUE,,mometasone furoate 0.2 MG/ACTUAT [Asmanex],S,,NULL,,616813,Drug,RxNorm,Branded Drug Comp
 19086688,TRUE,,beclomethasone 0.05 MG/ACTUAT,S,,NULL,,330936,Drug,RxNorm,Clinical Drug Comp
 19096595,TRUE,,budesonide 0.125 MG/ML Inhalation Suspension,S,,NULL,,349094,Drug,RxNorm,Clinical Drug
@@ -202,19 +202,19 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 19099139,TRUE,,mometasone furoate 1 MG/ML,S,,NULL,,358650,Drug,RxNorm,Clinical Drug Comp
 19100694,TRUE,,budesonide 0.02 MG/ML,S,,NULL,,381063,Drug,RxNorm,Clinical Drug Comp
 19100695,TRUE,,budesonide 0.00025 MG/MG,S,,NULL,,381064,Drug,RxNorm,Clinical Drug Comp
-19101781,TRUE,,fluticasone 0.4 MG/ACTUAT Nasal Suspension,S,,NULL,,389246,Drug,RxNorm,Clinical Drug
-19102054,TRUE,,fluticasone 0.4 MG/ACTUAT,S,,NULL,,393445,Drug,RxNorm,Clinical Drug Comp
-19104997,TRUE,,mometasone 0.001 MG/MG / salicylic acid 0.05 MG/MG Topical Ointment,S,,NULL,,417615,Drug,RxNorm,Clinical Drug
-19105957,TRUE,,budesonide 0.25 MG/ML Topical Lotion,S,,NULL,,423906,Drug,RxNorm,Clinical Drug
-19110911,TRUE,,mometasone 0.001 MG/MG,S,,NULL,,446535,Drug,RxNorm,Clinical Drug Comp
-19112695,TRUE,,mometasone 0.5 MG/ML,S,,NULL,,484331,Drug,RxNorm,Clinical Drug Comp
-19112696,TRUE,,mometasone 0.5 MG/ML Nasal Spray,S,,NULL,,484333,Drug,RxNorm,Clinical Drug
-19112697,TRUE,,mometasone furoate 0.05 MG/ML,S,,NULL,,484334,Drug,RxNorm,Clinical Drug Comp
-19112698,TRUE,,mometasone furoate 0.05 MG/ML Nasal Spray,S,,NULL,,484335,Drug,RxNorm,Clinical Drug
-19115612,TRUE,,budesonide 0.25 MG/ML [Preferid],S,,NULL,,563329,Drug,RxNorm,Branded Drug Comp
-19115613,TRUE,,budesonide 0.00025 MG/MG [Preferid],S,,NULL,,563330,Drug,RxNorm,Branded Drug Comp
-19117040,TRUE,,budesonide 0.02 MG/ML [Entocort],S,,NULL,,565193,Drug,RxNorm,Branded Drug Comp
-19117741,TRUE,,budesonide 0.1 MG/ACTUAT [Rhinocort Aqua],S,,NULL,,566113,Drug,RxNorm,Branded Drug Comp
+19101781,TRUE,delete,fluticasone 0.4 MG/ACTUAT Nasal Suspension,S,,NULL,,389246,Drug,RxNorm,Clinical Drug
+19102054,TRUE,delete,fluticasone 0.4 MG/ACTUAT,S,,NULL,,393445,Drug,RxNorm,Clinical Drug Comp
+19104997,TRUE,delete,mometasone 0.001 MG/MG / salicylic acid 0.05 MG/MG Topical Ointment,S,,NULL,,417615,Drug,RxNorm,Clinical Drug
+19105957,TRUE,delete,budesonide 0.25 MG/ML Topical Lotion,S,,NULL,,423906,Drug,RxNorm,Clinical Drug
+19110911,TRUE,delete,mometasone 0.001 MG/MG,S,,NULL,,446535,Drug,RxNorm,Clinical Drug Comp
+19112695,TRUE,delete,mometasone 0.5 MG/ML,S,,NULL,,484331,Drug,RxNorm,Clinical Drug Comp
+19112696,TRUE,delete,mometasone 0.5 MG/ML Nasal Spray,S,,NULL,,484333,Drug,RxNorm,Clinical Drug
+19112697,TRUE,delete,mometasone furoate 0.05 MG/ML,S,,NULL,,484334,Drug,RxNorm,Clinical Drug Comp
+19112698,TRUE,delete,mometasone furoate 0.05 MG/ML Nasal Spray,S,,NULL,,484335,Drug,RxNorm,Clinical Drug
+19115612,TRUE,delete,budesonide 0.25 MG/ML [Preferid],S,,NULL,,563329,Drug,RxNorm,Branded Drug Comp
+19115613,TRUE,delete,budesonide 0.00025 MG/MG [Preferid],S,,NULL,,563330,Drug,RxNorm,Branded Drug Comp
+19117040,TRUE,delete,budesonide 0.02 MG/ML [Entocort],S,,NULL,,565193,Drug,RxNorm,Branded Drug Comp
+19117741,TRUE,delete,budesonide 0.1 MG/ACTUAT [Rhinocort Aqua],S,,NULL,,566113,Drug,RxNorm,Branded Drug Comp
 19120488,TRUE,,beclomethasone 0.05 MG/ACTUAT [Beclo-aqua 50],S,,NULL,,573991,Drug,RxNorm,Branded Drug Comp
 19123496,TRUE,,budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort],S,,NULL,,616830,Drug,RxNorm,Branded Drug
 19127762,TRUE,,120 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,746803,Drug,RxNorm,Quant Clinical Drug
@@ -227,60 +227,60 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 35603779,TRUE,,mometasone furoate 0.11 MG/ACTUAT,S,,NULL,,1745551,Drug,RxNorm,Clinical Drug Comp
 35603780,TRUE,,mometasone furoate 0.11 MG/ACTUAT [Asmanex],S,,NULL,,1745553,Drug,RxNorm,Branded Drug Comp
 35605356,TRUE,,mometasone furoate 2 MG/ML,S,,NULL,,1721548,Drug,RxNorm,Clinical Drug Comp
-35605358,TRUE,,florfenicol / mometasone / terbinafine Otic Solution,S,,NULL,,1721551,Drug,RxNorm,Clinical Drug Form
-35605359,TRUE,,florfenicol 15 MG/ML / mometasone furoate 2 MG/ML / terbinafine 13.3 MG/ML Otic Solution,S,,NULL,,1721553,Drug,RxNorm,Clinical Drug
-35605361,TRUE,,florfenicol 15 MG/ML / mometasone furoate 2 MG/ML / terbinafine 13.3 MG/ML [Claro],S,,NULL,,1721555,Drug,RxNorm,Branded Drug Comp
-35605362,TRUE,,florfenicol / mometasone / terbinafine Otic Solution [Claro],S,,NULL,,1721556,Drug,RxNorm,Branded Drug Form
-35605520,TRUE,,florfenicol 15 MG/ML / mometasone furoate 2 MG/ML / terbinafine 13.3 MG/ML Otic Solution [Claro],S,,NULL,,1721558,Drug,RxNorm,Branded Drug
-35606162,TRUE,,fluticasone propionate 0.05 MG/ACTUAT [Clarispray],S,,NULL,,1742499,Drug,RxNorm,Branded Drug Comp
-35606481,TRUE,,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Pattotic],S,,NULL,,1734665,Drug,RxNorm,Branded Drug
-36249727,TRUE,,fluticasone propionate 0.05 MG/ACTUAT [Nasoflow],S,,NULL,,1795587,Drug,RxNorm,Branded Drug Comp
-36249768,TRUE,,fluticasone propionate 0.05 MG/ACTUAT [Aller-Flo],S,,NULL,,1795959,Drug,RxNorm,Branded Drug Comp
-36250069,TRUE,,ciclesonide Metered Dose Nasal Spray,S,,NULL,,1797837,Drug,RxNorm,Clinical Drug Form
-36250070,TRUE,,ciclesonide 0.037 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797838,Drug,RxNorm,Clinical Drug
-36250071,TRUE,,ciclesonide Metered Dose Nasal Spray [Zetonna],S,,NULL,,1797839,Drug,RxNorm,Branded Drug Form
-36250072,TRUE,,ciclesonide 0.037 MG/ACTUAT Metered Dose Nasal Spray [Zetonna],S,,NULL,,1797840,Drug,RxNorm,Branded Drug
-36250073,TRUE,,ciclesonide 0.05 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797841,Drug,RxNorm,Clinical Drug
-36250074,TRUE,,ciclesonide Metered Dose Nasal Spray [Omnaris],S,,NULL,,1797842,Drug,RxNorm,Branded Drug Form
-36250075,TRUE,,ciclesonide 0.05 MG/ACTUAT Metered Dose Nasal Spray [Omnaris],S,,NULL,,1797843,Drug,RxNorm,Branded Drug
-36250078,TRUE,,azelastine / fluticasone Metered Dose Nasal Spray,S,,NULL,,1797846,Drug,RxNorm,Clinical Drug Form
-36250079,TRUE,,azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797847,Drug,RxNorm,Clinical Drug
-36250080,TRUE,,azelastine / fluticasone Metered Dose Nasal Spray [Dymista],S,,NULL,,1797848,Drug,RxNorm,Branded Drug Form
-36250081,TRUE,,azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista],S,,NULL,,1797849,Drug,RxNorm,Branded Drug
-36250096,TRUE,,mometasone Metered Dose Nasal Spray,S,,NULL,,1797864,Drug,RxNorm,Clinical Drug Form
-36250097,TRUE,,mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797865,Drug,RxNorm,Clinical Drug
-36250100,TRUE,,mometasone Metered Dose Nasal Spray [Nasonex],S,,NULL,,1797868,Drug,RxNorm,Branded Drug Form
-36250102,TRUE,,mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex],S,,NULL,,1797870,Drug,RxNorm,Branded Drug
-36250121,TRUE,,fluticasone Metered Dose Nasal Spray,S,,NULL,,1797889,Drug,RxNorm,Clinical Drug Form
-36250122,TRUE,,fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797890,Drug,RxNorm,Clinical Drug
-36250123,TRUE,,fluticasone Metered Dose Nasal Spray [Veramyst],S,,NULL,,1797891,Drug,RxNorm,Branded Drug Form
-36250124,TRUE,,fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Veramyst],S,,NULL,,1797892,Drug,RxNorm,Branded Drug
-36250133,TRUE,,beclomethasone Metered Dose Nasal Spray,S,,NULL,,1797899,Drug,RxNorm,Clinical Drug Form
-36250134,TRUE,,beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797900,Drug,RxNorm,Clinical Drug
-36250135,TRUE,,beclomethasone Metered Dose Nasal Spray [Qnasl],S,,NULL,,1797901,Drug,RxNorm,Branded Drug Form
-36250136,TRUE,,beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Nasal Spray [Qnasl],S,,NULL,,1797902,Drug,RxNorm,Branded Drug
-36250141,TRUE,,fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797907,Drug,RxNorm,Clinical Drug
-36250142,TRUE,,fluticasone Metered Dose Nasal Spray [Aller-Flo],S,,NULL,,1797908,Drug,RxNorm,Branded Drug Form
-36250143,TRUE,,fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Aller-Flo],S,,NULL,,1797909,Drug,RxNorm,Branded Drug
-36250144,TRUE,,beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797910,Drug,RxNorm,Clinical Drug
-36250145,TRUE,,beclomethasone Metered Dose Nasal Spray [Vancenase],S,,NULL,,1797911,Drug,RxNorm,Branded Drug Form
-36250146,TRUE,,beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Nasal Spray [Vancenase],S,,NULL,,1797912,Drug,RxNorm,Branded Drug
-36250150,TRUE,,beclomethasone Metered Dose Nasal Spray [Beconase],S,,NULL,,1797916,Drug,RxNorm,Branded Drug Form
-36250151,TRUE,,beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Nasal Spray [Beconase],S,,NULL,,1797917,Drug,RxNorm,Branded Drug
-36250152,TRUE,,fluticasone Metered Dose Nasal Spray [Clarispray],S,,NULL,,1797918,Drug,RxNorm,Branded Drug Form
-36250153,TRUE,,fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Clarispray],S,,NULL,,1797919,Drug,RxNorm,Branded Drug
-36250154,TRUE,,beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797920,Drug,RxNorm,Clinical Drug
-36250155,TRUE,,beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl],S,,NULL,,1797921,Drug,RxNorm,Branded Drug
-36250160,TRUE,,beclomethasone dipropionate 0.084 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797926,Drug,RxNorm,Clinical Drug
-36250161,TRUE,,beclomethasone dipropionate 0.084 MG/ACTUAT Metered Dose Nasal Spray [Vancenase],S,,NULL,,1797927,Drug,RxNorm,Branded Drug
-36250162,TRUE,,budesonide Metered Dose Nasal Spray,S,,NULL,,1797928,Drug,RxNorm,Clinical Drug Form
-36250163,TRUE,,budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797929,Drug,RxNorm,Clinical Drug
-36250164,TRUE,,budesonide Metered Dose Nasal Spray [Rhinocort],S,,NULL,,1797930,Drug,RxNorm,Branded Drug Form
-36250165,TRUE,,budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray [Rhinocort],S,,NULL,,1797931,Drug,RxNorm,Branded Drug
-36250166,TRUE,,fluticasone Metered Dose Nasal Spray [Flonase],S,,NULL,,1797932,Drug,RxNorm,Branded Drug Form
-36250167,TRUE,,fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase],S,,NULL,,1797933,Drug,RxNorm,Branded Drug
-36250168,TRUE,,fluticasone Metered Dose Nasal Spray [Nasoflow],S,,NULL,,1797934,Drug,RxNorm,Branded Drug Form
-36250169,TRUE,,fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasoflow],S,,NULL,,1797935,Drug,RxNorm,Branded Drug
+35605358,TRUE,delete,florfenicol / mometasone / terbinafine Otic Solution,S,,NULL,,1721551,Drug,RxNorm,Clinical Drug Form
+35605359,TRUE,delete,florfenicol 15 MG/ML / mometasone furoate 2 MG/ML / terbinafine 13.3 MG/ML Otic Solution,S,,NULL,,1721553,Drug,RxNorm,Clinical Drug
+35605361,TRUE,delete,florfenicol 15 MG/ML / mometasone furoate 2 MG/ML / terbinafine 13.3 MG/ML [Claro],S,,NULL,,1721555,Drug,RxNorm,Branded Drug Comp
+35605362,TRUE,delete,florfenicol / mometasone / terbinafine Otic Solution [Claro],S,,NULL,,1721556,Drug,RxNorm,Branded Drug Form
+35605520,TRUE,delete,florfenicol 15 MG/ML / mometasone furoate 2 MG/ML / terbinafine 13.3 MG/ML Otic Solution [Claro],S,,NULL,,1721558,Drug,RxNorm,Branded Drug
+35606162,TRUE,delete,fluticasone propionate 0.05 MG/ACTUAT [Clarispray],S,,NULL,,1742499,Drug,RxNorm,Branded Drug Comp
+35606481,TRUE,delete,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Pattotic],S,,NULL,,1734665,Drug,RxNorm,Branded Drug
+36249727,TRUE,delete,fluticasone propionate 0.05 MG/ACTUAT [Nasoflow],S,,NULL,,1795587,Drug,RxNorm,Branded Drug Comp
+36249768,TRUE,delete,fluticasone propionate 0.05 MG/ACTUAT [Aller-Flo],S,,NULL,,1795959,Drug,RxNorm,Branded Drug Comp
+36250069,TRUE,delete,ciclesonide Metered Dose Nasal Spray,S,,NULL,,1797837,Drug,RxNorm,Clinical Drug Form
+36250070,TRUE,delete,ciclesonide 0.037 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797838,Drug,RxNorm,Clinical Drug
+36250071,TRUE,delete,ciclesonide Metered Dose Nasal Spray [Zetonna],S,,NULL,,1797839,Drug,RxNorm,Branded Drug Form
+36250072,TRUE,delete,ciclesonide 0.037 MG/ACTUAT Metered Dose Nasal Spray [Zetonna],S,,NULL,,1797840,Drug,RxNorm,Branded Drug
+36250073,TRUE,delete,ciclesonide 0.05 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797841,Drug,RxNorm,Clinical Drug
+36250074,TRUE,delete,ciclesonide Metered Dose Nasal Spray [Omnaris],S,,NULL,,1797842,Drug,RxNorm,Branded Drug Form
+36250075,TRUE,delete,ciclesonide 0.05 MG/ACTUAT Metered Dose Nasal Spray [Omnaris],S,,NULL,,1797843,Drug,RxNorm,Branded Drug
+36250078,TRUE,delete,azelastine / fluticasone Metered Dose Nasal Spray,S,,NULL,,1797846,Drug,RxNorm,Clinical Drug Form
+36250079,TRUE,delete,azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797847,Drug,RxNorm,Clinical Drug
+36250080,TRUE,delete,azelastine / fluticasone Metered Dose Nasal Spray [Dymista],S,,NULL,,1797848,Drug,RxNorm,Branded Drug Form
+36250081,TRUE,delete,azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista],S,,NULL,,1797849,Drug,RxNorm,Branded Drug
+36250096,TRUE,delete,mometasone Metered Dose Nasal Spray,S,,NULL,,1797864,Drug,RxNorm,Clinical Drug Form
+36250097,TRUE,delete,mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797865,Drug,RxNorm,Clinical Drug
+36250100,TRUE,delete,mometasone Metered Dose Nasal Spray [Nasonex],S,,NULL,,1797868,Drug,RxNorm,Branded Drug Form
+36250102,TRUE,delete,mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex],S,,NULL,,1797870,Drug,RxNorm,Branded Drug
+36250121,TRUE,delete,fluticasone Metered Dose Nasal Spray,S,,NULL,,1797889,Drug,RxNorm,Clinical Drug Form
+36250122,TRUE,delete,fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797890,Drug,RxNorm,Clinical Drug
+36250123,TRUE,delete,fluticasone Metered Dose Nasal Spray [Veramyst],S,,NULL,,1797891,Drug,RxNorm,Branded Drug Form
+36250124,TRUE,delete,fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Veramyst],S,,NULL,,1797892,Drug,RxNorm,Branded Drug
+36250133,TRUE,delete,beclomethasone Metered Dose Nasal Spray,S,,NULL,,1797899,Drug,RxNorm,Clinical Drug Form
+36250134,TRUE,delete,beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797900,Drug,RxNorm,Clinical Drug
+36250135,TRUE,delete,beclomethasone Metered Dose Nasal Spray [Qnasl],S,,NULL,,1797901,Drug,RxNorm,Branded Drug Form
+36250136,TRUE,delete,beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Nasal Spray [Qnasl],S,,NULL,,1797902,Drug,RxNorm,Branded Drug
+36250141,TRUE,delete,fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797907,Drug,RxNorm,Clinical Drug
+36250142,TRUE,delete,fluticasone Metered Dose Nasal Spray [Aller-Flo],S,,NULL,,1797908,Drug,RxNorm,Branded Drug Form
+36250143,TRUE,delete,fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Aller-Flo],S,,NULL,,1797909,Drug,RxNorm,Branded Drug
+36250144,TRUE,delete,beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797910,Drug,RxNorm,Clinical Drug
+36250145,TRUE,delete,beclomethasone Metered Dose Nasal Spray [Vancenase],S,,NULL,,1797911,Drug,RxNorm,Branded Drug Form
+36250146,TRUE,delete,beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Nasal Spray [Vancenase],S,,NULL,,1797912,Drug,RxNorm,Branded Drug
+36250150,TRUE,delete,beclomethasone Metered Dose Nasal Spray [Beconase],S,,NULL,,1797916,Drug,RxNorm,Branded Drug Form
+36250151,TRUE,delete,beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Nasal Spray [Beconase],S,,NULL,,1797917,Drug,RxNorm,Branded Drug
+36250152,TRUE,delete,fluticasone Metered Dose Nasal Spray [Clarispray],S,,NULL,,1797918,Drug,RxNorm,Branded Drug Form
+36250153,TRUE,delete,fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Clarispray],S,,NULL,,1797919,Drug,RxNorm,Branded Drug
+36250154,TRUE,delete,beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797920,Drug,RxNorm,Clinical Drug
+36250155,TRUE,delete,beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl],S,,NULL,,1797921,Drug,RxNorm,Branded Drug
+36250160,TRUE,delete,beclomethasone dipropionate 0.084 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797926,Drug,RxNorm,Clinical Drug
+36250161,TRUE,delete,beclomethasone dipropionate 0.084 MG/ACTUAT Metered Dose Nasal Spray [Vancenase],S,,NULL,,1797927,Drug,RxNorm,Branded Drug
+36250162,TRUE,delete,budesonide Metered Dose Nasal Spray,S,,NULL,,1797928,Drug,RxNorm,Clinical Drug Form
+36250163,TRUE,delete,budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray,S,,NULL,,1797929,Drug,RxNorm,Clinical Drug
+36250164,TRUE,delete,budesonide Metered Dose Nasal Spray [Rhinocort],S,,NULL,,1797930,Drug,RxNorm,Branded Drug Form
+36250165,TRUE,delete,budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray [Rhinocort],S,,NULL,,1797931,Drug,RxNorm,Branded Drug
+36250166,TRUE,delete,fluticasone Metered Dose Nasal Spray [Flonase],S,,NULL,,1797932,Drug,RxNorm,Branded Drug Form
+36250167,TRUE,delete,fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase],S,,NULL,,1797933,Drug,RxNorm,Branded Drug
+36250168,TRUE,delete,fluticasone Metered Dose Nasal Spray [Nasoflow],S,,NULL,,1797934,Drug,RxNorm,Branded Drug Form
+36250169,TRUE,delete,fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasoflow],S,,NULL,,1797935,Drug,RxNorm,Branded Drug
 37002305,TRUE,,budesonide / formoterol / glycopyrronium Metered Dose Inhaler,S,,NULL,,2386036,Drug,RxNorm,Clinical Drug Form
 37002374,TRUE,,budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT Metered Dose Inhaler,S,,NULL,,2387321,Drug,RxNorm,Clinical Drug
 37002375,TRUE,,budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT Metered Dose Inhaler [Breztri],S,,NULL,,2387322,Drug,RxNorm,Branded Drug
@@ -294,39 +294,39 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 19130453,TRUE,,60 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler,S,,NULL,,799038,Drug,RxNorm,Quant Clinical Drug
 19130454,TRUE,,ciclesonide 0.08 MG/ACTUAT [Alvesco],S,,NULL,,799039,Drug,RxNorm,Branded Drug Comp
 19130455,TRUE,,60 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco],S,,NULL,,799040,Drug,RxNorm,Quant Branded Drug
-19132265,TRUE,,mometasone furoate 0.01 MG/MG,S,,NULL,,807205,Drug,RxNorm,Clinical Drug Comp
-19132266,TRUE,,mometasone furoate 0.01 MG/MG Topical Ointment,S,,NULL,,807206,Drug,RxNorm,Clinical Drug
+19132265,TRUE,delete,mometasone furoate 0.01 MG/MG,S,,NULL,,807205,Drug,RxNorm,Clinical Drug Comp
+19132266,TRUE,delete,mometasone furoate 0.01 MG/MG Topical Ointment,S,,NULL,,807206,Drug,RxNorm,Clinical Drug
 19133104,TRUE,,120 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco],S,,NULL,,825320,Drug,RxNorm,Quant Branded Drug
-40010331,TRUE,,beclomethasone Nasal Spray [Beclo-aqua 50],S,,NULL,,381204,Drug,RxNorm,Branded Drug Form
-40010335,TRUE,,beclomethasone / clioquinol Topical Cream,S,,NULL,,379390,Drug,RxNorm,Clinical Drug Form
-40010336,TRUE,,beclomethasone / clioquinol Topical Ointment,S,,NULL,,376445,Drug,RxNorm,Clinical Drug Form
-40010699,TRUE,,beclomethasone Nasal Spray,S,,NULL,,370992,Drug,RxNorm,Clinical Drug Form
-40010706,TRUE,,beclomethasone Topical Cream,S,,NULL,,379378,Drug,RxNorm,Clinical Drug Form
-40010707,TRUE,,beclomethasone Topical Cream [Propaderm C],S,,NULL,,385350,Drug,RxNorm,Branded Drug Form
-40010708,TRUE,,beclomethasone Topical Cream [Beconase],S,,NULL,,381201,Drug,RxNorm,Branded Drug Form
-40010709,TRUE,,beclomethasone Topical Lotion,S,,NULL,,379388,Drug,RxNorm,Clinical Drug Form
-40010710,TRUE,,beclomethasone Topical Ointment,S,,NULL,,376446,Drug,RxNorm,Clinical Drug Form
-40010711,TRUE,,beclomethasone Topical Ointment [Propaderm A],S,,NULL,,385348,Drug,RxNorm,Branded Drug Form
-40010712,TRUE,,beclomethasone Topical Ointment [Propaderm C],S,,NULL,,385351,Drug,RxNorm,Branded Drug Form
-40010713,TRUE,,beclomethasone Topical Ointment [Beconase],S,,NULL,,384470,Drug,RxNorm,Branded Drug Form
-40020303,TRUE,,budesonide Enema,S,,NULL,,381066,Drug,RxNorm,Clinical Drug Form
-40020304,TRUE,,budesonide Enema [Entocort],S,,NULL,,352629,Drug,RxNorm,Branded Drug Form
-40020313,TRUE,,budesonide Nasal Spray,S,,NULL,,371152,Drug,RxNorm,Clinical Drug Form
-40020314,TRUE,,budesonide Nasal Spray [Rhinocort Aqua],S,,NULL,,361957,Drug,RxNorm,Branded Drug Form
-40020315,TRUE,,budesonide Nasal Spray [Rhinocort],S,,NULL,,381058,Drug,RxNorm,Branded Drug Form
-40020317,TRUE,,budesonide Oral Tablet,S,,NULL,,376186,Drug,RxNorm,Clinical Drug Form
-40020318,TRUE,,budesonide Topical Cream,S,,NULL,,379380,Drug,RxNorm,Clinical Drug Form
-40020319,TRUE,,budesonide Topical Cream [Preferid],S,,NULL,,106787,Drug,RxNorm,Branded Drug Form
-40020320,TRUE,,budesonide Topical Lotion,S,,NULL,,438078,Drug,RxNorm,Clinical Drug Form
-40020321,TRUE,,budesonide Topical Ointment,S,,NULL,,381065,Drug,RxNorm,Clinical Drug Form
-40020322,TRUE,,budesonide Topical Ointment [Preferid],S,,NULL,,106788,Drug,RxNorm,Branded Drug Form
-40164074,TRUE,,beclomethasone dipropionate 1 MG,S,,NULL,,858134,Drug,RxNorm,Clinical Drug Comp
-40164075,TRUE,,beclomethasone dipropionate 1 MG Delayed Release Oral Tablet,S,,NULL,,858136,Drug,RxNorm,Clinical Drug
-40164076,TRUE,,beclomethasone dipropionate 1 MG Oral Tablet,S,,NULL,,858138,Drug,RxNorm,Clinical Drug
-40164077,TRUE,,beclomethasone Delayed Release Oral Tablet,S,,NULL,,858135,Drug,RxNorm,Clinical Drug Form
-40164080,TRUE,,beclomethasone Oral Tablet,S,,NULL,,858137,Drug,RxNorm,Clinical Drug Form
-40166046,TRUE,,{200 (beclomethasone dipropionate 1 MG Delayed Release Oral Tablet) / 200 (beclomethasone dipropionate 1 MG Oral Tablet) } Pack,S,,NULL,,858139,Drug,RxNorm,Clinical Pack
-40166047,TRUE,,{200 (beclomethasone dipropionate 1 MG Delayed Release Oral Tablet) / 200 (beclomethasone dipropionate 1 MG Oral Tablet) } Pack [orBec],S,,NULL,,858140,Drug,RxNorm,Branded Pack
+40010331,TRUE,delete,beclomethasone Nasal Spray [Beclo-aqua 50],S,,NULL,,381204,Drug,RxNorm,Branded Drug Form
+40010335,TRUE,delete,beclomethasone / clioquinol Topical Cream,S,,NULL,,379390,Drug,RxNorm,Clinical Drug Form
+40010336,TRUE,delete,beclomethasone / clioquinol Topical Ointment,S,,NULL,,376445,Drug,RxNorm,Clinical Drug Form
+40010699,TRUE,delete,beclomethasone Nasal Spray,S,,NULL,,370992,Drug,RxNorm,Clinical Drug Form
+40010706,TRUE,delete,beclomethasone Topical Cream,S,,NULL,,379378,Drug,RxNorm,Clinical Drug Form
+40010707,TRUE,delete,beclomethasone Topical Cream [Propaderm C],S,,NULL,,385350,Drug,RxNorm,Branded Drug Form
+40010708,TRUE,delete,beclomethasone Topical Cream [Beconase],S,,NULL,,381201,Drug,RxNorm,Branded Drug Form
+40010709,TRUE,delete,beclomethasone Topical Lotion,S,,NULL,,379388,Drug,RxNorm,Clinical Drug Form
+40010710,TRUE,delete,beclomethasone Topical Ointment,S,,NULL,,376446,Drug,RxNorm,Clinical Drug Form
+40010711,TRUE,delete,beclomethasone Topical Ointment [Propaderm A],S,,NULL,,385348,Drug,RxNorm,Branded Drug Form
+40010712,TRUE,delete,beclomethasone Topical Ointment [Propaderm C],S,,NULL,,385351,Drug,RxNorm,Branded Drug Form
+40010713,TRUE,delete,beclomethasone Topical Ointment [Beconase],S,,NULL,,384470,Drug,RxNorm,Branded Drug Form
+40020303,TRUE,delete,budesonide Enema,S,,NULL,,381066,Drug,RxNorm,Clinical Drug Form
+40020304,TRUE,delete,budesonide Enema [Entocort],S,,NULL,,352629,Drug,RxNorm,Branded Drug Form
+40020313,TRUE,delete,budesonide Nasal Spray,S,,NULL,,371152,Drug,RxNorm,Clinical Drug Form
+40020314,TRUE,delete,budesonide Nasal Spray [Rhinocort Aqua],S,,NULL,,361957,Drug,RxNorm,Branded Drug Form
+40020315,TRUE,delete,budesonide Nasal Spray [Rhinocort],S,,NULL,,381058,Drug,RxNorm,Branded Drug Form
+40020317,TRUE,delete,budesonide Oral Tablet,S,,NULL,,376186,Drug,RxNorm,Clinical Drug Form
+40020318,TRUE,delete,budesonide Topical Cream,S,,NULL,,379380,Drug,RxNorm,Clinical Drug Form
+40020319,TRUE,delete,budesonide Topical Cream [Preferid],S,,NULL,,106787,Drug,RxNorm,Branded Drug Form
+40020320,TRUE,delete,budesonide Topical Lotion,S,,NULL,,438078,Drug,RxNorm,Clinical Drug Form
+40020321,TRUE,delete,budesonide Topical Ointment,S,,NULL,,381065,Drug,RxNorm,Clinical Drug Form
+40020322,TRUE,delete,budesonide Topical Ointment [Preferid],S,,NULL,,106788,Drug,RxNorm,Branded Drug Form
+40164074,TRUE,delete,beclomethasone dipropionate 1 MG,S,,NULL,,858134,Drug,RxNorm,Clinical Drug Comp
+40164075,TRUE,delete,beclomethasone dipropionate 1 MG Delayed Release Oral Tablet,S,,NULL,,858136,Drug,RxNorm,Clinical Drug
+40164076,TRUE,delete,beclomethasone dipropionate 1 MG Oral Tablet,S,,NULL,,858138,Drug,RxNorm,Clinical Drug
+40164077,TRUE,delete,beclomethasone Delayed Release Oral Tablet,S,,NULL,,858135,Drug,RxNorm,Clinical Drug Form
+40164080,TRUE,delete,beclomethasone Oral Tablet,S,,NULL,,858137,Drug,RxNorm,Clinical Drug Form
+40166046,TRUE,delete,{200 (beclomethasone dipropionate 1 MG Delayed Release Oral Tablet) / 200 (beclomethasone dipropionate 1 MG Oral Tablet) } Pack,S,,NULL,,858139,Drug,RxNorm,Clinical Pack
+40166047,TRUE,delete,{200 (beclomethasone dipropionate 1 MG Delayed Release Oral Tablet) / 200 (beclomethasone dipropionate 1 MG Oral Tablet) } Pack [orBec],S,,NULL,,858140,Drug,RxNorm,Branded Pack
 40169200,TRUE,,28 ACTUAT fluticasone propionate 0.05 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,896028,Drug,RxNorm,Quant Clinical Drug
 40169201,TRUE,,28 ACTUAT fluticasone propionate 0.05 MG/ACTUAT Dry Powder Inhaler [Flovent],S,,NULL,,896029,Drug,RxNorm,Quant Branded Drug
 40169202,TRUE,,28 ACTUAT fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,896174,Drug,RxNorm,Quant Clinical Drug
@@ -379,16 +379,16 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 40169284,TRUE,,60 ACTUAT fluticasone propionate 0.25 MG/ACTUAT Dry Powder Inhaler [Flovent],S,,NULL,,896027,Drug,RxNorm,Quant Branded Drug
 40169285,TRUE,,60 ACTUAT fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,896228,Drug,RxNorm,Quant Clinical Drug
 40169286,TRUE,,60 ACTUAT fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Advair],S,,NULL,,896229,Drug,RxNorm,Quant Branded Drug
-40169854,TRUE,,mometasone Topical Cream [Momexin],S,,NULL,,891164,Drug,RxNorm,Branded Drug Form
+40169854,TRUE,delete,mometasone Topical Cream [Momexin],S,,NULL,,891164,Drug,RxNorm,Branded Drug Form
 40170634,TRUE,,fluticasone / salmeterol Dry Powder Inhaler [Advair],S,,NULL,,896189,Drug,RxNorm,Branded Drug Form
 40170637,TRUE,,fluticasone / salmeterol Metered Dose Inhaler [Advair],S,,NULL,,896270,Drug,RxNorm,Branded Drug Form
 40170654,TRUE,,fluticasone furoate 0.0275 MG/ACTUAT,S,,NULL,,895967,Drug,RxNorm,Clinical Drug Comp
 40170655,TRUE,,fluticasone furoate 0.0275 MG/ACTUAT [Veramyst],S,,NULL,,895969,Drug,RxNorm,Branded Drug Comp
 40170920,TRUE,,mometasone furoate 1 MG/ML [Momexin],S,,NULL,,891163,Drug,RxNorm,Branded Drug Comp
-40171015,TRUE,,fluticasone propionate 0.00005 MG/MG,S,,NULL,,895486,Drug,RxNorm,Clinical Drug Comp
-40171016,TRUE,,fluticasone propionate 0.00005 MG/MG Topical Ointment,S,,NULL,,895487,Drug,RxNorm,Clinical Drug
-40171017,TRUE,,fluticasone propionate 0.00005 MG/MG Topical Ointment [Cutivate],S,,NULL,,895697,Drug,RxNorm,Branded Drug
-40171018,TRUE,,fluticasone propionate 0.00005 MG/MG [Cutivate],S,,NULL,,895696,Drug,RxNorm,Branded Drug Comp
+40171015,TRUE,delete,fluticasone propionate 0.00005 MG/MG,S,,NULL,,895486,Drug,RxNorm,Clinical Drug Comp
+40171016,TRUE,delete,fluticasone propionate 0.00005 MG/MG Topical Ointment,S,,NULL,,895487,Drug,RxNorm,Clinical Drug
+40171017,TRUE,delete,fluticasone propionate 0.00005 MG/MG Topical Ointment [Cutivate],S,,NULL,,895697,Drug,RxNorm,Branded Drug
+40171018,TRUE,delete,fluticasone propionate 0.00005 MG/MG [Cutivate],S,,NULL,,895696,Drug,RxNorm,Branded Drug Comp
 40171019,TRUE,,fluticasone propionate 0.044 MG/ACTUAT,S,,NULL,,895993,Drug,RxNorm,Clinical Drug Comp
 40171020,TRUE,,fluticasone propionate 0.044 MG/ACTUAT [Flovent],S,,NULL,,895995,Drug,RxNorm,Branded Drug Comp
 40171021,TRUE,,fluticasone propionate 0.045 MG/ACTUAT,S,,NULL,,896230,Drug,RxNorm,Clinical Drug Comp
@@ -419,34 +419,34 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 37003604,TRUE,,30 ACTUAT fluticasone furoate 0.2 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,2395774,Drug,RxNorm,Quant Clinical Drug
 37003605,TRUE,,30 ACTUAT fluticasone furoate 0.2 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Trelegy],S,,NULL,,2395775,Drug,RxNorm,Quant Branded Drug
 37496919,TRUE,,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [LoZatom],S,,NULL,,2201555,Drug,RxNorm,Branded Drug Comp
-37496920,TRUE,,clotrimazole / gentamicin / mometasone Otic Suspension [LoZatom],S,,NULL,,2201556,Drug,RxNorm,Branded Drug Form
-37496922,TRUE,,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [LoZatom],S,,NULL,,2201558,Drug,RxNorm,Branded Drug
-37498341,TRUE,,budesonide 6 MG,S,,NULL,,2269303,Drug,RxNorm,Clinical Drug Comp
-37498342,TRUE,,budesonide Extended Release Oral Capsule,S,,NULL,,2269304,Drug,RxNorm,Clinical Drug Form
-37498343,TRUE,,budesonide 6 MG Extended Release Oral Capsule,S,,NULL,,2269306,Drug,RxNorm,Clinical Drug
-37498344,TRUE,,budesonide 9 MG Extended Release Oral Capsule,S,,NULL,,2269308,Drug,RxNorm,Clinical Drug
-37498548,TRUE,,budesonide 6 MG [Ortikos],S,,NULL,,2273103,Drug,RxNorm,Branded Drug Comp
-37498549,TRUE,,budesonide Extended Release Oral Capsule [Ortikos],S,,NULL,,2273104,Drug,RxNorm,Branded Drug Form
-37498552,TRUE,,budesonide 6 MG Extended Release Oral Capsule [Ortikos],S,,NULL,,2273108,Drug,RxNorm,Branded Drug
-37498553,TRUE,,budesonide 9 MG [Ortikos],S,,NULL,,2273109,Drug,RxNorm,Branded Drug Comp
-37498554,TRUE,,budesonide 9 MG Extended Release Oral Capsule [Ortikos],S,,NULL,,2273111,Drug,RxNorm,Branded Drug
-37499789,TRUE,,24 HR budesonide 6 MG Extended Release Oral Capsule,S,,NULL,,2269305,Drug,RxNorm,Quant Clinical Drug
-37499790,TRUE,,24 HR budesonide 9 MG Extended Release Oral Capsule,S,,NULL,,2269307,Drug,RxNorm,Quant Clinical Drug
-37499791,TRUE,,24 HR budesonide 6 MG Extended Release Oral Capsule [Ortikos],S,,NULL,,2273107,Drug,RxNorm,Quant Branded Drug
-37499792,TRUE,,24 HR budesonide 9 MG Extended Release Oral Capsule [Ortikos],S,,NULL,,2273110,Drug,RxNorm,Quant Branded Drug
-40058407,TRUE,,fluticasone Nasal Suspension,S,,NULL,,393446,Drug,RxNorm,Clinical Drug Form
-40058408,TRUE,,fluticasone Topical Cream,S,,NULL,,378620,Drug,RxNorm,Clinical Drug Form
-40058409,TRUE,,fluticasone Topical Cream [Cutivate],S,,NULL,,362259,Drug,RxNorm,Branded Drug Form
-40058410,TRUE,,fluticasone Topical Ointment,S,,NULL,,372254,Drug,RxNorm,Clinical Drug Form
-40058411,TRUE,,fluticasone Topical Ointment [Cutivate],S,,NULL,,367327,Drug,RxNorm,Branded Drug Form
-40066267,TRUE,,mometasone / salicylic acid Topical Ointment,S,,NULL,,446536,Drug,RxNorm,Clinical Drug Form
-40066277,TRUE,,mometasone Nasal Spray,S,,NULL,,484332,Drug,RxNorm,Clinical Drug Form
-40126135,TRUE,,fluticasone Topical Lotion,S,,NULL,,577392,Drug,RxNorm,Clinical Drug Form
-40126136,TRUE,,fluticasone Topical Lotion [Cutivate],S,,NULL,,584217,Drug,RxNorm,Branded Drug Form
-40132039,TRUE,,mometasone Topical Cream,S,,NULL,,619083,Drug,RxNorm,Clinical Drug Form
-40171023,TRUE,,fluticasone propionate 0.05 MG/ACTUAT,S,,NULL,,896014,Drug,RxNorm,Clinical Drug Comp
-40171024,TRUE,,fluticasone propionate 0.05 MG/ACTUAT [Flonase],S,,NULL,,896322,Drug,RxNorm,Branded Drug Comp
-40171025,TRUE,,fluticasone propionate 0.05 MG/ACTUAT [Flovent],S,,NULL,,896016,Drug,RxNorm,Branded Drug Comp
+37496920,TRUE,delete,clotrimazole / gentamicin / mometasone Otic Suspension [LoZatom],S,,NULL,,2201556,Drug,RxNorm,Branded Drug Form
+37496922,TRUE,delete,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [LoZatom],S,,NULL,,2201558,Drug,RxNorm,Branded Drug
+37498341,TRUE,delete,budesonide 6 MG,S,,NULL,,2269303,Drug,RxNorm,Clinical Drug Comp
+37498342,TRUE,delete,budesonide Extended Release Oral Capsule,S,,NULL,,2269304,Drug,RxNorm,Clinical Drug Form
+37498343,TRUE,delete,budesonide 6 MG Extended Release Oral Capsule,S,,NULL,,2269306,Drug,RxNorm,Clinical Drug
+37498344,TRUE,delete,budesonide 9 MG Extended Release Oral Capsule,S,,NULL,,2269308,Drug,RxNorm,Clinical Drug
+37498548,TRUE,delete,budesonide 6 MG [Ortikos],S,,NULL,,2273103,Drug,RxNorm,Branded Drug Comp
+37498549,TRUE,delete,budesonide Extended Release Oral Capsule [Ortikos],S,,NULL,,2273104,Drug,RxNorm,Branded Drug Form
+37498552,TRUE,delete,budesonide 6 MG Extended Release Oral Capsule [Ortikos],S,,NULL,,2273108,Drug,RxNorm,Branded Drug
+37498553,TRUE,delete,budesonide 9 MG [Ortikos],S,,NULL,,2273109,Drug,RxNorm,Branded Drug Comp
+37498554,TRUE,delete,budesonide 9 MG Extended Release Oral Capsule [Ortikos],S,,NULL,,2273111,Drug,RxNorm,Branded Drug
+37499789,TRUE,delete,24 HR budesonide 6 MG Extended Release Oral Capsule,S,,NULL,,2269305,Drug,RxNorm,Quant Clinical Drug
+37499790,TRUE,delete,24 HR budesonide 9 MG Extended Release Oral Capsule,S,,NULL,,2269307,Drug,RxNorm,Quant Clinical Drug
+37499791,TRUE,delete,24 HR budesonide 6 MG Extended Release Oral Capsule [Ortikos],S,,NULL,,2273107,Drug,RxNorm,Quant Branded Drug
+37499792,TRUE,delete,24 HR budesonide 9 MG Extended Release Oral Capsule [Ortikos],S,,NULL,,2273110,Drug,RxNorm,Quant Branded Drug
+40058407,TRUE,delete,fluticasone Nasal Suspension,S,,NULL,,393446,Drug,RxNorm,Clinical Drug Form
+40058408,TRUE,delete,fluticasone Topical Cream,S,,NULL,,378620,Drug,RxNorm,Clinical Drug Form
+40058409,TRUE,delete,fluticasone Topical Cream [Cutivate],S,,NULL,,362259,Drug,RxNorm,Branded Drug Form
+40058410,TRUE,delete,fluticasone Topical Ointment,S,,NULL,,372254,Drug,RxNorm,Clinical Drug Form
+40058411,TRUE,delete,fluticasone Topical Ointment [Cutivate],S,,NULL,,367327,Drug,RxNorm,Branded Drug Form
+40066267,TRUE,delete,mometasone / salicylic acid Topical Ointment,S,,NULL,,446536,Drug,RxNorm,Clinical Drug Form
+40066277,TRUE,delete,mometasone Nasal Spray,S,,NULL,,484332,Drug,RxNorm,Clinical Drug Form
+40126135,TRUE,delete,fluticasone Topical Lotion,S,,NULL,,577392,Drug,RxNorm,Clinical Drug Form
+40126136,TRUE,delete,fluticasone Topical Lotion [Cutivate],S,,NULL,,584217,Drug,RxNorm,Branded Drug Form
+40132039,TRUE,delete,mometasone Topical Cream,S,,NULL,,619083,Drug,RxNorm,Clinical Drug Form
+40171023,TRUE,delete,fluticasone propionate 0.05 MG/ACTUAT,S,,NULL,,896014,Drug,RxNorm,Clinical Drug Comp
+40171024,TRUE,delete,fluticasone propionate 0.05 MG/ACTUAT [Flonase],S,,NULL,,896322,Drug,RxNorm,Branded Drug Comp
+40171025,TRUE,delete,fluticasone propionate 0.05 MG/ACTUAT [Flovent],S,,NULL,,896016,Drug,RxNorm,Branded Drug Comp
 40171026,TRUE,,fluticasone propionate 0.1 MG/ACTUAT,S,,NULL,,896020,Drug,RxNorm,Clinical Drug Comp
 40171027,TRUE,,fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT [Advair],S,,NULL,,896163,Drug,RxNorm,Branded Drug Comp
 40171028,TRUE,,fluticasone propionate 0.1 MG/ACTUAT [Flovent],S,,NULL,,896022,Drug,RxNorm,Branded Drug Comp
@@ -464,11 +464,11 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 40171042,TRUE,,fluticasone propionate 0.5 MG/ACTUAT,S,,NULL,,896217,Drug,RxNorm,Clinical Drug Comp
 40171043,TRUE,,fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT [Advair],S,,NULL,,896220,Drug,RxNorm,Branded Drug Comp
 40171044,TRUE,,fluticasone propionate 0.5 MG/ML,S,,NULL,,895986,Drug,RxNorm,Clinical Drug Comp
-40171045,TRUE,,fluticasone propionate 0.5 MG/ML Topical Cream,S,,NULL,,895987,Drug,RxNorm,Clinical Drug
-40171046,TRUE,,fluticasone propionate 0.5 MG/ML Topical Cream [Cutivate],S,,NULL,,895989,Drug,RxNorm,Branded Drug
-40171047,TRUE,,fluticasone propionate 0.5 MG/ML Topical Lotion,S,,NULL,,895990,Drug,RxNorm,Clinical Drug
-40171048,TRUE,,fluticasone propionate 0.5 MG/ML Topical Lotion [Cutivate],S,,NULL,,895991,Drug,RxNorm,Branded Drug
-40171049,TRUE,,fluticasone propionate 0.5 MG/ML [Cutivate],S,,NULL,,895988,Drug,RxNorm,Branded Drug Comp
+40171045,TRUE,delete,fluticasone propionate 0.5 MG/ML Topical Cream,S,,NULL,,895987,Drug,RxNorm,Clinical Drug
+40171046,TRUE,delete,fluticasone propionate 0.5 MG/ML Topical Cream [Cutivate],S,,NULL,,895989,Drug,RxNorm,Branded Drug
+40171047,TRUE,delete,fluticasone propionate 0.5 MG/ML Topical Lotion,S,,NULL,,895990,Drug,RxNorm,Clinical Drug
+40171048,TRUE,delete,fluticasone propionate 0.5 MG/ML Topical Lotion [Cutivate],S,,NULL,,895991,Drug,RxNorm,Branded Drug
+40171049,TRUE,delete,fluticasone propionate 0.5 MG/ML [Cutivate],S,,NULL,,895988,Drug,RxNorm,Branded Drug Comp
 40171348,TRUE,,{1 (113400 MG) (ammonium lactate 120 MG/ML Topical Foam [Pro 12]) / 1 (45000 MG) (mometasone furoate 1 MG/ML Topical Cream [Momexin]) } Pack [Momexin Kit],S,,NULL,,891170,Drug,RxNorm,Branded Pack
 40171349,TRUE,,{1 (113400 MG) (ammonium lactate 120 MG/ML Topical Foam) / 1 (45000 MG) (mometasone furoate 1 MG/ML Topical Cream) } Pack,S,,NULL,,891162,Drug,RxNorm,Clinical Pack
 40173396,TRUE,,120 ACTUAT beclomethasone dipropionate 0.084 MG/ACTUAT Metered Dose Inhaler,S,,NULL,,966675,Drug,RxNorm,Quant Clinical Drug
@@ -501,8 +501,8 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 40173737,TRUE,,beclomethasone dipropionate 0.084 MG/ACTUAT,S,,NULL,,966563,Drug,RxNorm,Clinical Drug Comp
 40173738,TRUE,,beclomethasone dipropionate 0.084 MG/ACTUAT [Vancenase],S,,NULL,,966600,Drug,RxNorm,Branded Drug Comp
 40173739,TRUE,,beclomethasone dipropionate 0.084 MG/ACTUAT [Vanceril],S,,NULL,,966565,Drug,RxNorm,Branded Drug Comp
-40173740,TRUE,,beclomethasone dipropionate 0.25 MG/ML,S,,NULL,,966764,Drug,RxNorm,Clinical Drug Comp
-40173741,TRUE,,beclomethasone dipropionate 0.25 MG/ML Topical Cream,S,,NULL,,966765,Drug,RxNorm,Clinical Drug
+40173740,TRUE,delete,beclomethasone dipropionate 0.25 MG/ML,S,,NULL,,966764,Drug,RxNorm,Clinical Drug Comp
+40173741,TRUE,delete,beclomethasone dipropionate 0.25 MG/ML Topical Cream,S,,NULL,,966765,Drug,RxNorm,Clinical Drug
 40173742,TRUE,,beclomethasone Metered Dose Inhaler [Vanceril],S,,NULL,,966561,Drug,RxNorm,Branded Drug Form
 40178622,TRUE,,budesonide 3 MG [Entocort],S,,NULL,,991399,Drug,RxNorm,Branded Drug Comp
 40223712,TRUE,,formoterol / mometasone Metered Dose Inhaler,S,,NULL,,998040,Drug,RxNorm,Clinical Drug Form
@@ -514,12 +514,12 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 40227682,TRUE,,beclomethasone dipropionate 0.25 MG/ML [Propaderm C],S,,NULL,,1036891,Drug,RxNorm,Branded Drug Comp
 40242513,TRUE,,28 ACTUAT fluticasone propionate 0.25 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,1148645,Drug,RxNorm,Quant Clinical Drug
 40242514,TRUE,,28 ACTUAT fluticasone propionate 0.25 MG/ACTUAT Dry Powder Inhaler [Flovent],S,,NULL,,1148646,Drug,RxNorm,Quant Branded Drug
-40242701,TRUE,,mometasone furoate 0.37 MG,S,,NULL,,1148517,Drug,RxNorm,Clinical Drug Comp
-40242702,TRUE,,mometasone furoate 0.37 MG Drug Implant,S,,NULL,,1148519,Drug,RxNorm,Clinical Drug
-40242703,TRUE,,mometasone furoate 0.37 MG Drug Implant [Propel],S,,NULL,,1148523,Drug,RxNorm,Branded Drug
-40242704,TRUE,,mometasone furoate 0.37 MG [Propel],S,,NULL,,1148521,Drug,RxNorm,Branded Drug Comp
-40242786,TRUE,,mometasone Drug Implant,S,,NULL,,1148518,Drug,RxNorm,Clinical Drug Form
-40242787,TRUE,,mometasone Drug Implant [Propel],S,,NULL,,1148522,Drug,RxNorm,Branded Drug Form
+40242701,TRUE,delete,mometasone furoate 0.37 MG,S,,NULL,,1148517,Drug,RxNorm,Clinical Drug Comp
+40242702,TRUE,delete,mometasone furoate 0.37 MG Drug Implant,S,,NULL,,1148519,Drug,RxNorm,Clinical Drug
+40242703,TRUE,delete,mometasone furoate 0.37 MG Drug Implant [Propel],S,,NULL,,1148523,Drug,RxNorm,Branded Drug
+40242704,TRUE,delete,mometasone furoate 0.37 MG [Propel],S,,NULL,,1148521,Drug,RxNorm,Branded Drug Comp
+40242786,TRUE,delete,mometasone Drug Implant,S,,NULL,,1148518,Drug,RxNorm,Clinical Drug Form
+40242787,TRUE,delete,mometasone Drug Implant [Propel],S,,NULL,,1148522,Drug,RxNorm,Branded Drug Form
 42799274,TRUE,,azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT [Dymista],S,,NULL,,1291862,Drug,RxNorm,Branded Drug Comp
 42902318,TRUE,,mometasone furoate 1 MG/ML Topical Cream [Momexin],S,,NULL,,1359431,Drug,RxNorm,Branded Drug
 42902350,TRUE,,mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler [Asmanex],S,,NULL,,1359463,Drug,RxNorm,Branded Drug
@@ -555,11 +555,11 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 42902911,TRUE,,beclomethasone dipropionate 0.084 MG/ACTUAT Metered Dose Inhaler,S,,NULL,,1360024,Drug,RxNorm,Clinical Drug
 42902933,TRUE,,fluticasone propionate 0.25 MG/ACTUAT Dry Powder Inhaler [Flovent],S,,NULL,,1360046,Drug,RxNorm,Branded Drug
 42902934,TRUE,,fluticasone propionate 0.25 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,1360047,Drug,RxNorm,Clinical Drug
-40132040,TRUE,,mometasone Topical Cream [Elocon],S,,NULL,,619243,Drug,RxNorm,Branded Drug Form
-40132041,TRUE,,mometasone Topical Lotion,S,,NULL,,619119,Drug,RxNorm,Clinical Drug Form
-40132042,TRUE,,mometasone Topical Lotion [Elocon],S,,NULL,,619244,Drug,RxNorm,Branded Drug Form
-40132043,TRUE,,mometasone Topical Ointment,S,,NULL,,619042,Drug,RxNorm,Clinical Drug Form
-40132044,TRUE,,mometasone Topical Ointment [Elocon],S,,NULL,,619245,Drug,RxNorm,Branded Drug Form
+40132040,TRUE,delete,mometasone Topical Cream [Elocon],S,,NULL,,619243,Drug,RxNorm,Branded Drug Form
+40132041,TRUE,delete,mometasone Topical Lotion,S,,NULL,,619119,Drug,RxNorm,Clinical Drug Form
+40132042,TRUE,delete,mometasone Topical Lotion [Elocon],S,,NULL,,619244,Drug,RxNorm,Branded Drug Form
+40132043,TRUE,delete,mometasone Topical Ointment,S,,NULL,,619042,Drug,RxNorm,Clinical Drug Form
+40132044,TRUE,delete,mometasone Topical Ointment [Elocon],S,,NULL,,619245,Drug,RxNorm,Branded Drug Form
 40142784,TRUE,,beclomethasone Metered Dose Inhaler,S,,NULL,,746190,Drug,RxNorm,Clinical Drug Form
 40142785,TRUE,,beclomethasone Metered Dose Inhaler [Beclovent],S,,NULL,,746192,Drug,RxNorm,Branded Drug Form
 40142910,TRUE,,budesonide / formoterol Metered Dose Inhaler,S,,NULL,,745797,Drug,RxNorm,Clinical Drug Form
@@ -584,8 +584,8 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 42706350,TRUE,,formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT [Dulera],S,,NULL,,1246309,Drug,RxNorm,Branded Drug Comp
 42706351,TRUE,,formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT [Dulera],S,,NULL,,1246312,Drug,RxNorm,Branded Drug Comp
 42706708,TRUE,,beclomethasone dipropionate 0.08 MG/ACTUAT [Qnasl],S,,NULL,,1248842,Drug,RxNorm,Branded Drug Comp
-42708201,TRUE,,budesonide 3 MG Delayed Release Oral Capsule,S,,NULL,,1244214,Drug,RxNorm,Clinical Drug
-42708202,TRUE,,budesonide 3 MG Delayed Release Oral Capsule [Entocort],S,,NULL,,1244215,Drug,RxNorm,Branded Drug
+42708201,TRUE,delete,budesonide 3 MG Delayed Release Oral Capsule,S,,NULL,,1244214,Drug,RxNorm,Clinical Drug
+42708202,TRUE,delete,budesonide 3 MG Delayed Release Oral Capsule [Entocort],S,,NULL,,1244215,Drug,RxNorm,Branded Drug
 42708504,TRUE,,120 ACTUAT budesonide 0.08 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler,S,,NULL,,1246288,Drug,RxNorm,Quant Clinical Drug
 42708505,TRUE,,120 ACTUAT budesonide 0.08 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler [Symbicort],S,,NULL,,1246290,Drug,RxNorm,Quant Branded Drug
 42708508,TRUE,,120 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler,S,,NULL,,1246304,Drug,RxNorm,Quant Clinical Drug
@@ -630,21 +630,21 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 42903365,TRUE,,fluticasone propionate 0.05 MG/ACTUAT Dry Powder Inhaler [Flovent],S,,NULL,,1360478,Drug,RxNorm,Branded Drug
 42903368,TRUE,,ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco],S,,NULL,,1360481,Drug,RxNorm,Branded Drug
 42903396,TRUE,,budesonide 0.08 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler [Symbicort],S,,NULL,,1360509,Drug,RxNorm,Branded Drug
-43012434,TRUE,,24 HR budesonide 9 MG Extended Release Oral Tablet,S,,NULL,,1366550,Drug,RxNorm,Quant Clinical Drug
-43012435,TRUE,,24 HR budesonide 9 MG Extended Release Oral Tablet [Uceris],S,,NULL,,1366556,Drug,RxNorm,Quant Branded Drug
-43012543,TRUE,,budesonide 9 MG,S,,NULL,,1366548,Drug,RxNorm,Clinical Drug Comp
-43012544,TRUE,,budesonide 9 MG Extended Release Oral Tablet,S,,NULL,,1366557,Drug,RxNorm,Clinical Drug
-43012545,TRUE,,budesonide 9 MG Extended Release Oral Tablet [Uceris],S,,NULL,,1366558,Drug,RxNorm,Branded Drug
-43012546,TRUE,,budesonide 9 MG [Uceris],S,,NULL,,1366552,Drug,RxNorm,Branded Drug Comp
-43012547,TRUE,,budesonide Extended Release Oral Tablet,S,,NULL,,1366549,Drug,RxNorm,Clinical Drug Form
-43012548,TRUE,,budesonide Extended Release Oral Tablet [Uceris],S,,NULL,,1366553,Drug,RxNorm,Branded Drug Form
+43012434,TRUE,delete,24 HR budesonide 9 MG Extended Release Oral Tablet,S,,NULL,,1366550,Drug,RxNorm,Quant Clinical Drug
+43012435,TRUE,delete,24 HR budesonide 9 MG Extended Release Oral Tablet [Uceris],S,,NULL,,1366556,Drug,RxNorm,Quant Branded Drug
+43012543,TRUE,delete,budesonide 9 MG,S,,NULL,,1366548,Drug,RxNorm,Clinical Drug Comp
+43012544,TRUE,delete,budesonide 9 MG Extended Release Oral Tablet,S,,NULL,,1366557,Drug,RxNorm,Clinical Drug
+43012545,TRUE,delete,budesonide 9 MG Extended Release Oral Tablet [Uceris],S,,NULL,,1366558,Drug,RxNorm,Branded Drug
+43012546,TRUE,delete,budesonide 9 MG [Uceris],S,,NULL,,1366552,Drug,RxNorm,Branded Drug Comp
+43012547,TRUE,delete,budesonide Extended Release Oral Tablet,S,,NULL,,1366549,Drug,RxNorm,Clinical Drug Form
+43012548,TRUE,delete,budesonide Extended Release Oral Tablet [Uceris],S,,NULL,,1366553,Drug,RxNorm,Branded Drug Form
 43531861,TRUE,,14 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,1424899,Drug,RxNorm,Quant Clinical Drug
 43531871,TRUE,,30 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,1424889,Drug,RxNorm,Quant Clinical Drug
 43532281,TRUE,,fluticasone / vilanterol Dry Powder Inhaler,S,,NULL,,1424887,Drug,RxNorm,Clinical Drug Form
 43532283,TRUE,,fluticasone furoate 0.1 MG/ACTUAT,S,,NULL,,1424882,Drug,RxNorm,Clinical Drug Comp
 43532284,TRUE,,fluticasone furoate 0.1 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,1424895,Drug,RxNorm,Clinical Drug
-44814216,TRUE,,budesonide Delayed Release Oral Capsule,S,,NULL,,1489770,Drug,RxNorm,Clinical Drug Form
-44814217,TRUE,,budesonide Delayed Release Oral Capsule [Entocort],S,,NULL,,1489772,Drug,RxNorm,Branded Drug Form
+44814216,TRUE,delete,budesonide Delayed Release Oral Capsule,S,,NULL,,1489770,Drug,RxNorm,Clinical Drug Form
+44814217,TRUE,delete,budesonide Delayed Release Oral Capsule [Entocort],S,,NULL,,1489772,Drug,RxNorm,Branded Drug Form
 44814258,TRUE,,50 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler,S,,NULL,,1490658,Drug,RxNorm,Quant Clinical Drug
 44814259,TRUE,,50 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar],S,,NULL,,1490659,Drug,RxNorm,Quant Branded Drug
 44814264,TRUE,,120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler,S,,NULL,,1490773,Drug,RxNorm,Quant Clinical Drug
@@ -663,11 +663,11 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 44818267,TRUE,,mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler,S,,NULL,,1536149,Drug,RxNorm,Clinical Drug
 44818268,TRUE,,mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Asmanex],S,,NULL,,1536150,Drug,RxNorm,Branded Drug
 46221667,TRUE,,mometasone 1 MG/ML,S,,NULL,,1606017,Drug,RxNorm,Clinical Drug Comp
-46221668,TRUE,,clotrimazole / gentamicin / mometasone Otic Suspension,S,,NULL,,1606019,Drug,RxNorm,Clinical Drug Form
-46221669,TRUE,,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension,S,,NULL,,1606021,Drug,RxNorm,Clinical Drug
-46221671,TRUE,,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Motazol],S,,NULL,,1606023,Drug,RxNorm,Branded Drug Comp
-46221672,TRUE,,clotrimazole / gentamicin / mometasone Otic Suspension [Motazol],S,,NULL,,1606024,Drug,RxNorm,Branded Drug Form
-46221673,TRUE,,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Motazol],S,,NULL,,1606026,Drug,RxNorm,Branded Drug
+46221668,TRUE,delete,clotrimazole / gentamicin / mometasone Otic Suspension,S,,NULL,,1606019,Drug,RxNorm,Clinical Drug Form
+46221669,TRUE,delete,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension,S,,NULL,,1606021,Drug,RxNorm,Clinical Drug
+46221671,TRUE,delete,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Motazol],S,,NULL,,1606023,Drug,RxNorm,Branded Drug Comp
+46221672,TRUE,delete,clotrimazole / gentamicin / mometasone Otic Suspension [Motazol],S,,NULL,,1606024,Drug,RxNorm,Branded Drug Form
+46221673,TRUE,delete,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Motazol],S,,NULL,,1606026,Drug,RxNorm,Branded Drug
 46276021,TRUE,,60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler,S,,NULL,,1660933,Drug,RxNorm,Quant Clinical Drug
 46276022,TRUE,,60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Dulera],S,,NULL,,1660934,Drug,RxNorm,Quant Branded Drug
 46276023,TRUE,,60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler,S,,NULL,,1660937,Drug,RxNorm,Quant Clinical Drug
@@ -684,14 +684,14 @@ concept_id,desired,comments,concept_name,standard_concept,standard_concept_capti
 45776299,TRUE,,fluticasone furoate 0.2 MG/ACTUAT Dry Powder Inhaler [Arnuity],S,,NULL,,1547670,Drug,RxNorm,Branded Drug
 45776300,TRUE,,30 ACTUAT fluticasone furoate 0.2 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,1547671,Drug,RxNorm,Quant Clinical Drug
 45776301,TRUE,,30 ACTUAT fluticasone furoate 0.2 MG/ACTUAT Dry Powder Inhaler [Arnuity],S,,NULL,,1547672,Drug,RxNorm,Quant Branded Drug
-45892455,TRUE,,budesonide 2 MG/ACTUAT,S,,NULL,,1596771,Drug,RxNorm,Clinical Drug Comp
-45892456,TRUE,,budesonide Rectal Foam,S,,NULL,,1596772,Drug,RxNorm,Clinical Drug Form
-45892457,TRUE,,budesonide 2 MG/ACTUAT Rectal Foam,S,,NULL,,1596773,Drug,RxNorm,Clinical Drug
-45892458,TRUE,,budesonide 2 MG/ACTUAT [Uceris],S,,NULL,,1596774,Drug,RxNorm,Branded Drug Comp
-45892459,TRUE,,budesonide Rectal Foam [Uceris],S,,NULL,,1596775,Drug,RxNorm,Branded Drug Form
-45892460,TRUE,,budesonide 2 MG/ACTUAT Rectal Foam [Uceris],S,,NULL,,1596777,Drug,RxNorm,Branded Drug
-45892461,TRUE,,14 ACTUAT budesonide 2 MG/ACTUAT Rectal Foam [Uceris],S,,NULL,,1596778,Drug,RxNorm,Quant Branded Drug
-45892462,TRUE,,14 ACTUAT budesonide 2 MG/ACTUAT Rectal Foam,S,,NULL,,1596779,Drug,RxNorm,Quant Clinical Drug
+45892455,TRUE,delete,budesonide 2 MG/ACTUAT,S,,NULL,,1596771,Drug,RxNorm,Clinical Drug Comp
+45892456,TRUE,delete,budesonide Rectal Foam,S,,NULL,,1596772,Drug,RxNorm,Clinical Drug Form
+45892457,TRUE,delete,budesonide 2 MG/ACTUAT Rectal Foam,S,,NULL,,1596773,Drug,RxNorm,Clinical Drug
+45892458,TRUE,delete,budesonide 2 MG/ACTUAT [Uceris],S,,NULL,,1596774,Drug,RxNorm,Branded Drug Comp
+45892459,TRUE,delete,budesonide Rectal Foam [Uceris],S,,NULL,,1596775,Drug,RxNorm,Branded Drug Form
+45892460,TRUE,delete,budesonide 2 MG/ACTUAT Rectal Foam [Uceris],S,,NULL,,1596777,Drug,RxNorm,Branded Drug
+45892461,TRUE,delete,14 ACTUAT budesonide 2 MG/ACTUAT Rectal Foam [Uceris],S,,NULL,,1596778,Drug,RxNorm,Quant Branded Drug
+45892462,TRUE,delete,14 ACTUAT budesonide 2 MG/ACTUAT Rectal Foam,S,,NULL,,1596779,Drug,RxNorm,Quant Clinical Drug
 45892718,TRUE,,beclomethasone dipropionate 0.04 MG/ACTUAT [Qnasl],S,,NULL,,1598636,Drug,RxNorm,Branded Drug Comp
 46234368,TRUE,,14 ACTUAT fluticasone furoate 0.2 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,1648783,Drug,RxNorm,Quant Clinical Drug
 46234369,TRUE,,fluticasone furoate 0.2 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT [Breo],S,,NULL,,1648784,Drug,RxNorm,Branded Drug Comp

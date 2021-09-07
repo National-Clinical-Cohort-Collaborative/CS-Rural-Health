@@ -126,12 +126,6 @@ ds_slim <-
 
 # ds_slim
 
-# ---- save-to-disk ------------------------------------------------------------
-# If there's no PHI, a rectangular CSV is usually adequate, and it's portable to other machines and software.
-# readr::write_csv(ds_slim, path_out_unified)
-# readr::write_rds(ds_slim, path_out_unified, compress="gz") # Save as a compressed R-binary file if it's large or has a lot of factors.
-
-
 # ---- save-to-db --------------------------------------------------------------
 # If there's no PHI, a local database like SQLite fits a nice niche if
 #   * the data is relational and
@@ -174,28 +168,15 @@ purrr::walk(sql_create, ~DBI::dbExecute(cnn, .))
 
 DBI::dbListTables(cnn)
 
-# is_date <- function(x) {
-#   inherits(x, "Date")
-#   # inherits(x, c("Date", "POSIXt"))
-# }
-
-# is_date(ds$invalid_reason)
 # Write to database
 ds_slim |>
   # dplyr::slice(1:100) |>
-  # dplyr::mutate_if(is_date, as.character)
   {\(.x)
     dplyr::mutate_if(.x, ~inherits(.x, "Date"), as.character)
   }() |>
-  # dplyr::mutate(
-  #   valid_start_date   = as.character(valid_start_date    ),
-  #   valid_end_date     = as.character(valid_end_date    ),
-  # ) |>
   {\(.d)
     DBI::dbWriteTable(cnn, name = 'concept', value = .d, append = TRUE, row.names = FALSE)
   }()
-
-# DBI::dbWriteTable(cnn, name='subject',            value=ds_subject,        append=TRUE, row.names=FALSE)
 
 # Close connection
 DBI::dbDisconnect(cnn)
