@@ -1,4 +1,4 @@
-concept_id,desired,comments,concept_name,standard_concept,standard_concept_caption,invalid_reason,invalid_reason_caption,concept_code,domain_id,vocabulary_id,concept_class_id
+concept_id,keep_entry_in_codeset,comments,concept_name,standard_concept,standard_concept_caption,invalid_reason,invalid_reason_caption,concept_code,domain_id,vocabulary_id,concept_class_id
 792484,TRUE,,fluticasone / umeclidinium / vilanterol Dry Powder Inhaler,S,,NULL,,1945037,Drug,RxNorm,Clinical Drug Form
 792485,TRUE,,14 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler,S,,NULL,,1945039,Drug,RxNorm,Quant Clinical Drug
 792487,TRUE,,fluticasone furoate 0.1 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT [Trelegy],S,,NULL,,1945041,Drug,RxNorm,Branded Drug Comp
