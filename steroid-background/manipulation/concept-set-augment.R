@@ -26,6 +26,7 @@ config    <- config::get()
 col_types <- readr::cols_only(
   # `Concept Name`        = readr::col_character(),
   `concept_id`          = readr::col_integer(),
+  `desired`             = readr::col_logical()
   # `Valid Start Date`    = readr::col_date(format = ""),
   # `Invalid Reason`      = readr::col_logical(),
   # `Vocabulary Id`       = readr::col_character(),
@@ -76,20 +77,43 @@ sql_retrieve <-
 # paths <- fs::dir_ls(config$directory_codeset_input)[1:3]
 paths <-
   c(
-    "concept-sets/input/nasal-spray.csv",
-    "concept-sets/input/inhaled-corticosteroid.csv"
-  )
+    # "concept-sets/input/nasal-spray.csv",
+    "concept-sets/input/reviewed/dexamethasone.csv",
+    "concept-sets/input/reviewed/hydrocortisone-oral.csv",
+    "concept-sets/input/reviewed/hydrocortisone-systemic.csv",
+    "concept-sets/input/reviewed/inhaled-corticosteroid.csv",
+    "concept-sets/input/reviewed/prednisolone.csv",
+    "concept-sets/input/reviewed/prednisone and methyprednisolone.csv"
+  ) |>
+  {
+    \(x)
+    rlang::set_names(
+      x = x ,
+      nm = fs::path_ext_remove(fs::path_file(x))
+    )
+  }()
+
 
 ds_csm <-
   paths |>
-    readr::read_csv(
-      col_types = col_types,
-      id        = "source"
-    ) |>
-  tidyr::drop_na(concept_id) |>
-  dplyr::mutate(
-    codeset = fs::path_ext_remove(fs::path_file(source)),
+    # readr::read_csv(
+    #   col_types = col_types,
+    #   id        = "source"
+    # ) |>
+  purrr::map_dfr(
+    .f = \(k) {
+      readr::read_csv(
+        file      = k,
+        col_types = col_types
+      )
+    },
+    .id = "codeset"
   ) |>
+  tidyr::drop_na(concept_id) |>
+  dplyr::filter(desired) |>
+  # dplyr::mutate(
+  #   codeset = fs::path_ext_remove(fs::path_file(source)),
+  # ) |>
   dplyr::select(
     codeset,
     concept_id,#  = `Concept Id`,
