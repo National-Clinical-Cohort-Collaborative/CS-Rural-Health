@@ -1,7 +1,7 @@
-concept_name,concept_id,desired,comments,valid_start_date,invalid_reason,vocabulary_id,concept_code,concept_class_id,standar_concept,concept_name,domain_id
+concept_name,concept_id,FALSE,comments,valid_start_date,invalid_reason,vocabulary_id,concept_code,concept_class_id,standar_concept,concept_name,domain_id
 hydrocortisone; systemic,21602737,TRUE,,1/1/1970,,ATC,H02AB09,ATC 5th,C,hydrocortisone; systemic,Drug
 hydrocortisone; oral,21600036,TRUE,,1/1/1970,,ATC,A01AC03,ATC 5th,C,hydrocortisone; oral,Drug
-hydrocortisone acetate 0.0055 MG/MG,40226630,TRUE,delete,10/3/2010,,RxNorm,1012219,Clinical Drug Comp,S,hydrocortisone acetate 0.0055 MG/MG,Drug
+hydrocortisone acetate 0.0055 MG/MG,40226630,FALSE,delete,10/3/2010,,RxNorm,1012219,Clinical Drug Comp,S,hydrocortisone acetate 0.0055 MG/MG,Drug
 hydrocortisone acetate 20 MG/ML,40226541,TRUE,,10/3/2010,,RxNorm,1012232,Clinical Drug Comp,S,hydrocortisone acetate 20 MG/ML,Drug
 hydrocortisone acetate 5 MG/ML,40226550,TRUE,,10/3/2010,,RxNorm,1012234,Clinical Drug Comp,S,hydrocortisone acetate 5 MG/ML,Drug
 hydrocortisone acetate 50 MG/ML,40228300,TRUE,,10/31/2010,,RxNorm,1037327,Clinical Drug Comp,S,hydrocortisone acetate 50 MG/ML,Drug
@@ -9,13 +9,13 @@ hydrocortisone acetate 50 MG/ML [Hydrocortone Acetate],40228303,TRUE,,10/31/2010
 hydrocortisone 10 MG Oral Tablet [Hydrocortone],19006964,TRUE,,1/1/1970,,RxNorm,105395,Branded Drug,S,hydrocortisone 10 MG Oral Tablet [Hydrocortone],Drug
 hydrocortisone 20 MG Oral Tablet [Hydrocortone],19006965,TRUE,,1/1/1970,,RxNorm,105396,Branded Drug,S,hydrocortisone 20 MG Oral Tablet [Hydrocortone],Drug
 Hydrocortisone 20 MG Oral Tablet [Plenadren],40845203,TRUE,,8/24/2017,,RxNorm Extension,OMOP2043165,Branded Drug,S,Hydrocortisone 20 MG Oral Tablet [Plenadren],Drug
-Hydrocortisone 10 MG/ML [Cutisol],40828821,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2026783,Branded Drug Comp,S,Hydrocortisone 10 MG/ML [Cutisol],Drug
+Hydrocortisone 10 MG/ML [Cutisol],40828821,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2026783,Branded Drug Comp,S,Hydrocortisone 10 MG/ML [Cutisol],Drug
 Hydrocortisone 20 MG Oral Tablet Box of 100,40866948,TRUE,,8/24/2017,,RxNorm Extension,OMOP2064910,Clinical Drug Box,S,Hydrocortisone 20 MG Oral Tablet Box of 100,Drug
 Hydrocortisone 10 MG Oral Tablet Box of 100 by Sanofi,40854568,TRUE,,8/24/2017,,RxNorm Extension,OMOP2052530,Marketed Product,S,Hydrocortisone 10 MG Oral Tablet Box of 100 by Sanofi,Drug
 Hydrocortisone 5 MG Oral Tablet [Plenadren] Box of 50 by Shire,40854569,TRUE,,8/24/2017,,RxNorm Extension,OMOP2052531,Marketed Product,S,Hydrocortisone 5 MG Oral Tablet [Plenadren] Box of 50 by Shire,Drug
-Hydrocortisone 0.00333 MG/ML,40858137,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2056099,Clinical Drug Comp,S,Hydrocortisone 0.00333 MG/ML,Drug
-Hydrocortisone 0.0333 MG/ML,40858138,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2056100,Clinical Drug Comp,S,Hydrocortisone 0.0333 MG/ML,Drug
-Hydrocortisone 0.001 MG/MG [Alfason],40860120,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2058082,Branded Drug Comp,S,Hydrocortisone 0.001 MG/MG [Alfason],Drug
+Hydrocortisone 0.00333 MG/ML,40858137,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2056099,Clinical Drug Comp,S,Hydrocortisone 0.00333 MG/ML,Drug
+Hydrocortisone 0.0333 MG/ML,40858138,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2056100,Clinical Drug Comp,S,Hydrocortisone 0.0333 MG/ML,Drug
+Hydrocortisone 0.001 MG/MG [Alfason],40860120,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2058082,Branded Drug Comp,S,Hydrocortisone 0.001 MG/MG [Alfason],Drug
 Hydrocortisone 10 MG Oral Tablet [Hydrocortison Acis] Box of 50,40907295,TRUE,,8/24/2017,,RxNorm Extension,OMOP2105257,Branded Drug Box,S,Hydrocortisone 10 MG Oral Tablet [Hydrocortison Acis] Box of 50,Drug
 Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 100,40907303,TRUE,,8/24/2017,,RxNorm Extension,OMOP2105265,Branded Drug Box,S,Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 100,Drug
 Hydrocortisone 10 MG Oral Tablet Box of 20 by Sanofi,40916776,TRUE,,8/24/2017,,RxNorm Extension,OMOP2114738,Marketed Product,S,Hydrocortisone 10 MG Oral Tablet Box of 20 by Sanofi,Drug
@@ -27,30 +27,30 @@ hydrocortisone 10 MG Oral Tablet,975168,TRUE,,1/1/1970,,RxNorm,197782,Clinical D
 hydrocortisone 20 MG Oral Tablet,975169,TRUE,,1/1/1970,,RxNorm,197783,Clinical Drug,S,hydrocortisone 20 MG Oral Tablet,Drug
 hydrocortisone 5 MG Oral Tablet,975193,TRUE,,1/1/1970,,RxNorm,197787,Clinical Drug,S,hydrocortisone 5 MG Oral Tablet,Drug
 hydrocortisone 4 MG Oral Tablet,19021571,TRUE,,1/1/1970,,RxNorm,199320,Clinical Drug,S,hydrocortisone 4 MG Oral Tablet,Drug
-hydrocortisone probutate 1 MG/ML,43014077,TRUE,delete,3/4/2013,,RxNorm,1370745,Clinical Drug Comp,S,hydrocortisone probutate 1 MG/ML,Drug
-hydrocortisone butyrate 0.001 MG/MG,43013655,TRUE,delete,3/4/2013,,RxNorm,1370757,Clinical Drug Comp,S,hydrocortisone butyrate 0.001 MG/MG,Drug
-hydrocortisone butyrate 1 MG/ML,43013659,TRUE,delete,3/4/2013,,RxNorm,1370762,Clinical Drug Comp,S,hydrocortisone butyrate 1 MG/ML,Drug
-hydrocortisone butyrate 1 MG/ML [Locoid],43013666,TRUE,delete,3/4/2013,,RxNorm,1370764,Branded Drug Comp,S,hydrocortisone butyrate 1 MG/ML [Locoid],Drug
+hydrocortisone probutate 1 MG/ML,43014077,FALSE,delete,3/4/2013,,RxNorm,1370745,Clinical Drug Comp,S,hydrocortisone probutate 1 MG/ML,Drug
+hydrocortisone butyrate 0.001 MG/MG,43013655,FALSE,delete,3/4/2013,,RxNorm,1370757,Clinical Drug Comp,S,hydrocortisone butyrate 0.001 MG/MG,Drug
+hydrocortisone butyrate 1 MG/ML,43013659,FALSE,delete,3/4/2013,,RxNorm,1370762,Clinical Drug Comp,S,hydrocortisone butyrate 1 MG/ML,Drug
+hydrocortisone butyrate 1 MG/ML [Locoid],43013666,FALSE,delete,3/4/2013,,RxNorm,1370764,Branded Drug Comp,S,hydrocortisone butyrate 1 MG/ML [Locoid],Drug
 hydrocortisone 10 MG [Hydrocortone],19116155,TRUE,,9/11/2005,,RxNorm,564045,Branded Drug Comp,S,hydrocortisone 10 MG [Hydrocortone],Drug
 hydrocortisone 20 MG [Hydrocortone],19116156,TRUE,,9/11/2005,,RxNorm,564046,Branded Drug Comp,S,hydrocortisone 20 MG [Hydrocortone],Drug
-hydrocortisone 0.0009 MG/MG,19110032,TRUE,delete,1/1/1970,,RxNorm,439820,Clinical Drug Comp,S,hydrocortisone 0.0009 MG/MG,Drug
-hydrocortisone 0.0033 MG/MG,19110247,TRUE,delete,1/1/1970,,RxNorm,440442,Clinical Drug Comp,S,hydrocortisone 0.0033 MG/MG,Drug
-hydrocortisone 0.004 MG/MG,19110256,TRUE,delete,1/1/1970,,RxNorm,440461,Clinical Drug Comp,S,hydrocortisone 0.004 MG/MG,Drug
+hydrocortisone 0.0009 MG/MG,19110032,FALSE,delete,1/1/1970,,RxNorm,439820,Clinical Drug Comp,S,hydrocortisone 0.0009 MG/MG,Drug
+hydrocortisone 0.0033 MG/MG,19110247,FALSE,delete,1/1/1970,,RxNorm,440442,Clinical Drug Comp,S,hydrocortisone 0.0033 MG/MG,Drug
+hydrocortisone 0.004 MG/MG,19110256,FALSE,delete,1/1/1970,,RxNorm,440461,Clinical Drug Comp,S,hydrocortisone 0.004 MG/MG,Drug
 hydrocortisone 250 MG,19110892,TRUE,,1/1/1970,,RxNorm,446496,Clinical Drug Comp,S,hydrocortisone 250 MG,Drug
 hydrocortisone Oral Suspension [Cortef],40049699,TRUE,,1/1/1970,,RxNorm,365876,Branded Drug Form,S,hydrocortisone Oral Suspension [Cortef],Drug
 hydrocortisone 5 MG Oral Tablet [Cortef],19039286,TRUE,,1/1/1970,,RxNorm,208680,Branded Drug,S,hydrocortisone 5 MG Oral Tablet [Cortef],Drug
 hydrocortisone 10 MG Oral Tablet [Cortef],19039383,TRUE,,1/1/1970,,RxNorm,208712,Branded Drug,S,hydrocortisone 10 MG Oral Tablet [Cortef],Drug
 hydrocortisone 20 MG Oral Tablet [Cortef],19039743,TRUE,,1/1/1970,,RxNorm,208816,Branded Drug,S,hydrocortisone 20 MG Oral Tablet [Cortef],Drug
 hydrocortisone 2 MG/ML Oral Suspension [Cortef],19040967,TRUE,,1/1/1970,,RxNorm,209245,Branded Drug,S,hydrocortisone 2 MG/ML Oral Suspension [Cortef],Drug
-hydrocortisone 0.5 MG/ML,975984,TRUE,delete,1/1/1970,,RxNorm,334971,Clinical Drug Comp,S,hydrocortisone 0.5 MG/ML,Drug
+hydrocortisone 0.5 MG/ML,975984,FALSE,delete,1/1/1970,,RxNorm,334971,Clinical Drug Comp,S,hydrocortisone 0.5 MG/ML,Drug
 hydrocortisone 2.5 MG,975985,TRUE,,1/1/1970,,RxNorm,334972,Clinical Drug Comp,S,hydrocortisone 2.5 MG,Drug
-hydrocortisone 0.005 MG/MG,19093396,TRUE,delete,1/1/1970,,RxNorm,339990,Clinical Drug Comp,S,hydrocortisone 0.005 MG/MG,Drug
-hydrocortisone 2.5 MG/ML,976014,TRUE,delete,1/1/1970,,RxNorm,343175,Clinical Drug Comp,S,hydrocortisone 2.5 MG/ML,Drug
+hydrocortisone 0.005 MG/MG,19093396,FALSE,delete,1/1/1970,,RxNorm,339990,Clinical Drug Comp,S,hydrocortisone 0.005 MG/MG,Drug
+hydrocortisone 2.5 MG/ML,976014,FALSE,delete,1/1/1970,,RxNorm,343175,Clinical Drug Comp,S,hydrocortisone 2.5 MG/ML,Drug
 hydrocortisone 1.27 MG/ML,976016,TRUE,,1/1/1970,,RxNorm,343481,Clinical Drug Comp,S,hydrocortisone 1.27 MG/ML,Drug
 hydrocortisone 1.25 MG/ML,976017,TRUE,,1/1/1970,,RxNorm,343482,Clinical Drug Comp,S,hydrocortisone 1.25 MG/ML,Drug
 hydrocortisone 2.5 MG Oral Tablet,975588,TRUE,,1/1/1970,,RxNorm,249569,Clinical Drug,S,hydrocortisone 2.5 MG Oral Tablet,Drug
 hydrocortisone 2.5 MG Oral Lozenge,975644,TRUE,,1/1/1970,,RxNorm,251452,Clinical Drug,S,hydrocortisone 2.5 MG Oral Lozenge,Drug
-hydrocortisone 0.0025 MG/MG,975931,TRUE,delete,1/1/1970,,RxNorm,329448,Clinical Drug Comp,S,hydrocortisone 0.0025 MG/MG,Drug
+hydrocortisone 0.0025 MG/MG,975931,FALSE,delete,1/1/1970,,RxNorm,329448,Clinical Drug Comp,S,hydrocortisone 0.0025 MG/MG,Drug
 hydrocortisone 2 MG/ML,19086249,TRUE,,1/1/1970,,RxNorm,330825,Clinical Drug Comp,S,hydrocortisone 2 MG/ML,Drug
 hydrocortisone 4 MG,19088174,TRUE,,1/1/1970,,RxNorm,332093,Clinical Drug Comp,S,hydrocortisone 4 MG,Drug
 Hydrocortisone 10 MG Oral Tablet [Hydrocutan],40938635,TRUE,,8/24/2017,,RxNorm Extension,OMOP2136597,Branded Drug,S,Hydrocortisone 10 MG Oral Tablet [Hydrocutan],Drug
@@ -78,7 +78,7 @@ Hydrocortisone 10 MG Oral Tablet Box of 300 by Sanofi,41166958,TRUE,,8/24/2017,,
 Hydrocortisone 10 MG Oral Tablet Box of 20 by Galen,41166959,TRUE,,8/24/2017,,RxNorm Extension,OMOP2364921,Marketed Product,S,Hydrocortisone 10 MG Oral Tablet Box of 20 by Galen,Drug
 Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 100 by Kohlpharma,41166960,TRUE,,8/24/2017,,RxNorm Extension,OMOP2364922,Marketed Product,S,Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 100 by Kohlpharma,Drug
 Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 50 by Kohlpharma,41166961,TRUE,,8/24/2017,,RxNorm Extension,OMOP2364923,Marketed Product,S,Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 50 by Kohlpharma,Drug
-Hydrocortisone 0.1 MG/ML [Hydrogalen],41172376,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2370338,Branded Drug Comp,S,Hydrocortisone 0.1 MG/ML [Hydrogalen],Drug
+Hydrocortisone 0.1 MG/ML [Hydrogalen],41172376,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2370338,Branded Drug Comp,S,Hydrocortisone 0.1 MG/ML [Hydrogalen],Drug
 Hydrocortisone 10 MG Oral Tablet [Hydroson],41157554,TRUE,,8/24/2017,,RxNorm Extension,OMOP2355516,Branded Drug,S,Hydrocortisone 10 MG Oral Tablet [Hydroson],Drug
 Hydrocortisone 10 MG Oral Tablet Box of 150 by Sanofi,41104285,TRUE,,8/24/2017,,RxNorm Extension,OMOP2302247,Marketed Product,S,Hydrocortisone 10 MG Oral Tablet Box of 150 by Sanofi,Drug
 Hydrocortisone 10 MG Oral Tablet Box of 20 by Jenapharm,41104286,TRUE,,8/24/2017,,RxNorm Extension,OMOP2302248,Marketed Product,S,Hydrocortisone 10 MG Oral Tablet Box of 20 by Jenapharm,Drug
@@ -114,7 +114,7 @@ Hydrocortisone 10 MG Oral Tablet Box of 100 by Teofarma,40979101,TRUE,,8/24/2017
 Hydrocortisone 10 MG Oral Tablet Box of 100 by Mibe,40979102,TRUE,,8/24/2017,,RxNorm Extension,OMOP2177064,Marketed Product,S,Hydrocortisone 10 MG Oral Tablet Box of 100 by Mibe,Drug
 Hydrocortisone 10 MG Oral Tablet Box of 100 by Galen,40979103,TRUE,,8/24/2017,,RxNorm Extension,OMOP2177065,Marketed Product,S,Hydrocortisone 10 MG Oral Tablet Box of 100 by Galen,Drug
 Hydrocortisone 10 MG Oral Tablet Box of 20,41053973,TRUE,,8/24/2017,,RxNorm Extension,OMOP2251935,Clinical Drug Box,S,Hydrocortisone 10 MG Oral Tablet Box of 20,Drug
-Hydrocortisone 0.0333 MG/ML [Alfason],41015865,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2213827,Branded Drug Comp,S,Hydrocortisone 0.0333 MG/ML [Alfason],Drug
+Hydrocortisone 0.0333 MG/ML [Alfason],41015865,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2213827,Branded Drug Comp,S,Hydrocortisone 0.0333 MG/ML [Alfason],Drug
 Hydrocortisone 10 MG Oral Tablet [Hydroson] Box of 50,41032084,TRUE,,8/24/2017,,RxNorm Extension,OMOP2230046,Branded Drug Box,S,Hydrocortisone 10 MG Oral Tablet [Hydroson] Box of 50,Drug
 Hydrocortisone 5 MG Oral Tablet [Plenadren] Box of 50,41032119,TRUE,,8/24/2017,,RxNorm Extension,OMOP2230081,Branded Drug Box,S,Hydrocortisone 5 MG Oral Tablet [Plenadren] Box of 50,Drug
 hydrocortisone 10 MG [Cortef],19043316,TRUE,,9/11/2005,,RxNorm,569375,Branded Drug Comp,S,hydrocortisone 10 MG [Cortef],Drug
@@ -124,8 +124,8 @@ hydrocortisone Oral Tablet [Hydrocortone],40049702,TRUE,,1/1/1970,,RxNorm,369182
 hydrocortisone Oral Tablet [Cortef],40049701,TRUE,,1/1/1970,,RxNorm,369183,Branded Drug Form,S,hydrocortisone Oral Tablet [Cortef],Drug
 hydrocortisone Oral Suspension,40049698,TRUE,,1/1/1970,,RxNorm,370647,Clinical Drug Form,S,hydrocortisone Oral Suspension,Drug
 hydrocortisone Oral Tablet,40049700,TRUE,,1/1/1970,,RxNorm,370649,Clinical Drug Form,S,hydrocortisone Oral Tablet,Drug
-hydrocortisone Oral Lozenge,40049693,TRUE,delete,1/1/1970,,RxNorm,372422,Clinical Drug Form,S,hydrocortisone Oral Lozenge,Drug
-hydrocortisone 0.1 MG/ML,19114612,TRUE,delete,9/11/2005,,RxNorm,544998,Clinical Drug Comp,S,hydrocortisone 0.1 MG/ML,Drug
+hydrocortisone Oral Lozenge,40049693,FALSE,delete,1/1/1970,,RxNorm,372422,Clinical Drug Form,S,hydrocortisone Oral Lozenge,Drug
+hydrocortisone 0.1 MG/ML,19114612,FALSE,delete,9/11/2005,,RxNorm,544998,Clinical Drug Comp,S,hydrocortisone 0.1 MG/ML,Drug
 hydrocortisone,975125,TRUE,,1/1/1970,,RxNorm,5492,Ingredient,S,hydrocortisone,Drug
 hydrocortisone acetate 10 MG/ML,19133287,TRUE,,1/4/2009,,RxNorm,828360,Clinical Drug Comp,S,hydrocortisone acetate 10 MG/ML,Drug
 hydrocortisone 2 MG/ML Oral Suspension,19078350,TRUE,,1/1/1970,,RxNorm,310899,Clinical Drug,S,hydrocortisone 2 MG/ML Oral Suspension,Drug
@@ -148,7 +148,7 @@ Hydrocortisone 10 MG Oral Tablet Box of 100,41085522,TRUE,,8/24/2017,,RxNorm Ext
 Hydrocortisone 10 MG Oral Tablet Box of 50 by Teofarma,41198300,TRUE,,8/24/2017,,RxNorm Extension,OMOP2396262,Marketed Product,S,Hydrocortisone 10 MG Oral Tablet Box of 50 by Teofarma,Drug
 Hydrocortisone 10 MG Oral Tablet Box of 50 by Mibe,41198301,TRUE,,8/24/2017,,RxNorm Extension,OMOP2396263,Marketed Product,S,Hydrocortisone 10 MG Oral Tablet Box of 50 by Mibe,Drug
 Hydrocortisone 3 MG/ML,41201879,TRUE,,8/24/2017,,RxNorm Extension,OMOP2399841,Clinical Drug Comp,S,Hydrocortisone 3 MG/ML,Drug
-Hydrocortisone 0.00333 MG/ML [Alfason],41203875,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2401837,Branded Drug Comp,S,Hydrocortisone 0.00333 MG/ML [Alfason],Drug
+Hydrocortisone 0.00333 MG/ML [Alfason],41203875,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2401837,Branded Drug Comp,S,Hydrocortisone 0.00333 MG/ML [Alfason],Drug
 Hydrocortisone Oral Tablet [Hydroson],41207179,TRUE,,8/24/2017,,RxNorm Extension,OMOP2405141,Branded Drug Form,S,Hydrocortisone Oral Tablet [Hydroson],Drug
 Hydrocortisone 10 MG [Hydroson],41234857,TRUE,,8/24/2017,,RxNorm Extension,OMOP2432819,Branded Drug Comp,S,Hydrocortisone 10 MG [Hydroson],Drug
 Hydrocortisone Oral Tablet [Plenadren],41238092,TRUE,,8/24/2017,,RxNorm Extension,OMOP2436054,Branded Drug Form,S,Hydrocortisone Oral Tablet [Plenadren],Drug
@@ -165,38 +165,38 @@ Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by Waymade,35763618,
 Hydrocortisone 20 MG Extended Release Oral Tablet by Waymade,35763619,TRUE,,8/24/2017,,RxNorm Extension,OMOP2765080,Marketed Product,S,Hydrocortisone 20 MG Extended Release Oral Tablet by Waymade,Drug
 Hydrocortisone 3.6 MG/ML Oral Suspension,35766390,TRUE,,8/24/2017,,RxNorm Extension,OMOP2767851,Clinical Drug,S,Hydrocortisone 3.6 MG/ML Oral Suspension,Drug
 Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo],35766777,TRUE,,8/24/2017,,RxNorm Extension,OMOP2768238,Branded Drug,S,Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo],Drug
-Hydrocortisone 2 MG/ML Oral Suspension by Drug Tariff Special Order,35767756,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2769217,Marketed Product,S,Hydrocortisone 2 MG/ML Oral Suspension by Drug Tariff Special Order,Drug
+Hydrocortisone 2 MG/ML Oral Suspension by Drug Tariff Special Order,35767756,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2769217,Marketed Product,S,Hydrocortisone 2 MG/ML Oral Suspension by Drug Tariff Special Order,Drug
 Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by TEVA,35767757,TRUE,,8/24/2017,,RxNorm Extension,OMOP2769218,Marketed Product,S,Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by TEVA,Drug
 100 ML Hydrocortisone 1 MG/ML Oral Solution,35786194,TRUE,,8/24/2017,,RxNorm Extension,OMOP2787655,Quant Clinical Drug,S,100 ML Hydrocortisone 1 MG/ML Oral Solution,Drug
 100 ML Hydrocortisone 2 MG/ML Oral Suspension by Drug Tariff Special Order,35786264,TRUE,,8/24/2017,,RxNorm Extension,OMOP2787725,Marketed Product,S,100 ML Hydrocortisone 2 MG/ML Oral Suspension by Drug Tariff Special Order,Drug
 100 ML Hydrocortisone 1 MG/ML Oral Solution by Drug Tariff Special Order,35787385,TRUE,,8/24/2017,,RxNorm Extension,OMOP2788846,Marketed Product,S,100 ML Hydrocortisone 1 MG/ML Oral Solution by Drug Tariff Special Order,Drug
 100 ML Hydrocortisone 1 MG/ML Oral Suspension by Drug Tariff Special Order,35787386,TRUE,,8/24/2017,,RxNorm Extension,OMOP2788847,Marketed Product,S,100 ML Hydrocortisone 1 MG/ML Oral Suspension by Drug Tariff Special Order,Drug
-99300 MG Hydrocortisone 0.001 MG/MG Oral Suspension,35796667,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2798128,Quant Clinical Drug,S,99300 MG Hydrocortisone 0.001 MG/MG Oral Suspension,Drug
-99300 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo],35796932,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2798393,Quant Branded Drug,S,99300 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo],Drug
-99300 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo] by Astellas,35796955,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2798416,Marketed Product,S,99300 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo] by Astellas,Drug
-100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo],35797191,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2798652,Quant Branded Drug,S,100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo],Drug
-100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo] by Astellas,35797250,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2798711,Marketed Product,S,100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo] by Astellas,Drug
-101000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo] by Astellas,35797547,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2799008,Marketed Product,S,101000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo] by Astellas,Drug
-101000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo],35797782,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2799243,Quant Branded Drug,S,101000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo],Drug
-101000 MG Hydrocortisone 0.001 MG/MG Oral Suspension,35797936,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2799397,Quant Clinical Drug,S,101000 MG Hydrocortisone 0.001 MG/MG Oral Suspension,Drug
-Hydrocortisone Oral Suspension [Locoid Crelo],35749547,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2751008,Branded Drug Form,S,Hydrocortisone Oral Suspension [Locoid Crelo],Drug
+99300 MG Hydrocortisone 0.001 MG/MG Oral Suspension,35796667,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2798128,Quant Clinical Drug,S,99300 MG Hydrocortisone 0.001 MG/MG Oral Suspension,Drug
+99300 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo],35796932,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2798393,Quant Branded Drug,S,99300 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo],Drug
+99300 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo] by Astellas,35796955,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2798416,Marketed Product,S,99300 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo] by Astellas,Drug
+100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo],35797191,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2798652,Quant Branded Drug,S,100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo],Drug
+100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo] by Astellas,35797250,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2798711,Marketed Product,S,100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo] by Astellas,Drug
+101000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo] by Astellas,35797547,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2799008,Marketed Product,S,101000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo] by Astellas,Drug
+101000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo],35797782,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2799243,Quant Branded Drug,S,101000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo],Drug
+101000 MG Hydrocortisone 0.001 MG/MG Oral Suspension,35797936,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2799397,Quant Clinical Drug,S,101000 MG Hydrocortisone 0.001 MG/MG Oral Suspension,Drug
+Hydrocortisone Oral Suspension [Locoid Crelo],35749547,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2751008,Branded Drug Form,S,Hydrocortisone Oral Suspension [Locoid Crelo],Drug
 Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by Alliance,35751047,TRUE,,8/24/2017,,RxNorm Extension,OMOP2752508,Marketed Product,S,Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by Alliance,Drug
 Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by Phoenix Labs,35751048,TRUE,,8/24/2017,,RxNorm Extension,OMOP2752509,Marketed Product,S,Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by Phoenix Labs,Drug
 Hydrocortisone 20 MG Extended Release Oral Tablet by Almus,35751049,TRUE,,8/24/2017,,RxNorm Extension,OMOP2752510,Marketed Product,S,Hydrocortisone 20 MG Extended Release Oral Tablet by Almus,Drug
 Hydrocortisone 20 MG Extended Release Oral Tablet by Sovereign,35751050,TRUE,,8/24/2017,,RxNorm Extension,OMOP2752511,Marketed Product,S,Hydrocortisone 20 MG Extended Release Oral Tablet by Sovereign,Drug
-Hydrocortisone 0.001 MG/MG [Locoid Crelo],35753652,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2755113,Branded Drug Comp,S,Hydrocortisone 0.001 MG/MG [Locoid Crelo],Drug
+Hydrocortisone 0.001 MG/MG [Locoid Crelo],35753652,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2755113,Branded Drug Comp,S,Hydrocortisone 0.001 MG/MG [Locoid Crelo],Drug
 Hydrocortisone 6 MG/ML Oral Suspension,35753993,TRUE,,8/24/2017,,RxNorm Extension,OMOP2755454,Clinical Drug,S,Hydrocortisone 6 MG/ML Oral Suspension,Drug
 100 ML Hydrocortisone 1 MG/ML Oral Suspension,21098694,TRUE,,8/24/2017,,RxNorm Extension,OMOP323905,Quant Clinical Drug,S,100 ML Hydrocortisone 1 MG/ML Oral Suspension,Drug
 100 ML Hydrocortisone 2 MG/ML Oral Suspension,21029961,TRUE,,8/24/2017,,RxNorm Extension,OMOP323914,Quant Clinical Drug,S,100 ML Hydrocortisone 2 MG/ML Oral Suspension,Drug
 Hydrocortisone Oral Capsule,21104723,TRUE,,8/24/2017,,RxNorm Extension,OMOP254613,Clinical Drug Form,S,Hydrocortisone Oral Capsule,Drug
 Hydrocortisone Extended Release Oral Tablet [Plenadren],21104724,TRUE,,8/24/2017,,RxNorm Extension,OMOP254614,Branded Drug Form,S,Hydrocortisone Extended Release Oral Tablet [Plenadren],Drug
 Hydrocortisone Oral Tablet [Corlan],21094837,TRUE,,8/24/2017,,RxNorm Extension,OMOP254615,Branded Drug Form,S,Hydrocortisone Oral Tablet [Corlan],Drug
-Hydrocortisone 2.5 MG/ML Oral Suspension,21055570,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254636,Clinical Drug,S,Hydrocortisone 2.5 MG/ML Oral Suspension,Drug
-Hydrocortisone 0.05 MG/ML,21114515,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254660,Clinical Drug Comp,S,Hydrocortisone 0.05 MG/ML,Drug
-Hydrocortisone 0.05 MG/ML Oral Suspension,21114516,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254661,Clinical Drug,S,Hydrocortisone 0.05 MG/ML Oral Suspension,Drug
-Hydrocortisone 0.75 MG/ML,21094843,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254663,Clinical Drug Comp,S,Hydrocortisone 0.75 MG/ML,Drug
-Hydrocortisone 0.75 MG/ML Oral Suspension,21094844,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254664,Clinical Drug,S,Hydrocortisone 0.75 MG/ML Oral Suspension,Drug
-Hydrocortisone 1.27 MG/ML Oral Suspension,21104729,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254667,Clinical Drug,S,Hydrocortisone 1.27 MG/ML Oral Suspension,Drug
+Hydrocortisone 2.5 MG/ML Oral Suspension,21055570,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254636,Clinical Drug,S,Hydrocortisone 2.5 MG/ML Oral Suspension,Drug
+Hydrocortisone 0.05 MG/ML,21114515,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254660,Clinical Drug Comp,S,Hydrocortisone 0.05 MG/ML,Drug
+Hydrocortisone 0.05 MG/ML Oral Suspension,21114516,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254661,Clinical Drug,S,Hydrocortisone 0.05 MG/ML Oral Suspension,Drug
+Hydrocortisone 0.75 MG/ML,21094843,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254663,Clinical Drug Comp,S,Hydrocortisone 0.75 MG/ML,Drug
+Hydrocortisone 0.75 MG/ML Oral Suspension,21094844,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254664,Clinical Drug,S,Hydrocortisone 0.75 MG/ML Oral Suspension,Drug
+Hydrocortisone 1.27 MG/ML Oral Suspension,21104729,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254667,Clinical Drug,S,Hydrocortisone 1.27 MG/ML Oral Suspension,Drug
 Hydrocortisone 2.5 MG [Corlan],21094845,TRUE,,8/24/2017,,RxNorm Extension,OMOP254669,Branded Drug Comp,S,Hydrocortisone 2.5 MG [Corlan],Drug
 Hydrocortisone 2.5 MG Oral Capsule,21085071,TRUE,,8/24/2017,,RxNorm Extension,OMOP254670,Clinical Drug,S,Hydrocortisone 2.5 MG Oral Capsule,Drug
 Hydrocortisone 2.5 MG Oral Capsule Box of 1,21114517,TRUE,,8/24/2017,,RxNorm Extension,OMOP254672,Clinical Drug Box,S,Hydrocortisone 2.5 MG Oral Capsule Box of 1,Drug
@@ -249,36 +249,36 @@ Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren],21055574,TRUE,,8/2
 Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] by ViroPharma,21173458,TRUE,,8/24/2017,,RxNorm Extension,OMOP254729,Marketed Product,S,Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] by ViroPharma,Drug
 Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 50,21055575,TRUE,,8/24/2017,,RxNorm Extension,OMOP254730,Branded Drug Box,S,Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 50,Drug
 Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 50 by ViroPharma,21045803,TRUE,,8/24/2017,,RxNorm Extension,OMOP254732,Marketed Product,S,Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 50 by ViroPharma,Drug
-Hydrocortisone 0.2 MG/ML,21055581,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254773,Clinical Drug Comp,S,Hydrocortisone 0.2 MG/ML,Drug
-Hydrocortisone 0.2 MG/ML Oral Suspension,21055582,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254774,Clinical Drug,S,Hydrocortisone 0.2 MG/ML Oral Suspension,Drug
-Hydrocortisone 0.8 MG/ML,21035957,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254776,Clinical Drug Comp,S,Hydrocortisone 0.8 MG/ML,Drug
-Hydrocortisone 0.8 MG/ML Oral Suspension,21153879,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254777,Clinical Drug,S,Hydrocortisone 0.8 MG/ML Oral Suspension,Drug
+Hydrocortisone 0.2 MG/ML,21055581,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254773,Clinical Drug Comp,S,Hydrocortisone 0.2 MG/ML,Drug
+Hydrocortisone 0.2 MG/ML Oral Suspension,21055582,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254774,Clinical Drug,S,Hydrocortisone 0.2 MG/ML Oral Suspension,Drug
+Hydrocortisone 0.8 MG/ML,21035957,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254776,Clinical Drug Comp,S,Hydrocortisone 0.8 MG/ML,Drug
+Hydrocortisone 0.8 MG/ML Oral Suspension,21153879,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254777,Clinical Drug,S,Hydrocortisone 0.8 MG/ML Oral Suspension,Drug
 Hydrocortisone 5 MG [Plenadren],21035958,TRUE,,8/24/2017,,RxNorm Extension,OMOP254779,Branded Drug Comp,S,Hydrocortisone 5 MG [Plenadren],Drug
 Hydrocortisone 5 MG Extended Release Oral Tablet Box of 50,21075353,TRUE,,8/24/2017,,RxNorm Extension,OMOP254781,Clinical Drug Box,S,Hydrocortisone 5 MG Extended Release Oral Tablet Box of 50,Drug
 Hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren],21094856,TRUE,,8/24/2017,,RxNorm Extension,OMOP254782,Branded Drug,S,Hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren],Drug
 Hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren] by ViroPharma,21055583,TRUE,,8/24/2017,,RxNorm Extension,OMOP254783,Marketed Product,S,Hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren] by ViroPharma,Drug
 Hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren] Box of 50,21153881,TRUE,,8/24/2017,,RxNorm Extension,OMOP254784,Branded Drug Box,S,Hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren] Box of 50,Drug
 Hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren] Box of 50 by ViroPharma,21026170,TRUE,,8/24/2017,,RxNorm Extension,OMOP254785,Marketed Product,S,Hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren] Box of 50 by ViroPharma,Drug
-Hydrocortisone 0.0025 MG/MG Oral Suspension,21124127,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254797,Clinical Drug,S,Hydrocortisone 0.0025 MG/MG Oral Suspension,Drug
-Hydrocortisone 20 MG/ML Oral Suspension,21134017,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254799,Clinical Drug,S,Hydrocortisone 20 MG/ML Oral Suspension,Drug
-Hydrocortisone 0.0009 MG/MG Oral Suspension,21124128,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254806,Clinical Drug,S,Hydrocortisone 0.0009 MG/MG Oral Suspension,Drug
-Hydrocortisone 0.01 MG/ML,21153882,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254808,Clinical Drug Comp,S,Hydrocortisone 0.01 MG/ML,Drug
-Hydrocortisone 0.01 MG/ML Oral Suspension,21173465,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254809,Clinical Drug,S,Hydrocortisone 0.01 MG/ML Oral Suspension,Drug
-Hydrocortisone 10 MG/ML Oral Suspension,21143928,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254811,Clinical Drug,S,Hydrocortisone 10 MG/ML Oral Suspension,Drug
-Hydrocortisone 0.017 MG/ML,21055586,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254816,Clinical Drug Comp,S,Hydrocortisone 0.017 MG/ML,Drug
-Hydrocortisone 0.017 MG/ML Oral Suspension,21163687,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254817,Clinical Drug,S,Hydrocortisone 0.017 MG/ML Oral Suspension,Drug
+Hydrocortisone 0.0025 MG/MG Oral Suspension,21124127,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254797,Clinical Drug,S,Hydrocortisone 0.0025 MG/MG Oral Suspension,Drug
+Hydrocortisone 20 MG/ML Oral Suspension,21134017,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254799,Clinical Drug,S,Hydrocortisone 20 MG/ML Oral Suspension,Drug
+Hydrocortisone 0.0009 MG/MG Oral Suspension,21124128,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254806,Clinical Drug,S,Hydrocortisone 0.0009 MG/MG Oral Suspension,Drug
+Hydrocortisone 0.01 MG/ML,21153882,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254808,Clinical Drug Comp,S,Hydrocortisone 0.01 MG/ML,Drug
+Hydrocortisone 0.01 MG/ML Oral Suspension,21173465,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254809,Clinical Drug,S,Hydrocortisone 0.01 MG/ML Oral Suspension,Drug
+Hydrocortisone 10 MG/ML Oral Suspension,21143928,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254811,Clinical Drug,S,Hydrocortisone 10 MG/ML Oral Suspension,Drug
+Hydrocortisone 0.017 MG/ML,21055586,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254816,Clinical Drug Comp,S,Hydrocortisone 0.017 MG/ML,Drug
+Hydrocortisone 0.017 MG/ML Oral Suspension,21163687,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254817,Clinical Drug,S,Hydrocortisone 0.017 MG/ML Oral Suspension,Drug
 Hydrocortisone 1 MG Oral Capsule,21094858,TRUE,,8/24/2017,,RxNorm Extension,OMOP254820,Clinical Drug,S,Hydrocortisone 1 MG Oral Capsule,Drug
 Hydrocortisone 1 MG Oral Capsule Box of 1,21094859,TRUE,,8/24/2017,,RxNorm Extension,OMOP254822,Clinical Drug Box,S,Hydrocortisone 1 MG Oral Capsule Box of 1,Drug
 Hydrocortisone 5 MG/ML Oral Suspension,21143930,TRUE,,8/24/2017,,RxNorm Extension,OMOP254825,Clinical Drug,S,Hydrocortisone 5 MG/ML Oral Suspension,Drug
-Hydrocortisone 0.72 MG/ML,21026175,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254827,Clinical Drug Comp,S,Hydrocortisone 0.72 MG/ML,Drug
-Hydrocortisone 0.72 MG/ML Oral Suspension,21075355,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254828,Clinical Drug,S,Hydrocortisone 0.72 MG/ML Oral Suspension,Drug
-Hydrocortisone 1 MG/ML Oral Solution,21143931,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254830,Clinical Drug,S,Hydrocortisone 1 MG/ML Oral Solution,Drug
-Hydrocortisone 1 MG/ML Oral Suspension,21065413,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254833,Clinical Drug,S,Hydrocortisone 1 MG/ML Oral Suspension,Drug
-Hydrocortisone 0.4 MG/ML,21114521,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254841,Clinical Drug Comp,S,Hydrocortisone 0.4 MG/ML,Drug
-Hydrocortisone 0.4 MG/ML Oral Suspension,21104737,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254842,Clinical Drug,S,Hydrocortisone 0.4 MG/ML Oral Suspension,Drug
-Hydrocortisone 1.25 MG/ML Oral Suspension,21026176,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254844,Clinical Drug,S,Hydrocortisone 1.25 MG/ML Oral Suspension,Drug
-Hydrocortisone 1.5 MG/ML,21075358,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254849,Clinical Drug Comp,S,Hydrocortisone 1.5 MG/ML,Drug
-Hydrocortisone 1.5 MG/ML Oral Suspension,21114522,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254850,Clinical Drug,S,Hydrocortisone 1.5 MG/ML Oral Suspension,Drug
+Hydrocortisone 0.72 MG/ML,21026175,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254827,Clinical Drug Comp,S,Hydrocortisone 0.72 MG/ML,Drug
+Hydrocortisone 0.72 MG/ML Oral Suspension,21075355,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254828,Clinical Drug,S,Hydrocortisone 0.72 MG/ML Oral Suspension,Drug
+Hydrocortisone 1 MG/ML Oral Solution,21143931,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254830,Clinical Drug,S,Hydrocortisone 1 MG/ML Oral Solution,Drug
+Hydrocortisone 1 MG/ML Oral Suspension,21065413,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254833,Clinical Drug,S,Hydrocortisone 1 MG/ML Oral Suspension,Drug
+Hydrocortisone 0.4 MG/ML,21114521,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254841,Clinical Drug Comp,S,Hydrocortisone 0.4 MG/ML,Drug
+Hydrocortisone 0.4 MG/ML Oral Suspension,21104737,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254842,Clinical Drug,S,Hydrocortisone 0.4 MG/ML Oral Suspension,Drug
+Hydrocortisone 1.25 MG/ML Oral Suspension,21026176,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254844,Clinical Drug,S,Hydrocortisone 1.25 MG/ML Oral Suspension,Drug
+Hydrocortisone 1.5 MG/ML,21075358,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254849,Clinical Drug Comp,S,Hydrocortisone 1.5 MG/ML,Drug
+Hydrocortisone 1.5 MG/ML Oral Suspension,21114522,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254850,Clinical Drug,S,Hydrocortisone 1.5 MG/ML Oral Suspension,Drug
 Hydrocortisone 2 MG Oral Capsule,21124131,TRUE,,8/24/2017,,RxNorm Extension,OMOP254861,Clinical Drug,S,Hydrocortisone 2 MG Oral Capsule,Drug
 Hydrocortisone 2 MG Oral Capsule Box of 1,21026178,TRUE,,8/24/2017,,RxNorm Extension,OMOP254863,Clinical Drug Box,S,Hydrocortisone 2 MG Oral Capsule Box of 1,Drug
 Hydrocortisone 10 MG Oral Tablet by Mawdsley-Brooks,21035962,TRUE,,8/24/2017,,RxNorm Extension,OMOP254866,Marketed Product,S,Hydrocortisone 10 MG Oral Tablet by Mawdsley-Brooks,Drug
@@ -308,20 +308,20 @@ Hydrocortisone 10 MG Oral Tablet Box of 30 by Almus,21075359,TRUE,,8/24/2017,,Rx
 Hydrocortisone 10 MG Oral Tablet [Hydrocortone] by Auden Mckenzie,21143934,TRUE,,8/24/2017,,RxNorm Extension,OMOP254891,Marketed Product,S,Hydrocortisone 10 MG Oral Tablet [Hydrocortone] by Auden Mckenzie,Drug
 Hydrocortisone 10 MG Oral Tablet [Hydrocortone] Box of 30,21065417,TRUE,,8/24/2017,,RxNorm Extension,OMOP254892,Branded Drug Box,S,Hydrocortisone 10 MG Oral Tablet [Hydrocortone] Box of 30,Drug
 Hydrocortisone 10 MG Oral Tablet [Hydrocortone] Box of 30 by Auden Mckenzie,21065418,TRUE,,8/24/2017,,RxNorm Extension,OMOP254893,Marketed Product,S,Hydrocortisone 10 MG Oral Tablet [Hydrocortone] Box of 30 by Auden Mckenzie,Drug
-Hydrocortisone 0.6 MG/ML,21134020,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254895,Clinical Drug Comp,S,Hydrocortisone 0.6 MG/ML,Drug
-Hydrocortisone 0.6 MG/ML Oral Suspension,21104742,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254896,Clinical Drug,S,Hydrocortisone 0.6 MG/ML Oral Suspension,Drug
-Hydrocortisone 4 MG Oral Lozenge Box of 1,21035965,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254912,Clinical Drug Box,S,Hydrocortisone 4 MG Oral Lozenge Box of 1,Drug
-Hydrocortisone 0.004 MG/MG Oral Suspension,21114525,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254916,Clinical Drug,S,Hydrocortisone 0.004 MG/MG Oral Suspension,Drug
-Hydrocortisone 0.3 MG/ML,21153890,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254984,Clinical Drug Comp,S,Hydrocortisone 0.3 MG/ML,Drug
-Hydrocortisone 0.3 MG/ML Oral Suspension,21085089,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254985,Clinical Drug,S,Hydrocortisone 0.3 MG/ML Oral Suspension,Drug
-Hydrocortisone 0.0033 MG/MG Oral Suspension,21163696,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254988,Clinical Drug,S,Hydrocortisone 0.0033 MG/MG Oral Suspension,Drug
-Hydrocortisone 0.0055 MG/MG Oral Suspension,21065424,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254991,Clinical Drug,S,Hydrocortisone 0.0055 MG/MG Oral Suspension,Drug
-Hydrocortisone 15 MG/ML Oral Suspension,21094869,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254994,Clinical Drug,S,Hydrocortisone 15 MG/ML Oral Suspension,Drug
-Hydrocortisone 0.5 MG/ML Oral Suspension,21124140,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP254999,Clinical Drug,S,Hydrocortisone 0.5 MG/ML Oral Suspension,Drug
+Hydrocortisone 0.6 MG/ML,21134020,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254895,Clinical Drug Comp,S,Hydrocortisone 0.6 MG/ML,Drug
+Hydrocortisone 0.6 MG/ML Oral Suspension,21104742,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254896,Clinical Drug,S,Hydrocortisone 0.6 MG/ML Oral Suspension,Drug
+Hydrocortisone 4 MG Oral Lozenge Box of 1,21035965,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254912,Clinical Drug Box,S,Hydrocortisone 4 MG Oral Lozenge Box of 1,Drug
+Hydrocortisone 0.004 MG/MG Oral Suspension,21114525,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254916,Clinical Drug,S,Hydrocortisone 0.004 MG/MG Oral Suspension,Drug
+Hydrocortisone 0.3 MG/ML,21153890,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254984,Clinical Drug Comp,S,Hydrocortisone 0.3 MG/ML,Drug
+Hydrocortisone 0.3 MG/ML Oral Suspension,21085089,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254985,Clinical Drug,S,Hydrocortisone 0.3 MG/ML Oral Suspension,Drug
+Hydrocortisone 0.0033 MG/MG Oral Suspension,21163696,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254988,Clinical Drug,S,Hydrocortisone 0.0033 MG/MG Oral Suspension,Drug
+Hydrocortisone 0.0055 MG/MG Oral Suspension,21065424,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254991,Clinical Drug,S,Hydrocortisone 0.0055 MG/MG Oral Suspension,Drug
+Hydrocortisone 15 MG/ML Oral Suspension,21094869,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254994,Clinical Drug,S,Hydrocortisone 15 MG/ML Oral Suspension,Drug
+Hydrocortisone 0.5 MG/ML Oral Suspension,21124140,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP254999,Clinical Drug,S,Hydrocortisone 0.5 MG/ML Oral Suspension,Drug
 Hydrocortisone Extended Release Oral Tablet,42483100,TRUE,,8/24/2017,,RxNorm Extension,OMOP417490,Clinical Drug Form,S,Hydrocortisone Extended Release Oral Tablet,Drug
-Hydrocortisone Oral Solution,42481321,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP417491,Clinical Drug Form,S,Hydrocortisone Oral Solution,Drug
+Hydrocortisone Oral Solution,42481321,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP417491,Clinical Drug Form,S,Hydrocortisone Oral Solution,Drug
 Hydrocortisone 5 MG Extended Release Oral Tablet,42479575,TRUE,,8/24/2017,,RxNorm Extension,OMOP417498,Clinical Drug,S,Hydrocortisone 5 MG Extended Release Oral Tablet,Drug
-Hydrocortisone 4 MG Oral Lozenge,42481322,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP417499,Clinical Drug,S,Hydrocortisone 4 MG Oral Lozenge,Drug
+Hydrocortisone 4 MG Oral Lozenge,42481322,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP417499,Clinical Drug,S,Hydrocortisone 4 MG Oral Lozenge,Drug
 Hydrocortisone 20 MG Extended Release Oral Tablet,42481959,TRUE,,8/24/2017,,RxNorm Extension,OMOP417500,Clinical Drug,S,Hydrocortisone 20 MG Extended Release Oral Tablet,Drug
 Hydrocortisone Oral Tablet [HYDROCORTISONE ROUSSEL],43145831,TRUE,,8/24/2017,,RxNorm Extension,OMOP448152,Branded Drug Form,S,Hydrocortisone Oral Tablet [HYDROCORTISONE ROUSSEL],Drug
 Hydrocortisone 10 MG [HYDROCORTISONE ROUSSEL],43134957,TRUE,,8/24/2017,,RxNorm Extension,OMOP448191,Branded Drug Comp,S,Hydrocortisone 10 MG [HYDROCORTISONE ROUSSEL],Drug
@@ -384,13 +384,13 @@ Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by Actavis,35746932,
 Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by DE,35746933,TRUE,,8/24/2017,,RxNorm Extension,OMOP2748394,Marketed Product,S,Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by DE,Drug
 Hydrocortisone 20 MG Extended Release Oral Tablet by A A H,35746934,TRUE,,8/24/2017,,RxNorm Extension,OMOP2748395,Marketed Product,S,Hydrocortisone 20 MG Extended Release Oral Tablet by A A H,Drug
 Hydrocortisone 20 MG Extended Release Oral Tablet by Sigma-Tau,35746935,TRUE,,8/24/2017,,RxNorm Extension,OMOP2748396,Marketed Product,S,Hydrocortisone 20 MG Extended Release Oral Tablet by Sigma-Tau,Drug
-1 ML Hydrocortisone 6 MG/ML Oral Suspension,35775956,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2777417,Quant Clinical Drug,S,1 ML Hydrocortisone 6 MG/ML Oral Suspension,Drug
-1 ML Hydrocortisone 3.6 MG/ML Oral Suspension,35776494,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2777955,Quant Clinical Drug,S,1 ML Hydrocortisone 3.6 MG/ML Oral Suspension,Drug
-1 ML Hydrocortisone 1 MG/ML Oral Suspension by Drug Tariff Special Order,35776631,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2778092,Marketed Product,S,1 ML Hydrocortisone 1 MG/ML Oral Suspension by Drug Tariff Special Order,Drug
-1 ML Hydrocortisone 3 MG/ML Oral Suspension,35777050,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2778511,Quant Clinical Drug,S,1 ML Hydrocortisone 3 MG/ML Oral Suspension,Drug
-1 ML Hydrocortisone 4 MG/ML Oral Suspension,35777331,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2778792,Quant Clinical Drug,S,1 ML Hydrocortisone 4 MG/ML Oral Suspension,Drug
-1 ML Hydrocortisone 2 MG/ML Oral Suspension by Drug Tariff Special Order,35777483,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2778944,Marketed Product,S,1 ML Hydrocortisone 2 MG/ML Oral Suspension by Drug Tariff Special Order,Drug
-1 ML Hydrocortisone 1 MG/ML Oral Solution by Drug Tariff Special Order,35777766,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP2779227,Marketed Product,S,1 ML Hydrocortisone 1 MG/ML Oral Solution by Drug Tariff Special Order,Drug
+1 ML Hydrocortisone 6 MG/ML Oral Suspension,35775956,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2777417,Quant Clinical Drug,S,1 ML Hydrocortisone 6 MG/ML Oral Suspension,Drug
+1 ML Hydrocortisone 3.6 MG/ML Oral Suspension,35776494,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2777955,Quant Clinical Drug,S,1 ML Hydrocortisone 3.6 MG/ML Oral Suspension,Drug
+1 ML Hydrocortisone 1 MG/ML Oral Suspension by Drug Tariff Special Order,35776631,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2778092,Marketed Product,S,1 ML Hydrocortisone 1 MG/ML Oral Suspension by Drug Tariff Special Order,Drug
+1 ML Hydrocortisone 3 MG/ML Oral Suspension,35777050,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2778511,Quant Clinical Drug,S,1 ML Hydrocortisone 3 MG/ML Oral Suspension,Drug
+1 ML Hydrocortisone 4 MG/ML Oral Suspension,35777331,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2778792,Quant Clinical Drug,S,1 ML Hydrocortisone 4 MG/ML Oral Suspension,Drug
+1 ML Hydrocortisone 2 MG/ML Oral Suspension by Drug Tariff Special Order,35777483,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2778944,Marketed Product,S,1 ML Hydrocortisone 2 MG/ML Oral Suspension by Drug Tariff Special Order,Drug
+1 ML Hydrocortisone 1 MG/ML Oral Solution by Drug Tariff Special Order,35777766,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP2779227,Marketed Product,S,1 ML Hydrocortisone 1 MG/ML Oral Solution by Drug Tariff Special Order,Drug
 hydrocortisone 20 MG Oral Tablet Box of 30 by Medihealth,35885557,TRUE,,12/7/2020,,RxNorm Extension,OMOP5032843,Marketed Product,S,hydrocortisone 20 MG Oral Tablet Box of 30 by Medihealth,Drug
 hydrocortisone 20 MG Oral Tablet by Medihealth,35885558,TRUE,,12/7/2020,,RxNorm Extension,OMOP5032844,Marketed Product,S,hydrocortisone 20 MG Oral Tablet by Medihealth,Drug
 hydrocortisone 10 MG Oral Tablet Box of 30 by Medihealth,35885559,TRUE,,12/7/2020,,RxNorm Extension,OMOP5032845,Marketed Product,S,hydrocortisone 10 MG Oral Tablet Box of 30 by Medihealth,Drug
@@ -398,9 +398,9 @@ hydrocortisone 10 MG Oral Tablet by Medihealth,35885560,TRUE,,12/7/2020,,RxNorm 
 hydrocortisone 2.5 MG Oral Tablet Box of 20 by Medihealth,35885561,TRUE,,12/7/2020,,RxNorm Extension,OMOP5032847,Marketed Product,S,hydrocortisone 2.5 MG Oral Tablet Box of 20 by Medihealth,Drug
 hydrocortisone 2.5 MG Oral Tablet by Medihealth,35885562,TRUE,,12/7/2020,,RxNorm Extension,OMOP5032848,Marketed Product,S,hydrocortisone 2.5 MG Oral Tablet by Medihealth,Drug
 Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 50 by Paranova Pack,42875920,TRUE,,1/15/2020,,RxNorm Extension,OMOP4873033,Marketed Product,S,Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 50 by Paranova Pack,Drug
-1 ML hydrocortisone 0.85 MG/ML Oral Suspension,36054286,TRUE,delete,8/17/2020,,RxNorm Extension,OMOP4979506,Quant Clinical Drug,S,1 ML hydrocortisone 0.85 MG/ML Oral Suspension,Drug
-1 ML hydrocortisone 2.79 MG/ML Oral Suspension,36054287,TRUE,delete,8/17/2020,,RxNorm Extension,OMOP4979507,Quant Clinical Drug,S,1 ML hydrocortisone 2.79 MG/ML Oral Suspension,Drug
-1 ML hydrocortisone 1.4 MG/ML Oral Suspension,36054288,TRUE,delete,8/17/2020,,RxNorm Extension,OMOP4979508,Quant Clinical Drug,S,1 ML hydrocortisone 1.4 MG/ML Oral Suspension,Drug
+1 ML hydrocortisone 0.85 MG/ML Oral Suspension,36054286,FALSE,delete,8/17/2020,,RxNorm Extension,OMOP4979506,Quant Clinical Drug,S,1 ML hydrocortisone 0.85 MG/ML Oral Suspension,Drug
+1 ML hydrocortisone 2.79 MG/ML Oral Suspension,36054287,FALSE,delete,8/17/2020,,RxNorm Extension,OMOP4979507,Quant Clinical Drug,S,1 ML hydrocortisone 2.79 MG/ML Oral Suspension,Drug
+1 ML hydrocortisone 1.4 MG/ML Oral Suspension,36054288,FALSE,delete,8/17/2020,,RxNorm Extension,OMOP4979508,Quant Clinical Drug,S,1 ML hydrocortisone 1.4 MG/ML Oral Suspension,Drug
 hydrocortisone 20 MG Oral Tablet Box of 30 by Accord,36056900,TRUE,,8/17/2020,,RxNorm Extension,OMOP4982363,Marketed Product,S,hydrocortisone 20 MG Oral Tablet Box of 30 by Accord,Drug
 hydrocortisone 20 MG Oral Tablet Box of 30 by NorthStar Healthcare Unlimited Company,36056981,TRUE,,8/17/2020,,RxNorm Extension,OMOP4982452,Marketed Product,S,hydrocortisone 20 MG Oral Tablet Box of 30 by NorthStar Healthcare Unlimited Company,Drug
 hydrocortisone 20 MG Oral Tablet Box of 30 by Mawdsley-Brooks,36056982,TRUE,,8/17/2020,,RxNorm Extension,OMOP4982453,Marketed Product,S,hydrocortisone 20 MG Oral Tablet Box of 30 by Mawdsley-Brooks,Drug
@@ -431,12 +431,12 @@ hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren] by CST,36073989,TRU
 hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren] by Originalis B.V.,36073990,TRUE,,8/17/2020,,RxNorm Extension,OMOP4982478,Marketed Product,S,hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren] by Originalis B.V.,Drug
 hydrocortisone 2.5 MG Oral Tablet Box of 20 by Mawdsley-Brooks,36073991,TRUE,,8/17/2020,,RxNorm Extension,OMOP4982479,Marketed Product,S,hydrocortisone 2.5 MG Oral Tablet Box of 20 by Mawdsley-Brooks,Drug
 hydrocortisone 2.5 MG Oral Tablet by Mawdsley-Brooks,36057005,TRUE,,8/17/2020,,RxNorm Extension,OMOP4982480,Marketed Product,S,hydrocortisone 2.5 MG Oral Tablet by Mawdsley-Brooks,Drug
-hydrocortisone 0.85 MG/ML Oral Suspension,36057008,TRUE,delete,8/17/2020,,RxNorm Extension,OMOP4982483,Clinical Drug,S,hydrocortisone 0.85 MG/ML Oral Suspension,Drug
-hydrocortisone 0.85 MG/ML,36073992,TRUE,delete,8/17/2020,,RxNorm Extension,OMOP4982484,Clinical Drug Comp,S,hydrocortisone 0.85 MG/ML,Drug
-hydrocortisone 2.79 MG/ML Oral Suspension,36057009,TRUE,delete,8/17/2020,,RxNorm Extension,OMOP4982485,Clinical Drug,S,hydrocortisone 2.79 MG/ML Oral Suspension,Drug
-hydrocortisone 2.79 MG/ML,36057010,TRUE,delete,8/17/2020,,RxNorm Extension,OMOP4982486,Clinical Drug Comp,S,hydrocortisone 2.79 MG/ML,Drug
-hydrocortisone 1.4 MG/ML Oral Suspension,36057011,TRUE,delete,8/17/2020,,RxNorm Extension,OMOP4982487,Clinical Drug,S,hydrocortisone 1.4 MG/ML Oral Suspension,Drug
-hydrocortisone 1.4 MG/ML,36057012,TRUE,delete,8/17/2020,,RxNorm Extension,OMOP4982488,Clinical Drug Comp,S,hydrocortisone 1.4 MG/ML,Drug
+hydrocortisone 0.85 MG/ML Oral Suspension,36057008,FALSE,delete,8/17/2020,,RxNorm Extension,OMOP4982483,Clinical Drug,S,hydrocortisone 0.85 MG/ML Oral Suspension,Drug
+hydrocortisone 0.85 MG/ML,36073992,FALSE,delete,8/17/2020,,RxNorm Extension,OMOP4982484,Clinical Drug Comp,S,hydrocortisone 0.85 MG/ML,Drug
+hydrocortisone 2.79 MG/ML Oral Suspension,36057009,FALSE,delete,8/17/2020,,RxNorm Extension,OMOP4982485,Clinical Drug,S,hydrocortisone 2.79 MG/ML Oral Suspension,Drug
+hydrocortisone 2.79 MG/ML,36057010,FALSE,delete,8/17/2020,,RxNorm Extension,OMOP4982486,Clinical Drug Comp,S,hydrocortisone 2.79 MG/ML,Drug
+hydrocortisone 1.4 MG/ML Oral Suspension,36057011,FALSE,delete,8/17/2020,,RxNorm Extension,OMOP4982487,Clinical Drug,S,hydrocortisone 1.4 MG/ML Oral Suspension,Drug
+hydrocortisone 1.4 MG/ML,36057012,FALSE,delete,8/17/2020,,RxNorm Extension,OMOP4982488,Clinical Drug Comp,S,hydrocortisone 1.4 MG/ML,Drug
 hydrocortisone Oral Tablet [Hydventia],36057014,TRUE,,8/17/2020,,RxNorm Extension,OMOP4982490,Branded Drug Form,S,hydrocortisone Oral Tablet [Hydventia],Drug
 Hydrocortisone 10 MG Oral Tablet Box of 25 by Sanofi,43032966,TRUE,,10/6/2019,,RxNorm Extension,OMOP4848013,Marketed Product,S,Hydrocortisone 10 MG Oral Tablet Box of 25 by Sanofi,Drug
 Hydrocortisone Oral Tablet [Cortril],35138307,TRUE,,3/11/2019,,RxNorm Extension,OMOP4795468,Branded Drug Form,S,Hydrocortisone Oral Tablet [Cortril],Drug
@@ -496,16 +496,16 @@ hydrocortisone Oral Tablet [ILYANG COTICO],2034703,TRUE,,7/31/2020,,RxNorm Exten
 hydrocortisone Oral Tablet [KODISONE],2034704,TRUE,,7/31/2020,,RxNorm Extension,OMOP4933825,Branded Drug Form,S,hydrocortisone Oral Tablet [KODISONE],Drug
 hydrocortisone Oral Tablet [KUKJE CORTISON],2034705,TRUE,,7/31/2020,,RxNorm Extension,OMOP4933826,Branded Drug Form,S,hydrocortisone Oral Tablet [KUKJE CORTISON],Drug
 hydrocortisone Oral Tablet [ROTISON],2034706,TRUE,,7/31/2020,,RxNorm Extension,OMOP4933827,Branded Drug Form,S,hydrocortisone Oral Tablet [ROTISON],Drug
-1000 MG Hydrocortisone 0.001 MG/MG Oral Suspension,43751587,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP729472,Quant Clinical Drug,S,1000 MG Hydrocortisone 0.001 MG/MG Oral Suspension,Drug
-1000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason],43823611,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP729473,Quant Branded Drug,S,1000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason],Drug
-1000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] by Astellas,43841724,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP729474,Marketed Product,S,1000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] by Astellas,Drug
-1000 MG Hydrocortisone 0.0025 MG/MG Oral Suspension,43589535,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP725264,Quant Clinical Drug,S,1000 MG Hydrocortisone 0.0025 MG/MG Oral Suspension,Drug
-1000 MG Hydrocortisone 0.0025 MG/MG Oral Suspension [Systral],43769507,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP725265,Quant Branded Drug,S,1000 MG Hydrocortisone 0.0025 MG/MG Oral Suspension [Systral],Drug
-1000 MG Hydrocortisone 0.0025 MG/MG Oral Suspension [Systral] by Meda,43787412,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP725266,Marketed Product,S,1000 MG Hydrocortisone 0.0025 MG/MG Oral Suspension [Systral] by Meda,Drug
+1000 MG Hydrocortisone 0.001 MG/MG Oral Suspension,43751587,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP729472,Quant Clinical Drug,S,1000 MG Hydrocortisone 0.001 MG/MG Oral Suspension,Drug
+1000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason],43823611,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP729473,Quant Branded Drug,S,1000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason],Drug
+1000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] by Astellas,43841724,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP729474,Marketed Product,S,1000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] by Astellas,Drug
+1000 MG Hydrocortisone 0.0025 MG/MG Oral Suspension,43589535,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP725264,Quant Clinical Drug,S,1000 MG Hydrocortisone 0.0025 MG/MG Oral Suspension,Drug
+1000 MG Hydrocortisone 0.0025 MG/MG Oral Suspension [Systral],43769507,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP725265,Quant Branded Drug,S,1000 MG Hydrocortisone 0.0025 MG/MG Oral Suspension [Systral],Drug
+1000 MG Hydrocortisone 0.0025 MG/MG Oral Suspension [Systral] by Meda,43787412,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP725266,Marketed Product,S,1000 MG Hydrocortisone 0.0025 MG/MG Oral Suspension [Systral] by Meda,Drug
 Hydrocortisone Oral Tablet [Hydrocortison Hoechst],43672489,TRUE,,8/24/2017,,RxNorm Extension,OMOP824290,Branded Drug Form,S,Hydrocortisone Oral Tablet [Hydrocortison Hoechst],Drug
 Hydrocortisone Oral Tablet [Hydrocortison Acis],43726122,TRUE,,8/24/2017,,RxNorm Extension,OMOP824301,Branded Drug Form,S,Hydrocortisone Oral Tablet [Hydrocortison Acis],Drug
 Hydrocortisone Oral Tablet [Hydrocortison Galen],43690351,TRUE,,8/24/2017,,RxNorm Extension,OMOP824323,Branded Drug Form,S,Hydrocortisone Oral Tablet [Hydrocortison Galen],Drug
-Hydrocortisone Oral Suspension [Systral],43816135,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP824726,Branded Drug Form,S,Hydrocortisone Oral Suspension [Systral],Drug
+Hydrocortisone Oral Suspension [Systral],43816135,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP824726,Branded Drug Form,S,Hydrocortisone Oral Suspension [Systral],Drug
 Hydrocortisone 10 MG [Hydrocortison Hoechst],43816136,TRUE,,8/24/2017,,RxNorm Extension,OMOP824769,Branded Drug Comp,S,Hydrocortisone 10 MG [Hydrocortison Hoechst],Drug
 Hydrocortisone 10 MG [Hydrocortison Acis],43582141,TRUE,,8/24/2017,,RxNorm Extension,OMOP824780,Branded Drug Comp,S,Hydrocortisone 10 MG [Hydrocortison Acis],Drug
 Hydrocortisone 10 MG [Hydrocortison Galen],43708184,TRUE,,8/24/2017,,RxNorm Extension,OMOP824802,Branded Drug Comp,S,Hydrocortisone 10 MG [Hydrocortison Galen],Drug
@@ -517,35 +517,35 @@ Hydrocortisone 10 MG Oral Tablet [Hydrocortison Acis] by Acis,43726125,TRUE,,8/2
 Hydrocortisone 10 MG Oral Tablet [Hydroson] by DermaPharm,43798085,TRUE,,8/24/2017,,RxNorm Extension,OMOP824890,Marketed Product,S,Hydrocortisone 10 MG Oral Tablet [Hydroson] by DermaPharm,Drug
 Hydrocortisone 10 MG Oral Tablet [Hydrocortison Galen],43762049,TRUE,,8/24/2017,,RxNorm Extension,OMOP824898,Branded Drug,S,Hydrocortisone 10 MG Oral Tablet [Hydrocortison Galen],Drug
 Hydrocortisone 10 MG Oral Tablet [Hydrocortison Galen] by Galen,43600173,TRUE,,8/24/2017,,RxNorm Extension,OMOP824904,Marketed Product,S,Hydrocortisone 10 MG Oral Tablet [Hydrocortison Galen] by Galen,Drug
-Hydrocortisone 2.5 MG/ML [Systral],43762051,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP825300,Branded Drug Comp,S,Hydrocortisone 2.5 MG/ML [Systral],Drug
-Hydrocortisone 2.5 MG/ML Oral Suspension [Systral],43780121,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP825321,Branded Drug,S,Hydrocortisone 2.5 MG/ML Oral Suspension [Systral],Drug
-Hydrocortisone 0.0025 MG/MG [Systral],43834326,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP825427,Branded Drug Comp,S,Hydrocortisone 0.0025 MG/MG [Systral],Drug
-Hydrocortisone 0.0025 MG/MG Oral Suspension [Systral],43744203,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP825448,Branded Drug,S,Hydrocortisone 0.0025 MG/MG Oral Suspension [Systral],Drug
+Hydrocortisone 2.5 MG/ML [Systral],43762051,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP825300,Branded Drug Comp,S,Hydrocortisone 2.5 MG/ML [Systral],Drug
+Hydrocortisone 2.5 MG/ML Oral Suspension [Systral],43780121,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP825321,Branded Drug,S,Hydrocortisone 2.5 MG/ML Oral Suspension [Systral],Drug
+Hydrocortisone 0.0025 MG/MG [Systral],43834326,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP825427,Branded Drug Comp,S,Hydrocortisone 0.0025 MG/MG [Systral],Drug
+Hydrocortisone 0.0025 MG/MG Oral Suspension [Systral],43744203,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP825448,Branded Drug,S,Hydrocortisone 0.0025 MG/MG Oral Suspension [Systral],Drug
 Hydrocortisone 20 MG [Hydrocortison Acis],43654346,TRUE,,8/24/2017,,RxNorm Extension,OMOP826000,Branded Drug Comp,S,Hydrocortisone 20 MG [Hydrocortison Acis],Drug
 Hydrocortisone 20 MG Oral Tablet by Mibe,43600178,TRUE,,8/24/2017,,RxNorm Extension,OMOP826021,Marketed Product,S,Hydrocortisone 20 MG Oral Tablet by Mibe,Drug
 Hydrocortisone 20 MG Oral Tablet [Hydrocortison Acis],43762054,TRUE,,8/24/2017,,RxNorm Extension,OMOP826032,Branded Drug,S,Hydrocortisone 20 MG Oral Tablet [Hydrocortison Acis],Drug
 Hydrocortisone 20 MG Oral Tablet [Hydrocortison Acis] by Acis,43582147,TRUE,,8/24/2017,,RxNorm Extension,OMOP826043,Marketed Product,S,Hydrocortisone 20 MG Oral Tablet [Hydrocortison Acis] by Acis,Drug
 Hydrocortisone 5 MG/ML [Hydrocortison Hoechst],43600183,TRUE,,8/24/2017,,RxNorm Extension,OMOP826560,Branded Drug Comp,S,Hydrocortisone 5 MG/ML [Hydrocortison Hoechst],Drug
-25 ML Hydrocortisone 2.5 MG/ML Oral Suspension,43701070,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP799911,Quant Clinical Drug,S,25 ML Hydrocortisone 2.5 MG/ML Oral Suspension,Drug
-25 ML Hydrocortisone 2.5 MG/ML Oral Suspension [Systral],43844951,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP799912,Quant Branded Drug,S,25 ML Hydrocortisone 2.5 MG/ML Oral Suspension [Systral],Drug
-25 ML Hydrocortisone 2.5 MG/ML Oral Suspension [Systral] by Meda,43665157,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP799913,Marketed Product,S,25 ML Hydrocortisone 2.5 MG/ML Oral Suspension [Systral] by Meda,Drug
-30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension Box of 10,43665234,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP803088,Quant Clinical Box,S,30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension Box of 10,Drug
-30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension Box of 30,43665235,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP803089,Quant Clinical Box,S,30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension Box of 30,Drug
-30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason],43683119,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP803090,Quant Branded Drug,S,30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason],Drug
-30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] by Astellas,43665236,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP803091,Marketed Product,S,30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] by Astellas,Drug
-30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 10,43754901,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP803092,Quant Branded Box,S,30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 10,Drug
-30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 10 by Astellas,43845018,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP803093,Marketed Product,S,30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 10 by Astellas,Drug
-30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 30,43863216,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP803094,Quant Branded Box,S,30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 30,Drug
-30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 30 by Astellas,43701150,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP803096,Marketed Product,S,30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 30 by Astellas,Drug
-50 ML Hydrocortisone 2.5 MG/ML Oral Suspension,43683656,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP809987,Quant Clinical Drug,S,50 ML Hydrocortisone 2.5 MG/ML Oral Suspension,Drug
-50 ML Hydrocortisone 2.5 MG/ML Oral Suspension [Systral],43791277,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP809988,Quant Branded Drug,S,50 ML Hydrocortisone 2.5 MG/ML Oral Suspension [Systral],Drug
-50 ML Hydrocortisone 2.5 MG/ML Oral Suspension [Systral] by Meda,43611474,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP809989,Marketed Product,S,50 ML Hydrocortisone 2.5 MG/ML Oral Suspension [Systral] by Meda,Drug
-100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension,43757035,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP834841,Quant Clinical Drug,S,100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension,Drug
-100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension Box of 100,43829056,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP834842,Quant Clinical Box,S,100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension Box of 100,Drug
-100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason],43667355,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP834843,Quant Branded Drug,S,100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason],Drug
-100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] by Astellas,43595145,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP834844,Marketed Product,S,100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] by Astellas,Drug
-100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 100,43685286,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP834845,Quant Branded Box,S,100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 100,Drug
-100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 100 by Astellas,43792883,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP834847,Marketed Product,S,100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 100 by Astellas,Drug
+25 ML Hydrocortisone 2.5 MG/ML Oral Suspension,43701070,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP799911,Quant Clinical Drug,S,25 ML Hydrocortisone 2.5 MG/ML Oral Suspension,Drug
+25 ML Hydrocortisone 2.5 MG/ML Oral Suspension [Systral],43844951,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP799912,Quant Branded Drug,S,25 ML Hydrocortisone 2.5 MG/ML Oral Suspension [Systral],Drug
+25 ML Hydrocortisone 2.5 MG/ML Oral Suspension [Systral] by Meda,43665157,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP799913,Marketed Product,S,25 ML Hydrocortisone 2.5 MG/ML Oral Suspension [Systral] by Meda,Drug
+30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension Box of 10,43665234,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP803088,Quant Clinical Box,S,30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension Box of 10,Drug
+30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension Box of 30,43665235,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP803089,Quant Clinical Box,S,30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension Box of 30,Drug
+30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason],43683119,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP803090,Quant Branded Drug,S,30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason],Drug
+30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] by Astellas,43665236,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP803091,Marketed Product,S,30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] by Astellas,Drug
+30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 10,43754901,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP803092,Quant Branded Box,S,30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 10,Drug
+30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 10 by Astellas,43845018,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP803093,Marketed Product,S,30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 10 by Astellas,Drug
+30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 30,43863216,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP803094,Quant Branded Box,S,30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 30,Drug
+30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 30 by Astellas,43701150,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP803096,Marketed Product,S,30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 30 by Astellas,Drug
+50 ML Hydrocortisone 2.5 MG/ML Oral Suspension,43683656,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP809987,Quant Clinical Drug,S,50 ML Hydrocortisone 2.5 MG/ML Oral Suspension,Drug
+50 ML Hydrocortisone 2.5 MG/ML Oral Suspension [Systral],43791277,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP809988,Quant Branded Drug,S,50 ML Hydrocortisone 2.5 MG/ML Oral Suspension [Systral],Drug
+50 ML Hydrocortisone 2.5 MG/ML Oral Suspension [Systral] by Meda,43611474,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP809989,Marketed Product,S,50 ML Hydrocortisone 2.5 MG/ML Oral Suspension [Systral] by Meda,Drug
+100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension,43757035,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP834841,Quant Clinical Drug,S,100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension,Drug
+100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension Box of 100,43829056,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP834842,Quant Clinical Box,S,100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension Box of 100,Drug
+100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason],43667355,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP834843,Quant Branded Drug,S,100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason],Drug
+100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] by Astellas,43595145,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP834844,Marketed Product,S,100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] by Astellas,Drug
+100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 100,43685286,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP834845,Quant Branded Box,S,100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 100,Drug
+100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 100 by Astellas,43792883,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP834847,Marketed Product,S,100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 100 by Astellas,Drug
 Hydrocortisone 10 MG [Cortril],35130619,TRUE,,3/11/2019,,RxNorm Extension,OMOP4787868,Branded Drug Comp,S,Hydrocortisone 10 MG [Cortril],Drug
 Hydrocortisone 10 MG Oral Tablet [Cortril],35130902,TRUE,,3/11/2019,,RxNorm Extension,OMOP4788149,Branded Drug,S,Hydrocortisone 10 MG Oral Tablet [Cortril],Drug
 Hydrocortisone 5 MG Oral Solution by Diurnal,37593177,TRUE,,1/17/2019,,RxNorm Extension,OMOP4782616,Marketed Product,S,Hydrocortisone 5 MG Oral Solution by Diurnal,Drug
@@ -608,37 +608,37 @@ Hydrocortisone 20 MG Oral Tablet [Plenadren] Box of 100 by Orifarm Leverkus,4417
 1 ML Hydrocortisone 0.2 MG/ML Oral Suspension,21116757,TRUE,,8/24/2017,,RxNorm Extension,OMOP298717,Quant Clinical Drug,S,1 ML Hydrocortisone 0.2 MG/ML Oral Suspension,Drug
 1 ML Hydrocortisone 0.8 MG/ML Oral Suspension,21136381,TRUE,,8/24/2017,,RxNorm Extension,OMOP298720,Quant Clinical Drug,S,1 ML Hydrocortisone 0.8 MG/ML Oral Suspension,Drug
 1 ML Hydrocortisone 20 MG/ML Oral Suspension,21126522,TRUE,,8/24/2017,,RxNorm Extension,OMOP298733,Quant Clinical Drug,S,1 ML Hydrocortisone 20 MG/ML Oral Suspension,Drug
-1000 MG Hydrocortisone 0.0009 MG/MG Oral Suspension,21048119,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP298739,Quant Clinical Drug,S,1000 MG Hydrocortisone 0.0009 MG/MG Oral Suspension,Drug
-1 ML Hydrocortisone 0.01 MG/ML Oral Suspension,21077649,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP298742,Quant Clinical Drug,S,1 ML Hydrocortisone 0.01 MG/ML Oral Suspension,Drug
+1000 MG Hydrocortisone 0.0009 MG/MG Oral Suspension,21048119,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP298739,Quant Clinical Drug,S,1000 MG Hydrocortisone 0.0009 MG/MG Oral Suspension,Drug
+1 ML Hydrocortisone 0.01 MG/ML Oral Suspension,21077649,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP298742,Quant Clinical Drug,S,1 ML Hydrocortisone 0.01 MG/ML Oral Suspension,Drug
 1 ML Hydrocortisone 10 MG/ML Oral Suspension,21038289,TRUE,,8/24/2017,,RxNorm Extension,OMOP298744,Quant Clinical Drug,S,1 ML Hydrocortisone 10 MG/ML Oral Suspension,Drug
-1 ML Hydrocortisone 0.017 MG/ML Oral Suspension,21156225,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP298748,Quant Clinical Drug,S,1 ML Hydrocortisone 0.017 MG/ML Oral Suspension,Drug
+1 ML Hydrocortisone 0.017 MG/ML Oral Suspension,21156225,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP298748,Quant Clinical Drug,S,1 ML Hydrocortisone 0.017 MG/ML Oral Suspension,Drug
 1 ML Hydrocortisone 5 MG/ML Oral Suspension,21165994,TRUE,,8/24/2017,,RxNorm Extension,OMOP298750,Quant Clinical Drug,S,1 ML Hydrocortisone 5 MG/ML Oral Suspension,Drug
-1 ML Hydrocortisone 0.72 MG/ML Oral Suspension,21107021,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP298753,Quant Clinical Drug,S,1 ML Hydrocortisone 0.72 MG/ML Oral Suspension,Drug
+1 ML Hydrocortisone 0.72 MG/ML Oral Suspension,21107021,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP298753,Quant Clinical Drug,S,1 ML Hydrocortisone 0.72 MG/ML Oral Suspension,Drug
 1 ML Hydrocortisone 1 MG/ML Oral Solution,21067791,TRUE,,8/24/2017,,RxNorm Extension,OMOP298755,Quant Clinical Drug,S,1 ML Hydrocortisone 1 MG/ML Oral Solution,Drug
 1 ML Hydrocortisone 1 MG/ML Oral Suspension,21175732,TRUE,,8/24/2017,,RxNorm Extension,OMOP298757,Quant Clinical Drug,S,1 ML Hydrocortisone 1 MG/ML Oral Suspension,Drug
-1 ML Hydrocortisone 0.4 MG/ML Oral Suspension,21156226,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP298760,Quant Clinical Drug,S,1 ML Hydrocortisone 0.4 MG/ML Oral Suspension,Drug
+1 ML Hydrocortisone 0.4 MG/ML Oral Suspension,21156226,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP298760,Quant Clinical Drug,S,1 ML Hydrocortisone 0.4 MG/ML Oral Suspension,Drug
 1 ML Hydrocortisone 1.25 MG/ML Oral Suspension,21067792,TRUE,,8/24/2017,,RxNorm Extension,OMOP298763,Quant Clinical Drug,S,1 ML Hydrocortisone 1.25 MG/ML Oral Suspension,Drug
 1 ML Hydrocortisone 1.5 MG/ML Oral Suspension,21116761,TRUE,,8/24/2017,,RxNorm Extension,OMOP298767,Quant Clinical Drug,S,1 ML Hydrocortisone 1.5 MG/ML Oral Suspension,Drug
 1 ML Hydrocortisone 2 MG/ML Oral Suspension,21146255,TRUE,,8/24/2017,,RxNorm Extension,OMOP298769,Quant Clinical Drug,S,1 ML Hydrocortisone 2 MG/ML Oral Suspension,Drug
 1 ML Hydrocortisone 0.6 MG/ML Oral Suspension,21126525,TRUE,,8/24/2017,,RxNorm Extension,OMOP298771,Quant Clinical Drug,S,1 ML Hydrocortisone 0.6 MG/ML Oral Suspension,Drug
-1000 MG Hydrocortisone 0.004 MG/MG Oral Suspension,21028499,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP298774,Quant Clinical Drug,S,1000 MG Hydrocortisone 0.004 MG/MG Oral Suspension,Drug
-1 ML Hydrocortisone 0.3 MG/ML Oral Suspension,21116762,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP298780,Quant Clinical Drug,S,1 ML Hydrocortisone 0.3 MG/ML Oral Suspension,Drug
-1000 MG Hydrocortisone 0.0033 MG/MG Oral Suspension,21087353,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP298782,Quant Clinical Drug,S,1000 MG Hydrocortisone 0.0033 MG/MG Oral Suspension,Drug
-1000 MG Hydrocortisone 0.0055 MG/MG Oral Suspension,21165996,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP298785,Quant Clinical Drug,S,1000 MG Hydrocortisone 0.0055 MG/MG Oral Suspension,Drug
+1000 MG Hydrocortisone 0.004 MG/MG Oral Suspension,21028499,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP298774,Quant Clinical Drug,S,1000 MG Hydrocortisone 0.004 MG/MG Oral Suspension,Drug
+1 ML Hydrocortisone 0.3 MG/ML Oral Suspension,21116762,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP298780,Quant Clinical Drug,S,1 ML Hydrocortisone 0.3 MG/ML Oral Suspension,Drug
+1000 MG Hydrocortisone 0.0033 MG/MG Oral Suspension,21087353,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP298782,Quant Clinical Drug,S,1000 MG Hydrocortisone 0.0033 MG/MG Oral Suspension,Drug
+1000 MG Hydrocortisone 0.0055 MG/MG Oral Suspension,21165996,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP298785,Quant Clinical Drug,S,1000 MG Hydrocortisone 0.0055 MG/MG Oral Suspension,Drug
 1 ML Hydrocortisone 15 MG/ML Oral Suspension,21028500,TRUE,,8/24/2017,,RxNorm Extension,OMOP298787,Quant Clinical Drug,S,1 ML Hydrocortisone 15 MG/ML Oral Suspension,Drug
 1 ML Hydrocortisone 0.5 MG/ML Oral Suspension,21028501,TRUE,,8/24/2017,,RxNorm Extension,OMOP298789,Quant Clinical Drug,S,1 ML Hydrocortisone 0.5 MG/ML Oral Suspension,Drug
-Hydrocortisone 0.01 MG/ML [Alfason],44160638,TRUE,delete,10/6/2017,,RxNorm Extension,OMOP3037361,Branded Drug Comp,S,Hydrocortisone 0.01 MG/ML [Alfason],Drug
+Hydrocortisone 0.01 MG/ML [Alfason],44160638,FALSE,delete,10/6/2017,,RxNorm Extension,OMOP3037361,Branded Drug Comp,S,Hydrocortisone 0.01 MG/ML [Alfason],Drug
 Hydrocortisone Oral Suspension [Alfason],43818094,TRUE,,8/24/2017,,RxNorm Extension,OMOP929677,Branded Drug Form,S,Hydrocortisone Oral Suspension [Alfason],Drug
 Hydrocortisone 1 MG/ML [Alfason],43818095,TRUE,,8/24/2017,,RxNorm Extension,OMOP929681,Branded Drug Comp,S,Hydrocortisone 1 MG/ML [Alfason],Drug
-Hydrocortisone 0.001 MG/MG Oral Suspension Box of 10,43818099,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP929715,Clinical Drug Box,S,Hydrocortisone 0.001 MG/MG Oral Suspension Box of 10,Drug
-Hydrocortisone 0.001 MG/MG Oral Suspension Box of 30,43674475,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP929716,Clinical Drug Box,S,Hydrocortisone 0.001 MG/MG Oral Suspension Box of 30,Drug
-Hydrocortisone 0.001 MG/MG Oral Suspension Box of 100,43746044,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP929717,Clinical Drug Box,S,Hydrocortisone 0.001 MG/MG Oral Suspension Box of 100,Drug
-Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason],43728123,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP929718,Branded Drug,S,Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason],Drug
-Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 10,43799978,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP929719,Branded Drug Box,S,Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 10,Drug
-Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 30,43638229,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP929720,Branded Drug Box,S,Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 30,Drug
-Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 100,43638230,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP929721,Branded Drug Box,S,Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 100,Drug
-Hydrocortisone 0.001 MG/MG Oral Suspension,36893667,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP988754,Clinical Drug,S,Hydrocortisone 0.001 MG/MG Oral Suspension,Drug
-30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension,36897402,TRUE,delete,8/24/2017,,RxNorm Extension,OMOP995301,Quant Clinical Drug,S,30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension,Drug
+Hydrocortisone 0.001 MG/MG Oral Suspension Box of 10,43818099,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP929715,Clinical Drug Box,S,Hydrocortisone 0.001 MG/MG Oral Suspension Box of 10,Drug
+Hydrocortisone 0.001 MG/MG Oral Suspension Box of 30,43674475,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP929716,Clinical Drug Box,S,Hydrocortisone 0.001 MG/MG Oral Suspension Box of 30,Drug
+Hydrocortisone 0.001 MG/MG Oral Suspension Box of 100,43746044,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP929717,Clinical Drug Box,S,Hydrocortisone 0.001 MG/MG Oral Suspension Box of 100,Drug
+Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason],43728123,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP929718,Branded Drug,S,Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason],Drug
+Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 10,43799978,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP929719,Branded Drug Box,S,Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 10,Drug
+Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 30,43638229,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP929720,Branded Drug Box,S,Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 30,Drug
+Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 100,43638230,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP929721,Branded Drug Box,S,Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 100,Drug
+Hydrocortisone 0.001 MG/MG Oral Suspension,36893667,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP988754,Clinical Drug,S,Hydrocortisone 0.001 MG/MG Oral Suspension,Drug
+30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension,36897402,FALSE,delete,8/24/2017,,RxNorm Extension,OMOP995301,Quant Clinical Drug,S,30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension,Drug
 Hydrocortisone Oral Tablet [Hysone],43288533,TRUE,,8/24/2017,,RxNorm Extension,OMOP534139,Branded Drug Form,S,Hydrocortisone Oral Tablet [Hysone],Drug
 Hydrocortisone 20 MG [Hysone],43288536,TRUE,,8/24/2017,,RxNorm Extension,OMOP534158,Branded Drug Comp,S,Hydrocortisone 20 MG [Hysone],Drug
 Hydrocortisone 20 MG Oral Tablet Box of 60,43266787,TRUE,,8/24/2017,,RxNorm Extension,OMOP534159,Clinical Drug Box,S,Hydrocortisone 20 MG Oral Tablet Box of 60,Drug
