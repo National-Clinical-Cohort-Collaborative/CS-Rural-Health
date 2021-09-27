@@ -272,9 +272,21 @@ jsonlite::write_json(
 
 names(paths) |>
   purrr::walk(
-    {\(cs)
+    {
+      \(cs)
       ds_items |>
         dplyr::filter(concept.codeset == cs) |>
+        dplyr::select(
+          # concept.codeset
+          concept           = concept.concept,
+          isExcluded,
+          includeDescendants,
+          includeMapped,
+        ) |>
+        {
+          \(i)
+          list(items = i)
+        } |>
         jsonlite::write_json(
           path    = sprintf(config$directory_codeset_output_template, cs),
           pretty  = TRUE
