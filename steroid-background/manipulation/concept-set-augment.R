@@ -25,8 +25,8 @@ config    <- config::get()
 # OuhscMunge::readr_spec_aligned("concept-sets/input/dexamethasone.csv")
 col_types <- readr::cols_only(
   # `Concept Name`        = readr::col_character(),
-  `concept_id`          = readr::col_integer(),
-  `desired`             = readr::col_logical()
+  `concept_id`              = readr::col_integer(),
+  `keep_entry_in_codeset`   = readr::col_logical()
   # `Valid Start Date`    = readr::col_date(format = ""),
   # `Invalid Reason`      = readr::col_logical(),
   # `Vocabulary Id`       = readr::col_character(),
@@ -110,7 +110,7 @@ ds_csm <-
     .id = "codeset"
   ) |>
   tidyr::drop_na(concept_id) |>
-  dplyr::filter(desired) |>
+  dplyr::filter(keep_entry_in_codeset) |>
   # dplyr::mutate(
   #   codeset = fs::path_ext_remove(fs::path_file(source)),
   # ) |>
