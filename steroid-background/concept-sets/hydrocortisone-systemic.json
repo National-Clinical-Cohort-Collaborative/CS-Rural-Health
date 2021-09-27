@@ -1,7 +1,6 @@
 [
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 792831,
       "concept_name": "hydrocortisone 0.005 MG/MG [Cortizone]",
       "standard_concept": "S",
@@ -17,8 +16,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 792834,
       "concept_name": "hydrocortisone 5 MG/ML [Cortizone]",
       "standard_concept": "S",
@@ -34,8 +32,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 792836,
       "concept_name": "hydrocortisone 0.01 MG/MG [Cortizone]",
       "standard_concept": "S",
@@ -51,8 +48,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 792838,
       "concept_name": "hydrocortisone 10 MG/ML [Cortizone]",
       "standard_concept": "S",
@@ -68,8 +64,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975125,
       "concept_name": "hydrocortisone",
       "standard_concept": "S",
@@ -85,8 +80,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975168,
       "concept_name": "hydrocortisone 10 MG Oral Tablet",
       "standard_concept": "S",
@@ -102,8 +96,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975169,
       "concept_name": "hydrocortisone 20 MG Oral Tablet",
       "standard_concept": "S",
@@ -119,8 +112,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975193,
       "concept_name": "hydrocortisone 5 MG Oral Tablet",
       "standard_concept": "S",
@@ -136,8 +128,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975504,
       "concept_name": "hydrocortisone 25 MG/ML Injectable Suspension",
       "standard_concept": "S",
@@ -153,8 +144,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975505,
       "concept_name": "hydrocortisone 100 MG Injection",
       "standard_concept": "S",
@@ -170,8 +160,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975588,
       "concept_name": "hydrocortisone 2.5 MG Oral Tablet",
       "standard_concept": "S",
@@ -187,8 +176,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975926,
       "concept_name": "hydrocortisone 5 MG",
       "standard_concept": "S",
@@ -204,8 +192,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975928,
       "concept_name": "hydrocortisone 5 MG/ML",
       "standard_concept": "S",
@@ -221,8 +208,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975929,
       "concept_name": "hydrocortisone 50 MG/ML",
       "standard_concept": "S",
@@ -238,8 +224,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975931,
       "concept_name": "hydrocortisone 0.0025 MG/MG",
       "standard_concept": "S",
@@ -255,8 +240,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975952,
       "concept_name": "hydrocortisone 15 MG/ML",
       "standard_concept": "S",
@@ -272,8 +256,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975953,
       "concept_name": "hydrocortisone 1 MG/MG",
       "standard_concept": "S",
@@ -289,8 +272,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975954,
       "concept_name": "hydrocortisone 1.67 MG/ML",
       "standard_concept": "S",
@@ -306,8 +288,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975955,
       "concept_name": "hydrocortisone 0.1 MG/MG",
       "standard_concept": "S",
@@ -323,8 +304,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975984,
       "concept_name": "hydrocortisone 0.5 MG/ML",
       "standard_concept": "S",
@@ -340,8 +320,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975985,
       "concept_name": "hydrocortisone 2.5 MG",
       "standard_concept": "S",
@@ -357,8 +336,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 976014,
       "concept_name": "hydrocortisone 2.5 MG/ML",
       "standard_concept": "S",
@@ -374,8 +352,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 976015,
       "concept_name": "hydrocortisone 20 MG/ML",
       "standard_concept": "S",
@@ -391,8 +368,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 976016,
       "concept_name": "hydrocortisone 1.27 MG/ML",
       "standard_concept": "S",
@@ -408,8 +384,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 976017,
       "concept_name": "hydrocortisone 1.25 MG/ML",
       "standard_concept": "S",
@@ -425,8 +400,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1592221,
       "concept_name": "gentamicin sulfate 1.5 MG/ML / hydrocortisone aceponate 1.11 MG/ML / miconazole nitrate 15.1 MG/ML [Easotic]",
       "standard_concept": "S",
@@ -442,8 +416,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19006964,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [Hydrocortone]",
       "standard_concept": "S",
@@ -459,8 +432,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19006965,
       "concept_name": "hydrocortisone 20 MG Oral Tablet [Hydrocortone]",
       "standard_concept": "S",
@@ -476,8 +448,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19006966,
       "concept_name": "hydrocortisone 100 MG/ML Injectable Solution [Efcortesol]",
       "standard_concept": "S",
@@ -493,8 +464,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19006967,
       "concept_name": "hydrocortisone 100 MG Injection [Solu-Cortef]",
       "standard_concept": "S",
@@ -510,8 +480,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19020402,
       "concept_name": "hydrocortisone 25 MG/ML [Anusol HC]",
       "standard_concept": "S",
@@ -527,8 +496,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19021571,
       "concept_name": "hydrocortisone 4 MG Oral Tablet",
       "standard_concept": "S",
@@ -544,8 +512,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19023479,
       "concept_name": "hydrocortisone 20 MG/ML [Coraz]",
       "standard_concept": "S",
@@ -561,8 +528,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19028399,
       "concept_name": "hydrocortisone 5 MG/ML [Massengill]",
       "standard_concept": "S",
@@ -578,8 +544,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19039286,
       "concept_name": "hydrocortisone 5 MG Oral Tablet [Cortef]",
       "standard_concept": "S",
@@ -595,8 +560,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19039383,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [Cortef]",
       "standard_concept": "S",
@@ -612,8 +576,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19039743,
       "concept_name": "hydrocortisone 20 MG Oral Tablet [Cortef]",
       "standard_concept": "S",
@@ -629,8 +592,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19040156,
       "concept_name": "hydrocortisone 100 MG Injection [A-Hydrocort]",
       "standard_concept": "S",
@@ -646,8 +608,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19040967,
       "concept_name": "hydrocortisone 2 MG/ML Oral Suspension [Cortef]",
       "standard_concept": "S",
@@ -663,8 +624,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043315,
       "concept_name": "hydrocortisone 5 MG [Cortef]",
       "standard_concept": "S",
@@ -680,8 +640,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043316,
       "concept_name": "hydrocortisone 10 MG [Cortef]",
       "standard_concept": "S",
@@ -697,8 +656,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043317,
       "concept_name": "hydrocortisone 20 MG [Cortef]",
       "standard_concept": "S",
@@ -714,8 +672,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043318,
       "concept_name": "hydrocortisone 2 MG/ML [Cortef]",
       "standard_concept": "S",
@@ -731,8 +688,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043320,
       "concept_name": "hydrocortisone 10 MG/ML [Dermacort]",
       "standard_concept": "S",
@@ -748,8 +704,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043346,
       "concept_name": "hydrocortisone 25 MG/ML [Hytone]",
       "standard_concept": "S",
@@ -765,8 +720,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043347,
       "concept_name": "hydrocortisone 0.01 MG/MG [Hytone]",
       "standard_concept": "S",
@@ -782,8 +736,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043348,
       "concept_name": "hydrocortisone 0.025 MG/MG [Hytone]",
       "standard_concept": "S",
@@ -799,8 +752,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043349,
       "concept_name": "hydrocortisone 10 MG/ML [Hytone]",
       "standard_concept": "S",
@@ -816,8 +768,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043371,
       "concept_name": "hydrocortisone 25 MG/ML [Nutracort]",
       "standard_concept": "S",
@@ -833,8 +784,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043372,
       "concept_name": "hydrocortisone 10 MG/ML [Nutracort]",
       "standard_concept": "S",
@@ -850,8 +800,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043374,
       "concept_name": "hydrocortisone 10 MG/ML [Proctocort]",
       "standard_concept": "S",
@@ -867,8 +816,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043850,
       "concept_name": "hydrocortisone 20 MG/ML [Nucort]",
       "standard_concept": "S",
@@ -884,8 +832,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19059580,
       "concept_name": "hydrocortisone 10 MG/ML [Cortaid]",
       "standard_concept": "S",
@@ -901,8 +848,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19059601,
       "concept_name": "hydrocortisone 5 MG/ML [Cortaid]",
       "standard_concept": "S",
@@ -918,8 +864,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19059604,
       "concept_name": "hydrocortisone 10 MG/ML [Cortane]",
       "standard_concept": "S",
@@ -935,8 +880,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19063670,
       "concept_name": "hydrocortisone 100 MG/ML Injectable Solution",
       "standard_concept": "S",
@@ -952,8 +896,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19066846,
       "concept_name": "hydrocortisone 5 MG/ML [Genasone/Aloe]",
       "standard_concept": "S",
@@ -969,8 +912,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19067155,
       "concept_name": "hydrocortisone 10 MG/ML [Gly-Cort]",
       "standard_concept": "S",
@@ -986,8 +928,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19078350,
       "concept_name": "hydrocortisone 2 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -1003,8 +944,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19081460,
       "concept_name": "hydrocortisone 10 MG",
       "standard_concept": "S",
@@ -1020,8 +960,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19081471,
       "concept_name": "hydrocortisone 10 MG/ML",
       "standard_concept": "S",
@@ -1037,8 +976,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19081472,
       "concept_name": "hydrocortisone 20 MG",
       "standard_concept": "S",
@@ -1054,8 +992,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19083661,
       "concept_name": "hydrocortisone 1 MG/ML",
       "standard_concept": "S",
@@ -1071,8 +1008,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19085298,
       "concept_name": "hydrocortisone 25 MG/ML",
       "standard_concept": "S",
@@ -1088,8 +1024,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19085928,
       "concept_name": "hydrocortisone 15 MG",
       "standard_concept": "S",
@@ -1105,8 +1040,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19086249,
       "concept_name": "hydrocortisone 2 MG/ML",
       "standard_concept": "S",
@@ -1122,8 +1056,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19088174,
       "concept_name": "hydrocortisone 4 MG",
       "standard_concept": "S",
@@ -1139,8 +1072,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19091192,
       "concept_name": "hydrocortisone 40 MG",
       "standard_concept": "S",
@@ -1156,8 +1088,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19093653,
       "concept_name": "hydrocortisone 100 MG/ML",
       "standard_concept": "S",
@@ -1173,8 +1104,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19109288,
       "concept_name": "hydrocortisone 30 MG/ML",
       "standard_concept": "S",
@@ -1190,8 +1120,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19110325,
       "concept_name": "hydrocortisone 40 MG/ML",
       "standard_concept": "S",
@@ -1207,8 +1136,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19110892,
       "concept_name": "hydrocortisone 250 MG",
       "standard_concept": "S",
@@ -1224,8 +1152,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19116155,
       "concept_name": "hydrocortisone 10 MG [Hydrocortone]",
       "standard_concept": "S",
@@ -1241,8 +1168,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19116156,
       "concept_name": "hydrocortisone 20 MG [Hydrocortone]",
       "standard_concept": "S",
@@ -1258,8 +1184,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19116157,
       "concept_name": "hydrocortisone 100 MG/ML [Efcortesol]",
       "standard_concept": "S",
@@ -1275,8 +1200,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19117813,
       "concept_name": "hydrocortisone 10 MG/ML [Efcortelan]",
       "standard_concept": "S",
@@ -1292,8 +1216,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19118099,
       "concept_name": "hydrocortisone 10 MG/ML [Texacort]",
       "standard_concept": "S",
@@ -1309,8 +1232,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19118100,
       "concept_name": "hydrocortisone 10 MG/ML [Theracort]",
       "standard_concept": "S",
@@ -1326,8 +1248,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19118101,
       "concept_name": "hydrocortisone 1 MG/ML [Dermtex HC]",
       "standard_concept": "S",
@@ -1343,8 +1264,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19118103,
       "concept_name": "hydrocortisone 10 MG/ML [Dermol HC]",
       "standard_concept": "S",
@@ -1360,8 +1280,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19118108,
       "concept_name": "hydrocortisone 10 MG/ML [Instacort 10]",
       "standard_concept": "S",
@@ -1377,8 +1296,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19118110,
       "concept_name": "hydrocortisone 10 MG/ML [Nogenic HC]",
       "standard_concept": "S",
@@ -1394,8 +1312,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19118111,
       "concept_name": "hydrocortisone 10 MG/ML [Procort]",
       "standard_concept": "S",
@@ -1411,8 +1328,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19118112,
       "concept_name": "hydrocortisone 10 MG/ML [Cetacort]",
       "standard_concept": "S",
@@ -1428,8 +1344,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19120577,
       "concept_name": "hydrocortisone 10 MG/ML [Preparation H Hydrocortisone]",
       "standard_concept": "S",
@@ -1445,8 +1360,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19132093,
       "concept_name": "hydrocortisone 25 MG/ML [Hydrocortone]",
       "standard_concept": "S",
@@ -1462,8 +1376,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19132094,
       "concept_name": "hydrocortisone 25 MG/ML Injectable Suspension [Hydrocortone]",
       "standard_concept": "S",
@@ -1479,8 +1392,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19133287,
       "concept_name": "hydrocortisone acetate 10 MG/ML",
       "standard_concept": "S",
@@ -1496,8 +1408,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19133538,
       "concept_name": "hydrocortisone 20 MG/ML [Scalacort]",
       "standard_concept": "S",
@@ -1513,8 +1424,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35604728,
       "concept_name": "hydrocortisone 1000 MG",
       "standard_concept": "S",
@@ -1530,8 +1440,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35604729,
       "concept_name": "hydrocortisone Injection",
       "standard_concept": "S",
@@ -1547,8 +1456,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35604730,
       "concept_name": "hydrocortisone 1000 MG Injection",
       "standard_concept": "S",
@@ -1564,8 +1472,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35604731,
       "concept_name": "hydrocortisone 1000 MG [Solu-Cortef]",
       "standard_concept": "S",
@@ -1581,8 +1488,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35604732,
       "concept_name": "hydrocortisone Injection [Solu-Cortef]",
       "standard_concept": "S",
@@ -1598,8 +1504,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35604733,
       "concept_name": "hydrocortisone 1000 MG Injection [Solu-Cortef]",
       "standard_concept": "S",
@@ -1615,8 +1520,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35604734,
       "concept_name": "hydrocortisone 250 MG Injection",
       "standard_concept": "S",
@@ -1632,8 +1536,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35604735,
       "concept_name": "hydrocortisone 250 MG [Solu-Cortef]",
       "standard_concept": "S",
@@ -1649,8 +1552,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35604736,
       "concept_name": "hydrocortisone 250 MG Injection [Solu-Cortef]",
       "standard_concept": "S",
@@ -1666,8 +1568,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35604737,
       "concept_name": "hydrocortisone 500 MG",
       "standard_concept": "S",
@@ -1683,8 +1584,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35604738,
       "concept_name": "hydrocortisone 500 MG Injection",
       "standard_concept": "S",
@@ -1700,8 +1600,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35604739,
       "concept_name": "hydrocortisone 500 MG [Solu-Cortef]",
       "standard_concept": "S",
@@ -1717,8 +1616,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35604740,
       "concept_name": "hydrocortisone 500 MG Injection [Solu-Cortef]",
       "standard_concept": "S",
@@ -1734,8 +1632,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35604741,
       "concept_name": "hydrocortisone 100 MG",
       "standard_concept": "S",
@@ -1751,8 +1648,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35604742,
       "concept_name": "hydrocortisone 100 MG [Solu-Cortef]",
       "standard_concept": "S",
@@ -1768,8 +1664,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35604743,
       "concept_name": "hydrocortisone 100 MG [A-Hydrocort]",
       "standard_concept": "S",
@@ -1785,8 +1680,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35604744,
       "concept_name": "hydrocortisone Injection [A-Hydrocort]",
       "standard_concept": "S",
@@ -1802,8 +1696,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35605214,
       "concept_name": "hydrocortisone 25 MG/ML [Ala-Cort]",
       "standard_concept": "S",
@@ -1819,8 +1712,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40049686,
       "concept_name": "hydrocortisone Injectable Solution",
       "standard_concept": "S",
@@ -1836,8 +1728,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40049688,
       "concept_name": "hydrocortisone Injectable Solution [Efcortesol]",
       "standard_concept": "S",
@@ -1853,8 +1744,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40049691,
       "concept_name": "hydrocortisone Injectable Suspension",
       "standard_concept": "S",
@@ -1870,8 +1760,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40049692,
       "concept_name": "hydrocortisone Injectable Suspension [Hydrocortone Acetate]",
       "standard_concept": "S",
@@ -1887,8 +1776,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40049698,
       "concept_name": "hydrocortisone Oral Suspension",
       "standard_concept": "S",
@@ -1904,8 +1792,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40049699,
       "concept_name": "hydrocortisone Oral Suspension [Cortef]",
       "standard_concept": "S",
@@ -1921,8 +1808,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40049700,
       "concept_name": "hydrocortisone Oral Tablet",
       "standard_concept": "S",
@@ -1938,8 +1824,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40049701,
       "concept_name": "hydrocortisone Oral Tablet [Cortef]",
       "standard_concept": "S",
@@ -1955,8 +1840,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40049702,
       "concept_name": "hydrocortisone Oral Tablet [Hydrocortone]",
       "standard_concept": "S",
@@ -1972,8 +1856,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40139039,
       "concept_name": "hydrocortisone Injectable Solution [Hydrocortone Phosphate]",
       "standard_concept": "S",
@@ -1989,8 +1872,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40153792,
       "concept_name": "hydrocortisone Injectable Suspension [Hydrocortone]",
       "standard_concept": "S",
@@ -2006,8 +1888,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40184256,
       "concept_name": "hydrocortisone 2.5 MG/ML [Sentry HC Dermasphere]",
       "standard_concept": "S",
@@ -2023,8 +1904,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40220615,
       "concept_name": "hydrocortisone acetate 20 MG/ML [MiCort-HC]",
       "standard_concept": "S",
@@ -2040,8 +1920,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40220660,
       "concept_name": "hydrocortisone acetate 25 MG/ML [MiCort-HC]",
       "standard_concept": "S",
@@ -2057,8 +1936,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40226539,
       "concept_name": "hydrocortisone acetate 2 MG/ML",
       "standard_concept": "S",
@@ -2074,8 +1952,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40226541,
       "concept_name": "hydrocortisone acetate 20 MG/ML",
       "standard_concept": "S",
@@ -2091,8 +1968,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40226550,
       "concept_name": "hydrocortisone acetate 5 MG/ML",
       "standard_concept": "S",
@@ -2108,8 +1984,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40226561,
       "concept_name": "hydrocortisone acetate 5 MG/ML / lidocaine hydrochloride 30 MG/ML [Anamantle HC]",
       "standard_concept": "S",
@@ -2125,8 +2000,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40228301,
       "concept_name": "hydrocortisone acetate 50 MG/ML Injectable Suspension",
       "standard_concept": "S",
@@ -2142,8 +2016,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40228302,
       "concept_name": "hydrocortisone acetate 50 MG/ML Injectable Suspension [Hydrocortone Acetate]",
       "standard_concept": "S",
@@ -2159,8 +2032,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40228303,
       "concept_name": "hydrocortisone acetate 50 MG/ML [Hydrocortone Acetate]",
       "standard_concept": "S",
@@ -2176,8 +2048,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40228390,
       "concept_name": "hydrocortisone sodium phosphate 50 MG/ML",
       "standard_concept": "S",
@@ -2193,8 +2064,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40228391,
       "concept_name": "hydrocortisone sodium phosphate 50 MG/ML Injectable Solution",
       "standard_concept": "S",
@@ -2210,8 +2080,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40228392,
       "concept_name": "hydrocortisone sodium phosphate 50 MG/ML Injectable Solution [Hydrocortone Phosphate]",
       "standard_concept": "S",
@@ -2227,8 +2096,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40228393,
       "concept_name": "hydrocortisone sodium phosphate 50 MG/ML [Hydrocortone Phosphate]",
       "standard_concept": "S",
@@ -2244,8 +2112,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40230688,
       "concept_name": "hydrocortisone acetate 10 MG/ML [Vagisil Satin]",
       "standard_concept": "S",
@@ -2261,8 +2128,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42705177,
       "concept_name": "hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Enzone]",
       "standard_concept": "S",
@@ -2278,8 +2144,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42705263,
       "concept_name": "hydrocortisone acetate 25 MG/ML",
       "standard_concept": "S",
@@ -2295,8 +2160,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42706833,
       "concept_name": "hydrocortisone acetate 10 MG/ML [Carmol HC]",
       "standard_concept": "S",
@@ -2312,8 +2176,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42706834,
       "concept_name": "hydrocortisone acetate 10 MG/ML [Corticaine]",
       "standard_concept": "S",
@@ -2329,8 +2192,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42706835,
       "concept_name": "hydrocortisone acetate 5 MG/ML [Corticaine]",
       "standard_concept": "S",
@@ -2346,8 +2208,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42706836,
       "concept_name": "hydrocortisone acetate 10 MG/ML [Hycort]",
       "standard_concept": "S",
@@ -2363,8 +2224,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42799748,
       "concept_name": "hydrocortisone 5 MG/ML [Cortef]",
       "standard_concept": "S",
@@ -2380,8 +2240,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42800172,
       "concept_name": "hydrocortisone acetate 25 MG",
       "standard_concept": "S",
@@ -2397,8 +2256,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42800185,
       "concept_name": "hydrocortisone acetate 30 MG",
       "standard_concept": "S",
@@ -2414,8 +2272,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44507503,
       "concept_name": "clioquinol 30 MG/ML / hydrocortisone 5 MG/ML [Dermasorb AF]",
       "standard_concept": "S",
@@ -2431,8 +2288,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-systemic",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45776722,
       "concept_name": "hydrocortisone acetate 15 MG/ML",
       "standard_concept": "S",

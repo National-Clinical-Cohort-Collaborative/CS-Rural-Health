@@ -1,7 +1,6 @@
 [
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975125,
       "concept_name": "hydrocortisone",
       "standard_concept": "S",
@@ -17,8 +16,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975168,
       "concept_name": "hydrocortisone 10 MG Oral Tablet",
       "standard_concept": "S",
@@ -34,8 +32,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975169,
       "concept_name": "hydrocortisone 20 MG Oral Tablet",
       "standard_concept": "S",
@@ -51,8 +48,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975193,
       "concept_name": "hydrocortisone 5 MG Oral Tablet",
       "standard_concept": "S",
@@ -68,8 +64,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975588,
       "concept_name": "hydrocortisone 2.5 MG Oral Tablet",
       "standard_concept": "S",
@@ -85,8 +80,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975644,
       "concept_name": "hydrocortisone 2.5 MG Oral Lozenge",
       "standard_concept": "S",
@@ -102,8 +96,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975926,
       "concept_name": "hydrocortisone 5 MG",
       "standard_concept": "S",
@@ -119,8 +112,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975931,
       "concept_name": "hydrocortisone 0.0025 MG/MG",
       "standard_concept": "S",
@@ -136,8 +128,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975984,
       "concept_name": "hydrocortisone 0.5 MG/ML",
       "standard_concept": "S",
@@ -153,8 +144,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 975985,
       "concept_name": "hydrocortisone 2.5 MG",
       "standard_concept": "S",
@@ -170,8 +160,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 976014,
       "concept_name": "hydrocortisone 2.5 MG/ML",
       "standard_concept": "S",
@@ -187,8 +176,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 976016,
       "concept_name": "hydrocortisone 1.27 MG/ML",
       "standard_concept": "S",
@@ -204,8 +192,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 976017,
       "concept_name": "hydrocortisone 1.25 MG/ML",
       "standard_concept": "S",
@@ -221,8 +208,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034605,
       "concept_name": "hydrocortisone 20 MG Oral Tablet by CTC Bio",
       "standard_concept": "S",
@@ -238,8 +224,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034607,
       "concept_name": "hydrocortisone 10 MG Oral Tablet by Daewon",
       "standard_concept": "S",
@@ -255,8 +240,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034608,
       "concept_name": "hydrocortisone 10 MG Oral Tablet by Jaytech",
       "standard_concept": "S",
@@ -272,8 +256,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034609,
       "concept_name": "hydrocortisone 10 MG Oral Tablet by Korea",
       "standard_concept": "S",
@@ -289,8 +272,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034610,
       "concept_name": "hydrocortisone 10 MG Oral Tablet by Korea United Pharm",
       "standard_concept": "S",
@@ -306,8 +288,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034611,
       "concept_name": "hydrocortisone 10 MG Oral Tablet by Kwangdong",
       "standard_concept": "S",
@@ -323,8 +304,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034612,
       "concept_name": "hydrocortisone 10 MG Oral Tablet by Seoul",
       "standard_concept": "S",
@@ -340,8 +320,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034613,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [CORTA]",
       "standard_concept": "S",
@@ -357,8 +336,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034614,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [CORTA] by Ilyang",
       "standard_concept": "S",
@@ -374,8 +352,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034615,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [CORTA] by Korea Abekseu",
       "standard_concept": "S",
@@ -391,8 +368,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034616,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [DROSON]",
       "standard_concept": "S",
@@ -408,8 +384,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034617,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [DROSON] by Korea Wellpharm",
       "standard_concept": "S",
@@ -425,8 +400,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034618,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [HAROND]",
       "standard_concept": "S",
@@ -442,8 +416,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034619,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [HAROND] by Dongsung",
       "standard_concept": "S",
@@ -459,8 +432,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034620,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [HYCOSON]",
       "standard_concept": "S",
@@ -476,8 +448,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034621,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [HYCOSON] by Sinil",
       "standard_concept": "S",
@@ -493,8 +464,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034622,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [HYCOT]",
       "standard_concept": "S",
@@ -510,8 +480,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034623,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [HYCOT] by Samik",
       "standard_concept": "S",
@@ -527,8 +496,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034624,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [HYDRA]",
       "standard_concept": "S",
@@ -544,8 +512,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034625,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [HYDRA] by Taejoon",
       "standard_concept": "S",
@@ -561,8 +528,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034626,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [HYDROSONE]",
       "standard_concept": "S",
@@ -578,8 +544,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034628,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [HYDROSONE] by Union Korea Pharm",
       "standard_concept": "S",
@@ -595,8 +560,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034629,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [HYROSINE]",
       "standard_concept": "S",
@@ -612,8 +576,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034630,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [HYROSINE] by Daehwa",
       "standard_concept": "S",
@@ -629,8 +592,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034631,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [ILYANG COTICO]",
       "standard_concept": "S",
@@ -646,8 +608,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034632,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [ILYANG COTICO] by Ilyang",
       "standard_concept": "S",
@@ -663,8 +624,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034633,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [KODISONE]",
       "standard_concept": "S",
@@ -680,8 +640,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034634,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [KODISONE] by Sungwon Adcock",
       "standard_concept": "S",
@@ -697,8 +656,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034635,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [KUKJE CORTISON]",
       "standard_concept": "S",
@@ -714,8 +672,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034636,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [KUKJE CORTISON] by Kukje",
       "standard_concept": "S",
@@ -731,8 +688,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034637,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [ROTISON] by DHP",
       "standard_concept": "S",
@@ -748,8 +704,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034638,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [ROTISON]",
       "standard_concept": "S",
@@ -765,8 +720,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034639,
       "concept_name": "hydrocortisone 10 MG [CORTA]",
       "standard_concept": "S",
@@ -782,8 +736,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034640,
       "concept_name": "hydrocortisone 10 MG [DROSON]",
       "standard_concept": "S",
@@ -799,8 +752,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034641,
       "concept_name": "hydrocortisone 10 MG [HAROND]",
       "standard_concept": "S",
@@ -816,8 +768,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034642,
       "concept_name": "hydrocortisone 10 MG [HYCOSON]",
       "standard_concept": "S",
@@ -833,8 +784,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034643,
       "concept_name": "hydrocortisone 10 MG [HYCOT]",
       "standard_concept": "S",
@@ -850,8 +800,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034644,
       "concept_name": "hydrocortisone 10 MG [HYDRA]",
       "standard_concept": "S",
@@ -867,8 +816,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034645,
       "concept_name": "hydrocortisone 10 MG [HYDROSONE]",
       "standard_concept": "S",
@@ -884,8 +832,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034646,
       "concept_name": "hydrocortisone 10 MG [HYROSINE]",
       "standard_concept": "S",
@@ -901,8 +848,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034647,
       "concept_name": "hydrocortisone 10 MG [ILYANG COTICO]",
       "standard_concept": "S",
@@ -918,8 +864,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034648,
       "concept_name": "hydrocortisone 10 MG [KODISONE]",
       "standard_concept": "S",
@@ -935,8 +880,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034649,
       "concept_name": "hydrocortisone 10 MG [KUKJE CORTISON]",
       "standard_concept": "S",
@@ -952,8 +896,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034650,
       "concept_name": "hydrocortisone 10 MG [ROTISON]",
       "standard_concept": "S",
@@ -969,8 +912,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034695,
       "concept_name": "hydrocortisone Oral Tablet [CORTA]",
       "standard_concept": "S",
@@ -986,8 +928,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034696,
       "concept_name": "hydrocortisone Oral Tablet [DROSON]",
       "standard_concept": "S",
@@ -1003,8 +944,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034697,
       "concept_name": "hydrocortisone Oral Tablet [HAROND]",
       "standard_concept": "S",
@@ -1020,8 +960,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034698,
       "concept_name": "hydrocortisone Oral Tablet [HYCOSON]",
       "standard_concept": "S",
@@ -1037,8 +976,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034699,
       "concept_name": "hydrocortisone Oral Tablet [HYCOT]",
       "standard_concept": "S",
@@ -1054,8 +992,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034700,
       "concept_name": "hydrocortisone Oral Tablet [HYDRA]",
       "standard_concept": "S",
@@ -1071,8 +1008,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034701,
       "concept_name": "hydrocortisone Oral Tablet [HYDROSONE]",
       "standard_concept": "S",
@@ -1088,8 +1024,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034702,
       "concept_name": "hydrocortisone Oral Tablet [HYROSINE]",
       "standard_concept": "S",
@@ -1105,8 +1040,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034703,
       "concept_name": "hydrocortisone Oral Tablet [ILYANG COTICO]",
       "standard_concept": "S",
@@ -1122,8 +1056,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034704,
       "concept_name": "hydrocortisone Oral Tablet [KODISONE]",
       "standard_concept": "S",
@@ -1139,8 +1072,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034705,
       "concept_name": "hydrocortisone Oral Tablet [KUKJE CORTISON]",
       "standard_concept": "S",
@@ -1156,8 +1088,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 2034706,
       "concept_name": "hydrocortisone Oral Tablet [ROTISON]",
       "standard_concept": "S",
@@ -1173,8 +1104,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19006964,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [Hydrocortone]",
       "standard_concept": "S",
@@ -1190,8 +1120,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19006965,
       "concept_name": "hydrocortisone 20 MG Oral Tablet [Hydrocortone]",
       "standard_concept": "S",
@@ -1207,8 +1136,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19021571,
       "concept_name": "hydrocortisone 4 MG Oral Tablet",
       "standard_concept": "S",
@@ -1224,8 +1152,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19039286,
       "concept_name": "hydrocortisone 5 MG Oral Tablet [Cortef]",
       "standard_concept": "S",
@@ -1241,8 +1168,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19039383,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [Cortef]",
       "standard_concept": "S",
@@ -1258,8 +1184,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19039743,
       "concept_name": "hydrocortisone 20 MG Oral Tablet [Cortef]",
       "standard_concept": "S",
@@ -1275,8 +1200,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19040967,
       "concept_name": "hydrocortisone 2 MG/ML Oral Suspension [Cortef]",
       "standard_concept": "S",
@@ -1292,8 +1216,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043315,
       "concept_name": "hydrocortisone 5 MG [Cortef]",
       "standard_concept": "S",
@@ -1309,8 +1232,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043316,
       "concept_name": "hydrocortisone 10 MG [Cortef]",
       "standard_concept": "S",
@@ -1326,8 +1248,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043317,
       "concept_name": "hydrocortisone 20 MG [Cortef]",
       "standard_concept": "S",
@@ -1343,8 +1264,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043318,
       "concept_name": "hydrocortisone 2 MG/ML [Cortef]",
       "standard_concept": "S",
@@ -1360,8 +1280,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19078350,
       "concept_name": "hydrocortisone 2 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -1377,8 +1296,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19081460,
       "concept_name": "hydrocortisone 10 MG",
       "standard_concept": "S",
@@ -1394,8 +1312,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19081472,
       "concept_name": "hydrocortisone 20 MG",
       "standard_concept": "S",
@@ -1411,8 +1328,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19086249,
       "concept_name": "hydrocortisone 2 MG/ML",
       "standard_concept": "S",
@@ -1428,8 +1344,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19088174,
       "concept_name": "hydrocortisone 4 MG",
       "standard_concept": "S",
@@ -1445,8 +1360,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19093396,
       "concept_name": "hydrocortisone 0.005 MG/MG",
       "standard_concept": "S",
@@ -1462,8 +1376,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19110032,
       "concept_name": "hydrocortisone 0.0009 MG/MG",
       "standard_concept": "S",
@@ -1479,8 +1392,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19110247,
       "concept_name": "hydrocortisone 0.0033 MG/MG",
       "standard_concept": "S",
@@ -1496,8 +1408,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19110256,
       "concept_name": "hydrocortisone 0.004 MG/MG",
       "standard_concept": "S",
@@ -1513,8 +1424,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19110892,
       "concept_name": "hydrocortisone 250 MG",
       "standard_concept": "S",
@@ -1530,8 +1440,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19114612,
       "concept_name": "hydrocortisone 0.1 MG/ML",
       "standard_concept": "S",
@@ -1547,8 +1456,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19116155,
       "concept_name": "hydrocortisone 10 MG [Hydrocortone]",
       "standard_concept": "S",
@@ -1564,8 +1472,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19116156,
       "concept_name": "hydrocortisone 20 MG [Hydrocortone]",
       "standard_concept": "S",
@@ -1581,8 +1488,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19133287,
       "concept_name": "hydrocortisone acetate 10 MG/ML",
       "standard_concept": "S",
@@ -1598,8 +1504,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21026164,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 30",
       "standard_concept": "S",
@@ -1615,8 +1520,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21026165,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet [Hydrocortone] by Auden Mckenzie",
       "standard_concept": "S",
@@ -1632,8 +1536,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21026170,
       "concept_name": "Hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren] Box of 50 by ViroPharma",
       "standard_concept": "S",
@@ -1649,8 +1552,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21026175,
       "concept_name": "Hydrocortisone 0.72 MG/ML",
       "standard_concept": "S",
@@ -1666,8 +1568,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21026176,
       "concept_name": "Hydrocortisone 1.25 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -1683,8 +1584,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21026178,
       "concept_name": "Hydrocortisone 2 MG Oral Capsule Box of 1",
       "standard_concept": "S",
@@ -1700,8 +1600,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21028496,
       "concept_name": "1 ML Hydrocortisone 2.5 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -1717,8 +1616,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21028499,
       "concept_name": "1000 MG Hydrocortisone 0.004 MG/MG Oral Suspension",
       "standard_concept": "S",
@@ -1734,8 +1632,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21028500,
       "concept_name": "1 ML Hydrocortisone 15 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -1751,8 +1648,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21028501,
       "concept_name": "1 ML Hydrocortisone 0.5 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -1768,8 +1664,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21029961,
       "concept_name": "100 ML Hydrocortisone 2 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -1785,8 +1680,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21035954,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet by A A H",
       "standard_concept": "S",
@@ -1802,8 +1696,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21035955,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 30 by Phoenix Labs",
       "standard_concept": "S",
@@ -1819,8 +1712,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21035957,
       "concept_name": "Hydrocortisone 0.8 MG/ML",
       "standard_concept": "S",
@@ -1836,8 +1728,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21035958,
       "concept_name": "Hydrocortisone 5 MG [Plenadren]",
       "standard_concept": "S",
@@ -1853,8 +1744,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21035962,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet by Mawdsley-Brooks",
       "standard_concept": "S",
@@ -1870,8 +1760,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21035963,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 25 by DE",
       "standard_concept": "S",
@@ -1887,8 +1776,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21035965,
       "concept_name": "Hydrocortisone 4 MG Oral Lozenge Box of 1",
       "standard_concept": "S",
@@ -1904,8 +1792,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21038289,
       "concept_name": "1 ML Hydrocortisone 10 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -1921,8 +1808,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21045800,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet by DE",
       "standard_concept": "S",
@@ -1938,8 +1824,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21045801,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 30 by Kent",
       "standard_concept": "S",
@@ -1955,8 +1840,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21045802,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 30 by DE",
       "standard_concept": "S",
@@ -1972,8 +1856,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21045803,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 50 by ViroPharma",
       "standard_concept": "S",
@@ -1989,8 +1872,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21045808,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 30 by Phoenix Labs",
       "standard_concept": "S",
@@ -2006,8 +1888,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21045809,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 30 by Waymade",
       "standard_concept": "S",
@@ -2023,8 +1904,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21048119,
       "concept_name": "1000 MG Hydrocortisone 0.0009 MG/MG Oral Suspension",
       "standard_concept": "S",
@@ -2040,8 +1920,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21055570,
       "concept_name": "Hydrocortisone 2.5 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -2057,8 +1936,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21055572,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 30 by A A H",
       "standard_concept": "S",
@@ -2074,8 +1952,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21055573,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet [Hydrocortone] Box of 30",
       "standard_concept": "S",
@@ -2091,8 +1968,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21055574,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren]",
       "standard_concept": "S",
@@ -2108,8 +1984,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21055575,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 50",
       "standard_concept": "S",
@@ -2125,8 +2000,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21055581,
       "concept_name": "Hydrocortisone 0.2 MG/ML",
       "standard_concept": "S",
@@ -2142,8 +2016,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21055582,
       "concept_name": "Hydrocortisone 0.2 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -2159,8 +2032,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21055583,
       "concept_name": "Hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren] by ViroPharma",
       "standard_concept": "S",
@@ -2176,8 +2048,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21055586,
       "concept_name": "Hydrocortisone 0.017 MG/ML",
       "standard_concept": "S",
@@ -2193,8 +2064,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21055588,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 30 by Sigma-Tau",
       "standard_concept": "S",
@@ -2210,8 +2080,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21057916,
       "concept_name": "1 ML Hydrocortisone 0.75 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -2227,8 +2096,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21065405,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet [Corlan]",
       "standard_concept": "S",
@@ -2244,8 +2112,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21065406,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet [Corlan] Box of 20 by Auden Mckenzie",
       "standard_concept": "S",
@@ -2261,8 +2128,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21065407,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet by TEVA",
       "standard_concept": "S",
@@ -2278,8 +2144,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21065408,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet by Actavis",
       "standard_concept": "S",
@@ -2295,8 +2160,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21065413,
       "concept_name": "Hydrocortisone 1 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -2312,8 +2176,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21065416,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 25",
       "standard_concept": "S",
@@ -2329,8 +2192,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21065417,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocortone] Box of 30",
       "standard_concept": "S",
@@ -2346,8 +2208,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21065418,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocortone] Box of 30 by Auden Mckenzie",
       "standard_concept": "S",
@@ -2363,8 +2224,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21065424,
       "concept_name": "Hydrocortisone 0.0055 MG/MG Oral Suspension",
       "standard_concept": "S",
@@ -2380,8 +2240,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21067791,
       "concept_name": "1 ML Hydrocortisone 1 MG/ML Oral Solution",
       "standard_concept": "S",
@@ -2397,8 +2256,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21067792,
       "concept_name": "1 ML Hydrocortisone 1.25 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -2414,8 +2272,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21075346,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet by Waymade",
       "standard_concept": "S",
@@ -2431,8 +2288,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21075347,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 30 by Sovereign",
       "standard_concept": "S",
@@ -2448,8 +2304,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21075353,
       "concept_name": "Hydrocortisone 5 MG Extended Release Oral Tablet Box of 50",
       "standard_concept": "S",
@@ -2465,8 +2320,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21075355,
       "concept_name": "Hydrocortisone 0.72 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -2482,8 +2336,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21075358,
       "concept_name": "Hydrocortisone 1.5 MG/ML",
       "standard_concept": "S",
@@ -2499,8 +2352,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21075359,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 30 by Almus",
       "standard_concept": "S",
@@ -2516,8 +2368,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21077649,
       "concept_name": "1 ML Hydrocortisone 0.01 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -2533,8 +2384,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21085071,
       "concept_name": "Hydrocortisone 2.5 MG Oral Capsule",
       "standard_concept": "S",
@@ -2550,8 +2400,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21085072,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet by Sigma-Tau",
       "standard_concept": "S",
@@ -2567,8 +2416,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21085073,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 30 by Sigma-Tau",
       "standard_concept": "S",
@@ -2584,8 +2432,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21085078,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 30 by DE",
       "standard_concept": "S",
@@ -2601,8 +2448,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21085089,
       "concept_name": "Hydrocortisone 0.3 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -2618,8 +2464,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21087353,
       "concept_name": "1000 MG Hydrocortisone 0.0033 MG/MG Oral Suspension",
       "standard_concept": "S",
@@ -2635,8 +2480,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21094837,
       "concept_name": "Hydrocortisone Oral Tablet [Corlan]",
       "standard_concept": "S",
@@ -2652,8 +2496,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21094843,
       "concept_name": "Hydrocortisone 0.75 MG/ML",
       "standard_concept": "S",
@@ -2669,8 +2512,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21094844,
       "concept_name": "Hydrocortisone 0.75 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -2686,8 +2528,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21094845,
       "concept_name": "Hydrocortisone 2.5 MG [Corlan]",
       "standard_concept": "S",
@@ -2703,8 +2544,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21094846,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet [Corlan] by Auden Mckenzie",
       "standard_concept": "S",
@@ -2720,8 +2560,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21094847,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet by Alliance",
       "standard_concept": "S",
@@ -2737,8 +2576,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21094848,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet by Almus",
       "standard_concept": "S",
@@ -2754,8 +2592,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21094849,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 30 by TEVA",
       "standard_concept": "S",
@@ -2771,8 +2608,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21094850,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 30 by Almus",
       "standard_concept": "S",
@@ -2788,8 +2624,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21094856,
       "concept_name": "Hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren]",
       "standard_concept": "S",
@@ -2805,8 +2640,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21094858,
       "concept_name": "Hydrocortisone 1 MG Oral Capsule",
       "standard_concept": "S",
@@ -2822,8 +2656,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21094859,
       "concept_name": "Hydrocortisone 1 MG Oral Capsule Box of 1",
       "standard_concept": "S",
@@ -2839,8 +2672,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21094862,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet by Alliance",
       "standard_concept": "S",
@@ -2856,8 +2688,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21094863,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet by TEVA",
       "standard_concept": "S",
@@ -2873,8 +2704,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21094864,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 25 by Sigma-Tau",
       "standard_concept": "S",
@@ -2890,8 +2720,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21094869,
       "concept_name": "Hydrocortisone 15 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -2907,8 +2736,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21098694,
       "concept_name": "100 ML Hydrocortisone 1 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -2924,8 +2752,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21104723,
       "concept_name": "Hydrocortisone Oral Capsule",
       "standard_concept": "S",
@@ -2941,8 +2768,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21104724,
       "concept_name": "Hydrocortisone Extended Release Oral Tablet [Plenadren]",
       "standard_concept": "S",
@@ -2958,8 +2784,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21104729,
       "concept_name": "Hydrocortisone 1.27 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -2975,8 +2800,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21104730,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet Box of 20",
       "standard_concept": "S",
@@ -2992,8 +2816,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21104731,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet Box of 20 by Actavis",
       "standard_concept": "S",
@@ -3009,8 +2832,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21104737,
       "concept_name": "Hydrocortisone 0.4 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3026,8 +2848,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21104740,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet by Actavis",
       "standard_concept": "S",
@@ -3043,8 +2864,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21104741,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 30 by Actavis",
       "standard_concept": "S",
@@ -3060,8 +2880,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21104742,
       "concept_name": "Hydrocortisone 0.6 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3077,8 +2896,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21107021,
       "concept_name": "1 ML Hydrocortisone 0.72 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3094,8 +2912,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21114515,
       "concept_name": "Hydrocortisone 0.05 MG/ML",
       "standard_concept": "S",
@@ -3111,8 +2928,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21114516,
       "concept_name": "Hydrocortisone 0.05 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3128,8 +2944,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21114517,
       "concept_name": "Hydrocortisone 2.5 MG Oral Capsule Box of 1",
       "standard_concept": "S",
@@ -3145,8 +2960,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21114518,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet Box of 20 by Waymade",
       "standard_concept": "S",
@@ -3162,8 +2976,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21114520,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet by Waymade",
       "standard_concept": "S",
@@ -3179,8 +2992,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21114521,
       "concept_name": "Hydrocortisone 0.4 MG/ML",
       "standard_concept": "S",
@@ -3196,8 +3008,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21114522,
       "concept_name": "Hydrocortisone 1.5 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3213,8 +3024,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21114525,
       "concept_name": "Hydrocortisone 0.004 MG/MG Oral Suspension",
       "standard_concept": "S",
@@ -3230,8 +3040,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21116757,
       "concept_name": "1 ML Hydrocortisone 0.2 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3247,8 +3056,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21116761,
       "concept_name": "1 ML Hydrocortisone 1.5 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3264,8 +3072,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21116762,
       "concept_name": "1 ML Hydrocortisone 0.3 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3281,8 +3088,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21124122,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet Box of 20 by Sigma-Tau",
       "standard_concept": "S",
@@ -3298,8 +3104,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21124124,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet by Sigma-Tau",
       "standard_concept": "S",
@@ -3315,8 +3120,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21124125,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 30 by Alliance",
       "standard_concept": "S",
@@ -3332,8 +3136,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21124127,
       "concept_name": "Hydrocortisone 0.0025 MG/MG Oral Suspension",
       "standard_concept": "S",
@@ -3349,8 +3152,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21124128,
       "concept_name": "Hydrocortisone 0.0009 MG/MG Oral Suspension",
       "standard_concept": "S",
@@ -3366,8 +3168,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21124131,
       "concept_name": "Hydrocortisone 2 MG Oral Capsule",
       "standard_concept": "S",
@@ -3383,8 +3184,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21124132,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet by Phoenix Labs",
       "standard_concept": "S",
@@ -3400,8 +3200,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21124133,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet by A A H",
       "standard_concept": "S",
@@ -3417,8 +3216,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21124134,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 30 by TEVA",
       "standard_concept": "S",
@@ -3434,8 +3232,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21124140,
       "concept_name": "Hydrocortisone 0.5 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3451,8 +3248,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21126522,
       "concept_name": "1 ML Hydrocortisone 20 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3468,8 +3264,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21126525,
       "concept_name": "1 ML Hydrocortisone 0.6 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3485,8 +3280,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21134010,
       "concept_name": "Hydrocortisone 20 MG [Plenadren]",
       "standard_concept": "S",
@@ -3502,8 +3296,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21134011,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet by Kent",
       "standard_concept": "S",
@@ -3519,8 +3312,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21134017,
       "concept_name": "Hydrocortisone 20 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3536,8 +3328,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21134019,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet by Almus",
       "standard_concept": "S",
@@ -3553,8 +3344,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21134020,
       "concept_name": "Hydrocortisone 0.6 MG/ML",
       "standard_concept": "S",
@@ -3570,8 +3360,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21136381,
       "concept_name": "1 ML Hydrocortisone 0.8 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3587,8 +3376,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21143921,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet Box of 20 by DE",
       "standard_concept": "S",
@@ -3604,8 +3392,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21143923,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 30 by Waymade",
       "standard_concept": "S",
@@ -3621,8 +3408,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21143924,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet [Hydrocortone] Box of 30 by Auden Mckenzie",
       "standard_concept": "S",
@@ -3638,8 +3424,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21143928,
       "concept_name": "Hydrocortisone 10 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3655,8 +3440,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21143930,
       "concept_name": "Hydrocortisone 5 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3672,8 +3456,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21143931,
       "concept_name": "Hydrocortisone 1 MG/ML Oral Solution",
       "standard_concept": "S",
@@ -3689,8 +3472,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21143934,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocortone] by Auden Mckenzie",
       "standard_concept": "S",
@@ -3706,8 +3488,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21146255,
       "concept_name": "1 ML Hydrocortisone 2 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3723,8 +3504,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21153875,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet by Alliance",
       "standard_concept": "S",
@@ -3740,8 +3520,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21153876,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet [Corlan] Box of 20",
       "standard_concept": "S",
@@ -3757,8 +3536,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21153879,
       "concept_name": "Hydrocortisone 0.8 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3774,8 +3552,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21153881,
       "concept_name": "Hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren] Box of 50",
       "standard_concept": "S",
@@ -3791,8 +3568,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21153882,
       "concept_name": "Hydrocortisone 0.01 MG/ML",
       "standard_concept": "S",
@@ -3808,8 +3584,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21153884,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 25 by Mawdsley-Brooks",
       "standard_concept": "S",
@@ -3825,8 +3600,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21153885,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 30 by A A H",
       "standard_concept": "S",
@@ -3842,8 +3616,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21153890,
       "concept_name": "Hydrocortisone 0.3 MG/ML",
       "standard_concept": "S",
@@ -3859,8 +3632,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21156223,
       "concept_name": "1 ML Hydrocortisone 0.05 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3876,8 +3648,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21156224,
       "concept_name": "1 ML Hydrocortisone 1.27 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3893,8 +3664,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21156225,
       "concept_name": "1 ML Hydrocortisone 0.017 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3910,8 +3680,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21156226,
       "concept_name": "1 ML Hydrocortisone 0.4 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -3927,8 +3696,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21163682,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet by Actavis",
       "standard_concept": "S",
@@ -3944,8 +3712,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21163683,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet Box of 20 by A A H",
       "standard_concept": "S",
@@ -3961,8 +3728,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21163684,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet by Phoenix Labs",
       "standard_concept": "S",
@@ -3978,8 +3744,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21163685,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 30 by Actavis",
       "standard_concept": "S",
@@ -3995,8 +3760,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21163687,
       "concept_name": "Hydrocortisone 0.017 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -4012,8 +3776,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21163689,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet by Sigma-Tau",
       "standard_concept": "S",
@@ -4029,8 +3792,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21163690,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet by Waymade",
       "standard_concept": "S",
@@ -4046,8 +3808,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21163691,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 30",
       "standard_concept": "S",
@@ -4063,8 +3824,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21163692,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 30 by Alliance",
       "standard_concept": "S",
@@ -4080,8 +3840,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21163696,
       "concept_name": "Hydrocortisone 0.0033 MG/MG Oral Suspension",
       "standard_concept": "S",
@@ -4097,8 +3856,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21165994,
       "concept_name": "1 ML Hydrocortisone 5 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -4114,8 +3872,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21165996,
       "concept_name": "1000 MG Hydrocortisone 0.0055 MG/MG Oral Suspension",
       "standard_concept": "S",
@@ -4131,8 +3888,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21173453,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet Box of 20 by Alliance",
       "standard_concept": "S",
@@ -4148,8 +3904,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21173454,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet by DE",
       "standard_concept": "S",
@@ -4165,8 +3920,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21173455,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet by A A H",
       "standard_concept": "S",
@@ -4182,8 +3936,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21173456,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet by Sovereign",
       "standard_concept": "S",
@@ -4199,8 +3952,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21173457,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet Box of 50",
       "standard_concept": "S",
@@ -4216,8 +3968,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21173458,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] by ViroPharma",
       "standard_concept": "S",
@@ -4233,8 +3984,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21173465,
       "concept_name": "Hydrocortisone 0.01 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -4250,8 +4000,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21173469,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet by DE",
       "standard_concept": "S",
@@ -4267,8 +4016,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21175732,
       "concept_name": "1 ML Hydrocortisone 1 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -4284,8 +4032,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21600036,
       "concept_name": "hydrocortisone; oral",
       "standard_concept": "C",
@@ -4301,8 +4048,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 21602737,
       "concept_name": "hydrocortisone; systemic",
       "standard_concept": "C",
@@ -4318,8 +4064,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35130619,
       "concept_name": "Hydrocortisone 10 MG [Cortril]",
       "standard_concept": "S",
@@ -4335,8 +4080,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35130902,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Cortril]",
       "standard_concept": "S",
@@ -4352,8 +4096,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35138307,
       "concept_name": "Hydrocortisone Oral Tablet [Cortril]",
       "standard_concept": "S",
@@ -4369,8 +4112,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35604735,
       "concept_name": "hydrocortisone 250 MG [Solu-Cortef]",
       "standard_concept": "S",
@@ -4386,8 +4128,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35742713,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet by Actavis",
       "standard_concept": "S",
@@ -4403,8 +4144,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35742714,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet by TEVA",
       "standard_concept": "S",
@@ -4420,8 +4160,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35742715,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet by Kent",
       "standard_concept": "S",
@@ -4437,8 +4176,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35742716,
       "concept_name": "Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo] by Astellas",
       "standard_concept": "S",
@@ -4454,8 +4192,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35746932,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by Actavis",
       "standard_concept": "S",
@@ -4471,8 +4208,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35746933,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by DE",
       "standard_concept": "S",
@@ -4488,8 +4224,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35746934,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet by A A H",
       "standard_concept": "S",
@@ -4505,8 +4240,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35746935,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet by Sigma-Tau",
       "standard_concept": "S",
@@ -4522,8 +4256,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35749547,
       "concept_name": "Hydrocortisone Oral Suspension [Locoid Crelo]",
       "standard_concept": "S",
@@ -4539,8 +4272,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35751047,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by Alliance",
       "standard_concept": "S",
@@ -4556,8 +4288,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35751048,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by Phoenix Labs",
       "standard_concept": "S",
@@ -4573,8 +4304,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35751049,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet by Almus",
       "standard_concept": "S",
@@ -4590,8 +4320,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35751050,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet by Sovereign",
       "standard_concept": "S",
@@ -4607,8 +4336,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35753652,
       "concept_name": "Hydrocortisone 0.001 MG/MG [Locoid Crelo]",
       "standard_concept": "S",
@@ -4624,8 +4352,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35753993,
       "concept_name": "Hydrocortisone 6 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -4641,8 +4368,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35755309,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by Kent",
       "standard_concept": "S",
@@ -4658,8 +4384,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35755310,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet by Alliance",
       "standard_concept": "S",
@@ -4675,8 +4400,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35757809,
       "concept_name": "Hydrocortisone 6 MG/ML",
       "standard_concept": "S",
@@ -4692,8 +4416,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35758466,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet [Hydrocortone] Box of 30",
       "standard_concept": "S",
@@ -4709,8 +4432,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35759415,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet [Hydrocortone] Box of 30 by Auden Mckenzie",
       "standard_concept": "S",
@@ -4726,8 +4448,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35759416,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by Sigma-Tau",
       "standard_concept": "S",
@@ -4743,8 +4464,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35762314,
       "concept_name": "Hydrocortisone 3 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -4760,8 +4480,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35762315,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30",
       "standard_concept": "S",
@@ -4777,8 +4496,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35763614,
       "concept_name": "Hydrocortisone 1 MG/ML Oral Suspension by Drug Tariff Special Order",
       "standard_concept": "S",
@@ -4794,8 +4512,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35763616,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet [Hydrocortone] by Auden Mckenzie",
       "standard_concept": "S",
@@ -4811,8 +4528,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35763617,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by Sovereign",
       "standard_concept": "S",
@@ -4828,8 +4544,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35763618,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by Waymade",
       "standard_concept": "S",
@@ -4845,8 +4560,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35763619,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet by Waymade",
       "standard_concept": "S",
@@ -4862,8 +4576,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35766390,
       "concept_name": "Hydrocortisone 3.6 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -4879,8 +4592,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35766777,
       "concept_name": "Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo]",
       "standard_concept": "S",
@@ -4896,8 +4608,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35767756,
       "concept_name": "Hydrocortisone 2 MG/ML Oral Suspension by Drug Tariff Special Order",
       "standard_concept": "S",
@@ -4913,8 +4624,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35767757,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by TEVA",
       "standard_concept": "S",
@@ -4930,8 +4640,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35770721,
       "concept_name": "Hydrocortisone 4 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -4947,8 +4656,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35771094,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet [Hydrocortone]",
       "standard_concept": "S",
@@ -4964,8 +4672,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35772110,
       "concept_name": "Hydrocortisone 1 MG/ML Oral Solution by Drug Tariff Special Order",
       "standard_concept": "S",
@@ -4981,8 +4688,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35772112,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by Almus",
       "standard_concept": "S",
@@ -4998,8 +4704,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35772113,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet Box of 30 by A A H",
       "standard_concept": "S",
@@ -5015,8 +4720,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35772114,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet by DE",
       "standard_concept": "S",
@@ -5032,8 +4736,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35772115,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet by Phoenix Labs",
       "standard_concept": "S",
@@ -5049,8 +4752,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35774637,
       "concept_name": "Hydrocortisone 3.6 MG/ML",
       "standard_concept": "S",
@@ -5066,8 +4768,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35774751,
       "concept_name": "Hydrocortisone Extended Release Oral Tablet [Hydrocortone]",
       "standard_concept": "S",
@@ -5083,8 +4784,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35775956,
       "concept_name": "1 ML Hydrocortisone 6 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -5100,8 +4800,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35776494,
       "concept_name": "1 ML Hydrocortisone 3.6 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -5117,8 +4816,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35776631,
       "concept_name": "1 ML Hydrocortisone 1 MG/ML Oral Suspension by Drug Tariff Special Order",
       "standard_concept": "S",
@@ -5134,8 +4832,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35777050,
       "concept_name": "1 ML Hydrocortisone 3 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -5151,8 +4848,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35777331,
       "concept_name": "1 ML Hydrocortisone 4 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -5168,8 +4864,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35777483,
       "concept_name": "1 ML Hydrocortisone 2 MG/ML Oral Suspension by Drug Tariff Special Order",
       "standard_concept": "S",
@@ -5185,8 +4880,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35777766,
       "concept_name": "1 ML Hydrocortisone 1 MG/ML Oral Solution by Drug Tariff Special Order",
       "standard_concept": "S",
@@ -5202,8 +4896,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35786194,
       "concept_name": "100 ML Hydrocortisone 1 MG/ML Oral Solution",
       "standard_concept": "S",
@@ -5219,8 +4912,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35786264,
       "concept_name": "100 ML Hydrocortisone 2 MG/ML Oral Suspension by Drug Tariff Special Order",
       "standard_concept": "S",
@@ -5236,8 +4928,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35787385,
       "concept_name": "100 ML Hydrocortisone 1 MG/ML Oral Solution by Drug Tariff Special Order",
       "standard_concept": "S",
@@ -5253,8 +4944,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35787386,
       "concept_name": "100 ML Hydrocortisone 1 MG/ML Oral Suspension by Drug Tariff Special Order",
       "standard_concept": "S",
@@ -5270,8 +4960,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35796667,
       "concept_name": "99300 MG Hydrocortisone 0.001 MG/MG Oral Suspension",
       "standard_concept": "S",
@@ -5287,8 +4976,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35796932,
       "concept_name": "99300 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo]",
       "standard_concept": "S",
@@ -5304,8 +4992,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35796955,
       "concept_name": "99300 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo] by Astellas",
       "standard_concept": "S",
@@ -5321,8 +5008,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35797191,
       "concept_name": "100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo]",
       "standard_concept": "S",
@@ -5338,8 +5024,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35797250,
       "concept_name": "100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo] by Astellas",
       "standard_concept": "S",
@@ -5355,8 +5040,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35797547,
       "concept_name": "101000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo] by Astellas",
       "standard_concept": "S",
@@ -5372,8 +5056,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35797782,
       "concept_name": "101000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Locoid Crelo]",
       "standard_concept": "S",
@@ -5389,8 +5072,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35797936,
       "concept_name": "101000 MG Hydrocortisone 0.001 MG/MG Oral Suspension",
       "standard_concept": "S",
@@ -5406,8 +5088,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35885557,
       "concept_name": "hydrocortisone 20 MG Oral Tablet Box of 30 by Medihealth",
       "standard_concept": "S",
@@ -5423,8 +5104,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35885558,
       "concept_name": "hydrocortisone 20 MG Oral Tablet by Medihealth",
       "standard_concept": "S",
@@ -5440,8 +5120,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35885559,
       "concept_name": "hydrocortisone 10 MG Oral Tablet Box of 30 by Medihealth",
       "standard_concept": "S",
@@ -5457,8 +5136,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35885560,
       "concept_name": "hydrocortisone 10 MG Oral Tablet by Medihealth",
       "standard_concept": "S",
@@ -5474,8 +5152,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35885561,
       "concept_name": "hydrocortisone 2.5 MG Oral Tablet Box of 20 by Medihealth",
       "standard_concept": "S",
@@ -5491,8 +5168,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35885562,
       "concept_name": "hydrocortisone 2.5 MG Oral Tablet by Medihealth",
       "standard_concept": "S",
@@ -5508,8 +5184,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36054286,
       "concept_name": "1 ML hydrocortisone 0.85 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -5525,8 +5200,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36054287,
       "concept_name": "1 ML hydrocortisone 2.79 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -5542,8 +5216,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36054288,
       "concept_name": "1 ML hydrocortisone 1.4 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -5559,8 +5232,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36056900,
       "concept_name": "hydrocortisone 20 MG Oral Tablet Box of 30 by Accord",
       "standard_concept": "S",
@@ -5576,8 +5248,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36056981,
       "concept_name": "hydrocortisone 20 MG Oral Tablet Box of 30 by NorthStar Healthcare Unlimited Company",
       "standard_concept": "S",
@@ -5593,8 +5264,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36056982,
       "concept_name": "hydrocortisone 20 MG Oral Tablet Box of 30 by Mawdsley-Brooks",
       "standard_concept": "S",
@@ -5610,8 +5280,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36056983,
       "concept_name": "hydrocortisone 20 MG Oral Tablet by NorthStar Healthcare Unlimited Company",
       "standard_concept": "S",
@@ -5627,8 +5296,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36056984,
       "concept_name": "hydrocortisone 20 MG Oral Tablet by Mawdsley-Brooks",
       "standard_concept": "S",
@@ -5644,8 +5312,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36056985,
       "concept_name": "hydrocortisone 20 MG Oral Tablet by Accord",
       "standard_concept": "S",
@@ -5661,8 +5328,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36056986,
       "concept_name": "hydrocortisone 20 MG Oral Tablet [Hydventia] Box of 30",
       "standard_concept": "S",
@@ -5678,8 +5344,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36056987,
       "concept_name": "hydrocortisone 20 MG Oral Tablet [Hydventia] Box of 30 by OcXia",
       "standard_concept": "S",
@@ -5695,8 +5360,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36056988,
       "concept_name": "hydrocortisone 20 MG Oral Tablet [Hydventia]",
       "standard_concept": "S",
@@ -5712,8 +5376,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36056989,
       "concept_name": "hydrocortisone 20 MG Oral Tablet [Hydventia] by OcXia",
       "standard_concept": "S",
@@ -5729,8 +5392,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36056990,
       "concept_name": "hydrocortisone 20 MG [Hydventia]",
       "standard_concept": "S",
@@ -5746,8 +5408,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36056991,
       "concept_name": "hydrocortisone 10 MG Oral Tablet Box of 30 by Mibe",
       "standard_concept": "S",
@@ -5763,8 +5424,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36056992,
       "concept_name": "hydrocortisone 10 MG Oral Tablet Box of 30 by NorthStar Healthcare Unlimited Company",
       "standard_concept": "S",
@@ -5780,8 +5440,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36056993,
       "concept_name": "hydrocortisone 10 MG Oral Tablet Box of 30 by Mawdsley-Brooks",
       "standard_concept": "S",
@@ -5797,8 +5456,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36056994,
       "concept_name": "hydrocortisone 10 MG Oral Tablet Box of 30 by Creo",
       "standard_concept": "S",
@@ -5814,8 +5472,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36056995,
       "concept_name": "hydrocortisone 10 MG Oral Tablet Box of 30 by Accord",
       "standard_concept": "S",
@@ -5831,8 +5488,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36056996,
       "concept_name": "hydrocortisone 10 MG Oral Tablet by NorthStar Healthcare Unlimited Company",
       "standard_concept": "S",
@@ -5848,8 +5504,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36056997,
       "concept_name": "hydrocortisone 10 MG Oral Tablet by Creo",
       "standard_concept": "S",
@@ -5865,8 +5520,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36056998,
       "concept_name": "hydrocortisone 10 MG Oral Tablet by Accord",
       "standard_concept": "S",
@@ -5882,8 +5536,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36056999,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [Hydventia] Box of 30",
       "standard_concept": "S",
@@ -5899,8 +5552,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36057000,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [Hydventia] Box of 30 by OcXia",
       "standard_concept": "S",
@@ -5916,8 +5568,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36057001,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [Hydventia]",
       "standard_concept": "S",
@@ -5933,8 +5584,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36057002,
       "concept_name": "hydrocortisone 10 MG Oral Tablet [Hydventia] by OcXia",
       "standard_concept": "S",
@@ -5950,8 +5600,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36057003,
       "concept_name": "hydrocortisone 10 MG [Hydventia]",
       "standard_concept": "S",
@@ -5967,8 +5616,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36057004,
       "concept_name": "hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren] Box of 50 by CST",
       "standard_concept": "S",
@@ -5984,8 +5632,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36057005,
       "concept_name": "hydrocortisone 2.5 MG Oral Tablet by Mawdsley-Brooks",
       "standard_concept": "S",
@@ -6001,8 +5648,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36057008,
       "concept_name": "hydrocortisone 0.85 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -6018,8 +5664,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36057009,
       "concept_name": "hydrocortisone 2.79 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -6035,8 +5680,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36057010,
       "concept_name": "hydrocortisone 2.79 MG/ML",
       "standard_concept": "S",
@@ -6052,8 +5696,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36057011,
       "concept_name": "hydrocortisone 1.4 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -6069,8 +5712,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36057012,
       "concept_name": "hydrocortisone 1.4 MG/ML",
       "standard_concept": "S",
@@ -6086,8 +5728,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36057014,
       "concept_name": "hydrocortisone Oral Tablet [Hydventia]",
       "standard_concept": "S",
@@ -6103,8 +5744,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36073988,
       "concept_name": "hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren] Box of 50 by Originalis B.V.",
       "standard_concept": "S",
@@ -6120,8 +5760,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36073989,
       "concept_name": "hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren] by CST",
       "standard_concept": "S",
@@ -6137,8 +5776,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36073990,
       "concept_name": "hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren] by Originalis B.V.",
       "standard_concept": "S",
@@ -6154,8 +5792,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36073991,
       "concept_name": "hydrocortisone 2.5 MG Oral Tablet Box of 20 by Mawdsley-Brooks",
       "standard_concept": "S",
@@ -6171,8 +5808,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36073992,
       "concept_name": "hydrocortisone 0.85 MG/ML",
       "standard_concept": "S",
@@ -6188,8 +5824,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36261631,
       "concept_name": "Hydrocortisone 20 MG [Hydrocortisone Bepharbel]",
       "standard_concept": "S",
@@ -6205,8 +5840,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36265457,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet [Hydrocortisone Bepharbel] Box of 20",
       "standard_concept": "S",
@@ -6222,8 +5856,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36268747,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet [Hydrocortisone Bepharbel] Box of 20 by Bepharbel",
       "standard_concept": "S",
@@ -6239,8 +5872,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36269901,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 20",
       "standard_concept": "S",
@@ -6256,8 +5888,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36275714,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet [Hydrocortisone Bepharbel]",
       "standard_concept": "S",
@@ -6273,8 +5904,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36277266,
       "concept_name": "Hydrocortisone Oral Tablet [Hydrocortisone Bepharbel]",
       "standard_concept": "S",
@@ -6290,8 +5920,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36503661,
       "concept_name": "Hydrocortisone Oral Powder [Alkindi]",
       "standard_concept": "S",
@@ -6307,8 +5936,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36506057,
       "concept_name": "Hydrocortisone 0.5 MG Oral Powder",
       "standard_concept": "S",
@@ -6324,8 +5952,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36506879,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] by Paranova Pack",
       "standard_concept": "S",
@@ -6341,8 +5968,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36508570,
       "concept_name": "Hydrocortisone 0.5 MG Oral Powder [Alkindi]",
       "standard_concept": "S",
@@ -6358,8 +5984,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36509298,
       "concept_name": "Hydrocortisone 0.5 MG Oral Powder [Alkindi] by Diurnal",
       "standard_concept": "S",
@@ -6375,8 +6000,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36810170,
       "concept_name": "Hydrocortisone 10 MG Disintegrating Oral Tablet",
       "standard_concept": "S",
@@ -6392,8 +6016,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36810564,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet by Resolution Chemicals",
       "standard_concept": "S",
@@ -6409,8 +6032,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36810746,
       "concept_name": "Hydrocortisone Disintegrating Oral Tablet",
       "standard_concept": "S",
@@ -6426,8 +6048,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36810870,
       "concept_name": "Hydrocortisone 10 MG Disintegrating Oral Tablet Box of 30 by Colonis",
       "standard_concept": "S",
@@ -6443,8 +6064,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36811311,
       "concept_name": "Hydrocortisone 10 MG Disintegrating Oral Tablet by Colonis",
       "standard_concept": "S",
@@ -6460,8 +6080,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36811923,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet by AMCo",
       "standard_concept": "S",
@@ -6477,8 +6096,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36812505,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 30 by Colonis",
       "standard_concept": "S",
@@ -6494,8 +6112,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36812775,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 30 by Resolution Chemicals",
       "standard_concept": "S",
@@ -6511,8 +6128,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36813846,
       "concept_name": "Hydrocortisone 10 MG Disintegrating Oral Tablet Box of 30",
       "standard_concept": "S",
@@ -6528,8 +6144,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36813873,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet by Resolution Chemicals",
       "standard_concept": "S",
@@ -6545,8 +6160,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36813955,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet by Colonis",
       "standard_concept": "S",
@@ -6562,8 +6176,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36814213,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 30 by Resolution Chemicals",
       "standard_concept": "S",
@@ -6579,8 +6192,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36814334,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 30 by AMCo",
       "standard_concept": "S",
@@ -6596,8 +6208,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36893667,
       "concept_name": "Hydrocortisone 0.001 MG/MG Oral Suspension",
       "standard_concept": "S",
@@ -6613,8 +6224,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 36897402,
       "concept_name": "30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension",
       "standard_concept": "S",
@@ -6630,8 +6240,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37593177,
       "concept_name": "Hydrocortisone 5 MG Oral Solution by Diurnal",
       "standard_concept": "S",
@@ -6647,8 +6256,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37593178,
       "concept_name": "Hydrocortisone 5 MG Oral Solution",
       "standard_concept": "S",
@@ -6664,8 +6272,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37593179,
       "concept_name": "Hydrocortisone 2 MG Oral Solution by Diurnal",
       "standard_concept": "S",
@@ -6681,8 +6288,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37593180,
       "concept_name": "Hydrocortisone 2 MG Oral Solution",
       "standard_concept": "S",
@@ -6698,8 +6304,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37593181,
       "concept_name": "Hydrocortisone 1 MG Oral Solution by Diurnal",
       "standard_concept": "S",
@@ -6715,8 +6320,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37593182,
       "concept_name": "Hydrocortisone 1 MG Oral Solution",
       "standard_concept": "S",
@@ -6732,8 +6336,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40049693,
       "concept_name": "hydrocortisone Oral Lozenge",
       "standard_concept": "S",
@@ -6749,8 +6352,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40049698,
       "concept_name": "hydrocortisone Oral Suspension",
       "standard_concept": "S",
@@ -6766,8 +6368,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40049699,
       "concept_name": "hydrocortisone Oral Suspension [Cortef]",
       "standard_concept": "S",
@@ -6783,8 +6384,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40049700,
       "concept_name": "hydrocortisone Oral Tablet",
       "standard_concept": "S",
@@ -6800,8 +6400,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40049701,
       "concept_name": "hydrocortisone Oral Tablet [Cortef]",
       "standard_concept": "S",
@@ -6817,8 +6416,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40049702,
       "concept_name": "hydrocortisone Oral Tablet [Hydrocortone]",
       "standard_concept": "S",
@@ -6834,8 +6432,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40226541,
       "concept_name": "hydrocortisone acetate 20 MG/ML",
       "standard_concept": "S",
@@ -6851,8 +6448,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40226550,
       "concept_name": "hydrocortisone acetate 5 MG/ML",
       "standard_concept": "S",
@@ -6868,8 +6464,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40226630,
       "concept_name": "hydrocortisone acetate 0.0055 MG/MG",
       "standard_concept": "S",
@@ -6885,8 +6480,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40228300,
       "concept_name": "hydrocortisone acetate 50 MG/ML",
       "standard_concept": "S",
@@ -6902,8 +6496,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40228303,
       "concept_name": "hydrocortisone acetate 50 MG/ML [Hydrocortone Acetate]",
       "standard_concept": "S",
@@ -6919,8 +6512,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729263,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 30 by Bristol Labs",
       "standard_concept": "S",
@@ -6936,8 +6528,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729264,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 30 by Flynn",
       "standard_concept": "S",
@@ -6953,8 +6544,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729265,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 30 by Alissa",
       "standard_concept": "S",
@@ -6970,8 +6560,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729266,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 30 by AMCo",
       "standard_concept": "S",
@@ -6987,8 +6576,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729267,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 30 by Genesis",
       "standard_concept": "S",
@@ -7004,8 +6592,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729268,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 30 by Phoenix Healthcare Distribution",
       "standard_concept": "S",
@@ -7021,8 +6608,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729269,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 30 by Sigma",
       "standard_concept": "S",
@@ -7038,8 +6624,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729270,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 25 by Sigma",
       "standard_concept": "S",
@@ -7055,8 +6640,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729271,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet by Bristol Labs",
       "standard_concept": "S",
@@ -7072,8 +6656,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729272,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet by Flynn",
       "standard_concept": "S",
@@ -7089,8 +6672,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729273,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet by Alissa",
       "standard_concept": "S",
@@ -7106,8 +6688,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729274,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet by AMCo",
       "standard_concept": "S",
@@ -7123,8 +6704,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729275,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet by Genesis",
       "standard_concept": "S",
@@ -7140,8 +6720,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729276,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet by Phoenix Healthcare Distribution",
       "standard_concept": "S",
@@ -7157,8 +6736,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729770,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet by Sigma",
       "standard_concept": "S",
@@ -7174,8 +6752,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729771,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 30 by Bristol Labs",
       "standard_concept": "S",
@@ -7191,8 +6768,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729772,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 30 by Flynn",
       "standard_concept": "S",
@@ -7208,8 +6784,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729773,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 30 by Genesis",
       "standard_concept": "S",
@@ -7225,8 +6800,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729774,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 30 by Focus",
       "standard_concept": "S",
@@ -7242,8 +6816,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729775,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 30 by Phoenix Healthcare Distribution",
       "standard_concept": "S",
@@ -7259,8 +6832,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729776,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 30 by Sigma",
       "standard_concept": "S",
@@ -7276,8 +6848,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729777,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet by Bristol Labs",
       "standard_concept": "S",
@@ -7293,8 +6864,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729778,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet by Flynn",
       "standard_concept": "S",
@@ -7310,8 +6880,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729779,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet by Genesis",
       "standard_concept": "S",
@@ -7327,8 +6896,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729780,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet by Focus",
       "standard_concept": "S",
@@ -7344,8 +6912,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729781,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet by Phoenix Healthcare Distribution",
       "standard_concept": "S",
@@ -7361,8 +6928,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729782,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet by Sigma",
       "standard_concept": "S",
@@ -7378,8 +6944,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729783,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] by Shire",
       "standard_concept": "S",
@@ -7395,8 +6960,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729787,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet Box of 20 by Accord",
       "standard_concept": "S",
@@ -7412,8 +6976,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729788,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet Box of 20 by Sigma",
       "standard_concept": "S",
@@ -7429,8 +6992,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729789,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet by Accord",
       "standard_concept": "S",
@@ -7446,8 +7008,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729790,
       "concept_name": "Hydrocortisone 2.5 MG Oral Tablet by Sigma",
       "standard_concept": "S",
@@ -7463,8 +7024,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40729800,
       "concept_name": "Hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren] by Shire",
       "standard_concept": "S",
@@ -7480,8 +7040,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40828821,
       "concept_name": "Hydrocortisone 10 MG/ML [Cutisol]",
       "standard_concept": "S",
@@ -7497,8 +7056,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40845203,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet [Plenadren]",
       "standard_concept": "S",
@@ -7514,8 +7072,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40854568,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 100 by Sanofi",
       "standard_concept": "S",
@@ -7531,8 +7088,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40854569,
       "concept_name": "Hydrocortisone 5 MG Oral Tablet [Plenadren] Box of 50 by Shire",
       "standard_concept": "S",
@@ -7548,8 +7104,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40858137,
       "concept_name": "Hydrocortisone 0.00333 MG/ML",
       "standard_concept": "S",
@@ -7565,8 +7120,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40858138,
       "concept_name": "Hydrocortisone 0.0333 MG/ML",
       "standard_concept": "S",
@@ -7582,8 +7136,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40860120,
       "concept_name": "Hydrocortisone 0.001 MG/MG [Alfason]",
       "standard_concept": "S",
@@ -7599,8 +7152,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40866948,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 100",
       "standard_concept": "S",
@@ -7616,8 +7168,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40885884,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocutan] Box of 100 by DermaPharm",
       "standard_concept": "S",
@@ -7633,8 +7184,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40907295,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocortison Acis] Box of 50",
       "standard_concept": "S",
@@ -7650,8 +7200,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40907303,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 100",
       "standard_concept": "S",
@@ -7667,8 +7216,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40916776,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 20 by Sanofi",
       "standard_concept": "S",
@@ -7684,8 +7232,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40920407,
       "concept_name": "Hydrocortisone 4 MG/ML",
       "standard_concept": "S",
@@ -7701,8 +7248,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40925593,
       "concept_name": "Hydrocortisone Oral Powder [Endomethasone]",
       "standard_concept": "S",
@@ -7718,8 +7264,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40929193,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 150",
       "standard_concept": "S",
@@ -7735,8 +7280,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40938635,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocutan]",
       "standard_concept": "S",
@@ -7752,8 +7296,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40938636,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocortison Acis] Box of 20",
       "standard_concept": "S",
@@ -7769,8 +7312,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40938651,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet [Plenadren] Box of 100",
       "standard_concept": "S",
@@ -7786,8 +7328,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40948171,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 50 by Galen",
       "standard_concept": "S",
@@ -7803,8 +7344,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40956862,
       "concept_name": "Hydrocortisone Oral Tablet [Hydrocutan]",
       "standard_concept": "S",
@@ -7820,8 +7360,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40969685,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocutan] Box of 50",
       "standard_concept": "S",
@@ -7837,8 +7376,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40969686,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocutan] Box of 20",
       "standard_concept": "S",
@@ -7854,8 +7392,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40969704,
       "concept_name": "Hydrocortisone 5 MG Oral Tablet [Plenadren] Box of 100",
       "standard_concept": "S",
@@ -7871,8 +7408,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40979100,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocortison Acis] Box of 100 by Acis",
       "standard_concept": "S",
@@ -7888,8 +7424,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40979101,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 100 by Teofarma",
       "standard_concept": "S",
@@ -7905,8 +7440,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40979102,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 100 by Mibe",
       "standard_concept": "S",
@@ -7922,8 +7456,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40979103,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 100 by Galen",
       "standard_concept": "S",
@@ -7939,8 +7472,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40991743,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet Box of 100",
       "standard_concept": "S",
@@ -7956,8 +7488,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40991744,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 50",
       "standard_concept": "S",
@@ -7973,8 +7504,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41000998,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocutan] Box of 100",
       "standard_concept": "S",
@@ -7990,8 +7520,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41015865,
       "concept_name": "Hydrocortisone 0.0333 MG/ML [Alfason]",
       "standard_concept": "S",
@@ -8007,8 +7536,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41022680,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 300",
       "standard_concept": "S",
@@ -8024,8 +7552,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41032084,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydroson] Box of 50",
       "standard_concept": "S",
@@ -8041,8 +7568,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41032119,
       "concept_name": "Hydrocortisone 5 MG Oral Tablet [Plenadren] Box of 50",
       "standard_concept": "S",
@@ -8058,8 +7584,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41041544,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocutan] Box of 50 by DermaPharm",
       "standard_concept": "S",
@@ -8075,8 +7600,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41041545,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 50 by Eurim-Pharm",
       "standard_concept": "S",
@@ -8092,8 +7616,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41053973,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 20",
       "standard_concept": "S",
@@ -8109,8 +7632,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41072807,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 100 by Shire",
       "standard_concept": "S",
@@ -8126,8 +7648,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41072808,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 50 by Cc",
       "standard_concept": "S",
@@ -8143,8 +7664,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41072809,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet [Plenadren] Box of 50 by Eurim-Pharm",
       "standard_concept": "S",
@@ -8160,8 +7680,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41085522,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 100",
       "standard_concept": "S",
@@ -8177,8 +7696,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41094833,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydroson] Box of 100",
       "standard_concept": "S",
@@ -8194,8 +7712,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41104285,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 150 by Sanofi",
       "standard_concept": "S",
@@ -8211,8 +7728,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41104286,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 20 by Jenapharm",
       "standard_concept": "S",
@@ -8228,8 +7744,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41126087,
       "concept_name": "Hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren] Box of 100",
       "standard_concept": "S",
@@ -8245,8 +7760,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41135694,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydroson] Box of 50 by DermaPharm",
       "standard_concept": "S",
@@ -8262,8 +7776,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41135695,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydroson] Box of 20 by DermaPharm",
       "standard_concept": "S",
@@ -8279,8 +7792,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41135696,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 50 by Jenapharm",
       "standard_concept": "S",
@@ -8296,8 +7808,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41135697,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 20 by Teofarma",
       "standard_concept": "S",
@@ -8313,8 +7824,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41135698,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 20 by Mibe",
       "standard_concept": "S",
@@ -8330,8 +7840,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41135699,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 50 by Shire",
       "standard_concept": "S",
@@ -8347,8 +7856,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41135700,
       "concept_name": "Hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren] Box of 100 by Shire",
       "standard_concept": "S",
@@ -8364,8 +7872,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41135701,
       "concept_name": "Hydrocortisone 5 MG Extended Release Oral Tablet [Plenadren] Box of 50 by Shire",
       "standard_concept": "S",
@@ -8381,8 +7888,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41141261,
       "concept_name": "Hydrocortisone 10 MG [Hydrocutan]",
       "standard_concept": "S",
@@ -8398,8 +7904,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41142946,
       "concept_name": "Hydrocortisone Oral Powder",
       "standard_concept": "S",
@@ -8415,8 +7920,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41157554,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydroson]",
       "standard_concept": "S",
@@ -8432,8 +7936,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41166957,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocutan] Box of 20 by DermaPharm",
       "standard_concept": "S",
@@ -8449,8 +7952,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41166958,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 300 by Sanofi",
       "standard_concept": "S",
@@ -8466,8 +7968,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41166959,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 20 by Galen",
       "standard_concept": "S",
@@ -8483,8 +7984,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41166960,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 100 by Kohlpharma",
       "standard_concept": "S",
@@ -8500,8 +8000,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41166961,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 50 by Kohlpharma",
       "standard_concept": "S",
@@ -8517,8 +8016,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41172376,
       "concept_name": "Hydrocortisone 0.1 MG/ML [Hydrogalen]",
       "standard_concept": "S",
@@ -8534,8 +8032,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41198300,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 50 by Teofarma",
       "standard_concept": "S",
@@ -8551,8 +8048,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41198301,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 50 by Mibe",
       "standard_concept": "S",
@@ -8568,8 +8064,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41201879,
       "concept_name": "Hydrocortisone 3 MG/ML",
       "standard_concept": "S",
@@ -8585,8 +8080,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41203875,
       "concept_name": "Hydrocortisone 0.00333 MG/ML [Alfason]",
       "standard_concept": "S",
@@ -8602,8 +8096,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41207179,
       "concept_name": "Hydrocortisone Oral Tablet [Hydroson]",
       "standard_concept": "S",
@@ -8619,8 +8112,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41219844,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet [Plenadren] Box of 50",
       "standard_concept": "S",
@@ -8636,8 +8128,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41229380,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 300 by Teofarma",
       "standard_concept": "S",
@@ -8653,8 +8144,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41229381,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 100 by Orifarm Leverkus",
       "standard_concept": "S",
@@ -8670,8 +8160,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41229382,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 100 by Axicorp",
       "standard_concept": "S",
@@ -8687,8 +8176,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41234857,
       "concept_name": "Hydrocortisone 10 MG [Hydroson]",
       "standard_concept": "S",
@@ -8704,8 +8192,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41238092,
       "concept_name": "Hydrocortisone Oral Tablet [Plenadren]",
       "standard_concept": "S",
@@ -8721,8 +8208,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41250844,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocortison Acis] Box of 100",
       "standard_concept": "S",
@@ -8738,8 +8224,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41260196,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocortison Acis] Box of 20 by Acis",
       "standard_concept": "S",
@@ -8755,8 +8240,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41260197,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 50 by Sanofi",
       "standard_concept": "S",
@@ -8772,8 +8256,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41291287,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 100 by Jenapharm",
       "standard_concept": "S",
@@ -8789,8 +8272,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41303657,
       "concept_name": "Hydrocortisone 5 MG Oral Tablet Box of 100",
       "standard_concept": "S",
@@ -8806,8 +8288,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41303658,
       "concept_name": "Hydrocortisone 5 MG Extended Release Oral Tablet Box of 100",
       "standard_concept": "S",
@@ -8823,8 +8304,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41303659,
       "concept_name": "Hydrocortisone 5 MG Oral Tablet Box of 50",
       "standard_concept": "S",
@@ -8840,8 +8320,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41313064,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydroson] Box of 20",
       "standard_concept": "S",
@@ -8857,8 +8336,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41313092,
       "concept_name": "Hydrocortisone 5 MG Oral Tablet [Plenadren]",
       "standard_concept": "S",
@@ -8874,8 +8352,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41322619,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydroson] Box of 100 by DermaPharm",
       "standard_concept": "S",
@@ -8891,8 +8368,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 41322620,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocortison Acis] Box of 50 by Acis",
       "standard_concept": "S",
@@ -8908,8 +8384,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42479575,
       "concept_name": "Hydrocortisone 5 MG Extended Release Oral Tablet",
       "standard_concept": "S",
@@ -8925,8 +8400,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42481321,
       "concept_name": "Hydrocortisone Oral Solution",
       "standard_concept": "S",
@@ -8942,8 +8416,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42481322,
       "concept_name": "Hydrocortisone 4 MG Oral Lozenge",
       "standard_concept": "S",
@@ -8959,8 +8432,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42481959,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet",
       "standard_concept": "S",
@@ -8976,8 +8448,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42483100,
       "concept_name": "Hydrocortisone Extended Release Oral Tablet",
       "standard_concept": "S",
@@ -8993,8 +8464,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42875920,
       "concept_name": "Hydrocortisone 20 MG Extended Release Oral Tablet [Plenadren] Box of 50 by Paranova Pack",
       "standard_concept": "S",
@@ -9010,8 +8480,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939598,
       "concept_name": "Hydrocortisone 5 MG Oral Tablet [HYDROCORTISONE JR]",
       "standard_concept": "S",
@@ -9027,8 +8496,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939599,
       "concept_name": "Hydrocortisone 5 MG [HYDROCORTISONE JR]",
       "standard_concept": "S",
@@ -9044,8 +8512,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939639,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hysone]",
       "standard_concept": "S",
@@ -9061,8 +8528,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939640,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [HIDEN]",
       "standard_concept": "S",
@@ -9078,8 +8544,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939641,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [HYTISONE]",
       "standard_concept": "S",
@@ -9095,8 +8560,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939642,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [HIROXON]",
       "standard_concept": "S",
@@ -9112,8 +8576,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939643,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [HIGHROSONE]",
       "standard_concept": "S",
@@ -9129,8 +8592,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939644,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [HYDRO]",
       "standard_concept": "S",
@@ -9146,8 +8608,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939645,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [COROSONE]",
       "standard_concept": "S",
@@ -9163,8 +8624,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939646,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [HYDROCORTISONE JR]",
       "standard_concept": "S",
@@ -9180,8 +8640,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939647,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [RAPISON]",
       "standard_concept": "S",
@@ -9197,8 +8656,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939648,
       "concept_name": "Hydrocortisone 10 MG [Hysone]",
       "standard_concept": "S",
@@ -9214,8 +8672,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939649,
       "concept_name": "Hydrocortisone 10 MG [HIDEN]",
       "standard_concept": "S",
@@ -9231,8 +8688,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939650,
       "concept_name": "Hydrocortisone 10 MG [HYTISONE]",
       "standard_concept": "S",
@@ -9248,8 +8704,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939651,
       "concept_name": "Hydrocortisone 10 MG [HIROXON]",
       "standard_concept": "S",
@@ -9265,8 +8720,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939652,
       "concept_name": "Hydrocortisone 10 MG [HIGHROSONE]",
       "standard_concept": "S",
@@ -9282,8 +8736,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939653,
       "concept_name": "Hydrocortisone 10 MG [HYDRO]",
       "standard_concept": "S",
@@ -9299,8 +8752,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939654,
       "concept_name": "Hydrocortisone 10 MG [COROSONE]",
       "standard_concept": "S",
@@ -9316,8 +8768,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939655,
       "concept_name": "Hydrocortisone 10 MG [HYDROCORTISONE JR]",
       "standard_concept": "S",
@@ -9333,8 +8784,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939656,
       "concept_name": "Hydrocortisone 10 MG [RAPISON]",
       "standard_concept": "S",
@@ -9350,8 +8800,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939678,
       "concept_name": "Hydrocortisone Oral Tablet [HIDEN]",
       "standard_concept": "S",
@@ -9367,8 +8816,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939679,
       "concept_name": "Hydrocortisone Oral Tablet [HYTISONE]",
       "standard_concept": "S",
@@ -9384,8 +8832,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939680,
       "concept_name": "Hydrocortisone Oral Tablet [HIROXON]",
       "standard_concept": "S",
@@ -9401,8 +8848,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939681,
       "concept_name": "Hydrocortisone Oral Tablet [HIGHROSONE]",
       "standard_concept": "S",
@@ -9418,8 +8864,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939682,
       "concept_name": "Hydrocortisone Oral Tablet [HYDRO]",
       "standard_concept": "S",
@@ -9435,8 +8880,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939683,
       "concept_name": "Hydrocortisone Oral Tablet [COROSONE]",
       "standard_concept": "S",
@@ -9452,8 +8896,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939684,
       "concept_name": "Hydrocortisone Oral Tablet [HYDROCORTISONE JR]",
       "standard_concept": "S",
@@ -9469,8 +8912,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42939685,
       "concept_name": "Hydrocortisone Oral Tablet [RAPISON]",
       "standard_concept": "S",
@@ -9486,8 +8928,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43013655,
       "concept_name": "hydrocortisone butyrate 0.001 MG/MG",
       "standard_concept": "S",
@@ -9503,8 +8944,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43013659,
       "concept_name": "hydrocortisone butyrate 1 MG/ML",
       "standard_concept": "S",
@@ -9520,8 +8960,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43013666,
       "concept_name": "hydrocortisone butyrate 1 MG/ML [Locoid]",
       "standard_concept": "S",
@@ -9537,8 +8976,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43014077,
       "concept_name": "hydrocortisone probutate 1 MG/ML",
       "standard_concept": "S",
@@ -9554,8 +8992,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43032966,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 25 by Sanofi",
       "standard_concept": "S",
@@ -9571,8 +9008,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43134957,
       "concept_name": "Hydrocortisone 10 MG [HYDROCORTISONE ROUSSEL]",
       "standard_concept": "S",
@@ -9588,8 +9024,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43134958,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [HYDROCORTISONE ROUSSEL] Box of 25 by Sanofi",
       "standard_concept": "S",
@@ -9605,8 +9040,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43134959,
       "concept_name": "Hydrocortisone 100 MG/ML [HYDROCORTISONE UPJOHN]",
       "standard_concept": "S",
@@ -9622,8 +9056,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43145831,
       "concept_name": "Hydrocortisone Oral Tablet [HYDROCORTISONE ROUSSEL]",
       "standard_concept": "S",
@@ -9639,8 +9072,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43157087,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [HYDROCORTISONE ROUSSEL]",
       "standard_concept": "S",
@@ -9656,8 +9088,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43179035,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet Box of 50",
       "standard_concept": "S",
@@ -9673,8 +9104,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43211786,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [HYDROCORTISONE ROUSSEL] Box of 25",
       "standard_concept": "S",
@@ -9690,8 +9120,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43211787,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [HYDROCORTISONE ROUSSEL] Box of 50",
       "standard_concept": "S",
@@ -9707,8 +9136,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43211788,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [HYDROCORTISONE ROUSSEL] Box of 50 by Sanofi",
       "standard_concept": "S",
@@ -9724,8 +9152,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43255982,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet [Hysone] Box of 60",
       "standard_concept": "S",
@@ -9741,8 +9168,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43261325,
       "concept_name": "Hydrocortisone 4 MG Oral Tablet [Hysone] Box of 50",
       "standard_concept": "S",
@@ -9758,8 +9184,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43266787,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet Box of 60",
       "standard_concept": "S",
@@ -9775,8 +9200,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43266789,
       "concept_name": "Hydrocortisone 4 MG Oral Tablet [Hysone]",
       "standard_concept": "S",
@@ -9792,8 +9216,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43288533,
       "concept_name": "Hydrocortisone Oral Tablet [Hysone]",
       "standard_concept": "S",
@@ -9809,8 +9232,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43288536,
       "concept_name": "Hydrocortisone 20 MG [Hysone]",
       "standard_concept": "S",
@@ -9826,8 +9248,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43288537,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet [Hysone]",
       "standard_concept": "S",
@@ -9843,8 +9264,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43293982,
       "concept_name": "Hydrocortisone 4 MG [Hysone]",
       "standard_concept": "S",
@@ -9860,8 +9280,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43293983,
       "concept_name": "Hydrocortisone 4 MG Oral Tablet Box of 50",
       "standard_concept": "S",
@@ -9877,8 +9296,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43582141,
       "concept_name": "Hydrocortisone 10 MG [Hydrocortison Acis]",
       "standard_concept": "S",
@@ -9894,8 +9312,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43582147,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet [Hydrocortison Acis] by Acis",
       "standard_concept": "S",
@@ -9911,8 +9328,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43589535,
       "concept_name": "1000 MG Hydrocortisone 0.0025 MG/MG Oral Suspension",
       "standard_concept": "S",
@@ -9928,8 +9344,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43595145,
       "concept_name": "100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] by Astellas",
       "standard_concept": "S",
@@ -9945,8 +9360,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43600172,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocortison Hoechst]",
       "standard_concept": "S",
@@ -9962,8 +9376,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43600173,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocortison Galen] by Galen",
       "standard_concept": "S",
@@ -9979,8 +9392,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43600178,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet by Mibe",
       "standard_concept": "S",
@@ -9996,8 +9408,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43600183,
       "concept_name": "Hydrocortisone 5 MG/ML [Hydrocortison Hoechst]",
       "standard_concept": "S",
@@ -10013,8 +9424,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43611474,
       "concept_name": "50 ML Hydrocortisone 2.5 MG/ML Oral Suspension [Systral] by Meda",
       "standard_concept": "S",
@@ -10030,8 +9440,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43636294,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocortison Hoechst] by Teofarma",
       "standard_concept": "S",
@@ -10047,8 +9456,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43638229,
       "concept_name": "Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 30",
       "standard_concept": "S",
@@ -10064,8 +9472,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43638230,
       "concept_name": "Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 100",
       "standard_concept": "S",
@@ -10081,8 +9488,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43654337,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocortison Acis]",
       "standard_concept": "S",
@@ -10098,8 +9504,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43654346,
       "concept_name": "Hydrocortisone 20 MG [Hydrocortison Acis]",
       "standard_concept": "S",
@@ -10115,8 +9520,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43665157,
       "concept_name": "25 ML Hydrocortisone 2.5 MG/ML Oral Suspension [Systral] by Meda",
       "standard_concept": "S",
@@ -10132,8 +9536,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43665234,
       "concept_name": "30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension Box of 10",
       "standard_concept": "S",
@@ -10149,8 +9552,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43665235,
       "concept_name": "30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension Box of 30",
       "standard_concept": "S",
@@ -10166,8 +9568,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43665236,
       "concept_name": "30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] by Astellas",
       "standard_concept": "S",
@@ -10183,8 +9584,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43667355,
       "concept_name": "100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason]",
       "standard_concept": "S",
@@ -10200,8 +9600,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43672489,
       "concept_name": "Hydrocortisone Oral Tablet [Hydrocortison Hoechst]",
       "standard_concept": "S",
@@ -10217,8 +9616,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43674475,
       "concept_name": "Hydrocortisone 0.001 MG/MG Oral Suspension Box of 30",
       "standard_concept": "S",
@@ -10234,8 +9632,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43683119,
       "concept_name": "30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason]",
       "standard_concept": "S",
@@ -10251,8 +9648,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43683656,
       "concept_name": "50 ML Hydrocortisone 2.5 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -10268,8 +9664,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43685286,
       "concept_name": "100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 100",
       "standard_concept": "S",
@@ -10285,8 +9680,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43690351,
       "concept_name": "Hydrocortisone Oral Tablet [Hydrocortison Galen]",
       "standard_concept": "S",
@@ -10302,8 +9696,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43701070,
       "concept_name": "25 ML Hydrocortisone 2.5 MG/ML Oral Suspension",
       "standard_concept": "S",
@@ -10319,8 +9712,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43701150,
       "concept_name": "30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 30 by Astellas",
       "standard_concept": "S",
@@ -10336,8 +9728,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43708184,
       "concept_name": "Hydrocortisone 10 MG [Hydrocortison Galen]",
       "standard_concept": "S",
@@ -10353,8 +9744,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43726122,
       "concept_name": "Hydrocortisone Oral Tablet [Hydrocortison Acis]",
       "standard_concept": "S",
@@ -10370,8 +9760,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43726125,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocortison Acis] by Acis",
       "standard_concept": "S",
@@ -10387,8 +9776,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43728123,
       "concept_name": "Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason]",
       "standard_concept": "S",
@@ -10404,8 +9792,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43744203,
       "concept_name": "Hydrocortisone 0.0025 MG/MG Oral Suspension [Systral]",
       "standard_concept": "S",
@@ -10421,8 +9808,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43746044,
       "concept_name": "Hydrocortisone 0.001 MG/MG Oral Suspension Box of 100",
       "standard_concept": "S",
@@ -10438,8 +9824,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43751587,
       "concept_name": "1000 MG Hydrocortisone 0.001 MG/MG Oral Suspension",
       "standard_concept": "S",
@@ -10455,8 +9840,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43754901,
       "concept_name": "30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 10",
       "standard_concept": "S",
@@ -10472,8 +9856,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43757035,
       "concept_name": "100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension",
       "standard_concept": "S",
@@ -10489,8 +9872,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43762049,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydrocortison Galen]",
       "standard_concept": "S",
@@ -10506,8 +9888,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43762051,
       "concept_name": "Hydrocortisone 2.5 MG/ML [Systral]",
       "standard_concept": "S",
@@ -10523,8 +9904,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43762054,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet [Hydrocortison Acis]",
       "standard_concept": "S",
@@ -10540,8 +9920,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43769507,
       "concept_name": "1000 MG Hydrocortisone 0.0025 MG/MG Oral Suspension [Systral]",
       "standard_concept": "S",
@@ -10557,8 +9936,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43780121,
       "concept_name": "Hydrocortisone 2.5 MG/ML Oral Suspension [Systral]",
       "standard_concept": "S",
@@ -10574,8 +9952,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43787412,
       "concept_name": "1000 MG Hydrocortisone 0.0025 MG/MG Oral Suspension [Systral] by Meda",
       "standard_concept": "S",
@@ -10591,8 +9968,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43791277,
       "concept_name": "50 ML Hydrocortisone 2.5 MG/ML Oral Suspension [Systral]",
       "standard_concept": "S",
@@ -10608,8 +9984,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43792883,
       "concept_name": "100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 100 by Astellas",
       "standard_concept": "S",
@@ -10625,8 +10000,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43798084,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet by Mibe",
       "standard_concept": "S",
@@ -10642,8 +10016,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43798085,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Hydroson] by DermaPharm",
       "standard_concept": "S",
@@ -10659,8 +10032,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43799978,
       "concept_name": "Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 10",
       "standard_concept": "S",
@@ -10676,8 +10048,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43816135,
       "concept_name": "Hydrocortisone Oral Suspension [Systral]",
       "standard_concept": "S",
@@ -10693,8 +10064,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43816136,
       "concept_name": "Hydrocortisone 10 MG [Hydrocortison Hoechst]",
       "standard_concept": "S",
@@ -10710,8 +10080,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43818094,
       "concept_name": "Hydrocortisone Oral Suspension [Alfason]",
       "standard_concept": "S",
@@ -10727,8 +10096,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43818095,
       "concept_name": "Hydrocortisone 1 MG/ML [Alfason]",
       "standard_concept": "S",
@@ -10744,8 +10112,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43818099,
       "concept_name": "Hydrocortisone 0.001 MG/MG Oral Suspension Box of 10",
       "standard_concept": "S",
@@ -10761,8 +10128,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43823611,
       "concept_name": "1000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason]",
       "standard_concept": "S",
@@ -10778,8 +10144,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43829056,
       "concept_name": "100000 MG Hydrocortisone 0.001 MG/MG Oral Suspension Box of 100",
       "standard_concept": "S",
@@ -10795,8 +10160,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43834326,
       "concept_name": "Hydrocortisone 0.0025 MG/MG [Systral]",
       "standard_concept": "S",
@@ -10812,8 +10176,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43841724,
       "concept_name": "1000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] by Astellas",
       "standard_concept": "S",
@@ -10829,8 +10192,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43844951,
       "concept_name": "25 ML Hydrocortisone 2.5 MG/ML Oral Suspension [Systral]",
       "standard_concept": "S",
@@ -10846,8 +10208,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43845018,
       "concept_name": "30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 10 by Astellas",
       "standard_concept": "S",
@@ -10863,8 +10224,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43863216,
       "concept_name": "30000 MG Hydrocortisone 0.001 MG/MG Oral Suspension [Alfason] Box of 30",
       "standard_concept": "S",
@@ -10880,8 +10240,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44076142,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet [Cortef] by Pfizer",
       "standard_concept": "S",
@@ -10897,8 +10256,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44093189,
       "concept_name": "Hydrocortisone 250 MG [A-Hydrocort]",
       "standard_concept": "S",
@@ -10914,8 +10272,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44128016,
       "concept_name": "Hydrocortisone 10 MG Oral Tablet [Cortef] by Pfizer",
       "standard_concept": "S",
@@ -10931,8 +10288,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44160638,
       "concept_name": "Hydrocortisone 0.01 MG/ML [Alfason]",
       "standard_concept": "S",
@@ -10948,8 +10304,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44175033,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet [Plenadren] Box of 100 by Orifarm Leverkus",
       "standard_concept": "S",
@@ -10965,8 +10320,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44178788,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet [Plenadren] Box of 100 by Kohlpharma",
       "standard_concept": "S",
@@ -10982,8 +10336,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44178789,
       "concept_name": "Hydrocortisone 20 MG Oral Tablet [Plenadren] Box of 100 by Axicorp",
       "standard_concept": "S",
@@ -10999,8 +10352,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45774728,
       "concept_name": "hydrocortisone acetate 100 MG/ML",
       "standard_concept": "S",
@@ -11016,8 +10368,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "hydrocortisone-oral",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45776722,
       "concept_name": "hydrocortisone acetate 15 MG/ML",
       "standard_concept": "S",

@@ -1,7 +1,6 @@
 [
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1518254,
       "concept_name": "dexamethasone",
       "standard_concept": "S",
@@ -17,8 +16,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1518258,
       "concept_name": "dexamethasone 0.5 MG Oral Tablet",
       "standard_concept": "S",
@@ -34,8 +32,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1518261,
       "concept_name": "dexamethasone 2 MG Oral Tablet",
       "standard_concept": "S",
@@ -51,8 +48,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1518491,
       "concept_name": "dexamethasone 0.2 MG/ML Oral Solution",
       "standard_concept": "S",
@@ -68,8 +64,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1518603,
       "concept_name": "dexamethasone 0.1 MG/ML",
       "standard_concept": "S",
@@ -85,8 +80,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1518605,
       "concept_name": "dexamethasone 0.5 MG",
       "standard_concept": "S",
@@ -102,8 +96,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1518610,
       "concept_name": "dexamethasone 2 MG",
       "standard_concept": "S",
@@ -119,8 +112,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1518611,
       "concept_name": "dexamethasone 1 MG/ML",
       "standard_concept": "S",
@@ -136,8 +128,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1518644,
       "concept_name": "dexamethasone 0.4 MG/ML",
       "standard_concept": "S",
@@ -153,8 +144,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1518684,
       "concept_name": "dexamethasone 0.4 MG",
       "standard_concept": "S",
@@ -170,8 +160,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1518687,
       "concept_name": "dexamethasone 0.2 MG/ML",
       "standard_concept": "S",
@@ -187,8 +176,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1518851,
       "concept_name": "dexamethasone 0.1 MG/ML Oral Solution [Decadron]",
       "standard_concept": "S",
@@ -204,8 +192,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1518872,
       "concept_name": "dexamethasone 0.1 MG/ML Oral Solution [Hexadrol]",
       "standard_concept": "S",
@@ -221,8 +208,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19006962,
       "concept_name": "dexamethasone 0.5 MG Oral Tablet [Decadron]",
       "standard_concept": "S",
@@ -238,8 +224,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19010639,
       "concept_name": "dexamethasone 0.4 MG/ML Oral Solution",
       "standard_concept": "S",
@@ -255,8 +240,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19029973,
       "concept_name": "dexamethasone 1 MG/ML Oral Solution [Dexamethasone Intensol]",
       "standard_concept": "S",
@@ -272,8 +256,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19076135,
       "concept_name": "dexamethasone 1 MG/ML Oral Solution",
       "standard_concept": "S",
@@ -289,8 +272,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19076136,
       "concept_name": "dexamethasone 0.1 MG/ML Oral Solution",
       "standard_concept": "S",
@@ -306,8 +288,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19103651,
       "concept_name": "dexamethasone 0.4 MG Oral Capsule",
       "standard_concept": "S",
@@ -323,8 +304,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19105671,
       "concept_name": "dexamethasone 0.5 MG/ML Oral Solution",
       "standard_concept": "S",
@@ -340,8 +320,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19109493,
       "concept_name": "dexamethasone 0.5 MG/ML",
       "standard_concept": "S",
@@ -357,8 +336,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40028598,
       "concept_name": "dexamethasone Oral Capsule",
       "standard_concept": "S",
@@ -374,8 +352,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40028599,
       "concept_name": "dexamethasone Oral Solution",
       "standard_concept": "S",
@@ -391,8 +368,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40028601,
       "concept_name": "dexamethasone Oral Tablet",
       "standard_concept": "S",
@@ -408,8 +384,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "dexamethasone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173366,
       "concept_name": "dexamethasone 0.1 MG/ML Oral Solution [Baycadron]",
       "standard_concept": "S",

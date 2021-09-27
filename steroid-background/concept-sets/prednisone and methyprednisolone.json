@@ -1,7 +1,6 @@
 [
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1113120,
       "concept_name": "aspirin 300 MG / methylprednisolone 1.5 MG Oral Tablet",
       "standard_concept": "S",
@@ -17,8 +16,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1146889,
       "concept_name": "piroxicam 10 MG / prednisone 2 MG Oral Tablet",
       "standard_concept": "S",
@@ -34,8 +32,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1506270,
       "concept_name": "methylprednisolone",
       "standard_concept": "S",
@@ -51,8 +48,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1506312,
       "concept_name": "methylprednisolone 2 MG Oral Tablet",
       "standard_concept": "S",
@@ -68,8 +64,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1506314,
       "concept_name": "methylprednisolone 32 MG Oral Tablet",
       "standard_concept": "S",
@@ -85,8 +80,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1506315,
       "concept_name": "methylprednisolone 8 MG Oral Tablet",
       "standard_concept": "S",
@@ -102,8 +96,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1506316,
       "concept_name": "methylprednisolone 100 MG Oral Tablet",
       "standard_concept": "S",
@@ -119,8 +112,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1506426,
       "concept_name": "methylprednisolone 4 MG Oral Tablet",
       "standard_concept": "S",
@@ -136,8 +128,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1506430,
       "concept_name": "methylprednisolone 40 MG Injection",
       "standard_concept": "S",
@@ -153,8 +144,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1506472,
       "concept_name": "methylprednisolone 2 MG",
       "standard_concept": "S",
@@ -170,8 +160,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1506473,
       "concept_name": "methylprednisolone 24 MG",
       "standard_concept": "S",
@@ -187,8 +176,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1506474,
       "concept_name": "methylprednisolone 32 MG",
       "standard_concept": "S",
@@ -204,8 +192,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1506475,
       "concept_name": "methylprednisolone 8 MG",
       "standard_concept": "S",
@@ -221,8 +208,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1506476,
       "concept_name": "methylprednisolone 16 MG",
       "standard_concept": "S",
@@ -238,8 +224,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1506477,
       "concept_name": "methylprednisolone 4 MG",
       "standard_concept": "S",
@@ -255,8 +240,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1506479,
       "concept_name": "methylprednisolone 16 MG Oral Tablet",
       "standard_concept": "S",
@@ -272,8 +256,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1506513,
       "concept_name": "methylprednisolone 100 MG",
       "standard_concept": "S",
@@ -289,8 +272,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1506516,
       "concept_name": "methylprednisolone 20 MG/ML",
       "standard_concept": "S",
@@ -306,8 +288,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1506520,
       "concept_name": "methylprednisolone 62.5 MG/ML",
       "standard_concept": "S",
@@ -323,8 +304,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1551099,
       "concept_name": "prednisone",
       "standard_concept": "S",
@@ -340,8 +320,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1551100,
       "concept_name": "prednisone 1 MG Oral Tablet",
       "standard_concept": "S",
@@ -357,8 +336,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1551101,
       "concept_name": "prednisone 10 MG Oral Tablet",
       "standard_concept": "S",
@@ -374,8 +352,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1551122,
       "concept_name": "prednisone 2.5 MG Oral Tablet",
       "standard_concept": "S",
@@ -391,8 +368,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1551123,
       "concept_name": "prednisone 50 MG Oral Tablet",
       "standard_concept": "S",
@@ -408,8 +384,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1551170,
       "concept_name": "prednisone 20 MG Oral Tablet",
       "standard_concept": "S",
@@ -425,8 +400,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1551171,
       "concept_name": "prednisone 25 MG Oral Tablet",
       "standard_concept": "S",
@@ -442,8 +416,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1551192,
       "concept_name": "prednisone 5 MG Oral Tablet",
       "standard_concept": "S",
@@ -459,8 +432,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1551193,
       "concept_name": "prednisone 1 MG/ML Oral Solution",
       "standard_concept": "S",
@@ -476,8 +448,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1551195,
       "concept_name": "prednisone 2.5 MG",
       "standard_concept": "S",
@@ -493,8 +464,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1551196,
       "concept_name": "prednisone 20 MG",
       "standard_concept": "S",
@@ -510,8 +480,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1551197,
       "concept_name": "prednisone 25 MG",
       "standard_concept": "S",
@@ -527,8 +496,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1551198,
       "concept_name": "prednisone 5 MG",
       "standard_concept": "S",
@@ -544,8 +512,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1551199,
       "concept_name": "prednisone 5 MG/ML",
       "standard_concept": "S",
@@ -561,8 +528,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1551200,
       "concept_name": "prednisone 50 MG",
       "standard_concept": "S",
@@ -578,8 +544,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1551201,
       "concept_name": "prednisone 1 MG",
       "standard_concept": "S",
@@ -595,8 +560,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1551232,
       "concept_name": "prednisone 10 MG",
       "standard_concept": "S",
@@ -612,8 +576,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1551233,
       "concept_name": "prednisone 2 MG",
       "standard_concept": "S",
@@ -629,8 +592,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1551234,
       "concept_name": "prednisone 5 MG Oral Tablet [Prednicot]",
       "standard_concept": "S",
@@ -646,8 +608,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19007004,
       "concept_name": "methylprednisolone 50 MG/ML Injectable Solution",
       "standard_concept": "S",
@@ -663,8 +624,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19007010,
       "concept_name": "prednisone 5 MG Oral Tablet [Decortisyl]",
       "standard_concept": "S",
@@ -680,8 +640,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19009116,
       "concept_name": "meprednisone",
       "standard_concept": "S",
@@ -697,8 +656,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19009117,
       "concept_name": "meprednisone 8 MG Oral Tablet",
       "standard_concept": "S",
@@ -714,8 +672,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19009119,
       "concept_name": "meprednisone 4 MG Oral Tablet",
       "standard_concept": "S",
@@ -731,8 +688,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19009120,
       "concept_name": "meprednisone 4 MG/ML Oral Solution",
       "standard_concept": "S",
@@ -748,8 +704,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19019158,
       "concept_name": "methylprednisolone 24 MG Oral Tablet",
       "standard_concept": "S",
@@ -765,8 +720,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19024533,
       "concept_name": "prednisone 1 MG Oral Tablet [Econosone]",
       "standard_concept": "S",
@@ -782,8 +736,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19024534,
       "concept_name": "prednisone 5 MG Oral Tablet [Econosone]",
       "standard_concept": "S",
@@ -799,8 +752,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19028933,
       "concept_name": "prednisone 5 MG/ML Oral Solution",
       "standard_concept": "S",
@@ -816,8 +768,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19031623,
       "concept_name": "prednisone 1 MG/ML Oral Solution [Liquid Pred]",
       "standard_concept": "S",
@@ -833,8 +784,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19033379,
       "concept_name": "prednisone 1 MG Oral Tablet [Meticorten]",
       "standard_concept": "S",
@@ -850,8 +800,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19033380,
       "concept_name": "prednisone 1 MG Oral Tablet [Orasone]",
       "standard_concept": "S",
@@ -867,8 +816,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19033622,
       "concept_name": "prednisone 2.5 MG Oral Tablet [Deltasone]",
       "standard_concept": "S",
@@ -884,8 +832,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034011,
       "concept_name": "prednisone 5 MG Oral Tablet [Deltasone]",
       "standard_concept": "S",
@@ -901,8 +848,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034012,
       "concept_name": "prednisone 5 MG Oral Tablet [Orasone]",
       "standard_concept": "S",
@@ -918,8 +864,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034013,
       "concept_name": "prednisone 5 MG Oral Tablet [Prednicen-M]",
       "standard_concept": "S",
@@ -935,8 +880,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034014,
       "concept_name": "prednisone 5 MG Oral Tablet [Sterapred]",
       "standard_concept": "S",
@@ -952,8 +896,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034196,
       "concept_name": "prednisone 10 MG [Prednicot]",
       "standard_concept": "S",
@@ -969,8 +912,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034197,
       "concept_name": "prednisone 20 MG [Prednicot]",
       "standard_concept": "S",
@@ -986,8 +928,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034203,
       "concept_name": "prednisone 10 MG Oral Tablet [Deltasone]",
       "standard_concept": "S",
@@ -1003,8 +944,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034204,
       "concept_name": "prednisone 10 MG Oral Tablet [Orasone]",
       "standard_concept": "S",
@@ -1020,8 +960,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034205,
       "concept_name": "prednisone 10 MG Oral Tablet [Sterapred DS]",
       "standard_concept": "S",
@@ -1037,8 +976,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034231,
       "concept_name": "prednisone 20 MG Oral Tablet [Deltasone]",
       "standard_concept": "S",
@@ -1054,8 +992,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034232,
       "concept_name": "prednisone 20 MG Oral Tablet [Orasone]",
       "standard_concept": "S",
@@ -1071,8 +1008,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034327,
       "concept_name": "prednisone 50 MG Oral Tablet [Deltasone]",
       "standard_concept": "S",
@@ -1088,8 +1024,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034328,
       "concept_name": "prednisone 50 MG Oral Tablet [Orasone]",
       "standard_concept": "S",
@@ -1105,8 +1040,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034645,
       "concept_name": "methylprednisolone 2 MG Oral Tablet [Medrol]",
       "standard_concept": "S",
@@ -1122,8 +1056,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034646,
       "concept_name": "methylprednisolone 8 MG Oral Tablet [Medrol]",
       "standard_concept": "S",
@@ -1139,8 +1072,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034647,
       "concept_name": "methylprednisolone 16 MG Oral Tablet [Medrol]",
       "standard_concept": "S",
@@ -1156,8 +1088,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034648,
       "concept_name": "methylprednisolone 24 MG Oral Tablet [Medrol]",
       "standard_concept": "S",
@@ -1173,8 +1104,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034650,
       "concept_name": "methylprednisolone 32 MG Oral Tablet [Medrol]",
       "standard_concept": "S",
@@ -1190,8 +1120,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034804,
       "concept_name": "methylprednisolone 40 MG Injection [A-MethaPred]",
       "standard_concept": "S",
@@ -1207,8 +1136,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034805,
       "concept_name": "methylprednisolone 40 MG Injection [Solu-Medrol]",
       "standard_concept": "S",
@@ -1224,8 +1152,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034806,
       "concept_name": "methylprednisolone 125 MG Injection [A-MethaPred]",
       "standard_concept": "S",
@@ -1241,8 +1168,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19034807,
       "concept_name": "methylprednisolone 62.5 MG/ML Injectable Solution [Solu-Medrol]",
       "standard_concept": "S",
@@ -1258,8 +1184,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043507,
       "concept_name": "methylprednisolone 2 MG [Medrol]",
       "standard_concept": "S",
@@ -1275,8 +1200,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043508,
       "concept_name": "methylprednisolone 8 MG [Medrol]",
       "standard_concept": "S",
@@ -1292,8 +1216,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043509,
       "concept_name": "methylprednisolone 16 MG [Medrol]",
       "standard_concept": "S",
@@ -1309,8 +1232,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043531,
       "concept_name": "methylprednisolone 32 MG [Medrol]",
       "standard_concept": "S",
@@ -1326,8 +1248,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19043532,
       "concept_name": "methylprednisolone 4 MG [Medrol]",
       "standard_concept": "S",
@@ -1343,8 +1264,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19048394,
       "concept_name": "methylprednisolone 62.5 MG/ML [Solu-Medrol]",
       "standard_concept": "S",
@@ -1360,8 +1280,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19061425,
       "concept_name": "meprednisone 40 MG Oral Tablet",
       "standard_concept": "S",
@@ -1377,8 +1296,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19064110,
       "concept_name": "piroxicam 10 MG / prednisone 2 MG Delayed Release Oral Tablet",
       "standard_concept": "S",
@@ -1394,8 +1312,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19067555,
       "concept_name": "methylprednisolone 4 MG Oral Tablet [Medrol]",
       "standard_concept": "S",
@@ -1411,8 +1328,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19078115,
       "concept_name": "prednisone 5 MG [Prednicen-M]",
       "standard_concept": "S",
@@ -1428,8 +1344,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19080181,
       "concept_name": "methylprednisolone 62.5 MG/ML Injectable Solution",
       "standard_concept": "S",
@@ -1445,8 +1360,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19081625,
       "concept_name": "prednisone 5 MG [Sterapred]",
       "standard_concept": "S",
@@ -1462,8 +1376,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19081627,
       "concept_name": "prednisone 10 MG [Sterapred DS]",
       "standard_concept": "S",
@@ -1479,8 +1392,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19081860,
       "concept_name": "prednisone 1 MG/ML",
       "standard_concept": "S",
@@ -1496,8 +1408,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19084229,
       "concept_name": "methylprednisolone 40 MG",
       "standard_concept": "S",
@@ -1513,8 +1424,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19087427,
       "concept_name": "prednisone 1 MG/ML [Liquid Pred]",
       "standard_concept": "S",
@@ -1530,8 +1440,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19087429,
       "concept_name": "prednisone 1 MG [Meticorten]",
       "standard_concept": "S",
@@ -1547,8 +1456,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19087451,
       "concept_name": "prednisone 1 MG [Orasone]",
       "standard_concept": "S",
@@ -1564,8 +1472,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19087452,
       "concept_name": "prednisone 5 MG [Orasone]",
       "standard_concept": "S",
@@ -1581,8 +1488,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19087453,
       "concept_name": "prednisone 10 MG [Orasone]",
       "standard_concept": "S",
@@ -1598,8 +1504,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19087454,
       "concept_name": "prednisone 20 MG [Orasone]",
       "standard_concept": "S",
@@ -1615,8 +1520,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19087455,
       "concept_name": "prednisone 50 MG [Orasone]",
       "standard_concept": "S",
@@ -1632,8 +1536,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19089061,
       "concept_name": "prednisone 2.5 MG [Deltasone]",
       "standard_concept": "S",
@@ -1649,8 +1552,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19089062,
       "concept_name": "prednisone 5 MG [Deltasone]",
       "standard_concept": "S",
@@ -1666,8 +1568,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19089063,
       "concept_name": "prednisone 10 MG [Deltasone]",
       "standard_concept": "S",
@@ -1683,8 +1584,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19089064,
       "concept_name": "prednisone 20 MG [Deltasone]",
       "standard_concept": "S",
@@ -1700,8 +1600,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19089065,
       "concept_name": "prednisone 50 MG [Deltasone]",
       "standard_concept": "S",
@@ -1717,8 +1616,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19090523,
       "concept_name": "meprednisone 4 MG/ML",
       "standard_concept": "S",
@@ -1734,8 +1632,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19090524,
       "concept_name": "meprednisone 4 MG",
       "standard_concept": "S",
@@ -1751,8 +1648,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19090525,
       "concept_name": "meprednisone 40 MG",
       "standard_concept": "S",
@@ -1768,8 +1664,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19090526,
       "concept_name": "meprednisone 8 MG",
       "standard_concept": "S",
@@ -1785,8 +1680,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19090623,
       "concept_name": "methylprednisolone 1.5 MG",
       "standard_concept": "S",
@@ -1802,8 +1696,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19093831,
       "concept_name": "methylprednisolone 1 MG/ML",
       "standard_concept": "S",
@@ -1819,8 +1712,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19098197,
       "concept_name": "prednisone 10 MG Oral Tablet [Prednicot]",
       "standard_concept": "S",
@@ -1836,8 +1728,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19098198,
       "concept_name": "prednisone 20 MG Oral Tablet [Prednicot]",
       "standard_concept": "S",
@@ -1853,8 +1744,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19099970,
       "concept_name": "methylprednisolone 50 MG/ML",
       "standard_concept": "S",
@@ -1870,8 +1760,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19104623,
       "concept_name": "methylprednisolone 20 MG/ML Injectable Solution",
       "standard_concept": "S",
@@ -1887,8 +1776,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19104629,
       "concept_name": "methylprednisolone 5 MG/ML Injectable Solution",
       "standard_concept": "S",
@@ -1904,8 +1792,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19104630,
       "concept_name": "methylprednisolone 10 MG/ML Injectable Solution",
       "standard_concept": "S",
@@ -1921,8 +1808,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19106650,
       "concept_name": "methylprednisolone 40 MG Oral Tablet",
       "standard_concept": "S",
@@ -1938,8 +1824,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19106693,
       "concept_name": "prednisone 8 MG Oral Tablet",
       "standard_concept": "S",
@@ -1955,8 +1840,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19106694,
       "concept_name": "prednisone 40 MG Oral Tablet",
       "standard_concept": "S",
@@ -1972,8 +1856,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19110847,
       "concept_name": "methylprednisolone 10 MG/ML",
       "standard_concept": "S",
@@ -1989,8 +1872,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19110848,
       "concept_name": "methylprednisolone 5 MG/ML",
       "standard_concept": "S",
@@ -2006,8 +1888,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19111642,
       "concept_name": "prednisone 100 MG",
       "standard_concept": "S",
@@ -2023,8 +1904,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19111643,
       "concept_name": "prednisone 30 MG",
       "standard_concept": "S",
@@ -2040,8 +1920,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19111644,
       "concept_name": "prednisone 40 MG",
       "standard_concept": "S",
@@ -2057,8 +1936,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19111647,
       "concept_name": "prednisone 8 MG",
       "standard_concept": "S",
@@ -2074,8 +1952,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19113790,
       "concept_name": "prednisone 10 MG [Predone]",
       "standard_concept": "S",
@@ -2091,8 +1968,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19113791,
       "concept_name": "prednisone 10 MG Oral Tablet [Predone]",
       "standard_concept": "S",
@@ -2108,8 +1984,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19113805,
       "concept_name": "prednisone 20 MG [Predone]",
       "standard_concept": "S",
@@ -2125,8 +2000,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19113806,
       "concept_name": "prednisone 20 MG Oral Tablet [Predone]",
       "standard_concept": "S",
@@ -2142,8 +2016,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19116164,
       "concept_name": "prednisone 5 MG [Decortisyl]",
       "standard_concept": "S",
@@ -2159,8 +2032,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19117427,
       "concept_name": "prednisone 1 MG [Econosone]",
       "standard_concept": "S",
@@ -2176,8 +2048,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19117428,
       "concept_name": "prednisone 5 MG [Econosone]",
       "standard_concept": "S",
@@ -2193,8 +2064,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19118280,
       "concept_name": "methylprednisolone 24 MG [Medrol]",
       "standard_concept": "S",
@@ -2210,8 +2080,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19120864,
       "concept_name": "prednisone 5 MG [Prednicot]",
       "standard_concept": "S",
@@ -2227,8 +2096,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19121837,
       "concept_name": "prednisone 5 MG/ML [Prednisone Intensol]",
       "standard_concept": "S",
@@ -2244,8 +2112,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19121838,
       "concept_name": "prednisone 5 MG/ML Oral Solution [Prednisone Intensol]",
       "standard_concept": "S",
@@ -2261,8 +2128,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19127696,
       "concept_name": "prednisone 10 MG Oral Capsule",
       "standard_concept": "S",
@@ -2278,8 +2144,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19127774,
       "concept_name": "prednisone 20 MG Oral Capsule",
       "standard_concept": "S",
@@ -2295,8 +2160,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19127775,
       "concept_name": "prednisone 5 MG Oral Capsule",
       "standard_concept": "S",
@@ -2312,8 +2176,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19129398,
       "concept_name": "{21 (methylprednisolone 4 MG Oral Tablet) } Pack",
       "standard_concept": "S",
@@ -2329,8 +2192,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19129511,
       "concept_name": "{48 (prednisone 5 MG Oral Tablet) } Pack",
       "standard_concept": "S",
@@ -2346,8 +2208,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19129512,
       "concept_name": "{21 (prednisone 5 MG Oral Tablet) } Pack",
       "standard_concept": "S",
@@ -2363,8 +2224,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19129513,
       "concept_name": "{48 (prednisone 10 MG Oral Tablet) } Pack",
       "standard_concept": "S",
@@ -2380,8 +2240,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19129514,
       "concept_name": "{21 (prednisone 10 MG Oral Tablet) } Pack",
       "standard_concept": "S",
@@ -2397,8 +2256,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19130164,
       "concept_name": "{12 (prednisone 5 MG Oral Tablet) } Pack",
       "standard_concept": "S",
@@ -2414,8 +2272,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19130165,
       "concept_name": "{12 (prednisone 5 MG Oral Tablet [Sterapred]) } Pack [Sterapred Uni-Pak 12 Day]",
       "standard_concept": "S",
@@ -2431,8 +2288,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19130166,
       "concept_name": "{6 (prednisone 5 MG Oral Tablet) } Pack",
       "standard_concept": "S",
@@ -2448,8 +2304,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19130167,
       "concept_name": "{6 (prednisone 5 MG Oral Tablet [Sterapred]) } Pack [Sterapred Uni-Pak 6 Day]",
       "standard_concept": "S",
@@ -2465,8 +2320,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19130170,
       "concept_name": "{6 (prednisone 10 MG Oral Tablet) } Pack",
       "standard_concept": "S",
@@ -2482,8 +2336,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19130171,
       "concept_name": "{6 (prednisone 10 MG Oral Tablet [Sterapred DS]) } Pack [Sterapred DS Uni-Pak 6 Day]",
       "standard_concept": "S",
@@ -2499,8 +2352,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19131653,
       "concept_name": "{14 (methylprednisolone 16 MG Oral Tablet) } Pack",
       "standard_concept": "S",
@@ -2516,8 +2368,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19133854,
       "concept_name": "{21 (methylprednisolone 4 MG Oral Tablet [Medrol]) } Pack [Medrol Dosepak]",
       "standard_concept": "S",
@@ -2533,8 +2384,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19133985,
       "concept_name": "{25 (prednisone 10 MG Oral Tablet) } Pack",
       "standard_concept": "S",
@@ -2550,8 +2400,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19135072,
       "concept_name": "{48 (prednisone 5 MG Oral Tablet [Sterapred]) } Pack [Sterapred 5 MG 12 Day Uni-Pak]",
       "standard_concept": "S",
@@ -2567,8 +2416,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19135073,
       "concept_name": "{21 (prednisone 5 MG Oral Tablet [Sterapred]) } Pack [Sterapred 5 MG Uni-Pak]",
       "standard_concept": "S",
@@ -2584,8 +2432,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19135074,
       "concept_name": "{48 (prednisone 10 MG Oral Tablet [Sterapred DS]) } Pack [Sterapred DS 12 Day Uni-Pak]",
       "standard_concept": "S",
@@ -2601,8 +2448,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19135075,
       "concept_name": "{21 (prednisone 10 MG Oral Tablet [Sterapred DS]) } Pack [Sterapred DS Uni-Pak]",
       "standard_concept": "S",
@@ -2618,8 +2464,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606531,
       "concept_name": "methylprednisolone 125 MG",
       "standard_concept": "S",
@@ -2635,8 +2480,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606532,
       "concept_name": "methylprednisolone Injection",
       "standard_concept": "S",
@@ -2652,8 +2496,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606533,
       "concept_name": "methylprednisolone 125 MG Injection",
       "standard_concept": "S",
@@ -2669,8 +2512,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606534,
       "concept_name": "methylprednisolone 125 MG [Solu-Medrol]",
       "standard_concept": "S",
@@ -2686,8 +2528,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606535,
       "concept_name": "methylprednisolone Injection [Solu-Medrol]",
       "standard_concept": "S",
@@ -2703,8 +2544,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606536,
       "concept_name": "methylprednisolone 125 MG Injection [Solu-Medrol]",
       "standard_concept": "S",
@@ -2720,8 +2560,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606537,
       "concept_name": "methylprednisolone 500 MG",
       "standard_concept": "S",
@@ -2737,8 +2576,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606538,
       "concept_name": "methylprednisolone 500 MG Injection",
       "standard_concept": "S",
@@ -2754,8 +2592,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606539,
       "concept_name": "methylprednisolone 500 MG [Solu-Medrol]",
       "standard_concept": "S",
@@ -2771,8 +2608,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606540,
       "concept_name": "methylprednisolone 500 MG Injection [Solu-Medrol]",
       "standard_concept": "S",
@@ -2788,8 +2624,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606541,
       "concept_name": "methylprednisolone 1000 MG",
       "standard_concept": "S",
@@ -2805,8 +2640,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606542,
       "concept_name": "methylprednisolone 1000 MG Injection",
       "standard_concept": "S",
@@ -2822,8 +2656,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606543,
       "concept_name": "methylprednisolone 1000 MG [Solu-Medrol]",
       "standard_concept": "S",
@@ -2839,8 +2672,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606544,
       "concept_name": "methylprednisolone 1000 MG Injection [Solu-Medrol]",
       "standard_concept": "S",
@@ -2856,8 +2688,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606545,
       "concept_name": "1 ML methylprednisolone acetate 40 MG/ML Injection",
       "standard_concept": "S",
@@ -2873,8 +2704,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606546,
       "concept_name": "methylprednisolone Injection [Depo-Medrol]",
       "standard_concept": "S",
@@ -2890,8 +2720,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606547,
       "concept_name": "1 ML methylprednisolone acetate 40 MG/ML Injection [Depo-Medrol]",
       "standard_concept": "S",
@@ -2907,8 +2736,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606548,
       "concept_name": "methylprednisolone acetate 40 MG/ML Injection",
       "standard_concept": "S",
@@ -2924,8 +2752,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606549,
       "concept_name": "methylprednisolone acetate 40 MG/ML Injection [Depo-Medrol]",
       "standard_concept": "S",
@@ -2941,8 +2768,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606554,
       "concept_name": "1 ML methylprednisolone acetate 80 MG/ML Injection",
       "standard_concept": "S",
@@ -2958,8 +2784,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606555,
       "concept_name": "1 ML methylprednisolone acetate 80 MG/ML Injection [Depo-Medrol]",
       "standard_concept": "S",
@@ -2975,8 +2800,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606556,
       "concept_name": "methylprednisolone acetate 80 MG/ML Injection",
       "standard_concept": "S",
@@ -2992,8 +2816,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606557,
       "concept_name": "methylprednisolone acetate 80 MG/ML Injection [Depo-Medrol]",
       "standard_concept": "S",
@@ -3009,8 +2832,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606592,
       "concept_name": "methylprednisolone 2000 MG",
       "standard_concept": "S",
@@ -3026,8 +2848,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606593,
       "concept_name": "methylprednisolone 2000 MG [Solu-Medrol]",
       "standard_concept": "S",
@@ -3043,8 +2864,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606594,
       "concept_name": "methylprednisolone 40 MG [Solu-Medrol]",
       "standard_concept": "S",
@@ -3060,8 +2880,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606595,
       "concept_name": "methylprednisolone 40 MG [A-MethaPred]",
       "standard_concept": "S",
@@ -3077,8 +2896,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606596,
       "concept_name": "methylprednisolone Injection [A-MethaPred]",
       "standard_concept": "S",
@@ -3094,8 +2912,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35606597,
       "concept_name": "methylprednisolone 125 MG [A-MethaPred]",
       "standard_concept": "S",
@@ -3111,8 +2928,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40012593,
       "concept_name": "aspirin / methylprednisolone Oral Tablet",
       "standard_concept": "S",
@@ -3128,8 +2944,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40055571,
       "concept_name": "meprednisone Oral Solution",
       "standard_concept": "S",
@@ -3145,8 +2960,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40055572,
       "concept_name": "meprednisone Oral Tablet",
       "standard_concept": "S",
@@ -3162,8 +2976,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40060701,
       "concept_name": "methylprednisolone Injectable Solution",
       "standard_concept": "S",
@@ -3179,8 +2992,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40060704,
       "concept_name": "methylprednisolone Injectable Solution [Solu-Medrol]",
       "standard_concept": "S",
@@ -3196,8 +3008,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40060705,
       "concept_name": "methylprednisolone Injectable Suspension",
       "standard_concept": "S",
@@ -3213,8 +3024,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40060710,
       "concept_name": "methylprednisolone Injectable Suspension [Depo-Medrol]",
       "standard_concept": "S",
@@ -3230,8 +3040,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40060728,
       "concept_name": "methylprednisolone Oral Tablet",
       "standard_concept": "S",
@@ -3247,8 +3056,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40060730,
       "concept_name": "methylprednisolone Oral Tablet [Medrol]",
       "standard_concept": "S",
@@ -3264,8 +3072,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40073529,
       "concept_name": "prednisone Oral Solution",
       "standard_concept": "S",
@@ -3281,8 +3088,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40073530,
       "concept_name": "prednisone Oral Solution [Liquid Pred]",
       "standard_concept": "S",
@@ -3298,8 +3104,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40073531,
       "concept_name": "prednisone Oral Tablet",
       "standard_concept": "S",
@@ -3315,8 +3120,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40073532,
       "concept_name": "prednisone Oral Tablet [Decortisyl]",
       "standard_concept": "S",
@@ -3332,8 +3136,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40073533,
       "concept_name": "prednisone Oral Tablet [Deltasone]",
       "standard_concept": "S",
@@ -3349,8 +3152,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40073806,
       "concept_name": "prednisone Oral Tablet [Econosone]",
       "standard_concept": "S",
@@ -3366,8 +3168,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40073807,
       "concept_name": "prednisone Oral Tablet [Meticorten]",
       "standard_concept": "S",
@@ -3383,8 +3184,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40073808,
       "concept_name": "prednisone Oral Tablet [Orasone]",
       "standard_concept": "S",
@@ -3400,8 +3200,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40073809,
       "concept_name": "prednisone Oral Tablet [Prednicen-M]",
       "standard_concept": "S",
@@ -3417,8 +3216,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40073810,
       "concept_name": "prednisone Oral Tablet [Prednicot]",
       "standard_concept": "S",
@@ -3434,8 +3232,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40073811,
       "concept_name": "prednisone Oral Tablet [Sterapred DS]",
       "standard_concept": "S",
@@ -3451,8 +3248,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40073812,
       "concept_name": "prednisone Oral Tablet [Sterapred]",
       "standard_concept": "S",
@@ -3468,8 +3264,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40077886,
       "concept_name": "piroxicam / prednisone Delayed Release Oral Tablet",
       "standard_concept": "S",
@@ -3485,8 +3280,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40077887,
       "concept_name": "piroxicam / prednisone Oral Tablet",
       "standard_concept": "S",
@@ -3502,8 +3296,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40119172,
       "concept_name": "prednisone Oral Tablet [Predone]",
       "standard_concept": "S",
@@ -3519,8 +3312,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40127030,
       "concept_name": "prednisone Oral Solution [Prednisone Intensol]",
       "standard_concept": "S",
@@ -3536,8 +3328,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40143531,
       "concept_name": "prednisone Oral Capsule",
       "standard_concept": "S",
@@ -3553,8 +3344,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42873418,
       "concept_name": "prednisone Delayed Release Oral Tablet",
       "standard_concept": "S",
@@ -3570,8 +3360,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42873420,
       "concept_name": "prednisone 1 MG [Rayos]",
       "standard_concept": "S",
@@ -3587,8 +3376,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42873421,
       "concept_name": "prednisone Delayed Release Oral Tablet [Rayos]",
       "standard_concept": "S",
@@ -3604,8 +3392,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42873422,
       "concept_name": "prednisone 2 MG [Rayos]",
       "standard_concept": "S",
@@ -3621,8 +3408,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42873423,
       "concept_name": "prednisone 5 MG [Rayos]",
       "standard_concept": "S",
@@ -3638,8 +3424,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42873627,
       "concept_name": "prednisone 1 MG Delayed Release Oral Tablet",
       "standard_concept": "S",
@@ -3655,8 +3440,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42873628,
       "concept_name": "prednisone 1 MG Delayed Release Oral Tablet [Rayos]",
       "standard_concept": "S",
@@ -3672,8 +3456,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42873629,
       "concept_name": "prednisone 2 MG Delayed Release Oral Tablet",
       "standard_concept": "S",
@@ -3689,8 +3472,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42873630,
       "concept_name": "prednisone 2 MG Delayed Release Oral Tablet [Rayos]",
       "standard_concept": "S",
@@ -3706,8 +3488,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42873631,
       "concept_name": "prednisone 5 MG Delayed Release Oral Tablet",
       "standard_concept": "S",
@@ -3723,8 +3504,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42873632,
       "concept_name": "prednisone 5 MG Delayed Release Oral Tablet [Rayos]",
       "standard_concept": "S",
@@ -3740,8 +3520,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42901433,
       "concept_name": "methylprednisolone acetate 40 MG/ML",
       "standard_concept": "S",
@@ -3757,8 +3536,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42901439,
       "concept_name": "methylprednisolone acetate 20 MG/ML",
       "standard_concept": "S",
@@ -3774,8 +3552,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42901440,
       "concept_name": "methylprednisolone acetate 20 MG/ML [Depo-Medrol]",
       "standard_concept": "S",
@@ -3791,8 +3568,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42901442,
       "concept_name": "methylprednisolone acetate 40 MG/ML [Depo-Medrol]",
       "standard_concept": "S",
@@ -3808,8 +3584,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42901444,
       "concept_name": "methylprednisolone acetate 80 MG/ML",
       "standard_concept": "S",
@@ -3825,8 +3600,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42901445,
       "concept_name": "methylprednisolone acetate 80 MG/ML [Depo-Medrol]",
       "standard_concept": "S",
@@ -3842,8 +3616,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42901474,
       "concept_name": "methylprednisolone acetate 10 MG/ML",
       "standard_concept": "S",
@@ -3859,8 +3632,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42901475,
       "concept_name": "methylprednisolone acetate 16 MG/ML",
       "standard_concept": "S",
@@ -3876,8 +3648,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42901476,
       "concept_name": "methylprednisolone acetate 2.5 MG/ML",
       "standard_concept": "S",
@@ -3893,8 +3664,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42901480,
       "concept_name": "methylprednisolone acetate 40 MG",
       "standard_concept": "S",
@@ -3910,8 +3680,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42901997,
       "concept_name": "methylprednisolone 2000 MG Injection",
       "standard_concept": "S",
@@ -3927,8 +3696,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42901998,
       "concept_name": "methylprednisolone 2000 MG Injection [Solu-Medrol]",
       "standard_concept": "S",
@@ -3944,8 +3712,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902102,
       "concept_name": "lidocaine hydrochloride 10 MG/ML / methylprednisolone acetate 40 MG/ML Injectable Suspension",
       "standard_concept": "S",
@@ -3961,8 +3728,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902107,
       "concept_name": "methylprednisolone acetate 20 MG/ML Injectable Suspension",
       "standard_concept": "S",
@@ -3978,8 +3744,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902108,
       "concept_name": "methylprednisolone acetate 20 MG/ML Injectable Suspension [Depo-Medrol]",
       "standard_concept": "S",
@@ -3995,8 +3760,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902110,
       "concept_name": "methylprednisolone acetate 40 MG/ML Injectable Suspension",
       "standard_concept": "S",
@@ -4012,8 +3776,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902111,
       "concept_name": "methylprednisolone acetate 40 MG/ML Injectable Suspension [Depo-Medrol]",
       "standard_concept": "S",
@@ -4029,8 +3792,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902114,
       "concept_name": "methylprednisolone acetate 80 MG/ML Injectable Suspension",
       "standard_concept": "S",
@@ -4046,8 +3808,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902115,
       "concept_name": "methylprednisolone acetate 80 MG/ML Injectable Suspension [Depo-Medrol]",
       "standard_concept": "S",
@@ -4063,8 +3824,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902158,
       "concept_name": "methylprednisolone acetate 16 MG/ML Injectable Suspension",
       "standard_concept": "S",
@@ -4080,8 +3840,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45774913,
       "concept_name": "methylprednisolone acetate 40 ML",
       "standard_concept": "S",
@@ -4097,8 +3856,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45774914,
       "concept_name": "methylprednisolone acetate 40 ML Injectable Suspension",
       "standard_concept": "S",
@@ -4114,8 +3872,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45774915,
       "concept_name": "methylprednisolone acetate 40 ML [Depo-Medrol]",
       "standard_concept": "S",
@@ -4131,8 +3888,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "prednisone and methyprednisolone",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45774916,
       "concept_name": "methylprednisolone acetate 40 ML Injectable Suspension [Depo-Medrol]",
       "standard_concept": "S",

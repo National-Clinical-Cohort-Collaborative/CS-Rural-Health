@@ -1,7 +1,6 @@
 [
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 792484,
       "concept_name": "fluticasone / umeclidinium / vilanterol Dry Powder Inhaler",
       "standard_concept": "S",
@@ -17,8 +16,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 792485,
       "concept_name": "14 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -34,8 +32,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 792487,
       "concept_name": "fluticasone furoate 0.1 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT [Trelegy]",
       "standard_concept": "S",
@@ -51,8 +48,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 792488,
       "concept_name": "fluticasone / umeclidinium / vilanterol Dry Powder Inhaler [Trelegy]",
       "standard_concept": "S",
@@ -68,8 +64,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 792490,
       "concept_name": "14 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Trelegy]",
       "standard_concept": "S",
@@ -85,8 +80,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 792491,
       "concept_name": "fluticasone furoate 0.1 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -102,8 +96,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 792492,
       "concept_name": "fluticasone furoate 0.1 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Trelegy]",
       "standard_concept": "S",
@@ -119,8 +112,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 792493,
       "concept_name": "30 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -136,8 +128,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 792494,
       "concept_name": "30 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Trelegy]",
       "standard_concept": "S",
@@ -153,8 +144,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 793912,
       "concept_name": "60 ACTUAT fluticasone propionate 0.113 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -170,8 +160,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 793914,
       "concept_name": "fluticasone propionate 0.113 MG/ACTUAT [Armonair]",
       "standard_concept": "S",
@@ -187,8 +176,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 793915,
       "concept_name": "fluticasone Dry Powder Inhaler [Armonair]",
       "standard_concept": "S",
@@ -204,8 +192,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 793917,
       "concept_name": "60 ACTUAT fluticasone propionate 0.113 MG/ACTUAT Dry Powder Inhaler [Armonair]",
       "standard_concept": "S",
@@ -221,8 +208,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 793918,
       "concept_name": "fluticasone propionate 0.113 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -238,8 +224,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 793919,
       "concept_name": "fluticasone propionate 0.113 MG/ACTUAT Dry Powder Inhaler [Armonair]",
       "standard_concept": "S",
@@ -255,8 +240,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 793931,
       "concept_name": "60 ACTUAT fluticasone propionate 0.232 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -272,8 +256,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 793932,
       "concept_name": "fluticasone propionate 0.232 MG/ACTUAT [Armonair]",
       "standard_concept": "S",
@@ -289,8 +272,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 793933,
       "concept_name": "60 ACTUAT fluticasone propionate 0.232 MG/ACTUAT Dry Powder Inhaler [Armonair]",
       "standard_concept": "S",
@@ -306,8 +288,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 793934,
       "concept_name": "fluticasone propionate 0.232 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -323,8 +304,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 793935,
       "concept_name": "fluticasone propionate 0.232 MG/ACTUAT Dry Powder Inhaler [Armonair]",
       "standard_concept": "S",
@@ -340,8 +320,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 793936,
       "concept_name": "60 ACTUAT fluticasone propionate 0.055 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -357,8 +336,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 793937,
       "concept_name": "fluticasone propionate 0.055 MG/ACTUAT [Armonair]",
       "standard_concept": "S",
@@ -374,8 +352,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 793938,
       "concept_name": "60 ACTUAT fluticasone propionate 0.055 MG/ACTUAT Dry Powder Inhaler [Armonair]",
       "standard_concept": "S",
@@ -391,8 +368,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 793939,
       "concept_name": "fluticasone propionate 0.055 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -408,8 +384,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 793940,
       "concept_name": "fluticasone propionate 0.055 MG/ACTUAT Dry Powder Inhaler [Armonair]",
       "standard_concept": "S",
@@ -425,8 +400,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 902938,
       "concept_name": "ciclesonide",
       "standard_concept": "S",
@@ -442,8 +416,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 902939,
       "concept_name": "ciclesonide 0.16 MG/ACTUAT",
       "standard_concept": "S",
@@ -459,8 +432,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 902941,
       "concept_name": "ciclesonide 0.08 MG/ACTUAT",
       "standard_concept": "S",
@@ -476,8 +448,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 902963,
       "concept_name": "ciclesonide 0.05 MG/ACTUAT",
       "standard_concept": "S",
@@ -493,8 +464,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 902971,
       "concept_name": "120 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -510,8 +480,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 905233,
       "concept_name": "mometasone",
       "standard_concept": "S",
@@ -527,8 +496,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 905271,
       "concept_name": "14 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]",
       "standard_concept": "S",
@@ -544,8 +512,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 905292,
       "concept_name": "30 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -561,8 +528,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 905293,
       "concept_name": "30 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]",
       "standard_concept": "S",
@@ -578,8 +544,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 905294,
       "concept_name": "60 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -595,8 +560,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 905295,
       "concept_name": "60 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]",
       "standard_concept": "S",
@@ -612,8 +576,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 939359,
       "concept_name": "budesonide 0.5 MG/ML Inhalation Suspension",
       "standard_concept": "S",
@@ -629,8 +592,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 939393,
       "concept_name": "budesonide 3 MG",
       "standard_concept": "S",
@@ -646,8 +608,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 939394,
       "concept_name": "budesonide 0.1 MG/ACTUAT",
       "standard_concept": "S",
@@ -663,8 +624,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 939395,
       "concept_name": "budesonide 0.05 MG/ACTUAT",
       "standard_concept": "S",
@@ -680,8 +640,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 939396,
       "concept_name": "budesonide 0.064 MG/ACTUAT",
       "standard_concept": "S",
@@ -697,8 +656,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 939398,
       "concept_name": "budesonide 0.25 MG/ML",
       "standard_concept": "S",
@@ -714,8 +672,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 939422,
       "concept_name": "budesonide 0.5 MG/ML",
       "standard_concept": "S",
@@ -731,8 +688,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 939426,
       "concept_name": "budesonide 0.16 MG/ACTUAT",
       "standard_concept": "S",
@@ -748,8 +704,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 939427,
       "concept_name": "budesonide 0.08 MG/ACTUAT",
       "standard_concept": "S",
@@ -765,8 +720,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 939542,
       "concept_name": "budesonide 0.25 MG/ML Inhalation Suspension [Pulmicort]",
       "standard_concept": "S",
@@ -782,8 +736,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 939543,
       "concept_name": "budesonide 0.5 MG/ML Inhalation Suspension [Pulmicort]",
       "standard_concept": "S",
@@ -799,8 +752,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 939545,
       "concept_name": "budesonide 0.18 MG/ACTUAT",
       "standard_concept": "S",
@@ -816,8 +768,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 939547,
       "concept_name": "budesonide 0.09 MG/ACTUAT",
       "standard_concept": "S",
@@ -833,8 +784,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 963842,
       "concept_name": "Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -850,8 +800,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 963843,
       "concept_name": "Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",
       "standard_concept": "S",
@@ -867,8 +816,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 963844,
       "concept_name": "Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -884,8 +832,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 963845,
       "concept_name": "Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",
       "standard_concept": "S",
@@ -901,8 +848,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1115572,
       "concept_name": "beclomethasone",
       "standard_concept": "S",
@@ -918,8 +864,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1149380,
       "concept_name": "fluticasone",
       "standard_concept": "S",
@@ -935,8 +880,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1356140,
       "concept_name": "budesonide Inhalation Suspension",
       "standard_concept": "S",
@@ -952,8 +896,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1356141,
       "concept_name": "budesonide Inhalation Suspension [Pulmicort]",
       "standard_concept": "S",
@@ -969,8 +912,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1356142,
       "concept_name": "budesonide 0.2 MG",
       "standard_concept": "S",
@@ -986,8 +928,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1356143,
       "concept_name": "budesonide Inhalation Powder",
       "standard_concept": "S",
@@ -1003,8 +944,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1356374,
       "concept_name": "budesonide 0.2 MG [Pulmicort]",
       "standard_concept": "S",
@@ -1020,8 +960,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1356375,
       "concept_name": "budesonide Inhalation Powder [Pulmicort]",
       "standard_concept": "S",
@@ -1037,8 +976,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1356376,
       "concept_name": "budesonide 0.2 MG Inhalation Powder [Pulmicort]",
       "standard_concept": "S",
@@ -1054,8 +992,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1361589,
       "concept_name": "formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.05 MG/ACTUAT [Dulera]",
       "standard_concept": "S",
@@ -1071,8 +1008,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1361590,
       "concept_name": "formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.05 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -1088,8 +1024,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1361591,
       "concept_name": "formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.05 MG/ACTUAT Metered Dose Inhaler [Dulera]",
       "standard_concept": "S",
@@ -1105,8 +1040,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1361592,
       "concept_name": "mometasone furoate 0.05 MG/ACTUAT [Asmanex]",
       "standard_concept": "S",
@@ -1122,8 +1056,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1361593,
       "concept_name": "mometasone furoate 0.05 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -1139,8 +1072,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1361594,
       "concept_name": "mometasone furoate 0.05 MG/ACTUAT Metered Dose Inhaler [Asmanex]",
       "standard_concept": "S",
@@ -1156,8 +1088,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1361703,
       "concept_name": "120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.05 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -1173,8 +1104,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1361704,
       "concept_name": "120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.05 MG/ACTUAT Metered Dose Inhaler [Dulera]",
       "standard_concept": "S",
@@ -1190,8 +1120,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1361705,
       "concept_name": "120 ACTUAT mometasone furoate 0.05 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -1207,8 +1136,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1361706,
       "concept_name": "120 ACTUAT mometasone furoate 0.05 MG/ACTUAT Metered Dose Inhaler [Asmanex]",
       "standard_concept": "S",
@@ -1224,8 +1152,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1366410,
       "concept_name": "fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT [Wixela]",
       "standard_concept": "S",
@@ -1241,8 +1168,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1366411,
       "concept_name": "fluticasone / salmeterol Dry Powder Inhaler [Wixela]",
       "standard_concept": "S",
@@ -1258,8 +1184,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1366413,
       "concept_name": "fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Wixela]",
       "standard_concept": "S",
@@ -1275,8 +1200,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1366414,
       "concept_name": "fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT [Wixela]",
       "standard_concept": "S",
@@ -1292,8 +1216,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1366415,
       "concept_name": "fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Wixela]",
       "standard_concept": "S",
@@ -1309,8 +1232,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1366416,
       "concept_name": "fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT [Wixela]",
       "standard_concept": "S",
@@ -1326,8 +1248,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1366417,
       "concept_name": "fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Wixela]",
       "standard_concept": "S",
@@ -1343,8 +1264,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1366746,
       "concept_name": "60 ACTUAT fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Wixela]",
       "standard_concept": "S",
@@ -1360,8 +1280,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1366747,
       "concept_name": "60 ACTUAT fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Wixela]",
       "standard_concept": "S",
@@ -1377,8 +1296,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1366748,
       "concept_name": "60 ACTUAT fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Wixela]",
       "standard_concept": "S",
@@ -1394,8 +1312,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1510419,
       "concept_name": "fluticasone furoate 0.05 MG/ACTUAT",
       "standard_concept": "S",
@@ -1411,8 +1328,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1510420,
       "concept_name": "fluticasone furoate 0.05 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -1428,8 +1344,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1510421,
       "concept_name": "fluticasone furoate 0.05 MG/ACTUAT Dry Powder Inhaler [Arnuity]",
       "standard_concept": "S",
@@ -1445,8 +1360,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1510710,
       "concept_name": "fluticasone furoate 0.05 MG/ACTUAT [Arnuity]",
       "standard_concept": "S",
@@ -1462,8 +1376,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1510779,
       "concept_name": "30 ACTUAT fluticasone furoate 0.05 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -1479,8 +1392,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1510780,
       "concept_name": "30 ACTUAT fluticasone furoate 0.05 MG/ACTUAT Dry Powder Inhaler [Arnuity]",
       "standard_concept": "S",
@@ -1496,8 +1408,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1593823,
       "concept_name": "fluticasone propionate 0.113 MG/ACTUAT",
       "standard_concept": "S",
@@ -1513,8 +1424,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1593825,
       "concept_name": "60 ACTUAT fluticasone propionate 0.113 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -1530,8 +1440,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1593828,
       "concept_name": "fluticasone / salmeterol Dry Powder Inhaler [AirDuo]",
       "standard_concept": "S",
@@ -1547,8 +1456,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1593830,
       "concept_name": "60 ACTUAT fluticasone propionate 0.113 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo]",
       "standard_concept": "S",
@@ -1564,8 +1472,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1593831,
       "concept_name": "fluticasone propionate 0.113 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -1581,8 +1488,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1593832,
       "concept_name": "fluticasone propionate 0.113 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo]",
       "standard_concept": "S",
@@ -1598,8 +1504,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1593833,
       "concept_name": "fluticasone propionate 0.232 MG/ACTUAT",
       "standard_concept": "S",
@@ -1615,8 +1520,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1593834,
       "concept_name": "60 ACTUAT fluticasone propionate 0.232 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -1632,8 +1536,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1593836,
       "concept_name": "60 ACTUAT fluticasone propionate 0.232 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo]",
       "standard_concept": "S",
@@ -1649,8 +1552,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1593837,
       "concept_name": "fluticasone propionate 0.232 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -1666,8 +1568,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1593838,
       "concept_name": "fluticasone propionate 0.232 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo]",
       "standard_concept": "S",
@@ -1683,8 +1584,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1593839,
       "concept_name": "fluticasone propionate 0.055 MG/ACTUAT",
       "standard_concept": "S",
@@ -1700,8 +1600,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1593840,
       "concept_name": "60 ACTUAT fluticasone propionate 0.055 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -1717,8 +1616,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1593842,
       "concept_name": "60 ACTUAT fluticasone propionate 0.055 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo]",
       "standard_concept": "S",
@@ -1734,8 +1632,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1593843,
       "concept_name": "fluticasone propionate 0.055 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -1751,8 +1648,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 1593844,
       "concept_name": "fluticasone propionate 0.055 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo]",
       "standard_concept": "S",
@@ -1768,8 +1664,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19038788,
       "concept_name": "budesonide 0.25 MG/ML [Pulmicort]",
       "standard_concept": "S",
@@ -1785,8 +1680,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19038789,
       "concept_name": "budesonide 0.5 MG/ML [Pulmicort]",
       "standard_concept": "S",
@@ -1802,8 +1696,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19038790,
       "concept_name": "budesonide 0.125 MG/ML [Pulmicort]",
       "standard_concept": "S",
@@ -1819,8 +1712,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19038814,
       "concept_name": "budesonide 0.032 MG/ACTUAT [Rhinocort]",
       "standard_concept": "S",
@@ -1836,8 +1728,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19060647,
       "concept_name": "budesonide 0.2 MG Inhalation Powder",
       "standard_concept": "S",
@@ -1853,8 +1744,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19086456,
       "concept_name": "mometasone furoate 0.2 MG/ACTUAT [Asmanex]",
       "standard_concept": "S",
@@ -1870,8 +1760,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19086688,
       "concept_name": "beclomethasone 0.05 MG/ACTUAT",
       "standard_concept": "S",
@@ -1887,8 +1776,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19096595,
       "concept_name": "budesonide 0.125 MG/ML Inhalation Suspension",
       "standard_concept": "S",
@@ -1904,8 +1792,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19097860,
       "concept_name": "budesonide 0.125 MG/ML",
       "standard_concept": "S",
@@ -1921,8 +1808,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19098138,
       "concept_name": "budesonide 0.25 MG/ML Inhalation Suspension",
       "standard_concept": "S",
@@ -1938,8 +1824,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19099139,
       "concept_name": "mometasone furoate 1 MG/ML",
       "standard_concept": "S",
@@ -1955,8 +1840,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19100694,
       "concept_name": "budesonide 0.02 MG/ML",
       "standard_concept": "S",
@@ -1972,8 +1856,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19100695,
       "concept_name": "budesonide 0.00025 MG/MG",
       "standard_concept": "S",
@@ -1989,8 +1872,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19120488,
       "concept_name": "beclomethasone 0.05 MG/ACTUAT [Beclo-aqua 50]",
       "standard_concept": "S",
@@ -2006,8 +1888,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19123496,
       "concept_name": "budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort]",
       "standard_concept": "S",
@@ -2023,8 +1904,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19127762,
       "concept_name": "120 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -2040,8 +1920,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19127763,
       "concept_name": "120 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]",
       "standard_concept": "S",
@@ -2057,8 +1936,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19127768,
       "concept_name": "14 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -2074,8 +1952,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19129673,
       "concept_name": "7 ACTUAT mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -2091,8 +1968,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19129674,
       "concept_name": "mometasone furoate 0.1 MG/ACTUAT [Asmanex]",
       "standard_concept": "S",
@@ -2108,8 +1984,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19129675,
       "concept_name": "7 ACTUAT mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler [Asmanex]",
       "standard_concept": "S",
@@ -2125,8 +2000,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19129676,
       "concept_name": "30 ACTUAT mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -2142,8 +2016,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19129677,
       "concept_name": "30 ACTUAT mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler [Asmanex]",
       "standard_concept": "S",
@@ -2159,8 +2032,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19130450,
       "concept_name": "60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -2176,8 +2048,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19130451,
       "concept_name": "ciclesonide 0.16 MG/ACTUAT [Alvesco]",
       "standard_concept": "S",
@@ -2193,8 +2064,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19130452,
       "concept_name": "60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco]",
       "standard_concept": "S",
@@ -2210,8 +2080,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19130453,
       "concept_name": "60 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -2227,8 +2096,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19130454,
       "concept_name": "ciclesonide 0.08 MG/ACTUAT [Alvesco]",
       "standard_concept": "S",
@@ -2244,8 +2112,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19130455,
       "concept_name": "60 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco]",
       "standard_concept": "S",
@@ -2261,8 +2128,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 19133104,
       "concept_name": "120 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco]",
       "standard_concept": "S",
@@ -2278,8 +2144,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35603735,
       "concept_name": "mometasone furoate 0.22 MG/ACTUAT",
       "standard_concept": "S",
@@ -2295,8 +2160,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35603736,
       "concept_name": "mometasone furoate 0.22 MG/ACTUAT [Asmanex]",
       "standard_concept": "S",
@@ -2312,8 +2176,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35603776,
       "concept_name": "budesonide 0.18 MG/ACTUAT [Pulmicort]",
       "standard_concept": "S",
@@ -2329,8 +2192,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35603778,
       "concept_name": "budesonide 0.09 MG/ACTUAT [Pulmicort]",
       "standard_concept": "S",
@@ -2346,8 +2208,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35603779,
       "concept_name": "mometasone furoate 0.11 MG/ACTUAT",
       "standard_concept": "S",
@@ -2363,8 +2224,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35603780,
       "concept_name": "mometasone furoate 0.11 MG/ACTUAT [Asmanex]",
       "standard_concept": "S",
@@ -2380,8 +2240,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 35605356,
       "concept_name": "mometasone furoate 2 MG/ML",
       "standard_concept": "S",
@@ -2397,8 +2256,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002305,
       "concept_name": "budesonide / formoterol / glycopyrronium Metered Dose Inhaler",
       "standard_concept": "S",
@@ -2414,8 +2272,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002374,
       "concept_name": "budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -2431,8 +2288,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002375,
       "concept_name": "budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT Metered Dose Inhaler [Breztri]",
       "standard_concept": "S",
@@ -2448,8 +2304,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002376,
       "concept_name": "budesonide / formoterol / glycopyrronium Metered Dose Inhaler [Breztri]",
       "standard_concept": "S",
@@ -2465,8 +2320,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002379,
       "concept_name": "budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT [Breztri]",
       "standard_concept": "S",
@@ -2482,8 +2336,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002810,
       "concept_name": "fluticasone furoate 0.2 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT [Trelegy]",
       "standard_concept": "S",
@@ -2499,8 +2352,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002811,
       "concept_name": "fluticasone furoate 0.2 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -2516,8 +2368,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002812,
       "concept_name": "fluticasone furoate 0.2 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Trelegy]",
       "standard_concept": "S",
@@ -2533,8 +2384,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002842,
       "concept_name": "Sensor 60 ACTUAT fluticasone propionate 0.113 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -2550,8 +2400,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002843,
       "concept_name": "fluticasone propionate 0.113 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT [AirDuo]",
       "standard_concept": "S",
@@ -2567,8 +2416,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002844,
       "concept_name": "Sensor 60 ACTUAT fluticasone propionate 0.113 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo]",
       "standard_concept": "S",
@@ -2584,8 +2432,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002845,
       "concept_name": "Sensor 60 ACTUAT fluticasone propionate 0.055 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -2601,8 +2448,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002846,
       "concept_name": "fluticasone propionate 0.055 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT [AirDuo]",
       "standard_concept": "S",
@@ -2618,8 +2464,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002847,
       "concept_name": "Sensor 60 ACTUAT fluticasone propionate 0.055 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo]",
       "standard_concept": "S",
@@ -2635,8 +2480,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002848,
       "concept_name": "Sensor 60 ACTUAT fluticasone propionate 0.232 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -2652,8 +2496,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002849,
       "concept_name": "fluticasone propionate 0.232 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT [AirDuo]",
       "standard_concept": "S",
@@ -2669,8 +2512,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002850,
       "concept_name": "Sensor 60 ACTUAT fluticasone propionate 0.232 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo]",
       "standard_concept": "S",
@@ -2686,8 +2528,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002851,
       "concept_name": "Sensor 60 ACTUAT fluticasone propionate 0.113 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -2703,8 +2544,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002852,
       "concept_name": "Sensor 60 ACTUAT fluticasone propionate 0.113 MG/ACTUAT Dry Powder Inhaler [Armonair]",
       "standard_concept": "S",
@@ -2720,8 +2560,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002853,
       "concept_name": "Sensor 60 ACTUAT fluticasone propionate 0.232 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -2737,8 +2576,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002854,
       "concept_name": "Sensor 60 ACTUAT fluticasone propionate 0.232 MG/ACTUAT Dry Powder Inhaler [Armonair]",
       "standard_concept": "S",
@@ -2754,8 +2592,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002855,
       "concept_name": "Sensor 60 ACTUAT fluticasone propionate 0.055 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -2771,8 +2608,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37002856,
       "concept_name": "Sensor 60 ACTUAT fluticasone propionate 0.055 MG/ACTUAT Dry Powder Inhaler [Armonair]",
       "standard_concept": "S",
@@ -2788,8 +2624,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37003575,
       "concept_name": "28 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -2805,8 +2640,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37003576,
       "concept_name": "28 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT Metered Dose Inhaler [Breztri]",
       "standard_concept": "S",
@@ -2822,8 +2656,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37003577,
       "concept_name": "120 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -2839,8 +2672,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37003578,
       "concept_name": "120 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT Metered Dose Inhaler [Breztri]",
       "standard_concept": "S",
@@ -2856,8 +2688,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37003602,
       "concept_name": "14 ACTUAT fluticasone furoate 0.2 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -2873,8 +2704,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37003603,
       "concept_name": "14 ACTUAT fluticasone furoate 0.2 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Trelegy]",
       "standard_concept": "S",
@@ -2890,8 +2720,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37003604,
       "concept_name": "30 ACTUAT fluticasone furoate 0.2 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -2907,8 +2736,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37003605,
       "concept_name": "30 ACTUAT fluticasone furoate 0.2 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Trelegy]",
       "standard_concept": "S",
@@ -2924,8 +2752,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 37496919,
       "concept_name": "clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [LoZatom]",
       "standard_concept": "S",
@@ -2941,8 +2768,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40142784,
       "concept_name": "beclomethasone Metered Dose Inhaler",
       "standard_concept": "S",
@@ -2958,8 +2784,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40142785,
       "concept_name": "beclomethasone Metered Dose Inhaler [Beclovent]",
       "standard_concept": "S",
@@ -2975,8 +2800,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40142910,
       "concept_name": "budesonide / formoterol Metered Dose Inhaler",
       "standard_concept": "S",
@@ -2992,8 +2816,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40142912,
       "concept_name": "budesonide / formoterol Metered Dose Inhaler [Symbicort]",
       "standard_concept": "S",
@@ -3009,8 +2832,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40142920,
       "concept_name": "budesonide Dry Powder Inhaler",
       "standard_concept": "S",
@@ -3026,8 +2848,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40142921,
       "concept_name": "budesonide Dry Powder Inhaler [Pulmicort]",
       "standard_concept": "S",
@@ -3043,8 +2864,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40143326,
       "concept_name": "mometasone Dry Powder Inhaler",
       "standard_concept": "S",
@@ -3060,8 +2880,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40143327,
       "concept_name": "mometasone Dry Powder Inhaler [Asmanex]",
       "standard_concept": "S",
@@ -3077,8 +2896,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40144020,
       "concept_name": "fluticasone / salmeterol Dry Powder Inhaler",
       "standard_concept": "S",
@@ -3094,8 +2912,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40144024,
       "concept_name": "fluticasone / salmeterol Metered Dose Inhaler",
       "standard_concept": "S",
@@ -3111,8 +2928,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40144035,
       "concept_name": "fluticasone Dry Powder Inhaler",
       "standard_concept": "S",
@@ -3128,8 +2944,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40144036,
       "concept_name": "fluticasone Dry Powder Inhaler [Flovent]",
       "standard_concept": "S",
@@ -3145,8 +2960,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40144037,
       "concept_name": "fluticasone Metered Dose Inhaler",
       "standard_concept": "S",
@@ -3162,8 +2976,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40144038,
       "concept_name": "fluticasone Metered Dose Inhaler [Flovent]",
       "standard_concept": "S",
@@ -3179,8 +2992,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40151749,
       "concept_name": "beclomethasone Metered Dose Inhaler [Qvar]",
       "standard_concept": "S",
@@ -3196,8 +3008,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40152662,
       "concept_name": "ciclesonide Metered Dose Inhaler",
       "standard_concept": "S",
@@ -3213,8 +3024,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40152663,
       "concept_name": "ciclesonide Metered Dose Inhaler [Alvesco]",
       "standard_concept": "S",
@@ -3230,8 +3040,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169200,
       "concept_name": "28 ACTUAT fluticasone propionate 0.05 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -3247,8 +3056,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169201,
       "concept_name": "28 ACTUAT fluticasone propionate 0.05 MG/ACTUAT Dry Powder Inhaler [Flovent]",
       "standard_concept": "S",
@@ -3264,8 +3072,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169202,
       "concept_name": "28 ACTUAT fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -3281,8 +3088,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169203,
       "concept_name": "28 ACTUAT fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Advair]",
       "standard_concept": "S",
@@ -3298,8 +3104,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169204,
       "concept_name": "28 ACTUAT fluticasone propionate 0.1 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -3315,8 +3120,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169205,
       "concept_name": "28 ACTUAT fluticasone propionate 0.1 MG/ACTUAT Dry Powder Inhaler [Flovent]",
       "standard_concept": "S",
@@ -3332,8 +3136,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169206,
       "concept_name": "28 ACTUAT fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -3349,8 +3152,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169207,
       "concept_name": "28 ACTUAT fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Advair]",
       "standard_concept": "S",
@@ -3366,8 +3168,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169208,
       "concept_name": "28 ACTUAT fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -3383,8 +3184,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169209,
       "concept_name": "28 ACTUAT fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Advair]",
       "standard_concept": "S",
@@ -3400,8 +3200,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169216,
       "concept_name": "120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -3417,8 +3216,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169217,
       "concept_name": "120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]",
       "standard_concept": "S",
@@ -3434,8 +3232,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169218,
       "concept_name": "120 ACTUAT fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -3451,8 +3248,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169219,
       "concept_name": "120 ACTUAT fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]",
       "standard_concept": "S",
@@ -3468,8 +3264,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169230,
       "concept_name": "120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -3485,8 +3280,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169231,
       "concept_name": "120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]",
       "standard_concept": "S",
@@ -3502,8 +3296,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169232,
       "concept_name": "120 ACTUAT fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -3519,8 +3312,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169233,
       "concept_name": "120 ACTUAT fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]",
       "standard_concept": "S",
@@ -3536,8 +3328,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169234,
       "concept_name": "120 ACTUAT fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -3553,8 +3344,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169235,
       "concept_name": "120 ACTUAT fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]",
       "standard_concept": "S",
@@ -3570,8 +3360,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169236,
       "concept_name": "120 ACTUAT fluticasone propionate 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -3587,8 +3376,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169237,
       "concept_name": "120 ACTUAT fluticasone propionate 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]",
       "standard_concept": "S",
@@ -3604,8 +3392,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169242,
       "concept_name": "14 ACTUAT fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -3621,8 +3408,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169243,
       "concept_name": "14 ACTUAT fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Advair]",
       "standard_concept": "S",
@@ -3638,8 +3424,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169244,
       "concept_name": "14 ACTUAT fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -3655,8 +3440,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169245,
       "concept_name": "14 ACTUAT fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Advair]",
       "standard_concept": "S",
@@ -3672,8 +3456,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169246,
       "concept_name": "14 ACTUAT fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -3689,8 +3472,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169247,
       "concept_name": "14 ACTUAT fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Advair]",
       "standard_concept": "S",
@@ -3706,8 +3488,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169260,
       "concept_name": "60 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -3723,8 +3504,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169261,
       "concept_name": "60 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]",
       "standard_concept": "S",
@@ -3740,8 +3520,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169262,
       "concept_name": "60 ACTUAT fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -3757,8 +3536,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169263,
       "concept_name": "60 ACTUAT fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]",
       "standard_concept": "S",
@@ -3774,8 +3552,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169264,
       "concept_name": "60 ACTUAT fluticasone propionate 0.05 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -3791,8 +3568,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169267,
       "concept_name": "60 ACTUAT fluticasone propionate 0.05 MG/ACTUAT Dry Powder Inhaler [Flovent]",
       "standard_concept": "S",
@@ -3808,8 +3584,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169269,
       "concept_name": "60 ACTUAT fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -3825,8 +3600,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169270,
       "concept_name": "60 ACTUAT fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Advair]",
       "standard_concept": "S",
@@ -3842,8 +3616,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169271,
       "concept_name": "60 ACTUAT fluticasone propionate 0.1 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -3859,8 +3632,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169272,
       "concept_name": "60 ACTUAT fluticasone propionate 0.1 MG/ACTUAT Dry Powder Inhaler [Flovent]",
       "standard_concept": "S",
@@ -3876,8 +3648,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169273,
       "concept_name": "60 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -3893,8 +3664,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169274,
       "concept_name": "60 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]",
       "standard_concept": "S",
@@ -3910,8 +3680,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169275,
       "concept_name": "60 ACTUAT fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -3927,8 +3696,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169276,
       "concept_name": "60 ACTUAT fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]",
       "standard_concept": "S",
@@ -3944,8 +3712,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169277,
       "concept_name": "60 ACTUAT fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -3961,8 +3728,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169278,
       "concept_name": "60 ACTUAT fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]",
       "standard_concept": "S",
@@ -3978,8 +3744,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169279,
       "concept_name": "60 ACTUAT fluticasone propionate 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -3995,8 +3760,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169280,
       "concept_name": "60 ACTUAT fluticasone propionate 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]",
       "standard_concept": "S",
@@ -4012,8 +3776,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169281,
       "concept_name": "60 ACTUAT fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -4029,8 +3792,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169282,
       "concept_name": "60 ACTUAT fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Advair]",
       "standard_concept": "S",
@@ -4046,8 +3808,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169283,
       "concept_name": "60 ACTUAT fluticasone propionate 0.25 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -4063,8 +3824,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169284,
       "concept_name": "60 ACTUAT fluticasone propionate 0.25 MG/ACTUAT Dry Powder Inhaler [Flovent]",
       "standard_concept": "S",
@@ -4080,8 +3840,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169285,
       "concept_name": "60 ACTUAT fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -4097,8 +3856,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40169286,
       "concept_name": "60 ACTUAT fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Advair]",
       "standard_concept": "S",
@@ -4114,8 +3872,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40170634,
       "concept_name": "fluticasone / salmeterol Dry Powder Inhaler [Advair]",
       "standard_concept": "S",
@@ -4131,8 +3888,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40170637,
       "concept_name": "fluticasone / salmeterol Metered Dose Inhaler [Advair]",
       "standard_concept": "S",
@@ -4148,8 +3904,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40170654,
       "concept_name": "fluticasone furoate 0.0275 MG/ACTUAT",
       "standard_concept": "S",
@@ -4165,8 +3920,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40170655,
       "concept_name": "fluticasone furoate 0.0275 MG/ACTUAT [Veramyst]",
       "standard_concept": "S",
@@ -4182,8 +3936,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40170920,
       "concept_name": "mometasone furoate 1 MG/ML [Momexin]",
       "standard_concept": "S",
@@ -4199,8 +3952,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171019,
       "concept_name": "fluticasone propionate 0.044 MG/ACTUAT",
       "standard_concept": "S",
@@ -4216,8 +3968,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171020,
       "concept_name": "fluticasone propionate 0.044 MG/ACTUAT [Flovent]",
       "standard_concept": "S",
@@ -4233,8 +3984,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171021,
       "concept_name": "fluticasone propionate 0.045 MG/ACTUAT",
       "standard_concept": "S",
@@ -4250,8 +4000,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171022,
       "concept_name": "fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT [Advair]",
       "standard_concept": "S",
@@ -4267,8 +4016,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171026,
       "concept_name": "fluticasone propionate 0.1 MG/ACTUAT",
       "standard_concept": "S",
@@ -4284,8 +4032,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171027,
       "concept_name": "fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT [Advair]",
       "standard_concept": "S",
@@ -4301,8 +4048,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171028,
       "concept_name": "fluticasone propionate 0.1 MG/ACTUAT [Flovent]",
       "standard_concept": "S",
@@ -4318,8 +4064,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171029,
       "concept_name": "fluticasone propionate 0.11 MG/ACTUAT",
       "standard_concept": "S",
@@ -4335,8 +4080,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171030,
       "concept_name": "fluticasone propionate 0.11 MG/ACTUAT [Flovent]",
       "standard_concept": "S",
@@ -4352,8 +4096,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171031,
       "concept_name": "fluticasone propionate 0.115 MG/ACTUAT",
       "standard_concept": "S",
@@ -4369,8 +4112,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171032,
       "concept_name": "fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT [Advair]",
       "standard_concept": "S",
@@ -4386,8 +4128,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171033,
       "concept_name": "fluticasone propionate 0.22 MG/ACTUAT",
       "standard_concept": "S",
@@ -4403,8 +4144,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171034,
       "concept_name": "fluticasone propionate 0.22 MG/ACTUAT [Flovent]",
       "standard_concept": "S",
@@ -4420,8 +4160,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171035,
       "concept_name": "fluticasone propionate 0.23 MG/ACTUAT",
       "standard_concept": "S",
@@ -4437,8 +4176,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171036,
       "concept_name": "fluticasone propionate 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT [Advair]",
       "standard_concept": "S",
@@ -4454,8 +4192,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171037,
       "concept_name": "fluticasone propionate 0.25 MG/ACTUAT",
       "standard_concept": "S",
@@ -4471,8 +4208,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171038,
       "concept_name": "fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT [Advair]",
       "standard_concept": "S",
@@ -4488,8 +4224,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171039,
       "concept_name": "fluticasone propionate 0.25 MG/ACTUAT [Flovent]",
       "standard_concept": "S",
@@ -4505,8 +4240,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171042,
       "concept_name": "fluticasone propionate 0.5 MG/ACTUAT",
       "standard_concept": "S",
@@ -4522,8 +4256,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171043,
       "concept_name": "fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT [Advair]",
       "standard_concept": "S",
@@ -4539,8 +4272,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171044,
       "concept_name": "fluticasone propionate 0.5 MG/ML",
       "standard_concept": "S",
@@ -4556,8 +4288,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171348,
       "concept_name": "{1 (113400 MG) (ammonium lactate 120 MG/ML Topical Foam [Pro 12]) / 1 (45000 MG) (mometasone furoate 1 MG/ML Topical Cream [Momexin]) } Pack [Momexin Kit]",
       "standard_concept": "S",
@@ -4573,8 +4304,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40171349,
       "concept_name": "{1 (113400 MG) (ammonium lactate 120 MG/ML Topical Foam) / 1 (45000 MG) (mometasone furoate 1 MG/ML Topical Cream) } Pack",
       "standard_concept": "S",
@@ -4590,8 +4320,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173396,
       "concept_name": "120 ACTUAT beclomethasone dipropionate 0.084 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -4607,8 +4336,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173399,
       "concept_name": "120 ACTUAT budesonide 0.18 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -4624,8 +4352,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173400,
       "concept_name": "120 ACTUAT budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort]",
       "standard_concept": "S",
@@ -4641,8 +4368,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173401,
       "concept_name": "100 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -4658,8 +4384,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173402,
       "concept_name": "100 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",
       "standard_concept": "S",
@@ -4675,8 +4400,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173403,
       "concept_name": "100 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -4692,8 +4416,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173404,
       "concept_name": "100 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",
       "standard_concept": "S",
@@ -4709,8 +4432,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173436,
       "concept_name": "200 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -4726,8 +4448,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173437,
       "concept_name": "200 ACTUAT beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -4743,8 +4464,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173438,
       "concept_name": "200 ACTUAT beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Beclovent]",
       "standard_concept": "S",
@@ -4760,8 +4480,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173439,
       "concept_name": "200 ACTUAT beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Vanceril]",
       "standard_concept": "S",
@@ -4777,8 +4496,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173442,
       "concept_name": "200 ACTUAT beclomethasone dipropionate 0.084 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -4794,8 +4512,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173443,
       "concept_name": "200 ACTUAT beclomethasone dipropionate 0.084 MG/ACTUAT Metered Dose Inhaler [Vanceril]",
       "standard_concept": "S",
@@ -4811,8 +4528,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173447,
       "concept_name": "60 ACTUAT budesonide 0.09 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -4828,8 +4544,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173448,
       "concept_name": "60 ACTUAT budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort]",
       "standard_concept": "S",
@@ -4845,8 +4560,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173452,
       "concept_name": "80 ACTUAT beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -4862,8 +4576,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173726,
       "concept_name": "beclomethasone dipropionate 0.00025 MG/MG",
       "standard_concept": "S",
@@ -4879,8 +4592,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173727,
       "concept_name": "beclomethasone dipropionate 0.00025 MG/MG Topical Ointment",
       "standard_concept": "S",
@@ -4896,8 +4608,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173728,
       "concept_name": "beclomethasone dipropionate 0.04 MG/ACTUAT",
       "standard_concept": "S",
@@ -4913,8 +4624,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173729,
       "concept_name": "beclomethasone dipropionate 0.04 MG/ACTUAT [Qvar]",
       "standard_concept": "S",
@@ -4930,8 +4640,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173730,
       "concept_name": "beclomethasone dipropionate 0.042 MG/ACTUAT",
       "standard_concept": "S",
@@ -4947,8 +4656,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173731,
       "concept_name": "beclomethasone dipropionate 0.042 MG/ACTUAT [Beclovent]",
       "standard_concept": "S",
@@ -4964,8 +4672,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173732,
       "concept_name": "beclomethasone dipropionate 0.042 MG/ACTUAT [Beconase]",
       "standard_concept": "S",
@@ -4981,8 +4688,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173733,
       "concept_name": "beclomethasone dipropionate 0.042 MG/ACTUAT [Vancenase]",
       "standard_concept": "S",
@@ -4998,8 +4704,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173734,
       "concept_name": "beclomethasone dipropionate 0.042 MG/ACTUAT [Vanceril]",
       "standard_concept": "S",
@@ -5015,8 +4720,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173735,
       "concept_name": "beclomethasone dipropionate 0.08 MG/ACTUAT",
       "standard_concept": "S",
@@ -5032,8 +4736,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173736,
       "concept_name": "beclomethasone dipropionate 0.08 MG/ACTUAT [Qvar]",
       "standard_concept": "S",
@@ -5049,8 +4752,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173737,
       "concept_name": "beclomethasone dipropionate 0.084 MG/ACTUAT",
       "standard_concept": "S",
@@ -5066,8 +4768,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173738,
       "concept_name": "beclomethasone dipropionate 0.084 MG/ACTUAT [Vancenase]",
       "standard_concept": "S",
@@ -5083,8 +4784,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173739,
       "concept_name": "beclomethasone dipropionate 0.084 MG/ACTUAT [Vanceril]",
       "standard_concept": "S",
@@ -5100,8 +4800,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40173742,
       "concept_name": "beclomethasone Metered Dose Inhaler [Vanceril]",
       "standard_concept": "S",
@@ -5117,8 +4816,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40178622,
       "concept_name": "budesonide 3 MG [Entocort]",
       "standard_concept": "S",
@@ -5134,8 +4832,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40223712,
       "concept_name": "formoterol / mometasone Metered Dose Inhaler",
       "standard_concept": "S",
@@ -5151,8 +4848,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40223714,
       "concept_name": "formoterol / mometasone Metered Dose Inhaler [Dulera]",
       "standard_concept": "S",
@@ -5168,8 +4864,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40227678,
       "concept_name": "beclomethasone dipropionate 0.00025 MG/MG [Beconase]",
       "standard_concept": "S",
@@ -5185,8 +4880,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40227679,
       "concept_name": "beclomethasone dipropionate 0.00025 MG/MG [Propaderm A]",
       "standard_concept": "S",
@@ -5202,8 +4896,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40227680,
       "concept_name": "beclomethasone dipropionate 0.00025 MG/MG [Propaderm C]",
       "standard_concept": "S",
@@ -5219,8 +4912,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40227681,
       "concept_name": "beclomethasone dipropionate 0.25 MG/ML [Beconase]",
       "standard_concept": "S",
@@ -5236,8 +4928,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40227682,
       "concept_name": "beclomethasone dipropionate 0.25 MG/ML [Propaderm C]",
       "standard_concept": "S",
@@ -5253,8 +4944,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40242513,
       "concept_name": "28 ACTUAT fluticasone propionate 0.25 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -5270,8 +4960,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 40242514,
       "concept_name": "28 ACTUAT fluticasone propionate 0.25 MG/ACTUAT Dry Powder Inhaler [Flovent]",
       "standard_concept": "S",
@@ -5287,8 +4976,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42705815,
       "concept_name": "ciclesonide 0.037 MG/ACTUAT",
       "standard_concept": "S",
@@ -5304,8 +4992,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42705817,
       "concept_name": "ciclesonide 0.037 MG/ACTUAT [Zetonna]",
       "standard_concept": "S",
@@ -5321,8 +5008,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42706341,
       "concept_name": "budesonide 0.08 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT [Symbicort]",
       "standard_concept": "S",
@@ -5338,8 +5024,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42706348,
       "concept_name": "budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT [Symbicort]",
       "standard_concept": "S",
@@ -5355,8 +5040,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42706350,
       "concept_name": "formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT [Dulera]",
       "standard_concept": "S",
@@ -5372,8 +5056,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42706351,
       "concept_name": "formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT [Dulera]",
       "standard_concept": "S",
@@ -5389,8 +5072,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42706708,
       "concept_name": "beclomethasone dipropionate 0.08 MG/ACTUAT [Qnasl]",
       "standard_concept": "S",
@@ -5406,8 +5088,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42708504,
       "concept_name": "120 ACTUAT budesonide 0.08 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -5423,8 +5104,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42708505,
       "concept_name": "120 ACTUAT budesonide 0.08 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler [Symbicort]",
       "standard_concept": "S",
@@ -5440,8 +5120,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42708508,
       "concept_name": "120 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -5457,8 +5136,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42708509,
       "concept_name": "120 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler [Symbicort]",
       "standard_concept": "S",
@@ -5474,8 +5152,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42708510,
       "concept_name": "120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -5491,8 +5168,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42708511,
       "concept_name": "120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Dulera]",
       "standard_concept": "S",
@@ -5508,8 +5184,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42708512,
       "concept_name": "120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -5525,8 +5200,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42708513,
       "concept_name": "120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Dulera]",
       "standard_concept": "S",
@@ -5542,8 +5216,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42708514,
       "concept_name": "60 ACTUAT budesonide 0.08 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -5559,8 +5232,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42708515,
       "concept_name": "60 ACTUAT budesonide 0.08 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler [Symbicort]",
       "standard_concept": "S",
@@ -5576,8 +5248,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42708516,
       "concept_name": "60 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -5593,8 +5264,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42708517,
       "concept_name": "60 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler [Symbicort]",
       "standard_concept": "S",
@@ -5610,8 +5280,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42799274,
       "concept_name": "azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT [Dymista]",
       "standard_concept": "S",
@@ -5627,8 +5296,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902318,
       "concept_name": "mometasone furoate 1 MG/ML Topical Cream [Momexin]",
       "standard_concept": "S",
@@ -5644,8 +5312,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902350,
       "concept_name": "mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler [Asmanex]",
       "standard_concept": "S",
@@ -5661,8 +5328,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902351,
       "concept_name": "fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]",
       "standard_concept": "S",
@@ -5678,8 +5344,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902386,
       "concept_name": "mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -5695,8 +5360,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902388,
       "concept_name": "beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Beclovent]",
       "standard_concept": "S",
@@ -5712,8 +5376,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902433,
       "concept_name": "budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler [Symbicort]",
       "standard_concept": "S",
@@ -5729,8 +5392,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902447,
       "concept_name": "fluticasone propionate 0.1 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -5746,8 +5408,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902458,
       "concept_name": "budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort]",
       "standard_concept": "S",
@@ -5763,8 +5424,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902498,
       "concept_name": "mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]",
       "standard_concept": "S",
@@ -5780,8 +5440,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902500,
       "concept_name": "fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]",
       "standard_concept": "S",
@@ -5797,8 +5456,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902501,
       "concept_name": "formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Dulera]",
       "standard_concept": "S",
@@ -5814,8 +5472,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902513,
       "concept_name": "mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -5831,8 +5488,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902547,
       "concept_name": "fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -5848,8 +5504,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902601,
       "concept_name": "fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Advair]",
       "standard_concept": "S",
@@ -5865,8 +5520,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902603,
       "concept_name": "formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Dulera]",
       "standard_concept": "S",
@@ -5882,8 +5536,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902623,
       "concept_name": "ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -5899,8 +5552,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902635,
       "concept_name": "fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]",
       "standard_concept": "S",
@@ -5916,8 +5568,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902665,
       "concept_name": "fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Advair]",
       "standard_concept": "S",
@@ -5933,8 +5584,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902666,
       "concept_name": "fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -5950,8 +5600,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902702,
       "concept_name": "fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -5967,8 +5616,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902703,
       "concept_name": "fluticasone propionate 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -5984,8 +5632,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902704,
       "concept_name": "beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Vanceril]",
       "standard_concept": "S",
@@ -6001,8 +5648,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902745,
       "concept_name": "fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -6018,8 +5664,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902746,
       "concept_name": "fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -6035,8 +5680,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902748,
       "concept_name": "budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6052,8 +5696,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902807,
       "concept_name": "fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6069,8 +5712,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902808,
       "concept_name": "fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]",
       "standard_concept": "S",
@@ -6086,8 +5728,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902871,
       "concept_name": "beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6103,8 +5744,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902878,
       "concept_name": "fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Advair]",
       "standard_concept": "S",
@@ -6120,8 +5760,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902879,
       "concept_name": "beclomethasone dipropionate 0.084 MG/ACTUAT Metered Dose Inhaler [Vanceril]",
       "standard_concept": "S",
@@ -6137,8 +5776,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902902,
       "concept_name": "beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6154,8 +5792,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902911,
       "concept_name": "beclomethasone dipropionate 0.084 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6171,8 +5808,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902933,
       "concept_name": "fluticasone propionate 0.25 MG/ACTUAT Dry Powder Inhaler [Flovent]",
       "standard_concept": "S",
@@ -6188,8 +5824,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902934,
       "concept_name": "fluticasone propionate 0.25 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -6205,8 +5840,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902950,
       "concept_name": "formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6222,8 +5856,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902951,
       "concept_name": "fluticasone propionate 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]",
       "standard_concept": "S",
@@ -6239,8 +5872,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902960,
       "concept_name": "fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6256,8 +5888,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42902961,
       "concept_name": "beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6273,8 +5904,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42903065,
       "concept_name": "budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort]",
       "standard_concept": "S",
@@ -6290,8 +5920,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42903087,
       "concept_name": "fluticasone propionate 0.05 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -6307,8 +5936,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42903103,
       "concept_name": "fluticasone propionate 0.1 MG/ACTUAT Dry Powder Inhaler [Flovent]",
       "standard_concept": "S",
@@ -6324,8 +5952,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42903104,
       "concept_name": "budesonide 0.09 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -6341,8 +5968,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42903122,
       "concept_name": "formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6358,8 +5984,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42903140,
       "concept_name": "ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco]",
       "standard_concept": "S",
@@ -6375,8 +6000,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42903156,
       "concept_name": "ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6392,8 +6016,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42903180,
       "concept_name": "fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]",
       "standard_concept": "S",
@@ -6409,8 +6032,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42903181,
       "concept_name": "beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",
       "standard_concept": "S",
@@ -6426,8 +6048,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42903191,
       "concept_name": "budesonide 0.08 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6443,8 +6064,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42903220,
       "concept_name": "fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6460,8 +6080,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42903289,
       "concept_name": "budesonide 0.18 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -6477,8 +6096,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42903290,
       "concept_name": "beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",
       "standard_concept": "S",
@@ -6494,8 +6112,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42903365,
       "concept_name": "fluticasone propionate 0.05 MG/ACTUAT Dry Powder Inhaler [Flovent]",
       "standard_concept": "S",
@@ -6511,8 +6128,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42903368,
       "concept_name": "ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco]",
       "standard_concept": "S",
@@ -6528,8 +6144,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 42903396,
       "concept_name": "budesonide 0.08 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler [Symbicort]",
       "standard_concept": "S",
@@ -6545,8 +6160,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43531861,
       "concept_name": "14 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -6562,8 +6176,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43531871,
       "concept_name": "30 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -6579,8 +6192,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43532281,
       "concept_name": "fluticasone / vilanterol Dry Powder Inhaler",
       "standard_concept": "S",
@@ -6596,8 +6208,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43532283,
       "concept_name": "fluticasone furoate 0.1 MG/ACTUAT",
       "standard_concept": "S",
@@ -6613,8 +6224,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 43532284,
       "concept_name": "fluticasone furoate 0.1 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -6630,8 +6240,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44814258,
       "concept_name": "50 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6647,8 +6256,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44814259,
       "concept_name": "50 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",
       "standard_concept": "S",
@@ -6664,8 +6272,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44814264,
       "concept_name": "120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6681,8 +6288,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44814265,
       "concept_name": "120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",
       "standard_concept": "S",
@@ -6698,8 +6304,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44814266,
       "concept_name": "120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6715,8 +6320,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44814267,
       "concept_name": "120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",
       "standard_concept": "S",
@@ -6732,8 +6336,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44814273,
       "concept_name": "200 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6749,8 +6352,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44817882,
       "concept_name": "mometasone Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6766,8 +6368,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44817883,
       "concept_name": "mometasone Metered Dose Inhaler [Asmanex]",
       "standard_concept": "S",
@@ -6783,8 +6384,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44818261,
       "concept_name": "120 ACTUAT mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6800,8 +6400,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44818262,
       "concept_name": "120 ACTUAT mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Asmanex]",
       "standard_concept": "S",
@@ -6817,8 +6416,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44818263,
       "concept_name": "mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6834,8 +6432,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44818264,
       "concept_name": "mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Asmanex]",
       "standard_concept": "S",
@@ -6851,8 +6448,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44818265,
       "concept_name": "120 ACTUAT mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6868,8 +6464,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44818266,
       "concept_name": "120 ACTUAT mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Asmanex]",
       "standard_concept": "S",
@@ -6885,8 +6480,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44818267,
       "concept_name": "mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -6902,8 +6496,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 44818268,
       "concept_name": "mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Asmanex]",
       "standard_concept": "S",
@@ -6919,8 +6512,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45775244,
       "concept_name": "fluticasone furoate 0.1 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT [Breo]",
       "standard_concept": "S",
@@ -6936,8 +6528,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45775245,
       "concept_name": "fluticasone / vilanterol Dry Powder Inhaler [Breo]",
       "standard_concept": "S",
@@ -6953,8 +6544,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45775246,
       "concept_name": "14 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Breo]",
       "standard_concept": "S",
@@ -6970,8 +6560,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45775247,
       "concept_name": "fluticasone furoate 0.1 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Breo]",
       "standard_concept": "S",
@@ -6987,8 +6576,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45775248,
       "concept_name": "30 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Breo]",
       "standard_concept": "S",
@@ -7004,8 +6592,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45776177,
       "concept_name": "fluticasone Dry Powder Inhaler [Arnuity]",
       "standard_concept": "S",
@@ -7021,8 +6608,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45776178,
       "concept_name": "30 ACTUAT fluticasone furoate 0.1 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -7038,8 +6624,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45776179,
       "concept_name": "fluticasone furoate 0.1 MG/ACTUAT [Arnuity]",
       "standard_concept": "S",
@@ -7055,8 +6640,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45776180,
       "concept_name": "30 ACTUAT fluticasone furoate 0.1 MG/ACTUAT Dry Powder Inhaler [Arnuity]",
       "standard_concept": "S",
@@ -7072,8 +6656,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45776181,
       "concept_name": "fluticasone furoate 0.1 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -7089,8 +6672,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45776182,
       "concept_name": "fluticasone furoate 0.1 MG/ACTUAT Dry Powder Inhaler [Arnuity]",
       "standard_concept": "S",
@@ -7106,8 +6688,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45776183,
       "concept_name": "14 ACTUAT fluticasone furoate 0.1 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -7123,8 +6704,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45776184,
       "concept_name": "14 ACTUAT fluticasone furoate 0.1 MG/ACTUAT Dry Powder Inhaler [Arnuity]",
       "standard_concept": "S",
@@ -7140,8 +6720,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45776185,
       "concept_name": "fluticasone furoate 0.2 MG/ACTUAT",
       "standard_concept": "S",
@@ -7157,8 +6736,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45776186,
       "concept_name": "14 ACTUAT fluticasone furoate 0.2 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -7174,8 +6752,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45776296,
       "concept_name": "fluticasone furoate 0.2 MG/ACTUAT [Arnuity]",
       "standard_concept": "S",
@@ -7191,8 +6768,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45776297,
       "concept_name": "14 ACTUAT fluticasone furoate 0.2 MG/ACTUAT Dry Powder Inhaler [Arnuity]",
       "standard_concept": "S",
@@ -7208,8 +6784,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45776298,
       "concept_name": "fluticasone furoate 0.2 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -7225,8 +6800,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45776299,
       "concept_name": "fluticasone furoate 0.2 MG/ACTUAT Dry Powder Inhaler [Arnuity]",
       "standard_concept": "S",
@@ -7242,8 +6816,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45776300,
       "concept_name": "30 ACTUAT fluticasone furoate 0.2 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -7259,8 +6832,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45776301,
       "concept_name": "30 ACTUAT fluticasone furoate 0.2 MG/ACTUAT Dry Powder Inhaler [Arnuity]",
       "standard_concept": "S",
@@ -7276,8 +6848,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 45892718,
       "concept_name": "beclomethasone dipropionate 0.04 MG/ACTUAT [Qnasl]",
       "standard_concept": "S",
@@ -7293,8 +6864,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 46221667,
       "concept_name": "mometasone 1 MG/ML",
       "standard_concept": "S",
@@ -7310,8 +6880,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 46234368,
       "concept_name": "14 ACTUAT fluticasone furoate 0.2 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -7327,8 +6896,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 46234369,
       "concept_name": "fluticasone furoate 0.2 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT [Breo]",
       "standard_concept": "S",
@@ -7344,8 +6912,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 46234370,
       "concept_name": "14 ACTUAT fluticasone furoate 0.2 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Breo]",
       "standard_concept": "S",
@@ -7361,8 +6928,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 46234371,
       "concept_name": "fluticasone furoate 0.2 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -7378,8 +6944,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 46234372,
       "concept_name": "fluticasone furoate 0.2 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Breo]",
       "standard_concept": "S",
@@ -7395,8 +6960,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 46234373,
       "concept_name": "30 ACTUAT fluticasone furoate 0.2 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler",
       "standard_concept": "S",
@@ -7412,8 +6976,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 46234374,
       "concept_name": "30 ACTUAT fluticasone furoate 0.2 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Breo]",
       "standard_concept": "S",
@@ -7429,8 +6992,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 46276021,
       "concept_name": "60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -7446,8 +7008,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 46276022,
       "concept_name": "60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Dulera]",
       "standard_concept": "S",
@@ -7463,8 +7024,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 46276023,
       "concept_name": "60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler",
       "standard_concept": "S",
@@ -7480,8 +7040,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 46276024,
       "concept_name": "60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Dulera]",
       "standard_concept": "S",
@@ -7497,8 +7056,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 46287627,
       "concept_name": "clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Mometamax]",
       "standard_concept": "S",
@@ -7514,8 +7072,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 46287628,
       "concept_name": "clotrimazole / gentamicin / mometasone Otic Suspension [Mometamax]",
       "standard_concept": "S",
@@ -7531,8 +7088,7 @@
     "includeMapped": false
   },
   {
-    "concept.codeset": "inhaled-corticosteroid",
-    "concept.concept": {
+    "concept": {
       "concept_id": 46287629,
       "concept_name": "clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Mometamax]",
       "standard_concept": "S",
