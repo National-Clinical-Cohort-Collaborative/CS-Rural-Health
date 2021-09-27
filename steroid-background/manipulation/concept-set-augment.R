@@ -183,7 +183,7 @@ ds_items <-
     includeMapped       = rep(FALSE   , nrow(ds_packed))
   )
 
-l2 <- list(items = ds_items)
+# l2 <- list(items = ds_items)
 # str(l2)
 
 #
@@ -205,24 +205,24 @@ l2 <- list(items = ds_items)
 #   )
 #
 # View(test)
-li <- list()
-for (i in seq_len(nrow(ds))) {
-  li[i] <- list(
-    concept = ds[i, ]
-    # isExcluded = 'false',
-    # includeDescendants = 'true',
-    # includeMapped = 'false'
-  )
-}
-
-l <- list(items = li)
+# li <- list()
+# for (i in seq_len(nrow(ds))) {
+#   li[i] <- list(
+#     concept = ds[i, ]
+#     # isExcluded = 'false',
+#     # includeDescendants = 'true',
+#     # includeMapped = 'false'
+#   )
+# }
+#
+# l <- list(items = li)
 # l
 # as.list(ds[1, ])
 
 # jsonlite::fromJSON(
-#   txt = "concept-sets/input/desired.json"
+#   "concept-sets/input/pre-reviewed/desired.json"
 # ) |>
-#   str()
+# str()
 
 
 # ---- verify-values -----------------------------------------------------------
@@ -263,11 +263,11 @@ ds$concept_code[!grepl("^.{4,15}$", ds$concept_code)]
 
 # ---- save-to-disk -------------------------------------------------
 # readr::write_csv(ds_slim, config$path_derived_zip_code)
-jsonlite::write_json(
-  x       = l2,
-  path    = config$directory_codeset_output_try1,
-  pretty  = TRUE
-)
+# jsonlite::write_json(
+#   x       = l2,
+#   path    = config$directory_codeset_output_try1,
+#   pretty  = TRUE
+# )
 
 
 names(paths) |>
@@ -286,7 +286,7 @@ names(paths) |>
         {
           \(i)
           list(items = i)
-        } |>
+        }() |>
         jsonlite::write_json(
           path    = sprintf(config$directory_codeset_output_template, cs),
           pretty  = TRUE
