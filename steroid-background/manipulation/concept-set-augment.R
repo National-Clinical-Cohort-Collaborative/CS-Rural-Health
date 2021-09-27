@@ -230,17 +230,19 @@ l <- list(items = li)
 # Sniff out problems
 # OuhscMunge::verify_value_headstart(ds)
 
-checkmate::assert_character(ds$codeset                  , any.missing=F , pattern="^.{11,22}$"    )
+checkmate::assert_character(ds$codeset                  , any.missing=F , pattern="^.{5,50}$"     )
 checkmate::assert_integer(  ds$concept_id               , any.missing=F , lower=1, upper=2^31     )
 checkmate::assert_character(ds$concept_name             , any.missing=F , pattern="^.{5,255}$"    )
-checkmate::assert_character(ds$standard_concept         , any.missing=F , pattern="^S$"           )
-checkmate::assert_character(ds$standard_concept_caption , any.missing=F , pattern="^Standard$"    )
+checkmate::assert_character(ds$standard_concept         , any.missing=F , pattern="^C|S$"         )
+checkmate::assert_character(ds$standard_concept_caption , any.missing=F , pattern="^C|Standard$"  )
 checkmate::assert_character(ds$invalid_reason           , all.missing=T)
 checkmate::assert_character(ds$invalid_reason_caption   , any.missing=F , pattern="^Valid$"       )
-checkmate::assert_character(ds$concept_code             , any.missing=F , pattern="^\\d{4,7}$"    )
+checkmate::assert_character(ds$concept_code             , any.missing=F , pattern="^.{4,15}$"     )
 checkmate::assert_character(ds$domain_id                , any.missing=F , pattern="^Drug$"        )
-checkmate::assert_character(ds$vocabulary_id            , any.missing=F , pattern="^RxNorm$"      )
-checkmate::assert_character(ds$concept_class_id         , any.missing=F , pattern="^.{10,50}$"    )
+checkmate::assert_character(ds$vocabulary_id            , any.missing=F , pattern="^ATC|RxNorm(?: Extension)?$"      )
+checkmate::assert_character(ds$concept_class_id         , any.missing=F , pattern="^.{5,50}$"     )
+
+ds$concept_code[!grepl("^.{4,15}$", ds$concept_code)]
 
 # ---- specify-columns-to-write ------------------------------------------------
 # Print colnames that `dplyr::select()`  should contain below:
