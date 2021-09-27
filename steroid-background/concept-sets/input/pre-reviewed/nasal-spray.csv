@@ -1,4 +1,4 @@
-concept_id,desired,comments,concept_name,standard_concept,standard_concept_caption,invalid_reason,invalid_reason_caption,concept_code,domain_id,vocabulary_id,concept_class_id
+concept_id,keep_entry_in_codeset,comments,concept_name,standard_concept,standard_concept_caption,invalid_reason,invalid_reason_caption,concept_code,domain_id,vocabulary_id,concept_class_id
 739917,TRUE,,triamcinolone acetonide 40 MG/ML Injection [Kenalog],S,,NULL,,2480109,Drug,RxNorm,Branded Drug
 740264,TRUE,,1 ML triamcinolone acetonide 40 MG/ML Injection [Kenalog],S,,NULL,,2480108,Drug,RxNorm,Quant Branded Drug
 789930,TRUE,,triamcinolone acetonide 80 MG/ML Injectable Suspension,S,,NULL,,2168081,Drug,RxNorm,Clinical Drug

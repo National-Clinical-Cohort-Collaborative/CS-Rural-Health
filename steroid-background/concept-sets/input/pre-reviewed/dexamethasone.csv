@@ -1,4 +1,4 @@
-concept_id,desired,comments,concept_name,standard_concept,standard_concept_caption,invalid_reason,invalid_reason_caption,concept_code,domain_id,vocabulary_id,concept_class_id
+concept_id,keep_entry_in_codeset,comments,concept_name,standard_concept,standard_concept_caption,invalid_reason,invalid_reason_caption,concept_code,domain_id,vocabulary_id,concept_class_id
 1518254,TRUE,,dexamethasone,S,,NULL,,3264,Drug,RxNorm,Ingredient
 1518258,TRUE,,dexamethasone 0.5 MG Oral Tablet,S,,NULL,,197577,Drug,RxNorm,Clinical Drug
 1518261,TRUE,,dexamethasone 2 MG Oral Tablet,S,,NULL,,197581,Drug,RxNorm,Clinical Drug

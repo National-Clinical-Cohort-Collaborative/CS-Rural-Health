@@ -1,4 +1,4 @@
-concept_id,desired,comments,concept_name,standard_concept,standard_concept_caption,invalid_reason,invalid_reason_caption,concept_code,domain_id,vocabulary_id,concept_class_id
+concept_id,keep_entry_in_codeset,comments,concept_name,standard_concept,standard_concept_caption,invalid_reason,invalid_reason_caption,concept_code,domain_id,vocabulary_id,concept_class_id
 1036286,FALSE,,phenylephrine 1.2 MG/ML / prednisolone 5 MG/ML / sulfacetamide 100 MG/ML Ophthalmic Suspension,S,,NULL,,312193,Drug,RxNorm,Clinical Drug
 1113120,FALSE,,aspirin 300 MG / methylprednisolone 1.5 MG Oral Tablet,S,,NULL,,245993,Drug,RxNorm,Clinical Drug
 1136635,FALSE,,phenylephrine 1.2 MG/ML / prednisolone 10 MG/ML Ophthalmic Suspension,S,,NULL,,249424,Drug,RxNorm,Clinical Drug

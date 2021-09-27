@@ -1,4 +1,4 @@
-concept_id,desired,comments,concept_name,standard_concept,standard_concept_caption,invalid_reason,invalid_reason_caption,concept_code,domain_id,vocabulary_id,concept_class_id
+concept_id,keep_entry_in_codeset,comments,concept_name,standard_concept,standard_concept_caption,invalid_reason,invalid_reason_caption,concept_code,domain_id,vocabulary_id,concept_class_id
 792831,TRUE,,hydrocortisone 0.005 MG/MG [Cortizone],S,,NULL,,1987141,Drug,RxNorm,Branded Drug Comp
 792834,TRUE,,hydrocortisone 5 MG/ML [Cortizone],S,,NULL,,1987145,Drug,RxNorm,Branded Drug Comp
 792836,TRUE,,hydrocortisone 0.01 MG/MG [Cortizone],S,,NULL,,1987151,Drug,RxNorm,Branded Drug Comp

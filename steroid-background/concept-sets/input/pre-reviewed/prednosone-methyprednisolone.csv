@@ -1,4 +1,4 @@
-concept_id,desired,comments,concept_name,standard_concept,standard_concept_caption,invalid_reason,invalid_reason_caption,concept_code,domain_id,vocabulary_id,concept_class_id
+concept_id,keep_entry_in_codeset,comments,concept_name,standard_concept,standard_concept_caption,invalid_reason,invalid_reason_caption,concept_code,domain_id,vocabulary_id,concept_class_id
 1113120,TRUE,,aspirin 300 MG / methylprednisolone 1.5 MG Oral Tablet,S,,NULL,,245993,Drug,RxNorm,Clinical Drug
 1146889,TRUE,,piroxicam 10 MG / prednisone 2 MG Oral Tablet,S,,NULL,,251947,Drug,RxNorm,Clinical Drug
 1506270,TRUE,,methylprednisolone,S,,NULL,,6902,Drug,RxNorm,Ingredient
