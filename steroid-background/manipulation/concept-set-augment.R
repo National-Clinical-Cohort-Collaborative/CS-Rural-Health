@@ -175,16 +175,15 @@ ds_packed <-
   tidyr::pack(concept = -codeset)
   # tidyr::pack(concept = tidyr::everything())
 
-l2 <-
-  list(
-    items =
-      data.frame(
-        concept             = ds_packed,
-        isExcluded          = rep(FALSE   , nrow(ds_packed)),
-        includeDescendants  = rep(TRUE    , nrow(ds_packed)),
-        includeMapped       = rep(FALSE   , nrow(ds_packed))
-      )
+ds_items <-
+  data.frame(
+    concept             = ds_packed,
+    isExcluded          = rep(FALSE   , nrow(ds_packed)),
+    includeDescendants  = rep(TRUE    , nrow(ds_packed)),
+    includeMapped       = rep(FALSE   , nrow(ds_packed))
   )
+
+l2 <- list(items = ds_items)
 # str(l2)
 
 #
@@ -269,3 +268,21 @@ jsonlite::write_json(
   path    = config$directory_codeset_output_try1,
   pretty  = TRUE
 )
+
+
+names(paths) |>
+  purrr::walk(
+    {\(cs)
+      ds_items |>
+        dplyr::filter(concept.codeset == cs) |>
+        jsonlite::write_json(
+          path    = sprintf(config$directory_codeset_output_template, cs),
+          pretty  = TRUE
+        )
+    }
+  )
+
+
+# items |>
+#   purrr::keep(function(x) x$concept.codeset == "inhaled-corticosteroid")
+

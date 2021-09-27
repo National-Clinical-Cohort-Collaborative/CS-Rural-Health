@@ -3,6 +3,7 @@ default:
 
     directory_codeset_input       : "concept-sets/input"
     directory_codeset_output      : "concept-sets"
+    directory_codeset_output_template: "concept-sets/%s.json"
     directory_codeset_output_try1      : "concept-sets/try-1.json"
 
     # Central Database (a cache of the OMOP concept table).
