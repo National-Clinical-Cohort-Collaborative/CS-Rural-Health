@@ -163,7 +163,8 @@ ds <-
   dplyr::mutate(
     standard_concept_caption  = dplyr::recode(
       standard_concept,
-      "S"   = "Standard"
+      "S"   = "Standard",
+      "C"   = "Classification"
       # Add more as needed
     ),
     invalid_reason_caption = dplyr::if_else(!is.na(invalid_reason), "Invalid", "Valid")
@@ -233,7 +234,7 @@ checkmate::assert_character(ds$codeset                  , any.missing=F , patter
 checkmate::assert_integer(  ds$concept_id               , any.missing=F , lower=1, upper=2^31     )
 checkmate::assert_character(ds$concept_name             , any.missing=F , pattern="^.{5,255}$"    )
 checkmate::assert_character(ds$standard_concept         , any.missing=F , pattern="^C|S$"         )
-checkmate::assert_character(ds$standard_concept_caption , any.missing=F , pattern="^C|Standard$"  )
+checkmate::assert_character(ds$standard_concept_caption , any.missing=F , pattern="^Classification|Standard$"  )
 checkmate::assert_character(ds$invalid_reason           , all.missing=T)
 checkmate::assert_character(ds$invalid_reason_caption   , any.missing=F , pattern="^Valid$"       )
 checkmate::assert_character(ds$concept_code             , any.missing=F , pattern="^.{4,15}$"     )
@@ -273,9 +274,9 @@ ds$concept_code[!grepl("^.{4,15}$", ds$concept_code)]
 names(paths) |>
   purrr::walk(
     {
-      \(cs)
+      \(.codeset)
       ds_items |>
-        dplyr::filter(concept.codeset == cs) |>
+        dplyr::filter(concept.codeset == .codeset) |>
         dplyr::select(
           # concept.codeset
           concept           = concept.concept,
@@ -284,11 +285,11 @@ names(paths) |>
           includeMapped,
         ) |>
         {
-          \(i)
-          list(items = i)
+          \(.items)
+          list(items = .items) # Nest in the "items" element
         }() |>
         jsonlite::write_json(
-          path    = sprintf(config$directory_codeset_output_template, cs),
+          path    = sprintf(config$directory_codeset_output_template, .codeset),
           pretty  = TRUE
         )
     }
