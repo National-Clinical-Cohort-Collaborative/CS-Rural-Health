@@ -173,7 +173,8 @@ ds <-
 
 ds_packed <-
   ds |>
-  tidyr::pack(concept = -codeset)
+  dplyr::rename_all(toupper) |>
+  tidyr::pack(concept = -CODESET)
   # tidyr::pack(concept = tidyr::everything())
 
 ds_items <-
@@ -270,13 +271,15 @@ ds$concept_code[!grepl("^.{4,15}$", ds$concept_code)]
 #   pretty  = TRUE
 # )
 
+# ds_items |>
+#   tibble::as_tibble()
 
 names(paths) |>
   purrr::walk(
     {
       \(.codeset)
       ds_items |>
-        dplyr::filter(concept.codeset == .codeset) |>
+        dplyr::filter(concept.CODESET == .codeset) |>
         dplyr::select(
           # concept.codeset
           concept           = concept.concept,

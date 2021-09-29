@@ -2,15 +2,15 @@
   "items": [
     {
       "concept": {
-        "concept_id": 1518254,
-        "concept_name": "dexamethasone",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "3264",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Ingredient"
+        "CONCEPT_ID": 1518254,
+        "CONCEPT_NAME": "dexamethasone",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "3264",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Ingredient"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -18,15 +18,15 @@
     },
     {
       "concept": {
-        "concept_id": 1518258,
-        "concept_name": "dexamethasone 0.5 MG Oral Tablet",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "197577",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug"
+        "CONCEPT_ID": 1518258,
+        "CONCEPT_NAME": "dexamethasone 0.5 MG Oral Tablet",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197577",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -34,15 +34,15 @@
     },
     {
       "concept": {
-        "concept_id": 1518261,
-        "concept_name": "dexamethasone 2 MG Oral Tablet",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "197581",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug"
+        "CONCEPT_ID": 1518261,
+        "CONCEPT_NAME": "dexamethasone 2 MG Oral Tablet",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197581",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -50,15 +50,15 @@
     },
     {
       "concept": {
-        "concept_id": 1518491,
-        "concept_name": "dexamethasone 0.2 MG/ML Oral Solution",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "242882",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug"
+        "CONCEPT_ID": 1518491,
+        "CONCEPT_NAME": "dexamethasone 0.2 MG/ML Oral Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "242882",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -66,15 +66,15 @@
     },
     {
       "concept": {
-        "concept_id": 1518603,
-        "concept_name": "dexamethasone 0.1 MG/ML",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "315773",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug Comp"
+        "CONCEPT_ID": 1518603,
+        "CONCEPT_NAME": "dexamethasone 0.1 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "315773",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -82,15 +82,15 @@
     },
     {
       "concept": {
-        "concept_id": 1518605,
-        "concept_name": "dexamethasone 0.5 MG",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "315775",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug Comp"
+        "CONCEPT_ID": 1518605,
+        "CONCEPT_NAME": "dexamethasone 0.5 MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "315775",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -98,15 +98,15 @@
     },
     {
       "concept": {
-        "concept_id": 1518610,
-        "concept_name": "dexamethasone 2 MG",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "317346",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug Comp"
+        "CONCEPT_ID": 1518610,
+        "CONCEPT_NAME": "dexamethasone 2 MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "317346",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -114,15 +114,15 @@
     },
     {
       "concept": {
-        "concept_id": 1518611,
-        "concept_name": "dexamethasone 1 MG/ML",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "317629",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug Comp"
+        "CONCEPT_ID": 1518611,
+        "CONCEPT_NAME": "dexamethasone 1 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "317629",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -130,15 +130,15 @@
     },
     {
       "concept": {
-        "concept_id": 1518644,
-        "concept_name": "dexamethasone 0.4 MG/ML",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "328743",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug Comp"
+        "CONCEPT_ID": 1518644,
+        "CONCEPT_NAME": "dexamethasone 0.4 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "328743",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -146,15 +146,15 @@
     },
     {
       "concept": {
-        "concept_id": 1518684,
-        "concept_name": "dexamethasone 0.4 MG",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "332984",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug Comp"
+        "CONCEPT_ID": 1518684,
+        "CONCEPT_NAME": "dexamethasone 0.4 MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "332984",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -162,15 +162,15 @@
     },
     {
       "concept": {
-        "concept_id": 1518687,
-        "concept_name": "dexamethasone 0.2 MG/ML",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "333673",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug Comp"
+        "CONCEPT_ID": 1518687,
+        "CONCEPT_NAME": "dexamethasone 0.2 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "333673",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -178,15 +178,15 @@
     },
     {
       "concept": {
-        "concept_id": 1518851,
-        "concept_name": "dexamethasone 0.1 MG/ML Oral Solution [Decadron]",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "755976",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Branded Drug"
+        "CONCEPT_ID": 1518851,
+        "CONCEPT_NAME": "dexamethasone 0.1 MG/ML Oral Solution [Decadron]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "755976",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -194,15 +194,15 @@
     },
     {
       "concept": {
-        "concept_id": 1518872,
-        "concept_name": "dexamethasone 0.1 MG/ML Oral Solution [Hexadrol]",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "755977",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Branded Drug"
+        "CONCEPT_ID": 1518872,
+        "CONCEPT_NAME": "dexamethasone 0.1 MG/ML Oral Solution [Hexadrol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "755977",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -210,15 +210,15 @@
     },
     {
       "concept": {
-        "concept_id": 19006962,
-        "concept_name": "dexamethasone 0.5 MG Oral Tablet [Decadron]",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "105392",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Branded Drug"
+        "CONCEPT_ID": 19006962,
+        "CONCEPT_NAME": "dexamethasone 0.5 MG Oral Tablet [Decadron]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "105392",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -226,15 +226,15 @@
     },
     {
       "concept": {
-        "concept_id": 19010639,
-        "concept_name": "dexamethasone 0.4 MG/ML Oral Solution",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "108882",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug"
+        "CONCEPT_ID": 19010639,
+        "CONCEPT_NAME": "dexamethasone 0.4 MG/ML Oral Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "108882",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -242,15 +242,15 @@
     },
     {
       "concept": {
-        "concept_id": 19029973,
-        "concept_name": "dexamethasone 1 MG/ML Oral Solution [Dexamethasone Intensol]",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "205702",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Branded Drug"
+        "CONCEPT_ID": 19029973,
+        "CONCEPT_NAME": "dexamethasone 1 MG/ML Oral Solution [Dexamethasone Intensol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "205702",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -258,15 +258,15 @@
     },
     {
       "concept": {
-        "concept_id": 19076135,
-        "concept_name": "dexamethasone 1 MG/ML Oral Solution",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "309684",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug"
+        "CONCEPT_ID": 19076135,
+        "CONCEPT_NAME": "dexamethasone 1 MG/ML Oral Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "309684",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -274,15 +274,15 @@
     },
     {
       "concept": {
-        "concept_id": 19076136,
-        "concept_name": "dexamethasone 0.1 MG/ML Oral Solution",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "309686",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug"
+        "CONCEPT_ID": 19076136,
+        "CONCEPT_NAME": "dexamethasone 0.1 MG/ML Oral Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "309686",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -290,15 +290,15 @@
     },
     {
       "concept": {
-        "concept_id": 19103651,
-        "concept_name": "dexamethasone 0.4 MG Oral Capsule",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "411225",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug"
+        "CONCEPT_ID": 19103651,
+        "CONCEPT_NAME": "dexamethasone 0.4 MG Oral Capsule",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "411225",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -306,15 +306,15 @@
     },
     {
       "concept": {
-        "concept_id": 19105671,
-        "concept_name": "dexamethasone 0.5 MG/ML Oral Solution",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "422009",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug"
+        "CONCEPT_ID": 19105671,
+        "CONCEPT_NAME": "dexamethasone 0.5 MG/ML Oral Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "422009",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -322,15 +322,15 @@
     },
     {
       "concept": {
-        "concept_id": 19109493,
-        "concept_name": "dexamethasone 0.5 MG/ML",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "438889",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug Comp"
+        "CONCEPT_ID": 19109493,
+        "CONCEPT_NAME": "dexamethasone 0.5 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "438889",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -338,15 +338,15 @@
     },
     {
       "concept": {
-        "concept_id": 40028598,
-        "concept_name": "dexamethasone Oral Capsule",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "438882",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug Form"
+        "CONCEPT_ID": 40028598,
+        "CONCEPT_NAME": "dexamethasone Oral Capsule",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "438882",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -354,15 +354,15 @@
     },
     {
       "concept": {
-        "concept_id": 40028599,
-        "concept_name": "dexamethasone Oral Solution",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "371728",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug Form"
+        "CONCEPT_ID": 40028599,
+        "CONCEPT_NAME": "dexamethasone Oral Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "371728",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -370,15 +370,15 @@
     },
     {
       "concept": {
-        "concept_id": 40028601,
-        "concept_name": "dexamethasone Oral Tablet",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "371729",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Clinical Drug Form"
+        "CONCEPT_ID": 40028601,
+        "CONCEPT_NAME": "dexamethasone Oral Tablet",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "371729",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -386,15 +386,15 @@
     },
     {
       "concept": {
-        "concept_id": 40173366,
-        "concept_name": "dexamethasone 0.1 MG/ML Oral Solution [Baycadron]",
-        "standard_concept": "S",
-        "standard_concept_caption": "Standard",
-        "invalid_reason_caption": "Valid",
-        "concept_code": "901649",
-        "domain_id": "Drug",
-        "vocabulary_id": "RxNorm",
-        "concept_class_id": "Branded Drug"
+        "CONCEPT_ID": 40173366,
+        "CONCEPT_NAME": "dexamethasone 0.1 MG/ML Oral Solution [Baycadron]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "901649",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
       "includeDescendants": true,
