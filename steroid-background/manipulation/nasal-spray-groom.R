@@ -90,14 +90,14 @@ ds <-
   dplyr::mutate(
     keep_entry_in_codeset =
       dplyr::case_when(
-        grepl('nasal',         concept_name, ignore.case = T) ~ TRUE,
-        grepl('topical',       concept_name, ignore.case = T) ~ FALSE,
-        grepl('\\binject.+$',  concept_name, ignore.case = T) ~ FALSE,
-        grepl('inhal.+',       concept_name, ignore.case = T) ~ FALSE,
-        grepl('oral',          concept_name, ignore.case = T) ~ FALSE,
+        grepl('\\bnasal\\b',   concept_name, ignore.case = T) ~ TRUE,
+        grepl('\\btopical\\b', concept_name, ignore.case = T) ~ FALSE,
+        grepl('\\binject',     concept_name, ignore.case = T) ~ FALSE,
+        grepl('\\binhal',      concept_name, ignore.case = T) ~ FALSE,
+        grepl('\\boral',       concept_name, ignore.case = T) ~ FALSE,
         grepl('\\btablet\\b',  concept_name, ignore.case = T) ~ FALSE,
         grepl('\\bcream\\b',   concept_name, ignore.case = T) ~ FALSE,
-        grepl('ophthalmic',    concept_name, ignore.case = T) ~ FALSE,
+        grepl('\\bophthalmic\\b',concept_name,ignore.case= T) ~ FALSE,
         grepl('\\beye\\b',     concept_name, ignore.case = T) ~ FALSE,
         grepl('\\benema\\b',   concept_name, ignore.case = T) ~ FALSE,
         grepl('\\botic\\b',    concept_name, ignore.case = T) ~ FALSE,
@@ -105,7 +105,7 @@ ds <-
         grepl('\\bimplant\\b', concept_name, ignore.case = T) ~ FALSE,
         grepl('\\bpaste\\b',   concept_name, ignore.case = T) ~ FALSE,
         grepl('\\brectal\\b',  concept_name, ignore.case = T) ~ FALSE,
-        grepl('derm\\b',       concept_name, ignore.case = T) ~ FALSE,
+        grepl(   'derm\\b',    concept_name, ignore.case = T) ~ FALSE,
         grepl('\\bsinuva\\b',  concept_name, ignore.case = T) ~ FALSE,
         TRUE                                                  ~ TRUE
     )
