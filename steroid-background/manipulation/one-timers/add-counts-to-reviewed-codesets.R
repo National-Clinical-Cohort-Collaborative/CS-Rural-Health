@@ -97,26 +97,28 @@ for (p in paths) {
     dplyr::left_join(ds_concept_count, by = "concept_id") |>
     dplyr::select(
       concept_id,
-      concept_name,
       keep_entry_in_codeset,
       comments,
+      concept_name,
       condition_count,
       patient_count,
       standard_concept,
+      # standard_concept_caption,
       invalid_reason,
+      # invalid_reason_caption,
       concept_code,
       domain_id,
       vocabulary_id,
-      concept_class_id,
+      concept_class_id
     )
 
   testit::assert("The row count should be constant.", row_count == nrow(d))
   # cat(paste0("    ", colnames(d), collapse=",\n"))
 
   checkmate::assert_integer(  d$concept_id               , any.missing=F , lower=1, upper=2^31     )
-  checkmate::assert_character(d$concept_name             , any.missing=F , pattern="^.{5,255}$"    )
   checkmate::assert_logical(  d$keep_entry_in_codeset    , any.missing=F                           )
   checkmate::assert_character(d$comments                 , any.missing=T , pattern="^.{1,255}$"    )
+  checkmate::assert_character(d$concept_name             , any.missing=F , pattern="^.{5,255}$"    )
   checkmate::assert_integer(  d$condition_count          , any.missing=T , lower=20, upper=9999999 )
   checkmate::assert_integer(  d$patient_count            , any.missing=T , lower=20, upper= 999999 )
   checkmate::assert_character(d$standard_concept         , any.missing=F , pattern="^C|S$"         )

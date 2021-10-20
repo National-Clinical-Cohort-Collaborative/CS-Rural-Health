@@ -1,398 +1,398 @@
-concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_count,standard_concept,invalid_reason,concept_code,domain_id,vocabulary_id,concept_class_id
-792831,hydrocortisone 0.005 MG/MG [Cortizone],TRUE,NA,20,20,S,NA,1987141,Drug,RxNorm,Branded Drug Comp
-792834,hydrocortisone 5 MG/ML [Cortizone],TRUE,NA,20,20,S,NA,1987145,Drug,RxNorm,Branded Drug Comp
-792836,hydrocortisone 0.01 MG/MG [Cortizone],TRUE,NA,20,20,S,NA,1987151,Drug,RxNorm,Branded Drug Comp
-792838,hydrocortisone 10 MG/ML [Cortizone],TRUE,NA,20,20,S,NA,1987155,Drug,RxNorm,Branded Drug Comp
-975125,hydrocortisone,TRUE,NA,2507368,110774,S,NA,5492,Drug,RxNorm,Ingredient
-975168,hydrocortisone 10 MG Oral Tablet,TRUE,NA,123713,8742,S,NA,197782,Drug,RxNorm,Clinical Drug
-975169,hydrocortisone 20 MG Oral Tablet,TRUE,NA,36182,4441,S,NA,197783,Drug,RxNorm,Clinical Drug
-975193,hydrocortisone 5 MG Oral Tablet,TRUE,NA,83925,7110,S,NA,197787,Drug,RxNorm,Clinical Drug
-975504,hydrocortisone 25 MG/ML Injectable Suspension,TRUE,NA,20,20,S,NA,238754,Drug,RxNorm,Clinical Drug
-975505,hydrocortisone 100 MG Injection,TRUE,NA,607748,71728,S,NA,238755,Drug,RxNorm,Clinical Drug
-975588,hydrocortisone 2.5 MG Oral Tablet,TRUE,NA,20,20,S,NA,249569,Drug,RxNorm,Clinical Drug
-975926,hydrocortisone 5 MG,TRUE,NA,20,20,S,NA,317387,Drug,RxNorm,Clinical Drug Comp
-975928,hydrocortisone 5 MG/ML,TRUE,NA,20,20,S,NA,328348,Drug,RxNorm,Clinical Drug Comp
-975929,hydrocortisone 50 MG/ML,TRUE,NA,6693,580,S,NA,328774,Drug,RxNorm,Clinical Drug Comp
-975931,hydrocortisone 0.0025 MG/MG,TRUE,NA,20,20,S,NA,329448,Drug,RxNorm,Clinical Drug Comp
-975952,hydrocortisone 15 MG/ML,TRUE,NA,20,20,S,NA,329836,Drug,RxNorm,Clinical Drug Comp
-975953,hydrocortisone 1 MG/MG,TRUE,NA,20,20,S,NA,329837,Drug,RxNorm,Clinical Drug Comp
-975954,hydrocortisone 1.67 MG/ML,TRUE,NA,20,20,S,NA,329838,Drug,RxNorm,Clinical Drug Comp
-975955,hydrocortisone 0.1 MG/MG,TRUE,NA,20,20,S,NA,329839,Drug,RxNorm,Clinical Drug Comp
-975982,hydrocortisone 0.0075 MG/MG,FALSE,delete,20,20,S,NA,334969,Drug,RxNorm,Clinical Drug Comp
-975984,hydrocortisone 0.5 MG/ML,TRUE,NA,20,20,S,NA,334971,Drug,RxNorm,Clinical Drug Comp
-975985,hydrocortisone 2.5 MG,TRUE,NA,20,20,S,NA,334972,Drug,RxNorm,Clinical Drug Comp
-975986,hydrocortisone 0.01 MG/MG,FALSE,delete,20,20,S,NA,339972,Drug,RxNorm,Clinical Drug Comp
-976014,hydrocortisone 2.5 MG/ML,TRUE,NA,7392,81,S,NA,343175,Drug,RxNorm,Clinical Drug Comp
-976015,hydrocortisone 20 MG/ML,TRUE,NA,20,20,S,NA,343191,Drug,RxNorm,Clinical Drug Comp
-976016,hydrocortisone 1.27 MG/ML,TRUE,NA,20,20,S,NA,343481,Drug,RxNorm,Clinical Drug Comp
-976017,hydrocortisone 1.25 MG/ML,TRUE,NA,20,20,S,NA,343482,Drug,RxNorm,Clinical Drug Comp
-976077,hydrocortisone 0.02 MG/MG,FALSE,delete,20,20,S,NA,476784,Drug,RxNorm,Clinical Drug Comp
-1592221,gentamicin sulfate 1.5 MG/ML / hydrocortisone aceponate 1.11 MG/ML / miconazole nitrate 15.1 MG/ML [Easotic],TRUE,NA,20,20,S,NA,1870701,Drug,RxNorm,Branded Drug Comp
-19005824,hydrocortisone 10 MG/ML [Proctozone-H],FALSE,delete,20,20,S,NA,574732,Drug,RxNorm,Branded Drug Comp
-19006606,hydrocortisone 25 MG/ML [Proctozone HC],FALSE,delete,20,20,S,NA,575327,Drug,RxNorm,Branded Drug Comp
-19006964,hydrocortisone 10 MG Oral Tablet [Hydrocortone],TRUE,NA,18625,1319,S,NA,105395,Drug,RxNorm,Branded Drug
-19006965,hydrocortisone 20 MG Oral Tablet [Hydrocortone],TRUE,NA,8361,879,S,NA,105396,Drug,RxNorm,Branded Drug
-19006966,hydrocortisone 100 MG/ML Injectable Solution [Efcortesol],TRUE,NA,20,20,S,NA,105397,Drug,RxNorm,Branded Drug
-19006967,hydrocortisone 100 MG Injection [Solu-Cortef],TRUE,NA,423560,45968,S,NA,105398,Drug,RxNorm,Branded Drug
-19020402,hydrocortisone 25 MG/ML [Anusol HC],TRUE,NA,20,20,S,NA,574115,Drug,RxNorm,Branded Drug Comp
-19021571,hydrocortisone 4 MG Oral Tablet,TRUE,NA,20,20,S,NA,199320,Drug,RxNorm,Clinical Drug
-19022881,hydrocortisone 25 MG/ML [Procto-Kit],FALSE,delete,20,20,S,NA,759715,Drug,RxNorm,Branded Drug Comp
-19022882,hydrocortisone 10 MG/ML [Procto-Kit],FALSE,delete,20,20,S,NA,759718,Drug,RxNorm,Branded Drug Comp
-19022929,hydrocortisone 10 MG/ML [Itch-X Maximum Strength],FALSE,delete,20,20,S,NA,761647,Drug,RxNorm,Branded Drug Comp
-19023479,hydrocortisone 20 MG/ML [Coraz],TRUE,NA,20,20,S,NA,763541,Drug,RxNorm,Branded Drug Comp
-19027280,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otocidin],FALSE,delete,20,20,S,NA,792117,Drug,RxNorm,Branded Drug Comp
-19027430,hydrocortisone 0.005 MG/MG Paste,FALSE,delete,20,20,S,NA,204420,Drug,RxNorm,Clinical Drug
-19028399,hydrocortisone 5 MG/ML [Massengill],TRUE,NA,20,20,S,NA,797859,Drug,RxNorm,Branded Drug Comp
-19029017,hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Proctofoam-HC],FALSE,delete,20,20,S,NA,828363,Drug,RxNorm,Branded Drug Comp
-19032195,hydrocortisone 0.005 MG/MG Oral Paste [Orabase HCA],FALSE,delete,20,20,S,NA,206375,Drug,RxNorm,Branded Drug
-19032378,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Cort-Biotic],FALSE,delete,20,20,S,NA,575293,Drug,RxNorm,Branded Drug Comp
-19032573,hydrocortisone 10 MG/ML / iodoquinol 10 MG/ML [Dermazene],FALSE,delete,20,20,S,NA,575554,Drug,RxNorm,Branded Drug Comp
-19034021,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Ocutricin HC],FALSE,delete,20,20,S,NA,575547,Drug,RxNorm,Branded Drug Comp
-19034027,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Oti-sone],FALSE,delete,20,20,S,NA,575294,Drug,RxNorm,Branded Drug Comp
-19034029,acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Oticot HC],FALSE,delete,20,20,S,NA,575645,Drug,RxNorm,Branded Drug Comp
-19037464,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otocort],FALSE,delete,20,20,S,NA,567348,Drug,RxNorm,Branded Drug Comp
-19039286,hydrocortisone 5 MG Oral Tablet [Cortef],TRUE,NA,27369,2730,S,NA,208680,Drug,RxNorm,Branded Drug
-19039383,hydrocortisone 10 MG Oral Tablet [Cortef],TRUE,NA,26548,1781,S,NA,208712,Drug,RxNorm,Branded Drug
-19039743,hydrocortisone 20 MG Oral Tablet [Cortef],TRUE,NA,5859,627,S,NA,208816,Drug,RxNorm,Branded Drug
-19040156,hydrocortisone 100 MG Injection [A-Hydrocort],TRUE,NA,44730,8364,S,NA,208947,Drug,RxNorm,Branded Drug
-19040967,hydrocortisone 2 MG/ML Oral Suspension [Cortef],TRUE,NA,20,20,S,NA,209245,Drug,RxNorm,Branded Drug
-19041535,hydrocortisone 15 MG/ML / oxytetracycline 5 MG/ML [Terra-Cortril],FALSE,delete,20,20,S,NA,567244,Drug,RxNorm,Branded Drug Comp
-19042519,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Masporin],FALSE,delete,20,20,S,NA,567352,Drug,RxNorm,Branded Drug Comp
-19043285,hydrocortisone 1.67 MG/ML [Cortenema],FALSE,delete,20,20,S,NA,562955,Drug,RxNorm,Branded Drug Comp
-19043287,hydrocortisone 5 MG/ML [Aeroseb-HC],FALSE,delete,20,20,S,NA,567183,Drug,RxNorm,Branded Drug Comp
-19043289,hydrocortisone 2.5 MG/ML [Cetacort],FALSE,delete,20,20,S,NA,543679,Drug,RxNorm,Branded Drug Comp
-19043290,hydrocortisone 5 MG/ML [Cetacort],FALSE,delete,20,20,S,NA,567143,Drug,RxNorm,Branded Drug Comp
-19043313,hydrocortisone 5 MG/ML [Cort-Dome],FALSE,delete,20,20,S,NA,571949,Drug,RxNorm,Branded Drug Comp
-19043315,hydrocortisone 5 MG [Cortef],TRUE,NA,20,20,S,NA,569343,Drug,RxNorm,Branded Drug Comp
-19043316,hydrocortisone 10 MG [Cortef],TRUE,NA,20,20,S,NA,569375,Drug,RxNorm,Branded Drug Comp
-19043317,hydrocortisone 20 MG [Cortef],TRUE,NA,20,20,S,NA,569465,Drug,RxNorm,Branded Drug Comp
-19043318,hydrocortisone 2 MG/ML [Cortef],TRUE,NA,20,20,S,NA,569869,Drug,RxNorm,Branded Drug Comp
-19043320,hydrocortisone 10 MG/ML [Dermacort],TRUE,NA,20,20,S,NA,567198,Drug,RxNorm,Branded Drug Comp
-19043346,hydrocortisone 25 MG/ML [Hytone],TRUE,NA,20,20,S,NA,567135,Drug,RxNorm,Branded Drug Comp
-19043347,hydrocortisone 0.01 MG/MG [Hytone],TRUE,NA,20,20,S,NA,567163,Drug,RxNorm,Branded Drug Comp
-19043348,hydrocortisone 0.025 MG/MG [Hytone],TRUE,NA,20,20,S,NA,567166,Drug,RxNorm,Branded Drug Comp
-19043349,hydrocortisone 10 MG/ML [Hytone],TRUE,NA,20,20,S,NA,567173,Drug,RxNorm,Branded Drug Comp
-19043371,hydrocortisone 25 MG/ML [Nutracort],TRUE,NA,20,20,S,NA,567138,Drug,RxNorm,Branded Drug Comp
-19043372,hydrocortisone 10 MG/ML [Nutracort],TRUE,NA,20,20,S,NA,567213,Drug,RxNorm,Branded Drug Comp
-19043374,hydrocortisone 10 MG/ML [Proctocort],TRUE,NA,20,20,S,NA,543689,Drug,RxNorm,Branded Drug Comp
-19043850,hydrocortisone 20 MG/ML [Nucort],TRUE,NA,20,20,S,NA,827344,Drug,RxNorm,Branded Drug Comp
-19052272,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [AK-Spore HC],FALSE,delete,20,20,S,NA,567349,Drug,RxNorm,Branded Drug Comp
-19052473,acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Acetasol HC],FALSE,delete,20,20,S,NA,573411,Drug,RxNorm,Branded Drug Comp
-19052580,hydrocortisone 10 MG/ML [Acticort 100],FALSE,delete,20,20,S,NA,567167,Drug,RxNorm,Branded Drug Comp
-19053009,hydrocortisone 10 MG/ML [Ala-Cort],FALSE,delete,20,20,S,NA,567191,Drug,RxNorm,Branded Drug Comp
-19053476,hydrocortisone 5 MG/ML [Aloe Cort],FALSE,delete,20,20,S,NA,571947,Drug,RxNorm,Branded Drug Comp
-19054922,hydrocortisone 10 MG/ML [Aquanil HC],FALSE,delete,20,20,S,NA,567169,Drug,RxNorm,Branded Drug Comp
-19057671,hydrocortisone 5 MG/ML [Caldecort],FALSE,delete,20,20,S,NA,571948,Drug,RxNorm,Branded Drug Comp
-19058668,ciprofloxacin 2 MG/ML / hydrocortisone 10 MG/ML [Cipro HC],FALSE,delete,20,20,S,NA,573221,Drug,RxNorm,Branded Drug Comp
-19059580,hydrocortisone 10 MG/ML [Cortaid],TRUE,NA,20,20,S,NA,567171,Drug,RxNorm,Branded Drug Comp
-19059601,hydrocortisone 5 MG/ML [Cortaid],TRUE,NA,20,20,S,NA,571951,Drug,RxNorm,Branded Drug Comp
-19059604,hydrocortisone 10 MG/ML [Cortane],TRUE,NA,20,20,S,NA,567211,Drug,RxNorm,Branded Drug Comp
-19059610,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Cortratigen],FALSE,delete,20,20,S,NA,567341,Drug,RxNorm,Branded Drug Comp
-19059634,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Cortisporin],FALSE,delete,20,20,S,NA,825188,Drug,RxNorm,Branded Drug Comp
-19059688,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Cortomycin],FALSE,delete,20,20,S,NA,567343,Drug,RxNorm,Branded Drug Comp
-19059726,hydrocortisone 5 MG/ML [Cotacort],FALSE,delete,20,20,S,NA,567144,Drug,RxNorm,Branded Drug Comp
-19061353,hydrocortisone 5 MG/ML [Dermolate],FALSE,delete,20,20,S,NA,571956,Drug,RxNorm,Branded Drug Comp
-19061357,hydrocortisone 5 MG/ML [Dermtex HC],FALSE,delete,20,20,S,NA,567145,Drug,RxNorm,Branded Drug Comp
-19061358,hydrocortisone 10 MG/ML [Dermtex HC],FALSE,delete,20,20,S,NA,576137,Drug,RxNorm,Branded Drug Comp
-19061952,bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Cortisporin Ointment],FALSE,delete,20,20,S,NA,688699,Drug,RxNorm,Branded Drug Comp
-19063117,chloramphenicol 0.01 MG/MG / hydrocortisone 0.005 MG/MG / polymyxin B 10 UNT/MG [Ophthocort],FALSE,delete,20,20,S,NA,569915,Drug,RxNorm,Branded Drug Comp
-19063119,hydrocortisone 0.005 MG/MG [Orabase HCA],FALSE,delete,20,20,S,NA,545756,Drug,RxNorm,Branded Drug Comp
-19063153,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Drotic],FALSE,delete,20,20,S,NA,567344,Drug,RxNorm,Branded Drug Comp
-19063670,hydrocortisone 100 MG/ML Injectable Solution,TRUE,NA,20,20,S,NA,250788,Drug,RxNorm,Clinical Drug
-19063870,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Ear-Eze],FALSE,delete,20,20,S,NA,567345,Drug,RxNorm,Branded Drug Comp
-19063892,acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Earsol-HC],FALSE,delete,20,20,S,NA,573412,Drug,RxNorm,Branded Drug Comp
-19066846,hydrocortisone 5 MG/ML [Genasone/Aloe],TRUE,NA,20,20,S,NA,571957,Drug,RxNorm,Branded Drug Comp
-19067155,hydrocortisone 10 MG/ML [Gly-Cort],TRUE,NA,20,20,S,NA,567172,Drug,RxNorm,Branded Drug Comp
-19069346,clioquinol 30 MG/ML / hydrocortisone 10 MG/ML [Hysone],FALSE,delete,20,20,S,NA,566911,Drug,RxNorm,Branded Drug Comp
-19070931,hydrocortisone 25 MG/ML [Lacticare-HC],FALSE,delete,20,20,S,NA,567137,Drug,RxNorm,Branded Drug Comp
-19070932,hydrocortisone 10 MG/ML [Lacticare-HC],FALSE,delete,20,20,S,NA,567212,Drug,RxNorm,Branded Drug Comp
-19072499,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Masporin Otic],FALSE,delete,20,20,S,NA,567346,Drug,RxNorm,Branded Drug Comp
-19073018,acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Otosol HC],FALSE,delete,20,20,S,NA,545139,Drug,RxNorm,Branded Drug Comp
-19074763,hydrocortisone 0.01 MG/MG / neomycin 0.005 MG/MG [Neo-Cortef],FALSE,delete,20,20,S,NA,567234,Drug,RxNorm,Branded Drug Comp
-19076067,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otic Ear Care],FALSE,delete,20,20,S,NA,575237,Drug,RxNorm,Branded Drug Comp
-19076095,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otimar],FALSE,delete,20,20,S,NA,567354,Drug,RxNorm,Branded Drug Comp
-19076097,hydrocortisone 5 MG/ML / polymyxin B 10000 UNT/ML [Otobiotic],FALSE,delete,20,20,S,NA,567378,Drug,RxNorm,Branded Drug Comp
-19076121,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otocort Sterile Suspension],FALSE,delete,20,20,S,NA,567355,Drug,RxNorm,Branded Drug Comp
-19076917,clioquinol 30 MG/ML / hydrocortisone 10 MG/ML [Pedi-Cort V],FALSE,delete,20,20,S,NA,566913,Drug,RxNorm,Branded Drug Comp
-19076989,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Pediotic],FALSE,delete,20,20,S,NA,567356,Drug,RxNorm,Branded Drug Comp
-19077020,hydrocortisone 10 MG/ML [Penecort],FALSE,delete,20,20,S,NA,567175,Drug,RxNorm,Branded Drug Comp
-19078350,hydrocortisone 2 MG/ML Oral Suspension,TRUE,NA,8654,354,S,NA,310899,Drug,RxNorm,Clinical Drug
-19078412,hydrocortisone 0.01 MG/MG [Procort],FALSE,delete,20,20,S,NA,567164,Drug,RxNorm,Branded Drug Comp
-19079481,hydrocortisone 10 MG/ML [Recort Plus],FALSE,delete,20,20,S,NA,567176,Drug,RxNorm,Branded Drug Comp
-19079489,hydrocortisone 10 MG/ML [Rederm],FALSE,delete,20,20,S,NA,543683,Drug,RxNorm,Branded Drug Comp
-19080565,hydrocortisone 10 MG/ML [Sarnol-HC],FALSE,delete,20,20,S,NA,567177,Drug,RxNorm,Branded Drug Comp
-19080569,hydrocortisone 10 MG/ML [Scalp-Aid],FALSE,delete,20,20,S,NA,567178,Drug,RxNorm,Branded Drug Comp
-19080591,hydrocortisone 10 MG/ML [Scalp-Cort],FALSE,delete,20,20,S,NA,567179,Drug,RxNorm,Branded Drug Comp
-19081460,hydrocortisone 10 MG,TRUE,NA,20,20,S,NA,316056,Drug,RxNorm,Clinical Drug Comp
-19081471,hydrocortisone 10 MG/ML,TRUE,NA,46,20,S,NA,316057,Drug,RxNorm,Clinical Drug Comp
-19081472,hydrocortisone 20 MG,TRUE,NA,20,20,S,NA,316058,Drug,RxNorm,Clinical Drug Comp
-19081630,clioquinol 30 MG/ML / hydrocortisone 10 MG/ML [Steroform],FALSE,delete,20,20,S,NA,566914,Drug,RxNorm,Branded Drug Comp
-19082564,hydrocortisone 25 MG/ML [Texacort],FALSE,delete,20,20,S,NA,567182,Drug,RxNorm,Branded Drug Comp
-19083661,hydrocortisone 1 MG/ML,TRUE,NA,7319,224,S,NA,329209,Drug,RxNorm,Clinical Drug Comp
-19085082,acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Vasotate HC],FALSE,delete,20,20,S,NA,573413,Drug,RxNorm,Branded Drug Comp
-19085298,hydrocortisone 25 MG/ML,TRUE,NA,20,20,S,NA,330460,Drug,RxNorm,Clinical Drug Comp
-19085371,clioquinol 30 MG/ML / hydrocortisone 10 MG/ML [Vio-Tex-HC],FALSE,delete,20,20,S,NA,566915,Drug,RxNorm,Branded Drug Comp
-19085551,acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Vosol HC],FALSE,delete,20,20,S,NA,573414,Drug,RxNorm,Branded Drug Comp
-19085928,hydrocortisone 15 MG,TRUE,NA,20,20,S,NA,330700,Drug,RxNorm,Clinical Drug Comp
-19086249,hydrocortisone 2 MG/ML,TRUE,NA,20,20,S,NA,330825,Drug,RxNorm,Clinical Drug Comp
-19088174,hydrocortisone 4 MG,TRUE,NA,20,20,S,NA,332093,Drug,RxNorm,Clinical Drug Comp
-19091192,hydrocortisone 40 MG,TRUE,NA,20,20,S,NA,334970,Drug,RxNorm,Clinical Drug Comp
-19093396,hydrocortisone 0.005 MG/MG,FALSE,delete,20,20,S,NA,339990,Drug,RxNorm,Clinical Drug Comp
-19093652,hydrocortisone 0.015 MG/MG,FALSE,delete,20,20,S,NA,340098,Drug,RxNorm,Clinical Drug Comp
-19093653,hydrocortisone 100 MG/ML,TRUE,NA,1483,270,S,NA,340099,Drug,RxNorm,Clinical Drug Comp
-19093712,hydrocortisone 0.025 MG/MG,FALSE,delete,20,20,S,NA,340118,Drug,RxNorm,Clinical Drug Comp
-19100321,hydrocortisone 10 MG/ML [Yeast-X External],FALSE,delete,20,20,S,NA,574614,Drug,RxNorm,Branded Drug Comp
-19109288,hydrocortisone 30 MG/ML,TRUE,NA,20,20,S,NA,438512,Drug,RxNorm,Clinical Drug Comp
-19109290,hydrocortisone 0.03 MG/MG,FALSE,delete,20,20,S,NA,438514,Drug,RxNorm,Clinical Drug Comp
-19110032,hydrocortisone 0.0009 MG/MG,FALSE,delete,20,20,S,NA,439820,Drug,RxNorm,Clinical Drug Comp
-19110247,hydrocortisone 0.0033 MG/MG,FALSE,delete,20,20,S,NA,440442,Drug,RxNorm,Clinical Drug Comp
-19110248,hydrocortisone 0.00127 MG/MG,FALSE,delete,20,20,S,NA,440443,Drug,RxNorm,Clinical Drug Comp
-19110249,hydrocortisone 0.0112 MG/MG,FALSE,delete,20,20,S,NA,440445,Drug,RxNorm,Clinical Drug Comp
-19110251,hydrocortisone 3.3 MG,FALSE,delete,20,20,S,NA,440447,Drug,RxNorm,Clinical Drug Comp
-19110256,hydrocortisone 0.004 MG/MG,FALSE,delete,20,20,S,NA,440461,Drug,RxNorm,Clinical Drug Comp
-19110325,hydrocortisone 40 MG/ML,TRUE,NA,20,20,S,NA,440586,Drug,RxNorm,Clinical Drug Comp
-19110892,hydrocortisone 250 MG,TRUE,NA,20,20,S,NA,446496,Drug,RxNorm,Clinical Drug Comp
-19114227,hydrocortisone 10 MG/ML [Procto-Pak],FALSE,delete,20,20,S,NA,543490,Drug,RxNorm,Branded Drug Comp
-19114612,hydrocortisone 0.1 MG/ML,FALSE,delete,20,20,S,NA,544998,Drug,RxNorm,Clinical Drug Comp
-19114672,acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Otomycet HC],FALSE,delete,20,20,S,NA,545135,Drug,RxNorm,Branded Drug Comp
-19115161,hydrocortisone 0.005 MG/MG Oral Paste,FALSE,delete,20,20,S,NA,562300,Drug,RxNorm,Clinical Drug
-19115584,hydrocortisone 1 MG/ML [Dioderm],FALSE,delete,20,20,S,NA,563298,Drug,RxNorm,Branded Drug Comp
-19115586,hydrocortisone 10 MG/ML [Hydrocortistab],FALSE,delete,20,20,S,NA,563300,Drug,RxNorm,Branded Drug Comp
-19116155,hydrocortisone 10 MG [Hydrocortone],TRUE,NA,20,20,S,NA,564045,Drug,RxNorm,Branded Drug Comp
-19116156,hydrocortisone 20 MG [Hydrocortone],TRUE,NA,20,20,S,NA,564046,Drug,RxNorm,Branded Drug Comp
-19116157,hydrocortisone 100 MG/ML [Efcortesol],TRUE,NA,20,20,S,NA,564047,Drug,RxNorm,Branded Drug Comp
-19116457,hydrocortisone 5 MG/ML / nystatin 100000 UNT/ML [Nystaform-HC],FALSE,delete,20,20,S,NA,564403,Drug,RxNorm,Branded Drug Comp
-19117813,hydrocortisone 10 MG/ML [Efcortelan],TRUE,NA,20,20,S,NA,566208,Drug,RxNorm,Branded Drug Comp
-19117981,clioquinol 30 MG/ML / hydrocortisone 5 MG/ML [Ala-Quin],FALSE,delete,20,20,S,NA,566907,Drug,RxNorm,Branded Drug Comp
-19117982,clioquinol 30 MG/ML / hydrocortisone 5 MG/ML [Steroform],FALSE,delete,20,20,S,NA,566908,Drug,RxNorm,Branded Drug Comp
-19118099,hydrocortisone 10 MG/ML [Texacort],TRUE,NA,20,20,S,NA,567180,Drug,RxNorm,Branded Drug Comp
-19118100,hydrocortisone 10 MG/ML [Theracort],TRUE,NA,20,20,S,NA,567181,Drug,RxNorm,Branded Drug Comp
-19118101,hydrocortisone 1 MG/ML [Dermtex HC],TRUE,NA,20,20,S,NA,567185,Drug,RxNorm,Branded Drug Comp
-19118103,hydrocortisone 10 MG/ML [Dermol HC],TRUE,NA,20,20,S,NA,567200,Drug,RxNorm,Branded Drug Comp
-19118108,hydrocortisone 10 MG/ML [Instacort 10],TRUE,NA,20,20,S,NA,567206,Drug,RxNorm,Branded Drug Comp
-19118110,hydrocortisone 10 MG/ML [Nogenic HC],TRUE,NA,20,20,S,NA,567208,Drug,RxNorm,Branded Drug Comp
-19118111,hydrocortisone 10 MG/ML [Procort],TRUE,NA,20,20,S,NA,567209,Drug,RxNorm,Branded Drug Comp
-19118112,hydrocortisone 10 MG/ML [Cetacort],TRUE,NA,20,20,S,NA,567210,Drug,RxNorm,Branded Drug Comp
-19118143,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Antibiotic Ear],FALSE,delete,20,20,S,NA,567340,Drug,RxNorm,Branded Drug Comp
-19118144,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otic care],FALSE,delete,20,20,S,NA,567347,Drug,RxNorm,Branded Drug Comp
-19118145,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Cortatrigen],FALSE,delete,20,20,S,NA,567350,Drug,RxNorm,Branded Drug Comp
-19118146,hydrocortisone 10 MG / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otic Ear Care],FALSE,delete,20,20,S,NA,567353,Drug,RxNorm,Branded Drug Comp
-19119910,hydrocortisone 5 MG/ML [HC AC/Aloe],FALSE,delete,20,20,S,NA,571958,Drug,RxNorm,Branded Drug Comp
-19120000,benzoyl peroxide 50 MG/ML / hydrocortisone 5 MG/ML [Vanoxide-HC],FALSE,delete,20,20,S,NA,572100,Drug,RxNorm,Branded Drug Comp
-19120004,hydrocortisone 10 MG/ML / iodoquinol 10 MG/ML [Vytone],FALSE,delete,20,20,S,NA,572105,Drug,RxNorm,Branded Drug Comp
-19120058,hydrocortisone 0.005 MG/MG [Ivocort],FALSE,delete,20,20,S,NA,572390,Drug,RxNorm,Branded Drug Comp
-19120064,hydrocortisone 1 MG/ML [Cortaid],FALSE,delete,20,20,S,NA,572443,Drug,RxNorm,Branded Drug Comp
-19120348,bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Neotricin HC],FALSE,delete,20,20,S,NA,573503,Drug,RxNorm,Branded Drug Comp
-19120349,bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Ocu-Cort],FALSE,delete,20,20,S,NA,573504,Drug,RxNorm,Branded Drug Comp
-19120572,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Lazersporin-C],FALSE,delete,20,20,S,NA,574103,Drug,RxNorm,Branded Drug Comp
-19120573,hydrocortisone 10 MG/ML [Anusert HC-1],FALSE,delete,20,20,S,NA,574106,Drug,RxNorm,Branded Drug Comp
-19120574,hydrocortisone 10 MG/ML [Anusol HC-1],FALSE,delete,20,20,S,NA,574107,Drug,RxNorm,Branded Drug Comp
-19120576,hydrocortisone 10 MG/ML [Nupercainal HC 1%],FALSE,delete,20,20,S,NA,574109,Drug,RxNorm,Branded Drug Comp
-19120577,hydrocortisone 10 MG/ML [Preparation H Hydrocortisone],TRUE,NA,20,20,S,NA,574110,Drug,RxNorm,Branded Drug Comp
-19120626,hydrocortisone 0.01 MG/MG [Anusol HC],FALSE,delete,20,20,S,NA,574332,Drug,RxNorm,Branded Drug Comp
-19120731,hydrocortisone 1.67 MG/ML [Colocort],FALSE,delete,20,20,S,NA,574908,Drug,RxNorm,Branded Drug Comp
-19120824,hydrocortisone 5 MG/ML [Hydrocortisone-Aloe],FALSE,delete,20,20,S,NA,575132,Drug,RxNorm,Branded Drug Comp
-19120843,hydrocortisone 10 MG/ML [Caldecort],FALSE,delete,20,20,S,NA,575290,Drug,RxNorm,Branded Drug Comp
-19120845,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Antibiotic-Cort Ear],FALSE,delete,20,20,S,NA,575295,Drug,RxNorm,Branded Drug Comp
-19121075,hydrocortisone 10 MG/ML [Theracort Anti-Itch],FALSE,delete,20,20,S,NA,576135,Drug,RxNorm,Branded Drug Comp
-19121101,hydrocortisone 0.01 MG/MG [Instacort],FALSE,delete,20,20,S,NA,576301,Drug,RxNorm,Branded Drug Comp
-19122088,hydrocortisone 5 MG/ML / lidocaine 30 MG/ML [Rectacreame],FALSE,delete,20,20,S,NA,584469,Drug,RxNorm,Branded Drug Comp
-19122656,hydrocortisone 0.0055 MG/MG,FALSE,delete,20,20,S,NA,603797,Drug,RxNorm,Clinical Drug Comp
-19122719,hydrocortisone 25 MG/ML [Proctocare-HC],FALSE,delete,20,20,S,NA,603953,Drug,RxNorm,Branded Drug Comp
-19122856,hydrocortisone 0.01 MG/MG [Cortaid],FALSE,delete,20,20,S,NA,604513,Drug,RxNorm,Branded Drug Comp
-19123032,hydrocortisone 0.01 MG/MG [Tucks HC],FALSE,delete,20,20,S,NA,605647,Drug,RxNorm,Branded Drug Comp
-19123117,hydrocortisone 0.02 MG/MG [Nuzon],FALSE,delete,20,20,S,NA,606792,Drug,RxNorm,Branded Drug Comp
-19124218,hydrocortisone 10 MG/ML / neomycin 5 MG/ML / polymyxin B 10000 UNT/ML [AK-Spore HC],FALSE,delete,20,20,S,NA,631713,Drug,RxNorm,Branded Drug Comp
-19125226,hydrocortisone 0.1 MG/ML [Cortifoam],FALSE,delete,20,20,S,NA,669990,Drug,RxNorm,Branded Drug Comp
-19125539,bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [AK-Spore HC Ointment],FALSE,delete,20,20,S,NA,688661,Drug,RxNorm,Branded Drug Comp
-19125543,bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 5 UNT/MG [Cortisporin Ointment],FALSE,delete,20,20,S,NA,688702,Drug,RxNorm,Branded Drug Comp
-19125545,bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Cortomycin Ointment],FALSE,delete,20,20,S,NA,688706,Drug,RxNorm,Branded Drug Comp
-19125771,hydrocortisone 20 MG/ML / iodoquinol 10 MG/ML [Lodocortisone],FALSE,delete,20,20,S,NA,701126,Drug,RxNorm,Branded Drug Comp
-19126326,hydrocortisone 0.02 MG/MG / iodoquinol 0.01 MG/MG [Lodocort],FALSE,delete,20,20,S,NA,704945,Drug,RxNorm,Branded Drug Comp
-19126580,hydrocortisone 25 MG/ML [Proctocream],FALSE,delete,20,20,S,NA,706542,Drug,RxNorm,Branded Drug Comp
-19126788,hydrocortisone 10 MG/ML [Gynecort],FALSE,delete,20,20,S,NA,707791,Drug,RxNorm,Branded Drug Comp
-19129476,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Oticin HC],FALSE,delete,20,20,S,NA,763093,Drug,RxNorm,Branded Drug Comp
-19129988,hydrocortisone 0.01 MG/MG [Corticool],FALSE,delete,20,20,S,NA,795065,Drug,RxNorm,Branded Drug Comp
-19132093,hydrocortisone 25 MG/ML [Hydrocortone],TRUE,NA,20,20,S,NA,806525,Drug,RxNorm,Branded Drug Comp
-19132094,hydrocortisone 25 MG/ML Injectable Suspension [Hydrocortone],TRUE,NA,20,20,S,NA,806527,Drug,RxNorm,Branded Drug
-19132476,hydrocortisone 0.01 MG/MG [Xebcort],FALSE,delete,20,20,S,NA,808351,Drug,RxNorm,Branded Drug Comp
-19133287,hydrocortisone acetate 10 MG/ML,TRUE,NA,20,20,S,NA,828360,Drug,RxNorm,Clinical Drug Comp
-19133538,hydrocortisone 20 MG/ML [Scalacort],TRUE,NA,20,20,S,NA,830759,Drug,RxNorm,Branded Drug Comp
-19133827,hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Epifoam],FALSE,delete,20,20,S,NA,833508,Drug,RxNorm,Branded Drug Comp
-19135618,hydrocortisone 2.5 MG/ML [Balneol Cleanser],FALSE,delete,20,20,S,NA,849545,Drug,RxNorm,Branded Drug Comp
-35602897,hydrocortisone acetate 25 MG [Hemmorex],FALSE,delete,20,20,S,NA,1674194,Drug,RxNorm,Branded Drug Comp
-35602901,hydrocortisone acetate 30 MG [Hemmorex],FALSE,delete,20,20,S,NA,1674199,Drug,RxNorm,Branded Drug Comp
-35604728,hydrocortisone 1000 MG,TRUE,NA,20,20,S,NA,1738584,Drug,RxNorm,Clinical Drug Comp
-35604729,hydrocortisone Injection,TRUE,NA,20,20,S,NA,1738585,Drug,RxNorm,Clinical Drug Form
-35604730,hydrocortisone 1000 MG Injection,TRUE,NA,94,91,S,NA,1738586,Drug,RxNorm,Clinical Drug
-35604731,hydrocortisone 1000 MG [Solu-Cortef],TRUE,NA,20,20,S,NA,1738587,Drug,RxNorm,Branded Drug Comp
-35604732,hydrocortisone Injection [Solu-Cortef],TRUE,NA,20,20,S,NA,1738588,Drug,RxNorm,Branded Drug Form
-35604733,hydrocortisone 1000 MG Injection [Solu-Cortef],TRUE,NA,30,20,S,NA,1738589,Drug,RxNorm,Branded Drug
-35604734,hydrocortisone 250 MG Injection,TRUE,NA,3292,1221,S,NA,1738590,Drug,RxNorm,Clinical Drug
-35604735,hydrocortisone 250 MG [Solu-Cortef],TRUE,NA,20,20,S,NA,1738591,Drug,RxNorm,Branded Drug Comp
-35604736,hydrocortisone 250 MG Injection [Solu-Cortef],TRUE,NA,2014,941,S,NA,1738592,Drug,RxNorm,Branded Drug
-35604737,hydrocortisone 500 MG,TRUE,NA,20,20,S,NA,1738593,Drug,RxNorm,Clinical Drug Comp
-35604738,hydrocortisone 500 MG Injection,TRUE,NA,127,81,S,NA,1738594,Drug,RxNorm,Clinical Drug
-35604739,hydrocortisone 500 MG [Solu-Cortef],TRUE,NA,20,20,S,NA,1738595,Drug,RxNorm,Branded Drug Comp
-35604740,hydrocortisone 500 MG Injection [Solu-Cortef],TRUE,NA,76,57,S,NA,1738596,Drug,RxNorm,Branded Drug
-35604741,hydrocortisone 100 MG,TRUE,NA,20,20,S,NA,1738598,Drug,RxNorm,Clinical Drug Comp
-35604742,hydrocortisone 100 MG [Solu-Cortef],TRUE,NA,20,20,S,NA,1738600,Drug,RxNorm,Branded Drug Comp
-35604743,hydrocortisone 100 MG [A-Hydrocort],TRUE,NA,20,20,S,NA,1738602,Drug,RxNorm,Branded Drug Comp
-35604744,hydrocortisone Injection [A-Hydrocort],TRUE,NA,20,20,S,NA,1738603,Drug,RxNorm,Branded Drug Form
-35605214,hydrocortisone 25 MG/ML [Ala-Cort],TRUE,NA,20,20,S,NA,1729510,Drug,RxNorm,Branded Drug Comp
-35605221,hydrocortisone 10 MG/ML [Psoriasin Itch],FALSE,delete,20,20,S,NA,1739868,Drug,RxNorm,Branded Drug Comp
-37496942,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Casporyn HC],FALSE,delete,20,20,S,NA,2201594,Drug,RxNorm,Branded Drug Comp
-40049686,hydrocortisone Injectable Solution,TRUE,NA,389,89,S,NA,370648,Drug,RxNorm,Clinical Drug Form
-40049688,hydrocortisone Injectable Solution [Efcortesol],TRUE,NA,20,20,S,NA,363566,Drug,RxNorm,Branded Drug Form
-40049691,hydrocortisone Injectable Suspension,TRUE,NA,20,20,S,NA,378635,Drug,RxNorm,Clinical Drug Form
-40049692,hydrocortisone Injectable Suspension [Hydrocortone Acetate],TRUE,NA,20,20,S,NA,365629,Drug,RxNorm,Branded Drug Form
-40049698,hydrocortisone Oral Suspension,TRUE,NA,20,20,S,NA,370647,Drug,RxNorm,Clinical Drug Form
-40049699,hydrocortisone Oral Suspension [Cortef],TRUE,NA,20,20,S,NA,365876,Drug,RxNorm,Branded Drug Form
-40049700,hydrocortisone Oral Tablet,TRUE,NA,20,20,S,NA,370649,Drug,RxNorm,Clinical Drug Form
-40049701,hydrocortisone Oral Tablet [Cortef],TRUE,NA,20,20,S,NA,369183,Drug,RxNorm,Branded Drug Form
-40049702,hydrocortisone Oral Tablet [Hydrocortone],TRUE,NA,20,20,S,NA,369182,Drug,RxNorm,Branded Drug Form
-40049705,hydrocortisone Paste,FALSE,delete,20,20,S,NA,374384,Drug,RxNorm,Clinical Drug Form
-40070430,hydrocortisone Oral Paste [Orabase HCA],FALSE,delete,20,20,S,NA,367443,Drug,RxNorm,Branded Drug Form
-40115558,hydrocortisone Oral Paste,FALSE,delete,20,20,S,NA,562299,Drug,RxNorm,Clinical Drug Form
-40139039,hydrocortisone Injectable Solution [Hydrocortone Phosphate],TRUE,NA,20,20,S,NA,701824,Drug,RxNorm,Branded Drug Form
-40153792,hydrocortisone Injectable Suspension [Hydrocortone],TRUE,NA,20,20,S,NA,806526,Drug,RxNorm,Branded Drug Form
-40163009,colistin 3 MG/ML / hydrocortisone 10 MG/ML / neomycin 3.3 MG/ML / thonzonium bromide 0.5 MG/ML [Coly Mycin S],FALSE,delete,20,20,S,NA,854994,Drug,RxNorm,Branded Drug Comp
-40163010,colistin 3 MG/ML / hydrocortisone 10 MG/ML / neomycin 3.3 MG/ML / thonzonium bromide 0.5 MG/ML [Cortisporin-TC],FALSE,delete,20,20,S,NA,854996,Drug,RxNorm,Branded Drug Comp
-40168005,hydrocortisone 20 MG/ML [Pediaderm HC],FALSE,delete,20,20,S,NA,877492,Drug,RxNorm,Branded Drug Comp
-40168724,hydrocortisone 20 MG/ML [Ala-Scalp],FALSE,delete,20,20,S,NA,884075,Drug,RxNorm,Branded Drug Comp
-40173027,hydrocortisone 0.005 MG/MG [Excel Pet],FALSE,delete,20,20,S,NA,900413,Drug,RxNorm,Branded Drug Comp
-40173039,hydrocortisone 5 MG/ML [Excel Pet],FALSE,delete,20,20,S,NA,900498,Drug,RxNorm,Branded Drug Comp
-40173040,hydrocortisone 5 MG/ML [Propet],FALSE,delete,20,20,S,NA,900407,Drug,RxNorm,Branded Drug Comp
-40184256,hydrocortisone 2.5 MG/ML [Sentry HC Dermasphere],TRUE,NA,20,20,S,NA,978952,Drug,RxNorm,Branded Drug Comp
-40220615,hydrocortisone acetate 20 MG/ML [MiCort-HC],TRUE,NA,20,20,S,NA,1809639,Drug,RxNorm,Branded Drug Comp
-40220660,hydrocortisone acetate 25 MG/ML [MiCort-HC],TRUE,NA,20,20,S,NA,1809844,Drug,RxNorm,Branded Drug Comp
-40223221,acyclovir 50 MG/ML / hydrocortisone 10 MG/ML [Xerese],FALSE,delete,20,20,S,NA,998424,Drug,RxNorm,Branded Drug Comp
-40223870,hydrocortisone 5 MG/ML / miconazole nitrate 20 MG/ML [Fungoid and HC],FALSE,delete,20,20,S,NA,998556,Drug,RxNorm,Branded Drug Comp
-40226537,hydrocortisone acetate 10 MG/ML / lidocaine hydrochloride 30 MG/ML [Peranex],FALSE,delete,20,20,S,NA,1012263,Drug,RxNorm,Branded Drug Comp
-40226539,hydrocortisone acetate 2 MG/ML,TRUE,NA,20,20,S,NA,1012361,Drug,RxNorm,Clinical Drug Comp
-40226541,hydrocortisone acetate 20 MG/ML,TRUE,NA,20,20,S,NA,1012232,Drug,RxNorm,Clinical Drug Comp
-40226547,hydrocortisone acetate 20 MG/ML / lidocaine hydrochloride 20 MG/ML [Ana-Lex],FALSE,delete,20,20,S,NA,1012325,Drug,RxNorm,Branded Drug Comp
-40226548,hydrocortisone acetate 20 MG/ML / lidocaine hydrochloride 20 MG/ML [Lidamantle HC],FALSE,delete,20,20,S,NA,1012247,Drug,RxNorm,Branded Drug Comp
-40226549,hydrocortisone acetate 20 MG/ML / lidocaine hydrochloride 20 MG/ML [Peranex],FALSE,delete,20,20,S,NA,1012265,Drug,RxNorm,Branded Drug Comp
-40226550,hydrocortisone acetate 5 MG/ML,TRUE,NA,20,20,S,NA,1012234,Drug,RxNorm,Clinical Drug Comp
-40226561,hydrocortisone acetate 5 MG/ML / lidocaine hydrochloride 30 MG/ML [Anamantle HC],TRUE,NA,20,20,S,NA,1012573,Drug,RxNorm,Branded Drug Comp
-40226562,hydrocortisone acetate 5 MG/ML / lidocaine hydrochloride 30 MG/ML [Lidamantle HC],FALSE,delete,20,20,S,NA,1012620,Drug,RxNorm,Branded Drug Comp
-40226563,hydrocortisone acetate 5 MG/ML / lidocaine hydrochloride 30 MG/ML [Lidazone],FALSE,delete,20,20,S,NA,1012347,Drug,RxNorm,Branded Drug Comp
-40226564,hydrocortisone acetate 5 MG/ML / lidocaine hydrochloride 30 MG/ML [Senatec HC],FALSE,delete,20,20,S,NA,1012610,Drug,RxNorm,Branded Drug Comp
-40226628,hydrocortisone acetate 0.00275 MG/MG,FALSE,delete,20,20,S,NA,1012215,Drug,RxNorm,Clinical Drug Comp
-40226630,hydrocortisone acetate 0.0055 MG/MG,FALSE,delete,20,20,S,NA,1012219,Drug,RxNorm,Clinical Drug Comp
-40226633,hydrocortisone acetate 0.0055 MG/MG / lidocaine hydrochloride 0.028 MG/MG [RectaGel],FALSE,delete,20,20,S,NA,1012310,Drug,RxNorm,Branded Drug Comp
-40226634,hydrocortisone acetate 0.01 MG/MG,FALSE,delete,20,20,S,NA,1013097,Drug,RxNorm,Clinical Drug Comp
-40226638,hydrocortisone acetate 0.025 MG/MG,FALSE,delete,20,20,S,NA,1012222,Drug,RxNorm,Clinical Drug Comp
-40226642,hydrocortisone acetate 0.025 MG/MG / lidocaine hydrochloride 0.03 MG/MG [Anamantle HC],FALSE,delete,20,20,S,NA,1012242,Drug,RxNorm,Branded Drug Comp
-40226643,hydrocortisone acetate 0.025 MG/MG / lidocaine hydrochloride 0.03 MG/MG [Lidocort],FALSE,delete,20,20,S,NA,1012566,Drug,RxNorm,Branded Drug Comp
-40226649,hydrocortisone acetate 10 MG/ML / lidocaine hydrochloride 30 MG/ML [Anamantle HC],FALSE,delete,20,20,S,NA,1012568,Drug,RxNorm,Branded Drug Comp
-40228300,hydrocortisone acetate 50 MG/ML,FALSE,delete,20,20,S,NA,1037327,Drug,RxNorm,Clinical Drug Comp
-40228301,hydrocortisone acetate 50 MG/ML Injectable Suspension,TRUE,NA,20,20,S,NA,1037328,Drug,RxNorm,Clinical Drug
-40228302,hydrocortisone acetate 50 MG/ML Injectable Suspension [Hydrocortone Acetate],TRUE,NA,20,20,S,NA,1037330,Drug,RxNorm,Branded Drug
-40228303,hydrocortisone acetate 50 MG/ML [Hydrocortone Acetate],TRUE,NA,20,20,S,NA,1037329,Drug,RxNorm,Branded Drug Comp
-40228390,hydrocortisone sodium phosphate 50 MG/ML,TRUE,NA,20,20,S,NA,1037337,Drug,RxNorm,Clinical Drug Comp
-40228391,hydrocortisone sodium phosphate 50 MG/ML Injectable Solution,TRUE,NA,912,314,S,NA,1037338,Drug,RxNorm,Clinical Drug
-40228392,hydrocortisone sodium phosphate 50 MG/ML Injectable Solution [Hydrocortone Phosphate],TRUE,NA,20,20,S,NA,1037340,Drug,RxNorm,Branded Drug
-40228393,hydrocortisone sodium phosphate 50 MG/ML [Hydrocortone Phosphate],TRUE,NA,20,20,S,NA,1037339,Drug,RxNorm,Branded Drug Comp
-40230688,hydrocortisone acetate 10 MG/ML [Vagisil Satin],TRUE,NA,20,20,S,NA,1039351,Drug,RxNorm,Branded Drug Comp
-40230690,hydrocortisone acetate 5 MG/ML / lidocaine hydrochloride 30 MG/ML [Rectacreme],FALSE,delete,20,20,S,NA,1045563,Drug,RxNorm,Branded Drug Comp
-40231132,hydrocortisone 10 MG/ML [Beta-HC],FALSE,delete,20,20,S,NA,1043072,Drug,RxNorm,Branded Drug Comp
-40231134,hydrocortisone 10 MG/ML [Maximum-H],FALSE,delete,20,20,S,NA,1039921,Drug,RxNorm,Branded Drug Comp
-40231136,hydrocortisone 10 MG/ML [Scalpicin Itch Relief],FALSE,delete,20,20,S,NA,1039271,Drug,RxNorm,Branded Drug Comp
-40232617,hydrocortisone 10 MG/ML [Keratol HC],FALSE,delete,20,20,S,NA,1050229,Drug,RxNorm,Branded Drug Comp
-40234558,hydrocortisone 10 MG/ML [Hydroskin],FALSE,delete,20,20,S,NA,1086948,Drug,RxNorm,Branded Drug Comp
-40237061,hydrocortisone acetate 23.5 MG/ML,FALSE,delete,20,20,S,NA,1094442,Drug,RxNorm,Clinical Drug Comp
-40237064,hydrocortisone acetate 23.5 MG/ML / pramoxine hydrochloride 10 MG/ML [Z-Pram],FALSE,delete,20,20,S,NA,1094445,Drug,RxNorm,Branded Drug Comp
-40239745,chlorcyclizine hydrochloride 20 MG/ML / hydrocortisone acetate 5 MG/ML [Mantadil],FALSE,delete,20,20,S,NA,1113059,Drug,RxNorm,Branded Drug Comp
-40240652,hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [PramCort],FALSE,delete,20,20,S,NA,1116501,Drug,RxNorm,Branded Drug Comp
-40240653,hydrocortisone acetate 18.5 MG/ML,FALSE,delete,20,20,S,NA,1114852,Drug,RxNorm,Clinical Drug Comp
-40240656,hydrocortisone acetate 18.5 MG/ML / pramoxine hydrochloride 11.5 MG/ML [Procort 1.85/1.15],FALSE,delete,20,20,S,NA,1115728,Drug,RxNorm,Branded Drug Comp
-40241221,bacitracin zinc 0.4 UNT/MG / hydrocortisone acetate 0.01 MG/MG / neomycin sulfate 0.0035 MG/MG / polymyxin B sulfate 10 UNT/MG [Neo-Polycin HC],FALSE,delete,20,20,S,NA,1116152,Drug,RxNorm,Branded Drug Comp
-40243304,aloe polysaccharide 0.01 MG/MG / hydrocortisone acetate 0.02 MG/MG / iodoquinol 0.01 MG/MG [Alcortin A],FALSE,delete,20,20,S,NA,1191377,Drug,RxNorm,Branded Drug Comp
-40243744,hydrocortisone acetate 0.02 MG/MG,FALSE,delete,20,20,S,NA,1191372,Drug,RxNorm,Clinical Drug Comp
-40243943,hydrocortisone 10 MG/ML [Monistat Itch Relief],FALSE,delete,20,20,S,NA,1190615,Drug,RxNorm,Branded Drug Comp
-40243957,hydrocortisone 0.01 MG/MG [Dermol HC],FALSE,delete,20,20,S,NA,1189832,Drug,RxNorm,Branded Drug Comp
-40243959,hydrocortisone 0.02 MG/MG / iodoquinol 0.01 MG/MG [Alcortin],FALSE,delete,20,20,S,NA,1191412,Drug,RxNorm,Branded Drug Comp
-42543959,hydrocortisone 10 MG/ML / ketoconazole 1.5 MG/ML [Malacetic],FALSE,delete,20,20,S,NA,2003647,Drug,RxNorm,Branded Drug Comp
-42629025,hydrocortisone 7.5 MG/ML,FALSE,delete,20,20,S,NA,1792288,Drug,RxNorm,Clinical Drug Comp
-42629545,hydrocortisone 25 MG/ML [Procto-Med],FALSE,delete,20,20,S,NA,1790681,Drug,RxNorm,Branded Drug Comp
-42705177,hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Enzone],TRUE,NA,20,20,S,NA,1233612,Drug,RxNorm,Branded Drug Comp
-42705230,hydrocortisone acetate 0.01 MG/MG / pramoxine hydrochloride 0.01 MG/MG [Pramosone],FALSE,delete,20,20,S,NA,1234319,Drug,RxNorm,Branded Drug Comp
-42705234,hydrocortisone acetate 0.025 MG/MG / pramoxine hydrochloride 0.01 MG/MG [Pramosone],FALSE,delete,20,20,S,NA,1234335,Drug,RxNorm,Branded Drug Comp
-42705245,hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Pramosone],FALSE,delete,20,20,S,NA,1234394,Drug,RxNorm,Branded Drug Comp
-42705263,hydrocortisone acetate 25 MG/ML,TRUE,NA,20,20,S,NA,1234505,Drug,RxNorm,Clinical Drug Comp
-42705264,hydrocortisone acetate 25 MG/ML / pramoxine hydrochloride 10 MG/ML [Pramosone],FALSE,delete,20,20,S,NA,1234507,Drug,RxNorm,Branded Drug Comp
-42705423,hydrocortisone acetate 0.01 MG/MG [Biocorneum],FALSE,delete,20,20,S,NA,1235744,Drug,RxNorm,Branded Drug Comp
-42706151,hydrocortisone aceponate 1.11 MG/ML,FALSE,delete,20,20,S,NA,1245240,Drug,RxNorm,Clinical Drug Comp
-42706833,hydrocortisone acetate 10 MG/ML [Carmol HC],TRUE,NA,20,20,S,NA,1250485,Drug,RxNorm,Branded Drug Comp
-42706834,hydrocortisone acetate 10 MG/ML [Corticaine],TRUE,NA,20,20,S,NA,1250487,Drug,RxNorm,Branded Drug Comp
-42706835,hydrocortisone acetate 5 MG/ML [Corticaine],TRUE,NA,20,20,S,NA,1250491,Drug,RxNorm,Branded Drug Comp
-42706836,hydrocortisone acetate 10 MG/ML [Hycort],TRUE,NA,20,20,S,NA,1250493,Drug,RxNorm,Branded Drug Comp
-42799483,clioquinol 30 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [1 Plus 1 F],FALSE,delete,20,20,S,NA,1293641,Drug,RxNorm,Branded Drug Comp
-42799746,hydrocortisone 25 MG/ML [Proctosol],FALSE,delete,20,20,S,NA,1291377,Drug,RxNorm,Branded Drug Comp
-42799748,hydrocortisone 5 MG/ML [Cortef],TRUE,NA,20,20,S,NA,1294110,Drug,RxNorm,Branded Drug Comp
-42799766,hydrocortisone 0.005 MG/MG [Cortaid],FALSE,delete,20,20,S,NA,1294114,Drug,RxNorm,Branded Drug Comp
-42800104,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Cortane-B],FALSE,delete,20,20,S,NA,1293875,Drug,RxNorm,Branded Drug Comp
-42800105,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Cortic],FALSE,delete,20,20,S,NA,1294243,Drug,RxNorm,Branded Drug Comp
-42800106,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Exotic-HC],FALSE,delete,20,20,S,NA,1294245,Drug,RxNorm,Branded Drug Comp
-42800107,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Oticin HC Ear Drops],FALSE,delete,20,20,S,NA,1294247,Drug,RxNorm,Branded Drug Comp
-42800108,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Otirx],FALSE,delete,20,20,S,NA,1294363,Drug,RxNorm,Branded Drug Comp
-42800109,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Otomax HC],FALSE,delete,20,20,S,NA,1294254,Drug,RxNorm,Branded Drug Comp
-42800110,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Tri-Otic],FALSE,delete,20,20,S,NA,1294263,Drug,RxNorm,Branded Drug Comp
-42800111,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Zotane HC],FALSE,delete,20,20,S,NA,1294265,Drug,RxNorm,Branded Drug Comp
-42800112,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Zoto-HC],FALSE,delete,20,20,S,NA,1293892,Drug,RxNorm,Branded Drug Comp
-42800171,hydrocortisone acetate 23.5 MG/ML / pramoxine hydrochloride 10 MG/ML [ZyPram],FALSE,delete,20,20,S,NA,1293747,Drug,RxNorm,Branded Drug Comp
-42800172,hydrocortisone acetate 25 MG,TRUE,NA,20,20,S,NA,1291081,Drug,RxNorm,Clinical Drug Comp
-42800179,hydrocortisone acetate 25 MG [Anucort-HC],FALSE,delete,20,20,S,NA,1291100,Drug,RxNorm,Branded Drug Comp
-42800180,hydrocortisone acetate 25 MG [Anusol HC],FALSE,delete,20,20,S,NA,1291102,Drug,RxNorm,Branded Drug Comp
-42800181,hydrocortisone acetate 25 MG [Cort-Dome],FALSE,delete,20,20,S,NA,1291289,Drug,RxNorm,Branded Drug Comp
-42800182,hydrocortisone acetate 25 MG [Hemril],FALSE,delete,20,20,S,NA,1291373,Drug,RxNorm,Branded Drug Comp
-42800183,hydrocortisone acetate 25 MG [Proctosol],FALSE,delete,20,20,S,NA,1291381,Drug,RxNorm,Branded Drug Comp
-42800185,hydrocortisone acetate 30 MG,TRUE,NA,20,20,S,NA,1291084,Drug,RxNorm,Clinical Drug Comp
-42800191,hydrocortisone acetate 30 MG [Encort],FALSE,delete,20,20,S,NA,1291273,Drug,RxNorm,Branded Drug Comp
-42800192,hydrocortisone acetate 30 MG [Hemril],FALSE,delete,20,20,S,NA,1291087,Drug,RxNorm,Branded Drug Comp
-42800193,hydrocortisone acetate 30 MG [Proctocort],FALSE,delete,20,20,S,NA,1291091,Drug,RxNorm,Branded Drug Comp
-42800194,hydrocortisone acetate 30 MG [Proctosert HC],FALSE,delete,20,20,S,NA,1291095,Drug,RxNorm,Branded Drug Comp
-42800218,hydrocortisone acetate 0.005 MG/MG,FALSE,delete,20,20,S,NA,1294011,Drug,RxNorm,Clinical Drug Comp
-42800224,hydrocortisone acetate 0.02 MG/MG / pramoxine hydrochloride 0.01 MG/MG [Hydropramox],FALSE,delete,20,20,S,NA,1293655,Drug,RxNorm,Branded Drug Comp
-42800225,hydrocortisone acetate 0.02 MG/MG / pramoxine hydrochloride 0.01 MG/MG [Novacort],FALSE,delete,20,20,S,NA,1293728,Drug,RxNorm,Branded Drug Comp
-42800230,hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [ProctoCream-HC],FALSE,delete,20,20,S,NA,1293730,Drug,RxNorm,Branded Drug Comp
-42800727,diphenhydramine hydrochloride 5 MG/ML / hydrocortisone 5 MG/ML [HC Derma-Pax],FALSE,delete,20,20,S,NA,1297951,Drug,RxNorm,Branded Drug Comp
-42900501,hydrocortisone acetate 5 MG/ML [Rhulicort],FALSE,delete,20,20,S,NA,1310642,Drug,RxNorm,Branded Drug Comp
-42901134,hydrocortisone 10 MG/ML [Kera-HC],FALSE,delete,20,20,S,NA,1314929,Drug,RxNorm,Branded Drug Comp
-42901550,hydrocortisone acetate 23 MG/ML,FALSE,delete,20,20,S,NA,1359149,Drug,RxNorm,Clinical Drug Comp
-43011452,hydrocortisone acetate 10 MG/ML [U-Cort],FALSE,delete,20,20,S,NA,1360948,Drug,RxNorm,Branded Drug Comp
-43011453,hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Analpram HC],FALSE,delete,20,20,S,NA,1360950,Drug,RxNorm,Branded Drug Comp
-43011454,hydrocortisone acetate 25 MG/ML / pramoxine hydrochloride 10 MG/ML [Analpram HC],FALSE,delete,20,20,S,NA,1360955,Drug,RxNorm,Branded Drug Comp
-43013655,hydrocortisone butyrate 0.001 MG/MG,FALSE,delete,20,20,S,NA,1370757,Drug,RxNorm,Clinical Drug Comp
-43013658,hydrocortisone butyrate 0.001 MG/MG [Locoid],FALSE,delete,20,20,S,NA,1370759,Drug,RxNorm,Branded Drug Comp
-43013659,hydrocortisone butyrate 1 MG/ML,FALSE,delete,20,20,S,NA,1370762,Drug,RxNorm,Clinical Drug Comp
-43013666,hydrocortisone butyrate 1 MG/ML [Locoid],FALSE,delete,20,20,S,NA,1370764,Drug,RxNorm,Branded Drug Comp
-43014077,hydrocortisone probutate 1 MG/ML,FALSE,delete,20,20,S,NA,1370745,Drug,RxNorm,Clinical Drug Comp
-43014080,hydrocortisone probutate 1 MG/ML [Pandel],FALSE,delete,20,20,S,NA,1370747,Drug,RxNorm,Branded Drug Comp
-43014086,hydrocortisone valerate 0.002 MG/MG,FALSE,delete,20,20,S,NA,1370749,Drug,RxNorm,Clinical Drug Comp
-43014089,hydrocortisone valerate 0.002 MG/MG [Westcort],FALSE,delete,20,20,S,NA,1370751,Drug,RxNorm,Branded Drug Comp
-43014090,hydrocortisone valerate 2 MG/ML,FALSE,delete,20,20,S,NA,1370753,Drug,RxNorm,Clinical Drug Comp
-43014093,hydrocortisone valerate 2 MG/ML [Westcort],FALSE,delete,20,20,S,NA,1370755,Drug,RxNorm,Branded Drug Comp
-43525625,hydrocortisone acetate 0.01 MG/MG [Cortisil MDX],FALSE,delete,20,20,S,NA,1373236,Drug,RxNorm,Branded Drug Comp
-43532628,hydrocortisone acetate 25 MG [Rectacort-HC],FALSE,delete,20,20,S,NA,1429376,Drug,RxNorm,Branded Drug Comp
-43560721,hydrocortisone acetate 19 MG/ML,FALSE,delete,20,20,S,NA,1436946,Drug,RxNorm,Clinical Drug Comp
-43560724,hydrocortisone acetate 19 MG/ML / iodoquinol 10 MG/ML [Vytone],FALSE,delete,20,20,S,NA,1436948,Drug,RxNorm,Branded Drug Comp
-44506401,hydrocortisone acetate 5 MG/ML [Gadaderm Hydrocortisone],FALSE,delete,20,20,S,NA,1438753,Drug,RxNorm,Branded Drug Comp
-44507503,clioquinol 30 MG/ML / hydrocortisone 5 MG/ML [Dermasorb AF],TRUE,NA,20,20,S,NA,1442845,Drug,RxNorm,Branded Drug Comp
-44507847,hydrocortisone 20 MG/ML [Dermasorb HC],FALSE,delete,20,20,S,NA,1442868,Drug,RxNorm,Branded Drug Comp
-44784836,hydrocortisone 10 MG/ML [Dermacool HC],FALSE,delete,20,20,S,NA,1483215,Drug,RxNorm,Branded Drug Comp
-44784837,hydrocortisone 10 MG/ML [Resicort],FALSE,delete,20,20,S,NA,1483220,Drug,RxNorm,Branded Drug Comp
-44814308,hydrocortisone 0.01 MG/MG [Hemorrodil Plus],FALSE,delete,20,20,S,NA,1491719,Drug,RxNorm,Branded Drug Comp
-45774728,hydrocortisone acetate 100 MG/ML,FALSE,delete,20,20,S,NA,1545171,Drug,RxNorm,Clinical Drug Comp
-45774730,hydrocortisone acetate 100 MG/ML [Cortifoam],FALSE,delete,20,20,S,NA,1545173,Drug,RxNorm,Branded Drug Comp
-45775905,bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Vetropolycin HC],FALSE,delete,20,20,S,NA,1541112,Drug,RxNorm,Branded Drug Comp
-45776281,hydrocortisone acetate 0.02 MG/MG [CortAlo],FALSE,delete,20,20,S,NA,1542797,Drug,RxNorm,Branded Drug Comp
-45776286,hydrocortisone acetate 5 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Cortisporin],FALSE,delete,20,20,S,NA,1542805,Drug,RxNorm,Branded Drug Comp
-45776377,hydrocortisone acetate 0.015 MG/MG,FALSE,delete,20,20,S,NA,1542924,Drug,RxNorm,Clinical Drug Comp
-45776611,benzocaine 15 MG/ML / chloroxylenol 1 MG/ML / hydrocortisone acetate 10 MG/ML [Myoxin],FALSE,delete,20,20,S,NA,1549398,Drug,RxNorm,Branded Drug Comp
-45776615,benzocaine 15 MG/ML / chloroxylenol 1 MG/ML / hydrocortisone acetate 10 MG/ML [TriOxin],FALSE,delete,20,20,S,NA,1549402,Drug,RxNorm,Branded Drug Comp
-45776722,hydrocortisone acetate 15 MG/ML,TRUE,NA,20,20,S,NA,1549473,Drug,RxNorm,Clinical Drug Comp
-46233830,hydrocortisone 10 MG/ML [Selsun Blue Scalp Itch],FALSE,delete,20,20,S,NA,1650985,Drug,RxNorm,Branded Drug Comp
-46287708,hydrocortisone 10 MG/ML [Blue-Emu Anti-Itch],FALSE,delete,20,20,S,NA,1664356,Drug,RxNorm,Branded Drug Comp
+concept_id,keep_entry_in_codeset,comments,concept_name,condition_count,patient_count,standard_concept,invalid_reason,concept_code,domain_id,vocabulary_id,concept_class_id
+792831,TRUE,NA,hydrocortisone 0.005 MG/MG [Cortizone],20,20,S,NA,1987141,Drug,RxNorm,Branded Drug Comp
+792834,TRUE,NA,hydrocortisone 5 MG/ML [Cortizone],20,20,S,NA,1987145,Drug,RxNorm,Branded Drug Comp
+792836,TRUE,NA,hydrocortisone 0.01 MG/MG [Cortizone],20,20,S,NA,1987151,Drug,RxNorm,Branded Drug Comp
+792838,TRUE,NA,hydrocortisone 10 MG/ML [Cortizone],20,20,S,NA,1987155,Drug,RxNorm,Branded Drug Comp
+975125,TRUE,NA,hydrocortisone,2507368,110774,S,NA,5492,Drug,RxNorm,Ingredient
+975168,TRUE,NA,hydrocortisone 10 MG Oral Tablet,123713,8742,S,NA,197782,Drug,RxNorm,Clinical Drug
+975169,TRUE,NA,hydrocortisone 20 MG Oral Tablet,36182,4441,S,NA,197783,Drug,RxNorm,Clinical Drug
+975193,TRUE,NA,hydrocortisone 5 MG Oral Tablet,83925,7110,S,NA,197787,Drug,RxNorm,Clinical Drug
+975504,TRUE,NA,hydrocortisone 25 MG/ML Injectable Suspension,20,20,S,NA,238754,Drug,RxNorm,Clinical Drug
+975505,TRUE,NA,hydrocortisone 100 MG Injection,607748,71728,S,NA,238755,Drug,RxNorm,Clinical Drug
+975588,TRUE,NA,hydrocortisone 2.5 MG Oral Tablet,20,20,S,NA,249569,Drug,RxNorm,Clinical Drug
+975926,TRUE,NA,hydrocortisone 5 MG,20,20,S,NA,317387,Drug,RxNorm,Clinical Drug Comp
+975928,TRUE,NA,hydrocortisone 5 MG/ML,20,20,S,NA,328348,Drug,RxNorm,Clinical Drug Comp
+975929,TRUE,NA,hydrocortisone 50 MG/ML,6693,580,S,NA,328774,Drug,RxNorm,Clinical Drug Comp
+975931,TRUE,NA,hydrocortisone 0.0025 MG/MG,20,20,S,NA,329448,Drug,RxNorm,Clinical Drug Comp
+975952,TRUE,NA,hydrocortisone 15 MG/ML,20,20,S,NA,329836,Drug,RxNorm,Clinical Drug Comp
+975953,TRUE,NA,hydrocortisone 1 MG/MG,20,20,S,NA,329837,Drug,RxNorm,Clinical Drug Comp
+975954,TRUE,NA,hydrocortisone 1.67 MG/ML,20,20,S,NA,329838,Drug,RxNorm,Clinical Drug Comp
+975955,TRUE,NA,hydrocortisone 0.1 MG/MG,20,20,S,NA,329839,Drug,RxNorm,Clinical Drug Comp
+975982,FALSE,delete,hydrocortisone 0.0075 MG/MG,20,20,S,NA,334969,Drug,RxNorm,Clinical Drug Comp
+975984,TRUE,NA,hydrocortisone 0.5 MG/ML,20,20,S,NA,334971,Drug,RxNorm,Clinical Drug Comp
+975985,TRUE,NA,hydrocortisone 2.5 MG,20,20,S,NA,334972,Drug,RxNorm,Clinical Drug Comp
+975986,FALSE,delete,hydrocortisone 0.01 MG/MG,20,20,S,NA,339972,Drug,RxNorm,Clinical Drug Comp
+976014,TRUE,NA,hydrocortisone 2.5 MG/ML,7392,81,S,NA,343175,Drug,RxNorm,Clinical Drug Comp
+976015,TRUE,NA,hydrocortisone 20 MG/ML,20,20,S,NA,343191,Drug,RxNorm,Clinical Drug Comp
+976016,TRUE,NA,hydrocortisone 1.27 MG/ML,20,20,S,NA,343481,Drug,RxNorm,Clinical Drug Comp
+976017,TRUE,NA,hydrocortisone 1.25 MG/ML,20,20,S,NA,343482,Drug,RxNorm,Clinical Drug Comp
+976077,FALSE,delete,hydrocortisone 0.02 MG/MG,20,20,S,NA,476784,Drug,RxNorm,Clinical Drug Comp
+1592221,TRUE,NA,gentamicin sulfate 1.5 MG/ML / hydrocortisone aceponate 1.11 MG/ML / miconazole nitrate 15.1 MG/ML [Easotic],20,20,S,NA,1870701,Drug,RxNorm,Branded Drug Comp
+19005824,FALSE,delete,hydrocortisone 10 MG/ML [Proctozone-H],20,20,S,NA,574732,Drug,RxNorm,Branded Drug Comp
+19006606,FALSE,delete,hydrocortisone 25 MG/ML [Proctozone HC],20,20,S,NA,575327,Drug,RxNorm,Branded Drug Comp
+19006964,TRUE,NA,hydrocortisone 10 MG Oral Tablet [Hydrocortone],18625,1319,S,NA,105395,Drug,RxNorm,Branded Drug
+19006965,TRUE,NA,hydrocortisone 20 MG Oral Tablet [Hydrocortone],8361,879,S,NA,105396,Drug,RxNorm,Branded Drug
+19006966,TRUE,NA,hydrocortisone 100 MG/ML Injectable Solution [Efcortesol],20,20,S,NA,105397,Drug,RxNorm,Branded Drug
+19006967,TRUE,NA,hydrocortisone 100 MG Injection [Solu-Cortef],423560,45968,S,NA,105398,Drug,RxNorm,Branded Drug
+19020402,TRUE,NA,hydrocortisone 25 MG/ML [Anusol HC],20,20,S,NA,574115,Drug,RxNorm,Branded Drug Comp
+19021571,TRUE,NA,hydrocortisone 4 MG Oral Tablet,20,20,S,NA,199320,Drug,RxNorm,Clinical Drug
+19022881,FALSE,delete,hydrocortisone 25 MG/ML [Procto-Kit],20,20,S,NA,759715,Drug,RxNorm,Branded Drug Comp
+19022882,FALSE,delete,hydrocortisone 10 MG/ML [Procto-Kit],20,20,S,NA,759718,Drug,RxNorm,Branded Drug Comp
+19022929,FALSE,delete,hydrocortisone 10 MG/ML [Itch-X Maximum Strength],20,20,S,NA,761647,Drug,RxNorm,Branded Drug Comp
+19023479,TRUE,NA,hydrocortisone 20 MG/ML [Coraz],20,20,S,NA,763541,Drug,RxNorm,Branded Drug Comp
+19027280,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otocidin],20,20,S,NA,792117,Drug,RxNorm,Branded Drug Comp
+19027430,FALSE,delete,hydrocortisone 0.005 MG/MG Paste,20,20,S,NA,204420,Drug,RxNorm,Clinical Drug
+19028399,TRUE,NA,hydrocortisone 5 MG/ML [Massengill],20,20,S,NA,797859,Drug,RxNorm,Branded Drug Comp
+19029017,FALSE,delete,hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Proctofoam-HC],20,20,S,NA,828363,Drug,RxNorm,Branded Drug Comp
+19032195,FALSE,delete,hydrocortisone 0.005 MG/MG Oral Paste [Orabase HCA],20,20,S,NA,206375,Drug,RxNorm,Branded Drug
+19032378,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Cort-Biotic],20,20,S,NA,575293,Drug,RxNorm,Branded Drug Comp
+19032573,FALSE,delete,hydrocortisone 10 MG/ML / iodoquinol 10 MG/ML [Dermazene],20,20,S,NA,575554,Drug,RxNorm,Branded Drug Comp
+19034021,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Ocutricin HC],20,20,S,NA,575547,Drug,RxNorm,Branded Drug Comp
+19034027,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Oti-sone],20,20,S,NA,575294,Drug,RxNorm,Branded Drug Comp
+19034029,FALSE,delete,acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Oticot HC],20,20,S,NA,575645,Drug,RxNorm,Branded Drug Comp
+19037464,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otocort],20,20,S,NA,567348,Drug,RxNorm,Branded Drug Comp
+19039286,TRUE,NA,hydrocortisone 5 MG Oral Tablet [Cortef],27369,2730,S,NA,208680,Drug,RxNorm,Branded Drug
+19039383,TRUE,NA,hydrocortisone 10 MG Oral Tablet [Cortef],26548,1781,S,NA,208712,Drug,RxNorm,Branded Drug
+19039743,TRUE,NA,hydrocortisone 20 MG Oral Tablet [Cortef],5859,627,S,NA,208816,Drug,RxNorm,Branded Drug
+19040156,TRUE,NA,hydrocortisone 100 MG Injection [A-Hydrocort],44730,8364,S,NA,208947,Drug,RxNorm,Branded Drug
+19040967,TRUE,NA,hydrocortisone 2 MG/ML Oral Suspension [Cortef],20,20,S,NA,209245,Drug,RxNorm,Branded Drug
+19041535,FALSE,delete,hydrocortisone 15 MG/ML / oxytetracycline 5 MG/ML [Terra-Cortril],20,20,S,NA,567244,Drug,RxNorm,Branded Drug Comp
+19042519,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Masporin],20,20,S,NA,567352,Drug,RxNorm,Branded Drug Comp
+19043285,FALSE,delete,hydrocortisone 1.67 MG/ML [Cortenema],20,20,S,NA,562955,Drug,RxNorm,Branded Drug Comp
+19043287,FALSE,delete,hydrocortisone 5 MG/ML [Aeroseb-HC],20,20,S,NA,567183,Drug,RxNorm,Branded Drug Comp
+19043289,FALSE,delete,hydrocortisone 2.5 MG/ML [Cetacort],20,20,S,NA,543679,Drug,RxNorm,Branded Drug Comp
+19043290,FALSE,delete,hydrocortisone 5 MG/ML [Cetacort],20,20,S,NA,567143,Drug,RxNorm,Branded Drug Comp
+19043313,FALSE,delete,hydrocortisone 5 MG/ML [Cort-Dome],20,20,S,NA,571949,Drug,RxNorm,Branded Drug Comp
+19043315,TRUE,NA,hydrocortisone 5 MG [Cortef],20,20,S,NA,569343,Drug,RxNorm,Branded Drug Comp
+19043316,TRUE,NA,hydrocortisone 10 MG [Cortef],20,20,S,NA,569375,Drug,RxNorm,Branded Drug Comp
+19043317,TRUE,NA,hydrocortisone 20 MG [Cortef],20,20,S,NA,569465,Drug,RxNorm,Branded Drug Comp
+19043318,TRUE,NA,hydrocortisone 2 MG/ML [Cortef],20,20,S,NA,569869,Drug,RxNorm,Branded Drug Comp
+19043320,TRUE,NA,hydrocortisone 10 MG/ML [Dermacort],20,20,S,NA,567198,Drug,RxNorm,Branded Drug Comp
+19043346,TRUE,NA,hydrocortisone 25 MG/ML [Hytone],20,20,S,NA,567135,Drug,RxNorm,Branded Drug Comp
+19043347,TRUE,NA,hydrocortisone 0.01 MG/MG [Hytone],20,20,S,NA,567163,Drug,RxNorm,Branded Drug Comp
+19043348,TRUE,NA,hydrocortisone 0.025 MG/MG [Hytone],20,20,S,NA,567166,Drug,RxNorm,Branded Drug Comp
+19043349,TRUE,NA,hydrocortisone 10 MG/ML [Hytone],20,20,S,NA,567173,Drug,RxNorm,Branded Drug Comp
+19043371,TRUE,NA,hydrocortisone 25 MG/ML [Nutracort],20,20,S,NA,567138,Drug,RxNorm,Branded Drug Comp
+19043372,TRUE,NA,hydrocortisone 10 MG/ML [Nutracort],20,20,S,NA,567213,Drug,RxNorm,Branded Drug Comp
+19043374,TRUE,NA,hydrocortisone 10 MG/ML [Proctocort],20,20,S,NA,543689,Drug,RxNorm,Branded Drug Comp
+19043850,TRUE,NA,hydrocortisone 20 MG/ML [Nucort],20,20,S,NA,827344,Drug,RxNorm,Branded Drug Comp
+19052272,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [AK-Spore HC],20,20,S,NA,567349,Drug,RxNorm,Branded Drug Comp
+19052473,FALSE,delete,acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Acetasol HC],20,20,S,NA,573411,Drug,RxNorm,Branded Drug Comp
+19052580,FALSE,delete,hydrocortisone 10 MG/ML [Acticort 100],20,20,S,NA,567167,Drug,RxNorm,Branded Drug Comp
+19053009,FALSE,delete,hydrocortisone 10 MG/ML [Ala-Cort],20,20,S,NA,567191,Drug,RxNorm,Branded Drug Comp
+19053476,FALSE,delete,hydrocortisone 5 MG/ML [Aloe Cort],20,20,S,NA,571947,Drug,RxNorm,Branded Drug Comp
+19054922,FALSE,delete,hydrocortisone 10 MG/ML [Aquanil HC],20,20,S,NA,567169,Drug,RxNorm,Branded Drug Comp
+19057671,FALSE,delete,hydrocortisone 5 MG/ML [Caldecort],20,20,S,NA,571948,Drug,RxNorm,Branded Drug Comp
+19058668,FALSE,delete,ciprofloxacin 2 MG/ML / hydrocortisone 10 MG/ML [Cipro HC],20,20,S,NA,573221,Drug,RxNorm,Branded Drug Comp
+19059580,TRUE,NA,hydrocortisone 10 MG/ML [Cortaid],20,20,S,NA,567171,Drug,RxNorm,Branded Drug Comp
+19059601,TRUE,NA,hydrocortisone 5 MG/ML [Cortaid],20,20,S,NA,571951,Drug,RxNorm,Branded Drug Comp
+19059604,TRUE,NA,hydrocortisone 10 MG/ML [Cortane],20,20,S,NA,567211,Drug,RxNorm,Branded Drug Comp
+19059610,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Cortratigen],20,20,S,NA,567341,Drug,RxNorm,Branded Drug Comp
+19059634,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Cortisporin],20,20,S,NA,825188,Drug,RxNorm,Branded Drug Comp
+19059688,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Cortomycin],20,20,S,NA,567343,Drug,RxNorm,Branded Drug Comp
+19059726,FALSE,delete,hydrocortisone 5 MG/ML [Cotacort],20,20,S,NA,567144,Drug,RxNorm,Branded Drug Comp
+19061353,FALSE,delete,hydrocortisone 5 MG/ML [Dermolate],20,20,S,NA,571956,Drug,RxNorm,Branded Drug Comp
+19061357,FALSE,delete,hydrocortisone 5 MG/ML [Dermtex HC],20,20,S,NA,567145,Drug,RxNorm,Branded Drug Comp
+19061358,FALSE,delete,hydrocortisone 10 MG/ML [Dermtex HC],20,20,S,NA,576137,Drug,RxNorm,Branded Drug Comp
+19061952,FALSE,delete,bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Cortisporin Ointment],20,20,S,NA,688699,Drug,RxNorm,Branded Drug Comp
+19063117,FALSE,delete,chloramphenicol 0.01 MG/MG / hydrocortisone 0.005 MG/MG / polymyxin B 10 UNT/MG [Ophthocort],20,20,S,NA,569915,Drug,RxNorm,Branded Drug Comp
+19063119,FALSE,delete,hydrocortisone 0.005 MG/MG [Orabase HCA],20,20,S,NA,545756,Drug,RxNorm,Branded Drug Comp
+19063153,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Drotic],20,20,S,NA,567344,Drug,RxNorm,Branded Drug Comp
+19063670,TRUE,NA,hydrocortisone 100 MG/ML Injectable Solution,20,20,S,NA,250788,Drug,RxNorm,Clinical Drug
+19063870,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Ear-Eze],20,20,S,NA,567345,Drug,RxNorm,Branded Drug Comp
+19063892,FALSE,delete,acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Earsol-HC],20,20,S,NA,573412,Drug,RxNorm,Branded Drug Comp
+19066846,TRUE,NA,hydrocortisone 5 MG/ML [Genasone/Aloe],20,20,S,NA,571957,Drug,RxNorm,Branded Drug Comp
+19067155,TRUE,NA,hydrocortisone 10 MG/ML [Gly-Cort],20,20,S,NA,567172,Drug,RxNorm,Branded Drug Comp
+19069346,FALSE,delete,clioquinol 30 MG/ML / hydrocortisone 10 MG/ML [Hysone],20,20,S,NA,566911,Drug,RxNorm,Branded Drug Comp
+19070931,FALSE,delete,hydrocortisone 25 MG/ML [Lacticare-HC],20,20,S,NA,567137,Drug,RxNorm,Branded Drug Comp
+19070932,FALSE,delete,hydrocortisone 10 MG/ML [Lacticare-HC],20,20,S,NA,567212,Drug,RxNorm,Branded Drug Comp
+19072499,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Masporin Otic],20,20,S,NA,567346,Drug,RxNorm,Branded Drug Comp
+19073018,FALSE,delete,acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Otosol HC],20,20,S,NA,545139,Drug,RxNorm,Branded Drug Comp
+19074763,FALSE,delete,hydrocortisone 0.01 MG/MG / neomycin 0.005 MG/MG [Neo-Cortef],20,20,S,NA,567234,Drug,RxNorm,Branded Drug Comp
+19076067,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otic Ear Care],20,20,S,NA,575237,Drug,RxNorm,Branded Drug Comp
+19076095,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otimar],20,20,S,NA,567354,Drug,RxNorm,Branded Drug Comp
+19076097,FALSE,delete,hydrocortisone 5 MG/ML / polymyxin B 10000 UNT/ML [Otobiotic],20,20,S,NA,567378,Drug,RxNorm,Branded Drug Comp
+19076121,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otocort Sterile Suspension],20,20,S,NA,567355,Drug,RxNorm,Branded Drug Comp
+19076917,FALSE,delete,clioquinol 30 MG/ML / hydrocortisone 10 MG/ML [Pedi-Cort V],20,20,S,NA,566913,Drug,RxNorm,Branded Drug Comp
+19076989,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Pediotic],20,20,S,NA,567356,Drug,RxNorm,Branded Drug Comp
+19077020,FALSE,delete,hydrocortisone 10 MG/ML [Penecort],20,20,S,NA,567175,Drug,RxNorm,Branded Drug Comp
+19078350,TRUE,NA,hydrocortisone 2 MG/ML Oral Suspension,8654,354,S,NA,310899,Drug,RxNorm,Clinical Drug
+19078412,FALSE,delete,hydrocortisone 0.01 MG/MG [Procort],20,20,S,NA,567164,Drug,RxNorm,Branded Drug Comp
+19079481,FALSE,delete,hydrocortisone 10 MG/ML [Recort Plus],20,20,S,NA,567176,Drug,RxNorm,Branded Drug Comp
+19079489,FALSE,delete,hydrocortisone 10 MG/ML [Rederm],20,20,S,NA,543683,Drug,RxNorm,Branded Drug Comp
+19080565,FALSE,delete,hydrocortisone 10 MG/ML [Sarnol-HC],20,20,S,NA,567177,Drug,RxNorm,Branded Drug Comp
+19080569,FALSE,delete,hydrocortisone 10 MG/ML [Scalp-Aid],20,20,S,NA,567178,Drug,RxNorm,Branded Drug Comp
+19080591,FALSE,delete,hydrocortisone 10 MG/ML [Scalp-Cort],20,20,S,NA,567179,Drug,RxNorm,Branded Drug Comp
+19081460,TRUE,NA,hydrocortisone 10 MG,20,20,S,NA,316056,Drug,RxNorm,Clinical Drug Comp
+19081471,TRUE,NA,hydrocortisone 10 MG/ML,46,20,S,NA,316057,Drug,RxNorm,Clinical Drug Comp
+19081472,TRUE,NA,hydrocortisone 20 MG,20,20,S,NA,316058,Drug,RxNorm,Clinical Drug Comp
+19081630,FALSE,delete,clioquinol 30 MG/ML / hydrocortisone 10 MG/ML [Steroform],20,20,S,NA,566914,Drug,RxNorm,Branded Drug Comp
+19082564,FALSE,delete,hydrocortisone 25 MG/ML [Texacort],20,20,S,NA,567182,Drug,RxNorm,Branded Drug Comp
+19083661,TRUE,NA,hydrocortisone 1 MG/ML,7319,224,S,NA,329209,Drug,RxNorm,Clinical Drug Comp
+19085082,FALSE,delete,acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Vasotate HC],20,20,S,NA,573413,Drug,RxNorm,Branded Drug Comp
+19085298,TRUE,NA,hydrocortisone 25 MG/ML,20,20,S,NA,330460,Drug,RxNorm,Clinical Drug Comp
+19085371,FALSE,delete,clioquinol 30 MG/ML / hydrocortisone 10 MG/ML [Vio-Tex-HC],20,20,S,NA,566915,Drug,RxNorm,Branded Drug Comp
+19085551,FALSE,delete,acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Vosol HC],20,20,S,NA,573414,Drug,RxNorm,Branded Drug Comp
+19085928,TRUE,NA,hydrocortisone 15 MG,20,20,S,NA,330700,Drug,RxNorm,Clinical Drug Comp
+19086249,TRUE,NA,hydrocortisone 2 MG/ML,20,20,S,NA,330825,Drug,RxNorm,Clinical Drug Comp
+19088174,TRUE,NA,hydrocortisone 4 MG,20,20,S,NA,332093,Drug,RxNorm,Clinical Drug Comp
+19091192,TRUE,NA,hydrocortisone 40 MG,20,20,S,NA,334970,Drug,RxNorm,Clinical Drug Comp
+19093396,FALSE,delete,hydrocortisone 0.005 MG/MG,20,20,S,NA,339990,Drug,RxNorm,Clinical Drug Comp
+19093652,FALSE,delete,hydrocortisone 0.015 MG/MG,20,20,S,NA,340098,Drug,RxNorm,Clinical Drug Comp
+19093653,TRUE,NA,hydrocortisone 100 MG/ML,1483,270,S,NA,340099,Drug,RxNorm,Clinical Drug Comp
+19093712,FALSE,delete,hydrocortisone 0.025 MG/MG,20,20,S,NA,340118,Drug,RxNorm,Clinical Drug Comp
+19100321,FALSE,delete,hydrocortisone 10 MG/ML [Yeast-X External],20,20,S,NA,574614,Drug,RxNorm,Branded Drug Comp
+19109288,TRUE,NA,hydrocortisone 30 MG/ML,20,20,S,NA,438512,Drug,RxNorm,Clinical Drug Comp
+19109290,FALSE,delete,hydrocortisone 0.03 MG/MG,20,20,S,NA,438514,Drug,RxNorm,Clinical Drug Comp
+19110032,FALSE,delete,hydrocortisone 0.0009 MG/MG,20,20,S,NA,439820,Drug,RxNorm,Clinical Drug Comp
+19110247,FALSE,delete,hydrocortisone 0.0033 MG/MG,20,20,S,NA,440442,Drug,RxNorm,Clinical Drug Comp
+19110248,FALSE,delete,hydrocortisone 0.00127 MG/MG,20,20,S,NA,440443,Drug,RxNorm,Clinical Drug Comp
+19110249,FALSE,delete,hydrocortisone 0.0112 MG/MG,20,20,S,NA,440445,Drug,RxNorm,Clinical Drug Comp
+19110251,FALSE,delete,hydrocortisone 3.3 MG,20,20,S,NA,440447,Drug,RxNorm,Clinical Drug Comp
+19110256,FALSE,delete,hydrocortisone 0.004 MG/MG,20,20,S,NA,440461,Drug,RxNorm,Clinical Drug Comp
+19110325,TRUE,NA,hydrocortisone 40 MG/ML,20,20,S,NA,440586,Drug,RxNorm,Clinical Drug Comp
+19110892,TRUE,NA,hydrocortisone 250 MG,20,20,S,NA,446496,Drug,RxNorm,Clinical Drug Comp
+19114227,FALSE,delete,hydrocortisone 10 MG/ML [Procto-Pak],20,20,S,NA,543490,Drug,RxNorm,Branded Drug Comp
+19114612,FALSE,delete,hydrocortisone 0.1 MG/ML,20,20,S,NA,544998,Drug,RxNorm,Clinical Drug Comp
+19114672,FALSE,delete,acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Otomycet HC],20,20,S,NA,545135,Drug,RxNorm,Branded Drug Comp
+19115161,FALSE,delete,hydrocortisone 0.005 MG/MG Oral Paste,20,20,S,NA,562300,Drug,RxNorm,Clinical Drug
+19115584,FALSE,delete,hydrocortisone 1 MG/ML [Dioderm],20,20,S,NA,563298,Drug,RxNorm,Branded Drug Comp
+19115586,FALSE,delete,hydrocortisone 10 MG/ML [Hydrocortistab],20,20,S,NA,563300,Drug,RxNorm,Branded Drug Comp
+19116155,TRUE,NA,hydrocortisone 10 MG [Hydrocortone],20,20,S,NA,564045,Drug,RxNorm,Branded Drug Comp
+19116156,TRUE,NA,hydrocortisone 20 MG [Hydrocortone],20,20,S,NA,564046,Drug,RxNorm,Branded Drug Comp
+19116157,TRUE,NA,hydrocortisone 100 MG/ML [Efcortesol],20,20,S,NA,564047,Drug,RxNorm,Branded Drug Comp
+19116457,FALSE,delete,hydrocortisone 5 MG/ML / nystatin 100000 UNT/ML [Nystaform-HC],20,20,S,NA,564403,Drug,RxNorm,Branded Drug Comp
+19117813,TRUE,NA,hydrocortisone 10 MG/ML [Efcortelan],20,20,S,NA,566208,Drug,RxNorm,Branded Drug Comp
+19117981,FALSE,delete,clioquinol 30 MG/ML / hydrocortisone 5 MG/ML [Ala-Quin],20,20,S,NA,566907,Drug,RxNorm,Branded Drug Comp
+19117982,FALSE,delete,clioquinol 30 MG/ML / hydrocortisone 5 MG/ML [Steroform],20,20,S,NA,566908,Drug,RxNorm,Branded Drug Comp
+19118099,TRUE,NA,hydrocortisone 10 MG/ML [Texacort],20,20,S,NA,567180,Drug,RxNorm,Branded Drug Comp
+19118100,TRUE,NA,hydrocortisone 10 MG/ML [Theracort],20,20,S,NA,567181,Drug,RxNorm,Branded Drug Comp
+19118101,TRUE,NA,hydrocortisone 1 MG/ML [Dermtex HC],20,20,S,NA,567185,Drug,RxNorm,Branded Drug Comp
+19118103,TRUE,NA,hydrocortisone 10 MG/ML [Dermol HC],20,20,S,NA,567200,Drug,RxNorm,Branded Drug Comp
+19118108,TRUE,NA,hydrocortisone 10 MG/ML [Instacort 10],20,20,S,NA,567206,Drug,RxNorm,Branded Drug Comp
+19118110,TRUE,NA,hydrocortisone 10 MG/ML [Nogenic HC],20,20,S,NA,567208,Drug,RxNorm,Branded Drug Comp
+19118111,TRUE,NA,hydrocortisone 10 MG/ML [Procort],20,20,S,NA,567209,Drug,RxNorm,Branded Drug Comp
+19118112,TRUE,NA,hydrocortisone 10 MG/ML [Cetacort],20,20,S,NA,567210,Drug,RxNorm,Branded Drug Comp
+19118143,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Antibiotic Ear],20,20,S,NA,567340,Drug,RxNorm,Branded Drug Comp
+19118144,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otic care],20,20,S,NA,567347,Drug,RxNorm,Branded Drug Comp
+19118145,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Cortatrigen],20,20,S,NA,567350,Drug,RxNorm,Branded Drug Comp
+19118146,FALSE,delete,hydrocortisone 10 MG / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otic Ear Care],20,20,S,NA,567353,Drug,RxNorm,Branded Drug Comp
+19119910,FALSE,delete,hydrocortisone 5 MG/ML [HC AC/Aloe],20,20,S,NA,571958,Drug,RxNorm,Branded Drug Comp
+19120000,FALSE,delete,benzoyl peroxide 50 MG/ML / hydrocortisone 5 MG/ML [Vanoxide-HC],20,20,S,NA,572100,Drug,RxNorm,Branded Drug Comp
+19120004,FALSE,delete,hydrocortisone 10 MG/ML / iodoquinol 10 MG/ML [Vytone],20,20,S,NA,572105,Drug,RxNorm,Branded Drug Comp
+19120058,FALSE,delete,hydrocortisone 0.005 MG/MG [Ivocort],20,20,S,NA,572390,Drug,RxNorm,Branded Drug Comp
+19120064,FALSE,delete,hydrocortisone 1 MG/ML [Cortaid],20,20,S,NA,572443,Drug,RxNorm,Branded Drug Comp
+19120348,FALSE,delete,bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Neotricin HC],20,20,S,NA,573503,Drug,RxNorm,Branded Drug Comp
+19120349,FALSE,delete,bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Ocu-Cort],20,20,S,NA,573504,Drug,RxNorm,Branded Drug Comp
+19120572,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Lazersporin-C],20,20,S,NA,574103,Drug,RxNorm,Branded Drug Comp
+19120573,FALSE,delete,hydrocortisone 10 MG/ML [Anusert HC-1],20,20,S,NA,574106,Drug,RxNorm,Branded Drug Comp
+19120574,FALSE,delete,hydrocortisone 10 MG/ML [Anusol HC-1],20,20,S,NA,574107,Drug,RxNorm,Branded Drug Comp
+19120576,FALSE,delete,hydrocortisone 10 MG/ML [Nupercainal HC 1%],20,20,S,NA,574109,Drug,RxNorm,Branded Drug Comp
+19120577,TRUE,NA,hydrocortisone 10 MG/ML [Preparation H Hydrocortisone],20,20,S,NA,574110,Drug,RxNorm,Branded Drug Comp
+19120626,FALSE,delete,hydrocortisone 0.01 MG/MG [Anusol HC],20,20,S,NA,574332,Drug,RxNorm,Branded Drug Comp
+19120731,FALSE,delete,hydrocortisone 1.67 MG/ML [Colocort],20,20,S,NA,574908,Drug,RxNorm,Branded Drug Comp
+19120824,FALSE,delete,hydrocortisone 5 MG/ML [Hydrocortisone-Aloe],20,20,S,NA,575132,Drug,RxNorm,Branded Drug Comp
+19120843,FALSE,delete,hydrocortisone 10 MG/ML [Caldecort],20,20,S,NA,575290,Drug,RxNorm,Branded Drug Comp
+19120845,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Antibiotic-Cort Ear],20,20,S,NA,575295,Drug,RxNorm,Branded Drug Comp
+19121075,FALSE,delete,hydrocortisone 10 MG/ML [Theracort Anti-Itch],20,20,S,NA,576135,Drug,RxNorm,Branded Drug Comp
+19121101,FALSE,delete,hydrocortisone 0.01 MG/MG [Instacort],20,20,S,NA,576301,Drug,RxNorm,Branded Drug Comp
+19122088,FALSE,delete,hydrocortisone 5 MG/ML / lidocaine 30 MG/ML [Rectacreame],20,20,S,NA,584469,Drug,RxNorm,Branded Drug Comp
+19122656,FALSE,delete,hydrocortisone 0.0055 MG/MG,20,20,S,NA,603797,Drug,RxNorm,Clinical Drug Comp
+19122719,FALSE,delete,hydrocortisone 25 MG/ML [Proctocare-HC],20,20,S,NA,603953,Drug,RxNorm,Branded Drug Comp
+19122856,FALSE,delete,hydrocortisone 0.01 MG/MG [Cortaid],20,20,S,NA,604513,Drug,RxNorm,Branded Drug Comp
+19123032,FALSE,delete,hydrocortisone 0.01 MG/MG [Tucks HC],20,20,S,NA,605647,Drug,RxNorm,Branded Drug Comp
+19123117,FALSE,delete,hydrocortisone 0.02 MG/MG [Nuzon],20,20,S,NA,606792,Drug,RxNorm,Branded Drug Comp
+19124218,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 5 MG/ML / polymyxin B 10000 UNT/ML [AK-Spore HC],20,20,S,NA,631713,Drug,RxNorm,Branded Drug Comp
+19125226,FALSE,delete,hydrocortisone 0.1 MG/ML [Cortifoam],20,20,S,NA,669990,Drug,RxNorm,Branded Drug Comp
+19125539,FALSE,delete,bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [AK-Spore HC Ointment],20,20,S,NA,688661,Drug,RxNorm,Branded Drug Comp
+19125543,FALSE,delete,bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 5 UNT/MG [Cortisporin Ointment],20,20,S,NA,688702,Drug,RxNorm,Branded Drug Comp
+19125545,FALSE,delete,bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Cortomycin Ointment],20,20,S,NA,688706,Drug,RxNorm,Branded Drug Comp
+19125771,FALSE,delete,hydrocortisone 20 MG/ML / iodoquinol 10 MG/ML [Lodocortisone],20,20,S,NA,701126,Drug,RxNorm,Branded Drug Comp
+19126326,FALSE,delete,hydrocortisone 0.02 MG/MG / iodoquinol 0.01 MG/MG [Lodocort],20,20,S,NA,704945,Drug,RxNorm,Branded Drug Comp
+19126580,FALSE,delete,hydrocortisone 25 MG/ML [Proctocream],20,20,S,NA,706542,Drug,RxNorm,Branded Drug Comp
+19126788,FALSE,delete,hydrocortisone 10 MG/ML [Gynecort],20,20,S,NA,707791,Drug,RxNorm,Branded Drug Comp
+19129476,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Oticin HC],20,20,S,NA,763093,Drug,RxNorm,Branded Drug Comp
+19129988,FALSE,delete,hydrocortisone 0.01 MG/MG [Corticool],20,20,S,NA,795065,Drug,RxNorm,Branded Drug Comp
+19132093,TRUE,NA,hydrocortisone 25 MG/ML [Hydrocortone],20,20,S,NA,806525,Drug,RxNorm,Branded Drug Comp
+19132094,TRUE,NA,hydrocortisone 25 MG/ML Injectable Suspension [Hydrocortone],20,20,S,NA,806527,Drug,RxNorm,Branded Drug
+19132476,FALSE,delete,hydrocortisone 0.01 MG/MG [Xebcort],20,20,S,NA,808351,Drug,RxNorm,Branded Drug Comp
+19133287,TRUE,NA,hydrocortisone acetate 10 MG/ML,20,20,S,NA,828360,Drug,RxNorm,Clinical Drug Comp
+19133538,TRUE,NA,hydrocortisone 20 MG/ML [Scalacort],20,20,S,NA,830759,Drug,RxNorm,Branded Drug Comp
+19133827,FALSE,delete,hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Epifoam],20,20,S,NA,833508,Drug,RxNorm,Branded Drug Comp
+19135618,FALSE,delete,hydrocortisone 2.5 MG/ML [Balneol Cleanser],20,20,S,NA,849545,Drug,RxNorm,Branded Drug Comp
+35602897,FALSE,delete,hydrocortisone acetate 25 MG [Hemmorex],20,20,S,NA,1674194,Drug,RxNorm,Branded Drug Comp
+35602901,FALSE,delete,hydrocortisone acetate 30 MG [Hemmorex],20,20,S,NA,1674199,Drug,RxNorm,Branded Drug Comp
+35604728,TRUE,NA,hydrocortisone 1000 MG,20,20,S,NA,1738584,Drug,RxNorm,Clinical Drug Comp
+35604729,TRUE,NA,hydrocortisone Injection,20,20,S,NA,1738585,Drug,RxNorm,Clinical Drug Form
+35604730,TRUE,NA,hydrocortisone 1000 MG Injection,94,91,S,NA,1738586,Drug,RxNorm,Clinical Drug
+35604731,TRUE,NA,hydrocortisone 1000 MG [Solu-Cortef],20,20,S,NA,1738587,Drug,RxNorm,Branded Drug Comp
+35604732,TRUE,NA,hydrocortisone Injection [Solu-Cortef],20,20,S,NA,1738588,Drug,RxNorm,Branded Drug Form
+35604733,TRUE,NA,hydrocortisone 1000 MG Injection [Solu-Cortef],30,20,S,NA,1738589,Drug,RxNorm,Branded Drug
+35604734,TRUE,NA,hydrocortisone 250 MG Injection,3292,1221,S,NA,1738590,Drug,RxNorm,Clinical Drug
+35604735,TRUE,NA,hydrocortisone 250 MG [Solu-Cortef],20,20,S,NA,1738591,Drug,RxNorm,Branded Drug Comp
+35604736,TRUE,NA,hydrocortisone 250 MG Injection [Solu-Cortef],2014,941,S,NA,1738592,Drug,RxNorm,Branded Drug
+35604737,TRUE,NA,hydrocortisone 500 MG,20,20,S,NA,1738593,Drug,RxNorm,Clinical Drug Comp
+35604738,TRUE,NA,hydrocortisone 500 MG Injection,127,81,S,NA,1738594,Drug,RxNorm,Clinical Drug
+35604739,TRUE,NA,hydrocortisone 500 MG [Solu-Cortef],20,20,S,NA,1738595,Drug,RxNorm,Branded Drug Comp
+35604740,TRUE,NA,hydrocortisone 500 MG Injection [Solu-Cortef],76,57,S,NA,1738596,Drug,RxNorm,Branded Drug
+35604741,TRUE,NA,hydrocortisone 100 MG,20,20,S,NA,1738598,Drug,RxNorm,Clinical Drug Comp
+35604742,TRUE,NA,hydrocortisone 100 MG [Solu-Cortef],20,20,S,NA,1738600,Drug,RxNorm,Branded Drug Comp
+35604743,TRUE,NA,hydrocortisone 100 MG [A-Hydrocort],20,20,S,NA,1738602,Drug,RxNorm,Branded Drug Comp
+35604744,TRUE,NA,hydrocortisone Injection [A-Hydrocort],20,20,S,NA,1738603,Drug,RxNorm,Branded Drug Form
+35605214,TRUE,NA,hydrocortisone 25 MG/ML [Ala-Cort],20,20,S,NA,1729510,Drug,RxNorm,Branded Drug Comp
+35605221,FALSE,delete,hydrocortisone 10 MG/ML [Psoriasin Itch],20,20,S,NA,1739868,Drug,RxNorm,Branded Drug Comp
+37496942,FALSE,delete,hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Casporyn HC],20,20,S,NA,2201594,Drug,RxNorm,Branded Drug Comp
+40049686,TRUE,NA,hydrocortisone Injectable Solution,389,89,S,NA,370648,Drug,RxNorm,Clinical Drug Form
+40049688,TRUE,NA,hydrocortisone Injectable Solution [Efcortesol],20,20,S,NA,363566,Drug,RxNorm,Branded Drug Form
+40049691,TRUE,NA,hydrocortisone Injectable Suspension,20,20,S,NA,378635,Drug,RxNorm,Clinical Drug Form
+40049692,TRUE,NA,hydrocortisone Injectable Suspension [Hydrocortone Acetate],20,20,S,NA,365629,Drug,RxNorm,Branded Drug Form
+40049698,TRUE,NA,hydrocortisone Oral Suspension,20,20,S,NA,370647,Drug,RxNorm,Clinical Drug Form
+40049699,TRUE,NA,hydrocortisone Oral Suspension [Cortef],20,20,S,NA,365876,Drug,RxNorm,Branded Drug Form
+40049700,TRUE,NA,hydrocortisone Oral Tablet,20,20,S,NA,370649,Drug,RxNorm,Clinical Drug Form
+40049701,TRUE,NA,hydrocortisone Oral Tablet [Cortef],20,20,S,NA,369183,Drug,RxNorm,Branded Drug Form
+40049702,TRUE,NA,hydrocortisone Oral Tablet [Hydrocortone],20,20,S,NA,369182,Drug,RxNorm,Branded Drug Form
+40049705,FALSE,delete,hydrocortisone Paste,20,20,S,NA,374384,Drug,RxNorm,Clinical Drug Form
+40070430,FALSE,delete,hydrocortisone Oral Paste [Orabase HCA],20,20,S,NA,367443,Drug,RxNorm,Branded Drug Form
+40115558,FALSE,delete,hydrocortisone Oral Paste,20,20,S,NA,562299,Drug,RxNorm,Clinical Drug Form
+40139039,TRUE,NA,hydrocortisone Injectable Solution [Hydrocortone Phosphate],20,20,S,NA,701824,Drug,RxNorm,Branded Drug Form
+40153792,TRUE,NA,hydrocortisone Injectable Suspension [Hydrocortone],20,20,S,NA,806526,Drug,RxNorm,Branded Drug Form
+40163009,FALSE,delete,colistin 3 MG/ML / hydrocortisone 10 MG/ML / neomycin 3.3 MG/ML / thonzonium bromide 0.5 MG/ML [Coly Mycin S],20,20,S,NA,854994,Drug,RxNorm,Branded Drug Comp
+40163010,FALSE,delete,colistin 3 MG/ML / hydrocortisone 10 MG/ML / neomycin 3.3 MG/ML / thonzonium bromide 0.5 MG/ML [Cortisporin-TC],20,20,S,NA,854996,Drug,RxNorm,Branded Drug Comp
+40168005,FALSE,delete,hydrocortisone 20 MG/ML [Pediaderm HC],20,20,S,NA,877492,Drug,RxNorm,Branded Drug Comp
+40168724,FALSE,delete,hydrocortisone 20 MG/ML [Ala-Scalp],20,20,S,NA,884075,Drug,RxNorm,Branded Drug Comp
+40173027,FALSE,delete,hydrocortisone 0.005 MG/MG [Excel Pet],20,20,S,NA,900413,Drug,RxNorm,Branded Drug Comp
+40173039,FALSE,delete,hydrocortisone 5 MG/ML [Excel Pet],20,20,S,NA,900498,Drug,RxNorm,Branded Drug Comp
+40173040,FALSE,delete,hydrocortisone 5 MG/ML [Propet],20,20,S,NA,900407,Drug,RxNorm,Branded Drug Comp
+40184256,TRUE,NA,hydrocortisone 2.5 MG/ML [Sentry HC Dermasphere],20,20,S,NA,978952,Drug,RxNorm,Branded Drug Comp
+40220615,TRUE,NA,hydrocortisone acetate 20 MG/ML [MiCort-HC],20,20,S,NA,1809639,Drug,RxNorm,Branded Drug Comp
+40220660,TRUE,NA,hydrocortisone acetate 25 MG/ML [MiCort-HC],20,20,S,NA,1809844,Drug,RxNorm,Branded Drug Comp
+40223221,FALSE,delete,acyclovir 50 MG/ML / hydrocortisone 10 MG/ML [Xerese],20,20,S,NA,998424,Drug,RxNorm,Branded Drug Comp
+40223870,FALSE,delete,hydrocortisone 5 MG/ML / miconazole nitrate 20 MG/ML [Fungoid and HC],20,20,S,NA,998556,Drug,RxNorm,Branded Drug Comp
+40226537,FALSE,delete,hydrocortisone acetate 10 MG/ML / lidocaine hydrochloride 30 MG/ML [Peranex],20,20,S,NA,1012263,Drug,RxNorm,Branded Drug Comp
+40226539,TRUE,NA,hydrocortisone acetate 2 MG/ML,20,20,S,NA,1012361,Drug,RxNorm,Clinical Drug Comp
+40226541,TRUE,NA,hydrocortisone acetate 20 MG/ML,20,20,S,NA,1012232,Drug,RxNorm,Clinical Drug Comp
+40226547,FALSE,delete,hydrocortisone acetate 20 MG/ML / lidocaine hydrochloride 20 MG/ML [Ana-Lex],20,20,S,NA,1012325,Drug,RxNorm,Branded Drug Comp
+40226548,FALSE,delete,hydrocortisone acetate 20 MG/ML / lidocaine hydrochloride 20 MG/ML [Lidamantle HC],20,20,S,NA,1012247,Drug,RxNorm,Branded Drug Comp
+40226549,FALSE,delete,hydrocortisone acetate 20 MG/ML / lidocaine hydrochloride 20 MG/ML [Peranex],20,20,S,NA,1012265,Drug,RxNorm,Branded Drug Comp
+40226550,TRUE,NA,hydrocortisone acetate 5 MG/ML,20,20,S,NA,1012234,Drug,RxNorm,Clinical Drug Comp
+40226561,TRUE,NA,hydrocortisone acetate 5 MG/ML / lidocaine hydrochloride 30 MG/ML [Anamantle HC],20,20,S,NA,1012573,Drug,RxNorm,Branded Drug Comp
+40226562,FALSE,delete,hydrocortisone acetate 5 MG/ML / lidocaine hydrochloride 30 MG/ML [Lidamantle HC],20,20,S,NA,1012620,Drug,RxNorm,Branded Drug Comp
+40226563,FALSE,delete,hydrocortisone acetate 5 MG/ML / lidocaine hydrochloride 30 MG/ML [Lidazone],20,20,S,NA,1012347,Drug,RxNorm,Branded Drug Comp
+40226564,FALSE,delete,hydrocortisone acetate 5 MG/ML / lidocaine hydrochloride 30 MG/ML [Senatec HC],20,20,S,NA,1012610,Drug,RxNorm,Branded Drug Comp
+40226628,FALSE,delete,hydrocortisone acetate 0.00275 MG/MG,20,20,S,NA,1012215,Drug,RxNorm,Clinical Drug Comp
+40226630,FALSE,delete,hydrocortisone acetate 0.0055 MG/MG,20,20,S,NA,1012219,Drug,RxNorm,Clinical Drug Comp
+40226633,FALSE,delete,hydrocortisone acetate 0.0055 MG/MG / lidocaine hydrochloride 0.028 MG/MG [RectaGel],20,20,S,NA,1012310,Drug,RxNorm,Branded Drug Comp
+40226634,FALSE,delete,hydrocortisone acetate 0.01 MG/MG,20,20,S,NA,1013097,Drug,RxNorm,Clinical Drug Comp
+40226638,FALSE,delete,hydrocortisone acetate 0.025 MG/MG,20,20,S,NA,1012222,Drug,RxNorm,Clinical Drug Comp
+40226642,FALSE,delete,hydrocortisone acetate 0.025 MG/MG / lidocaine hydrochloride 0.03 MG/MG [Anamantle HC],20,20,S,NA,1012242,Drug,RxNorm,Branded Drug Comp
+40226643,FALSE,delete,hydrocortisone acetate 0.025 MG/MG / lidocaine hydrochloride 0.03 MG/MG [Lidocort],20,20,S,NA,1012566,Drug,RxNorm,Branded Drug Comp
+40226649,FALSE,delete,hydrocortisone acetate 10 MG/ML / lidocaine hydrochloride 30 MG/ML [Anamantle HC],20,20,S,NA,1012568,Drug,RxNorm,Branded Drug Comp
+40228300,FALSE,delete,hydrocortisone acetate 50 MG/ML,20,20,S,NA,1037327,Drug,RxNorm,Clinical Drug Comp
+40228301,TRUE,NA,hydrocortisone acetate 50 MG/ML Injectable Suspension,20,20,S,NA,1037328,Drug,RxNorm,Clinical Drug
+40228302,TRUE,NA,hydrocortisone acetate 50 MG/ML Injectable Suspension [Hydrocortone Acetate],20,20,S,NA,1037330,Drug,RxNorm,Branded Drug
+40228303,TRUE,NA,hydrocortisone acetate 50 MG/ML [Hydrocortone Acetate],20,20,S,NA,1037329,Drug,RxNorm,Branded Drug Comp
+40228390,TRUE,NA,hydrocortisone sodium phosphate 50 MG/ML,20,20,S,NA,1037337,Drug,RxNorm,Clinical Drug Comp
+40228391,TRUE,NA,hydrocortisone sodium phosphate 50 MG/ML Injectable Solution,912,314,S,NA,1037338,Drug,RxNorm,Clinical Drug
+40228392,TRUE,NA,hydrocortisone sodium phosphate 50 MG/ML Injectable Solution [Hydrocortone Phosphate],20,20,S,NA,1037340,Drug,RxNorm,Branded Drug
+40228393,TRUE,NA,hydrocortisone sodium phosphate 50 MG/ML [Hydrocortone Phosphate],20,20,S,NA,1037339,Drug,RxNorm,Branded Drug Comp
+40230688,TRUE,NA,hydrocortisone acetate 10 MG/ML [Vagisil Satin],20,20,S,NA,1039351,Drug,RxNorm,Branded Drug Comp
+40230690,FALSE,delete,hydrocortisone acetate 5 MG/ML / lidocaine hydrochloride 30 MG/ML [Rectacreme],20,20,S,NA,1045563,Drug,RxNorm,Branded Drug Comp
+40231132,FALSE,delete,hydrocortisone 10 MG/ML [Beta-HC],20,20,S,NA,1043072,Drug,RxNorm,Branded Drug Comp
+40231134,FALSE,delete,hydrocortisone 10 MG/ML [Maximum-H],20,20,S,NA,1039921,Drug,RxNorm,Branded Drug Comp
+40231136,FALSE,delete,hydrocortisone 10 MG/ML [Scalpicin Itch Relief],20,20,S,NA,1039271,Drug,RxNorm,Branded Drug Comp
+40232617,FALSE,delete,hydrocortisone 10 MG/ML [Keratol HC],20,20,S,NA,1050229,Drug,RxNorm,Branded Drug Comp
+40234558,FALSE,delete,hydrocortisone 10 MG/ML [Hydroskin],20,20,S,NA,1086948,Drug,RxNorm,Branded Drug Comp
+40237061,FALSE,delete,hydrocortisone acetate 23.5 MG/ML,20,20,S,NA,1094442,Drug,RxNorm,Clinical Drug Comp
+40237064,FALSE,delete,hydrocortisone acetate 23.5 MG/ML / pramoxine hydrochloride 10 MG/ML [Z-Pram],20,20,S,NA,1094445,Drug,RxNorm,Branded Drug Comp
+40239745,FALSE,delete,chlorcyclizine hydrochloride 20 MG/ML / hydrocortisone acetate 5 MG/ML [Mantadil],20,20,S,NA,1113059,Drug,RxNorm,Branded Drug Comp
+40240652,FALSE,delete,hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [PramCort],20,20,S,NA,1116501,Drug,RxNorm,Branded Drug Comp
+40240653,FALSE,delete,hydrocortisone acetate 18.5 MG/ML,20,20,S,NA,1114852,Drug,RxNorm,Clinical Drug Comp
+40240656,FALSE,delete,hydrocortisone acetate 18.5 MG/ML / pramoxine hydrochloride 11.5 MG/ML [Procort 1.85/1.15],20,20,S,NA,1115728,Drug,RxNorm,Branded Drug Comp
+40241221,FALSE,delete,bacitracin zinc 0.4 UNT/MG / hydrocortisone acetate 0.01 MG/MG / neomycin sulfate 0.0035 MG/MG / polymyxin B sulfate 10 UNT/MG [Neo-Polycin HC],20,20,S,NA,1116152,Drug,RxNorm,Branded Drug Comp
+40243304,FALSE,delete,aloe polysaccharide 0.01 MG/MG / hydrocortisone acetate 0.02 MG/MG / iodoquinol 0.01 MG/MG [Alcortin A],20,20,S,NA,1191377,Drug,RxNorm,Branded Drug Comp
+40243744,FALSE,delete,hydrocortisone acetate 0.02 MG/MG,20,20,S,NA,1191372,Drug,RxNorm,Clinical Drug Comp
+40243943,FALSE,delete,hydrocortisone 10 MG/ML [Monistat Itch Relief],20,20,S,NA,1190615,Drug,RxNorm,Branded Drug Comp
+40243957,FALSE,delete,hydrocortisone 0.01 MG/MG [Dermol HC],20,20,S,NA,1189832,Drug,RxNorm,Branded Drug Comp
+40243959,FALSE,delete,hydrocortisone 0.02 MG/MG / iodoquinol 0.01 MG/MG [Alcortin],20,20,S,NA,1191412,Drug,RxNorm,Branded Drug Comp
+42543959,FALSE,delete,hydrocortisone 10 MG/ML / ketoconazole 1.5 MG/ML [Malacetic],20,20,S,NA,2003647,Drug,RxNorm,Branded Drug Comp
+42629025,FALSE,delete,hydrocortisone 7.5 MG/ML,20,20,S,NA,1792288,Drug,RxNorm,Clinical Drug Comp
+42629545,FALSE,delete,hydrocortisone 25 MG/ML [Procto-Med],20,20,S,NA,1790681,Drug,RxNorm,Branded Drug Comp
+42705177,TRUE,NA,hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Enzone],20,20,S,NA,1233612,Drug,RxNorm,Branded Drug Comp
+42705230,FALSE,delete,hydrocortisone acetate 0.01 MG/MG / pramoxine hydrochloride 0.01 MG/MG [Pramosone],20,20,S,NA,1234319,Drug,RxNorm,Branded Drug Comp
+42705234,FALSE,delete,hydrocortisone acetate 0.025 MG/MG / pramoxine hydrochloride 0.01 MG/MG [Pramosone],20,20,S,NA,1234335,Drug,RxNorm,Branded Drug Comp
+42705245,FALSE,delete,hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Pramosone],20,20,S,NA,1234394,Drug,RxNorm,Branded Drug Comp
+42705263,TRUE,NA,hydrocortisone acetate 25 MG/ML,20,20,S,NA,1234505,Drug,RxNorm,Clinical Drug Comp
+42705264,FALSE,delete,hydrocortisone acetate 25 MG/ML / pramoxine hydrochloride 10 MG/ML [Pramosone],20,20,S,NA,1234507,Drug,RxNorm,Branded Drug Comp
+42705423,FALSE,delete,hydrocortisone acetate 0.01 MG/MG [Biocorneum],20,20,S,NA,1235744,Drug,RxNorm,Branded Drug Comp
+42706151,FALSE,delete,hydrocortisone aceponate 1.11 MG/ML,20,20,S,NA,1245240,Drug,RxNorm,Clinical Drug Comp
+42706833,TRUE,NA,hydrocortisone acetate 10 MG/ML [Carmol HC],20,20,S,NA,1250485,Drug,RxNorm,Branded Drug Comp
+42706834,TRUE,NA,hydrocortisone acetate 10 MG/ML [Corticaine],20,20,S,NA,1250487,Drug,RxNorm,Branded Drug Comp
+42706835,TRUE,NA,hydrocortisone acetate 5 MG/ML [Corticaine],20,20,S,NA,1250491,Drug,RxNorm,Branded Drug Comp
+42706836,TRUE,NA,hydrocortisone acetate 10 MG/ML [Hycort],20,20,S,NA,1250493,Drug,RxNorm,Branded Drug Comp
+42799483,FALSE,delete,clioquinol 30 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [1 Plus 1 F],20,20,S,NA,1293641,Drug,RxNorm,Branded Drug Comp
+42799746,FALSE,delete,hydrocortisone 25 MG/ML [Proctosol],20,20,S,NA,1291377,Drug,RxNorm,Branded Drug Comp
+42799748,TRUE,NA,hydrocortisone 5 MG/ML [Cortef],20,20,S,NA,1294110,Drug,RxNorm,Branded Drug Comp
+42799766,FALSE,delete,hydrocortisone 0.005 MG/MG [Cortaid],20,20,S,NA,1294114,Drug,RxNorm,Branded Drug Comp
+42800104,FALSE,delete,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Cortane-B],20,20,S,NA,1293875,Drug,RxNorm,Branded Drug Comp
+42800105,FALSE,delete,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Cortic],20,20,S,NA,1294243,Drug,RxNorm,Branded Drug Comp
+42800106,FALSE,delete,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Exotic-HC],20,20,S,NA,1294245,Drug,RxNorm,Branded Drug Comp
+42800107,FALSE,delete,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Oticin HC Ear Drops],20,20,S,NA,1294247,Drug,RxNorm,Branded Drug Comp
+42800108,FALSE,delete,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Otirx],20,20,S,NA,1294363,Drug,RxNorm,Branded Drug Comp
+42800109,FALSE,delete,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Otomax HC],20,20,S,NA,1294254,Drug,RxNorm,Branded Drug Comp
+42800110,FALSE,delete,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Tri-Otic],20,20,S,NA,1294263,Drug,RxNorm,Branded Drug Comp
+42800111,FALSE,delete,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Zotane HC],20,20,S,NA,1294265,Drug,RxNorm,Branded Drug Comp
+42800112,FALSE,delete,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Zoto-HC],20,20,S,NA,1293892,Drug,RxNorm,Branded Drug Comp
+42800171,FALSE,delete,hydrocortisone acetate 23.5 MG/ML / pramoxine hydrochloride 10 MG/ML [ZyPram],20,20,S,NA,1293747,Drug,RxNorm,Branded Drug Comp
+42800172,TRUE,NA,hydrocortisone acetate 25 MG,20,20,S,NA,1291081,Drug,RxNorm,Clinical Drug Comp
+42800179,FALSE,delete,hydrocortisone acetate 25 MG [Anucort-HC],20,20,S,NA,1291100,Drug,RxNorm,Branded Drug Comp
+42800180,FALSE,delete,hydrocortisone acetate 25 MG [Anusol HC],20,20,S,NA,1291102,Drug,RxNorm,Branded Drug Comp
+42800181,FALSE,delete,hydrocortisone acetate 25 MG [Cort-Dome],20,20,S,NA,1291289,Drug,RxNorm,Branded Drug Comp
+42800182,FALSE,delete,hydrocortisone acetate 25 MG [Hemril],20,20,S,NA,1291373,Drug,RxNorm,Branded Drug Comp
+42800183,FALSE,delete,hydrocortisone acetate 25 MG [Proctosol],20,20,S,NA,1291381,Drug,RxNorm,Branded Drug Comp
+42800185,TRUE,NA,hydrocortisone acetate 30 MG,20,20,S,NA,1291084,Drug,RxNorm,Clinical Drug Comp
+42800191,FALSE,delete,hydrocortisone acetate 30 MG [Encort],20,20,S,NA,1291273,Drug,RxNorm,Branded Drug Comp
+42800192,FALSE,delete,hydrocortisone acetate 30 MG [Hemril],20,20,S,NA,1291087,Drug,RxNorm,Branded Drug Comp
+42800193,FALSE,delete,hydrocortisone acetate 30 MG [Proctocort],20,20,S,NA,1291091,Drug,RxNorm,Branded Drug Comp
+42800194,FALSE,delete,hydrocortisone acetate 30 MG [Proctosert HC],20,20,S,NA,1291095,Drug,RxNorm,Branded Drug Comp
+42800218,FALSE,delete,hydrocortisone acetate 0.005 MG/MG,20,20,S,NA,1294011,Drug,RxNorm,Clinical Drug Comp
+42800224,FALSE,delete,hydrocortisone acetate 0.02 MG/MG / pramoxine hydrochloride 0.01 MG/MG [Hydropramox],20,20,S,NA,1293655,Drug,RxNorm,Branded Drug Comp
+42800225,FALSE,delete,hydrocortisone acetate 0.02 MG/MG / pramoxine hydrochloride 0.01 MG/MG [Novacort],20,20,S,NA,1293728,Drug,RxNorm,Branded Drug Comp
+42800230,FALSE,delete,hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [ProctoCream-HC],20,20,S,NA,1293730,Drug,RxNorm,Branded Drug Comp
+42800727,FALSE,delete,diphenhydramine hydrochloride 5 MG/ML / hydrocortisone 5 MG/ML [HC Derma-Pax],20,20,S,NA,1297951,Drug,RxNorm,Branded Drug Comp
+42900501,FALSE,delete,hydrocortisone acetate 5 MG/ML [Rhulicort],20,20,S,NA,1310642,Drug,RxNorm,Branded Drug Comp
+42901134,FALSE,delete,hydrocortisone 10 MG/ML [Kera-HC],20,20,S,NA,1314929,Drug,RxNorm,Branded Drug Comp
+42901550,FALSE,delete,hydrocortisone acetate 23 MG/ML,20,20,S,NA,1359149,Drug,RxNorm,Clinical Drug Comp
+43011452,FALSE,delete,hydrocortisone acetate 10 MG/ML [U-Cort],20,20,S,NA,1360948,Drug,RxNorm,Branded Drug Comp
+43011453,FALSE,delete,hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Analpram HC],20,20,S,NA,1360950,Drug,RxNorm,Branded Drug Comp
+43011454,FALSE,delete,hydrocortisone acetate 25 MG/ML / pramoxine hydrochloride 10 MG/ML [Analpram HC],20,20,S,NA,1360955,Drug,RxNorm,Branded Drug Comp
+43013655,FALSE,delete,hydrocortisone butyrate 0.001 MG/MG,20,20,S,NA,1370757,Drug,RxNorm,Clinical Drug Comp
+43013658,FALSE,delete,hydrocortisone butyrate 0.001 MG/MG [Locoid],20,20,S,NA,1370759,Drug,RxNorm,Branded Drug Comp
+43013659,FALSE,delete,hydrocortisone butyrate 1 MG/ML,20,20,S,NA,1370762,Drug,RxNorm,Clinical Drug Comp
+43013666,FALSE,delete,hydrocortisone butyrate 1 MG/ML [Locoid],20,20,S,NA,1370764,Drug,RxNorm,Branded Drug Comp
+43014077,FALSE,delete,hydrocortisone probutate 1 MG/ML,20,20,S,NA,1370745,Drug,RxNorm,Clinical Drug Comp
+43014080,FALSE,delete,hydrocortisone probutate 1 MG/ML [Pandel],20,20,S,NA,1370747,Drug,RxNorm,Branded Drug Comp
+43014086,FALSE,delete,hydrocortisone valerate 0.002 MG/MG,20,20,S,NA,1370749,Drug,RxNorm,Clinical Drug Comp
+43014089,FALSE,delete,hydrocortisone valerate 0.002 MG/MG [Westcort],20,20,S,NA,1370751,Drug,RxNorm,Branded Drug Comp
+43014090,FALSE,delete,hydrocortisone valerate 2 MG/ML,20,20,S,NA,1370753,Drug,RxNorm,Clinical Drug Comp
+43014093,FALSE,delete,hydrocortisone valerate 2 MG/ML [Westcort],20,20,S,NA,1370755,Drug,RxNorm,Branded Drug Comp
+43525625,FALSE,delete,hydrocortisone acetate 0.01 MG/MG [Cortisil MDX],20,20,S,NA,1373236,Drug,RxNorm,Branded Drug Comp
+43532628,FALSE,delete,hydrocortisone acetate 25 MG [Rectacort-HC],20,20,S,NA,1429376,Drug,RxNorm,Branded Drug Comp
+43560721,FALSE,delete,hydrocortisone acetate 19 MG/ML,20,20,S,NA,1436946,Drug,RxNorm,Clinical Drug Comp
+43560724,FALSE,delete,hydrocortisone acetate 19 MG/ML / iodoquinol 10 MG/ML [Vytone],20,20,S,NA,1436948,Drug,RxNorm,Branded Drug Comp
+44506401,FALSE,delete,hydrocortisone acetate 5 MG/ML [Gadaderm Hydrocortisone],20,20,S,NA,1438753,Drug,RxNorm,Branded Drug Comp
+44507503,TRUE,NA,clioquinol 30 MG/ML / hydrocortisone 5 MG/ML [Dermasorb AF],20,20,S,NA,1442845,Drug,RxNorm,Branded Drug Comp
+44507847,FALSE,delete,hydrocortisone 20 MG/ML [Dermasorb HC],20,20,S,NA,1442868,Drug,RxNorm,Branded Drug Comp
+44784836,FALSE,delete,hydrocortisone 10 MG/ML [Dermacool HC],20,20,S,NA,1483215,Drug,RxNorm,Branded Drug Comp
+44784837,FALSE,delete,hydrocortisone 10 MG/ML [Resicort],20,20,S,NA,1483220,Drug,RxNorm,Branded Drug Comp
+44814308,FALSE,delete,hydrocortisone 0.01 MG/MG [Hemorrodil Plus],20,20,S,NA,1491719,Drug,RxNorm,Branded Drug Comp
+45774728,FALSE,delete,hydrocortisone acetate 100 MG/ML,20,20,S,NA,1545171,Drug,RxNorm,Clinical Drug Comp
+45774730,FALSE,delete,hydrocortisone acetate 100 MG/ML [Cortifoam],20,20,S,NA,1545173,Drug,RxNorm,Branded Drug Comp
+45775905,FALSE,delete,bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Vetropolycin HC],20,20,S,NA,1541112,Drug,RxNorm,Branded Drug Comp
+45776281,FALSE,delete,hydrocortisone acetate 0.02 MG/MG [CortAlo],20,20,S,NA,1542797,Drug,RxNorm,Branded Drug Comp
+45776286,FALSE,delete,hydrocortisone acetate 5 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Cortisporin],20,20,S,NA,1542805,Drug,RxNorm,Branded Drug Comp
+45776377,FALSE,delete,hydrocortisone acetate 0.015 MG/MG,20,20,S,NA,1542924,Drug,RxNorm,Clinical Drug Comp
+45776611,FALSE,delete,benzocaine 15 MG/ML / chloroxylenol 1 MG/ML / hydrocortisone acetate 10 MG/ML [Myoxin],20,20,S,NA,1549398,Drug,RxNorm,Branded Drug Comp
+45776615,FALSE,delete,benzocaine 15 MG/ML / chloroxylenol 1 MG/ML / hydrocortisone acetate 10 MG/ML [TriOxin],20,20,S,NA,1549402,Drug,RxNorm,Branded Drug Comp
+45776722,TRUE,NA,hydrocortisone acetate 15 MG/ML,20,20,S,NA,1549473,Drug,RxNorm,Clinical Drug Comp
+46233830,FALSE,delete,hydrocortisone 10 MG/ML [Selsun Blue Scalp Itch],20,20,S,NA,1650985,Drug,RxNorm,Branded Drug Comp
+46287708,FALSE,delete,hydrocortisone 10 MG/ML [Blue-Emu Anti-Itch],20,20,S,NA,1664356,Drug,RxNorm,Branded Drug Comp
