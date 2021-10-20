@@ -106,6 +106,10 @@ ds <-
     keep_entry_in_codeset =
       dplyr::case_when(
         regex("\\bnasal\\b"            , concept_name) ~ "TRUE",
+        regex("\\bflonase\\b"          , concept_name) ~ "TRUE",
+        regex("\\bflovent\\b"          , concept_name) ~ "TRUE",
+        regex("\\bfluticasone\\b"      , concept_name) ~ "TRUE",
+
         regex("\\btopical\\b"          , concept_name) ~ "FALSE",
         regex("\\binject"              , concept_name) ~ "FALSE",
         regex("\\binhal"               , concept_name) ~ "FALSE",
@@ -122,6 +126,8 @@ ds <-
         regex("\\brectal\\b"           , concept_name) ~ "FALSE",
         regex(   "derm\\b"             , concept_name) ~ "FALSE",
         regex("\\bsinuva\\b"           , concept_name) ~ "FALSE",
+        regex("\\bzytopic\\b"          , concept_name) ~ "FALSE",
+
         TRUE                                           ~ "--"
     )
   )
@@ -137,6 +143,17 @@ ds <-
 ds <-
   ds |>
   dplyr::left_join(ds_concept_count, by = "concept_id")
+
+
+table(ds$keep_entry_in_codeset)
+
+ds |>
+  dplyr::group_by(keep_entry_in_codeset) |>
+  dplyr::summarize(
+    condition_count = sum(condition_count, na.rm = T),
+    patient_count   = sum(patient_count  , na.rm = T),
+  ) |>
+  dplyr::ungroup()
 
 # ---- verify-values -----------------------------------------------------------
 # OuhscMunge::verify_value_headstart(ds)
