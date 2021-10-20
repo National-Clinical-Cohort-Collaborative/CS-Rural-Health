@@ -40,6 +40,15 @@ col_types <- readr::cols_only(
   # valid_start_date           = readr::col_date("%Y%m%d"),
   # valid_end_date	           = readr::col_date("%Y%m%d"),
 )
+
+
+# OuhscMunge::readr_spec_aligned(config$path_concept_counts)
+col_types_concept_count <- readr::cols_only(
+  `concept_id`        = readr::col_integer(),
+  `condition_count`   = readr::col_integer(),
+  `patient_count`     = readr::col_integer()
+)
+
 # sql <-
 #   "
 #     SELECT
@@ -69,6 +78,10 @@ regex <- function (pattern, variable) {
 # ds            <- DBI::dbGetQuery(cnn_warehouse, sql)
 # DBI::dbDisconnect(cnn_warehouse); rm(cnn_warehouse, sql)
 ds <- readr::read_csv(path_in, col_types = col_types)
+
+ds_concept_count <- readr::read_csv(config$path_concept_counts, col_types = col_types_concept_count)
+
+rm(col_types_concept_count)
 
 # ---- tweak-data --------------------------------------------------------------
 # OuhscMunge::column_rename_headstart(ds) # Help write `dplyr::select()` call.
@@ -120,12 +133,18 @@ ds <-
 # )
 
 
+# ---- join-with-counts --------------------------------------------------------
+ds <-
+  ds |>
+  dplyr::left_join(ds_concept_count, by = "concept_id")
 
 # ---- verify-values -----------------------------------------------------------
 # OuhscMunge::verify_value_headstart(ds)
 checkmate::assert_integer(  ds$concept_id               , any.missing=F , lower=config$omop_concept_min, upper=config$omop_concept_local , unique=T)
-checkmate::assert_character(ds$keep_entry_in_codeset    , any.missing=F  , pattern="^TRUE|FALSE|--$"   )
-# checkmate::assert_character(ds$comments                 , any.missing=T , pattern="^.{NA,NA}$"         )
+checkmate::assert_character(ds$keep_entry_in_codeset    , any.missing=F , pattern="^TRUE|FALSE|--$"   )
+checkmate::assert_character(ds$comments                 , any.missing=T , pattern="^.{1,255}$"         )
+checkmate::assert_integer(  ds$condition_count          , any.missing=T , lower=20, upper=9999999      )
+checkmate::assert_integer(  ds$patient_count            , any.missing=T , lower=20, upper= 999999      )
 checkmate::assert_character(ds$concept_name             , any.missing=F , pattern="^.{2,255}$"        , unique=T)
 checkmate::assert_character(ds$standard_concept         , any.missing=F , pattern="^S$"                )
 checkmate::assert_character(ds$invalid_reason           , any.missing=F , pattern="^NULL$"             )
@@ -150,6 +169,8 @@ ds_slim <-
     concept_name             ,
     keep_entry_in_codeset    ,
     comments                 ,
+    condition_count,
+    patient_count,
     # standard_concept         , # Always "S"; add this column back if needed
     # invalid_reason           , # Always "NULL"; add this column back if needed
     concept_code             ,

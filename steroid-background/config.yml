@@ -6,6 +6,8 @@ default:
     directory_codeset_output_template: "concept-sets/%s.json"
     directory_codeset_output_try1      : "concept-sets/try-1.json"
 
+    path_concept_counts         : "data-public/metadata/concept-steroid-count.csv"
+
     # Central Database (a cache of the OMOP concept table).
     path_database:            "data-unshared/db.sqlite3"
 
