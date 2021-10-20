@@ -142,9 +142,9 @@ ds_slim <-
   ds |>
   # dplyr::slice(1:100) |>
   dplyr::select(
-
     concept_id               ,
     concept_name             ,
+    keep_entry_in_codeset    ,
     comments                 ,
     standard_concept         ,
     invalid_reason           ,
