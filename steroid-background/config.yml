@@ -10,3 +10,9 @@ default:
     path_database:            "data-unshared/db.sqlite3"
 
     path_log_flow:            !expr strftime(Sys.time(), "data-unshared/log/%Y/%Y-%m/flow-%Y-%m-%d--%H-%M-%S.log")
+
+
+    # ---- Validation Ranges & Patterns ----
+    omop_concept_min              : 0
+    omop_concept_local            : 2000000000
+    omop_concept_max              : 2147483647

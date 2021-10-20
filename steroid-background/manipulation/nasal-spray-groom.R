@@ -109,8 +109,7 @@ ds <-
         grepl('\\bsinuva\\b',  concept_name, ignore.case = T) ~ FALSE,
         TRUE                                                  ~ TRUE
     )
-  ) |>
-  dplyr::filter(keep_entry_in_codeset)
+  )
 
 # dplyr::mutate(
 #   concept_name  = iconv(concept_name,"WINDOWS-1252","UTF-8")
@@ -120,16 +119,16 @@ ds <-
 
 # ---- verify-values -----------------------------------------------------------
 # OuhscMunge::verify_value_headstart(ds)
-checkmate::assert_integer(  ds$concept_id               , any.missing=F , lower=789931, upper=46287627 , unique=T)
+checkmate::assert_integer(  ds$concept_id               , any.missing=F , lower=config$omop_concept_min, upper=config$omop_concept_local , unique=T)
 checkmate::assert_logical(  ds$keep_entry_in_codeset    , any.missing=F                                )
 # checkmate::assert_character(ds$comments                 , any.missing=T , pattern="^.{NA,NA}$"         )
-checkmate::assert_character(ds$concept_name             , any.missing=F , pattern="^.{10,115}$"        , unique=T)
-checkmate::assert_character(ds$standard_concept         , any.missing=F , pattern="^.{1,1}$"           )
-checkmate::assert_character(ds$invalid_reason           , any.missing=F , pattern="^.{4,4}$"           )
+checkmate::assert_character(ds$concept_name             , any.missing=F , pattern="^.{2,255}$"        , unique=T)
+checkmate::assert_character(ds$standard_concept         , any.missing=F , pattern="^S$"                )
+checkmate::assert_character(ds$invalid_reason           , any.missing=F , pattern="^NULL$"             )
 checkmate::assert_numeric(  ds$concept_code             , any.missing=F , lower=1, upper=40000000   , unique=T)
-checkmate::assert_character(ds$domain_id                , any.missing=F , pattern="^.{4,4}$"           )
-checkmate::assert_character(ds$vocabulary_id            , any.missing=F , pattern="^.{6,6}$"           )
-checkmate::assert_character(ds$concept_class_id         , any.missing=F , pattern="^.{10,18}$"         )
+checkmate::assert_character(ds$domain_id                , any.missing=F , pattern="^Drug$"             )
+checkmate::assert_character(ds$vocabulary_id            , any.missing=F , pattern="^RxNorm$"           )
+checkmate::assert_character(ds$concept_class_id         , any.missing=F , pattern="^.{10,25}$"         )
 
 
 # ---- specify-columns-to-upload -----------------------------------------------
