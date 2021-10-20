@@ -32,7 +32,7 @@ col_types <- readr::cols_only(
   standard_concept_caption   = readr::col_character(),
   invalid_reason             = readr::col_character(),
   invalid_reason_caption     = readr::col_character(),
-  concept_code               = readr::col_number(),
+  concept_code               = readr::col_integer(),
   domain_id	                 = readr::col_character(),
   vocabulary_id	             = readr::col_character(),
   concept_class_id           = readr::col_character(),
@@ -148,7 +148,7 @@ checkmate::assert_integer(  ds$patient_count            , any.missing=T , lower=
 checkmate::assert_character(ds$concept_name             , any.missing=F , pattern="^.{2,255}$"        , unique=T)
 checkmate::assert_character(ds$standard_concept         , any.missing=F , pattern="^S$"                )
 checkmate::assert_character(ds$invalid_reason           , any.missing=F , pattern="^NULL$"             )
-checkmate::assert_numeric(  ds$concept_code             , any.missing=F , lower=1, upper=40000000   , unique=T)
+checkmate::assert_integer(  ds$concept_code             , any.missing=F , lower=1, upper=40000000   , unique=T)
 checkmate::assert_character(ds$domain_id                , any.missing=F , pattern="^Drug$"             )
 checkmate::assert_character(ds$vocabulary_id            , any.missing=F , pattern="^RxNorm$"           )
 checkmate::assert_character(ds$concept_class_id         , any.missing=F , pattern="^.{10,25}$"         )
