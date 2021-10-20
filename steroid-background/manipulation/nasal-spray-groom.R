@@ -58,6 +58,9 @@ col_types <- readr::cols_only(
 #       domain_id in ('drug')
 #     ORDER BY concept_id;
 #   "
+regex <- function (pattern, variable) {
+  grepl(pattern, variable, ignore.case = TRUE)
+}
 
 
 # ---- load-data ---------------------------------------------------------------
@@ -66,7 +69,6 @@ col_types <- readr::cols_only(
 # ds            <- DBI::dbGetQuery(cnn_warehouse, sql)
 # DBI::dbDisconnect(cnn_warehouse); rm(cnn_warehouse, sql)
 ds <- readr::read_csv(path_in, col_types = col_types)
-
 
 # ---- tweak-data --------------------------------------------------------------
 # OuhscMunge::column_rename_headstart(ds) # Help write `dplyr::select()` call.
@@ -90,24 +92,24 @@ ds <-
   dplyr::mutate(
     keep_entry_in_codeset =
       dplyr::case_when(
-        grepl('\\bnasal\\b',   concept_name, ignore.case = T) ~ TRUE,
-        grepl('\\btopical\\b', concept_name, ignore.case = T) ~ FALSE,
-        grepl('\\binject',     concept_name, ignore.case = T) ~ FALSE,
-        grepl('\\binhal',      concept_name, ignore.case = T) ~ FALSE,
-        grepl('\\boral',       concept_name, ignore.case = T) ~ FALSE,
-        grepl('\\btablet\\b',  concept_name, ignore.case = T) ~ FALSE,
-        grepl('\\bcream\\b',   concept_name, ignore.case = T) ~ FALSE,
-        grepl('\\bophthalmic\\b',concept_name,ignore.case= T) ~ FALSE,
-        grepl('\\beye\\b',     concept_name, ignore.case = T) ~ FALSE,
-        grepl('\\benema\\b',   concept_name, ignore.case = T) ~ FALSE,
-        grepl('\\botic\\b',    concept_name, ignore.case = T) ~ FALSE,
-        grepl('\\bsyringe\\b', concept_name, ignore.case = T) ~ FALSE,
-        grepl('\\bimplant\\b', concept_name, ignore.case = T) ~ FALSE,
-        grepl('\\bpaste\\b',   concept_name, ignore.case = T) ~ FALSE,
-        grepl('\\brectal\\b',  concept_name, ignore.case = T) ~ FALSE,
-        grepl(   'derm\\b',    concept_name, ignore.case = T) ~ FALSE,
-        grepl('\\bsinuva\\b',  concept_name, ignore.case = T) ~ FALSE,
-        TRUE                                                  ~ TRUE
+        regex("\\bnasal\\b"            , concept_name) ~ TRUE,
+        regex("\\btopical\\b"          , concept_name) ~ FALSE,
+        regex("\\binject"              , concept_name) ~ FALSE,
+        regex("\\binhal"               , concept_name) ~ FALSE,
+        regex("\\boral"                , concept_name) ~ FALSE,
+        regex("\\btablet\\b"           , concept_name) ~ FALSE,
+        regex("\\bcream\\b"            , concept_name) ~ FALSE,
+        regex("\\bophthalmic\\b"       , concept_name) ~ FALSE,
+        regex("\\beye\\b"              , concept_name) ~ FALSE,
+        regex("\\benema\\b"            , concept_name) ~ FALSE,
+        regex("\\botic\\b"             , concept_name) ~ FALSE,
+        regex("\\bsyringe\\b"          , concept_name) ~ FALSE,
+        regex("\\bimplant\\b"          , concept_name) ~ FALSE,
+        regex("\\bpaste\\b"            , concept_name) ~ FALSE,
+        regex("\\brectal\\b"           , concept_name) ~ FALSE,
+        regex(   "derm\\b"             , concept_name) ~ FALSE,
+        regex("\\bsinuva\\b"           , concept_name) ~ FALSE,
+        TRUE                                           ~ TRUE
     )
   )
 
