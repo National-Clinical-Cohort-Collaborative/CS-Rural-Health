@@ -1,26 +1,26 @@
-concept_id,keep_entry_in_codeset,comments,concept_name,standard_concept,standard_concept_caption,invalid_reason,invalid_reason_caption,concept_code,domain_id,vocabulary_id,concept_class_id
-1518254,TRUE,,dexamethasone,S,,NULL,,3264,Drug,RxNorm,Ingredient
-1518258,TRUE,,dexamethasone 0.5 MG Oral Tablet,S,,NULL,,197577,Drug,RxNorm,Clinical Drug
-1518261,TRUE,,dexamethasone 2 MG Oral Tablet,S,,NULL,,197581,Drug,RxNorm,Clinical Drug
-1518491,TRUE,,dexamethasone 0.2 MG/ML Oral Solution,S,,NULL,,242882,Drug,RxNorm,Clinical Drug
-1518603,TRUE,,dexamethasone 0.1 MG/ML,S,,NULL,,315773,Drug,RxNorm,Clinical Drug Comp
-1518605,TRUE,,dexamethasone 0.5 MG,S,,NULL,,315775,Drug,RxNorm,Clinical Drug Comp
-1518610,TRUE,,dexamethasone 2 MG,S,,NULL,,317346,Drug,RxNorm,Clinical Drug Comp
-1518611,TRUE,,dexamethasone 1 MG/ML,S,,NULL,,317629,Drug,RxNorm,Clinical Drug Comp
-1518644,TRUE,,dexamethasone 0.4 MG/ML,S,,NULL,,328743,Drug,RxNorm,Clinical Drug Comp
-1518684,TRUE,,dexamethasone 0.4 MG,S,,NULL,,332984,Drug,RxNorm,Clinical Drug Comp
-1518687,TRUE,,dexamethasone 0.2 MG/ML,S,,NULL,,333673,Drug,RxNorm,Clinical Drug Comp
-1518851,TRUE,,dexamethasone 0.1 MG/ML Oral Solution [Decadron],S,,NULL,,755976,Drug,RxNorm,Branded Drug
-1518872,TRUE,,dexamethasone 0.1 MG/ML Oral Solution [Hexadrol],S,,NULL,,755977,Drug,RxNorm,Branded Drug
-19006962,TRUE,,dexamethasone 0.5 MG Oral Tablet [Decadron],S,,NULL,,105392,Drug,RxNorm,Branded Drug
-19010639,TRUE,,dexamethasone 0.4 MG/ML Oral Solution,S,,NULL,,108882,Drug,RxNorm,Clinical Drug
-19029973,TRUE,,dexamethasone 1 MG/ML Oral Solution [Dexamethasone Intensol],S,,NULL,,205702,Drug,RxNorm,Branded Drug
-19076135,TRUE,,dexamethasone 1 MG/ML Oral Solution,S,,NULL,,309684,Drug,RxNorm,Clinical Drug
-19076136,TRUE,,dexamethasone 0.1 MG/ML Oral Solution,S,,NULL,,309686,Drug,RxNorm,Clinical Drug
-19103651,TRUE,,dexamethasone 0.4 MG Oral Capsule,S,,NULL,,411225,Drug,RxNorm,Clinical Drug
-19105671,TRUE,,dexamethasone 0.5 MG/ML Oral Solution,S,,NULL,,422009,Drug,RxNorm,Clinical Drug
-19109493,TRUE,,dexamethasone 0.5 MG/ML,S,,NULL,,438889,Drug,RxNorm,Clinical Drug Comp
-40028598,TRUE,,dexamethasone Oral Capsule,S,,NULL,,438882,Drug,RxNorm,Clinical Drug Form
-40028599,TRUE,,dexamethasone Oral Solution,S,,NULL,,371728,Drug,RxNorm,Clinical Drug Form
-40028601,TRUE,,dexamethasone Oral Tablet,S,,NULL,,371729,Drug,RxNorm,Clinical Drug Form
-40173366,TRUE,,dexamethasone 0.1 MG/ML Oral Solution [Baycadron],S,,NULL,,901649,Drug,RxNorm,Branded Drug
+concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_count,standard_concept,invalid_reason,concept_code,domain_id,vocabulary_id,concept_class_id
+1518254,dexamethasone,TRUE,NA,NA,NA,S,NA,3264,Drug,RxNorm,Ingredient
+1518258,dexamethasone 0.5 MG Oral Tablet,TRUE,NA,NA,NA,S,NA,197577,Drug,RxNorm,Clinical Drug
+1518261,dexamethasone 2 MG Oral Tablet,TRUE,NA,NA,NA,S,NA,197581,Drug,RxNorm,Clinical Drug
+1518491,dexamethasone 0.2 MG/ML Oral Solution,TRUE,NA,NA,NA,S,NA,242882,Drug,RxNorm,Clinical Drug
+1518603,dexamethasone 0.1 MG/ML,TRUE,NA,NA,NA,S,NA,315773,Drug,RxNorm,Clinical Drug Comp
+1518605,dexamethasone 0.5 MG,TRUE,NA,NA,NA,S,NA,315775,Drug,RxNorm,Clinical Drug Comp
+1518610,dexamethasone 2 MG,TRUE,NA,NA,NA,S,NA,317346,Drug,RxNorm,Clinical Drug Comp
+1518611,dexamethasone 1 MG/ML,TRUE,NA,NA,NA,S,NA,317629,Drug,RxNorm,Clinical Drug Comp
+1518644,dexamethasone 0.4 MG/ML,TRUE,NA,NA,NA,S,NA,328743,Drug,RxNorm,Clinical Drug Comp
+1518684,dexamethasone 0.4 MG,TRUE,NA,NA,NA,S,NA,332984,Drug,RxNorm,Clinical Drug Comp
+1518687,dexamethasone 0.2 MG/ML,TRUE,NA,NA,NA,S,NA,333673,Drug,RxNorm,Clinical Drug Comp
+1518851,dexamethasone 0.1 MG/ML Oral Solution [Decadron],TRUE,NA,NA,NA,S,NA,755976,Drug,RxNorm,Branded Drug
+1518872,dexamethasone 0.1 MG/ML Oral Solution [Hexadrol],TRUE,NA,NA,NA,S,NA,755977,Drug,RxNorm,Branded Drug
+19006962,dexamethasone 0.5 MG Oral Tablet [Decadron],TRUE,NA,NA,NA,S,NA,105392,Drug,RxNorm,Branded Drug
+19010639,dexamethasone 0.4 MG/ML Oral Solution,TRUE,NA,NA,NA,S,NA,108882,Drug,RxNorm,Clinical Drug
+19029973,dexamethasone 1 MG/ML Oral Solution [Dexamethasone Intensol],TRUE,NA,NA,NA,S,NA,205702,Drug,RxNorm,Branded Drug
+19076135,dexamethasone 1 MG/ML Oral Solution,TRUE,NA,NA,NA,S,NA,309684,Drug,RxNorm,Clinical Drug
+19076136,dexamethasone 0.1 MG/ML Oral Solution,TRUE,NA,NA,NA,S,NA,309686,Drug,RxNorm,Clinical Drug
+19103651,dexamethasone 0.4 MG Oral Capsule,TRUE,NA,NA,NA,S,NA,411225,Drug,RxNorm,Clinical Drug
+19105671,dexamethasone 0.5 MG/ML Oral Solution,TRUE,NA,NA,NA,S,NA,422009,Drug,RxNorm,Clinical Drug
+19109493,dexamethasone 0.5 MG/ML,TRUE,NA,NA,NA,S,NA,438889,Drug,RxNorm,Clinical Drug Comp
+40028598,dexamethasone Oral Capsule,TRUE,NA,NA,NA,S,NA,438882,Drug,RxNorm,Clinical Drug Form
+40028599,dexamethasone Oral Solution,TRUE,NA,NA,NA,S,NA,371728,Drug,RxNorm,Clinical Drug Form
+40028601,dexamethasone Oral Tablet,TRUE,NA,NA,NA,S,NA,371729,Drug,RxNorm,Clinical Drug Form
+40173366,dexamethasone 0.1 MG/ML Oral Solution [Baycadron],TRUE,NA,NA,NA,S,NA,901649,Drug,RxNorm,Branded Drug
