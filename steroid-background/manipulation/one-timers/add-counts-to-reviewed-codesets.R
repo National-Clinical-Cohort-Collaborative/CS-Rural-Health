@@ -82,7 +82,6 @@ DBI::dbDisconnect(cnn); rm(cnn, sql_lu)
 ds_concept_count <- readr::read_csv(config$path_concept_counts, col_types = col_types_concept_count)
 rm(col_types_concept_count)
 
-
 # ---- loop-io -----------------------------------------------------------------
 # Read each file, add the extra columns, then write back to the same file
 
@@ -127,5 +126,5 @@ for (p in paths) {
   checkmate::assert_character(d$vocabulary_id            , any.missing=F , pattern="^ATC|RxNorm(?: Extension)?$"      )
   checkmate::assert_character(d$concept_class_id         , any.missing=F , pattern="^.{5,50}$"     )
 
-  readr::write_csv(d, p)
+  readr::write_csv(d, p, na = "")
 }
