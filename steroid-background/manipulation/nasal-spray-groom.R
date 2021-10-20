@@ -158,4 +158,4 @@ ds_slim <-
 # ds_slim
 
 # ---- save-to-db --------------------------------------------------------------
-write.csv(ds_slim, file = "./concept-sets/input/pre-reviewed/nasal-spray-keyword-cleaned.csv")
+readr::write_csv(ds_slim, "concept-sets/input/pre-reviewed/nasal-spray-keyword-cleaned.csv")
