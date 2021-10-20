@@ -15,15 +15,15 @@ OMOP Codesets, Propensity Scoring, Multiple Imputation, SparkSQL, R
 Codesets
 -------------------
 
-### Nasal
+### Steroids - Nasal
 
 * nasal-spray
 
-### Inhaled
+### Steroids - Inhaled
 
 * inhaled-corticosteroid
 
-### Systemic
+### Steroids - Systemic
 
 The analyses's eventual systemic collection of system steroids is the union of the following five codesets.
 
@@ -35,3 +35,6 @@ The analyses's eventual systemic collection of system steroids is the union of t
 * systemic-prednisolone
 * systemic-prednosone-methyprednisolone
 
+### Asthma
+
+Converted [from the CDC's ICDs](https://www.cdc.gov/asthma/data-analysis-guidance/ICD-9-CM-ICD-10-CM.htm) to Snomeds.
