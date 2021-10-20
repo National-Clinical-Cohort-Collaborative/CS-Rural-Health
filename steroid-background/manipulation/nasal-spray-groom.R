@@ -150,12 +150,12 @@ ds_slim <-
     concept_name             ,
     keep_entry_in_codeset    ,
     comments                 ,
-    standard_concept         ,
-    invalid_reason           ,
+    # standard_concept         , # Always "S"; add this column back if needed
+    # invalid_reason           , # Always "NULL"; add this column back if needed
     concept_code             ,
-    domain_id                ,
     vocabulary_id            ,
     concept_class_id         ,
+    domain_id                ,
   )
 
 # ds_slim
