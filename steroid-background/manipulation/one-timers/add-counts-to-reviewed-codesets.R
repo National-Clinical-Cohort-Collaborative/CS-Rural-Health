@@ -6,17 +6,15 @@ rm(list = ls(all.names = TRUE))  # Clear the variables from previous runs.
 
 # ---- load-packages -----------------------------------------------------------
 # Attach these package(s) so their functions don't need to be qualified: http://r-pkgs.had.co.nz/namespace.html#search-path
-library(magrittr            , quietly=TRUE)
 
 # Verify these packages are available on the machine, but their functions need to be qualified: http://r-pkgs.had.co.nz/namespace.html#search-path
 requireNamespace("readr"        )
 requireNamespace("tidyr"        )
 requireNamespace("dplyr"        ) # Avoid attaching dplyr, b/c its function names conflict with a lot of packages (esp base, stats, and plyr).
-# requireNamespace("testit"       ) # For asserting conditions meet expected patterns/conditions.
+requireNamespace("testit"       ) # For asserting conditions meet expected patterns/conditions.
 requireNamespace("checkmate"    ) # For asserting conditions meet expected patterns/conditions. # remotes::install_github("mllg/checkmate")
-requireNamespace("sqldf"       ) # For interfacing w/ SQLite
+requireNamespace("odbc"        )
 # requireNamespace("OuhscMunge"   ) # remotes::install_github(repo="OuhscBbmc/OuhscMunge")
-requireNamespace("geosphere")
 
 # ---- declare-globals ---------------------------------------------------------
 # Constant values that won't change.
@@ -46,7 +44,7 @@ col_types_concept_count <- readr::cols_only(
   `patient_count`     = readr::col_integer()
 )
 
-sql_lu <-
+sql_lu <- # 2.3M records
   "
     SELECT
       c.concept_id
