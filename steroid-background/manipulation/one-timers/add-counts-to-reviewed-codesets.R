@@ -87,6 +87,7 @@ rm(col_types_concept_count)
 # Read each file, add the extra columns, then write back to the same file
 
 for (p in paths) {
+  message("Processesing ", p)
   # p <- paths[1]
   d <- readr::read_csv(p, col_types = col_types, lazy = FALSE)
 
@@ -97,19 +98,17 @@ for (p in paths) {
     dplyr::left_join(ds_concept_count, by = "concept_id") |>
     dplyr::select(
       concept_id,
+      concept_name,
       keep_entry_in_codeset,
       comments,
-      concept_name,
       condition_count,
       patient_count,
       standard_concept,
-      # standard_concept_caption,
       invalid_reason,
-      # invalid_reason_caption,
       concept_code,
-      domain_id,
       vocabulary_id,
-      concept_class_id
+      concept_class_id,
+      domain_id
     )
 
   testit::assert("The row count should be constant.", row_count == nrow(d))
