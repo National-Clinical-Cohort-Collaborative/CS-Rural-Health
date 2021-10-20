@@ -109,7 +109,7 @@ ds <-
         grepl('\\bsinuva\\b',  concept_name, ignore.case = T) ~ FALSE,
         TRUE                                                  ~ TRUE
     )
-  )|>
+  ) |>
   dplyr::filter(keep_entry_in_codeset)
 
 # dplyr::mutate(
@@ -125,9 +125,7 @@ checkmate::assert_logical(  ds$keep_entry_in_codeset    , any.missing=F         
 # checkmate::assert_character(ds$comments                 , any.missing=T , pattern="^.{NA,NA}$"         )
 checkmate::assert_character(ds$concept_name             , any.missing=F , pattern="^.{10,115}$"        , unique=T)
 checkmate::assert_character(ds$standard_concept         , any.missing=F , pattern="^.{1,1}$"           )
-checkmate::assert_character(ds$standard_concept_caption , any.missing=T , pattern="^.{NA,NA}$"         )
 checkmate::assert_character(ds$invalid_reason           , any.missing=F , pattern="^.{4,4}$"           )
-checkmate::assert_character(ds$invalid_reason_caption   , any.missing=T , pattern="^.{NA,NA}$"         )
 checkmate::assert_numeric(  ds$concept_code             , any.missing=F , lower=1, upper=40000000   , unique=T)
 checkmate::assert_character(ds$domain_id                , any.missing=F , pattern="^.{4,4}$"           )
 checkmate::assert_character(ds$vocabulary_id            , any.missing=F , pattern="^.{6,6}$"           )
@@ -150,9 +148,7 @@ ds_slim <-
     concept_name             ,
     comments                 ,
     standard_concept         ,
-    standard_concept_caption ,
     invalid_reason           ,
-    invalid_reason_caption   ,
     concept_code             ,
     domain_id                ,
     vocabulary_id            ,
