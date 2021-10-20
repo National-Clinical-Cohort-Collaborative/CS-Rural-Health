@@ -92,26 +92,28 @@ ds <-
   dplyr::mutate(
     keep_entry_in_codeset =
       dplyr::case_when(
-        regex("\\bnasal\\b"            , concept_name) ~ TRUE,
-        regex("\\btopical\\b"          , concept_name) ~ FALSE,
-        regex("\\binject"              , concept_name) ~ FALSE,
-        regex("\\binhal"               , concept_name) ~ FALSE,
-        regex("\\boral"                , concept_name) ~ FALSE,
-        regex("\\btablet\\b"           , concept_name) ~ FALSE,
-        regex("\\bcream\\b"            , concept_name) ~ FALSE,
-        regex("\\bophthalmic\\b"       , concept_name) ~ FALSE,
-        regex("\\beye\\b"              , concept_name) ~ FALSE,
-        regex("\\benema\\b"            , concept_name) ~ FALSE,
-        regex("\\botic\\b"             , concept_name) ~ FALSE,
-        regex("\\bsyringe\\b"          , concept_name) ~ FALSE,
-        regex("\\bimplant\\b"          , concept_name) ~ FALSE,
-        regex("\\bpaste\\b"            , concept_name) ~ FALSE,
-        regex("\\brectal\\b"           , concept_name) ~ FALSE,
-        regex(   "derm\\b"             , concept_name) ~ FALSE,
-        regex("\\bsinuva\\b"           , concept_name) ~ FALSE,
-        TRUE                                           ~ TRUE
+        regex("\\bnasal\\b"            , concept_name) ~ "TRUE",
+        regex("\\btopical\\b"          , concept_name) ~ "FALSE",
+        regex("\\binject"              , concept_name) ~ "FALSE",
+        regex("\\binhal"               , concept_name) ~ "FALSE",
+        regex("\\boral"                , concept_name) ~ "FALSE",
+        regex("\\btablet\\b"           , concept_name) ~ "FALSE",
+        regex("\\bcream\\b"            , concept_name) ~ "FALSE",
+        regex("\\bophthalmic\\b"       , concept_name) ~ "FALSE",
+        regex("\\beye\\b"              , concept_name) ~ "FALSE",
+        regex("\\benema\\b"            , concept_name) ~ "FALSE",
+        regex("\\botic\\b"             , concept_name) ~ "FALSE",
+        regex("\\bsyringe\\b"          , concept_name) ~ "FALSE",
+        regex("\\bimplant\\b"          , concept_name) ~ "FALSE",
+        regex("\\bpaste\\b"            , concept_name) ~ "FALSE",
+        regex("\\brectal\\b"           , concept_name) ~ "FALSE",
+        regex(   "derm\\b"             , concept_name) ~ "FALSE",
+        regex("\\bsinuva\\b"           , concept_name) ~ "FALSE",
+        TRUE                                           ~ "--"
     )
   )
+# Terms considered, but were not decisive:
+# "actuat"
 
 # dplyr::mutate(
 #   concept_name  = iconv(concept_name,"WINDOWS-1252","UTF-8")
@@ -122,7 +124,7 @@ ds <-
 # ---- verify-values -----------------------------------------------------------
 # OuhscMunge::verify_value_headstart(ds)
 checkmate::assert_integer(  ds$concept_id               , any.missing=F , lower=config$omop_concept_min, upper=config$omop_concept_local , unique=T)
-checkmate::assert_logical(  ds$keep_entry_in_codeset    , any.missing=F                                )
+checkmate::assert_character(ds$keep_entry_in_codeset    , any.missing=F  , pattern="^TRUE|FALSE|--$"   )
 # checkmate::assert_character(ds$comments                 , any.missing=T , pattern="^.{NA,NA}$"         )
 checkmate::assert_character(ds$concept_name             , any.missing=F , pattern="^.{2,255}$"        , unique=T)
 checkmate::assert_character(ds$standard_concept         , any.missing=F , pattern="^S$"                )
