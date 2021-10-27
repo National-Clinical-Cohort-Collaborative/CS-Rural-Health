@@ -20,7 +20,7 @@ requireNamespace("OuhscMunge"                 )  # remotes::install_github("Ouhs
 # ---- declare-globals ---------------------------------------------------------
 # Constant values that won't change.
 config                         <- config::get()
-path_in <- "./concept-sets/input/pre-reviewed/nasal-spray.csv"
+path_in <- "./concept-sets/input/pre-reviewed/nasal-spray-pre-regex.csv"
 
 # OuhscMunge::readr_spec_aligned(path_in)
 col_types <- readr::cols_only(
@@ -79,7 +79,7 @@ regex <- function (pattern, variable) {
 # DBI::dbDisconnect(cnn_warehouse); rm(cnn_warehouse, sql)
 ds <- readr::read_csv(path_in, col_types = col_types)
 
-ds_concept_count <- readr::read_csv(config$path_concept_counts, col_types = col_types_concept_count)
+ds_concept_count <- readr::read_csv(config$path_concept_counts, col_types = col_types_concept_count, lazy = FALSE)
 
 rm(col_types_concept_count)
 
@@ -199,4 +199,4 @@ ds_slim <-
 # ds_slim
 
 # ---- save-to-db --------------------------------------------------------------
-readr::write_csv(ds_slim, "concept-sets/input/pre-reviewed/nasal-spray-keyword-cleaned.csv")
+readr::write_csv(ds_slim, "concept-sets/input/pre-reviewed/nasal-spray.csv")
