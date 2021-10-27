@@ -2,7 +2,7 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 739917,triamcinolone acetonide 40 MG/ML Injection [Kenalog],FALSE,NA,20,20,2480109,RxNorm,Branded Drug,Drug
 740264,1 ML triamcinolone acetonide 40 MG/ML Injection [Kenalog],FALSE,NA,41784,17462,2480108,RxNorm,Quant Branded Drug,Drug
 789930,triamcinolone acetonide 80 MG/ML Injectable Suspension,FALSE,NA,244,152,2168081,RxNorm,Clinical Drug,Drug
-789931,triamcinolone acetonide 80 MG/ML [Kenalog],--,NA,20,20,2168082,RxNorm,Branded Drug Comp,Drug
+789931,triamcinolone acetonide 80 MG/ML [Kenalog],NA,NA,20,20,2168082,RxNorm,Branded Drug Comp,Drug
 789932,triamcinolone acetonide 80 MG/ML Injectable Suspension [Kenalog],FALSE,NA,20,20,2168083,RxNorm,Branded Drug,Drug
 789934,triamcinolone Injection [Kenalog],FALSE,NA,20,20,2168096,RxNorm,Branded Drug Form,Drug
 789935,triamcinolone acetonide 80 MG/ML Injection,FALSE,NA,20,20,2168098,RxNorm,Clinical Drug,Drug
@@ -10,9 +10,9 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 790238,1 ML triamcinolone acetonide 80 MG/ML Injection,FALSE,NA,20,20,2168095,RxNorm,Quant Clinical Drug,Drug
 790239,1 ML triamcinolone acetonide 80 MG/ML Injection [Kenalog],FALSE,NA,205,127,2168097,RxNorm,Quant Branded Drug,Drug
 792424,triamcinolone Injection [Zilretta],FALSE,NA,20,20,1947127,RxNorm,Branded Drug Form,Drug
-792426,triamcinolone acetonide 32 MG,--,NA,20,20,1947130,RxNorm,Clinical Drug Comp,Drug
+792426,triamcinolone acetonide 32 MG,NA,NA,20,20,1947130,RxNorm,Clinical Drug Comp,Drug
 792427,triamcinolone acetonide 32 MG Injection,FALSE,NA,1977,703,1947131,RxNorm,Clinical Drug,Drug
-792428,triamcinolone acetonide 32 MG [Zilretta],--,NA,20,20,1947132,RxNorm,Branded Drug Comp,Drug
+792428,triamcinolone acetonide 32 MG [Zilretta],NA,NA,20,20,1947132,RxNorm,Branded Drug Comp,Drug
 792429,triamcinolone acetonide 32 MG Injection [Zilretta],FALSE,NA,492,141,1947133,RxNorm,Branded Drug,Drug
 792484,fluticasone / umeclidinium / vilanterol Dry Powder Inhaler,TRUE,NA,826,461,1945037,RxNorm,Clinical Drug Form,Drug
 792485,14 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler,TRUE,NA,35138,9916,1945039,RxNorm,Quant Clinical Drug,Drug
@@ -28,7 +28,7 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 792589,fluticasone propionate 0.093 MG/ACTUAT [Xhance],TRUE,NA,20,20,1946585,RxNorm,Branded Drug Comp,Drug
 792590,fluticasone Metered Dose Nasal Spray [Xhance],TRUE,NA,20,20,1946586,RxNorm,Branded Drug Form,Drug
 792593,fluticasone propionate 0.093 MG/ACTUAT Metered Dose Nasal Spray [Xhance],TRUE,NA,3834,938,1946589,RxNorm,Branded Drug,Drug
-793456,mometasone furoate 1.35 MG,--,NA,20,20,1995982,RxNorm,Clinical Drug Comp,Drug
+793456,mometasone furoate 1.35 MG,NA,NA,20,20,1995982,RxNorm,Clinical Drug Comp,Drug
 793457,mometasone furoate 1.35 MG Drug Implant,FALSE,NA,40,25,1995983,RxNorm,Clinical Drug,Drug
 793459,mometasone furoate 1.35 MG [Sinuva],FALSE,NA,20,20,1995985,RxNorm,Branded Drug Comp,Drug
 793460,mometasone Drug Implant [Sinuva],FALSE,NA,20,20,1995986,RxNorm,Branded Drug Form,Drug
@@ -52,15 +52,15 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 793938,60 ACTUAT fluticasone propionate 0.055 MG/ACTUAT Dry Powder Inhaler [Armonair],TRUE,NA,20,20,1941613,RxNorm,Quant Branded Drug,Drug
 793939,fluticasone propionate 0.055 MG/ACTUAT Dry Powder Inhaler,TRUE,NA,20,20,1941614,RxNorm,Clinical Drug,Drug
 793940,fluticasone propionate 0.055 MG/ACTUAT Dry Powder Inhaler [Armonair],TRUE,NA,20,20,1941615,RxNorm,Branded Drug,Drug
-1146317,ciclesonide 0.343 MG/ACTUAT,--,NA,20,20,2377376,RxNorm,Clinical Drug Comp,Drug
+1146317,ciclesonide 0.343 MG/ACTUAT,NA,NA,20,20,2377376,RxNorm,Clinical Drug Comp,Drug
 1146318,ciclesonide 0.343 MG/ACTUAT Metered Dose Nasal Spray,TRUE,NA,20,20,2377377,RxNorm,Clinical Drug,Drug
-1146320,ciclesonide 0.343 MG/ACTUAT [Aservo],--,NA,20,20,2377379,RxNorm,Branded Drug Comp,Drug
-902938,ciclesonide,--,NA,4506,338,274964,RxNorm,Ingredient,Drug
-902939,ciclesonide 0.16 MG/ACTUAT,--,NA,20,20,597915,RxNorm,Clinical Drug Comp,Drug
-902941,ciclesonide 0.08 MG/ACTUAT,--,NA,20,20,597917,RxNorm,Clinical Drug Comp,Drug
-902963,ciclesonide 0.05 MG/ACTUAT,--,NA,20,20,687254,RxNorm,Clinical Drug Comp,Drug
+1146320,ciclesonide 0.343 MG/ACTUAT [Aservo],NA,NA,20,20,2377379,RxNorm,Branded Drug Comp,Drug
+902938,ciclesonide,NA,NA,4506,338,274964,RxNorm,Ingredient,Drug
+902939,ciclesonide 0.16 MG/ACTUAT,NA,NA,20,20,597915,RxNorm,Clinical Drug Comp,Drug
+902941,ciclesonide 0.08 MG/ACTUAT,NA,NA,20,20,597917,RxNorm,Clinical Drug Comp,Drug
+902963,ciclesonide 0.05 MG/ACTUAT,NA,NA,20,20,687254,RxNorm,Clinical Drug Comp,Drug
 902971,120 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler,FALSE,NA,93,22,825318,RxNorm,Quant Clinical Drug,Drug
-903963,triamcinolone,--,NA,1930075,128567,10759,RxNorm,Ingredient,Drug
+903963,triamcinolone,NA,NA,1930075,128567,10759,RxNorm,Ingredient,Drug
 904131,triamcinolone 0.055 MG/ACTUAT Nasal Spray,TRUE,NA,3990,3347,245785,RxNorm,Clinical Drug,Drug
 904163,triamcinolone 0.1 MG/ACTUAT Nasal Spray,TRUE,NA,20,20,248626,RxNorm,Clinical Drug,Drug
 904164,neomycin 0.00385 MG/MG / triamcinolone 0.00105 MG/MG Topical Ointment,FALSE,NA,20,20,249817,RxNorm,Clinical Drug,Drug
@@ -68,28 +68,28 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 904171,triamcinolone 6 MG/ML Injectable Suspension,FALSE,NA,20,20,251931,RxNorm,Clinical Drug,Drug
 904262,triamcinolone 0.01 MG/MG Ophthalmic Ointment,FALSE,NA,20,20,252266,RxNorm,Clinical Drug,Drug
 904324,triamcinolone 0.0025 MG/MG Topical Ointment,FALSE,NA,20,20,313456,RxNorm,Clinical Drug,Drug
-904331,triamcinolone 2 MG,--,NA,20,20,316851,RxNorm,Clinical Drug Comp,Drug
-904332,triamcinolone 1 MG,--,NA,4704,1919,317524,RxNorm,Clinical Drug Comp,Drug
-904333,triamcinolone 8 MG,--,NA,20,20,317525,RxNorm,Clinical Drug Comp,Drug
-904335,triamcinolone 0.001 MG/MG,--,NA,20,20,328439,RxNorm,Clinical Drug Comp,Drug
-904338,triamcinolone 0.00025 MG/MG,--,NA,20,20,328761,RxNorm,Clinical Drug Comp,Drug
-904385,triamcinolone 6 MG/ML,--,NA,20,20,335769,RxNorm,Clinical Drug Comp,Drug
-904387,triamcinolone 0.00105 MG/MG,--,NA,20,20,337314,RxNorm,Clinical Drug Comp,Drug
-904392,triamcinolone 1 MG/ML,--,NA,20,20,339994,RxNorm,Clinical Drug Comp,Drug
-904395,triamcinolone 4 MG,--,NA,20,20,345865,RxNorm,Clinical Drug Comp,Drug
-904427,triamcinolone 0.5 MG/ML,--,NA,20,20,353417,RxNorm,Clinical Drug Comp,Drug
+904331,triamcinolone 2 MG,NA,NA,20,20,316851,RxNorm,Clinical Drug Comp,Drug
+904332,triamcinolone 1 MG,NA,NA,4704,1919,317524,RxNorm,Clinical Drug Comp,Drug
+904333,triamcinolone 8 MG,NA,NA,20,20,317525,RxNorm,Clinical Drug Comp,Drug
+904335,triamcinolone 0.001 MG/MG,NA,NA,20,20,328439,RxNorm,Clinical Drug Comp,Drug
+904338,triamcinolone 0.00025 MG/MG,NA,NA,20,20,328761,RxNorm,Clinical Drug Comp,Drug
+904385,triamcinolone 6 MG/ML,NA,NA,20,20,335769,RxNorm,Clinical Drug Comp,Drug
+904387,triamcinolone 0.00105 MG/MG,NA,NA,20,20,337314,RxNorm,Clinical Drug Comp,Drug
+904392,triamcinolone 1 MG/ML,NA,NA,20,20,339994,RxNorm,Clinical Drug Comp,Drug
+904395,triamcinolone 4 MG,NA,NA,20,20,345865,RxNorm,Clinical Drug Comp,Drug
+904427,triamcinolone 0.5 MG/ML,NA,NA,20,20,353417,RxNorm,Clinical Drug Comp,Drug
 904435,triamcinolone 0.001 MG/MG Paste,FALSE,NA,2396,930,544643,RxNorm,Clinical Drug,Drug
-904436,triamcinolone 0.066 MG/ML,--,NA,20,20,639496,RxNorm,Clinical Drug Comp,Drug
+904436,triamcinolone 0.066 MG/ML,NA,NA,20,20,639496,RxNorm,Clinical Drug Comp,Drug
 904437,triamcinolone 0.066 MG/ML Topical Spray,FALSE,NA,126,21,639497,RxNorm,Clinical Drug,Drug
-904506,triamcinolone acetonide 0.05 MG/ACTUAT,--,NA,20,20,833244,RxNorm,Clinical Drug Comp,Drug
-904509,triamcinolone acetonide 80 MG/ML,--,NA,20,20,833448,RxNorm,Clinical Drug Comp,Drug
+904506,triamcinolone acetonide 0.05 MG/ACTUAT,NA,NA,20,20,833244,RxNorm,Clinical Drug Comp,Drug
+904509,triamcinolone acetonide 80 MG/ML,NA,NA,20,20,833448,RxNorm,Clinical Drug Comp,Drug
 904510,0.1 ML triamcinolone acetonide 80 MG/ML Prefilled Syringe,FALSE,NA,20,20,833449,RxNorm,Quant Clinical Drug,Drug
 904511,0.1 ML triamcinolone acetonide 80 MG/ML Prefilled Syringe [Trivaris],FALSE,NA,20,20,835559,RxNorm,Quant Branded Drug,Drug
-905233,mometasone,--,NA,252492,18627,108118,RxNorm,Ingredient,Drug
+905233,mometasone,NA,NA,252492,18627,108118,RxNorm,Ingredient,Drug
 905236,mometasone furoate 1 MG/ML Topical Cream,FALSE,NA,37923,15465,311753,RxNorm,Clinical Drug,Drug
-905238,mometasone furoate 0.001 MG/MG,--,NA,20,20,336758,RxNorm,Clinical Drug Comp,Drug
-905240,mometasone furoate 0.05 MG/ACTUAT,--,NA,20,20,358793,RxNorm,Clinical Drug Comp,Drug
-905264,mometasone furoate 0.2 MG/ACTUAT,--,NA,20,20,617269,RxNorm,Clinical Drug Comp,Drug
+905238,mometasone furoate 0.001 MG/MG,NA,NA,20,20,336758,RxNorm,Clinical Drug Comp,Drug
+905240,mometasone furoate 0.05 MG/ACTUAT,NA,NA,20,20,358793,RxNorm,Clinical Drug Comp,Drug
+905264,mometasone furoate 0.2 MG/ACTUAT,NA,NA,20,20,617269,RxNorm,Clinical Drug Comp,Drug
 905271,14 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex],FALSE,NA,4827,692,746811,RxNorm,Quant Branded Drug,Drug
 905292,30 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler,FALSE,NA,9124,1867,746812,RxNorm,Quant Clinical Drug,Drug
 905293,30 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex],FALSE,NA,4636,963,746813,RxNorm,Quant Branded Drug,Drug
@@ -98,25 +98,25 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 905343,mometasone furoate 1 MG/ML Topical Cream [Elocon],FALSE,NA,12494,6075,92582,RxNorm,Branded Drug,Drug
 905344,mometasone furoate 1 MG/ML Topical Lotion [Elocon],FALSE,NA,1975,1324,92583,RxNorm,Branded Drug,Drug
 905345,mometasone furoate 0.001 MG/MG Topical Ointment [Elocon],FALSE,NA,7028,4037,92584,RxNorm,Branded Drug,Drug
-939259,budesonide,--,NA,812521,59168,19831,RxNorm,Ingredient,Drug
+939259,budesonide,NA,NA,812521,59168,19831,RxNorm,Ingredient,Drug
 939294,budesonide 0.02 MG/ML Enema,FALSE,NA,20,20,153173,RxNorm,Clinical Drug,Drug
 939300,budesonide 0.032 MG/ACTUAT Nasal Spray,TRUE,NA,5154,2699,247551,RxNorm,Clinical Drug,Drug
 939301,budesonide 0.1 MG/ACTUAT Nasal Spray,TRUE,NA,20,20,247691,RxNorm,Clinical Drug,Drug
 939352,budesonide 3 MG Oral Tablet,FALSE,NA,20,20,249241,RxNorm,Clinical Drug,Drug
 939359,budesonide 0.5 MG/ML Inhalation Suspension,FALSE,NA,25494,5052,252559,RxNorm,Clinical Drug,Drug
-939361,budesonide 0.032 MG/ACTUAT,--,NA,20,20,315498,RxNorm,Clinical Drug Comp,Drug
-939393,budesonide 3 MG,--,NA,20,20,332685,RxNorm,Clinical Drug Comp,Drug
-939394,budesonide 0.1 MG/ACTUAT,--,NA,20,20,332686,RxNorm,Clinical Drug Comp,Drug
-939395,budesonide 0.05 MG/ACTUAT,--,NA,20,20,332687,RxNorm,Clinical Drug Comp,Drug
-939396,budesonide 0.064 MG/ACTUAT,--,NA,20,20,332688,RxNorm,Clinical Drug Comp,Drug
-939398,budesonide 0.25 MG/ML,--,NA,20,20,346148,RxNorm,Clinical Drug Comp,Drug
-939422,budesonide 0.5 MG/ML,--,NA,20,20,358545,RxNorm,Clinical Drug Comp,Drug
-939426,budesonide 0.16 MG/ACTUAT,--,NA,7724,2863,393396,RxNorm,Clinical Drug Comp,Drug
-939427,budesonide 0.08 MG/ACTUAT,--,NA,20,20,393399,RxNorm,Clinical Drug Comp,Drug
+939361,budesonide 0.032 MG/ACTUAT,NA,NA,20,20,315498,RxNorm,Clinical Drug Comp,Drug
+939393,budesonide 3 MG,NA,NA,20,20,332685,RxNorm,Clinical Drug Comp,Drug
+939394,budesonide 0.1 MG/ACTUAT,NA,NA,20,20,332686,RxNorm,Clinical Drug Comp,Drug
+939395,budesonide 0.05 MG/ACTUAT,NA,NA,20,20,332687,RxNorm,Clinical Drug Comp,Drug
+939396,budesonide 0.064 MG/ACTUAT,NA,NA,20,20,332688,RxNorm,Clinical Drug Comp,Drug
+939398,budesonide 0.25 MG/ML,NA,NA,20,20,346148,RxNorm,Clinical Drug Comp,Drug
+939422,budesonide 0.5 MG/ML,NA,NA,20,20,358545,RxNorm,Clinical Drug Comp,Drug
+939426,budesonide 0.16 MG/ACTUAT,NA,NA,7724,2863,393396,RxNorm,Clinical Drug Comp,Drug
+939427,budesonide 0.08 MG/ACTUAT,NA,NA,20,20,393399,RxNorm,Clinical Drug Comp,Drug
 939542,budesonide 0.25 MG/ML Inhalation Suspension [Pulmicort],FALSE,NA,219257,17898,616817,RxNorm,Branded Drug,Drug
 939543,budesonide 0.5 MG/ML Inhalation Suspension [Pulmicort],FALSE,NA,4147,875,616819,RxNorm,Branded Drug,Drug
-939545,budesonide 0.18 MG/ACTUAT,--,NA,20,20,692474,RxNorm,Clinical Drug Comp,Drug
-939547,budesonide 0.09 MG/ACTUAT,--,NA,20,20,692476,RxNorm,Clinical Drug Comp,Drug
+939545,budesonide 0.18 MG/ACTUAT,NA,NA,20,20,692474,RxNorm,Clinical Drug Comp,Drug
+939547,budesonide 0.09 MG/ACTUAT,NA,NA,20,20,692476,RxNorm,Clinical Drug Comp,Drug
 948638,polymyxin B 16.2 UNT/MG / triamcinolone 0.001 MG/MG Ophthalmic Ointment,FALSE,NA,20,20,246731,RxNorm,Clinical Drug,Drug
 964919,salicylic acid 0.05 MG/MG / triamcinolone 0.0005 MG/MG Topical Ointment,FALSE,NA,20,20,251588,RxNorm,Clinical Drug,Drug
 980897,clioquinol 30 MG/ML / triamcinolone 0.1 MG/ML Topical Cream,FALSE,NA,20,20,246758,RxNorm,Clinical Drug,Drug
@@ -124,25 +124,25 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 1001218,coal tar 10 MG/ML / triamcinolone 1 MG/ML Topical Cream,FALSE,NA,NA,NA,252392,RxNorm,Clinical Drug,Drug
 1355732,mometasone / orbifloxacin / posaconazole Otic Suspension,FALSE,NA,20,20,2105735,RxNorm,Clinical Drug Form,Drug
 1355733,mometasone furoate 1 MG/ML / orbifloxacin 10 MG/ML / posaconazole 1 MG/ML Otic Suspension,FALSE,NA,20,20,2105737,RxNorm,Clinical Drug,Drug
-1355735,mometasone furoate 1 MG/ML / orbifloxacin 10 MG/ML / posaconazole 1 MG/ML [Posatex],--,NA,20,20,2105739,RxNorm,Branded Drug Comp,Drug
+1355735,mometasone furoate 1 MG/ML / orbifloxacin 10 MG/ML / posaconazole 1 MG/ML [Posatex],NA,NA,20,20,2105739,RxNorm,Branded Drug Comp,Drug
 1355736,mometasone / orbifloxacin / posaconazole Otic Suspension [Posatex],FALSE,NA,20,20,2105740,RxNorm,Branded Drug Form,Drug
 1355738,mometasone furoate 1 MG/ML / orbifloxacin 10 MG/ML / posaconazole 1 MG/ML Otic Suspension [Posatex],FALSE,NA,20,20,2105742,RxNorm,Branded Drug,Drug
 1355743,neomycin / nystatin / thiostrepton / triamcinolone Topical Ointment,FALSE,NA,NA,NA,2105779,RxNorm,Clinical Drug Form,Drug
 1355744,neomycin 0.025 MG/MG / nystatin 100 UNT/MG / thiostrepton 2.5 UNT/MG / triamcinolone 0.001 MG/MG Topical Ointment,FALSE,NA,NA,NA,2105780,RxNorm,Clinical Drug,Drug
-1355746,neomycin 0.025 MG/MG / nystatin 100 UNT/MG / thiostrepton 2.5 UNT/MG / triamcinolone 0.001 MG/MG [Dermalone],--,NA,NA,NA,2105782,RxNorm,Branded Drug Comp,Drug
+1355746,neomycin 0.025 MG/MG / nystatin 100 UNT/MG / thiostrepton 2.5 UNT/MG / triamcinolone 0.001 MG/MG [Dermalone],NA,NA,NA,NA,2105782,RxNorm,Branded Drug Comp,Drug
 1355747,neomycin / nystatin / thiostrepton / triamcinolone Topical Ointment [Dermalone],FALSE,NA,NA,NA,2105783,RxNorm,Branded Drug Form,Drug
 1355749,neomycin 0.025 MG/MG / nystatin 100 UNT/MG / thiostrepton 2.5 UNT/MG / triamcinolone 0.001 MG/MG Topical Ointment [Dermalone],FALSE,NA,NA,NA,2105785,RxNorm,Branded Drug,Drug
 1356140,budesonide Inhalation Suspension,FALSE,NA,20,20,2108295,RxNorm,Clinical Drug Form,Drug
 1356141,budesonide Inhalation Suspension [Pulmicort],FALSE,NA,20,20,2108297,RxNorm,Branded Drug Form,Drug
-1356142,budesonide 0.2 MG,--,NA,20,20,2108301,RxNorm,Clinical Drug Comp,Drug
+1356142,budesonide 0.2 MG,NA,NA,20,20,2108301,RxNorm,Clinical Drug Comp,Drug
 1356143,budesonide Inhalation Powder,FALSE,NA,20,20,2108302,RxNorm,Clinical Drug Form,Drug
-1356374,budesonide 0.2 MG [Pulmicort],--,NA,20,20,2109079,RxNorm,Branded Drug Comp,Drug
+1356374,budesonide 0.2 MG [Pulmicort],NA,NA,20,20,2109079,RxNorm,Branded Drug Comp,Drug
 1356375,budesonide Inhalation Powder [Pulmicort],FALSE,NA,20,20,2109080,RxNorm,Branded Drug Form,Drug
 1356376,budesonide 0.2 MG Inhalation Powder [Pulmicort],FALSE,NA,20,20,2109081,RxNorm,Branded Drug,Drug
-1361589,formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.05 MG/ACTUAT [Dulera],--,NA,20,20,2196591,RxNorm,Branded Drug Comp,Drug
+1361589,formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.05 MG/ACTUAT [Dulera],NA,NA,20,20,2196591,RxNorm,Branded Drug Comp,Drug
 1361590,formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.05 MG/ACTUAT Metered Dose Inhaler,FALSE,NA,20,20,2196593,RxNorm,Clinical Drug,Drug
 1361591,formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.05 MG/ACTUAT Metered Dose Inhaler [Dulera],FALSE,NA,20,20,2196690,RxNorm,Branded Drug,Drug
-1361592,mometasone furoate 0.05 MG/ACTUAT [Asmanex],--,NA,20,20,2196791,RxNorm,Branded Drug Comp,Drug
+1361592,mometasone furoate 0.05 MG/ACTUAT [Asmanex],NA,NA,20,20,2196791,RxNorm,Branded Drug Comp,Drug
 1361593,mometasone furoate 0.05 MG/ACTUAT Metered Dose Inhaler,FALSE,NA,20,20,2196793,RxNorm,Clinical Drug,Drug
 1361594,mometasone furoate 0.05 MG/ACTUAT Metered Dose Inhaler [Asmanex],FALSE,NA,20,20,2196794,RxNorm,Branded Drug,Drug
 1361703,120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.05 MG/ACTUAT Metered Dose Inhaler,FALSE,NA,111,75,2196590,RxNorm,Quant Clinical Drug,Drug
@@ -171,15 +171,15 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 1511378,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Maxi-Otic],FALSE,NA,20,20,2166109,RxNorm,Branded Drug Comp,Drug
 1511379,clotrimazole / gentamicin / mometasone Otic Suspension [Maxi-Otic],FALSE,NA,20,20,2166110,RxNorm,Branded Drug Form,Drug
 1511381,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Maxi-Otic],FALSE,NA,20,20,2166112,RxNorm,Branded Drug,Drug
-1559863,triamcinolone acetonide 0.5 MG [Vetalog],--,NA,NA,NA,2048889,RxNorm,Branded Drug Comp,Drug
+1559863,triamcinolone acetonide 0.5 MG [Vetalog],NA,NA,NA,NA,2048889,RxNorm,Branded Drug Comp,Drug
 1559864,triamcinolone Oral Tablet [Vetalog],FALSE,NA,NA,NA,2048890,RxNorm,Branded Drug Form,Drug
 1559867,triamcinolone acetonide 0.5 MG Oral Tablet [Vetalog],FALSE,NA,NA,NA,2048893,RxNorm,Branded Drug,Drug
-1559868,triamcinolone acetonide 1.5 MG [Vetalog],--,NA,NA,NA,2048894,RxNorm,Branded Drug Comp,Drug
+1559868,triamcinolone acetonide 1.5 MG [Vetalog],NA,NA,NA,NA,2048894,RxNorm,Branded Drug Comp,Drug
 1559869,triamcinolone acetonide 1.5 MG Oral Tablet [Vetalog],FALSE,NA,NA,NA,2048895,RxNorm,Branded Drug,Drug
 1146321,ciclesonide Metered Dose Nasal Spray [Aservo],TRUE,NA,20,20,2377380,RxNorm,Branded Drug Form,Drug
 1146324,ciclesonide 0.343 MG/ACTUAT Metered Dose Nasal Spray [Aservo],TRUE,NA,20,20,2377383,RxNorm,Branded Drug,Drug
 1149380,fluticasone,TRUE,NA,3702481,190922,41126,RxNorm,Ingredient,Drug
-1592230,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Pattotic],--,NA,20,20,1870810,RxNorm,Branded Drug Comp,Drug
+1592230,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Pattotic],NA,NA,20,20,1870810,RxNorm,Branded Drug Comp,Drug
 1592698,fluticasone propionate 0.05 MG/ACTUAT [Nasopro 24],TRUE,NA,20,20,1872963,RxNorm,Branded Drug Comp,Drug
 1592699,fluticasone Metered Dose Nasal Spray [Nasopro 24],TRUE,NA,20,20,1872964,RxNorm,Branded Drug Form,Drug
 1592702,fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasopro 24],TRUE,NA,7169,2510,1872967,RxNorm,Branded Drug,Drug
@@ -222,7 +222,7 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 19019892,triamcinolone 2 MG Oral Tablet,FALSE,NA,NA,NA,198302,RxNorm,Clinical Drug,Drug
 19019893,triamcinolone 4 MG Oral Tablet,FALSE,NA,NA,NA,198303,RxNorm,Clinical Drug,Drug
 19019894,triamcinolone 8 MG Oral Tablet,FALSE,NA,NA,NA,198304,RxNorm,Clinical Drug,Drug
-19023533,mometasone furoate 0.05 MG/ACTUAT [Nasonex],--,NA,20,20,565252,RxNorm,Branded Drug Comp,Drug
+19023533,mometasone furoate 0.05 MG/ACTUAT [Nasonex],NA,NA,20,20,565252,RxNorm,Branded Drug Comp,Drug
 19026063,triamcinolone hexacetonide 5 MG/ML Injectable Suspension [Lederspan],FALSE,NA,NA,NA,202100,RxNorm,Branded Drug,Drug
 19026064,triamcinolone hexacetonide 20 MG/ML Injectable Suspension [Lederspan],FALSE,NA,NA,NA,202101,RxNorm,Branded Drug,Drug
 19026109,budesonide 0.1 MG/ACTUAT Nasal Spray [Rhinocort Aqua],TRUE,NA,20,20,202142,RxNorm,Branded Drug,Drug
@@ -231,25 +231,25 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 19027285,triamcinolone acetonide 1 MG/ML Topical Cream [Adcortyl],FALSE,NA,NA,NA,204080,RxNorm,Branded Drug,Drug
 19027286,triamcinolone acetonide 1 MG/ML Topical Cream [Ledercort],FALSE,NA,NA,NA,204081,RxNorm,Branded Drug,Drug
 19029347,budesonide 0.032 MG/ACTUAT Nasal Spray [Rhinocort],TRUE,NA,20,20,205481,RxNorm,Branded Drug,Drug
-19032638,triamcinolone acetonide 80 MG/ML [Trivaris],--,NA,NA,NA,835558,RxNorm,Branded Drug Comp,Drug
+19032638,triamcinolone acetonide 80 MG/ML [Trivaris],NA,NA,NA,NA,835558,RxNorm,Branded Drug Comp,Drug
 19038300,triamcinolone 4 MG Oral Tablet [Aristopak],FALSE,NA,NA,NA,208364,RxNorm,Branded Drug,Drug
 19079780,triamcinolone 0.01 MG/MG Topical Ointment,FALSE,NA,NA,NA,313457,RxNorm,Clinical Drug,Drug
-19083125,triamcinolone 0.1 MG/ACTUAT,--,NA,NA,NA,328701,RxNorm,Clinical Drug Comp,Drug
-19083579,triamcinolone 0.055 MG/ACTUAT,--,NA,NA,NA,329106,RxNorm,Clinical Drug Comp,Drug
-19084816,triamcinolone 0.0005 MG/MG,--,NA,NA,NA,330282,RxNorm,Clinical Drug Comp,Drug
-19084817,triamcinolone 0.0025 MG/MG,--,NA,NA,NA,330283,RxNorm,Clinical Drug Comp,Drug
-19086456,mometasone furoate 0.2 MG/ACTUAT [Asmanex],--,NA,20,20,616813,RxNorm,Branded Drug Comp,Drug
-19089689,triamcinolone 4 MG/ML,--,NA,NA,NA,333401,RxNorm,Clinical Drug Comp,Drug
-19091880,triamcinolone 0.6 MG/ML,--,NA,NA,NA,335770,RxNorm,Clinical Drug Comp,Drug
-19093425,triamcinolone 0.01 MG/MG,--,NA,NA,NA,340008,RxNorm,Clinical Drug Comp,Drug
-19095979,triamcinolone 0.1 MG/ML,--,NA,NA,NA,346300,RxNorm,Clinical Drug Comp,Drug
+19083125,triamcinolone 0.1 MG/ACTUAT,NA,NA,NA,NA,328701,RxNorm,Clinical Drug Comp,Drug
+19083579,triamcinolone 0.055 MG/ACTUAT,NA,NA,NA,NA,329106,RxNorm,Clinical Drug Comp,Drug
+19084816,triamcinolone 0.0005 MG/MG,NA,NA,NA,NA,330282,RxNorm,Clinical Drug Comp,Drug
+19084817,triamcinolone 0.0025 MG/MG,NA,NA,NA,NA,330283,RxNorm,Clinical Drug Comp,Drug
+19086456,mometasone furoate 0.2 MG/ACTUAT [Asmanex],NA,NA,20,20,616813,RxNorm,Branded Drug Comp,Drug
+19089689,triamcinolone 4 MG/ML,NA,NA,NA,NA,333401,RxNorm,Clinical Drug Comp,Drug
+19091880,triamcinolone 0.6 MG/ML,NA,NA,NA,NA,335770,RxNorm,Clinical Drug Comp,Drug
+19093425,triamcinolone 0.01 MG/MG,NA,NA,NA,NA,340008,RxNorm,Clinical Drug Comp,Drug
+19095979,triamcinolone 0.1 MG/ML,NA,NA,NA,NA,346300,RxNorm,Clinical Drug Comp,Drug
 19096511,nystatin 10000 UNT/ML / triamcinolone 1 MG Topical Ointment,FALSE,NA,NA,NA,348704,RxNorm,Clinical Drug,Drug
 19096595,budesonide 0.125 MG/ML Inhalation Suspension,FALSE,NA,132770,11973,349094,RxNorm,Clinical Drug,Drug
-19097860,budesonide 0.125 MG/ML,--,NA,20,20,350723,RxNorm,Clinical Drug Comp,Drug
+19097860,budesonide 0.125 MG/ML,NA,NA,20,20,350723,RxNorm,Clinical Drug Comp,Drug
 19098138,budesonide 0.25 MG/ML Inhalation Suspension,FALSE,NA,491488,46979,351109,RxNorm,Clinical Drug,Drug
-19099139,mometasone furoate 1 MG/ML,--,NA,20,20,358650,RxNorm,Clinical Drug Comp,Drug
-19100694,budesonide 0.02 MG/ML,--,NA,20,20,381063,RxNorm,Clinical Drug Comp,Drug
-19100695,budesonide 0.00025 MG/MG,--,NA,20,20,381064,RxNorm,Clinical Drug Comp,Drug
+19099139,mometasone furoate 1 MG/ML,NA,NA,20,20,358650,RxNorm,Clinical Drug Comp,Drug
+19100694,budesonide 0.02 MG/ML,NA,NA,20,20,381063,RxNorm,Clinical Drug Comp,Drug
+19100695,budesonide 0.00025 MG/MG,NA,NA,20,20,381064,RxNorm,Clinical Drug Comp,Drug
 19101781,fluticasone 0.4 MG/ACTUAT Nasal Suspension,TRUE,NA,20,20,389246,RxNorm,Clinical Drug,Drug
 19102054,fluticasone 0.4 MG/ACTUAT,TRUE,NA,20,20,393445,RxNorm,Clinical Drug Comp,Drug
 19104957,amphotericin B 30 MG/ML / triamcinolone 1 MG/ML Topical Cream,FALSE,NA,NA,NA,417404,RxNorm,Clinical Drug,Drug
@@ -265,47 +265,47 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 19107310,triamcinolone 0.025 MG Buccal Tablet,FALSE,NA,NA,NA,431623,RxNorm,Clinical Drug,Drug
 19108458,neomycin 3 MG/ML / triamcinolone 1 MG/ML Topical Cream,FALSE,NA,NA,NA,435829,RxNorm,Clinical Drug,Drug
 19108479,triamcinolone 16 MG Oral Tablet,FALSE,NA,NA,NA,436102,RxNorm,Clinical Drug,Drug
-19109784,triamcinolone 0.25 MG/MG,--,NA,NA,NA,439405,RxNorm,Clinical Drug Comp,Drug
-19109785,triamcinolone 0.2 MG/ML,--,NA,NA,NA,439407,RxNorm,Clinical Drug Comp,Drug
-19109794,triamcinolone 2 MG/ML,--,NA,NA,NA,439422,RxNorm,Clinical Drug Comp,Drug
-19109805,triamcinolone 0.025 MG,--,NA,NA,NA,439440,RxNorm,Clinical Drug Comp,Drug
-19110911,mometasone 0.001 MG/MG,--,NA,20,20,446535,RxNorm,Clinical Drug Comp,Drug
-19112260,triamcinolone 0.5 MG,--,NA,NA,NA,452305,RxNorm,Clinical Drug Comp,Drug
-19112268,triamcinolone 0.0002 MG/MG,--,NA,NA,NA,452323,RxNorm,Clinical Drug Comp,Drug
-19112511,triamcinolone 16 MG,--,NA,NA,NA,452840,RxNorm,Clinical Drug Comp,Drug
-19112695,mometasone 0.5 MG/ML,--,NA,20,20,484331,RxNorm,Clinical Drug Comp,Drug
+19109784,triamcinolone 0.25 MG/MG,NA,NA,NA,NA,439405,RxNorm,Clinical Drug Comp,Drug
+19109785,triamcinolone 0.2 MG/ML,NA,NA,NA,NA,439407,RxNorm,Clinical Drug Comp,Drug
+19109794,triamcinolone 2 MG/ML,NA,NA,NA,NA,439422,RxNorm,Clinical Drug Comp,Drug
+19109805,triamcinolone 0.025 MG,NA,NA,NA,NA,439440,RxNorm,Clinical Drug Comp,Drug
+19110911,mometasone 0.001 MG/MG,NA,NA,20,20,446535,RxNorm,Clinical Drug Comp,Drug
+19112260,triamcinolone 0.5 MG,NA,NA,NA,NA,452305,RxNorm,Clinical Drug Comp,Drug
+19112268,triamcinolone 0.0002 MG/MG,NA,NA,NA,NA,452323,RxNorm,Clinical Drug Comp,Drug
+19112511,triamcinolone 16 MG,NA,NA,NA,NA,452840,RxNorm,Clinical Drug Comp,Drug
+19112695,mometasone 0.5 MG/ML,NA,NA,20,20,484331,RxNorm,Clinical Drug Comp,Drug
 19112696,mometasone 0.5 MG/ML Nasal Spray,TRUE,NA,20,20,484333,RxNorm,Clinical Drug,Drug
-19112697,mometasone furoate 0.05 MG/ML,--,NA,20,20,484334,RxNorm,Clinical Drug Comp,Drug
+19112697,mometasone furoate 0.05 MG/ML,NA,NA,20,20,484334,RxNorm,Clinical Drug Comp,Drug
 19112698,mometasone furoate 0.05 MG/ML Nasal Spray,TRUE,NA,20,20,484335,RxNorm,Clinical Drug,Drug
 19114187,triamcinolone acetonide 0.5 MG/ML Topical Cream [SP RX 228],FALSE,NA,NA,NA,543341,RxNorm,Branded Drug,Drug
 19114521,triamcinolone 1 MG/ML Topical Ointment,FALSE,NA,NA,NA,544635,RxNorm,Clinical Drug,Drug
-19115612,budesonide 0.25 MG/ML [Preferid],--,NA,20,20,563329,RxNorm,Branded Drug Comp,Drug
-19115613,budesonide 0.00025 MG/MG [Preferid],--,NA,20,20,563330,RxNorm,Branded Drug Comp,Drug
-19116165,triamcinolone 2 MG [Ledercort],--,NA,NA,NA,564055,RxNorm,Branded Drug Comp,Drug
-19116166,triamcinolone 4 MG [Ledercort],--,NA,NA,NA,564056,RxNorm,Branded Drug Comp,Drug
-19117040,budesonide 0.02 MG/ML [Entocort],--,NA,20,20,565193,RxNorm,Branded Drug Comp,Drug
-19117741,budesonide 0.1 MG/ACTUAT [Rhinocort Aqua],--,NA,20,20,566113,RxNorm,Branded Drug Comp,Drug
-19118641,triamcinolone 4 MG [Aristopak],--,NA,NA,NA,569068,RxNorm,Branded Drug Comp,Drug
+19115612,budesonide 0.25 MG/ML [Preferid],NA,NA,20,20,563329,RxNorm,Branded Drug Comp,Drug
+19115613,budesonide 0.00025 MG/MG [Preferid],NA,NA,20,20,563330,RxNorm,Branded Drug Comp,Drug
+19116165,triamcinolone 2 MG [Ledercort],NA,NA,NA,NA,564055,RxNorm,Branded Drug Comp,Drug
+19116166,triamcinolone 4 MG [Ledercort],NA,NA,NA,NA,564056,RxNorm,Branded Drug Comp,Drug
+19117040,budesonide 0.02 MG/ML [Entocort],NA,NA,20,20,565193,RxNorm,Branded Drug Comp,Drug
+19117741,budesonide 0.1 MG/ACTUAT [Rhinocort Aqua],NA,NA,20,20,566113,RxNorm,Branded Drug Comp,Drug
+19118641,triamcinolone 4 MG [Aristopak],NA,NA,NA,NA,569068,RxNorm,Branded Drug Comp,Drug
 19123496,budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort],FALSE,NA,64090,4984,616830,RxNorm,Branded Drug,Drug
 19123671,nystatin 10000 UNT/ML / triamcinolone 1 MG/ML Topical Cream,FALSE,NA,NA,NA,618090,RxNorm,Clinical Drug,Drug
 19127762,120 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler,FALSE,NA,11471,2673,746803,RxNorm,Quant Clinical Drug,Drug
 19127763,120 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex],FALSE,NA,3069,746,746804,RxNorm,Quant Branded Drug,Drug
 19127768,14 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler,FALSE,NA,51985,4639,746810,RxNorm,Quant Clinical Drug,Drug
 19129069,triamcinolone 0.6 MG/ML Oral Solution,FALSE,NA,NA,NA,756201,RxNorm,Clinical Drug,Drug
-35603735,mometasone furoate 0.22 MG/ACTUAT,--,NA,20,20,1745282,RxNorm,Clinical Drug Comp,Drug
-35603736,mometasone furoate 0.22 MG/ACTUAT [Asmanex],--,NA,20,20,1745284,RxNorm,Branded Drug Comp,Drug
-35603776,budesonide 0.18 MG/ACTUAT [Pulmicort],--,NA,20,20,1745530,RxNorm,Branded Drug Comp,Drug
-35603778,budesonide 0.09 MG/ACTUAT [Pulmicort],--,NA,20,20,1745541,RxNorm,Branded Drug Comp,Drug
-35603779,mometasone furoate 0.11 MG/ACTUAT,--,NA,20,20,1745551,RxNorm,Clinical Drug Comp,Drug
-35603780,mometasone furoate 0.11 MG/ACTUAT [Asmanex],--,NA,20,20,1745553,RxNorm,Branded Drug Comp,Drug
-35604770,triamcinolone acetonide 2 MG/ML,--,NA,NA,NA,1739201,RxNorm,Clinical Drug Comp,Drug
+35603735,mometasone furoate 0.22 MG/ACTUAT,NA,NA,20,20,1745282,RxNorm,Clinical Drug Comp,Drug
+35603736,mometasone furoate 0.22 MG/ACTUAT [Asmanex],NA,NA,20,20,1745284,RxNorm,Branded Drug Comp,Drug
+35603776,budesonide 0.18 MG/ACTUAT [Pulmicort],NA,NA,20,20,1745530,RxNorm,Branded Drug Comp,Drug
+35603778,budesonide 0.09 MG/ACTUAT [Pulmicort],NA,NA,20,20,1745541,RxNorm,Branded Drug Comp,Drug
+35603779,mometasone furoate 0.11 MG/ACTUAT,NA,NA,20,20,1745551,RxNorm,Clinical Drug Comp,Drug
+35603780,mometasone furoate 0.11 MG/ACTUAT [Asmanex],NA,NA,20,20,1745553,RxNorm,Branded Drug Comp,Drug
+35604770,triamcinolone acetonide 2 MG/ML,NA,NA,NA,NA,1739201,RxNorm,Clinical Drug Comp,Drug
 35604771,triamcinolone acetonide 2 MG/ML Injectable Suspension,FALSE,NA,NA,NA,1739202,RxNorm,Clinical Drug,Drug
-19038788,budesonide 0.25 MG/ML [Pulmicort],--,NA,20,20,616816,RxNorm,Branded Drug Comp,Drug
-19038789,budesonide 0.5 MG/ML [Pulmicort],--,NA,20,20,616818,RxNorm,Branded Drug Comp,Drug
-19038790,budesonide 0.125 MG/ML [Pulmicort],--,NA,20,20,616829,RxNorm,Branded Drug Comp,Drug
-19038814,budesonide 0.032 MG/ACTUAT [Rhinocort],--,NA,20,20,566387,RxNorm,Branded Drug Comp,Drug
+19038788,budesonide 0.25 MG/ML [Pulmicort],NA,NA,20,20,616816,RxNorm,Branded Drug Comp,Drug
+19038789,budesonide 0.5 MG/ML [Pulmicort],NA,NA,20,20,616818,RxNorm,Branded Drug Comp,Drug
+19038790,budesonide 0.125 MG/ML [Pulmicort],NA,NA,20,20,616829,RxNorm,Branded Drug Comp,Drug
+19038814,budesonide 0.032 MG/ACTUAT [Rhinocort],NA,NA,20,20,566387,RxNorm,Branded Drug Comp,Drug
 19039049,triamcinolone acetonide 1 MG/ML Topical Cream [Rx Triamcinolone],FALSE,NA,NA,NA,208620,RxNorm,Branded Drug,Drug
-19045921,triamcinolone acetonide 0.05 MG/ACTUAT [AllerNaze],--,NA,NA,NA,833247,RxNorm,Branded Drug Comp,Drug
+19045921,triamcinolone acetonide 0.05 MG/ACTUAT [AllerNaze],NA,NA,NA,NA,833247,RxNorm,Branded Drug Comp,Drug
 19058285,triamcinolone 0.00025 MG/MG / urea 0.1 MG/MG Topical Ointment,FALSE,NA,NA,NA,241489,RxNorm,Clinical Drug,Drug
 19060643,budesonide 0.05 MG/ACTUAT Nasal Spray,TRUE,NA,20,20,247042,RxNorm,Clinical Drug,Drug
 19060647,budesonide 0.2 MG Inhalation Powder,FALSE,NA,20,20,247047,RxNorm,Clinical Drug,Drug
@@ -314,24 +314,24 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 19063231,neomycin 2.5 MG/ML / triamcinolone 1 MG/ML Topical Cream,FALSE,NA,NA,NA,250612,RxNorm,Clinical Drug,Drug
 19063315,budesonide 0.064 MG/ACTUAT Nasal Spray,TRUE,NA,20,20,250648,RxNorm,Clinical Drug,Drug
 19063585,salicylic acid 50 MG/ML / triamcinolone 0.5 MG/ML Topical Lotion,FALSE,NA,NA,NA,250742,RxNorm,Clinical Drug,Drug
-19064076,mometasone furoate 1 MG/ML [Elocon],--,NA,20,20,562875,RxNorm,Branded Drug Comp,Drug
-19064077,mometasone furoate 0.001 MG/MG [Elocon],--,NA,20,20,562876,RxNorm,Branded Drug Comp,Drug
+19064076,mometasone furoate 1 MG/ML [Elocon],NA,NA,20,20,562875,RxNorm,Branded Drug Comp,Drug
+19064077,mometasone furoate 0.001 MG/MG [Elocon],NA,NA,20,20,562876,RxNorm,Branded Drug Comp,Drug
 19064361,neomycin 2.5 MG/ML / triamcinolone 1 MG/ML Topical Lotion,FALSE,NA,NA,NA,251120,RxNorm,Clinical Drug,Drug
 19065985,triamcinolone 4 MG/ML Injectable Suspension,FALSE,NA,NA,NA,259054,RxNorm,Clinical Drug,Drug
-19129670,ciclesonide 0.05 MG/ACTUAT [Omnaris],--,NA,20,20,790274,RxNorm,Branded Drug Comp,Drug
-19129672,mometasone furoate 0.1 MG/ACTUAT,--,NA,20,20,790277,RxNorm,Clinical Drug Comp,Drug
+19129670,ciclesonide 0.05 MG/ACTUAT [Omnaris],NA,NA,20,20,790274,RxNorm,Branded Drug Comp,Drug
+19129672,mometasone furoate 0.1 MG/ACTUAT,NA,NA,20,20,790277,RxNorm,Clinical Drug Comp,Drug
 19129673,7 ACTUAT mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler,FALSE,NA,612,303,790278,RxNorm,Quant Clinical Drug,Drug
-19129674,mometasone furoate 0.1 MG/ACTUAT [Asmanex],--,NA,20,20,790279,RxNorm,Branded Drug Comp,Drug
+19129674,mometasone furoate 0.1 MG/ACTUAT [Asmanex],NA,NA,20,20,790279,RxNorm,Branded Drug Comp,Drug
 19129675,7 ACTUAT mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler [Asmanex],FALSE,NA,20,20,790280,RxNorm,Quant Branded Drug,Drug
 19129676,30 ACTUAT mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler,FALSE,NA,9096,1769,790283,RxNorm,Quant Clinical Drug,Drug
 19129677,30 ACTUAT mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler [Asmanex],FALSE,NA,3032,726,790284,RxNorm,Quant Branded Drug,Drug
 19130450,60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler,FALSE,NA,2403,806,799034,RxNorm,Quant Clinical Drug,Drug
-19130451,ciclesonide 0.16 MG/ACTUAT [Alvesco],--,NA,20,20,799035,RxNorm,Branded Drug Comp,Drug
+19130451,ciclesonide 0.16 MG/ACTUAT [Alvesco],NA,NA,20,20,799035,RxNorm,Branded Drug Comp,Drug
 19130452,60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco],FALSE,NA,1731,310,799037,RxNorm,Quant Branded Drug,Drug
 19130453,60 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler,FALSE,NA,1207,519,799038,RxNorm,Quant Clinical Drug,Drug
-19130454,ciclesonide 0.08 MG/ACTUAT [Alvesco],--,NA,20,20,799039,RxNorm,Branded Drug Comp,Drug
+19130454,ciclesonide 0.08 MG/ACTUAT [Alvesco],NA,NA,20,20,799039,RxNorm,Branded Drug Comp,Drug
 19130455,60 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco],FALSE,NA,914,210,799040,RxNorm,Quant Branded Drug,Drug
-19132265,mometasone furoate 0.01 MG/MG,--,NA,20,20,807205,RxNorm,Clinical Drug Comp,Drug
+19132265,mometasone furoate 0.01 MG/MG,NA,NA,20,20,807205,RxNorm,Clinical Drug Comp,Drug
 19132266,mometasone furoate 0.01 MG/MG Topical Ointment,FALSE,NA,63,45,807206,RxNorm,Clinical Drug,Drug
 19133104,120 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco],FALSE,NA,20,20,825320,RxNorm,Quant Branded Drug,Drug
 36249727,fluticasone propionate 0.05 MG/ACTUAT [Nasoflow],TRUE,NA,20,20,1795587,RxNorm,Branded Drug Comp,Drug
@@ -360,17 +360,17 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 36250139,triamcinolone Metered Dose Nasal Spray [AllerNaze],TRUE,NA,NA,NA,1797905,RxNorm,Branded Drug Form,Drug
 36250140,triamcinolone acetonide 0.05 MG/ACTUAT Metered Dose Nasal Spray [AllerNaze],TRUE,NA,NA,NA,1797906,RxNorm,Branded Drug,Drug
 36250141,fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray,TRUE,NA,3228080,621097,1797907,RxNorm,Clinical Drug,Drug
-35604773,triamcinolone acetonide 2 MG/ML [Vetalog],--,NA,NA,NA,1739204,RxNorm,Branded Drug Comp,Drug
+35604773,triamcinolone acetonide 2 MG/ML [Vetalog],NA,NA,NA,NA,1739204,RxNorm,Branded Drug Comp,Drug
 35604852,triamcinolone Injectable Suspension [Vetalog],FALSE,NA,NA,NA,1739205,RxNorm,Branded Drug Form,Drug
 35604853,triamcinolone acetonide 2 MG/ML Injectable Suspension [Vetalog],FALSE,NA,NA,NA,1739207,RxNorm,Branded Drug,Drug
-35604854,triamcinolone acetonide 6 MG/ML,--,NA,NA,NA,1739208,RxNorm,Clinical Drug Comp,Drug
+35604854,triamcinolone acetonide 6 MG/ML,NA,NA,NA,NA,1739208,RxNorm,Clinical Drug Comp,Drug
 35604855,triamcinolone acetonide 6 MG/ML Injectable Suspension,FALSE,NA,NA,NA,1739209,RxNorm,Clinical Drug,Drug
-35604856,triamcinolone acetonide 6 MG/ML [Vetalog],--,NA,NA,NA,1739210,RxNorm,Branded Drug Comp,Drug
+35604856,triamcinolone acetonide 6 MG/ML [Vetalog],NA,NA,NA,NA,1739210,RxNorm,Branded Drug Comp,Drug
 35604857,triamcinolone acetonide 6 MG/ML Injectable Suspension [Vetalog],FALSE,NA,NA,NA,1739211,RxNorm,Branded Drug,Drug
-35605356,mometasone furoate 2 MG/ML,--,NA,20,20,1721548,RxNorm,Clinical Drug Comp,Drug
+35605356,mometasone furoate 2 MG/ML,NA,NA,20,20,1721548,RxNorm,Clinical Drug Comp,Drug
 35605358,florfenicol / mometasone / terbinafine Otic Solution,FALSE,NA,20,20,1721551,RxNorm,Clinical Drug Form,Drug
 35605359,florfenicol 15 MG/ML / mometasone furoate 2 MG/ML / terbinafine 13.3 MG/ML Otic Solution,FALSE,NA,20,20,1721553,RxNorm,Clinical Drug,Drug
-35605361,florfenicol 15 MG/ML / mometasone furoate 2 MG/ML / terbinafine 13.3 MG/ML [Claro],--,NA,20,20,1721555,RxNorm,Branded Drug Comp,Drug
+35605361,florfenicol 15 MG/ML / mometasone furoate 2 MG/ML / terbinafine 13.3 MG/ML [Claro],NA,NA,20,20,1721555,RxNorm,Branded Drug Comp,Drug
 35605362,florfenicol / mometasone / terbinafine Otic Solution [Claro],FALSE,NA,20,20,1721556,RxNorm,Branded Drug Form,Drug
 35605520,florfenicol 15 MG/ML / mometasone furoate 2 MG/ML / terbinafine 13.3 MG/ML Otic Solution [Claro],FALSE,NA,20,20,1721558,RxNorm,Branded Drug,Drug
 35606162,fluticasone propionate 0.05 MG/ACTUAT [Clarispray],TRUE,NA,20,20,1742499,RxNorm,Branded Drug Comp,Drug
@@ -380,7 +380,7 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 37002374,budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT Metered Dose Inhaler,FALSE,NA,1080,628,2387321,RxNorm,Clinical Drug,Drug
 37002375,budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT Metered Dose Inhaler [Breztri],FALSE,NA,42,20,2387322,RxNorm,Branded Drug,Drug
 37002376,budesonide / formoterol / glycopyrronium Metered Dose Inhaler [Breztri],FALSE,NA,20,20,2387323,RxNorm,Branded Drug Form,Drug
-37002379,budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT [Breztri],--,NA,20,20,2387327,RxNorm,Branded Drug Comp,Drug
+37002379,budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT [Breztri],NA,NA,20,20,2387327,RxNorm,Branded Drug Comp,Drug
 37002810,fluticasone furoate 0.2 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT [Trelegy],TRUE,NA,20,20,2395770,RxNorm,Branded Drug Comp,Drug
 37002811,fluticasone furoate 0.2 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler,TRUE,NA,434,330,2395772,RxNorm,Clinical Drug,Drug
 37002812,fluticasone furoate 0.2 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Trelegy],TRUE,NA,23,20,2395773,RxNorm,Branded Drug,Drug
@@ -407,19 +407,19 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 37003603,14 ACTUAT fluticasone furoate 0.2 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Trelegy],TRUE,NA,813,485,2395771,RxNorm,Quant Branded Drug,Drug
 37003604,30 ACTUAT fluticasone furoate 0.2 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler,TRUE,NA,1157,459,2395774,RxNorm,Quant Clinical Drug,Drug
 37003605,30 ACTUAT fluticasone furoate 0.2 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Trelegy],TRUE,NA,1148,389,2395775,RxNorm,Quant Branded Drug,Drug
-37496919,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [LoZatom],--,NA,20,20,2201555,RxNorm,Branded Drug Comp,Drug
+37496919,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [LoZatom],NA,NA,20,20,2201555,RxNorm,Branded Drug Comp,Drug
 37496920,clotrimazole / gentamicin / mometasone Otic Suspension [LoZatom],FALSE,NA,20,20,2201556,RxNorm,Branded Drug Form,Drug
 37496922,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [LoZatom],FALSE,NA,20,20,2201558,RxNorm,Branded Drug,Drug
-37498341,budesonide 6 MG,--,NA,20,20,2269303,RxNorm,Clinical Drug Comp,Drug
+37498341,budesonide 6 MG,NA,NA,20,20,2269303,RxNorm,Clinical Drug Comp,Drug
 37498342,budesonide Extended Release Oral Capsule,FALSE,NA,20,20,2269304,RxNorm,Clinical Drug Form,Drug
 37498343,budesonide 6 MG Extended Release Oral Capsule,FALSE,NA,20,20,2269306,RxNorm,Clinical Drug,Drug
 37498344,budesonide 9 MG Extended Release Oral Capsule,FALSE,NA,26,21,2269308,RxNorm,Clinical Drug,Drug
-37498548,budesonide 6 MG [Ortikos],--,NA,20,20,2273103,RxNorm,Branded Drug Comp,Drug
+37498548,budesonide 6 MG [Ortikos],NA,NA,20,20,2273103,RxNorm,Branded Drug Comp,Drug
 37498549,budesonide Extended Release Oral Capsule [Ortikos],FALSE,NA,20,20,2273104,RxNorm,Branded Drug Form,Drug
 37498552,budesonide 6 MG Extended Release Oral Capsule [Ortikos],FALSE,NA,20,20,2273108,RxNorm,Branded Drug,Drug
-37498553,budesonide 9 MG [Ortikos],--,NA,20,20,2273109,RxNorm,Branded Drug Comp,Drug
+37498553,budesonide 9 MG [Ortikos],NA,NA,20,20,2273109,RxNorm,Branded Drug Comp,Drug
 37498554,budesonide 9 MG Extended Release Oral Capsule [Ortikos],FALSE,NA,20,20,2273111,RxNorm,Branded Drug,Drug
-37499514,triamcinolone acetonide 0.055 MG/ACTUAT [Aller-Cort],--,NA,NA,NA,2289239,RxNorm,Branded Drug Comp,Drug
+37499514,triamcinolone acetonide 0.055 MG/ACTUAT [Aller-Cort],NA,NA,NA,NA,2289239,RxNorm,Branded Drug Comp,Drug
 37499515,triamcinolone Metered Dose Nasal Spray [Aller-Cort],TRUE,NA,NA,NA,2289240,RxNorm,Branded Drug Form,Drug
 37499518,triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Aller-Cort],TRUE,NA,NA,NA,2289243,RxNorm,Branded Drug,Drug
 37499789,24 HR budesonide 6 MG Extended Release Oral Capsule,FALSE,NA,25,20,2269305,RxNorm,Quant Clinical Drug,Drug
@@ -504,8 +504,8 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 40020322,budesonide Topical Ointment [Preferid],FALSE,NA,20,20,106788,RxNorm,Branded Drug Form,Drug
 40162373,econazole nitrate 0.01 MG/MG / triamcinolone acetonide 0.001 MG/MG Topical Ointment,FALSE,NA,NA,NA,857693,RxNorm,Clinical Drug,Drug
 40162380,econazole nitrate 10 MG/ML / triamcinolone acetonide 1 MG/ML Topical Cream,FALSE,NA,NA,NA,857695,RxNorm,Clinical Drug,Drug
-40163406,triamcinolone acetonide 0.001 MG/MG,--,NA,NA,NA,857692,RxNorm,Clinical Drug Comp,Drug
-40163407,triamcinolone acetonide 1 MG/ML,--,NA,NA,NA,857694,RxNorm,Clinical Drug Comp,Drug
+40163406,triamcinolone acetonide 0.001 MG/MG,NA,NA,NA,NA,857692,RxNorm,Clinical Drug Comp,Drug
+40163407,triamcinolone acetonide 1 MG/ML,NA,NA,NA,NA,857694,RxNorm,Clinical Drug Comp,Drug
 40169200,28 ACTUAT fluticasone propionate 0.05 MG/ACTUAT Dry Powder Inhaler,TRUE,NA,327,80,896028,RxNorm,Quant Clinical Drug,Drug
 40169201,28 ACTUAT fluticasone propionate 0.05 MG/ACTUAT Dry Powder Inhaler [Flovent],TRUE,NA,20,20,896029,RxNorm,Quant Branded Drug,Drug
 40169202,28 ACTUAT fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,TRUE,NA,11311,767,896174,RxNorm,Quant Clinical Drug,Drug
@@ -563,7 +563,7 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 40170637,fluticasone / salmeterol Metered Dose Inhaler [Advair],TRUE,NA,20,20,896270,RxNorm,Branded Drug Form,Drug
 40170654,fluticasone furoate 0.0275 MG/ACTUAT,TRUE,NA,20,20,895967,RxNorm,Clinical Drug Comp,Drug
 40170655,fluticasone furoate 0.0275 MG/ACTUAT [Veramyst],TRUE,NA,20,20,895969,RxNorm,Branded Drug Comp,Drug
-40170920,mometasone furoate 1 MG/ML [Momexin],--,NA,20,20,891163,RxNorm,Branded Drug Comp,Drug
+40170920,mometasone furoate 1 MG/ML [Momexin],NA,NA,20,20,891163,RxNorm,Branded Drug Comp,Drug
 40171015,fluticasone propionate 0.00005 MG/MG,TRUE,NA,20,20,895486,RxNorm,Clinical Drug Comp,Drug
 40171016,fluticasone propionate 0.00005 MG/MG Topical Ointment,TRUE,NA,6296,1672,895487,RxNorm,Clinical Drug,Drug
 40171017,fluticasone propionate 0.00005 MG/MG Topical Ointment [Cutivate],TRUE,NA,410,275,895697,RxNorm,Branded Drug,Drug
@@ -670,10 +670,10 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 40173400,120 ACTUAT budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort],FALSE,NA,21846,3498,966524,RxNorm,Quant Branded Drug,Drug
 40173447,60 ACTUAT budesonide 0.09 MG/ACTUAT Dry Powder Inhaler,FALSE,NA,8523,3511,966527,RxNorm,Quant Clinical Drug,Drug
 40173448,60 ACTUAT budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort],FALSE,NA,8941,2071,966529,RxNorm,Quant Branded Drug,Drug
-40178622,budesonide 3 MG [Entocort],--,NA,20,20,991399,RxNorm,Branded Drug Comp,Drug
-40221061,triamcinolone acetonide 0.15 MG/ML,--,NA,NA,NA,1805708,RxNorm,Clinical Drug Comp,Drug
+40178622,budesonide 3 MG [Entocort],NA,NA,20,20,991399,RxNorm,Branded Drug Comp,Drug
+40221061,triamcinolone acetonide 0.15 MG/ML,NA,NA,NA,NA,1805708,RxNorm,Clinical Drug Comp,Drug
 40221062,triamcinolone acetonide 0.15 MG/ML Topical Spray,FALSE,NA,NA,NA,1805709,RxNorm,Clinical Drug,Drug
-40221064,triamcinolone acetonide 0.15 MG/ML [Genesis],--,NA,NA,NA,1805711,RxNorm,Branded Drug Comp,Drug
+40221064,triamcinolone acetonide 0.15 MG/ML [Genesis],NA,NA,NA,NA,1805711,RxNorm,Branded Drug Comp,Drug
 40221065,triamcinolone Topical Spray [Genesis],FALSE,NA,NA,NA,1805712,RxNorm,Branded Drug Form,Drug
 40221067,triamcinolone acetonide 0.15 MG/ML Topical Spray [Genesis],FALSE,NA,NA,NA,1805714,RxNorm,Branded Drug,Drug
 40223712,formoterol / mometasone Metered Dose Inhaler,FALSE,NA,20,20,998040,RxNorm,Clinical Drug Form,Drug
@@ -689,19 +689,19 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 40233219,2 ML triamcinolone acetonide 40 MG/ML Prefilled Syringe,FALSE,NA,NA,NA,1086276,RxNorm,Quant Clinical Drug,Drug
 40233695,chlortetracycline 0.03 MG/MG / triamcinolone acetonide 0.001 MG/MG Topical Ointment,FALSE,NA,NA,NA,1086277,RxNorm,Clinical Drug,Drug
 40233946,triamcinolone 1 MG Oral Tablet [Aristocort],FALSE,NA,NA,NA,1085696,RxNorm,Branded Drug,Drug
-40233947,triamcinolone 1 MG [Aristocort],--,NA,NA,NA,1085694,RxNorm,Branded Drug Comp,Drug
+40233947,triamcinolone 1 MG [Aristocort],NA,NA,NA,NA,1085694,RxNorm,Branded Drug Comp,Drug
 40233948,triamcinolone 2 MG Oral Tablet [Aristocort],FALSE,NA,NA,NA,1085698,RxNorm,Branded Drug,Drug
-40233949,triamcinolone 2 MG [Aristocort],--,NA,NA,NA,1085697,RxNorm,Branded Drug Comp,Drug
+40233949,triamcinolone 2 MG [Aristocort],NA,NA,NA,NA,1085697,RxNorm,Branded Drug Comp,Drug
 40233950,triamcinolone 4 MG Oral Tablet [Aristocort],FALSE,NA,NA,NA,1085700,RxNorm,Branded Drug,Drug
-40233951,triamcinolone 4 MG [Aristocort],--,NA,NA,NA,1085699,RxNorm,Branded Drug Comp,Drug
+40233951,triamcinolone 4 MG [Aristocort],NA,NA,NA,NA,1085699,RxNorm,Branded Drug Comp,Drug
 40233952,triamcinolone 8 MG Oral Tablet [Aristocort],FALSE,NA,NA,NA,1085703,RxNorm,Branded Drug,Drug
-40233953,triamcinolone 8 MG [Aristocort],--,NA,NA,NA,1085702,RxNorm,Branded Drug Comp,Drug
-40233954,triamcinolone acetonide 0.00025 MG/MG,--,NA,NA,NA,1085632,RxNorm,Clinical Drug Comp,Drug
+40233953,triamcinolone 8 MG [Aristocort],NA,NA,NA,NA,1085702,RxNorm,Branded Drug Comp,Drug
+40233954,triamcinolone acetonide 0.00025 MG/MG,NA,NA,NA,NA,1085632,RxNorm,Clinical Drug Comp,Drug
 40233955,triamcinolone acetonide 0.00025 MG/MG Topical Ointment,FALSE,NA,37986,14519,1085633,RxNorm,Clinical Drug,Drug
 40233956,triamcinolone acetonide 0.00025 MG/MG Topical Ointment [Aristocort],FALSE,NA,2081,932,1085635,RxNorm,Branded Drug,Drug
 40233957,triamcinolone acetonide 0.00025 MG/MG Topical Ointment [Kenalog],FALSE,NA,3213,1178,1085714,RxNorm,Branded Drug,Drug
-40233958,triamcinolone acetonide 0.00025 MG/MG [Aristocort],--,NA,20,20,1085634,RxNorm,Branded Drug Comp,Drug
-40233959,triamcinolone acetonide 0.00025 MG/MG [Kenalog],--,NA,20,20,1085713,RxNorm,Branded Drug Comp,Drug
+40233958,triamcinolone acetonide 0.00025 MG/MG [Aristocort],NA,NA,20,20,1085634,RxNorm,Branded Drug Comp,Drug
+40233959,triamcinolone acetonide 0.00025 MG/MG [Kenalog],NA,NA,20,20,1085713,RxNorm,Branded Drug Comp,Drug
 40233960,triamcinolone acetonide 0.001 MG/MG Oral Paste,FALSE,NA,25865,9459,1085728,RxNorm,Clinical Drug,Drug
 40233961,triamcinolone acetonide 0.001 MG/MG Oral Paste [Kenalog],FALSE,NA,171,63,1085730,RxNorm,Branded Drug,Drug
 40233962,triamcinolone acetonide 0.001 MG/MG Oral Paste [Oralone],FALSE,NA,779,455,1085767,RxNorm,Branded Drug,Drug
@@ -712,29 +712,29 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 40233967,triamcinolone acetonide 0.001 MG/MG Topical Ointment [Cinolar],FALSE,NA,20,20,1085769,RxNorm,Branded Drug,Drug
 40233968,triamcinolone acetonide 0.001 MG/MG Topical Ointment [Kenalog],FALSE,NA,20,20,1085732,RxNorm,Branded Drug,Drug
 40233969,triamcinolone acetonide 0.001 MG/MG Topical Ointment [Triderm],FALSE,NA,4836,2116,1085771,RxNorm,Branded Drug,Drug
-40233970,triamcinolone acetonide 0.001 MG/MG [Aricin],--,NA,20,20,1085757,RxNorm,Branded Drug Comp,Drug
-40233971,triamcinolone acetonide 0.001 MG/MG [Aristocort],--,NA,20,20,1085637,RxNorm,Branded Drug Comp,Drug
-40233972,triamcinolone acetonide 0.001 MG/MG [Cinolar],--,NA,20,20,1085768,RxNorm,Branded Drug Comp,Drug
-40233973,triamcinolone acetonide 0.001 MG/MG [Kenalog],--,NA,20,20,1085729,RxNorm,Branded Drug Comp,Drug
+40233970,triamcinolone acetonide 0.001 MG/MG [Aricin],NA,NA,20,20,1085757,RxNorm,Branded Drug Comp,Drug
+40233971,triamcinolone acetonide 0.001 MG/MG [Aristocort],NA,NA,20,20,1085637,RxNorm,Branded Drug Comp,Drug
+40233972,triamcinolone acetonide 0.001 MG/MG [Cinolar],NA,NA,20,20,1085768,RxNorm,Branded Drug Comp,Drug
+40233973,triamcinolone acetonide 0.001 MG/MG [Kenalog],NA,NA,20,20,1085729,RxNorm,Branded Drug Comp,Drug
 40233974,triamcinolone acetonide 0.001 MG/MG [Oralone],FALSE,NA,20,20,1085766,RxNorm,Branded Drug Comp,Drug
 40233975,triamcinolone acetonide 0.001 MG/MG [Triderm],FALSE,NA,20,20,1085770,RxNorm,Branded Drug Comp,Drug
-40233976,triamcinolone acetonide 0.005 MG/MG,--,NA,20,20,1085639,RxNorm,Clinical Drug Comp,Drug
+40233976,triamcinolone acetonide 0.005 MG/MG,NA,NA,20,20,1085639,RxNorm,Clinical Drug Comp,Drug
 40233977,triamcinolone acetonide 0.005 MG/MG Topical Ointment,FALSE,NA,27852,11916,1085640,RxNorm,Clinical Drug,Drug
 40233978,triamcinolone acetonide 0.005 MG/MG Topical Ointment [Aristocort],FALSE,NA,2450,933,1085642,RxNorm,Branded Drug,Drug
 40233979,triamcinolone acetonide 0.005 MG/MG Topical Ointment [Kenalog],FALSE,NA,3593,1586,1085734,RxNorm,Branded Drug,Drug
-40233980,triamcinolone acetonide 0.005 MG/MG [Aristocort],--,NA,20,20,1085641,RxNorm,Branded Drug Comp,Drug
-40233981,triamcinolone acetonide 0.005 MG/MG [Kenalog],--,NA,20,20,1085733,RxNorm,Branded Drug Comp,Drug
+40233980,triamcinolone acetonide 0.005 MG/MG [Aristocort],NA,NA,20,20,1085641,RxNorm,Branded Drug Comp,Drug
+40233981,triamcinolone acetonide 0.005 MG/MG [Kenalog],NA,NA,20,20,1085733,RxNorm,Branded Drug Comp,Drug
 40233982,triamcinolone acetonide 0.05 MG/ACTUAT [Tri-Nasal],TRUE,NA,20,20,1085988,RxNorm,Branded Drug Comp,Drug
-40233983,triamcinolone acetonide 0.055 MG/ACTUAT,--,NA,20,20,1085794,RxNorm,Clinical Drug Comp,Drug
-40233984,triamcinolone acetonide 0.055 MG/ACTUAT [Nasacort],--,NA,20,20,1085796,RxNorm,Branded Drug Comp,Drug
-40233985,triamcinolone acetonide 0.075 MG/ACTUAT,--,NA,20,20,1085804,RxNorm,Clinical Drug Comp,Drug
-40233986,triamcinolone acetonide 0.075 MG/ACTUAT [Azmacort],--,NA,20,20,1085806,RxNorm,Branded Drug Comp,Drug
-40233987,triamcinolone acetonide 0.1 MG/ACTUAT,--,NA,20,20,1086365,RxNorm,Clinical Drug Comp,Drug
-40233988,triamcinolone acetonide 0.147 MG/ML,--,NA,20,20,1085735,RxNorm,Clinical Drug Comp,Drug
+40233983,triamcinolone acetonide 0.055 MG/ACTUAT,NA,NA,20,20,1085794,RxNorm,Clinical Drug Comp,Drug
+40233984,triamcinolone acetonide 0.055 MG/ACTUAT [Nasacort],NA,NA,20,20,1085796,RxNorm,Branded Drug Comp,Drug
+40233985,triamcinolone acetonide 0.075 MG/ACTUAT,NA,NA,20,20,1085804,RxNorm,Clinical Drug Comp,Drug
+40233986,triamcinolone acetonide 0.075 MG/ACTUAT [Azmacort],NA,NA,20,20,1085806,RxNorm,Branded Drug Comp,Drug
+40233987,triamcinolone acetonide 0.1 MG/ACTUAT,NA,NA,20,20,1086365,RxNorm,Clinical Drug Comp,Drug
+40233988,triamcinolone acetonide 0.147 MG/ML,NA,NA,20,20,1085735,RxNorm,Clinical Drug Comp,Drug
 40233989,triamcinolone acetonide 0.147 MG/ML Topical Spray,FALSE,NA,3460,606,1085736,RxNorm,Clinical Drug,Drug
 40233990,triamcinolone acetonide 0.147 MG/ML Topical Spray [Kenalog],FALSE,NA,594,114,1085738,RxNorm,Branded Drug,Drug
-40233991,triamcinolone acetonide 0.147 MG/ML [Kenalog],--,NA,20,20,1085737,RxNorm,Branded Drug Comp,Drug
-40233992,triamcinolone acetonide 0.25 MG/ML,--,NA,20,20,1085643,RxNorm,Clinical Drug Comp,Drug
+40233991,triamcinolone acetonide 0.147 MG/ML [Kenalog],NA,NA,20,20,1085737,RxNorm,Branded Drug Comp,Drug
+40233992,triamcinolone acetonide 0.25 MG/ML,NA,NA,20,20,1085643,RxNorm,Clinical Drug Comp,Drug
 40233993,triamcinolone acetonide 0.25 MG/ML Topical Cream,FALSE,NA,56751,22098,1085644,RxNorm,Clinical Drug,Drug
 40233994,triamcinolone acetonide 0.25 MG/ML Topical Cream [Aricin],FALSE,NA,20,20,1085760,RxNorm,Branded Drug,Drug
 40233995,triamcinolone acetonide 0.25 MG/ML Topical Cream [Aristocort],FALSE,NA,2280,598,1085647,RxNorm,Branded Drug,Drug
@@ -743,12 +743,12 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 40233998,triamcinolone acetonide 0.25 MG/ML Topical Cream [Triacet],FALSE,NA,879,295,1085781,RxNorm,Branded Drug,Drug
 40233999,triamcinolone acetonide 0.25 MG/ML Topical Lotion,FALSE,NA,3209,1567,1085741,RxNorm,Clinical Drug,Drug
 40234003,triamcinolone acetonide 0.25 MG/ML Topical Lotion [Kenalog],FALSE,NA,507,255,1085742,RxNorm,Branded Drug,Drug
-40234004,triamcinolone acetonide 0.25 MG/ML [Aricin],--,NA,20,20,1085759,RxNorm,Branded Drug Comp,Drug
-40234005,triamcinolone acetonide 0.25 MG/ML [Aristocort],--,NA,20,20,1085645,RxNorm,Branded Drug Comp,Drug
-40234006,triamcinolone acetonide 0.25 MG/ML [Flutex],--,NA,20,20,1085774,RxNorm,Branded Drug Comp,Drug
-40234007,triamcinolone acetonide 0.25 MG/ML [Kenalog],--,NA,20,20,1085739,RxNorm,Branded Drug Comp,Drug
-40234008,triamcinolone acetonide 0.25 MG/ML [Triacet],--,NA,20,20,1085780,RxNorm,Branded Drug Comp,Drug
-40234009,triamcinolone acetonide 0.5 MG/ML,--,NA,20,20,1085976,RxNorm,Clinical Drug Comp,Drug
+40234004,triamcinolone acetonide 0.25 MG/ML [Aricin],NA,NA,20,20,1085759,RxNorm,Branded Drug Comp,Drug
+40234005,triamcinolone acetonide 0.25 MG/ML [Aristocort],NA,NA,20,20,1085645,RxNorm,Branded Drug Comp,Drug
+40234006,triamcinolone acetonide 0.25 MG/ML [Flutex],NA,NA,20,20,1085774,RxNorm,Branded Drug Comp,Drug
+40234007,triamcinolone acetonide 0.25 MG/ML [Kenalog],NA,NA,20,20,1085739,RxNorm,Branded Drug Comp,Drug
+40234008,triamcinolone acetonide 0.25 MG/ML [Triacet],NA,NA,20,20,1085780,RxNorm,Branded Drug Comp,Drug
+40234009,triamcinolone acetonide 0.5 MG/ML,NA,NA,20,20,1085976,RxNorm,Clinical Drug Comp,Drug
 40234010,triamcinolone acetonide 0.5 MG/ML Topical Cream,FALSE,NA,20,20,1085977,RxNorm,Clinical Drug,Drug
 40234011,triamcinolone acetonide 1 MG/ML Topical Cream [Aricin],FALSE,NA,20,20,1085762,RxNorm,Branded Drug,Drug
 40234012,triamcinolone acetonide 1 MG/ML Topical Cream [Aristocort],FALSE,NA,20,20,1085658,RxNorm,Branded Drug,Drug
@@ -760,23 +760,23 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 40234018,triamcinolone acetonide 1 MG/ML Topical Cream [Zytopic],FALSE,NA,20,20,1085785,RxNorm,Branded Drug,Drug
 40234019,triamcinolone acetonide 1 MG/ML Topical Lotion,FALSE,NA,18159,6550,1085745,RxNorm,Clinical Drug,Drug
 40234020,triamcinolone acetonide 1 MG/ML Topical Lotion [Kenalog],FALSE,NA,2030,1062,1085746,RxNorm,Branded Drug,Drug
-40234021,triamcinolone acetonide 1 MG/ML [Aricin],--,NA,20,20,1085761,RxNorm,Branded Drug Comp,Drug
-40234022,triamcinolone acetonide 1 MG/ML [Aristocort],--,NA,20,20,1085657,RxNorm,Branded Drug Comp,Drug
-40234023,triamcinolone acetonide 1 MG/ML [Delta Tritex],--,NA,20,20,1085971,RxNorm,Branded Drug Comp,Drug
-40234024,triamcinolone acetonide 1 MG/ML [Flutex],--,NA,20,20,1085776,RxNorm,Branded Drug Comp,Drug
-40234025,triamcinolone acetonide 1 MG/ML [Kenalog],--,NA,20,20,1085743,RxNorm,Branded Drug Comp,Drug
-40234026,triamcinolone acetonide 1 MG/ML [Triacet],--,NA,20,20,1085782,RxNorm,Branded Drug Comp,Drug
+40234021,triamcinolone acetonide 1 MG/ML [Aricin],NA,NA,20,20,1085761,RxNorm,Branded Drug Comp,Drug
+40234022,triamcinolone acetonide 1 MG/ML [Aristocort],NA,NA,20,20,1085657,RxNorm,Branded Drug Comp,Drug
+40234023,triamcinolone acetonide 1 MG/ML [Delta Tritex],NA,NA,20,20,1085971,RxNorm,Branded Drug Comp,Drug
+40234024,triamcinolone acetonide 1 MG/ML [Flutex],NA,NA,20,20,1085776,RxNorm,Branded Drug Comp,Drug
+40234025,triamcinolone acetonide 1 MG/ML [Kenalog],NA,NA,20,20,1085743,RxNorm,Branded Drug Comp,Drug
+40234026,triamcinolone acetonide 1 MG/ML [Triacet],NA,NA,20,20,1085782,RxNorm,Branded Drug Comp,Drug
 40234027,triamcinolone acetonide 1 MG/ML [Triderm],FALSE,NA,20,20,1085772,RxNorm,Branded Drug Comp,Drug
 40234028,triamcinolone acetonide 1 MG/ML [Zytopic],FALSE,NA,20,20,1085784,RxNorm,Branded Drug Comp,Drug
-40234029,triamcinolone acetonide 10 MG/ML,--,NA,20,20,1085749,RxNorm,Clinical Drug Comp,Drug
+40234029,triamcinolone acetonide 10 MG/ML,NA,NA,20,20,1085749,RxNorm,Clinical Drug Comp,Drug
 40234030,triamcinolone acetonide 10 MG/ML Injectable Suspension,FALSE,NA,51794,17683,1085750,RxNorm,Clinical Drug,Drug
 40234031,triamcinolone acetonide 10 MG/ML Injectable Suspension [Kenalog],FALSE,NA,22821,8829,1085752,RxNorm,Branded Drug,Drug
-40234032,triamcinolone acetonide 10 MG/ML [Kenalog],--,NA,20,20,1085751,RxNorm,Branded Drug Comp,Drug
-40234033,triamcinolone acetonide 3 MG/ML,--,NA,20,20,1085984,RxNorm,Clinical Drug Comp,Drug
+40234032,triamcinolone acetonide 10 MG/ML [Kenalog],NA,NA,20,20,1085751,RxNorm,Branded Drug Comp,Drug
+40234033,triamcinolone acetonide 3 MG/ML,NA,NA,20,20,1085984,RxNorm,Clinical Drug Comp,Drug
 40234034,triamcinolone acetonide 3 MG/ML Injectable Suspension,FALSE,NA,20,20,1085985,RxNorm,Clinical Drug,Drug
 40234035,triamcinolone acetonide 3 MG/ML Injectable Suspension [TAC],FALSE,NA,20,20,1085987,RxNorm,Branded Drug,Drug
-40234036,triamcinolone acetonide 3 MG/ML [TAC],--,NA,20,20,1085986,RxNorm,Branded Drug Comp,Drug
-40234037,triamcinolone acetonide 40 MG/ML,--,NA,20,20,1085753,RxNorm,Clinical Drug Comp,Drug
+40234036,triamcinolone acetonide 3 MG/ML [TAC],NA,NA,20,20,1085986,RxNorm,Branded Drug Comp,Drug
+40234037,triamcinolone acetonide 40 MG/ML,NA,NA,20,20,1085753,RxNorm,Clinical Drug Comp,Drug
 40234038,triamcinolone acetonide 40 MG/ML Injectable Suspension,FALSE,NA,476173,138329,1085754,RxNorm,Clinical Drug,Drug
 40234039,triamcinolone acetonide 40 MG/ML Injectable Suspension [Acetocot],FALSE,NA,20,20,1086000,RxNorm,Branded Drug,Drug
 40234040,triamcinolone acetonide 40 MG/ML Injectable Suspension [Cenocort],FALSE,NA,20,20,1086341,RxNorm,Branded Drug,Drug
@@ -800,40 +800,40 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 40234058,triamcinolone acetonide 40 MG/ML Injectable Suspension [Trilog],FALSE,NA,20,20,1086261,RxNorm,Branded Drug,Drug
 40234059,triamcinolone acetonide 40 MG/ML Injectable Suspension [Trilone],FALSE,NA,20,20,1086263,RxNorm,Branded Drug,Drug
 40234060,triamcinolone acetonide 40 MG/ML Injectable Suspension [U-Tri-Lone],FALSE,NA,20,20,1086267,RxNorm,Branded Drug,Drug
-40234061,triamcinolone acetonide 40 MG/ML [Acetocot],--,NA,20,20,1085999,RxNorm,Branded Drug Comp,Drug
-40234062,triamcinolone acetonide 40 MG/ML [Cenocort],--,NA,20,20,1086339,RxNorm,Branded Drug Comp,Drug
-40234063,triamcinolone acetonide 40 MG/ML [Clinalog],--,NA,20,20,1086034,RxNorm,Branded Drug Comp,Drug
-40234064,triamcinolone acetonide 40 MG/ML [Cort-K],--,NA,20,20,1086036,RxNorm,Branded Drug Comp,Drug
-40234065,triamcinolone acetonide 40 MG/ML [Cortinide],--,NA,20,20,1086239,RxNorm,Branded Drug Comp,Drug
-40234066,triamcinolone acetonide 40 MG/ML [Ken-Jec],--,NA,20,20,1086039,RxNorm,Branded Drug Comp,Drug
-40234067,triamcinolone acetonide 40 MG/ML [Kenaject],--,NA,20,20,1086043,RxNorm,Branded Drug Comp,Drug
-40234068,triamcinolone acetonide 40 MG/ML [Kenalog],--,NA,20,20,1085755,RxNorm,Branded Drug Comp,Drug
-40234069,triamcinolone acetonide 40 MG/ML [Robalog],--,NA,20,20,1086241,RxNorm,Branded Drug Comp,Drug
-40234070,triamcinolone acetonide 40 MG/ML [Sano Log],--,NA,20,20,1086248,RxNorm,Branded Drug Comp,Drug
-40234071,triamcinolone acetonide 40 MG/ML [TAC],--,NA,20,20,1086342,RxNorm,Branded Drug Comp,Drug
-40234072,triamcinolone acetonide 40 MG/ML [Tramacort],--,NA,20,20,1086047,RxNorm,Branded Drug Comp,Drug
-40234073,triamcinolone acetonide 40 MG/ML [Tri-Kort],--,NA,20,20,1086252,RxNorm,Branded Drug Comp,Drug
-40234074,triamcinolone acetonide 40 MG/ML [Tri-Med],--,NA,20,20,1086254,RxNorm,Branded Drug Comp,Drug
-40234075,triamcinolone acetonide 40 MG/ML [Triam],--,NA,20,20,1086053,RxNorm,Branded Drug Comp,Drug
-40234076,triamcinolone acetonide 40 MG/ML [Triamcot],--,NA,20,20,1086256,RxNorm,Branded Drug Comp,Drug
-40234077,triamcinolone acetonide 40 MG/ML [Triamonide],--,NA,20,20,1086113,RxNorm,Branded Drug Comp,Drug
-40234078,triamcinolone acetonide 40 MG/ML [Triesence],--,NA,20,20,1086258,RxNorm,Branded Drug Comp,Drug
-40234079,triamcinolone acetonide 40 MG/ML [Trilocort],--,NA,20,20,1086452,RxNorm,Branded Drug Comp,Drug
-40234080,triamcinolone acetonide 40 MG/ML [Trilog],--,NA,20,20,1086260,RxNorm,Branded Drug Comp,Drug
-40234081,triamcinolone acetonide 40 MG/ML [Trilone],--,NA,20,20,1086262,RxNorm,Branded Drug Comp,Drug
-40234082,triamcinolone acetonide 40 MG/ML [U-Tri-Lone],--,NA,20,20,1086266,RxNorm,Branded Drug Comp,Drug
-40234083,triamcinolone acetonide 5 MG/ML,--,NA,20,20,1085685,RxNorm,Clinical Drug Comp,Drug
+40234061,triamcinolone acetonide 40 MG/ML [Acetocot],NA,NA,20,20,1085999,RxNorm,Branded Drug Comp,Drug
+40234062,triamcinolone acetonide 40 MG/ML [Cenocort],NA,NA,20,20,1086339,RxNorm,Branded Drug Comp,Drug
+40234063,triamcinolone acetonide 40 MG/ML [Clinalog],NA,NA,20,20,1086034,RxNorm,Branded Drug Comp,Drug
+40234064,triamcinolone acetonide 40 MG/ML [Cort-K],NA,NA,20,20,1086036,RxNorm,Branded Drug Comp,Drug
+40234065,triamcinolone acetonide 40 MG/ML [Cortinide],NA,NA,20,20,1086239,RxNorm,Branded Drug Comp,Drug
+40234066,triamcinolone acetonide 40 MG/ML [Ken-Jec],NA,NA,20,20,1086039,RxNorm,Branded Drug Comp,Drug
+40234067,triamcinolone acetonide 40 MG/ML [Kenaject],NA,NA,20,20,1086043,RxNorm,Branded Drug Comp,Drug
+40234068,triamcinolone acetonide 40 MG/ML [Kenalog],NA,NA,20,20,1085755,RxNorm,Branded Drug Comp,Drug
+40234069,triamcinolone acetonide 40 MG/ML [Robalog],NA,NA,20,20,1086241,RxNorm,Branded Drug Comp,Drug
+40234070,triamcinolone acetonide 40 MG/ML [Sano Log],NA,NA,20,20,1086248,RxNorm,Branded Drug Comp,Drug
+40234071,triamcinolone acetonide 40 MG/ML [TAC],NA,NA,20,20,1086342,RxNorm,Branded Drug Comp,Drug
+40234072,triamcinolone acetonide 40 MG/ML [Tramacort],NA,NA,20,20,1086047,RxNorm,Branded Drug Comp,Drug
+40234073,triamcinolone acetonide 40 MG/ML [Tri-Kort],NA,NA,20,20,1086252,RxNorm,Branded Drug Comp,Drug
+40234074,triamcinolone acetonide 40 MG/ML [Tri-Med],NA,NA,20,20,1086254,RxNorm,Branded Drug Comp,Drug
+40234075,triamcinolone acetonide 40 MG/ML [Triam],NA,NA,20,20,1086053,RxNorm,Branded Drug Comp,Drug
+40234076,triamcinolone acetonide 40 MG/ML [Triamcot],NA,NA,20,20,1086256,RxNorm,Branded Drug Comp,Drug
+40234077,triamcinolone acetonide 40 MG/ML [Triamonide],NA,NA,20,20,1086113,RxNorm,Branded Drug Comp,Drug
+40234078,triamcinolone acetonide 40 MG/ML [Triesence],NA,NA,20,20,1086258,RxNorm,Branded Drug Comp,Drug
+40234079,triamcinolone acetonide 40 MG/ML [Trilocort],NA,NA,20,20,1086452,RxNorm,Branded Drug Comp,Drug
+40234080,triamcinolone acetonide 40 MG/ML [Trilog],NA,NA,20,20,1086260,RxNorm,Branded Drug Comp,Drug
+40234081,triamcinolone acetonide 40 MG/ML [Trilone],NA,NA,20,20,1086262,RxNorm,Branded Drug Comp,Drug
+40234082,triamcinolone acetonide 40 MG/ML [U-Tri-Lone],NA,NA,20,20,1086266,RxNorm,Branded Drug Comp,Drug
+40234083,triamcinolone acetonide 5 MG/ML,NA,NA,20,20,1085685,RxNorm,Clinical Drug Comp,Drug
 40234084,triamcinolone acetonide 5 MG/ML Topical Cream,FALSE,NA,79717,27575,1085686,RxNorm,Clinical Drug,Drug
 40234085,triamcinolone acetonide 5 MG/ML Topical Cream [Aricin],FALSE,NA,20,20,1085764,RxNorm,Branded Drug,Drug
 40234086,triamcinolone acetonide 5 MG/ML Topical Cream [Aristocort],FALSE,NA,1446,590,1085688,RxNorm,Branded Drug,Drug
 40234087,triamcinolone acetonide 5 MG/ML Topical Cream [Cinalog],FALSE,NA,7761,623,1086271,RxNorm,Branded Drug,Drug
 40234088,triamcinolone acetonide 5 MG/ML Topical Cream [Flutex],FALSE,NA,20,20,1085779,RxNorm,Branded Drug,Drug
 40234089,triamcinolone acetonide 5 MG/ML Topical Cream [Kenalog],FALSE,NA,20,20,1085748,RxNorm,Branded Drug,Drug
-40234090,triamcinolone acetonide 5 MG/ML [Aricin],--,NA,20,20,1085763,RxNorm,Branded Drug Comp,Drug
-40234091,triamcinolone acetonide 5 MG/ML [Aristocort],--,NA,20,20,1085687,RxNorm,Branded Drug Comp,Drug
-40234092,triamcinolone acetonide 5 MG/ML [Cinalog],--,NA,20,20,1086270,RxNorm,Branded Drug Comp,Drug
-40234093,triamcinolone acetonide 5 MG/ML [Flutex],--,NA,20,20,1085778,RxNorm,Branded Drug Comp,Drug
-40234094,triamcinolone acetonide 5 MG/ML [Kenalog],--,NA,20,20,1085747,RxNorm,Branded Drug Comp,Drug
+40234090,triamcinolone acetonide 5 MG/ML [Aricin],NA,NA,20,20,1085763,RxNorm,Branded Drug Comp,Drug
+40234091,triamcinolone acetonide 5 MG/ML [Aristocort],NA,NA,20,20,1085687,RxNorm,Branded Drug Comp,Drug
+40234092,triamcinolone acetonide 5 MG/ML [Cinalog],NA,NA,20,20,1086270,RxNorm,Branded Drug Comp,Drug
+40234093,triamcinolone acetonide 5 MG/ML [Flutex],NA,NA,20,20,1085778,RxNorm,Branded Drug Comp,Drug
+40234094,triamcinolone acetonide 5 MG/ML [Kenalog],NA,NA,20,20,1085747,RxNorm,Branded Drug Comp,Drug
 40234095,triamcinolone Injectable Suspension [Aristocort],FALSE,NA,20,20,1085690,RxNorm,Branded Drug Form,Drug
 40234096,triamcinolone Injectable Suspension [Cenocort],FALSE,NA,20,20,1086340,RxNorm,Branded Drug Form,Drug
 40234097,triamcinolone Injectable Suspension [Ken-Jec],FALSE,NA,20,20,1086040,RxNorm,Branded Drug Form,Drug
@@ -866,15 +866,15 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 40234712,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG Topical Ointment [N.T.A.],FALSE,NA,1287,735,1085146,RxNorm,Branded Drug,Drug
 40234713,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG Topical Ointment [Nyst-Olone],FALSE,NA,20,20,1053736,RxNorm,Branded Drug,Drug
 40234714,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG Topical Ointment [Tri-Statin],FALSE,NA,816,564,1053740,RxNorm,Branded Drug,Drug
-40234715,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG [Myco Biotic],--,NA,20,20,1053699,RxNorm,Branded Drug Comp,Drug
-40234716,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG [Myco-Triacet],--,NA,20,20,1053703,RxNorm,Branded Drug Comp,Drug
-40234720,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG [Mycogen],--,NA,20,20,1053710,RxNorm,Branded Drug Comp,Drug
-40234721,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG [Mycolog],--,NA,20,20,1053714,RxNorm,Branded Drug Comp,Drug
-40234722,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG [Myocidin],--,NA,20,20,1085099,RxNorm,Branded Drug Comp,Drug
-40234723,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG [Mytrex],--,NA,20,20,1085120,RxNorm,Branded Drug Comp,Drug
-40234724,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG [N.T.A.],--,NA,20,20,1085145,RxNorm,Branded Drug Comp,Drug
-40234725,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG [Nyst-Olone],--,NA,20,20,1053734,RxNorm,Branded Drug Comp,Drug
-40234726,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG [Tri-Statin],--,NA,20,20,1053738,RxNorm,Branded Drug Comp,Drug
+40234715,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG [Myco Biotic],NA,NA,20,20,1053699,RxNorm,Branded Drug Comp,Drug
+40234716,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG [Myco-Triacet],NA,NA,20,20,1053703,RxNorm,Branded Drug Comp,Drug
+40234720,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG [Mycogen],NA,NA,20,20,1053710,RxNorm,Branded Drug Comp,Drug
+40234721,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG [Mycolog],NA,NA,20,20,1053714,RxNorm,Branded Drug Comp,Drug
+40234722,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG [Myocidin],NA,NA,20,20,1085099,RxNorm,Branded Drug Comp,Drug
+40234723,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG [Mytrex],NA,NA,20,20,1085120,RxNorm,Branded Drug Comp,Drug
+40234724,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG [N.T.A.],NA,NA,20,20,1085145,RxNorm,Branded Drug Comp,Drug
+40234725,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG [Nyst-Olone],NA,NA,20,20,1053734,RxNorm,Branded Drug Comp,Drug
+40234726,nystatin 100 UNT/MG / triamcinolone acetonide 0.001 MG/MG [Tri-Statin],NA,NA,20,20,1053738,RxNorm,Branded Drug Comp,Drug
 40234727,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML Topical Cream,FALSE,NA,40075,13667,1053753,RxNorm,Clinical Drug,Drug
 40234728,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML Topical Cream [Mycasone],FALSE,NA,20,20,1085628,RxNorm,Branded Drug,Drug
 40234729,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML Topical Cream [Myco Biotic],FALSE,NA,867,391,1053756,RxNorm,Branded Drug,Drug
@@ -885,27 +885,27 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 40234734,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML Topical Cream [Mytrex],FALSE,NA,20,20,1085612,RxNorm,Branded Drug,Drug
 40234735,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML Topical Cream [N.T.A.],FALSE,NA,20,20,1085614,RxNorm,Branded Drug,Drug
 40234736,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML Topical Cream [Tri-Statin],FALSE,NA,751,375,1053772,RxNorm,Branded Drug,Drug
-40234737,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML [Mycasone],--,NA,20,20,1085627,RxNorm,Branded Drug Comp,Drug
-40234738,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML [Myco Biotic],--,NA,20,20,1053754,RxNorm,Branded Drug Comp,Drug
-40234739,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML [Myco-Triacet],--,NA,20,20,1053759,RxNorm,Branded Drug Comp,Drug
-40234740,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML [Mycogen],--,NA,20,20,1053762,RxNorm,Branded Drug Comp,Drug
-40234741,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML [Mycolog],--,NA,20,20,1053766,RxNorm,Branded Drug Comp,Drug
-40234742,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML [Mycomar],--,NA,20,20,1085629,RxNorm,Branded Drug Comp,Drug
-40234743,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML [Mytrex],--,NA,20,20,1085611,RxNorm,Branded Drug Comp,Drug
-40234744,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML [N.T.A.],--,NA,20,20,1085613,RxNorm,Branded Drug Comp,Drug
-40234745,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML [Tri-Statin],--,NA,20,20,1053770,RxNorm,Branded Drug Comp,Drug
+40234737,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML [Mycasone],NA,NA,20,20,1085627,RxNorm,Branded Drug Comp,Drug
+40234738,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML [Myco Biotic],NA,NA,20,20,1053754,RxNorm,Branded Drug Comp,Drug
+40234739,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML [Myco-Triacet],NA,NA,20,20,1053759,RxNorm,Branded Drug Comp,Drug
+40234740,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML [Mycogen],NA,NA,20,20,1053762,RxNorm,Branded Drug Comp,Drug
+40234741,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML [Mycolog],NA,NA,20,20,1053766,RxNorm,Branded Drug Comp,Drug
+40234742,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML [Mycomar],NA,NA,20,20,1085629,RxNorm,Branded Drug Comp,Drug
+40234743,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML [Mytrex],NA,NA,20,20,1085611,RxNorm,Branded Drug Comp,Drug
+40234744,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML [N.T.A.],NA,NA,20,20,1085613,RxNorm,Branded Drug Comp,Drug
+40234745,nystatin 100000 UNT/ML / triamcinolone acetonide 1 MG/ML [Tri-Statin],NA,NA,20,20,1053770,RxNorm,Branded Drug Comp,Drug
 40234764,neomycin 3.5 MG/ML / triamcinolone acetonide 1 MG/ML Otic Solution,FALSE,NA,20,20,1086278,RxNorm,Clinical Drug,Drug
-40234790,triamcinolone diacetate 0.4 MG/ML,--,NA,20,20,1086325,RxNorm,Clinical Drug Comp,Drug
+40234790,triamcinolone diacetate 0.4 MG/ML,NA,NA,20,20,1086325,RxNorm,Clinical Drug Comp,Drug
 40234791,triamcinolone diacetate 0.4 MG/ML Oral Solution,FALSE,NA,20,20,1086326,RxNorm,Clinical Drug,Drug
-40234792,triamcinolone diacetate 0.8 MG/ML,--,NA,20,20,1086327,RxNorm,Clinical Drug Comp,Drug
+40234792,triamcinolone diacetate 0.8 MG/ML,NA,NA,20,20,1086327,RxNorm,Clinical Drug Comp,Drug
 40234793,triamcinolone diacetate 0.8 MG/ML Oral Solution,FALSE,NA,20,20,1086328,RxNorm,Clinical Drug,Drug
-40234794,triamcinolone diacetate 10 MG/ML,--,NA,20,20,1086335,RxNorm,Clinical Drug Comp,Drug
+40234794,triamcinolone diacetate 10 MG/ML,NA,NA,20,20,1086335,RxNorm,Clinical Drug Comp,Drug
 40234795,triamcinolone diacetate 10 MG/ML Injectable Suspension,FALSE,NA,20,20,1086336,RxNorm,Clinical Drug,Drug
-40234796,triamcinolone diacetate 25 MG/ML,--,NA,20,20,1085665,RxNorm,Clinical Drug Comp,Drug
+40234796,triamcinolone diacetate 25 MG/ML,NA,NA,20,20,1085665,RxNorm,Clinical Drug Comp,Drug
 40234797,triamcinolone diacetate 25 MG/ML Injectable Suspension,FALSE,NA,20,20,1085666,RxNorm,Clinical Drug,Drug
 40234798,triamcinolone diacetate 25 MG/ML Injectable Suspension [Aristocort],FALSE,NA,20,20,1085691,RxNorm,Branded Drug,Drug
-40234799,triamcinolone diacetate 25 MG/ML [Aristocort],--,NA,20,20,1085689,RxNorm,Branded Drug Comp,Drug
-40234800,triamcinolone diacetate 40 MG/ML,--,NA,20,20,1085679,RxNorm,Clinical Drug Comp,Drug
+40234799,triamcinolone diacetate 25 MG/ML [Aristocort],NA,NA,20,20,1085689,RxNorm,Branded Drug Comp,Drug
+40234800,triamcinolone diacetate 40 MG/ML,NA,NA,20,20,1085679,RxNorm,Clinical Drug Comp,Drug
 40234801,triamcinolone diacetate 40 MG/ML Injectable Suspension,FALSE,NA,13289,3443,1085680,RxNorm,Clinical Drug,Drug
 40234802,triamcinolone diacetate 40 MG/ML Injectable Suspension [Amcort],FALSE,NA,20,20,1086006,RxNorm,Branded Drug,Drug
 40234803,triamcinolone diacetate 40 MG/ML Injectable Suspension [Aristocort],FALSE,NA,20,20,1085693,RxNorm,Branded Drug,Drug
@@ -915,40 +915,40 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 40234807,triamcinolone diacetate 40 MG/ML Injectable Suspension [TDS Forte],FALSE,NA,20,20,1086251,RxNorm,Branded Drug,Drug
 40234808,triamcinolone diacetate 40 MG/ML Injectable Suspension [Triam],FALSE,NA,20,20,1086095,RxNorm,Branded Drug,Drug
 40234809,triamcinolone diacetate 40 MG/ML Injectable Suspension [Tristoject],FALSE,NA,20,20,1086265,RxNorm,Branded Drug,Drug
-40234810,triamcinolone diacetate 40 MG/ML [Amcort],--,NA,20,20,1086005,RxNorm,Branded Drug Comp,Drug
-40234811,triamcinolone diacetate 40 MG/ML [Aristocort],--,NA,20,20,1085692,RxNorm,Branded Drug Comp,Drug
-40234812,triamcinolone diacetate 40 MG/ML [Cinolone],--,NA,20,20,1086029,RxNorm,Branded Drug Comp,Drug
-40234813,triamcinolone diacetate 40 MG/ML [Clinacort],--,NA,20,20,1086032,RxNorm,Branded Drug Comp,Drug
-40234814,triamcinolone diacetate 40 MG/ML [Cortilone],--,NA,20,20,1086234,RxNorm,Branded Drug Comp,Drug
-40234815,triamcinolone diacetate 40 MG/ML [TDS Forte],--,NA,20,20,1086250,RxNorm,Branded Drug Comp,Drug
-40234816,triamcinolone diacetate 40 MG/ML [Triam],--,NA,20,20,1086094,RxNorm,Branded Drug Comp,Drug
-40234817,triamcinolone diacetate 40 MG/ML [Tristoject],--,NA,20,20,1086264,RxNorm,Branded Drug Comp,Drug
-40234818,triamcinolone hexacetonide 20 MG/ML,--,NA,20,20,1085995,RxNorm,Clinical Drug Comp,Drug
+40234810,triamcinolone diacetate 40 MG/ML [Amcort],NA,NA,20,20,1086005,RxNorm,Branded Drug Comp,Drug
+40234811,triamcinolone diacetate 40 MG/ML [Aristocort],NA,NA,20,20,1085692,RxNorm,Branded Drug Comp,Drug
+40234812,triamcinolone diacetate 40 MG/ML [Cinolone],NA,NA,20,20,1086029,RxNorm,Branded Drug Comp,Drug
+40234813,triamcinolone diacetate 40 MG/ML [Clinacort],NA,NA,20,20,1086032,RxNorm,Branded Drug Comp,Drug
+40234814,triamcinolone diacetate 40 MG/ML [Cortilone],NA,NA,20,20,1086234,RxNorm,Branded Drug Comp,Drug
+40234815,triamcinolone diacetate 40 MG/ML [TDS Forte],NA,NA,20,20,1086250,RxNorm,Branded Drug Comp,Drug
+40234816,triamcinolone diacetate 40 MG/ML [Triam],NA,NA,20,20,1086094,RxNorm,Branded Drug Comp,Drug
+40234817,triamcinolone diacetate 40 MG/ML [Tristoject],NA,NA,20,20,1086264,RxNorm,Branded Drug Comp,Drug
+40234818,triamcinolone hexacetonide 20 MG/ML,NA,NA,20,20,1085995,RxNorm,Clinical Drug Comp,Drug
 40234819,triamcinolone hexacetonide 20 MG/ML Injectable Suspension,FALSE,NA,20,20,1085996,RxNorm,Clinical Drug,Drug
 40234820,triamcinolone hexacetonide 20 MG/ML Injectable Suspension [Aristospan],FALSE,NA,49,38,1085998,RxNorm,Branded Drug,Drug
-40234821,triamcinolone hexacetonide 20 MG/ML [Aristospan],--,NA,20,20,1085997,RxNorm,Branded Drug Comp,Drug
-40234822,triamcinolone hexacetonide 5 MG/ML,--,NA,20,20,1085991,RxNorm,Clinical Drug Comp,Drug
+40234821,triamcinolone hexacetonide 20 MG/ML [Aristospan],NA,NA,20,20,1085997,RxNorm,Branded Drug Comp,Drug
+40234822,triamcinolone hexacetonide 5 MG/ML,NA,NA,20,20,1085991,RxNorm,Clinical Drug Comp,Drug
 40234823,triamcinolone hexacetonide 5 MG/ML Injectable Suspension,FALSE,NA,20,20,1085992,RxNorm,Clinical Drug,Drug
 40234824,triamcinolone hexacetonide 5 MG/ML Injectable Suspension [Aristospan],FALSE,NA,20,20,1085994,RxNorm,Branded Drug,Drug
-40234825,triamcinolone hexacetonide 5 MG/ML [Aristospan],--,NA,20,20,1085993,RxNorm,Branded Drug Comp,Drug
-40235895,triamcinolone acetonide 0.0005 MG/MG,--,NA,20,20,1090640,RxNorm,Clinical Drug Comp,Drug
+40234825,triamcinolone hexacetonide 5 MG/ML [Aristospan],NA,NA,20,20,1085993,RxNorm,Branded Drug Comp,Drug
+40235895,triamcinolone acetonide 0.0005 MG/MG,NA,NA,20,20,1090640,RxNorm,Clinical Drug Comp,Drug
 40235896,triamcinolone acetonide 0.0005 MG/MG Topical Ointment,FALSE,NA,2412,1565,1090641,RxNorm,Clinical Drug,Drug
 40239005,triamcinolone acetonide 0.0005 MG/MG Topical Ointment [Trianex],FALSE,NA,600,335,1110806,RxNorm,Branded Drug,Drug
-40239006,triamcinolone acetonide 0.0005 MG/MG [Trianex],--,NA,20,20,1110804,RxNorm,Branded Drug Comp,Drug
-40239007,triamcinolone acetonide 0.001 MG/MG [Adcortyl],--,NA,20,20,1110471,RxNorm,Branded Drug Comp,Drug
-40239008,triamcinolone acetonide 0.001 MG/MG [Ledercort],--,NA,20,20,1110482,RxNorm,Branded Drug Comp,Drug
+40239006,triamcinolone acetonide 0.0005 MG/MG [Trianex],NA,NA,20,20,1110804,RxNorm,Branded Drug Comp,Drug
+40239007,triamcinolone acetonide 0.001 MG/MG [Adcortyl],NA,NA,20,20,1110471,RxNorm,Branded Drug Comp,Drug
+40239008,triamcinolone acetonide 0.001 MG/MG [Ledercort],NA,NA,20,20,1110482,RxNorm,Branded Drug Comp,Drug
 40144037,fluticasone Metered Dose Inhaler,TRUE,NA,20,20,746403,RxNorm,Clinical Drug Form,Drug
 40144038,fluticasone Metered Dose Inhaler [Flovent],TRUE,NA,20,20,746412,RxNorm,Branded Drug Form,Drug
 40148769,triamcinolone Topical Cream [Zytopic],FALSE,NA,20,20,763299,RxNorm,Branded Drug Form,Drug
 40152662,ciclesonide Metered Dose Inhaler,FALSE,NA,20,20,799033,RxNorm,Clinical Drug Form,Drug
 40152663,ciclesonide Metered Dose Inhaler [Alvesco],FALSE,NA,20,20,799036,RxNorm,Branded Drug Form,Drug
 40154093,triamcinolone Prefilled Syringe [Trivaris],FALSE,NA,20,20,805774,RxNorm,Branded Drug Form,Drug
-42705815,ciclesonide 0.037 MG/ACTUAT,--,NA,20,20,1242797,RxNorm,Clinical Drug Comp,Drug
-42705817,ciclesonide 0.037 MG/ACTUAT [Zetonna],--,NA,20,20,1242800,RxNorm,Branded Drug Comp,Drug
-42706341,budesonide 0.08 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT [Symbicort],--,NA,20,20,1246289,RxNorm,Branded Drug Comp,Drug
-42706348,budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT [Symbicort],--,NA,20,20,1246305,RxNorm,Branded Drug Comp,Drug
-42706350,formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT [Dulera],--,NA,20,20,1246309,RxNorm,Branded Drug Comp,Drug
-42706351,formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT [Dulera],--,NA,20,20,1246312,RxNorm,Branded Drug Comp,Drug
+42705815,ciclesonide 0.037 MG/ACTUAT,NA,NA,20,20,1242797,RxNorm,Clinical Drug Comp,Drug
+42705817,ciclesonide 0.037 MG/ACTUAT [Zetonna],NA,NA,20,20,1242800,RxNorm,Branded Drug Comp,Drug
+42706341,budesonide 0.08 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT [Symbicort],NA,NA,20,20,1246289,RxNorm,Branded Drug Comp,Drug
+42706348,budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT [Symbicort],NA,NA,20,20,1246305,RxNorm,Branded Drug Comp,Drug
+42706350,formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT [Dulera],NA,NA,20,20,1246309,RxNorm,Branded Drug Comp,Drug
+42706351,formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT [Dulera],NA,NA,20,20,1246312,RxNorm,Branded Drug Comp,Drug
 42708201,budesonide 3 MG Delayed Release Oral Capsule,FALSE,NA,145653,14106,1244214,RxNorm,Clinical Drug,Drug
 42708202,budesonide 3 MG Delayed Release Oral Capsule [Entocort],FALSE,NA,29069,4577,1244215,RxNorm,Branded Drug,Drug
 42708504,120 ACTUAT budesonide 0.08 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler,FALSE,NA,153151,27788,1246288,RxNorm,Quant Clinical Drug,Drug
@@ -1016,19 +1016,19 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 42903396,budesonide 0.08 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler [Symbicort],FALSE,NA,65179,8649,1360509,RxNorm,Branded Drug,Drug
 43012434,24 HR budesonide 9 MG Extended Release Oral Tablet,FALSE,NA,22569,3594,1366550,RxNorm,Quant Clinical Drug,Drug
 43012435,24 HR budesonide 9 MG Extended Release Oral Tablet [Uceris],FALSE,NA,4578,1644,1366556,RxNorm,Quant Branded Drug,Drug
-43012543,budesonide 9 MG,--,NA,20,20,1366548,RxNorm,Clinical Drug Comp,Drug
+43012543,budesonide 9 MG,NA,NA,20,20,1366548,RxNorm,Clinical Drug Comp,Drug
 43012544,budesonide 9 MG Extended Release Oral Tablet,FALSE,NA,20,20,1366557,RxNorm,Clinical Drug,Drug
 43012545,budesonide 9 MG Extended Release Oral Tablet [Uceris],FALSE,NA,20,20,1366558,RxNorm,Branded Drug,Drug
-43012546,budesonide 9 MG [Uceris],--,NA,20,20,1366552,RxNorm,Branded Drug Comp,Drug
+43012546,budesonide 9 MG [Uceris],NA,NA,20,20,1366552,RxNorm,Branded Drug Comp,Drug
 43012547,budesonide Extended Release Oral Tablet,FALSE,NA,20,20,1366549,RxNorm,Clinical Drug Form,Drug
 43012548,budesonide Extended Release Oral Tablet [Uceris],FALSE,NA,20,20,1366553,RxNorm,Branded Drug Form,Drug
 43013733,neomycin / nystatin / thiostrepton / triamcinolone Topical Cream,FALSE,NA,20,20,1368278,RxNorm,Clinical Drug Form,Drug
 43013734,neomycin / nystatin / thiostrepton / triamcinolone Topical Cream [Animax],FALSE,NA,20,20,1368283,RxNorm,Branded Drug Form,Drug
 43013735,neomycin 2.5 MG/ML / nystatin 100000 UNT/ML / thiostrepton 2500 UNT/ML / triamcinolone acetonide 1 MG/ML Topical Cream,FALSE,NA,20,20,1368280,RxNorm,Clinical Drug,Drug
 43013736,neomycin 2.5 MG/ML / nystatin 100000 UNT/ML / thiostrepton 2500 UNT/ML / triamcinolone acetonide 1 MG/ML Topical Cream [Animax],FALSE,NA,20,20,1368285,RxNorm,Branded Drug,Drug
-43013737,neomycin 2.5 MG/ML / nystatin 100000 UNT/ML / thiostrepton 2500 UNT/ML / triamcinolone acetonide 1 MG/ML [Animax],--,NA,20,20,1368282,RxNorm,Branded Drug Comp,Drug
+43013737,neomycin 2.5 MG/ML / nystatin 100000 UNT/ML / thiostrepton 2500 UNT/ML / triamcinolone acetonide 1 MG/ML [Animax],NA,NA,20,20,1368282,RxNorm,Branded Drug Comp,Drug
 43526085,triamcinolone acetonide 1.5 MG Oral Tablet [Cortalone],FALSE,NA,20,20,1376440,RxNorm,Branded Drug,Drug
-43526086,triamcinolone acetonide 1.5 MG [Cortalone],--,NA,20,20,1376436,RxNorm,Branded Drug Comp,Drug
+43526086,triamcinolone acetonide 1.5 MG [Cortalone],NA,NA,20,20,1376436,RxNorm,Branded Drug Comp,Drug
 43526087,triamcinolone Oral Tablet [Cortalone],FALSE,NA,20,20,1376437,RxNorm,Branded Drug Form,Drug
 43531861,14 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler,TRUE,NA,26566,8322,1424899,RxNorm,Quant Clinical Drug,Drug
 43531871,30 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler,TRUE,NA,139100,27858,1424889,RxNorm,Quant Clinical Drug,Drug
@@ -1043,23 +1043,23 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 44818262,120 ACTUAT mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Asmanex],FALSE,NA,4288,924,1536144,RxNorm,Quant Branded Drug,Drug
 44818263,mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler,FALSE,NA,773,478,1536145,RxNorm,Clinical Drug,Drug
 44818264,mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Asmanex],FALSE,NA,398,186,1536146,RxNorm,Branded Drug,Drug
-40239009,triamcinolone acetonide 0.5 MG/ML [SP RX 228],--,NA,20,20,1110437,RxNorm,Branded Drug Comp,Drug
-40239014,triamcinolone acetonide 1 MG/ML [Adcortyl],--,NA,20,20,1110420,RxNorm,Branded Drug Comp,Drug
-40239015,triamcinolone acetonide 1 MG/ML [Ledercort],--,NA,20,20,1110479,RxNorm,Branded Drug Comp,Drug
-40239016,triamcinolone acetonide 1 MG/ML [Rx Triamcinolone],--,NA,20,20,1110460,RxNorm,Branded Drug Comp,Drug
+40239009,triamcinolone acetonide 0.5 MG/ML [SP RX 228],NA,NA,20,20,1110437,RxNorm,Branded Drug Comp,Drug
+40239014,triamcinolone acetonide 1 MG/ML [Adcortyl],NA,NA,20,20,1110420,RxNorm,Branded Drug Comp,Drug
+40239015,triamcinolone acetonide 1 MG/ML [Ledercort],NA,NA,20,20,1110479,RxNorm,Branded Drug Comp,Drug
+40239016,triamcinolone acetonide 1 MG/ML [Rx Triamcinolone],NA,NA,20,20,1110460,RxNorm,Branded Drug Comp,Drug
 40239018,triamcinolone Topical Ointment [Trianex],FALSE,NA,20,20,1110805,RxNorm,Branded Drug Form,Drug
-40239443,triamcinolone hexacetonide 20 MG/ML [Lederspan],--,NA,20,20,1110481,RxNorm,Branded Drug Comp,Drug
-40239444,triamcinolone hexacetonide 5 MG/ML [Lederspan],--,NA,20,20,1110480,RxNorm,Branded Drug Comp,Drug
-40241179,triamcinolone acetonide 0.5 MG,--,NA,20,20,1114839,RxNorm,Clinical Drug Comp,Drug
+40239443,triamcinolone hexacetonide 20 MG/ML [Lederspan],NA,NA,20,20,1110481,RxNorm,Branded Drug Comp,Drug
+40239444,triamcinolone hexacetonide 5 MG/ML [Lederspan],NA,NA,20,20,1110480,RxNorm,Branded Drug Comp,Drug
+40241179,triamcinolone acetonide 0.5 MG,NA,NA,20,20,1114839,RxNorm,Clinical Drug Comp,Drug
 40241180,triamcinolone acetonide 0.5 MG Oral Tablet,FALSE,NA,20,20,1114840,RxNorm,Clinical Drug,Drug
-40241184,triamcinolone acetonide 1.5 MG,--,NA,20,20,1114841,RxNorm,Clinical Drug Comp,Drug
+40241184,triamcinolone acetonide 1.5 MG,NA,NA,20,20,1114841,RxNorm,Clinical Drug Comp,Drug
 40241185,triamcinolone acetonide 1.5 MG Oral Tablet,FALSE,NA,20,20,1114842,RxNorm,Clinical Drug,Drug
 40242513,28 ACTUAT fluticasone propionate 0.25 MG/ACTUAT Dry Powder Inhaler,TRUE,NA,1010,421,1148645,RxNorm,Quant Clinical Drug,Drug
 40242514,28 ACTUAT fluticasone propionate 0.25 MG/ACTUAT Dry Powder Inhaler [Flovent],TRUE,NA,640,199,1148646,RxNorm,Quant Branded Drug,Drug
-40242701,mometasone furoate 0.37 MG,--,NA,20,20,1148517,RxNorm,Clinical Drug Comp,Drug
+40242701,mometasone furoate 0.37 MG,NA,NA,20,20,1148517,RxNorm,Clinical Drug Comp,Drug
 40242702,mometasone furoate 0.37 MG Drug Implant,FALSE,NA,263,161,1148519,RxNorm,Clinical Drug,Drug
 40242703,mometasone furoate 0.37 MG Drug Implant [Propel],FALSE,NA,20,20,1148523,RxNorm,Branded Drug,Drug
-40242704,mometasone furoate 0.37 MG [Propel],--,NA,308,84,1148521,RxNorm,Branded Drug Comp,Drug
+40242704,mometasone furoate 0.37 MG [Propel],NA,NA,308,84,1148521,RxNorm,Branded Drug Comp,Drug
 40242786,mometasone Drug Implant,FALSE,NA,20,20,1148518,RxNorm,Clinical Drug Form,Drug
 40242787,mometasone Drug Implant [Propel],FALSE,NA,20,20,1148522,RxNorm,Branded Drug Form,Drug
 42629017,triamcinolone Injection,FALSE,NA,20,20,1792143,RxNorm,Clinical Drug Form,Drug
@@ -1069,7 +1069,7 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 42629021,triamcinolone acetonide 40 MG/ML Injection [Triesence],FALSE,NA,20,20,1792148,RxNorm,Branded Drug,Drug
 42799274,azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT [Dymista],TRUE,NA,20,20,1291862,RxNorm,Branded Drug Comp,Drug
 44507748,triamcinolone acetonide 1 MG/ML Topical Cream [Dermasorb TA],FALSE,NA,10136,4320,1442876,RxNorm,Branded Drug,Drug
-44507749,triamcinolone acetonide 1 MG/ML [Dermasorb TA],--,NA,20,20,1442873,RxNorm,Branded Drug Comp,Drug
+44507749,triamcinolone acetonide 1 MG/ML [Dermasorb TA],NA,NA,20,20,1442873,RxNorm,Branded Drug Comp,Drug
 44507751,triamcinolone Topical Cream [Dermasorb TA],FALSE,NA,20,20,1442874,RxNorm,Branded Drug Form,Drug
 45775244,fluticasone furoate 0.1 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT [Breo],TRUE,NA,20,20,1539888,RxNorm,Branded Drug Comp,Drug
 45775245,fluticasone / vilanterol Dry Powder Inhaler [Breo],TRUE,NA,20,20,1539889,RxNorm,Branded Drug Form,Drug
@@ -1092,15 +1092,15 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 45776299,fluticasone furoate 0.2 MG/ACTUAT Dry Powder Inhaler [Arnuity],TRUE,NA,254,103,1547670,RxNorm,Branded Drug,Drug
 45776300,30 ACTUAT fluticasone furoate 0.2 MG/ACTUAT Dry Powder Inhaler,TRUE,NA,3246,877,1547671,RxNorm,Quant Clinical Drug,Drug
 45776301,30 ACTUAT fluticasone furoate 0.2 MG/ACTUAT Dry Powder Inhaler [Arnuity],TRUE,NA,15583,2127,1547672,RxNorm,Quant Branded Drug,Drug
-45892455,budesonide 2 MG/ACTUAT,--,NA,20,20,1596771,RxNorm,Clinical Drug Comp,Drug
+45892455,budesonide 2 MG/ACTUAT,NA,NA,20,20,1596771,RxNorm,Clinical Drug Comp,Drug
 45892456,budesonide Rectal Foam,FALSE,NA,20,20,1596772,RxNorm,Clinical Drug Form,Drug
 45892457,budesonide 2 MG/ACTUAT Rectal Foam,FALSE,NA,20,20,1596773,RxNorm,Clinical Drug,Drug
-45892458,budesonide 2 MG/ACTUAT [Uceris],--,NA,20,20,1596774,RxNorm,Branded Drug Comp,Drug
+45892458,budesonide 2 MG/ACTUAT [Uceris],NA,NA,20,20,1596774,RxNorm,Branded Drug Comp,Drug
 45892459,budesonide Rectal Foam [Uceris],FALSE,NA,20,20,1596775,RxNorm,Branded Drug Form,Drug
 45892460,budesonide 2 MG/ACTUAT Rectal Foam [Uceris],FALSE,NA,20,20,1596777,RxNorm,Branded Drug,Drug
 45892461,14 ACTUAT budesonide 2 MG/ACTUAT Rectal Foam [Uceris],FALSE,NA,2635,829,1596778,RxNorm,Quant Branded Drug,Drug
 45892462,14 ACTUAT budesonide 2 MG/ACTUAT Rectal Foam,FALSE,NA,2616,787,1596779,RxNorm,Quant Clinical Drug,Drug
-46221667,mometasone 1 MG/ML,--,NA,20,20,1606017,RxNorm,Clinical Drug Comp,Drug
+46221667,mometasone 1 MG/ML,NA,NA,20,20,1606017,RxNorm,Clinical Drug Comp,Drug
 46221668,clotrimazole / gentamicin / mometasone Otic Suspension,FALSE,NA,20,20,1606019,RxNorm,Clinical Drug Form,Drug
 46221669,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension,FALSE,NA,20,20,1606021,RxNorm,Clinical Drug,Drug
 44818265,120 ACTUAT mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler,FALSE,NA,1752,826,1536147,RxNorm,Quant Clinical Drug,Drug
@@ -1118,7 +1118,7 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 46234380,triamcinolone acetonide 0.25 MG/ML Topical Cream [Triderm],FALSE,NA,4579,1512,1648997,RxNorm,Branded Drug,Drug
 46234381,triamcinolone acetonide 5 MG/ML [Triderm],FALSE,NA,20,20,1648998,RxNorm,Branded Drug Comp,Drug
 46234382,triamcinolone acetonide 5 MG/ML Topical Cream [Triderm],FALSE,NA,2344,977,1648999,RxNorm,Branded Drug,Drug
-46221671,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Motazol],--,NA,20,20,1606023,RxNorm,Branded Drug Comp,Drug
+46221671,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Motazol],NA,NA,20,20,1606023,RxNorm,Branded Drug Comp,Drug
 46221672,clotrimazole / gentamicin / mometasone Otic Suspension [Motazol],FALSE,NA,20,20,1606024,RxNorm,Branded Drug Form,Drug
 46221673,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Motazol],FALSE,NA,20,20,1606026,RxNorm,Branded Drug,Drug
 46275285,triamcinolone acetonide 10 MG/ML Topical Cream,FALSE,NA,20,20,1658270,RxNorm,Clinical Drug,Drug
@@ -1127,6 +1127,6 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 46276022,60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Dulera],FALSE,NA,12218,1660,1660934,RxNorm,Quant Branded Drug,Drug
 46276023,60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler,FALSE,NA,16203,2030,1660937,RxNorm,Quant Clinical Drug,Drug
 46276024,60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Dulera],FALSE,NA,24690,2557,1660938,RxNorm,Quant Branded Drug,Drug
-46287627,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Mometamax],--,NA,20,20,1666826,RxNorm,Branded Drug Comp,Drug
+46287627,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Mometamax],NA,NA,20,20,1666826,RxNorm,Branded Drug Comp,Drug
 46287628,clotrimazole / gentamicin / mometasone Otic Suspension [Mometamax],FALSE,NA,20,20,1666827,RxNorm,Branded Drug Form,Drug
 46287629,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Mometamax],FALSE,NA,20,20,1666829,RxNorm,Branded Drug,Drug
