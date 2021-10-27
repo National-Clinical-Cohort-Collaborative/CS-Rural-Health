@@ -77,13 +77,13 @@ sql_retrieve <-
 # paths <- fs::dir_ls(config$directory_codeset_input)[1:3]
 paths <-
   c(
-    # "concept-sets/input/nasal-spray.csv",
-    "concept-sets/input/reviewed/dexamethasone.csv",
-    "concept-sets/input/reviewed/hydrocortisone-oral.csv",
-    "concept-sets/input/reviewed/hydrocortisone-systemic.csv",
+    "concept-sets/input/reviewed/nasal-spray.csv",
     "concept-sets/input/reviewed/inhaled-corticosteroid.csv",
-    "concept-sets/input/reviewed/prednisolone.csv",
-    "concept-sets/input/reviewed/prednisone and methyprednisolone.csv"
+    "concept-sets/input/reviewed/oral-dexamethasone.csv",
+    "concept-sets/input/reviewed/oral-hydrocortisone.csv",
+    "concept-sets/input/reviewed/systemic-hydrocortisone.csv",
+    "concept-sets/input/reviewed/systemic-prednisolone.csv",
+    "concept-sets/input/reviewed/systemic-prednosone-and-methyprednisolone.csv"
   ) |>
   {
     \(x)
