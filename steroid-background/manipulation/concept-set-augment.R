@@ -47,6 +47,7 @@ sql_create <- c(
     CREATE TABLE codeset_member (
       codeset              varchar(255)  not null,
       concept_id           int           not null,
+      is_excluded          int              null,
       primary key(codeset, concept_id)
     )
   "
@@ -56,6 +57,7 @@ sql_retrieve <-
   "
     SELECT
       csm.codeset
+      ,csm.is_excluded
       ,c.concept_id
       ,c.concept_name
       ,c.standard_concept
@@ -110,13 +112,15 @@ ds_csm <-
     .id = "codeset"
   ) |>
   tidyr::drop_na(concept_id) |>
-  dplyr::filter(keep_entry_in_codeset) |>
-  # dplyr::mutate(
-  #   codeset = fs::path_ext_remove(fs::path_file(source)),
-  # ) |>
+  # dplyr::filter(keep_entry_in_codeset) |>
+  dplyr::mutate(
+    # codeset = fs::path_ext_remove(fs::path_file(source)),
+    is_excluded  = dplyr::coalesce(!keep_entry_in_codeset, TRUE), # Exclude if the value is missing
+  ) |>
   dplyr::select(
     codeset,
     concept_id,#  = `Concept Id`,
+    is_excluded,
   ) |>
   dplyr::distinct()
 
@@ -174,15 +178,24 @@ ds <-
 ds_packed <-
   ds |>
   dplyr::rename_all(toupper) |>
-  tidyr::pack(concept = -CODESET)
-  # tidyr::pack(concept = tidyr::everything())
+  tidyr::pack(concept = -c("CODESET", "IS_EXCLUDED")) |>
+  # tidyr::pack(concept = tidyr::everything()) |>
+  # dplyr::rename(
+  #   `isExcluded` = `IS_EXCLUDED`
+  # ) |>
+  dplyr::mutate(
+    IS_EXCLUDED = as.logical(IS_EXCLUDED)
+  )
 
 ds_items <-
   data.frame(
     concept             = ds_packed,
-    isExcluded          = rep(FALSE   , nrow(ds_packed)),
+    # isExcluded          = rep(FALSE   , nrow(ds_packed)),
     includeDescendants  = rep(FALSE   , nrow(ds_packed)),
     includeMapped       = rep(FALSE   , nrow(ds_packed))
+  ) |>
+  dplyr::rename(
+    `isExcluded` = `concept.IS_EXCLUDED`
   )
 
 # l2 <- list(items = ds_items)

@@ -306,6 +306,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 975982,
+        "CONCEPT_NAME": "hydrocortisone 0.0075 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "334969",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 975984,
         "CONCEPT_NAME": "hydrocortisone 0.5 MG/ML",
         "STANDARD_CONCEPT": "S",
@@ -333,6 +349,22 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 975986,
+        "CONCEPT_NAME": "hydrocortisone 0.01 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "339972",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -402,6 +434,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 976077,
+        "CONCEPT_NAME": "hydrocortisone 0.02 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "476784",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 1592221,
         "CONCEPT_NAME": "gentamicin sulfate 1.5 MG/ML / hydrocortisone aceponate 1.11 MG/ML / miconazole nitrate 15.1 MG/ML [Easotic]",
         "STANDARD_CONCEPT": "S",
@@ -413,6 +461,38 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19005824,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Proctozone-H]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "574732",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19006606,
+        "CONCEPT_NAME": "hydrocortisone 25 MG/ML [Proctozone HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "575327",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -514,6 +594,54 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19022881,
+        "CONCEPT_NAME": "hydrocortisone 25 MG/ML [Procto-Kit]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "759715",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19022882,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Procto-Kit]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "759718",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19022929,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Itch-X Maximum Strength]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "761647",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19023479,
         "CONCEPT_NAME": "hydrocortisone 20 MG/ML [Coraz]",
         "STANDARD_CONCEPT": "S",
@@ -530,6 +658,38 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19027280,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otocidin]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "792117",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19027430,
+        "CONCEPT_NAME": "hydrocortisone 0.005 MG/MG Paste",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "204420",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19028399,
         "CONCEPT_NAME": "hydrocortisone 5 MG/ML [Massengill]",
         "STANDARD_CONCEPT": "S",
@@ -541,6 +701,134 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19029017,
+        "CONCEPT_NAME": "hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Proctofoam-HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "828363",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19032195,
+        "CONCEPT_NAME": "hydrocortisone 0.005 MG/MG Oral Paste [Orabase HCA]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "206375",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19032378,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Cort-Biotic]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "575293",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19032573,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / iodoquinol 10 MG/ML [Dermazene]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "575554",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19034021,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Ocutricin HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "575547",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19034027,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Oti-sone]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "575294",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19034029,
+        "CONCEPT_NAME": "acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Oticot HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "575645",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19037464,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otocort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567348",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -621,6 +909,118 @@
         "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19041535,
+        "CONCEPT_NAME": "hydrocortisone 15 MG/ML / oxytetracycline 5 MG/ML [Terra-Cortril]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567244",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19042519,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Masporin]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567352",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19043285,
+        "CONCEPT_NAME": "hydrocortisone 1.67 MG/ML [Cortenema]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "562955",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19043287,
+        "CONCEPT_NAME": "hydrocortisone 5 MG/ML [Aeroseb-HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567183",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19043289,
+        "CONCEPT_NAME": "hydrocortisone 2.5 MG/ML [Cetacort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "543679",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19043290,
+        "CONCEPT_NAME": "hydrocortisone 5 MG/ML [Cetacort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567143",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19043313,
+        "CONCEPT_NAME": "hydrocortisone 5 MG/ML [Cort-Dome]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "571949",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -834,6 +1234,134 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19052272,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [AK-Spore HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567349",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19052473,
+        "CONCEPT_NAME": "acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Acetasol HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "573411",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19052580,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Acticort 100]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567167",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19053009,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Ala-Cort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567191",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19053476,
+        "CONCEPT_NAME": "hydrocortisone 5 MG/ML [Aloe Cort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "571947",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19054922,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Aquanil HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567169",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19057671,
+        "CONCEPT_NAME": "hydrocortisone 5 MG/ML [Caldecort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "571948",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19058668,
+        "CONCEPT_NAME": "ciprofloxacin 2 MG/ML / hydrocortisone 10 MG/ML [Cipro HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "573221",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19059580,
         "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Cortaid]",
         "STANDARD_CONCEPT": "S",
@@ -882,6 +1410,182 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19059610,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Cortratigen]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567341",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19059634,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Cortisporin]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "825188",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19059688,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Cortomycin]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567343",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19059726,
+        "CONCEPT_NAME": "hydrocortisone 5 MG/ML [Cotacort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567144",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19061353,
+        "CONCEPT_NAME": "hydrocortisone 5 MG/ML [Dermolate]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "571956",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19061357,
+        "CONCEPT_NAME": "hydrocortisone 5 MG/ML [Dermtex HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567145",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19061358,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Dermtex HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "576137",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19061952,
+        "CONCEPT_NAME": "bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Cortisporin Ointment]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "688699",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19063117,
+        "CONCEPT_NAME": "chloramphenicol 0.01 MG/MG / hydrocortisone 0.005 MG/MG / polymyxin B 10 UNT/MG [Ophthocort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "569915",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19063119,
+        "CONCEPT_NAME": "hydrocortisone 0.005 MG/MG [Orabase HCA]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "545756",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19063153,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Drotic]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567344",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19063670,
         "CONCEPT_NAME": "hydrocortisone 100 MG/ML Injectable Solution",
         "STANDARD_CONCEPT": "S",
@@ -893,6 +1597,38 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19063870,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Ear-Eze]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567345",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19063892,
+        "CONCEPT_NAME": "acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Earsol-HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "573412",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -930,6 +1666,214 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19069346,
+        "CONCEPT_NAME": "clioquinol 30 MG/ML / hydrocortisone 10 MG/ML [Hysone]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "566911",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19070931,
+        "CONCEPT_NAME": "hydrocortisone 25 MG/ML [Lacticare-HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567137",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19070932,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Lacticare-HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567212",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19072499,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Masporin Otic]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567346",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19073018,
+        "CONCEPT_NAME": "acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Otosol HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "545139",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19074763,
+        "CONCEPT_NAME": "hydrocortisone 0.01 MG/MG / neomycin 0.005 MG/MG [Neo-Cortef]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567234",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19076067,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otic Ear Care]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "575237",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19076095,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otimar]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567354",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19076097,
+        "CONCEPT_NAME": "hydrocortisone 5 MG/ML / polymyxin B 10000 UNT/ML [Otobiotic]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567378",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19076121,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otocort Sterile Suspension]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567355",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19076917,
+        "CONCEPT_NAME": "clioquinol 30 MG/ML / hydrocortisone 10 MG/ML [Pedi-Cort V]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "566913",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19076989,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Pediotic]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567356",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19077020,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Penecort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567175",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19078350,
         "CONCEPT_NAME": "hydrocortisone 2 MG/ML Oral Suspension",
         "STANDARD_CONCEPT": "S",
@@ -941,6 +1885,102 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19078412,
+        "CONCEPT_NAME": "hydrocortisone 0.01 MG/MG [Procort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567164",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19079481,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Recort Plus]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567176",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19079489,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Rederm]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "543683",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19080565,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Sarnol-HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567177",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19080569,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Scalp-Aid]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567178",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19080591,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Scalp-Cort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567179",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -994,6 +2034,38 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19081630,
+        "CONCEPT_NAME": "clioquinol 30 MG/ML / hydrocortisone 10 MG/ML [Steroform]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "566914",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19082564,
+        "CONCEPT_NAME": "hydrocortisone 25 MG/ML [Texacort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567182",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19083661,
         "CONCEPT_NAME": "hydrocortisone 1 MG/ML",
         "STANDARD_CONCEPT": "S",
@@ -1010,6 +2082,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19085082,
+        "CONCEPT_NAME": "acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Vasotate HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "573413",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19085298,
         "CONCEPT_NAME": "hydrocortisone 25 MG/ML",
         "STANDARD_CONCEPT": "S",
@@ -1021,6 +2109,38 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19085371,
+        "CONCEPT_NAME": "clioquinol 30 MG/ML / hydrocortisone 10 MG/ML [Vio-Tex-HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "566915",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19085551,
+        "CONCEPT_NAME": "acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Vosol HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "573414",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -1090,6 +2210,38 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19093396,
+        "CONCEPT_NAME": "hydrocortisone 0.005 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "339990",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19093652,
+        "CONCEPT_NAME": "hydrocortisone 0.015 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "340098",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19093653,
         "CONCEPT_NAME": "hydrocortisone 100 MG/ML",
         "STANDARD_CONCEPT": "S",
@@ -1106,6 +2258,38 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19093712,
+        "CONCEPT_NAME": "hydrocortisone 0.025 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "340118",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19100321,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Yeast-X External]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "574614",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19109288,
         "CONCEPT_NAME": "hydrocortisone 30 MG/ML",
         "STANDARD_CONCEPT": "S",
@@ -1117,6 +2301,118 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19109290,
+        "CONCEPT_NAME": "hydrocortisone 0.03 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "438514",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19110032,
+        "CONCEPT_NAME": "hydrocortisone 0.0009 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "439820",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19110247,
+        "CONCEPT_NAME": "hydrocortisone 0.0033 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "440442",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19110248,
+        "CONCEPT_NAME": "hydrocortisone 0.00127 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "440443",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19110249,
+        "CONCEPT_NAME": "hydrocortisone 0.0112 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "440445",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19110251,
+        "CONCEPT_NAME": "hydrocortisone 3.3 MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "440447",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19110256,
+        "CONCEPT_NAME": "hydrocortisone 0.004 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "440461",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -1149,6 +2445,102 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19114227,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Procto-Pak]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "543490",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19114612,
+        "CONCEPT_NAME": "hydrocortisone 0.1 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "544998",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19114672,
+        "CONCEPT_NAME": "acetic acid 20 MG/ML / hydrocortisone 10 MG/ML [Otomycet HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "545135",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19115161,
+        "CONCEPT_NAME": "hydrocortisone 0.005 MG/MG Oral Paste",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "562300",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19115584,
+        "CONCEPT_NAME": "hydrocortisone 1 MG/ML [Dioderm]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "563298",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19115586,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Hydrocortistab]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "563300",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -1202,6 +2594,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19116457,
+        "CONCEPT_NAME": "hydrocortisone 5 MG/ML / nystatin 100000 UNT/ML [Nystaform-HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "564403",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19117813,
         "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Efcortelan]",
         "STANDARD_CONCEPT": "S",
@@ -1213,6 +2621,38 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19117981,
+        "CONCEPT_NAME": "clioquinol 30 MG/ML / hydrocortisone 5 MG/ML [Ala-Quin]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "566907",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19117982,
+        "CONCEPT_NAME": "clioquinol 30 MG/ML / hydrocortisone 5 MG/ML [Steroform]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "566908",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -1346,6 +2786,246 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19118143,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Antibiotic Ear]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567340",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19118144,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otic care]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567347",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19118145,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Cortatrigen]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567350",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19118146,
+        "CONCEPT_NAME": "hydrocortisone 10 MG / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Otic Ear Care]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "567353",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19119910,
+        "CONCEPT_NAME": "hydrocortisone 5 MG/ML [HC AC/Aloe]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "571958",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19120000,
+        "CONCEPT_NAME": "benzoyl peroxide 50 MG/ML / hydrocortisone 5 MG/ML [Vanoxide-HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "572100",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19120004,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / iodoquinol 10 MG/ML [Vytone]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "572105",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19120058,
+        "CONCEPT_NAME": "hydrocortisone 0.005 MG/MG [Ivocort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "572390",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19120064,
+        "CONCEPT_NAME": "hydrocortisone 1 MG/ML [Cortaid]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "572443",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19120348,
+        "CONCEPT_NAME": "bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Neotricin HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "573503",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19120349,
+        "CONCEPT_NAME": "bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Ocu-Cort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "573504",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19120572,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Lazersporin-C]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "574103",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19120573,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Anusert HC-1]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "574106",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19120574,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Anusol HC-1]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "574107",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19120576,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Nupercainal HC 1%]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "574109",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19120577,
         "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Preparation H Hydrocortisone]",
         "STANDARD_CONCEPT": "S",
@@ -1357,6 +3037,390 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19120626,
+        "CONCEPT_NAME": "hydrocortisone 0.01 MG/MG [Anusol HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "574332",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19120731,
+        "CONCEPT_NAME": "hydrocortisone 1.67 MG/ML [Colocort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "574908",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19120824,
+        "CONCEPT_NAME": "hydrocortisone 5 MG/ML [Hydrocortisone-Aloe]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "575132",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19120843,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Caldecort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "575290",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19120845,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Antibiotic-Cort Ear]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "575295",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19121075,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Theracort Anti-Itch]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "576135",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19121101,
+        "CONCEPT_NAME": "hydrocortisone 0.01 MG/MG [Instacort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "576301",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19122088,
+        "CONCEPT_NAME": "hydrocortisone 5 MG/ML / lidocaine 30 MG/ML [Rectacreame]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "584469",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19122656,
+        "CONCEPT_NAME": "hydrocortisone 0.0055 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "603797",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19122719,
+        "CONCEPT_NAME": "hydrocortisone 25 MG/ML [Proctocare-HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "603953",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19122856,
+        "CONCEPT_NAME": "hydrocortisone 0.01 MG/MG [Cortaid]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "604513",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19123032,
+        "CONCEPT_NAME": "hydrocortisone 0.01 MG/MG [Tucks HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "605647",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19123117,
+        "CONCEPT_NAME": "hydrocortisone 0.02 MG/MG [Nuzon]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "606792",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19124218,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 5 MG/ML / polymyxin B 10000 UNT/ML [AK-Spore HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "631713",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19125226,
+        "CONCEPT_NAME": "hydrocortisone 0.1 MG/ML [Cortifoam]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "669990",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19125539,
+        "CONCEPT_NAME": "bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [AK-Spore HC Ointment]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "688661",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19125543,
+        "CONCEPT_NAME": "bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 5 UNT/MG [Cortisporin Ointment]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "688702",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19125545,
+        "CONCEPT_NAME": "bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Cortomycin Ointment]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "688706",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19125771,
+        "CONCEPT_NAME": "hydrocortisone 20 MG/ML / iodoquinol 10 MG/ML [Lodocortisone]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "701126",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19126326,
+        "CONCEPT_NAME": "hydrocortisone 0.02 MG/MG / iodoquinol 0.01 MG/MG [Lodocort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "704945",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19126580,
+        "CONCEPT_NAME": "hydrocortisone 25 MG/ML [Proctocream]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "706542",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19126788,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Gynecort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "707791",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19129476,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Oticin HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "763093",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19129988,
+        "CONCEPT_NAME": "hydrocortisone 0.01 MG/MG [Corticool]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "795065",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -1394,6 +3458,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19132476,
+        "CONCEPT_NAME": "hydrocortisone 0.01 MG/MG [Xebcort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "808351",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19133287,
         "CONCEPT_NAME": "hydrocortisone acetate 10 MG/ML",
         "STANDARD_CONCEPT": "S",
@@ -1421,6 +3501,70 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19133827,
+        "CONCEPT_NAME": "hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Epifoam]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "833508",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19135618,
+        "CONCEPT_NAME": "hydrocortisone 2.5 MG/ML [Balneol Cleanser]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "849545",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 35602897,
+        "CONCEPT_NAME": "hydrocortisone acetate 25 MG [Hemmorex]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1674194",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 35602901,
+        "CONCEPT_NAME": "hydrocortisone acetate 30 MG [Hemmorex]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1674199",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -1714,6 +3858,38 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 35605221,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Psoriasin Itch]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1739868",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37496942,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Casporyn HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2201594",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40049686,
         "CONCEPT_NAME": "hydrocortisone Injectable Solution",
         "STANDARD_CONCEPT": "S",
@@ -1858,6 +4034,54 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40049705,
+        "CONCEPT_NAME": "hydrocortisone Paste",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "374384",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40070430,
+        "CONCEPT_NAME": "hydrocortisone Oral Paste [Orabase HCA]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "367443",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40115558,
+        "CONCEPT_NAME": "hydrocortisone Oral Paste",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "562299",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40139039,
         "CONCEPT_NAME": "hydrocortisone Injectable Solution [Hydrocortone Phosphate]",
         "STANDARD_CONCEPT": "S",
@@ -1885,6 +4109,118 @@
         "CONCEPT_CLASS_ID": "Branded Drug Form"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40163009,
+        "CONCEPT_NAME": "colistin 3 MG/ML / hydrocortisone 10 MG/ML / neomycin 3.3 MG/ML / thonzonium bromide 0.5 MG/ML [Coly Mycin S]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "854994",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40163010,
+        "CONCEPT_NAME": "colistin 3 MG/ML / hydrocortisone 10 MG/ML / neomycin 3.3 MG/ML / thonzonium bromide 0.5 MG/ML [Cortisporin-TC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "854996",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40168005,
+        "CONCEPT_NAME": "hydrocortisone 20 MG/ML [Pediaderm HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "877492",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40168724,
+        "CONCEPT_NAME": "hydrocortisone 20 MG/ML [Ala-Scalp]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "884075",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40173027,
+        "CONCEPT_NAME": "hydrocortisone 0.005 MG/MG [Excel Pet]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "900413",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40173039,
+        "CONCEPT_NAME": "hydrocortisone 5 MG/ML [Excel Pet]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "900498",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40173040,
+        "CONCEPT_NAME": "hydrocortisone 5 MG/ML [Propet]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "900407",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -1938,6 +4274,54 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40223221,
+        "CONCEPT_NAME": "acyclovir 50 MG/ML / hydrocortisone 10 MG/ML [Xerese]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "998424",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40223870,
+        "CONCEPT_NAME": "hydrocortisone 5 MG/ML / miconazole nitrate 20 MG/ML [Fungoid and HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "998556",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226537,
+        "CONCEPT_NAME": "hydrocortisone acetate 10 MG/ML / lidocaine hydrochloride 30 MG/ML [Peranex]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012263",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40226539,
         "CONCEPT_NAME": "hydrocortisone acetate 2 MG/ML",
         "STANDARD_CONCEPT": "S",
@@ -1970,6 +4354,54 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40226547,
+        "CONCEPT_NAME": "hydrocortisone acetate 20 MG/ML / lidocaine hydrochloride 20 MG/ML [Ana-Lex]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012325",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226548,
+        "CONCEPT_NAME": "hydrocortisone acetate 20 MG/ML / lidocaine hydrochloride 20 MG/ML [Lidamantle HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012247",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226549,
+        "CONCEPT_NAME": "hydrocortisone acetate 20 MG/ML / lidocaine hydrochloride 20 MG/ML [Peranex]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012265",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40226550,
         "CONCEPT_NAME": "hydrocortisone acetate 5 MG/ML",
         "STANDARD_CONCEPT": "S",
@@ -1997,6 +4429,198 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226562,
+        "CONCEPT_NAME": "hydrocortisone acetate 5 MG/ML / lidocaine hydrochloride 30 MG/ML [Lidamantle HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012620",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226563,
+        "CONCEPT_NAME": "hydrocortisone acetate 5 MG/ML / lidocaine hydrochloride 30 MG/ML [Lidazone]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012347",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226564,
+        "CONCEPT_NAME": "hydrocortisone acetate 5 MG/ML / lidocaine hydrochloride 30 MG/ML [Senatec HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012610",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226628,
+        "CONCEPT_NAME": "hydrocortisone acetate 0.00275 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012215",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226630,
+        "CONCEPT_NAME": "hydrocortisone acetate 0.0055 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012219",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226633,
+        "CONCEPT_NAME": "hydrocortisone acetate 0.0055 MG/MG / lidocaine hydrochloride 0.028 MG/MG [RectaGel]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012310",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226634,
+        "CONCEPT_NAME": "hydrocortisone acetate 0.01 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1013097",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226638,
+        "CONCEPT_NAME": "hydrocortisone acetate 0.025 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012222",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226642,
+        "CONCEPT_NAME": "hydrocortisone acetate 0.025 MG/MG / lidocaine hydrochloride 0.03 MG/MG [Anamantle HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012242",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226643,
+        "CONCEPT_NAME": "hydrocortisone acetate 0.025 MG/MG / lidocaine hydrochloride 0.03 MG/MG [Lidocort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012566",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226649,
+        "CONCEPT_NAME": "hydrocortisone acetate 10 MG/ML / lidocaine hydrochloride 30 MG/ML [Anamantle HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012568",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40228300,
+        "CONCEPT_NAME": "hydrocortisone acetate 50 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1037327",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -2130,6 +4754,342 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40230690,
+        "CONCEPT_NAME": "hydrocortisone acetate 5 MG/ML / lidocaine hydrochloride 30 MG/ML [Rectacreme]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1045563",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40231132,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Beta-HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1043072",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40231134,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Maximum-H]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1039921",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40231136,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Scalpicin Itch Relief]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1039271",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40232617,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Keratol HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1050229",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40234558,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Hydroskin]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1086948",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40237061,
+        "CONCEPT_NAME": "hydrocortisone acetate 23.5 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1094442",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40237064,
+        "CONCEPT_NAME": "hydrocortisone acetate 23.5 MG/ML / pramoxine hydrochloride 10 MG/ML [Z-Pram]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1094445",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40239745,
+        "CONCEPT_NAME": "chlorcyclizine hydrochloride 20 MG/ML / hydrocortisone acetate 5 MG/ML [Mantadil]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1113059",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40240652,
+        "CONCEPT_NAME": "hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [PramCort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1116501",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40240653,
+        "CONCEPT_NAME": "hydrocortisone acetate 18.5 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1114852",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40240656,
+        "CONCEPT_NAME": "hydrocortisone acetate 18.5 MG/ML / pramoxine hydrochloride 11.5 MG/ML [Procort 1.85/1.15]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1115728",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40241221,
+        "CONCEPT_NAME": "bacitracin zinc 0.4 UNT/MG / hydrocortisone acetate 0.01 MG/MG / neomycin sulfate 0.0035 MG/MG / polymyxin B sulfate 10 UNT/MG [Neo-Polycin HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1116152",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40243304,
+        "CONCEPT_NAME": "aloe polysaccharide 0.01 MG/MG / hydrocortisone acetate 0.02 MG/MG / iodoquinol 0.01 MG/MG [Alcortin A]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1191377",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40243744,
+        "CONCEPT_NAME": "hydrocortisone acetate 0.02 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1191372",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40243943,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Monistat Itch Relief]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1190615",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40243957,
+        "CONCEPT_NAME": "hydrocortisone 0.01 MG/MG [Dermol HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1189832",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40243959,
+        "CONCEPT_NAME": "hydrocortisone 0.02 MG/MG / iodoquinol 0.01 MG/MG [Alcortin]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1191412",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42543959,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML / ketoconazole 1.5 MG/ML [Malacetic]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2003647",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42629025,
+        "CONCEPT_NAME": "hydrocortisone 7.5 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1792288",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42629545,
+        "CONCEPT_NAME": "hydrocortisone 25 MG/ML [Procto-Med]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1790681",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 42705177,
         "CONCEPT_NAME": "hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Enzone]",
         "STANDARD_CONCEPT": "S",
@@ -2146,6 +5106,54 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 42705230,
+        "CONCEPT_NAME": "hydrocortisone acetate 0.01 MG/MG / pramoxine hydrochloride 0.01 MG/MG [Pramosone]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1234319",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42705234,
+        "CONCEPT_NAME": "hydrocortisone acetate 0.025 MG/MG / pramoxine hydrochloride 0.01 MG/MG [Pramosone]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1234335",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42705245,
+        "CONCEPT_NAME": "hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Pramosone]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1234394",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 42705263,
         "CONCEPT_NAME": "hydrocortisone acetate 25 MG/ML",
         "STANDARD_CONCEPT": "S",
@@ -2157,6 +5165,54 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42705264,
+        "CONCEPT_NAME": "hydrocortisone acetate 25 MG/ML / pramoxine hydrochloride 10 MG/ML [Pramosone]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1234507",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42705423,
+        "CONCEPT_NAME": "hydrocortisone acetate 0.01 MG/MG [Biocorneum]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1235744",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42706151,
+        "CONCEPT_NAME": "hydrocortisone aceponate 1.11 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1245240",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -2226,6 +5282,38 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 42799483,
+        "CONCEPT_NAME": "clioquinol 30 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [1 Plus 1 F]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1293641",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42799746,
+        "CONCEPT_NAME": "hydrocortisone 25 MG/ML [Proctosol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1291377",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 42799748,
         "CONCEPT_NAME": "hydrocortisone 5 MG/ML [Cortef]",
         "STANDARD_CONCEPT": "S",
@@ -2237,6 +5325,182 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42799766,
+        "CONCEPT_NAME": "hydrocortisone 0.005 MG/MG [Cortaid]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1294114",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800104,
+        "CONCEPT_NAME": "chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Cortane-B]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1293875",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800105,
+        "CONCEPT_NAME": "chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Cortic]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1294243",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800106,
+        "CONCEPT_NAME": "chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Exotic-HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1294245",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800107,
+        "CONCEPT_NAME": "chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Oticin HC Ear Drops]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1294247",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800108,
+        "CONCEPT_NAME": "chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Otirx]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1294363",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800109,
+        "CONCEPT_NAME": "chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Otomax HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1294254",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800110,
+        "CONCEPT_NAME": "chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Tri-Otic]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1294263",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800111,
+        "CONCEPT_NAME": "chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Zotane HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1294265",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800112,
+        "CONCEPT_NAME": "chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Zoto-HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1293892",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800171,
+        "CONCEPT_NAME": "hydrocortisone acetate 23.5 MG/ML / pramoxine hydrochloride 10 MG/ML [ZyPram]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1293747",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -2258,6 +5522,86 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 42800179,
+        "CONCEPT_NAME": "hydrocortisone acetate 25 MG [Anucort-HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1291100",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800180,
+        "CONCEPT_NAME": "hydrocortisone acetate 25 MG [Anusol HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1291102",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800181,
+        "CONCEPT_NAME": "hydrocortisone acetate 25 MG [Cort-Dome]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1291289",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800182,
+        "CONCEPT_NAME": "hydrocortisone acetate 25 MG [Hemril]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1291373",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800183,
+        "CONCEPT_NAME": "hydrocortisone acetate 25 MG [Proctosol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1291381",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 42800185,
         "CONCEPT_NAME": "hydrocortisone acetate 30 MG",
         "STANDARD_CONCEPT": "S",
@@ -2269,6 +5613,486 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800191,
+        "CONCEPT_NAME": "hydrocortisone acetate 30 MG [Encort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1291273",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800192,
+        "CONCEPT_NAME": "hydrocortisone acetate 30 MG [Hemril]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1291087",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800193,
+        "CONCEPT_NAME": "hydrocortisone acetate 30 MG [Proctocort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1291091",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800194,
+        "CONCEPT_NAME": "hydrocortisone acetate 30 MG [Proctosert HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1291095",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800218,
+        "CONCEPT_NAME": "hydrocortisone acetate 0.005 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1294011",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800224,
+        "CONCEPT_NAME": "hydrocortisone acetate 0.02 MG/MG / pramoxine hydrochloride 0.01 MG/MG [Hydropramox]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1293655",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800225,
+        "CONCEPT_NAME": "hydrocortisone acetate 0.02 MG/MG / pramoxine hydrochloride 0.01 MG/MG [Novacort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1293728",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800230,
+        "CONCEPT_NAME": "hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [ProctoCream-HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1293730",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42800727,
+        "CONCEPT_NAME": "diphenhydramine hydrochloride 5 MG/ML / hydrocortisone 5 MG/ML [HC Derma-Pax]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1297951",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42900501,
+        "CONCEPT_NAME": "hydrocortisone acetate 5 MG/ML [Rhulicort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1310642",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42901134,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Kera-HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1314929",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42901550,
+        "CONCEPT_NAME": "hydrocortisone acetate 23 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1359149",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43011452,
+        "CONCEPT_NAME": "hydrocortisone acetate 10 MG/ML [U-Cort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1360948",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43011453,
+        "CONCEPT_NAME": "hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Analpram HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1360950",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43011454,
+        "CONCEPT_NAME": "hydrocortisone acetate 25 MG/ML / pramoxine hydrochloride 10 MG/ML [Analpram HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1360955",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43013655,
+        "CONCEPT_NAME": "hydrocortisone butyrate 0.001 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1370757",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43013658,
+        "CONCEPT_NAME": "hydrocortisone butyrate 0.001 MG/MG [Locoid]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1370759",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43013659,
+        "CONCEPT_NAME": "hydrocortisone butyrate 1 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1370762",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43013666,
+        "CONCEPT_NAME": "hydrocortisone butyrate 1 MG/ML [Locoid]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1370764",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43014077,
+        "CONCEPT_NAME": "hydrocortisone probutate 1 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1370745",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43014080,
+        "CONCEPT_NAME": "hydrocortisone probutate 1 MG/ML [Pandel]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1370747",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43014086,
+        "CONCEPT_NAME": "hydrocortisone valerate 0.002 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1370749",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43014089,
+        "CONCEPT_NAME": "hydrocortisone valerate 0.002 MG/MG [Westcort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1370751",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43014090,
+        "CONCEPT_NAME": "hydrocortisone valerate 2 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1370753",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43014093,
+        "CONCEPT_NAME": "hydrocortisone valerate 2 MG/ML [Westcort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1370755",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43525625,
+        "CONCEPT_NAME": "hydrocortisone acetate 0.01 MG/MG [Cortisil MDX]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1373236",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43532628,
+        "CONCEPT_NAME": "hydrocortisone acetate 25 MG [Rectacort-HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1429376",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43560721,
+        "CONCEPT_NAME": "hydrocortisone acetate 19 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1436946",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43560724,
+        "CONCEPT_NAME": "hydrocortisone acetate 19 MG/ML / iodoquinol 10 MG/ML [Vytone]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1436948",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44506401,
+        "CONCEPT_NAME": "hydrocortisone acetate 5 MG/ML [Gadaderm Hydrocortisone]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1438753",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -2290,6 +6114,198 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 44507847,
+        "CONCEPT_NAME": "hydrocortisone 20 MG/ML [Dermasorb HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1442868",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44784836,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Dermacool HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1483215",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44784837,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Resicort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1483220",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44814308,
+        "CONCEPT_NAME": "hydrocortisone 0.01 MG/MG [Hemorrodil Plus]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1491719",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45774728,
+        "CONCEPT_NAME": "hydrocortisone acetate 100 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1545171",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45774730,
+        "CONCEPT_NAME": "hydrocortisone acetate 100 MG/ML [Cortifoam]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1545173",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45775905,
+        "CONCEPT_NAME": "bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Vetropolycin HC]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1541112",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45776281,
+        "CONCEPT_NAME": "hydrocortisone acetate 0.02 MG/MG [CortAlo]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1542797",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45776286,
+        "CONCEPT_NAME": "hydrocortisone acetate 5 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Cortisporin]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1542805",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45776377,
+        "CONCEPT_NAME": "hydrocortisone acetate 0.015 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1542924",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45776611,
+        "CONCEPT_NAME": "benzocaine 15 MG/ML / chloroxylenol 1 MG/ML / hydrocortisone acetate 10 MG/ML [Myoxin]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1549398",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45776615,
+        "CONCEPT_NAME": "benzocaine 15 MG/ML / chloroxylenol 1 MG/ML / hydrocortisone acetate 10 MG/ML [TriOxin]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1549402",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 45776722,
         "CONCEPT_NAME": "hydrocortisone acetate 15 MG/ML",
         "STANDARD_CONCEPT": "S",
@@ -2301,6 +6317,38 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 46233830,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Selsun Blue Scalp Itch]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1650985",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 46287708,
+        "CONCEPT_NAME": "hydrocortisone 10 MG/ML [Blue-Emu Anti-Itch]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1664356",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     }

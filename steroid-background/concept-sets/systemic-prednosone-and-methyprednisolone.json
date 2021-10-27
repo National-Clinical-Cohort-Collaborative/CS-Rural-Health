@@ -1282,6 +1282,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19060038,
+        "CONCEPT_NAME": "methylprednisolone 1 MG/ML Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "246024",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19061425,
         "CONCEPT_NAME": "meprednisone 40 MG Oral Tablet",
         "STANDARD_CONCEPT": "S",
@@ -1810,6 +1826,102 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19105235,
+        "CONCEPT_NAME": "chloramphenicol 0.002 MG/MG / prednisone 0.005 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "418863",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105412,
+        "CONCEPT_NAME": "piroxicam 10 MG / prednisone 2 MG Rectal Suppository",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "420639",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105447,
+        "CONCEPT_NAME": "prednisone 5 MG Rectal Suppository",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "420771",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105448,
+        "CONCEPT_NAME": "prednisone 30 MG Rectal Suppository",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "420772",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105449,
+        "CONCEPT_NAME": "prednisone 100 MG Rectal Suppository",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "420773",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105450,
+        "CONCEPT_NAME": "prednisone 10 MG Rectal Suppository",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "420774",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19106650,
         "CONCEPT_NAME": "methylprednisolone 40 MG Oral Tablet",
         "STANDARD_CONCEPT": "S",
@@ -1853,6 +1965,22 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19109240,
+        "CONCEPT_NAME": "prednisone 0.005 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "438434",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -2946,6 +3074,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40022944,
+        "CONCEPT_NAME": "chloramphenicol / prednisone Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "438435",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40055571,
         "CONCEPT_NAME": "meprednisone Oral Solution",
         "STANDARD_CONCEPT": "S",
@@ -2973,6 +3117,22 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Form"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40060699,
+        "CONCEPT_NAME": "methylprednisolone Enema",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "372865",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -3042,6 +3202,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40060727,
+        "CONCEPT_NAME": "methylprednisolone Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "372867",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40060728,
         "CONCEPT_NAME": "methylprednisolone Oral Tablet",
         "STANDARD_CONCEPT": "S",
@@ -3069,6 +3245,70 @@
         "CONCEPT_CLASS_ID": "Branded Drug Form"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40060734,
+        "CONCEPT_NAME": "methylprednisolone Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "377758",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40060736,
+        "CONCEPT_NAME": "methylprednisolone Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "372863",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40066583,
+        "CONCEPT_NAME": "methylprednisolone / neomycin Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "376403",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40066585,
+        "CONCEPT_NAME": "methylprednisolone / neomycin Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "376326",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -3266,6 +3506,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40073813,
+        "CONCEPT_NAME": "prednisone Rectal Suppository",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "451142",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40077886,
         "CONCEPT_NAME": "piroxicam / prednisone Delayed Release Oral Tablet",
         "STANDARD_CONCEPT": "S",
@@ -3293,6 +3549,22 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Form"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40077888,
+        "CONCEPT_NAME": "piroxicam / prednisone Rectal Suppository",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "450881",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -3341,6 +3613,102 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Form"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40239145,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.01 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1100385",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40239146,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.01 MG/MG Topical Gel",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1100387",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40239147,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.01 MG/MG Topical Gel [HybriSil]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1100391",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40239148,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.01 MG/MG [HybriSil]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1100389",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40239242,
+        "CONCEPT_NAME": "methylprednisolone Topical Gel",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1100386",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40239243,
+        "CONCEPT_NAME": "methylprednisolone Topical Gel [HybriSil]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1100390",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -3538,6 +3906,70 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 42901434,
+        "CONCEPT_NAME": "lidocaine / methylprednisolone Injectable Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358497",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42901435,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.0025 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358499",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42901437,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.0025 MG/MG / neomycin 0.0035 MG/MG [Neo-Medrol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358502",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42901438,
+        "CONCEPT_NAME": "methylprednisolone / neomycin Topical Ointment [Neo-Medrol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358503",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 42901439,
         "CONCEPT_NAME": "methylprednisolone acetate 20 MG/ML",
         "STANDARD_CONCEPT": "S",
@@ -3613,6 +4045,22 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42901473,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.005 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358743",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -3730,6 +4178,70 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 42902103,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.0025 MG/MG / neomycin 0.0035 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358500",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42902104,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.0025 MG/MG / neomycin 0.0035 MG/MG Topical Ointment [Neo-Medrol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358505",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42902105,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.0025 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358506",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42902106,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.01 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358508",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 42902107,
         "CONCEPT_NAME": "methylprednisolone acetate 20 MG/ML Injectable Suspension",
         "STANDARD_CONCEPT": "S",
@@ -3826,6 +4338,54 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 42902152,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.0025 MG/MG / neomycin 0.007 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358737",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42902156,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.005 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358744",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42902157,
+        "CONCEPT_NAME": "methylprednisolone acetate 10 MG/ML / neomycin 3.5 MG/ML Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358746",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 42902158,
         "CONCEPT_NAME": "methylprednisolone acetate 16 MG/ML Injectable Suspension",
         "STANDARD_CONCEPT": "S",
@@ -3837,6 +4397,54 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42902159,
+        "CONCEPT_NAME": "methylprednisolone acetate 2.5 MG/ML / neomycin 3.5 MG/ML Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358750",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42902162,
+        "CONCEPT_NAME": "methylprednisolone acetate 2.5 MG/ML Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358754",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42902166,
+        "CONCEPT_NAME": "methylprednisolone acetate 40 MG Enema",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358761",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },

@@ -2,6 +2,150 @@
   "items": [
     {
       "concept": {
+        "CONCEPT_ID": 916347,
+        "CONCEPT_NAME": "neomycin 5 MG / prednisolone 5 MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "311931",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 923877,
+        "CONCEPT_NAME": "dibucaine 0.005 MG/MG / prednisolone 0.0019 MG/MG Rectal Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "249191",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 948692,
+        "CONCEPT_NAME": "neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML / prednisolone 5 MG/ML Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "311888",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 990095,
+        "CONCEPT_NAME": "chloramphenicol 1 MG/ML / prednisolone 5 MG/ML Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "246727",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 990100,
+        "CONCEPT_NAME": "chloramphenicol 2 MG/ML / prednisolone 5 MG/ML Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "249573",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1036286,
+        "CONCEPT_NAME": "phenylephrine 1.2 MG/ML / prednisolone 5 MG/ML / sulfacetamide 100 MG/ML Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "312193",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1113120,
+        "CONCEPT_NAME": "aspirin 300 MG / methylprednisolone 1.5 MG Oral Tablet",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "245993",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1136635,
+        "CONCEPT_NAME": "phenylephrine 1.2 MG/ML / prednisolone 10 MG/ML Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "249424",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1136641,
+        "CONCEPT_NAME": "phenylephrine 0.8 MG/ML / prednisolone 1 MG/ML Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "251979",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 1506270,
         "CONCEPT_NAME": "methylprednisolone",
         "STANDARD_CONCEPT": "S",
@@ -338,6 +482,70 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 1550577,
+        "CONCEPT_NAME": "prednisolone 1.25 MG/ML Ophthalmic Solution [Inflamase Mild]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "211752",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1550578,
+        "CONCEPT_NAME": "prednisolone 10 MG/ML Ophthalmic Solution [AK-Pred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "211753",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1550579,
+        "CONCEPT_NAME": "prednisolone 10 MG/ML Ophthalmic Solution [Inflamase Forte]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "211754",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1550580,
+        "CONCEPT_NAME": "prednisolone 10 MG/ML Ophthalmic Solution [Prednisol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "211755",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 1550652,
         "CONCEPT_NAME": "niacinamide 25 MG/ML / prednisolone 20 MG/ML Injectable Solution",
         "STANDARD_CONCEPT": "S",
@@ -365,6 +573,22 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1550657,
+        "CONCEPT_NAME": "prednisolone 0.002 MG/MG Ophthalmic Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "252948",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -434,6 +658,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 1550774,
+        "CONCEPT_NAME": "prednisolone 5 MG/ML Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "312611",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 1550775,
         "CONCEPT_NAME": "prednisolone 1 MG/ML Oral Solution",
         "STANDARD_CONCEPT": "S",
@@ -445,6 +685,22 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1550776,
+        "CONCEPT_NAME": "prednisolone 10 MG/ML Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "314165",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -738,6 +994,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 1550974,
+        "CONCEPT_NAME": "prednisolone 1.25 MG/ML Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "345131",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 1550975,
         "CONCEPT_NAME": "prednisolone 5 MG Oral Tablet [Cotolone]",
         "STANDARD_CONCEPT": "S",
@@ -770,6 +1042,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 1551003,
+        "CONCEPT_NAME": "prednisolone 10 MG/ML Ophthalmic Solution [Isolone Forte]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "542617",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 1551004,
         "CONCEPT_NAME": "prednisolone 25 MG/ML Injectable Suspension [Pricortin]",
         "STANDARD_CONCEPT": "S",
@@ -781,6 +1069,22 @@
         "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1551005,
+        "CONCEPT_NAME": "prednisolone 1.2 MG/ML Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "562379",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -829,6 +1133,22 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1551009,
+        "CONCEPT_NAME": "prednisolone 1.2 MG/ML Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "562781",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -1010,6 +1330,102 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 1594690,
+        "CONCEPT_NAME": "gentamicin / prednisolone Ophthalmic Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1870656",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1594691,
+        "CONCEPT_NAME": "gentamicin 0.003 MG/MG / prednisolone acetate 0.006 MG/MG [Pred-G]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1870659",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1594692,
+        "CONCEPT_NAME": "gentamicin / prednisolone Ophthalmic Ointment [Pred-G]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1870660",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1594693,
+        "CONCEPT_NAME": "gentamicin / prednisolone Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1870666",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1594694,
+        "CONCEPT_NAME": "gentamicin 3 MG/ML / prednisolone acetate 10 MG/ML [Pred-G]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1870668",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1594695,
+        "CONCEPT_NAME": "gentamicin / prednisolone Ophthalmic Suspension [Pred-G]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1870669",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19001446,
         "CONCEPT_NAME": "prednisolone 16 MG/ML Injectable Solution [Codelsol]",
         "STANDARD_CONCEPT": "S",
@@ -1069,6 +1485,118 @@
         "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19002079,
+        "CONCEPT_NAME": "prednisolone 5 MG/ML Ophthalmic Solution [Predsol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "103223",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19002140,
+        "CONCEPT_NAME": "prednisolone 5 MG/ML Otic Solution [Predsol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "103263",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19002161,
+        "CONCEPT_NAME": "prednisolone 5 MG/ML Otic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "103264",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19003483,
+        "CONCEPT_NAME": "prednisolone 0.2 MG/ML Enema [Predenema]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "104171",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19003484,
+        "CONCEPT_NAME": "prednisolone 0.2 MG/ML Enema [Predsol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "104172",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19003485,
+        "CONCEPT_NAME": "prednisolone 5 MG Rectal Suppository [Predsol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "104173",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19003486,
+        "CONCEPT_NAME": "prednisolone 20 MG Enema [Predfoam]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "104174",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -1234,6 +1762,150 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19008239,
+        "CONCEPT_NAME": "prednisolone 5 MG/ML Ophthalmic Solution [Minims Prednisolone]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "106025",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19009430,
+        "CONCEPT_NAME": "prednisolone 0.01 MG/ML Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "106992",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19009451,
+        "CONCEPT_NAME": "prednisolone 0.03 MG/ML Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "106993",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19009452,
+        "CONCEPT_NAME": "prednisolone 0.1 MG/ML Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "106994",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19009453,
+        "CONCEPT_NAME": "prednisolone 0.3 MG/ML Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "106995",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19009454,
+        "CONCEPT_NAME": "prednisolone 1 MG/ML Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "106996",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19009455,
+        "CONCEPT_NAME": "prednisolone 3 MG/ML Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "106997",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19009885,
+        "CONCEPT_NAME": "prednisolone 20 MG Rectal Foam",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "107666",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19010087,
+        "CONCEPT_NAME": "prednisolone 20 MG Rectal Foam [Predfoam]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "108304",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19019158,
         "CONCEPT_NAME": "methylprednisolone 24 MG Oral Tablet",
         "STANDARD_CONCEPT": "S",
@@ -1261,6 +1933,70 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19022611,
+        "CONCEPT_NAME": "prednisolone 5 MG/ML Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "199968",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19030441,
+        "CONCEPT_NAME": "gentamicin 3 MG/ML / prednisolone acetate 10 MG/ML Ophthalmic Suspension [Pred-G]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "205826",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19033819,
+        "CONCEPT_NAME": "prednisolone 1.2 MG/ML [Ocu-Pred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "575551",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19033841,
+        "CONCEPT_NAME": "prednisolone 10 MG/ML [Ocu-Pred Forte]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "575552",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -1410,6 +2146,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19036100,
+        "CONCEPT_NAME": "neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML / prednisolone 5 MG/ML Ophthalmic Suspension [Poly Pred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "207638",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19040242,
         "CONCEPT_NAME": "prednisolone acetate 5 MG Oral Tablet",
         "STANDARD_CONCEPT": "S",
@@ -1421,6 +2173,22 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19040276,
+        "CONCEPT_NAME": "prednisolone 1.2 MG/ML Ophthalmic Suspension [Pred Mild]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "209002",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -1538,6 +2306,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19046405,
+        "CONCEPT_NAME": "prednisolone 1.25 MG/ML Ophthalmic Solution [AK-Pred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "211751",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19048394,
         "CONCEPT_NAME": "methylprednisolone 62.5 MG/ML [Solu-Medrol]",
         "STANDARD_CONCEPT": "S",
@@ -1618,6 +2402,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19060038,
+        "CONCEPT_NAME": "methylprednisolone 1 MG/ML Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "246024",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19061119,
         "CONCEPT_NAME": "prednisolone 40 MG/ML [Depo-Predate]",
         "STANDARD_CONCEPT": "S",
@@ -1650,6 +2450,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19061458,
+        "CONCEPT_NAME": "chloramphenicol 2 MG/ML / prednisolone 5 MG/ML Otic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "248804",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19061583,
         "CONCEPT_NAME": "prednisolone 5 MG/ML Oral Solution",
         "STANDARD_CONCEPT": "S",
@@ -1661,6 +2477,86 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19062573,
+        "CONCEPT_NAME": "dibucaine 1 MG / prednisolone 1.3 MG Rectal Suppository",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "250343",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19063849,
+        "CONCEPT_NAME": "prednisolone 0.2 MG/ML Enema",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "250862",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19063881,
+        "CONCEPT_NAME": "prednisolone 5 MG Rectal Suppository",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "250864",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19063883,
+        "CONCEPT_NAME": "prednisolone 20 MG/ACTUAT Rectal Foam",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "250869",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19065983,
+        "CONCEPT_NAME": "prednisolone 2 MG/ML Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "259052",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -1709,6 +2605,22 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19067364,
+        "CONCEPT_NAME": "gentamicin 0.003 MG/MG / prednisolone acetate 0.006 MG/MG Ophthalmic Ointment [Pred-G]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "260285",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -2130,6 +3042,38 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19077602,
+        "CONCEPT_NAME": "gentamicin 0.003 MG/MG / prednisolone acetate 0.006 MG/MG Ophthalmic Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "310468",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19077603,
+        "CONCEPT_NAME": "gentamicin 3 MG/ML / prednisolone acetate 10 MG/ML Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "310469",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19078058,
         "CONCEPT_NAME": "prednisolone 50 MG/ML [Pred-Ject-50]",
         "STANDARD_CONCEPT": "S",
@@ -2269,6 +3213,54 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19079356,
+        "CONCEPT_NAME": "prednisolone 2 MG/ML / sulfacetamide 100 MG/ML Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "312601",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19079358,
+        "CONCEPT_NAME": "prednisolone 2 MG/ML / sulfacetamide 200 MG/ML Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "312603",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19079359,
+        "CONCEPT_NAME": "prednisolone 2.5 MG/ML Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "312604",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -2610,6 +3602,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19096255,
+        "CONCEPT_NAME": "prednisolone 1.1 MG/ML Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "347155",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19096439,
         "CONCEPT_NAME": "prednisolone 50 MG Oral Tablet",
         "STANDARD_CONCEPT": "S",
@@ -2674,6 +3682,38 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19098260,
+        "CONCEPT_NAME": "prednisolone 1.2 MG/ML Ophthalmic Solution [Ocu-Pred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "351703",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19098261,
+        "CONCEPT_NAME": "prednisolone 10 MG/ML Ophthalmic Solution [Ocu-Pred Forte]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "351704",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19098918,
         "CONCEPT_NAME": "prednisolone 16 MG/ML",
         "STANDARD_CONCEPT": "S",
@@ -2722,6 +3762,38 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19101839,
+        "CONCEPT_NAME": "prednisolone 25 MG/ML Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "392181",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19103259,
+        "CONCEPT_NAME": "prednisolone 2.5 MG/ML Topical Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "409432",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19104123,
         "CONCEPT_NAME": "prednisolone 8 MG/ML Injectable Suspension",
         "STANDARD_CONCEPT": "S",
@@ -2733,6 +3805,22 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19104572,
+        "CONCEPT_NAME": "prednisolone 5 MG/ML / propylene glycol salicylate 1 MG/ML Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "415640",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -2781,6 +3869,438 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19104651,
+        "CONCEPT_NAME": "prednisolone 0.01 MG/MG Topical Gel",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "415884",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19104742,
+        "CONCEPT_NAME": "bisdequalinium 4.8 MG/ML / prednisolone 2.5 MG/ML Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "416363",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19104774,
+        "CONCEPT_NAME": "dequalinium 0.003 MG/MG / polidocanol 0.003 MG/MG / prednisolone 0.005 MG/MG Topical Gel",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "416545",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19104778,
+        "CONCEPT_NAME": "estradiol 0.05 MG/ML / prednisolone 4 MG/ML Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "416566",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19104786,
+        "CONCEPT_NAME": "clotrimazole 10 MG/ML / hexamidine 2.5 MG/ML / prednisolone 5 MG/ML Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "416576",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19104787,
+        "CONCEPT_NAME": "oxyquinoline 2.5 MG/ML / prednisolone 2.5 MG/ML Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "416577",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19104825,
+        "CONCEPT_NAME": "prednisolone 0.005 MG/MG Paste",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "416681",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19104893,
+        "CONCEPT_NAME": "prednisolone 0.01 MG/MG / rifamycins 0.0025 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "417022",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19104954,
+        "CONCEPT_NAME": "neomycin 3 MG/ML / prednisolone 4 MG/ML Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "417397",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105023,
+        "CONCEPT_NAME": "idoxuridine 0.002 MG/MG / prednisolone 0.002 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "417779",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105044,
+        "CONCEPT_NAME": "prednisolone 2.5 MG/ML Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "417893",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105046,
+        "CONCEPT_NAME": "prednisolone 4 MG/ML Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "417896",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105148,
+        "CONCEPT_NAME": "oxytetracycline 0.005 MG/MG / prednisolone 0.0025 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "418460",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105248,
+        "CONCEPT_NAME": "polidocanol 0.03 MG/MG / prednisolone 0.004 MG/MG / promethazine 0.02 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "418925",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105254,
+        "CONCEPT_NAME": "prednisolone 0.005 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "418972",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105257,
+        "CONCEPT_NAME": "prednisolone 0.002 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "418976",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105258,
+        "CONCEPT_NAME": "prednisolone 0.001 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "418977",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105259,
+        "CONCEPT_NAME": "prednisolone 0.0025 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "418978",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105263,
+        "CONCEPT_NAME": "prednisolone 0.004 MG/MG / zinc oxide 0.03 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "418987",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105274,
+        "CONCEPT_NAME": "chloramphenicol 0.002 MG/MG / prednisolone 0.005 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "419051",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105445,
+        "CONCEPT_NAME": "prednisolone 2 MG/ML / salicylic acid 4 MG/ML Topical Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "420747",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105451,
+        "CONCEPT_NAME": "prednisolone 100 MG Rectal Suppository",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "420775",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105515,
+        "CONCEPT_NAME": "menthol 10 MG / prednisolone 1 MG / thymol 0.5 MG Rectal Suppository",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "421255",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105526,
+        "CONCEPT_NAME": "dibucaine 1 MG / prednisolone 1.1 MG Rectal Suppository",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "421326",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105547,
+        "CONCEPT_NAME": "bismuth chloride oxide 44 MG / prednisolone 2 MG / zinc oxide 66 MG Rectal Suppository",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "421480",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105809,
+        "CONCEPT_NAME": "prednisolone 20 MG Enema",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "422650",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19106398,
+        "CONCEPT_NAME": "dexpanthenol 3 MG/ML / prednisolone 2 MG/ML / salicylic acid 10 MG/ML Topical Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "428443",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -2877,6 +4397,22 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19108522,
+        "CONCEPT_NAME": "prednisolone 5 MG/ML Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "436615",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -3362,6 +4898,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19118446,
+        "CONCEPT_NAME": "neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML / prednisolone 5 MG/ML [Poly Pred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "568390",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19119988,
         "CONCEPT_NAME": "prednisolone 1.25 MG/ML [AK-Pred]",
         "STANDARD_CONCEPT": "S",
@@ -3533,6 +5085,54 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19121518,
+        "CONCEPT_NAME": "prednisolone 2 MG/ML / sulfacetamide 100 MG/ML Ophthalmic Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "580007",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19121519,
+        "CONCEPT_NAME": "prednisolone 1.25 MG/ML [Ocu-Pred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "580010",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19121520,
+        "CONCEPT_NAME": "prednisolone 1.25 MG/ML Ophthalmic Solution [Ocu-Pred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "580011",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -4306,6 +5906,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40011287,
+        "CONCEPT_NAME": "atropine / prednisolone Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "370965",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40012593,
         "CONCEPT_NAME": "aspirin / methylprednisolone Oral Tablet",
         "STANDARD_CONCEPT": "S",
@@ -4317,6 +5933,86 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Form"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40013687,
+        "CONCEPT_NAME": "bismuth chloride oxide / prednisolone / zinc oxide Rectal Suppository",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "451088",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40022940,
+        "CONCEPT_NAME": "chloramphenicol / prednisolone Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "371385",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40022941,
+        "CONCEPT_NAME": "chloramphenicol / prednisolone Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "371386",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40022942,
+        "CONCEPT_NAME": "chloramphenicol / prednisolone Otic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "371387",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40022943,
+        "CONCEPT_NAME": "chloramphenicol / prednisolone Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "438433",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -4338,6 +6034,70 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40025542,
+        "CONCEPT_NAME": "dequalinium / polidocanol / prednisolone Topical Gel",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "440699",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40026557,
+        "CONCEPT_NAME": "clotrimazole / hexamidine / prednisolone Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "438796",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40036260,
+        "CONCEPT_NAME": "dibucaine / prednisolone Rectal Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "373581",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40036261,
+        "CONCEPT_NAME": "dibucaine / prednisolone Rectal Suppository",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "373582",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40037350,
         "CONCEPT_NAME": "fluprednisolone Oral Tablet",
         "STANDARD_CONCEPT": "S",
@@ -4354,6 +6114,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40042041,
+        "CONCEPT_NAME": "estradiol / prednisolone Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "451127",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40044443,
         "CONCEPT_NAME": "prednisolone Injectable Suspension [Hydeltra-T.B.A.]",
         "STANDARD_CONCEPT": "S",
@@ -4365,6 +6141,70 @@
         "CONCEPT_CLASS_ID": "Branded Drug Form"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40048619,
+        "CONCEPT_NAME": "idoxuridine / prednisolone Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "451124",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40056000,
+        "CONCEPT_NAME": "dexpanthenol / prednisolone / salicylic acid Topical Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "451092",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40058502,
+        "CONCEPT_NAME": "polidocanol / prednisolone / promethazine Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "440702",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40060699,
+        "CONCEPT_NAME": "methylprednisolone Enema",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "372865",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -4434,6 +6274,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40060727,
+        "CONCEPT_NAME": "methylprednisolone Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "372867",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40060728,
         "CONCEPT_NAME": "methylprednisolone Oral Tablet",
         "STANDARD_CONCEPT": "S",
@@ -4466,6 +6322,198 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40060734,
+        "CONCEPT_NAME": "methylprednisolone Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "377758",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40060736,
+        "CONCEPT_NAME": "methylprednisolone Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "372863",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40066473,
+        "CONCEPT_NAME": "menthol / prednisolone / thymol Rectal Suppository",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "452077",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40066583,
+        "CONCEPT_NAME": "methylprednisolone / neomycin Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "376403",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40066585,
+        "CONCEPT_NAME": "methylprednisolone / neomycin Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "376326",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40067001,
+        "CONCEPT_NAME": "oxyquinoline / prednisolone Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "451130",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40067033,
+        "CONCEPT_NAME": "oxytetracycline / prednisolone Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "447124",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40069320,
+        "CONCEPT_NAME": "prednisolone Ophthalmic Solution [Ocu-Pred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "363816",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40071896,
+        "CONCEPT_NAME": "neomycin / polymyxin B / prednisolone Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "374690",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40071897,
+        "CONCEPT_NAME": "neomycin / polymyxin B / prednisolone Ophthalmic Suspension [Poly Pred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "365813",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40071904,
+        "CONCEPT_NAME": "neomycin / prednisolone Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "446684",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40071905,
+        "CONCEPT_NAME": "neomycin / prednisolone Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "376404",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40072752,
         "CONCEPT_NAME": "niacinamide / prednisolone Injectable Solution",
         "STANDARD_CONCEPT": "S",
@@ -4482,6 +6530,38 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40072990,
+        "CONCEPT_NAME": "phenylephrine / prednisolone / sulfacetamide Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "376134",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40072991,
+        "CONCEPT_NAME": "phenylephrine / prednisolone Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "373394",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40073185,
         "CONCEPT_NAME": "prednisolone Disintegrating Oral Tablet",
         "STANDARD_CONCEPT": "S",
@@ -4493,6 +6573,70 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Form"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073186,
+        "CONCEPT_NAME": "prednisolone Enema",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "373569",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073187,
+        "CONCEPT_NAME": "prednisolone Enema [Predenema]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "363620",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073188,
+        "CONCEPT_NAME": "prednisolone Enema [Predfoam]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "363610",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073189,
+        "CONCEPT_NAME": "prednisolone Enema [Predsol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "363611",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -4802,6 +6946,230 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40073440,
+        "CONCEPT_NAME": "prednisolone Ophthalmic Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "373570",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073441,
+        "CONCEPT_NAME": "prednisolone Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "373576",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073442,
+        "CONCEPT_NAME": "prednisolone Ophthalmic Solution [AK-Pred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "363768",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073443,
+        "CONCEPT_NAME": "prednisolone Ophthalmic Solution [Inflamase Forte]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "363767",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073444,
+        "CONCEPT_NAME": "prednisolone Ophthalmic Solution [Inflamase Mild]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "363691",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073445,
+        "CONCEPT_NAME": "prednisolone Ophthalmic Solution [Minims Prednisolone]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "363903",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073446,
+        "CONCEPT_NAME": "prednisolone Ophthalmic Solution [Ocu-Pred Forte]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "363815",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073447,
+        "CONCEPT_NAME": "prednisolone Ophthalmic Solution [Prednisol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "363766",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073448,
+        "CONCEPT_NAME": "prednisolone Ophthalmic Solution [Predsol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "363667",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073449,
+        "CONCEPT_NAME": "prednisolone Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "373571",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073450,
+        "CONCEPT_NAME": "prednisolone Ophthalmic Suspension [Econopred Plus]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "365831",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073451,
+        "CONCEPT_NAME": "prednisolone Ophthalmic Suspension [Econopred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "365821",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073452,
+        "CONCEPT_NAME": "prednisolone Ophthalmic Suspension [Ocu-Pred-A]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "365809",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073453,
+        "CONCEPT_NAME": "prednisolone Ophthalmic Suspension [Pred Forte]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "365822",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40073454,
         "CONCEPT_NAME": "prednisolone Oral Solution",
         "STANDARD_CONCEPT": "S",
@@ -4962,6 +7330,406 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40073464,
+        "CONCEPT_NAME": "prednisolone Paste",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "451160",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073465,
+        "CONCEPT_NAME": "prednisolone Rectal Foam",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "373574",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073466,
+        "CONCEPT_NAME": "prednisolone Rectal Foam [Predfoam]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "385800",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073467,
+        "CONCEPT_NAME": "prednisolone Rectal Suppository",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "373577",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073468,
+        "CONCEPT_NAME": "prednisolone Rectal Suppository [Predsol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "367523",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073471,
+        "CONCEPT_NAME": "prednisolone Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "451096",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073472,
+        "CONCEPT_NAME": "prednisolone Topical Gel",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "451162",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073473,
+        "CONCEPT_NAME": "prednisolone Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "451094",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40073474,
+        "CONCEPT_NAME": "prednisolone Topical Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "451108",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40078740,
+        "CONCEPT_NAME": "prednisolone Ophthalmic Suspension [Pred Mild]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "365832",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40078765,
+        "CONCEPT_NAME": "prednisolone / propylene glycol salicylate Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "451099",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40078766,
+        "CONCEPT_NAME": "prednisolone / rifamycins Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "451305",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40078767,
+        "CONCEPT_NAME": "prednisolone / salicylic acid Topical Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "451137",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40078768,
+        "CONCEPT_NAME": "prednisolone / sulfacetamide Ophthalmic Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "373972",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40078769,
+        "CONCEPT_NAME": "prednisolone / sulfacetamide Ophthalmic Ointment [AK-Cide]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "367224",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40078772,
+        "CONCEPT_NAME": "prednisolone / sulfacetamide Ophthalmic Ointment [Cetapred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "367242",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40078773,
+        "CONCEPT_NAME": "prednisolone / sulfacetamide Ophthalmic Ointment [Vasocidin]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "367257",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40078774,
+        "CONCEPT_NAME": "prednisolone / sulfacetamide Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "373973",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40078775,
+        "CONCEPT_NAME": "prednisolone / sulfacetamide Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "373974",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40078776,
+        "CONCEPT_NAME": "prednisolone / sulfacetamide Ophthalmic Suspension [AK-Cide]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "365840",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40078777,
+        "CONCEPT_NAME": "prednisolone / sulfacetamide Ophthalmic Suspension [Blephamide]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "365841",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40078779,
+        "CONCEPT_NAME": "prednisolone / sulfacetamide Ophthalmic Suspension [Sulster]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "365836",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40078780,
+        "CONCEPT_NAME": "prednisolone / sulfacetamide Ophthalmic Suspension [Supred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "365835",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40078782,
+        "CONCEPT_NAME": "prednisolone / zinc oxide Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "451107",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40097295,
+        "CONCEPT_NAME": "bisdequalinium / prednisolone Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "451115",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40112721,
         "CONCEPT_NAME": "prednisolone Injectable Suspension [Pricortin]",
         "STANDARD_CONCEPT": "S",
@@ -4973,6 +7741,38 @@
         "CONCEPT_CLASS_ID": "Branded Drug Form"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40112722,
+        "CONCEPT_NAME": "prednisolone Ophthalmic Solution [Isolone Forte]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "542616",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40112723,
+        "CONCEPT_NAME": "prednisolone Ophthalmic Solution [Pred-Phosphate]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "542620",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -4994,6 +7794,38 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40113284,
+        "CONCEPT_NAME": "prednisolone / sulfacetamide Ophthalmic Ointment [Predsulfair]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "545252",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40113285,
+        "CONCEPT_NAME": "prednisolone / sulfacetamide Ophthalmic Solution [Sulster]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "542634",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40130114,
         "CONCEPT_NAME": "prednisolone Oral Solution [Bubbli-Pred]",
         "STANDARD_CONCEPT": "S",
@@ -5010,6 +7842,86 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40131742,
+        "CONCEPT_NAME": "prednisolone / sulfacetamide Ophthalmic Ointment [Medasulf]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "619278",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40131743,
+        "CONCEPT_NAME": "prednisolone / sulfacetamide Ophthalmic Ointment [Metimyd]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "619279",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40131744,
+        "CONCEPT_NAME": "prednisolone / sulfacetamide Ophthalmic Solution [Vasocidin]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "619303",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40131745,
+        "CONCEPT_NAME": "prednisolone / sulfacetamide Ophthalmic Suspension [Metimyd]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "619280",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40131746,
+        "CONCEPT_NAME": "prednisolone / sulfacetamide Ophthalmic Suspension [Vasocidin]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "619281",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40135413,
         "CONCEPT_NAME": "prednisolone Disintegrating Oral Tablet [Orapred]",
         "STANDARD_CONCEPT": "S",
@@ -5021,6 +7933,22 @@
         "CONCEPT_CLASS_ID": "Branded Drug Form"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40144214,
+        "CONCEPT_NAME": "prednisolone Ophthalmic Suspension [Omnipred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "731219",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -5074,6 +8002,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40154146,
+        "CONCEPT_NAME": "prednisolone / sulfacetamide Ophthalmic Solution [Optimyd]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "806539",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40154981,
         "CONCEPT_NAME": "prednisolone Oral Tablet [MILLIPRED]",
         "STANDARD_CONCEPT": "S",
@@ -5101,6 +8045,102 @@
         "CONCEPT_CLASS_ID": "Branded Drug Form"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40163622,
+        "CONCEPT_NAME": "prednisolone / sulfacetamide Ophthalmic Ointment [Blephamide]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "856820",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40170022,
+        "CONCEPT_NAME": "miconazole / polymyxin B / prednisolone Otic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "891148",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40170023,
+        "CONCEPT_NAME": "miconazole / polymyxin B / prednisolone Otic Suspension [Surolan]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "891152",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40170091,
+        "CONCEPT_NAME": "miconazole nitrate 23 MG/ML / polymyxin B sulfate 0.5293 MG/ML / prednisolone acetate 5 MG/ML Otic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "891149",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40170092,
+        "CONCEPT_NAME": "miconazole nitrate 23 MG/ML / polymyxin B sulfate 0.5293 MG/ML / prednisolone acetate 5 MG/ML Otic Suspension [Surolan]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "891153",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40170093,
+        "CONCEPT_NAME": "miconazole nitrate 23 MG/ML / polymyxin B sulfate 0.5293 MG/ML / prednisolone acetate 5 MG/ML [Surolan]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "891151",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -5234,6 +8274,390 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40226246,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 2.5 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012020",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226247,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 2.5 MG/ML / sulfacetamide sodium 100 MG/ML Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012021",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226248,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 2.5 MG/ML / sulfacetamide sodium 100 MG/ML Ophthalmic Solution [Sulster]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012023",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226249,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 2.5 MG/ML / sulfacetamide sodium 100 MG/ML Ophthalmic Solution [Vasocidin]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012025",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226250,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 2.5 MG/ML / sulfacetamide sodium 100 MG/ML Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012084",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226251,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 2.5 MG/ML / sulfacetamide sodium 100 MG/ML Ophthalmic Suspension [Cetapred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012087",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226252,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 2.5 MG/ML / sulfacetamide sodium 100 MG/ML Ophthalmic Suspension [Sulster]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012098",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226253,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 2.5 MG/ML / sulfacetamide sodium 100 MG/ML Ophthalmic Suspension [Supred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012118",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226254,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 2.5 MG/ML / sulfacetamide sodium 100 MG/ML [Cetapred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012085",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226255,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 2.5 MG/ML / sulfacetamide sodium 100 MG/ML [Sulster]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012022",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226256,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 2.5 MG/ML / sulfacetamide sodium 100 MG/ML [Supred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012117",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226257,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 2.5 MG/ML / sulfacetamide sodium 100 MG/ML [Vasocidin]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012024",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226258,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 5 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012149",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226259,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 5 MG/ML / sulfacetamide sodium 100 MG/ML Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012150",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226260,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 5 MG/ML / sulfacetamide sodium 100 MG/ML Ophthalmic Solution [Optimyd]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012152",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226261,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 5 MG/ML / sulfacetamide sodium 100 MG/ML Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012175",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226262,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 5 MG/ML / sulfacetamide sodium 100 MG/ML Ophthalmic Suspension [AK-Cide]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012177",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226263,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 5 MG/ML / sulfacetamide sodium 100 MG/ML Ophthalmic Suspension [Metimyd]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012188",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226264,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 5 MG/ML / sulfacetamide sodium 100 MG/ML Ophthalmic Suspension [Vasocidin]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012214",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226265,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 5 MG/ML / sulfacetamide sodium 100 MG/ML [AK-Cide]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012176",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226266,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 5 MG/ML / sulfacetamide sodium 100 MG/ML [Metimyd]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012187",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226267,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 5 MG/ML / sulfacetamide sodium 100 MG/ML [Optimyd]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012151",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226268,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 5 MG/ML / sulfacetamide sodium 100 MG/ML [Vasocidin]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012213",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40226702,
+        "CONCEPT_NAME": "prednisolone / sulfacetamide Ophthalmic Suspension [Cetapred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012086",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40226713,
         "CONCEPT_NAME": "prednisolone 3 MG/ML Oral Solution [AsmalPred Plus]",
         "STANDARD_CONCEPT": "S",
@@ -5298,6 +8722,422 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40227408,
+        "CONCEPT_NAME": "prednisolone acetate 0.002 MG/MG / sulfacetamide sodium 0.1 MG/MG Ophthalmic Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1011985",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227409,
+        "CONCEPT_NAME": "prednisolone acetate 0.002 MG/MG / sulfacetamide sodium 0.1 MG/MG Ophthalmic Ointment [Blephamide]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1011987",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227410,
+        "CONCEPT_NAME": "prednisolone acetate 0.002 MG/MG / sulfacetamide sodium 0.1 MG/MG [Blephamide]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1011986",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227411,
+        "CONCEPT_NAME": "prednisolone acetate 0.0025 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1011978",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227412,
+        "CONCEPT_NAME": "prednisolone acetate 0.0025 MG/MG / sulfacetamide sodium 0.1 MG/MG Ophthalmic Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1011979",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227413,
+        "CONCEPT_NAME": "prednisolone acetate 0.0025 MG/MG / sulfacetamide sodium 0.1 MG/MG Ophthalmic Ointment [Cetapred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1011981",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227414,
+        "CONCEPT_NAME": "prednisolone acetate 0.0025 MG/MG / sulfacetamide sodium 0.1 MG/MG [Cetapred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1011980",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227415,
+        "CONCEPT_NAME": "prednisolone acetate 0.005 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1011999",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227416,
+        "CONCEPT_NAME": "prednisolone acetate 0.005 MG/MG / sulfacetamide sodium 0.1 MG/MG Ophthalmic Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012000",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227417,
+        "CONCEPT_NAME": "prednisolone acetate 0.005 MG/MG / sulfacetamide sodium 0.1 MG/MG Ophthalmic Ointment [AK-Cide]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012002",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227418,
+        "CONCEPT_NAME": "prednisolone acetate 0.005 MG/MG / sulfacetamide sodium 0.1 MG/MG Ophthalmic Ointment [Medasulf]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012908",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227419,
+        "CONCEPT_NAME": "prednisolone acetate 0.005 MG/MG / sulfacetamide sodium 0.1 MG/MG Ophthalmic Ointment [Metimyd]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012004",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227420,
+        "CONCEPT_NAME": "prednisolone acetate 0.005 MG/MG / sulfacetamide sodium 0.1 MG/MG Ophthalmic Ointment [Predsulfair]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012006",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227421,
+        "CONCEPT_NAME": "prednisolone acetate 0.005 MG/MG / sulfacetamide sodium 0.1 MG/MG Ophthalmic Ointment [Vasocidin]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012008",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227422,
+        "CONCEPT_NAME": "prednisolone acetate 0.005 MG/MG / sulfacetamide sodium 0.1 MG/MG [AK-Cide]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012001",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227423,
+        "CONCEPT_NAME": "prednisolone acetate 0.005 MG/MG / sulfacetamide sodium 0.1 MG/MG [Medasulf]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012907",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227424,
+        "CONCEPT_NAME": "prednisolone acetate 0.005 MG/MG / sulfacetamide sodium 0.1 MG/MG [Metimyd]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012003",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227425,
+        "CONCEPT_NAME": "prednisolone acetate 0.005 MG/MG / sulfacetamide sodium 0.1 MG/MG [Predsulfair]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012005",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227426,
+        "CONCEPT_NAME": "prednisolone acetate 0.005 MG/MG / sulfacetamide sodium 0.1 MG/MG [Vasocidin]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012007",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227427,
+        "CONCEPT_NAME": "prednisolone acetate 2 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012014",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227428,
+        "CONCEPT_NAME": "prednisolone acetate 2 MG/ML / sulfacetamide sodium 100 MG/ML Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012015",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227429,
+        "CONCEPT_NAME": "prednisolone acetate 2 MG/ML / sulfacetamide sodium 100 MG/ML Ophthalmic Suspension [Blephamide]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012017",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227430,
+        "CONCEPT_NAME": "prednisolone acetate 2 MG/ML / sulfacetamide sodium 100 MG/ML [Blephamide]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012016",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227431,
+        "CONCEPT_NAME": "prednisolone acetate 2.5 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012079",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227432,
+        "CONCEPT_NAME": "prednisolone acetate 2.5 MG/ML / sulfacetamide sodium 100 MG/ML Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012080",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40227433,
+        "CONCEPT_NAME": "prednisolone acetate 5 MG/ML / sulfacetamide sodium 100 MG/ML Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1012224",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40227495,
         "CONCEPT_NAME": "{21 (prednisolone 5 MG Oral Tablet) } Pack",
         "STANDARD_CONCEPT": "S",
@@ -5309,6 +9149,118 @@
         "CONCEPT_CLASS_ID": "Clinical Pack"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40239145,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.01 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1100385",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40239146,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.01 MG/MG Topical Gel",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1100387",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40239147,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.01 MG/MG Topical Gel [HybriSil]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1100391",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40239148,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.01 MG/MG [HybriSil]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1100389",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40239242,
+        "CONCEPT_NAME": "methylprednisolone Topical Gel",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1100386",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40239243,
+        "CONCEPT_NAME": "methylprednisolone Topical Gel [HybriSil]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1100390",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40243446,
+        "CONCEPT_NAME": "atropine sulfate 10 MG/ML / prednisolone acetate 2.5 MG/ML Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1190936",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -5442,6 +9394,54 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 42901435,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.0025 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358499",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42901437,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.0025 MG/MG / neomycin 0.0035 MG/MG [Neo-Medrol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358502",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42901438,
+        "CONCEPT_NAME": "methylprednisolone / neomycin Topical Ointment [Neo-Medrol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358503",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 42901439,
         "CONCEPT_NAME": "methylprednisolone acetate 20 MG/ML",
         "STANDARD_CONCEPT": "S",
@@ -5517,6 +9517,22 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42901473,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.005 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358743",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -5634,6 +9650,70 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 42902103,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.0025 MG/MG / neomycin 0.0035 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358500",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42902104,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.0025 MG/MG / neomycin 0.0035 MG/MG Topical Ointment [Neo-Medrol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358505",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42902105,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.0025 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358506",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42902106,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.01 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358508",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 42902107,
         "CONCEPT_NAME": "methylprednisolone acetate 20 MG/ML Injectable Suspension",
         "STANDARD_CONCEPT": "S",
@@ -5730,6 +9810,54 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 42902152,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.0025 MG/MG / neomycin 0.007 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358737",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42902156,
+        "CONCEPT_NAME": "methylprednisolone acetate 0.005 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358744",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42902157,
+        "CONCEPT_NAME": "methylprednisolone acetate 10 MG/ML / neomycin 3.5 MG/ML Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358746",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 42902158,
         "CONCEPT_NAME": "methylprednisolone acetate 16 MG/ML Injectable Suspension",
         "STANDARD_CONCEPT": "S",
@@ -5741,6 +9869,86 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42902159,
+        "CONCEPT_NAME": "methylprednisolone acetate 2.5 MG/ML / neomycin 3.5 MG/ML Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358750",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42902162,
+        "CONCEPT_NAME": "methylprednisolone acetate 2.5 MG/ML Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358754",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42902166,
+        "CONCEPT_NAME": "methylprednisolone acetate 40 MG Enema",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1358761",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43526394,
+        "CONCEPT_NAME": "prednisolone acetate 10 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1376335",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43526395,
+        "CONCEPT_NAME": "prednisolone acetate 10 MG/ML Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1376336",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -5901,6 +10109,214 @@
         "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45776347,
+        "CONCEPT_NAME": "prednisolone sodium phosphate 5 MG/ML Ophthalmic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1547974",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45776437,
+        "CONCEPT_NAME": "prednisolone acetate 10 MG/ML [Econopred Plus]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1548704",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45776438,
+        "CONCEPT_NAME": "prednisolone acetate 10 MG/ML Ophthalmic Suspension [Econopred Plus]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1548705",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45776439,
+        "CONCEPT_NAME": "prednisolone acetate 10 MG/ML [Omnipred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1548713",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45776440,
+        "CONCEPT_NAME": "prednisolone acetate 10 MG/ML Ophthalmic Suspension [Omnipred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1548714",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45776441,
+        "CONCEPT_NAME": "prednisolone acetate 10 MG/ML [Pred Forte]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1548723",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45776442,
+        "CONCEPT_NAME": "prednisolone acetate 10 MG/ML Ophthalmic Suspension [Pred Forte]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1548724",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45776443,
+        "CONCEPT_NAME": "prednisolone acetate 10 MG/ML [Ocu-Pred-A]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1548738",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45776444,
+        "CONCEPT_NAME": "prednisolone acetate 10 MG/ML Ophthalmic Suspension [Ocu-Pred-A]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1548739",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45776580,
+        "CONCEPT_NAME": "prednisolone acetate 1.25 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1549314",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45776581,
+        "CONCEPT_NAME": "prednisolone acetate 1.25 MG/ML Ophthalmic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1549315",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45776582,
+        "CONCEPT_NAME": "prednisolone acetate 1.25 MG/ML [Econopred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1549316",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45776583,
+        "CONCEPT_NAME": "prednisolone acetate 1.25 MG/ML Ophthalmic Suspension [Econopred]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1549317",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     }

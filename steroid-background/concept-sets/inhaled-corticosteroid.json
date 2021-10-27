@@ -146,6 +146,214 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 792586,
+        "CONCEPT_NAME": "fluticasone propionate 0.093 MG/ACTUAT",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1946582",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 792587,
+        "CONCEPT_NAME": "fluticasone propionate 0.093 MG/ACTUAT Metered Dose Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1946583",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 792589,
+        "CONCEPT_NAME": "fluticasone propionate 0.093 MG/ACTUAT [Xhance]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1946585",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 792590,
+        "CONCEPT_NAME": "fluticasone Metered Dose Nasal Spray [Xhance]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1946586",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 792593,
+        "CONCEPT_NAME": "fluticasone propionate 0.093 MG/ACTUAT Metered Dose Nasal Spray [Xhance]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1946589",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 793456,
+        "CONCEPT_NAME": "mometasone furoate 1.35 MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1995982",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 793457,
+        "CONCEPT_NAME": "mometasone furoate 1.35 MG Drug Implant",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1995983",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 793459,
+        "CONCEPT_NAME": "mometasone furoate 1.35 MG [Sinuva]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1995985",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 793460,
+        "CONCEPT_NAME": "mometasone Drug Implant [Sinuva]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1995986",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 793462,
+        "CONCEPT_NAME": "mometasone furoate 1.35 MG Drug Implant [Sinuva]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1995988",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 793577,
+        "CONCEPT_NAME": "fluticasone propionate 0.05 MG/ACTUAT [Fluticare]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1996208",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 793578,
+        "CONCEPT_NAME": "fluticasone Metered Dose Nasal Spray [Fluticare]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1996209",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 793581,
+        "CONCEPT_NAME": "fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Fluticare]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1996212",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 793912,
         "CONCEPT_NAME": "60 ACTUAT fluticasone propionate 0.113 MG/ACTUAT Dry Powder Inhaler",
         "STANDARD_CONCEPT": "S",
@@ -498,6 +706,70 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 905236,
+        "CONCEPT_NAME": "mometasone furoate 1 MG/ML Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "311753",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 905238,
+        "CONCEPT_NAME": "mometasone furoate 0.001 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "336758",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 905240,
+        "CONCEPT_NAME": "mometasone furoate 0.05 MG/ACTUAT",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "358793",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 905264,
+        "CONCEPT_NAME": "mometasone furoate 0.2 MG/ACTUAT",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "617269",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 905271,
         "CONCEPT_NAME": "14 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]",
         "STANDARD_CONCEPT": "S",
@@ -578,6 +850,134 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 905343,
+        "CONCEPT_NAME": "mometasone furoate 1 MG/ML Topical Cream [Elocon]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "92582",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 905344,
+        "CONCEPT_NAME": "mometasone furoate 1 MG/ML Topical Lotion [Elocon]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "92583",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 905345,
+        "CONCEPT_NAME": "mometasone furoate 0.001 MG/MG Topical Ointment [Elocon]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "92584",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 939259,
+        "CONCEPT_NAME": "budesonide",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "19831",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Ingredient"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 939294,
+        "CONCEPT_NAME": "budesonide 0.02 MG/ML Enema",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "153173",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 939300,
+        "CONCEPT_NAME": "budesonide 0.032 MG/ACTUAT Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "247551",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 939301,
+        "CONCEPT_NAME": "budesonide 0.1 MG/ACTUAT Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "247691",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 939352,
+        "CONCEPT_NAME": "budesonide 3 MG Oral Tablet",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "249241",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 939359,
         "CONCEPT_NAME": "budesonide 0.5 MG/ML Inhalation Suspension",
         "STANDARD_CONCEPT": "S",
@@ -589,6 +989,22 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 939361,
+        "CONCEPT_NAME": "budesonide 0.032 MG/ACTUAT",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "315498",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -850,6 +1266,38 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 980899,
+        "CONCEPT_NAME": "beclomethasone 0.25 MG/ML / clioquinol 30 MG/ML Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "247435",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 980900,
+        "CONCEPT_NAME": "beclomethasone 0.00025 MG/MG / clioquinol 0.03 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "247449",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 1115572,
         "CONCEPT_NAME": "beclomethasone",
         "STANDARD_CONCEPT": "S",
@@ -866,6 +1314,134 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 1115647,
+        "CONCEPT_NAME": "beclomethasone 0.00025 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "331154",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1115673,
+        "CONCEPT_NAME": "beclomethasone 0.25 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "358485",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1115678,
+        "CONCEPT_NAME": "beclomethasone 0.05 MG/ACTUAT Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "562655",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1146317,
+        "CONCEPT_NAME": "ciclesonide 0.343 MG/ACTUAT",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2377376",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1146318,
+        "CONCEPT_NAME": "ciclesonide 0.343 MG/ACTUAT Metered Dose Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2377377",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1146320,
+        "CONCEPT_NAME": "ciclesonide 0.343 MG/ACTUAT [Aservo]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2377379",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1146321,
+        "CONCEPT_NAME": "ciclesonide Metered Dose Nasal Spray [Aservo]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2377380",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1146324,
+        "CONCEPT_NAME": "ciclesonide 0.343 MG/ACTUAT Metered Dose Nasal Spray [Aservo]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2377383",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 1149380,
         "CONCEPT_NAME": "fluticasone",
         "STANDARD_CONCEPT": "S",
@@ -877,6 +1453,86 @@
         "CONCEPT_CLASS_ID": "Ingredient"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1355732,
+        "CONCEPT_NAME": "mometasone / orbifloxacin / posaconazole Otic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2105735",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1355733,
+        "CONCEPT_NAME": "mometasone furoate 1 MG/ML / orbifloxacin 10 MG/ML / posaconazole 1 MG/ML Otic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2105737",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1355735,
+        "CONCEPT_NAME": "mometasone furoate 1 MG/ML / orbifloxacin 10 MG/ML / posaconazole 1 MG/ML [Posatex]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2105739",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1355736,
+        "CONCEPT_NAME": "mometasone / orbifloxacin / posaconazole Otic Suspension [Posatex]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2105740",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1355738,
+        "CONCEPT_NAME": "mometasone furoate 1 MG/ML / orbifloxacin 10 MG/ML / posaconazole 1 MG/ML Otic Suspension [Posatex]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2105742",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -1410,6 +2066,230 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 1510935,
+        "CONCEPT_NAME": "fluticasone propionate 0.5 MG/ML [Beser]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2121407",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1510936,
+        "CONCEPT_NAME": "fluticasone Topical Lotion [Beser]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2121408",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1510938,
+        "CONCEPT_NAME": "fluticasone propionate 0.5 MG/ML Topical Lotion [Beser]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2121410",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1511378,
+        "CONCEPT_NAME": "clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Maxi-Otic]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2166109",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1511379,
+        "CONCEPT_NAME": "clotrimazole / gentamicin / mometasone Otic Suspension [Maxi-Otic]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2166110",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1511381,
+        "CONCEPT_NAME": "clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Maxi-Otic]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2166112",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1592230,
+        "CONCEPT_NAME": "clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Pattotic]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1870810",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1592698,
+        "CONCEPT_NAME": "fluticasone propionate 0.05 MG/ACTUAT [Nasopro 24]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1872963",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1592699,
+        "CONCEPT_NAME": "fluticasone Metered Dose Nasal Spray [Nasopro 24]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1872964",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1592702,
+        "CONCEPT_NAME": "fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasopro 24]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1872967",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1593605,
+        "CONCEPT_NAME": "fluticasone propionate 0.0275 MG/ACTUAT",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1866621",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1593606,
+        "CONCEPT_NAME": "fluticasone propionate 0.0275 MG/ACTUAT Metered Dose Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1866622",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1593607,
+        "CONCEPT_NAME": "fluticasone propionate 0.0275 MG/ACTUAT [Flonase]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1866623",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1593608,
+        "CONCEPT_NAME": "fluticasone propionate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1866624",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 1593823,
         "CONCEPT_NAME": "fluticasone propionate 0.113 MG/ACTUAT",
         "STANDARD_CONCEPT": "S",
@@ -1666,6 +2546,310 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 1594236,
+        "CONCEPT_NAME": "fluticasone furoate 0.0275 MG/ACTUAT [Flonase Sensimist]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1869708",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1594237,
+        "CONCEPT_NAME": "fluticasone Metered Dose Nasal Spray [Flonase Sensimist]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1869709",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1594240,
+        "CONCEPT_NAME": "fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1869712",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1594500,
+        "CONCEPT_NAME": "clotrimazole / gentamicin / mometasone Otic Suspension [Pattotic]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1870316",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19002275,
+        "CONCEPT_NAME": "beclomethasone dipropionate 0.00025 MG/MG Topical Ointment [Beconase]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "103413",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19002276,
+        "CONCEPT_NAME": "beclomethasone dipropionate 0.00025 MG/MG Topical Ointment [Propaderm A]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "103414",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19002277,
+        "CONCEPT_NAME": "beclomethasone dipropionate 0.25 MG/ML Topical Cream [Propaderm C]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "103415",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19002278,
+        "CONCEPT_NAME": "beclomethasone dipropionate 0.00025 MG/MG Topical Ointment [Propaderm C]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "103416",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19002398,
+        "CONCEPT_NAME": "budesonide 0.25 MG/ML Topical Cream [Preferid]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "103472",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19002399,
+        "CONCEPT_NAME": "budesonide 0.00025 MG/MG Topical Ointment [Preferid]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "103473",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19009950,
+        "CONCEPT_NAME": "beclomethasone dipropionate 0.25 MG/ML Topical Cream [Beconase]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "108092",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19011841,
+        "CONCEPT_NAME": "budesonide 0.25 MG/ML Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "142074",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19011842,
+        "CONCEPT_NAME": "budesonide 0.00025 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "142075",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19012749,
+        "CONCEPT_NAME": "mometasone furoate 0.001 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "151029",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19012750,
+        "CONCEPT_NAME": "mometasone furoate 1 MG/ML Topical Lotion",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "151030",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19016962,
+        "CONCEPT_NAME": "budesonide 0.02 MG/ML Enema [Entocort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "153174",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19023533,
+        "CONCEPT_NAME": "mometasone furoate 0.05 MG/ACTUAT [Nasonex]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "565252",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19026109,
+        "CONCEPT_NAME": "budesonide 0.1 MG/ACTUAT Nasal Spray [Rhinocort Aqua]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "202142",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19029347,
+        "CONCEPT_NAME": "budesonide 0.032 MG/ACTUAT Nasal Spray [Rhinocort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "205481",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19038788,
         "CONCEPT_NAME": "budesonide 0.25 MG/ML [Pulmicort]",
         "STANDARD_CONCEPT": "S",
@@ -1730,6 +2914,38 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19054213,
+        "CONCEPT_NAME": "beclomethasone 0.05 MG/ACTUAT Nasal Spray [Beclo-aqua 50]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "226440",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19060643,
+        "CONCEPT_NAME": "budesonide 0.05 MG/ACTUAT Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "247042",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19060647,
         "CONCEPT_NAME": "budesonide 0.2 MG Inhalation Powder",
         "STANDARD_CONCEPT": "S",
@@ -1741,6 +2957,70 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19060708,
+        "CONCEPT_NAME": "beclomethasone 0.25 MG/ML Topical Lotion",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "247072",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19063315,
+        "CONCEPT_NAME": "budesonide 0.064 MG/ACTUAT Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "250648",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19064076,
+        "CONCEPT_NAME": "mometasone furoate 1 MG/ML [Elocon]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "562875",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19064077,
+        "CONCEPT_NAME": "mometasone furoate 0.001 MG/MG [Elocon]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "562876",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -1874,6 +3154,214 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19101781,
+        "CONCEPT_NAME": "fluticasone 0.4 MG/ACTUAT Nasal Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "389246",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19102054,
+        "CONCEPT_NAME": "fluticasone 0.4 MG/ACTUAT",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "393445",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19104997,
+        "CONCEPT_NAME": "mometasone 0.001 MG/MG / salicylic acid 0.05 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "417615",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19105957,
+        "CONCEPT_NAME": "budesonide 0.25 MG/ML Topical Lotion",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "423906",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19110911,
+        "CONCEPT_NAME": "mometasone 0.001 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "446535",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19112695,
+        "CONCEPT_NAME": "mometasone 0.5 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "484331",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19112696,
+        "CONCEPT_NAME": "mometasone 0.5 MG/ML Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "484333",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19112697,
+        "CONCEPT_NAME": "mometasone furoate 0.05 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "484334",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19112698,
+        "CONCEPT_NAME": "mometasone furoate 0.05 MG/ML Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "484335",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19115612,
+        "CONCEPT_NAME": "budesonide 0.25 MG/ML [Preferid]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "563329",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19115613,
+        "CONCEPT_NAME": "budesonide 0.00025 MG/MG [Preferid]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "563330",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19117040,
+        "CONCEPT_NAME": "budesonide 0.02 MG/ML [Entocort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "565193",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19117741,
+        "CONCEPT_NAME": "budesonide 0.1 MG/ACTUAT [Rhinocort Aqua]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "566113",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19120488,
         "CONCEPT_NAME": "beclomethasone 0.05 MG/ACTUAT [Beclo-aqua 50]",
         "STANDARD_CONCEPT": "S",
@@ -1949,6 +3437,38 @@
         "CONCEPT_CLASS_ID": "Quant Clinical Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19129670,
+        "CONCEPT_NAME": "ciclesonide 0.05 MG/ACTUAT [Omnaris]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "790274",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19129672,
+        "CONCEPT_NAME": "mometasone furoate 0.1 MG/ACTUAT",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "790277",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -2130,6 +3650,38 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 19132265,
+        "CONCEPT_NAME": "mometasone furoate 0.01 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "807205",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 19132266,
+        "CONCEPT_NAME": "mometasone furoate 0.01 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "807206",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 19133104,
         "CONCEPT_NAME": "120 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco]",
         "STANDARD_CONCEPT": "S",
@@ -2253,6 +3805,870 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 35605358,
+        "CONCEPT_NAME": "florfenicol / mometasone / terbinafine Otic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1721551",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 35605359,
+        "CONCEPT_NAME": "florfenicol 15 MG/ML / mometasone furoate 2 MG/ML / terbinafine 13.3 MG/ML Otic Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1721553",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 35605361,
+        "CONCEPT_NAME": "florfenicol 15 MG/ML / mometasone furoate 2 MG/ML / terbinafine 13.3 MG/ML [Claro]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1721555",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 35605362,
+        "CONCEPT_NAME": "florfenicol / mometasone / terbinafine Otic Solution [Claro]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1721556",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 35605520,
+        "CONCEPT_NAME": "florfenicol 15 MG/ML / mometasone furoate 2 MG/ML / terbinafine 13.3 MG/ML Otic Solution [Claro]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1721558",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 35606162,
+        "CONCEPT_NAME": "fluticasone propionate 0.05 MG/ACTUAT [Clarispray]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1742499",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 35606481,
+        "CONCEPT_NAME": "clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Pattotic]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1734665",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36249727,
+        "CONCEPT_NAME": "fluticasone propionate 0.05 MG/ACTUAT [Nasoflow]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1795587",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36249768,
+        "CONCEPT_NAME": "fluticasone propionate 0.05 MG/ACTUAT [Aller-Flo]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1795959",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250069,
+        "CONCEPT_NAME": "ciclesonide Metered Dose Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797837",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250070,
+        "CONCEPT_NAME": "ciclesonide 0.037 MG/ACTUAT Metered Dose Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797838",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250071,
+        "CONCEPT_NAME": "ciclesonide Metered Dose Nasal Spray [Zetonna]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797839",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250072,
+        "CONCEPT_NAME": "ciclesonide 0.037 MG/ACTUAT Metered Dose Nasal Spray [Zetonna]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797840",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250073,
+        "CONCEPT_NAME": "ciclesonide 0.05 MG/ACTUAT Metered Dose Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797841",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250074,
+        "CONCEPT_NAME": "ciclesonide Metered Dose Nasal Spray [Omnaris]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797842",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250075,
+        "CONCEPT_NAME": "ciclesonide 0.05 MG/ACTUAT Metered Dose Nasal Spray [Omnaris]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797843",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250078,
+        "CONCEPT_NAME": "azelastine / fluticasone Metered Dose Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797846",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250079,
+        "CONCEPT_NAME": "azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797847",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250080,
+        "CONCEPT_NAME": "azelastine / fluticasone Metered Dose Nasal Spray [Dymista]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797848",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250081,
+        "CONCEPT_NAME": "azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797849",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250096,
+        "CONCEPT_NAME": "mometasone Metered Dose Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797864",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250097,
+        "CONCEPT_NAME": "mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797865",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250100,
+        "CONCEPT_NAME": "mometasone Metered Dose Nasal Spray [Nasonex]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797868",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250102,
+        "CONCEPT_NAME": "mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797870",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250121,
+        "CONCEPT_NAME": "fluticasone Metered Dose Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797889",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250122,
+        "CONCEPT_NAME": "fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797890",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250123,
+        "CONCEPT_NAME": "fluticasone Metered Dose Nasal Spray [Veramyst]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797891",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250124,
+        "CONCEPT_NAME": "fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Veramyst]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797892",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250133,
+        "CONCEPT_NAME": "beclomethasone Metered Dose Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797899",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250134,
+        "CONCEPT_NAME": "beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797900",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250135,
+        "CONCEPT_NAME": "beclomethasone Metered Dose Nasal Spray [Qnasl]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797901",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250136,
+        "CONCEPT_NAME": "beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797902",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250141,
+        "CONCEPT_NAME": "fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797907",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250142,
+        "CONCEPT_NAME": "fluticasone Metered Dose Nasal Spray [Aller-Flo]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797908",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250143,
+        "CONCEPT_NAME": "fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Aller-Flo]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797909",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250144,
+        "CONCEPT_NAME": "beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797910",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250145,
+        "CONCEPT_NAME": "beclomethasone Metered Dose Nasal Spray [Vancenase]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797911",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250146,
+        "CONCEPT_NAME": "beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Nasal Spray [Vancenase]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797912",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250150,
+        "CONCEPT_NAME": "beclomethasone Metered Dose Nasal Spray [Beconase]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797916",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250151,
+        "CONCEPT_NAME": "beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Nasal Spray [Beconase]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797917",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250152,
+        "CONCEPT_NAME": "fluticasone Metered Dose Nasal Spray [Clarispray]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797918",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250153,
+        "CONCEPT_NAME": "fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Clarispray]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797919",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250154,
+        "CONCEPT_NAME": "beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797920",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250155,
+        "CONCEPT_NAME": "beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797921",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250160,
+        "CONCEPT_NAME": "beclomethasone dipropionate 0.084 MG/ACTUAT Metered Dose Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797926",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250161,
+        "CONCEPT_NAME": "beclomethasone dipropionate 0.084 MG/ACTUAT Metered Dose Nasal Spray [Vancenase]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797927",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250162,
+        "CONCEPT_NAME": "budesonide Metered Dose Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797928",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250163,
+        "CONCEPT_NAME": "budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797929",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250164,
+        "CONCEPT_NAME": "budesonide Metered Dose Nasal Spray [Rhinocort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797930",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250165,
+        "CONCEPT_NAME": "budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray [Rhinocort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797931",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250166,
+        "CONCEPT_NAME": "fluticasone Metered Dose Nasal Spray [Flonase]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797932",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250167,
+        "CONCEPT_NAME": "fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797933",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250168,
+        "CONCEPT_NAME": "fluticasone Metered Dose Nasal Spray [Nasoflow]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797934",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36250169,
+        "CONCEPT_NAME": "fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasoflow]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1797935",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -2770,6 +5186,854 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 37496920,
+        "CONCEPT_NAME": "clotrimazole / gentamicin / mometasone Otic Suspension [LoZatom]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2201556",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37496922,
+        "CONCEPT_NAME": "clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [LoZatom]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2201558",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37498341,
+        "CONCEPT_NAME": "budesonide 6 MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2269303",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37498342,
+        "CONCEPT_NAME": "budesonide Extended Release Oral Capsule",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2269304",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37498343,
+        "CONCEPT_NAME": "budesonide 6 MG Extended Release Oral Capsule",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2269306",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37498344,
+        "CONCEPT_NAME": "budesonide 9 MG Extended Release Oral Capsule",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2269308",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37498548,
+        "CONCEPT_NAME": "budesonide 6 MG [Ortikos]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2273103",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37498549,
+        "CONCEPT_NAME": "budesonide Extended Release Oral Capsule [Ortikos]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2273104",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37498552,
+        "CONCEPT_NAME": "budesonide 6 MG Extended Release Oral Capsule [Ortikos]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2273108",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37498553,
+        "CONCEPT_NAME": "budesonide 9 MG [Ortikos]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2273109",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37498554,
+        "CONCEPT_NAME": "budesonide 9 MG Extended Release Oral Capsule [Ortikos]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2273111",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37499789,
+        "CONCEPT_NAME": "24 HR budesonide 6 MG Extended Release Oral Capsule",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2269305",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Quant Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37499790,
+        "CONCEPT_NAME": "24 HR budesonide 9 MG Extended Release Oral Capsule",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2269307",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Quant Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37499791,
+        "CONCEPT_NAME": "24 HR budesonide 6 MG Extended Release Oral Capsule [Ortikos]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2273107",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Quant Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37499792,
+        "CONCEPT_NAME": "24 HR budesonide 9 MG Extended Release Oral Capsule [Ortikos]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2273110",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Quant Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40010331,
+        "CONCEPT_NAME": "beclomethasone Nasal Spray [Beclo-aqua 50]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "381204",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40010335,
+        "CONCEPT_NAME": "beclomethasone / clioquinol Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "379390",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40010336,
+        "CONCEPT_NAME": "beclomethasone / clioquinol Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "376445",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40010699,
+        "CONCEPT_NAME": "beclomethasone Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "370992",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40010706,
+        "CONCEPT_NAME": "beclomethasone Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "379378",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40010707,
+        "CONCEPT_NAME": "beclomethasone Topical Cream [Propaderm C]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "385350",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40010708,
+        "CONCEPT_NAME": "beclomethasone Topical Cream [Beconase]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "381201",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40010709,
+        "CONCEPT_NAME": "beclomethasone Topical Lotion",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "379388",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40010710,
+        "CONCEPT_NAME": "beclomethasone Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "376446",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40010711,
+        "CONCEPT_NAME": "beclomethasone Topical Ointment [Propaderm A]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "385348",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40010712,
+        "CONCEPT_NAME": "beclomethasone Topical Ointment [Propaderm C]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "385351",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40010713,
+        "CONCEPT_NAME": "beclomethasone Topical Ointment [Beconase]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "384470",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40020303,
+        "CONCEPT_NAME": "budesonide Enema",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "381066",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40020304,
+        "CONCEPT_NAME": "budesonide Enema [Entocort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "352629",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40020313,
+        "CONCEPT_NAME": "budesonide Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "371152",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40020314,
+        "CONCEPT_NAME": "budesonide Nasal Spray [Rhinocort Aqua]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "361957",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40020315,
+        "CONCEPT_NAME": "budesonide Nasal Spray [Rhinocort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "381058",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40020317,
+        "CONCEPT_NAME": "budesonide Oral Tablet",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "376186",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40020318,
+        "CONCEPT_NAME": "budesonide Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "379380",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40020319,
+        "CONCEPT_NAME": "budesonide Topical Cream [Preferid]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "106787",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40020320,
+        "CONCEPT_NAME": "budesonide Topical Lotion",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "438078",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40020321,
+        "CONCEPT_NAME": "budesonide Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "381065",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40020322,
+        "CONCEPT_NAME": "budesonide Topical Ointment [Preferid]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "106788",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40058407,
+        "CONCEPT_NAME": "fluticasone Nasal Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "393446",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40058408,
+        "CONCEPT_NAME": "fluticasone Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "378620",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40058409,
+        "CONCEPT_NAME": "fluticasone Topical Cream [Cutivate]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "362259",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40058410,
+        "CONCEPT_NAME": "fluticasone Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "372254",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40058411,
+        "CONCEPT_NAME": "fluticasone Topical Ointment [Cutivate]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "367327",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40066267,
+        "CONCEPT_NAME": "mometasone / salicylic acid Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "446536",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40066277,
+        "CONCEPT_NAME": "mometasone Nasal Spray",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "484332",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40126135,
+        "CONCEPT_NAME": "fluticasone Topical Lotion",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "577392",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40126136,
+        "CONCEPT_NAME": "fluticasone Topical Lotion [Cutivate]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "584217",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40132039,
+        "CONCEPT_NAME": "mometasone Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "619083",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40132040,
+        "CONCEPT_NAME": "mometasone Topical Cream [Elocon]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "619243",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40132041,
+        "CONCEPT_NAME": "mometasone Topical Lotion",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "619119",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40132042,
+        "CONCEPT_NAME": "mometasone Topical Lotion [Elocon]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "619244",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40132043,
+        "CONCEPT_NAME": "mometasone Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "619042",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40132044,
+        "CONCEPT_NAME": "mometasone Topical Ointment [Elocon]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "619245",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40142784,
         "CONCEPT_NAME": "beclomethasone Metered Dose Inhaler",
         "STANDARD_CONCEPT": "S",
@@ -3037,6 +6301,118 @@
         "CONCEPT_CLASS_ID": "Branded Drug Form"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40164074,
+        "CONCEPT_NAME": "beclomethasone dipropionate 1 MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "858134",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40164075,
+        "CONCEPT_NAME": "beclomethasone dipropionate 1 MG Delayed Release Oral Tablet",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "858136",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40164076,
+        "CONCEPT_NAME": "beclomethasone dipropionate 1 MG Oral Tablet",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "858138",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40164077,
+        "CONCEPT_NAME": "beclomethasone Delayed Release Oral Tablet",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "858135",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40164080,
+        "CONCEPT_NAME": "beclomethasone Oral Tablet",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "858137",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40166046,
+        "CONCEPT_NAME": "{200 (beclomethasone dipropionate 1 MG Delayed Release Oral Tablet) / 200 (beclomethasone dipropionate 1 MG Oral Tablet) } Pack",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "858139",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Pack"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40166047,
+        "CONCEPT_NAME": "{200 (beclomethasone dipropionate 1 MG Delayed Release Oral Tablet) / 200 (beclomethasone dipropionate 1 MG Oral Tablet) } Pack [orBec]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "858140",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Pack"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -3874,6 +7250,22 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40169854,
+        "CONCEPT_NAME": "mometasone Topical Cream [Momexin]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "891164",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40170634,
         "CONCEPT_NAME": "fluticasone / salmeterol Dry Powder Inhaler [Advair]",
         "STANDARD_CONCEPT": "S",
@@ -3954,6 +7346,70 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40171015,
+        "CONCEPT_NAME": "fluticasone propionate 0.00005 MG/MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "895486",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40171016,
+        "CONCEPT_NAME": "fluticasone propionate 0.00005 MG/MG Topical Ointment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "895487",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40171017,
+        "CONCEPT_NAME": "fluticasone propionate 0.00005 MG/MG Topical Ointment [Cutivate]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "895697",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40171018,
+        "CONCEPT_NAME": "fluticasone propionate 0.00005 MG/MG [Cutivate]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "895696",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40171019,
         "CONCEPT_NAME": "fluticasone propionate 0.044 MG/ACTUAT",
         "STANDARD_CONCEPT": "S",
@@ -4013,6 +7469,54 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40171023,
+        "CONCEPT_NAME": "fluticasone propionate 0.05 MG/ACTUAT",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "896014",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40171024,
+        "CONCEPT_NAME": "fluticasone propionate 0.05 MG/ACTUAT [Flonase]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "896322",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40171025,
+        "CONCEPT_NAME": "fluticasone propionate 0.05 MG/ACTUAT [Flovent]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "896016",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -4285,6 +7789,86 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40171045,
+        "CONCEPT_NAME": "fluticasone propionate 0.5 MG/ML Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "895987",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40171046,
+        "CONCEPT_NAME": "fluticasone propionate 0.5 MG/ML Topical Cream [Cutivate]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "895989",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40171047,
+        "CONCEPT_NAME": "fluticasone propionate 0.5 MG/ML Topical Lotion",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "895990",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40171048,
+        "CONCEPT_NAME": "fluticasone propionate 0.5 MG/ML Topical Lotion [Cutivate]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "895991",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40171049,
+        "CONCEPT_NAME": "fluticasone propionate 0.5 MG/ML [Cutivate]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "895988",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -4802,6 +8386,38 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40173740,
+        "CONCEPT_NAME": "beclomethasone dipropionate 0.25 MG/ML",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "966764",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40173741,
+        "CONCEPT_NAME": "beclomethasone dipropionate 0.25 MG/ML Topical Cream",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "966765",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 40173742,
         "CONCEPT_NAME": "beclomethasone Metered Dose Inhaler [Vanceril]",
         "STANDARD_CONCEPT": "S",
@@ -4978,6 +8594,102 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 40242701,
+        "CONCEPT_NAME": "mometasone furoate 0.37 MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1148517",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40242702,
+        "CONCEPT_NAME": "mometasone furoate 0.37 MG Drug Implant",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1148519",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40242703,
+        "CONCEPT_NAME": "mometasone furoate 0.37 MG Drug Implant [Propel]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1148523",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40242704,
+        "CONCEPT_NAME": "mometasone furoate 0.37 MG [Propel]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1148521",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40242786,
+        "CONCEPT_NAME": "mometasone Drug Implant",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1148518",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40242787,
+        "CONCEPT_NAME": "mometasone Drug Implant [Propel]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1148522",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 42705815,
         "CONCEPT_NAME": "ciclesonide 0.037 MG/ACTUAT",
         "STANDARD_CONCEPT": "S",
@@ -5085,6 +8797,38 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42708201,
+        "CONCEPT_NAME": "budesonide 3 MG Delayed Release Oral Capsule",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1244214",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42708202,
+        "CONCEPT_NAME": "budesonide 3 MG Delayed Release Oral Capsule [Entocort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1244215",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -6162,6 +9906,134 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 43012434,
+        "CONCEPT_NAME": "24 HR budesonide 9 MG Extended Release Oral Tablet",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1366550",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Quant Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43012435,
+        "CONCEPT_NAME": "24 HR budesonide 9 MG Extended Release Oral Tablet [Uceris]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1366556",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Quant Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43012543,
+        "CONCEPT_NAME": "budesonide 9 MG",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1366548",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43012544,
+        "CONCEPT_NAME": "budesonide 9 MG Extended Release Oral Tablet",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1366557",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43012545,
+        "CONCEPT_NAME": "budesonide 9 MG Extended Release Oral Tablet [Uceris]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1366558",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43012546,
+        "CONCEPT_NAME": "budesonide 9 MG [Uceris]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1366552",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43012547,
+        "CONCEPT_NAME": "budesonide Extended Release Oral Tablet",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1366549",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43012548,
+        "CONCEPT_NAME": "budesonide Extended Release Oral Tablet [Uceris]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1366553",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 43531861,
         "CONCEPT_NAME": "14 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler",
         "STANDARD_CONCEPT": "S",
@@ -6237,6 +10109,38 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44814216,
+        "CONCEPT_NAME": "budesonide Delayed Release Oral Capsule",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1489770",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44814217,
+        "CONCEPT_NAME": "budesonide Delayed Release Oral Capsule [Entocort]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1489772",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
@@ -6850,6 +10754,134 @@
     },
     {
       "concept": {
+        "CONCEPT_ID": 45892455,
+        "CONCEPT_NAME": "budesonide 2 MG/ACTUAT",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1596771",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45892456,
+        "CONCEPT_NAME": "budesonide Rectal Foam",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1596772",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45892457,
+        "CONCEPT_NAME": "budesonide 2 MG/ACTUAT Rectal Foam",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1596773",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45892458,
+        "CONCEPT_NAME": "budesonide 2 MG/ACTUAT [Uceris]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1596774",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45892459,
+        "CONCEPT_NAME": "budesonide Rectal Foam [Uceris]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1596775",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45892460,
+        "CONCEPT_NAME": "budesonide 2 MG/ACTUAT Rectal Foam [Uceris]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1596777",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45892461,
+        "CONCEPT_NAME": "14 ACTUAT budesonide 2 MG/ACTUAT Rectal Foam [Uceris]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1596778",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Quant Branded Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45892462,
+        "CONCEPT_NAME": "14 ACTUAT budesonide 2 MG/ACTUAT Rectal Foam",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1596779",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Quant Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 45892718,
         "CONCEPT_NAME": "beclomethasone dipropionate 0.04 MG/ACTUAT [Qnasl]",
         "STANDARD_CONCEPT": "S",
@@ -6877,6 +10909,86 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 46221668,
+        "CONCEPT_NAME": "clotrimazole / gentamicin / mometasone Otic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1606019",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 46221669,
+        "CONCEPT_NAME": "clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1606021",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Clinical Drug"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 46221671,
+        "CONCEPT_NAME": "clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Motazol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1606023",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Comp"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 46221672,
+        "CONCEPT_NAME": "clotrimazole / gentamicin / mometasone Otic Suspension [Motazol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1606024",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug Form"
+      },
+      "isExcluded": true,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 46221673,
+        "CONCEPT_NAME": "clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Motazol]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1606026",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Branded Drug"
+      },
+      "isExcluded": true,
       "includeDescendants": false,
       "includeMapped": false
     },
