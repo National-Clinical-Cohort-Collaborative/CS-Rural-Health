@@ -13,7 +13,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -29,7 +29,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -45,7 +45,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -61,7 +61,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -77,7 +77,7 @@
         "CONCEPT_CLASS_ID": "Ingredient"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -93,7 +93,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -109,7 +109,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -125,7 +125,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -141,7 +141,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -157,7 +157,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -173,7 +173,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -189,7 +189,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -205,7 +205,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -221,7 +221,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -237,7 +237,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -253,7 +253,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -269,7 +269,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -285,7 +285,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -301,7 +301,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -317,7 +317,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -333,7 +333,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -349,7 +349,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -365,7 +365,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -381,7 +381,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -397,7 +397,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -413,7 +413,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -429,7 +429,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -445,7 +445,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -461,7 +461,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -477,7 +477,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -493,7 +493,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -509,7 +509,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -525,7 +525,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -541,7 +541,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -557,7 +557,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -573,7 +573,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -589,7 +589,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -605,7 +605,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -621,7 +621,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -637,7 +637,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -653,7 +653,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -669,7 +669,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -685,7 +685,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -701,7 +701,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -717,7 +717,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -733,7 +733,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -749,7 +749,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -765,7 +765,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -781,7 +781,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -797,7 +797,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -813,7 +813,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -829,7 +829,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -845,7 +845,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -861,7 +861,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -877,7 +877,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -893,7 +893,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -909,7 +909,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -925,7 +925,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -941,7 +941,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -957,7 +957,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -973,7 +973,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -989,7 +989,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1005,7 +1005,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1021,7 +1021,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1037,7 +1037,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1053,7 +1053,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1069,7 +1069,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1085,7 +1085,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1101,7 +1101,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1117,7 +1117,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1133,7 +1133,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1149,7 +1149,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1165,7 +1165,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1181,7 +1181,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1197,7 +1197,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1213,7 +1213,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1229,7 +1229,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1245,7 +1245,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1261,7 +1261,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1277,7 +1277,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1293,7 +1293,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1309,7 +1309,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1325,7 +1325,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1341,7 +1341,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1357,7 +1357,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1373,7 +1373,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1389,7 +1389,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1405,7 +1405,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1421,7 +1421,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1437,7 +1437,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1453,7 +1453,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Form"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1469,7 +1469,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1485,7 +1485,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1501,7 +1501,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Form"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1517,7 +1517,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1533,7 +1533,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1549,7 +1549,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1565,7 +1565,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1581,7 +1581,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1597,7 +1597,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1613,7 +1613,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1629,7 +1629,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1645,7 +1645,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1661,7 +1661,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1677,7 +1677,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1693,7 +1693,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Form"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1709,7 +1709,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1725,7 +1725,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Form"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1741,7 +1741,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Form"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1757,7 +1757,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Form"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1773,7 +1773,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Form"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1789,7 +1789,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Form"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1805,7 +1805,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Form"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1821,7 +1821,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Form"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1837,7 +1837,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Form"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1853,7 +1853,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Form"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1869,7 +1869,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Form"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1885,7 +1885,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Form"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1901,7 +1901,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1917,7 +1917,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1933,7 +1933,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1949,7 +1949,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1965,7 +1965,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1981,7 +1981,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -1997,7 +1997,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -2013,7 +2013,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -2029,7 +2029,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -2045,7 +2045,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -2061,7 +2061,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -2077,7 +2077,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -2093,7 +2093,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -2109,7 +2109,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -2125,7 +2125,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -2141,7 +2141,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -2157,7 +2157,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -2173,7 +2173,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -2189,7 +2189,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -2205,7 +2205,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -2221,7 +2221,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -2237,7 +2237,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -2253,7 +2253,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -2269,7 +2269,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -2285,7 +2285,7 @@
         "CONCEPT_CLASS_ID": "Branded Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     },
     {
@@ -2301,7 +2301,7 @@
         "CONCEPT_CLASS_ID": "Clinical Drug Comp"
       },
       "isExcluded": false,
-      "includeDescendants": true,
+      "includeDescendants": false,
       "includeMapped": false
     }
   ]

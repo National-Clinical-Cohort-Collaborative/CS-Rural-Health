@@ -181,7 +181,7 @@ ds_items <-
   data.frame(
     concept             = ds_packed,
     isExcluded          = rep(FALSE   , nrow(ds_packed)),
-    includeDescendants  = rep(TRUE    , nrow(ds_packed)),
+    includeDescendants  = rep(FALSE   , nrow(ds_packed)),
     includeMapped       = rep(FALSE   , nrow(ds_packed))
   )
 
