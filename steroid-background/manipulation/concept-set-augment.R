@@ -232,9 +232,18 @@ for (p in paths) { # p <- paths[1]
   #   file = sprintf("concept-sets/%s.sql", file_name_base)
   # )
 
-  stringi::stri_wrap(paste0(ds$concept_id, collapse = ", ", prefix = ""), 80, 0) |>
-    stringi::stri_write_lines(
-      con = sprintf("concept-sets/%s.sql", file_name_base),
+  ds$concept_id |>
+    paste0(collapse = ", ", prefix = "") |>
+    stringi::stri_wrap(
+      initial = "WHERE concept_id in (\n  ",
+      # exdent = ")\n",
+      prefix = "  ",
+      width = 121,
+      cost_exponent = 2
+    ) |>
+    cat(
+      ")\n",
+      file = sprintf("concept-sets/%s.sql", file_name_base),
       sep = "\n"
     )
 
