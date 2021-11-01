@@ -38,46 +38,9 @@ col_types <- readr::cols_only(
   # `Valid End Date`      = readr::col_date(format = "")
 )
 
-
-# sql_create <- c(
-#   "
-#     DROP TABLE IF EXISTS codeset_member;
-#   ",
-#   "
-#     CREATE TABLE codeset_member (
-#       codeset              varchar(255)  not null,
-#       concept_id           int           not null,
-#       is_excluded          int              null,
-#       primary key(codeset, concept_id)
-#     )
-#   "
-# )
-#
-# sql_retrieve <-
-#   "
-#     SELECT
-#       csm.codeset
-#       ,csm.is_excluded
-#       ,c.concept_id
-#       ,c.concept_name
-#       ,c.standard_concept
-#       ,'' as standard_concept_caption
-#       ,c.invalid_reason
-#       ,'' as invalid_reason_caption
-#       ,c.concept_code
-#       ,c.domain_id
-#       ,c.vocabulary_id
-#       ,c.concept_class_id
-#     FROM  concept c
-#       inner join codeset_member csm on c.concept_id = csm.concept_id
-#     ORDER BY c.concept_id
-#     --LIMIT 5
-#   "
 sql_retrieve <-
   "
     SELECT
-      -- csm.codeset
-      -- ,csm.is_excluded
       c.concept_id
       ,c.concept_name
       ,c.standard_concept
@@ -104,14 +67,7 @@ paths <-
     "concept-sets/input/reviewed/systemic-hydrocortisone.csv",
     "concept-sets/input/reviewed/systemic-prednisolone.csv",
     "concept-sets/input/reviewed/systemic-prednosone-and-methyprednisolone.csv"
-  ) #|>
-  # {
-  #   \(x)
-  #   rlang::set_names(
-  #     x = x ,
-  #     nm = fs::path_ext_remove(fs::path_file(x))
-  #   )
-  # }()
+  )
 
 # ---- load-data ---------------------------------------------------------------
 
@@ -146,11 +102,9 @@ for (p in paths) { # p <- paths[1]
   # Pull info from OMOP's concept table
   cnn <- DBI::dbConnect(drv = RSQLite::SQLite(), dbname = config$path_database)
   ds_omop  <- DBI::dbGetQuery(cnn, sql_retrieve, params = list(ds_input$concept_id))
-  # DBI::dbBind(ds, )
-  # DBI::dbFetch(ds)
-  # DBI::dbClearResult(ds)
   DBI::dbDisconnect(cnn); rm(cnn)
 
+  # Merge input with concept table
   ds <-
     ds_input |>
     dplyr::left_join(ds_omop, by = "concept_id") |>
@@ -165,14 +119,11 @@ for (p in paths) { # p <- paths[1]
     ) |>
     dplyr::arrange(concept_id)
 
+  # Pack to produce JSON that's compliant with Enclave's version of OMOP.
   ds_packed <-
     ds |>
     dplyr::rename_all(toupper) |>
     tidyr::pack(concept = -c("IS_EXCLUDED")) |>
-    # tidyr::pack(concept = tidyr::everything()) |>
-    # dplyr::rename(
-    #   `isExcluded` = `IS_EXCLUDED`
-    # ) |>
     dplyr::mutate(
       IS_EXCLUDED = as.logical(IS_EXCLUDED)
     )
@@ -180,7 +131,6 @@ for (p in paths) { # p <- paths[1]
   ds_items <-
     data.frame(
       concept             = ds_packed,
-      # isExcluded          = rep(FALSE   , nrow(ds_packed)),
       includeDescendants  = rep(FALSE   , nrow(ds_packed)),
       includeMapped       = rep(FALSE   , nrow(ds_packed))
     ) |>
@@ -191,7 +141,6 @@ for (p in paths) { # p <- paths[1]
   # l2 <- list(items = ds_items)
   # str(l2)
 
-  #
   # test <-
   #   list(
   #     list(
@@ -204,7 +153,6 @@ for (p in paths) { # p <- paths[1]
   #         INVALID_REAON_CAPTION    = ds$invalid_reason_caption
   #       )
   #     ),
-  #     list(isExcluded = 'false'),
   #     list(includeDescendants = 'true'),
   #     list(includeMapped = 'false')
   #   )
@@ -214,7 +162,6 @@ for (p in paths) { # p <- paths[1]
   # for (i in seq_len(nrow(ds))) {
   #   li[i] <- list(
   #     concept = ds[i, ]
-  #     # isExcluded = 'false',
   #     # includeDescendants = 'true',
   #     # includeMapped = 'false'
   #   )
@@ -228,7 +175,6 @@ for (p in paths) { # p <- paths[1]
   #   "concept-sets/input/pre-reviewed/desired.json"
   # ) |>
   # str()
-
 
   # ---- verify-values -----------------------------------------------------------
   # Sniff out problems
@@ -261,24 +207,23 @@ for (p in paths) { # p <- paths[1]
       includeDescendants,
       includeMapped,
     )
+
   # ---- save-to-disk -------------------------------------------------
   # readr::write_csv(ds_slim, config$path_derived_zip_code)
-  # jsonlite::write_json(
-  #   x       = l2,
-  #   path    = config$directory_codeset_output_try1,
-  #   pretty  = TRUE
-  # )
 
+  file_name_base <- fs::path_ext_remove(fs::path_file(p))
 
-    jsonlite::write_json(
-      x       = list(items = ds_items),
-      path    = sprintf(config$directory_codeset_output_template, fs::path_ext_remove(fs::path_file(p))),
-      pretty  = TRUE
+  # Write concept set as OMOP-compliant json.
+  jsonlite::write_json(
+    x       = list(items = ds_items),
+    path    = sprintf(config$directory_codeset_output_template, file_name_base),
+    pretty  = TRUE
+  )
+
+  # Write as a WHERE clause of an Enclave SQL transform
+  sprintf("WHERE concept_id in (\n  %s\n)\n", paste(ds$concept_id, collapse = ", ")) |>
+    cat(
+      file = sprintf("concept-sets/%s.sql", file_name_base)
     )
 
 } # End loop of input file
-
-
-# items |>
-#   purrr::keep(function(x) x$concept.codeset == "inhaled-corticosteroid")
-
