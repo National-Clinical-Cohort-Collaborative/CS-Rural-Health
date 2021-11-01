@@ -221,9 +221,22 @@ for (p in paths) { # p <- paths[1]
   )
 
   # Write as a WHERE clause of an Enclave SQL transform
-  sprintf("WHERE concept_id in (\n  %s\n)\n", paste(ds$concept_id, collapse = ", ")) |>
-    cat(
-      file = sprintf("concept-sets/%s.sql", file_name_base)
+  # sprintf(
+  #   "WHERE concept_id in (\n  %s\n)\n",
+  #   stringi::stri_wrap(paste(ds$concept_id, collapse = ", "), 40, 0)
+  # ) |>
+  # cat(
+  # "WHERE concept_id in (\n",
+  #   stringi::stri_wrap(paste(ds$concept_id, collapse = ", ", prefix = "++"), 80, 0),
+  #    sep='\n',
+  #   file = sprintf("concept-sets/%s.sql", file_name_base)
+  # )
+
+  stringi::stri_wrap(paste0(ds$concept_id, collapse = ", ", prefix = ""), 80, 0) |>
+    stringi::stri_write_lines(
+      con = sprintf("concept-sets/%s.sql", file_name_base),
+      sep = "\n"
     )
+
 
 } # End loop of input file
