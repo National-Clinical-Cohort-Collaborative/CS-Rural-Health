@@ -240,7 +240,7 @@ for (p in paths) { # p <- paths[1]
       initial = "WHERE concept_id in (\n  ",
       # exdent = ")\n",
       prefix = "  ",
-      width = 121,
+      width = 201,
       cost_exponent = 2
     ) |>
     cat(
