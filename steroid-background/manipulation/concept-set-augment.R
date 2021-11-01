@@ -60,7 +60,7 @@ sql_retrieve <-
 
 paths <-
   c(
-    # "concept-sets/input/nasal-spray.csv",
+    "concept-sets/input/reviewed/nasal-spray.csv",
     "concept-sets/input/reviewed/inhaled-corticosteroid.csv",
     "concept-sets/input/reviewed/oral-dexamethasone.csv",
     "concept-sets/input/reviewed/oral-hydrocortisone.csv",
