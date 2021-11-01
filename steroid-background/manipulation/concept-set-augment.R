@@ -104,14 +104,14 @@ paths <-
     "concept-sets/input/reviewed/systemic-hydrocortisone.csv",
     "concept-sets/input/reviewed/systemic-prednisolone.csv",
     "concept-sets/input/reviewed/systemic-prednosone-and-methyprednisolone.csv"
-  ) |>
-  {
-    \(x)
-    rlang::set_names(
-      x = x ,
-      nm = fs::path_ext_remove(fs::path_file(x))
-    )
-  }()
+  ) #|>
+  # {
+  #   \(x)
+  #   rlang::set_names(
+  #     x = x ,
+  #     nm = fs::path_ext_remove(fs::path_file(x))
+  #   )
+  # }()
 
 # ---- load-data ---------------------------------------------------------------
 
@@ -149,7 +149,7 @@ for (p in paths) { # p <- paths[1]
   # DBI::dbBind(ds, )
   # DBI::dbFetch(ds)
   # DBI::dbClearResult(ds)
-  DBI::dbDisconnect(cnn); rm(cnn, sql_retrieve)
+  DBI::dbDisconnect(cnn); rm(cnn)
 
   ds <-
     ds_input |>
@@ -252,6 +252,15 @@ for (p in paths) { # p <- paths[1]
   # Print colnames that `dplyr::select()`  should contain below:
   #   cat(paste0("    ", colnames(ds), collapse=",\n"))
 
+  ds_items <-
+    ds_items |>
+    dplyr::select(
+      # concept.codeset
+      concept           = concept.concept,
+      isExcluded,
+      includeDescendants,
+      includeMapped,
+    )
   # ---- save-to-disk -------------------------------------------------
   # readr::write_csv(ds_slim, config$path_derived_zip_code)
   # jsonlite::write_json(
@@ -260,27 +269,10 @@ for (p in paths) { # p <- paths[1]
   #   pretty  = TRUE
   # )
 
-  # ds_items |>
-  #   tibble::as_tibble()
 
-browser()
-  d2 <- ds_items |>
-    dplyr::select(
-      # concept.codeset
-      concept           = concept.concept,
-      isExcluded,
-      includeDescendants,
-      includeMapped,
-    ) |>
-    {
-      \(.items)
-      list(items = .items) # Nest in the "items" element
-    }()
-
-
-  d2 |>
     jsonlite::write_json(
-      path    = sprintf(config$directory_codeset_output_template, names(p)),
+      x       = list(items = ds_items),
+      path    = sprintf(config$directory_codeset_output_template, fs::path_ext_remove(fs::path_file(p))),
       pretty  = TRUE
     )
 
