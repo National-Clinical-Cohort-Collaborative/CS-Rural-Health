@@ -232,7 +232,9 @@ for (p in paths) { # p <- paths[1]
   #   file = sprintf("concept-sets/%s.sql", file_name_base)
   # )
 
-  ds$concept_id |>
+  ds |>
+    dplyr::filter(!is_excluded) |>
+    dplyr::pull(concept_id) |>
     paste0(collapse = ", ", prefix = "") |>
     stringi::stri_wrap(
       initial = "WHERE concept_id in (\n  ",
