@@ -24,44 +24,61 @@ requireNamespace("OuhscMunge"   ) # remotes::install_github(repo="OuhscBbmc/Ouhs
 # Constant values that won't change.
 config                         <- config::get()
 
-# Execute to specify the column types.  It might require some manual adjustment (eg doubles to integers).
-#   OuhscMunge::readr_spec_aligned(config$path_subject_1_raw)
-# col_types <- readr::cols_only(
-#   subject_id          = readr::col_integer(),
-#   county_id           = readr::col_integer(),
-#   gender_id           = readr::col_integer(),
-#   race                = readr::col_character(),
-#   ethnicity           = readr::col_character()
-# )
+# OuhscMunge::readr_spec_aligned("concept-sets/input/dexamethasone.csv")
+col_types <- readr::cols_only(
+  # `Concept Name`        = readr::col_character(),
+  `concept_id`              = readr::col_integer(),
+  `keep_entry_in_codeset`   = readr::col_logical()
+  # `Valid Start Date`    = readr::col_date(format = ""),
+  # `Invalid Reason`      = readr::col_logical(),
+  # `Vocabulary Id`       = readr::col_character(),
+  # `Concept Code`        = readr::col_character(),
+  # `Concept Class Id`    = readr::col_character(),
+  # `Standard Concept`    = readr::col_character(),
+  # `Concept Name_1`      = readr::col_character(),
+  # `Domain Id`           = readr::col_character(),
+  # `Valid End Date`      = readr::col_date(format = "")
+)
 
 paths <-
   c(
-    "concept-sets/nasal-spray.json",
-    "concept-sets/inhaled-corticosteroid.json",
-    "concept-sets/oral-dexamethasone.json",
-    "concept-sets/oral-hydrocortisone.json",
-    "concept-sets/systemic-hydrocortisone.json",
-    "concept-sets/systemic-prednisolone.json",
-    "concept-sets/systemic-prednosone-and-methyprednisolone.json"
+    "concept-sets/input/reviewed/nasal-spray.csv",
+    "concept-sets/input/reviewed/inhaled-corticosteroid.csv",
+    "concept-sets/input/reviewed/oral-dexamethasone.csv",
+    "concept-sets/input/reviewed/oral-hydrocortisone.csv",
+    "concept-sets/input/reviewed/systemic-hydrocortisone.csv",
+    "concept-sets/input/reviewed/systemic-prednisolone.csv",
+    "concept-sets/input/reviewed/systemic-prednosone-and-methyprednisolone.csv"
+  ) |>
+  rlang::set_names(
+    {\(p)
+      fs::path_ext_remove(fs::path_file(p))
+    }
   )
+
+read_reviewed <- function (path) {
+  readr::read_csv(file = path, col_types = col_types, lazy = FALSE)
+}
 
 # ---- load-data ---------------------------------------------------------------
-# Read the CSVs
-paths[1] |>
-  jsonlite::read_json(simplifyVector = TRUE) |>
-  tibble::as_tibble() |>
-  dplyr::pull(items) |>
-  # purrr::flatten_dfc() |>
-  View()
 
-  dplyr::select(concept$CONCEPT_ID, isExcluded)
-  str()
-  dplyr::pull(concept) |>
-  dplyr::select(
-    CONCEPT_ID,
+  # ds_input <-
+    paths |>
+    purrr::map_dfr(read_reviewed, .id = "file")
 
-  )
-  str()
+    readr::read_csv(col_types = col_types, lazy = FALSE) |>
+    tidyr::drop_na(concept_id) |>
+    dplyr::mutate(
+      is_excluded  = dplyr::coalesce(!keep_entry_in_codeset, TRUE), # Exclude if the value is missing
+    ) |>
+    dplyr::select(
+      # codeset,
+      concept_id,#  = `Concept Id`,
+      is_excluded,
+    ) |>
+    dplyr::distinct()
+
+
 
   # purrr::map_dfr(jsonlite::read_json()
 
