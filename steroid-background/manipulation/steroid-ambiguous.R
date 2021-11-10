@@ -24,21 +24,6 @@ requireNamespace("OuhscMunge"   ) # remotes::install_github(repo="OuhscBbmc/Ouhs
 # Constant values that won't change.
 config                         <- config::get()
 
-# OuhscMunge::readr_spec_aligned("concept-sets/input/dexamethasone.csv")
-col_types <- readr::cols_only(
-  # `Concept Name`        = readr::col_character(),
-  `concept_id`              = readr::col_integer(),
-  `keep_entry_in_codeset`   = readr::col_logical()
-  # `Valid Start Date`    = readr::col_date(format = ""),
-  # `Invalid Reason`      = readr::col_logical(),
-  # `Vocabulary Id`       = readr::col_character(),
-  # `Concept Code`        = readr::col_character(),
-  # `Concept Class Id`    = readr::col_character(),
-  # `Standard Concept`    = readr::col_character(),
-  # `Concept Name_1`      = readr::col_character(),
-  # `Domain Id`           = readr::col_character(),
-  # `Valid End Date`      = readr::col_date(format = "")
-)
 
 paths <-
   c(
@@ -57,14 +42,49 @@ paths <-
   )
 
 read_reviewed <- function (path) {
+  # OuhscMunge::readr_spec_aligned("concept-sets/input/dexamethasone.csv")
+  col_types <- readr::cols_only(
+    # `Concept Name`        = readr::col_character(),
+    `concept_id`              = readr::col_integer(),
+    `keep_entry_in_codeset`   = readr::col_logical()
+    # `Valid Start Date`    = readr::col_date(format = ""),
+    # `Invalid Reason`      = readr::col_logical(),
+    # `Vocabulary Id`       = readr::col_character(),
+    # `Concept Code`        = readr::col_character(),
+    # `Concept Class Id`    = readr::col_character(),
+    # `Standard Concept`    = readr::col_character(),
+    # `Concept Name_1`      = readr::col_character(),
+    # `Domain Id`           = readr::col_character(),
+    # `Valid End Date`      = readr::col_date(format = "")
+  )
+
   readr::read_csv(file = path, col_types = col_types, lazy = FALSE)
 }
 
 # ---- load-data ---------------------------------------------------------------
+# dplyr::filter(dplyr::count(ds, concept_id), 2L <= n)
+ds_lonely <-
+  paths |>
+  purrr::map_dfr(read_reviewed, .id = "file") |>
+  # dplyr::filter(concept_id %in% c(792484L, 792486L, 792487L)) |> # all t
+  # dplyr::filter(concept_id %in% c(739917L, 740264L, 789930L)) |> # all t
+  # dplyr::filter(concept_id %in% c(792586L, 792587L)) |> # mixed t/f
+  dplyr::group_by(concept_id) |>
+  dplyr::filter(all(!keep_entry_in_codeset)) |>
+  dplyr::ungroup()
 
-  # ds_input <-
-    paths |>
-    purrr::map_dfr(read_reviewed, .id = "file")
+
+  paths |>
+  purrr::map_dfr(read_reviewed, .id = "file") |>
+  tidyr::pivot_wider(
+    id_cols = c(")
+  )
+
+
+  dplyr::group_by(concept_id) |>
+  dplyr::filter(all(!keep_entry_in_codeset)) |>
+  dplyr::ungroup()
+
 
     readr::read_csv(col_types = col_types, lazy = FALSE) |>
     tidyr::drop_na(concept_id) |>
