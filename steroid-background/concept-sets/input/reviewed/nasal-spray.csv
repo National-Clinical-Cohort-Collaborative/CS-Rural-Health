@@ -249,7 +249,7 @@ concept_id,concept_name,keep_entry_in_codeset,comments,condition_count,patient_c
 19098138,budesonide 0.25 MG/ML Inhalation Suspension,FALSE,,491488,46979,351109,RxNorm,Clinical Drug,Drug
 19099139,mometasone furoate 1 MG/ML,FALSE,,20,20,358650,RxNorm,Clinical Drug Comp,Drug
 19100694,budesonide 0.02 MG/ML,FALSE,,20,20,381063,RxNorm,Clinical Drug Comp,Drug
-19100695,budesonide 0.00025 MG/MG,--,,20,20,381064,RxNorm,Clinical Drug Comp,Drug
+19100695,budesonide 0.00025 MG/MG,FALSE,,20,20,381064,RxNorm,Clinical Drug Comp,Drug
 19101781,fluticasone 0.4 MG/ACTUAT Nasal Suspension,TRUE,,20,20,389246,RxNorm,Clinical Drug,Drug
 19102054,fluticasone 0.4 MG/ACTUAT,TRUE,,20,20,393445,RxNorm,Clinical Drug Comp,Drug
 19104957,amphotericin B 30 MG/ML / triamcinolone 1 MG/ML Topical Cream,FALSE,,,,417404,RxNorm,Clinical Drug,Drug
