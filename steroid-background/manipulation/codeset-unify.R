@@ -60,93 +60,106 @@ read_reviewed <- function (path) {
   readr::read_csv(file = path, col_types = col_types, lazy = FALSE)
 }
 
+sql_retrieve <-
+  "
+    SELECT
+      c.concept_id
+      ,c.concept_name
+      ,c.standard_concept
+      -- ,'' as standard_concept_caption
+      ,c.invalid_reason
+      -- ,'' as invalid_reason_caption
+      ,c.concept_code
+      -- ,c.domain_id
+      ,c.vocabulary_id
+      ,c.concept_class_id
+    FROM  concept c
+      -- inner join codeset_member csm on c.concept_id = csm.concept_id
+    WHERE c.concept_id = ?
+    ORDER BY c.concept_id
+    --LIMIT 5
+  "
+
 # ---- load-data ---------------------------------------------------------------
 # dplyr::filter(dplyr::count(ds, concept_id), 2L <= n)
-# ds_lonely <-
+ds_long <-
   paths |>
   purrr::map_dfr(read_reviewed, .id = "concept_set") |>
   # dplyr::filter(concept_id %in% c(792484L, 792486L, 792487L)) |>
   dplyr::mutate(
     concept_set = gsub("-", "_", concept_set),
-  ) |>
-  tidyr::pivot_wider(
-    id_cols = concept_id,
-    names_from = concept_set,
-    values_from = keep_entry_in_codeset
-  ) |>
-  # colnames() |>  cat()
-  # dplyr::mutate(
-  #   membership_count = nasal_spray inhaled_corticosteroid oral_dexamethasone oral_hydrocortisone systemic_hydrocortisone systemic_prednisolone systemic_prednosone_and_methyprednisolone
-  # )
-  {\(x)
-    dplyr::mutate(
-      x,
-      sum = rowSums(dplyr::select(x, nasal_spray, inhaled_corticosteroid, oral_dexamethasone, oral_hydrocortisone, systemic_hydrocortisone, systemic_prednisolone, systemic_prednosone_and_methyprednisolone), na.rm = TRUE)
-    )
-  }()
-
-
-
-  paths |>
-  purrr::map_dfr(read_reviewed, .id = "file") |>
-  tidyr::pivot_wider(
-    id_cols = c(")
   )
 
 
-  dplyr::group_by(concept_id) |>
-  dplyr::filter(all(!keep_entry_in_codeset)) |>
-  dplyr::ungroup()
-
-
-    readr::read_csv(col_types = col_types, lazy = FALSE) |>
-    tidyr::drop_na(concept_id) |>
-    dplyr::mutate(
-      is_excluded  = dplyr::coalesce(!keep_entry_in_codeset, TRUE), # Exclude if the value is missing
-    ) |>
-    dplyr::select(
-      # codeset,
-      concept_id,#  = `Concept Id`,
-      is_excluded,
-    ) |>
-    dplyr::distinct()
-
-
-
-  # purrr::map_dfr(jsonlite::read_json()
-
-
-rm(col_types)
-
-# Print the first few rows of each table, especially if you're stitching with knitr (see first line of this file).
-#   If you print, make sure that the datasets don't contain any PHI.
-#   A normal `data.frame` will print all rows.  But `readr::read_csv()` returns a `tibble::tibble`,
-#   which prints only the first 10 rows by default.  It also lists the data type of each column.
-ds
+# Pull info from OMOP's concept table
+cnn <- DBI::dbConnect(drv = RSQLite::SQLite(), dbname = config$path_database)
+ds_omop  <- DBI::dbGetQuery(cnn, sql_retrieve, params = list(unique(ds_long$concept_id)))
+DBI::dbDisconnect(cnn); rm(cnn, sql_retrieve)
 
 # ---- tweak-data --------------------------------------------------------------
 # OuhscMunge::column_rename_headstart(ds) # Help write `dplyr::select()` call.
 ds <-
-  ds %>%
-  dplyr::select(    # `dplyr::select()` drops columns not included.
-    subject_id,
-    county_id,
-    gender_id,
-    race,
-    ethnicity,
-  ) %>%
-  # dplyr::mutate(
-  # )  %>%
-  dplyr::arrange(subject_id) # %>%
-  # tibble::rowid_to_column("subject_id") # Add a unique index if necessary
+  ds_long |>
+  tidyr::pivot_wider(
+    id_cols       = concept_id,
+    names_from    = concept_set,
+    values_from   = keep_entry_in_codeset
+  ) |>
+  {\(x)
+    dplyr::mutate(
+      x,
+      membership_count = as.integer(rowSums(dplyr::select(x,
+        nasal_spray,
+        inhaled_corticosteroid,
+        oral_dexamethasone,
+        oral_hydrocortisone,
+        systemic_hydrocortisone,
+        systemic_prednisolone,
+        systemic_prednosone_and_methyprednisolone
+    ), na.rm = TRUE)))
+  }() |>
+  dplyr::mutate(
+    steroid_class = dplyr::case_when(
+      oral_dexamethasone                            ~ "systemic",
+      oral_hydrocortisone                           ~ "systemic",
+      systemic_hydrocortisone                       ~ "systemic",
+      systemic_prednisolone                         ~ "systemic",
+      systemic_prednosone_and_methyprednisolone     ~ "systemic",
+      inhaled_corticosteroid                        ~ "inhaled",
+      nasal_spray                                   ~ "nasal",
+      TRUE                                          ~ "unused"
+    )
+  ) |>
+  dplyr::left_join(ds_omop, by = "concept_id") |>
+  dplyr::select(
+    concept_id,
+    steroid_class,
+    concept_name,
+    tidyselect::everything()
+  ) |>
+  dplyr::arrange(concept_id)
+
 
 # ---- verify-values -----------------------------------------------------------
 # OuhscMunge::verify_value_headstart(ds)
-checkmate::assert_integer(  ds$subject_id , any.missing=F , lower=1001, upper=1200 , unique=T)
-checkmate::assert_integer(  ds$county_id  , any.missing=F , lower=1, upper=77     )
-checkmate::assert_numeric(  ds$gender_id  , any.missing=F , lower=1, upper=255     )
-checkmate::assert_character(ds$race       , any.missing=F , pattern="^.{5,41}$"    )
-checkmate::assert_character(ds$ethnicity  , any.missing=F , pattern="^.{18,30}$"   )
+checkmate::assert_integer(  ds$concept_id                                , any.missing=F , lower=1, upper=2^31 , unique=T)
+checkmate::assert_character(ds$steroid_class                             , any.missing=F , pattern="^systemic|inhaled|nasal|unused$")
+checkmate::assert_character(ds$concept_name                              , any.missing=F , pattern="^.{5,255}$"   , unique=T)
+checkmate::assert_logical(  ds$nasal_spray                               , any.missing=T                                )
+checkmate::assert_logical(  ds$inhaled_corticosteroid                    , any.missing=T                                )
+checkmate::assert_logical(  ds$oral_dexamethasone                        , any.missing=T                                )
+checkmate::assert_logical(  ds$oral_hydrocortisone                       , any.missing=T                                )
+checkmate::assert_logical(  ds$systemic_hydrocortisone                   , any.missing=T                                )
+checkmate::assert_logical(  ds$systemic_prednisolone                     , any.missing=T                                )
+checkmate::assert_logical(  ds$systemic_prednosone_and_methyprednisolone , any.missing=T                                )
+checkmate::assert_integer(  ds$membership_count                          , any.missing=F , lower=0, upper=2             )
+checkmate::assert_character(ds$standard_concept                          , any.missing=F , pattern="^C|S$"         )
+checkmate::assert_character(ds$invalid_reason                            , all.missing=T)
+checkmate::assert_character(ds$concept_code                              , any.missing=F , pattern="^.{4,11}$"          , unique=T)
+checkmate::assert_character(ds$vocabulary_id                             , any.missing=F , pattern="^(?:ATC|RxNorm(?: Extension)?)$")
+checkmate::assert_character(ds$concept_class_id                          , any.missing=F , pattern="^.{5,50}$"          )
+
+# ds$concept_code[!grepl("^.{4,11}$", ds$concept_code)]
 
 # ---- specify-columns-to-upload -----------------------------------------------
 # Print colnames that `dplyr::select()`  should contain below:
@@ -156,32 +169,29 @@ checkmate::assert_character(ds$ethnicity  , any.missing=F , pattern="^.{18,30}$"
 #   The fewer columns that are exported, the fewer things that can break downstream.
 
 ds_slim <-
-  ds %>%
-  # dplyr::slice(1:100) %>%
+  ds |>
+  # dplyr::slice(1:100) |>
   dplyr::select(
-    subject_id,
-    county_id,
-    gender_id,
-    race,
-    ethnicity,
+    concept_id,
+    steroid_class,
+    concept_name,
+    nasal_spray,
+    inhaled_corticosteroid,
+    oral_dexamethasone,
+    oral_hydrocortisone,
+    systemic_hydrocortisone,
+    systemic_prednisolone,
+    systemic_prednosone_and_methyprednisolone,
+    membership_count,
+    standard_concept,
+    invalid_reason,
+    concept_code,
+    vocabulary_id,
+    concept_class_id,
   )
 
 ds_slim
 
 # ---- save-to-disk ------------------------------------------------------------
 # If there's no PHI, a rectangular CSV is usually adequate, and it's portable to other machines and software.
-# readr::write_csv(ds_slim, path_out_unified)
-# readr::write_rds(ds_slim, path_out_unified, compress="gz") # Save as a compressed R-binary file if it's large or has a lot of factors.
-
-
-# ---- save-to-db --------------------------------------------------------------
-# If a database already exists, this single function uploads to a SQL Server database.
-# OuhscMunge::upload_sqls_odbc(
-#   d             = ds_slim,
-#   schema_name   = "skeleton",         # Or config$schema_name,
-#   table_name    = "subject",
-#   dsn_name      = "skeleton-example", # Or config$dsn_qqqqq,
-#   timezone      = config$time_zone_local, # Uncomment if uploading non-UTC datetimes
-#   clear_table   = T,
-#   create_table  = F
-# ) # 0.012 minutes
+readr::write_csv(ds_slim, config$path_steroid_classification)
