@@ -14,7 +14,7 @@ requireNamespace("tidyr"        )
 requireNamespace("dplyr"        ) # Avoid attaching dplyr, b/c its function names conflict with a lot of packages (esp base, stats, and plyr).
 requireNamespace("rlang"        ) # Language constructs, like quosures
 requireNamespace("checkmate"    ) # For asserting conditions meet expected patterns/conditions. # remotes::install_github("mllg/checkmate")
-requireNamespace("DBI"          ) # Database-agnostic interface
+# requireNamespace("DBI"          ) # Database-agnostic interface
 requireNamespace("RSQLite"      ) # Lightweight database for non-PHI data.
 # requireNamespace("odbc"         ) # For communicating with SQL Server over a locally-configured DSN.  Uncomment if you use 'upload-to-db' chunk.
 requireNamespace("OuhscMunge"   ) # remotes::install_github(repo="OuhscBbmc/OuhscMunge")
@@ -79,6 +79,12 @@ sql_retrieve <-
     ORDER BY c.concept_id
     --LIMIT 5
   "
+# OuhscMunge::readr_spec_aligned(config$path_concept_counts)
+col_types_counts <- readr::cols_only(
+  `concept_id`        = readr::col_integer(),
+  `condition_count`   = readr::col_integer(),
+  `patient_count`     = readr::col_integer()
+)
 
 # ---- load-data ---------------------------------------------------------------
 # dplyr::filter(dplyr::count(ds, concept_id), 2L <= n)
@@ -90,6 +96,7 @@ ds_long <-
     concept_set = gsub("-", "_", concept_set),
   )
 
+ds_concept_counts <- readr::read_csv(config$path_concept_counts, col_types = col_types_counts)
 
 # Pull info from OMOP's concept table
 cnn <- DBI::dbConnect(drv = RSQLite::SQLite(), dbname = config$path_database)
@@ -118,7 +125,10 @@ ds <-
         systemic_prednosone_and_methyprednisolone
     ), na.rm = TRUE)))
   }() |>
+  dplyr::left_join(ds_omop, by = "concept_id") |>
+  dplyr::left_join(ds_concept_counts, by = "concept_id") |>
   dplyr::mutate(
+    standard_concept  = dplyr::coalesce(standard_concept, "S"),
     steroid_class = dplyr::case_when(
       oral_dexamethasone                            ~ "systemic",
       oral_hydrocortisone                           ~ "systemic",
@@ -128,9 +138,8 @@ ds <-
       inhaled_corticosteroid                        ~ "inhaled",
       nasal_spray                                   ~ "nasal",
       TRUE                                          ~ "unused"
-    )
+    ),
   ) |>
-  dplyr::left_join(ds_omop, by = "concept_id") |>
   dplyr::select(
     concept_id,
     steroid_class,
@@ -158,7 +167,10 @@ checkmate::assert_character(ds$invalid_reason                            , all.m
 checkmate::assert_character(ds$concept_code                              , any.missing=F , pattern="^.{4,11}$"          , unique=T)
 checkmate::assert_character(ds$vocabulary_id                             , any.missing=F , pattern="^(?:ATC|RxNorm(?: Extension)?)$")
 checkmate::assert_character(ds$concept_class_id                          , any.missing=F , pattern="^.{5,50}$"          )
+checkmate::assert_integer(  ds$condition_count                           , any.missing=T , lower=20, upper=9999999      )
+checkmate::assert_integer(  ds$patient_count                             , any.missing=T , lower=20, upper=999999       )
 
+# View(ds[is.na(ds$standard_concept), ])
 # ds$concept_code[!grepl("^.{4,11}$", ds$concept_code)]
 
 # ---- specify-columns-to-upload -----------------------------------------------
@@ -175,6 +187,8 @@ ds_slim <-
     concept_id,
     steroid_class,
     concept_name,
+    condition_count,
+    patient_count,
     nasal_spray,
     inhaled_corticosteroid,
     oral_dexamethasone,
