@@ -122,7 +122,7 @@ ds <-
         oral_hydrocortisone,
         systemic_hydrocortisone,
         systemic_prednisolone,
-        systemic_prednosone_and_methyprednisolone
+        systemic_prednisone_and_methyprednisolone
     ), na.rm = TRUE)))
   }() |>
   dplyr::left_join(ds_omop, by = "concept_id") |>
@@ -134,7 +134,7 @@ ds <-
       oral_hydrocortisone                           ~ "systemic",
       systemic_hydrocortisone                       ~ "systemic",
       systemic_prednisolone                         ~ "systemic",
-      systemic_prednosone_and_methyprednisolone     ~ "systemic",
+      systemic_prednisone_and_methyprednisolone     ~ "systemic",
       inhaled_corticosteroid                        ~ "inhaled",
       nasal_spray                                   ~ "nasal",
       TRUE                                          ~ "unused"
@@ -160,7 +160,7 @@ checkmate::assert_logical(  ds$oral_dexamethasone                        , any.m
 checkmate::assert_logical(  ds$oral_hydrocortisone                       , any.missing=T                                )
 checkmate::assert_logical(  ds$systemic_hydrocortisone                   , any.missing=T                                )
 checkmate::assert_logical(  ds$systemic_prednisolone                     , any.missing=T                                )
-checkmate::assert_logical(  ds$systemic_prednosone_and_methyprednisolone , any.missing=T                                )
+checkmate::assert_logical(  ds$systemic_prednisone_and_methyprednisolone , any.missing=T                                )
 checkmate::assert_integer(  ds$membership_count                          , any.missing=F , lower=0, upper=2             )
 checkmate::assert_character(ds$standard_concept                          , any.missing=F , pattern="^C|S$"         )
 checkmate::assert_character(ds$invalid_reason                            , all.missing=T)
@@ -195,7 +195,7 @@ ds_slim <-
     oral_hydrocortisone,
     systemic_hydrocortisone,
     systemic_prednisolone,
-    systemic_prednosone_and_methyprednisolone,
+    systemic_prednisone_and_methyprednisolone,
     membership_count,
     standard_concept,
     invalid_reason,

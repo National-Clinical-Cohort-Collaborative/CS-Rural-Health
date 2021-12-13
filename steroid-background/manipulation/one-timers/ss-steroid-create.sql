@@ -17,6 +17,8 @@ WHERE
   vocabulary_id = 'RxNorm'
   and
   invalid_reason is null
+  -- and
+  -- standard_concept = 'S'
   and
   (
     concept_name like '%prednisone%' or
@@ -86,7 +88,7 @@ WHERE
     -- concept_name like '%phoenix%' or
     -- concept_name like '%phosphate%' or
     concept_name like '%plenadren%' or --include
-    concept_name like '% pred %' or  --keep the surrounding spaces
+    concept_name like '% pred %' or --include  --keep the surrounding spaces
     concept_name like '%prednisolone%' or --include
     concept_name like '%prednisone%' or --include
     concept_name like '%predsol%' or --include
@@ -106,3 +108,4 @@ WHERE
     concept_name like '%wixela%' --include
 
   )
+ORDER BY concept_name

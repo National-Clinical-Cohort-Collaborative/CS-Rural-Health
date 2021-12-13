@@ -33,7 +33,7 @@ paths <-
     "concept-sets/input/reviewed/oral-hydrocortisone.csv",
     "concept-sets/input/reviewed/systemic-hydrocortisone.csv",
     "concept-sets/input/reviewed/systemic-prednisolone.csv",
-    "concept-sets/input/reviewed/systemic-prednosone-and-methyprednisolone.csv"
+    "concept-sets/input/reviewed/systemic-prednisone-and-methyprednisolone.csv"
   ) |>
   rlang::set_names(
     {\(p)

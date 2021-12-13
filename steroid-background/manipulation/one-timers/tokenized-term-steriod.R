@@ -35,7 +35,7 @@ col_types <- readr::cols_only(
   # `oral_hydrocortisone`                         = readr::col_logical(),
   # `systemic_hydrocortisone`                     = readr::col_logical(),
   # `systemic_prednisolone`                       = readr::col_logical(),
-  # `systemic_prednosone_and_methyprednisolone`   = readr::col_logical(),
+  # `systemic_prednisone_and_methyprednisolone`   = readr::col_logical(),
   # `membership_count`                            = readr::col_double(),
   # `standard_concept`                            = readr::col_character(),
   # `invalid_reason`                              = readr::col_character(),
