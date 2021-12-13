@@ -5,6 +5,7 @@ default:
     directory_codeset_output      : "concept-sets"
     directory_codeset_output_template: "concept-sets/%s.json"
     directory_codeset_output_try1      : "concept-sets/try-1.json"
+    path_steroid_classification   : "concept-sets/steroid-classification.csv"
 
     path_concept_counts         : "data-public/metadata/concept-steroid-count.csv"
 
