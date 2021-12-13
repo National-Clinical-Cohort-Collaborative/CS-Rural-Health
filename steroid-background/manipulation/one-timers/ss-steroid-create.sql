@@ -1,6 +1,7 @@
 SELECT
   --TOP (1000)
   [concept_id]
+  ,'NA'                 as keep_entry_in_codeset
   ,[concept_name]
   ,[domain_id]
   ,[vocabulary_id]

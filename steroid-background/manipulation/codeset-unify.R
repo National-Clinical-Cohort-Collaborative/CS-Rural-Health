@@ -32,7 +32,10 @@ paths <-
     "concept-sets/input/reviewed/oral-hydrocortisone.csv",
     "concept-sets/input/reviewed/systemic-hydrocortisone.csv",
     "concept-sets/input/reviewed/systemic-prednisolone.csv",
-    "concept-sets/input/reviewed/systemic-prednisone-and-methyprednisolone.csv"
+    "concept-sets/input/reviewed/systemic-prednisone-and-methyprednisolone.csv",
+
+    # Plus one that hasn't been reviewed yet
+    "concept-sets/input/pre-reviewed/wildcard-round-2.csv"
   ) |>
   rlang::set_names(
     {\(p)
@@ -137,7 +140,7 @@ ds <-
       systemic_prednisone_and_methyprednisolone     ~ "systemic",
       inhaled_corticosteroid                        ~ "inhaled",
       nasal_spray                                   ~ "nasal",
-      TRUE                                          ~ "unused"
+      TRUE                                          ~ "unclassified"
     ),
   ) |>
   dplyr::select(
@@ -152,8 +155,8 @@ ds <-
 # ---- verify-values -----------------------------------------------------------
 # OuhscMunge::verify_value_headstart(ds)
 checkmate::assert_integer(  ds$concept_id                                , any.missing=F , lower=1, upper=2^31 , unique=T)
-checkmate::assert_character(ds$steroid_class                             , any.missing=F , pattern="^systemic|inhaled|nasal|unused$")
-checkmate::assert_character(ds$concept_name                              , any.missing=F , pattern="^.{5,255}$"   , unique=T)
+checkmate::assert_character(ds$steroid_class                             , any.missing=F , pattern="^systemic|inhaled|nasal|unclassified$")
+checkmate::assert_character(ds$concept_name                              , any.missing=F , pattern="^.{5,255}$"         )
 checkmate::assert_logical(  ds$nasal_spray                               , any.missing=T                                )
 checkmate::assert_logical(  ds$inhaled_corticosteroid                    , any.missing=T                                )
 checkmate::assert_logical(  ds$oral_dexamethasone                        , any.missing=T                                )
