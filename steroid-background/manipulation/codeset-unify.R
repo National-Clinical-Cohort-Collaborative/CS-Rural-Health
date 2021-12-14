@@ -152,6 +152,27 @@ ds <-
   dplyr::arrange(concept_id)
 
 
+# ---- output-concepts-for-sql-where-clause ------------------------------------
+ds |>
+  # dplyr::filter(!is_excluded) |>
+  dplyr::pull(concept_id) |>
+  paste0(collapse = ", ", prefix = "") |>
+  stringi::stri_wrap(
+    initial = "WHERE concept_id in (\n  ",
+    # exdent = ")\n",
+    prefix = "  ",
+    width = 201,
+    cost_exponent = 2
+  ) |>
+  cat(
+    ")\n",
+    file = "data-public/derived/concepts-to-count.sql",
+    sep = "\n"
+  )
+
+
+
+
 # ---- verify-values -----------------------------------------------------------
 # OuhscMunge::verify_value_headstart(ds)
 checkmate::assert_integer(  ds$concept_id                                , any.missing=F , lower=1, upper=2^31 , unique=T)
