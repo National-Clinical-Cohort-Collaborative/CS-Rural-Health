@@ -20,10 +20,11 @@ requireNamespace("OuhscMunge"                 )  # remotes::install_github("Ouhs
 # ---- declare-globals ---------------------------------------------------------
 # Constant values that won't change.
 config                         <- config::get()
-path_in <- "S:/BBMC/prairie-outpost/omop-1/downloads-athena/omop-v5/CONCEPT.csv"
+path_concept    <- "S:/BBMC/prairie-outpost/omop-1/downloads-athena/omop-v5/CONCEPT.csv"
+path_ancestor   <- "S:/BBMC/prairie-outpost/omop-1/downloads-athena/omop-v5/CONCEPT_ANCESTOR.csv"
 
-# OuhscMunge::readr_spec_aligned(path_in)
-col_types <- readr::cols_only(
+# OuhscMunge::readr_spec_aligned(path_concept)
+col_types_concept <- readr::cols_only(
   concept_id	        = readr::col_integer(),
   concept_name	      = readr::col_character(),
   domain_id	          = readr::col_character(),
@@ -35,6 +36,16 @@ col_types <- readr::cols_only(
   valid_end_date	    = readr::col_date("%Y%m%d"),
   invalid_reason      = readr::col_character()
 )
+
+
+# OuhscMunge::readr_spec_aligned(path_ancestor)
+col_types_ancestor <- readr::cols_only(
+  ancestor_concept_id       = readr::col_integer(),
+  descendant_concept_id     = readr::col_integer()
+  # min_levels_of_separation  = readr::col_integer(),
+  # max_levels_of_separation  = readr::col_integer()
+)
+
 # sql <-
 #   "
 #     SELECT
@@ -60,13 +71,16 @@ col_types <- readr::cols_only(
 # cnn_warehouse <- DBI::dbConnect(odbc::odbc(), dsn = config$dsn_omop)
 # ds            <- DBI::dbGetQuery(cnn_warehouse, sql)
 # DBI::dbDisconnect(cnn_warehouse); rm(cnn_warehouse, sql)
-ds <- readr::read_tsv(path_in, col_types = col_types)
+ds_concept  <- readr::read_tsv(path_concept, col_types = col_types_concept)
+ds_ancestor <- readr::read_tsv(path_ancestor, col_types = col_types_ancestor)
 
+
+rm(path_concept, path_ancestor)
 
 # ---- tweak-data --------------------------------------------------------------
 # OuhscMunge::column_rename_headstart(ds) # Help write `dplyr::select()` call.
-ds <-
-  ds |>
+ds_concept <-
+  ds_concept |>
   dplyr::select(    # `dplyr::select()` drops columns not included.
     concept_id,
     concept_name,
@@ -89,17 +103,25 @@ ds <-
 
 # ---- verify-values -----------------------------------------------------------
 # OuhscMunge::verify_value_headstart(ds)
-checkmate::assert_integer(  ds$concept_id       , any.missing=F , lower=0, upper=2^31-1, unique=T)
-checkmate::assert_character(ds$concept_name     , any.missing=F )
-checkmate::assert_character(ds$domain_id        , any.missing=F , min.chars = 1 )
-checkmate::assert_character(ds$vocabulary_id    , any.missing=F , min.chars = 1 )
-checkmate::assert_character(ds$concept_class_id , any.missing=F , min.chars = 1 )
-checkmate::assert_character(ds$standard_concept , any.missing=T , pattern="^[CS]$"                                       )
-checkmate::assert_character(ds$concept_code     , any.missing=F , min.chars = 1 )
-checkmate::assert_date(     ds$valid_start_date , any.missing=F , lower=as.Date("1900-01-01"), upper=as.Date("2099-12-31") )
-checkmate::assert_date(     ds$valid_end_date   , any.missing=F , lower=as.Date("1900-01-01"), upper=as.Date("2099-12-31") )
-checkmate::assert_character(ds$invalid_reason   , any.missing=T , pattern="^[DU]$")
+checkmate::assert_integer(  ds_concept$concept_id       , any.missing=F , lower=0, upper=2^31-1, unique=T)
+checkmate::assert_character(ds_concept$concept_name     , any.missing=F )
+checkmate::assert_character(ds_concept$domain_id        , any.missing=F , min.chars = 1 )
+checkmate::assert_character(ds_concept$vocabulary_id    , any.missing=F , min.chars = 1 )
+checkmate::assert_character(ds_concept$concept_class_id , any.missing=F , min.chars = 1 )
+checkmate::assert_character(ds_concept$standard_concept , any.missing=T , pattern="^[CS]$"                                       )
+checkmate::assert_character(ds_concept$concept_code     , any.missing=F , min.chars = 1 )
+checkmate::assert_date(     ds_concept$valid_start_date , any.missing=F , lower=as.Date("1900-01-01"), upper=as.Date("2099-12-31") )
+checkmate::assert_date(     ds_concept$valid_end_date   , any.missing=F , lower=as.Date("1900-01-01"), upper=as.Date("2099-12-31") )
+checkmate::assert_character(ds_concept$invalid_reason   , any.missing=T , pattern="^[DU]$")
 
+
+
+checkmate::assert_integer(  ds_ancestor$ancestor_concept_id     , any.missing=F , lower=0, upper=2^31-1, unique = FALSE)
+checkmate::assert_integer(  ds_ancestor$descendant_concept_id   , any.missing=F , lower=0, upper=2^31-1, unique = FALSE)
+
+combo <- paste(ds_ancestor$ancestor_concept_id, ds_ancestor$descendant_concept_id)
+checkmate::assert_character(combo, any.missing = FALSE, unique = TRUE)
+rm(combo)
 
 # ---- specify-columns-to-upload -----------------------------------------------
 # Print colnames that `dplyr::select()`  should contain below:
@@ -108,8 +130,8 @@ checkmate::assert_character(ds$invalid_reason   , any.missing=T , pattern="^[DU]
 # Define the subset of columns that will be needed in the analyses.
 #   The fewer columns that are exported, the fewer things that can break downstream.
 
-ds_slim <-
-  ds |>
+ds_slim_concept <-
+  ds_concept |>
   # dplyr::slice(1:100) |>
   dplyr::select(
     concept_id,
@@ -124,7 +146,10 @@ ds_slim <-
     invalid_reason
   )
 
-# ds_slim
+ds_slim_ancestor <-
+  ds_ancestor
+
+rm(ds_slim_concept, ds_slim_ancestor)
 
 # ---- save-to-db --------------------------------------------------------------
 # If there's no PHI, a local database like SQLite fits a nice niche if
@@ -134,6 +159,9 @@ ds_slim <-
 sql_create <- c(
   "
     DROP TABLE IF EXISTS concept;
+  ",
+  "
+    DROP TABLE IF EXISTS concept_ancestor;
   ",
   "
     CREATE TABLE concept (
@@ -147,6 +175,15 @@ sql_create <- c(
       valid_start_date     date         not null,
       valid_end_date       date         not null,
       invalid_reason       varchar(1)       null
+    )
+  ",
+  "
+    CREATE TABLE concept_ancestor (
+      ancestor_concept_id    int   not null,
+      descendant_concept_id  int   not null,
+      primary key (ancestor_concept_id, descendant_concept_id),
+      foreign key (ancestor_concept_id  ) references concept(concept_id),
+      foreign key (descendant_concept_id) references concept(concept_id)
     )
   "
 )
@@ -169,13 +206,22 @@ purrr::walk(sql_create, ~DBI::dbExecute(cnn, .))
 DBI::dbListTables(cnn)
 
 # Write to database
-ds_slim |>
+ds_slim_concept |>
   # dplyr::slice(1:100) |>
   {\(.x)
     dplyr::mutate_if(.x, ~inherits(.x, "Date"), as.character)
   }() |>
   {\(.d)
     DBI::dbWriteTable(cnn, name = 'concept', value = .d, append = TRUE, row.names = FALSE)
+  }()
+
+ds_slim_ancestor |>
+  # dplyr::slice(1:100) |>
+  # {\(.x)
+  #   dplyr::mutate_if(.x, ~inherits(.x, "Date"), as.character)
+  # }() |>
+  {\(.d)
+    DBI::dbWriteTable(cnn, name = 'concept_ancestor', value = .d, append = TRUE, row.names = FALSE)
   }()
 
 # Close connection
