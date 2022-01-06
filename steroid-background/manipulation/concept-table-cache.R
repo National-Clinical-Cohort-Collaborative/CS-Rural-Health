@@ -99,7 +99,12 @@ ds_concept <-
   #   concept_name  = iconv(concept_name,"WINDOWS-1252","UTF-8")
   # )
 
-
+ds_ancestor <-
+  ds_ancestor |>
+  dplyr::filter(
+    ancestor_concept_id   %in% ds_concept$concept_id,
+    descendant_concept_id %in% ds_concept$concept_id
+  )
 
 # ---- verify-values -----------------------------------------------------------
 # OuhscMunge::verify_value_headstart(ds)
@@ -114,14 +119,15 @@ checkmate::assert_date(     ds_concept$valid_start_date , any.missing=F , lower=
 checkmate::assert_date(     ds_concept$valid_end_date   , any.missing=F , lower=as.Date("1900-01-01"), upper=as.Date("2099-12-31") )
 checkmate::assert_character(ds_concept$invalid_reason   , any.missing=T , pattern="^[DU]$")
 
-
-
 checkmate::assert_integer(  ds_ancestor$ancestor_concept_id     , any.missing=F , lower=0, upper=2^31-1, unique = FALSE)
 checkmate::assert_integer(  ds_ancestor$descendant_concept_id   , any.missing=F , lower=0, upper=2^31-1, unique = FALSE)
 
 combo <- paste(ds_ancestor$ancestor_concept_id, ds_ancestor$descendant_concept_id)
 checkmate::assert_character(combo, any.missing = FALSE, unique = TRUE)
 rm(combo)
+
+sum(!ds_slim_ancestor$ancestor_concept_id   %in% ds_slim_concept$concept_id)
+sum(!ds_slim_ancestor$descendant_concept_id %in% ds_slim_concept$concept_id)
 
 # ---- specify-columns-to-upload -----------------------------------------------
 # Print colnames that `dplyr::select()`  should contain below:
@@ -149,7 +155,9 @@ ds_slim_concept <-
 ds_slim_ancestor <-
   ds_ancestor
 
-rm(ds_slim_concept, ds_slim_ancestor)
+rm(ds_concept, ds_ancestor)
+# ds_concept    <- ds_slim_concept
+# ds_ancestor   <- ds_slim_ancestor
 
 # ---- save-to-db --------------------------------------------------------------
 # If there's no PHI, a local database like SQLite fits a nice niche if

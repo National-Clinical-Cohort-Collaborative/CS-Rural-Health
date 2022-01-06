@@ -62,9 +62,9 @@ sql_retrieve <-
       -- ,ca.max_levels_of_separation
       -- ,a.concept_id   as ancestor_id
       -- ,d.concept_id   as descendent_id
-    FROM v6.concept_ancestor ca
-      inner join v6.concept a on ca.ancestor_concept_id = a.concept_id -- stands for ancestor
-      inner join v6.concept d on ca.descendant_concept_id = d.concept_id -- stands for descendant
+    FROM concept_ancestor ca
+      inner join concept a on ca.ancestor_concept_id = a.concept_id -- stands for ancestor
+      inner join concept d on ca.descendant_concept_id = d.concept_id -- stands for descendant
     WHERE
       -- d.standard_concept = 'S'
       -- and
@@ -100,19 +100,20 @@ sql_retrieve <-
 
 # ---- load-data ---------------------------------------------------------------
 # dplyr::filter(dplyr::count(ds, concept_id), 2L <= n)
-ds_long <-
-  paths |>
-  purrr::map_dfr(read_reviewed, .id = "concept_set") |>
-  # dplyr::filter(concept_id %in% c(792484L, 792486L, 792487L)) |>
-  dplyr::mutate(
-    concept_set = gsub("-", "_", concept_set),
-  )
-
-ds_concept_counts <- readr::read_csv(config$path_concept_counts, col_types = col_types_counts)
+# ds_long <-
+#   paths |>
+#   purrr::map_dfr(read_reviewed, .id = "concept_set") |>
+#   # dplyr::filter(concept_id %in% c(792484L, 792486L, 792487L)) |>
+#   dplyr::mutate(
+#     concept_set = gsub("-", "_", concept_set),
+#   )
+#
+# ds_concept_counts <- readr::read_csv(config$path_concept_counts, col_types = col_types_counts)
 
 # Pull info from OMOP's concept table
 cnn <- DBI::dbConnect(drv = RSQLite::SQLite(), dbname = config$path_database)
-ds_omop  <- DBI::dbGetQuery(cnn, sql_retrieve, params = list(unique(ds_long$concept_id)))
+ds_omop  <- DBI::dbGetQuery(cnn, sql_retrieve)
+# ds_omop  <- DBI::dbGetQuery(cnn, sql_retrieve, params = list(unique(ds_long$concept_id)))
 DBI::dbDisconnect(cnn); rm(cnn, sql_retrieve)
 
 # ---- tweak-data --------------------------------------------------------------
