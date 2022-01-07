@@ -163,13 +163,10 @@ DBI::dbDisconnect(cnn); rm(cnn, sql_retrieve)
 # ---- tweak-data --------------------------------------------------------------
 # OuhscMunge::column_rename_headstart(ds) # Help write `dplyr::select()` call.
 
-ds_missing_from_omop <-
-  ds_classified |>
-  dplyr::filter(vocabulary_id != "RxNorm Extension") |>
-  dplyr::anti_join(ds_omop, by = "concept_id")
-
-table(table(ds_omop$concept_id))
-
+checkmate::assert_integer(ds_omop$concept_id, any.missing = FALSE, unique = TRUE)
+#
+# table(table(ds_omop$concept_id))
+#
 # ds_omop |>
 #   dplyr::group_by(concept_id) |>
 #   dplyr::mutate(
@@ -180,10 +177,11 @@ table(table(ds_omop$concept_id))
 #   dplyr::arrange(concept_id) |>
 #   View()
 
+ds_missing_from_omop <-
+  ds_classified |>
+  dplyr::filter(vocabulary_id != "RxNorm Extension") |>
+  dplyr::anti_join(ds_omop, by = "concept_id")
 
-ds_omop <-
-  ds_omop |>
-  dplyr::group_by()
 
 stop()
 
