@@ -74,36 +74,34 @@ sql_retrieve <-
       -- and
       d.vocabulary_id != 'RxNorm Extension'  --d.vocabulary_id = 'RxNorm'
       and
-      -- d.standard_concept = 'S'
-      -- and
-      a.concept_name in (          -- ancestor_concept_id
-        'alclometasone'            -- 905151 --probably ignore b/c mostly topical
-        ,'beclomethasone'          -- 1115572
-        ,'betamethasone'           -- 92048
-        ,'budesonide'              -- 939259
-        ,'ciclesonide'             -- 902938
-        ,'cloprednol'              -- 19050907
-        ,'clotrimazole'            -- 1000632 --probably ignore b/c mostly topical
-        ,'cortisone'               -- 1507705
-        ,'cortivazol'              -- 19061907
-        ,'deflazacort'             -- 19086888
-        ,'dexamethasone'           -- 1518254
-        ,'fluprednisolone'         -- 19111234
-        ,'fluticasone'             -- 1149380
-        ,'hydrocortisone'          -- 975125
-        ,'hydrocortisone; systemic'-- 21602737
-        ,'meprednisone'            -- 19009116
-        ,'methylprednisolone'      -- 1506270
-        ,'mometasone'              -- 905233
-        ,'paramethasone'           -- 19027186
-        ,'prednisolone'            -- 1550557
-        ,'prednisone'              -- 1551099
-        ,'prednylidene'            -- 19011127
-        ,'triamcinolone'           -- 903963
+      ca.ancestor_concept_id in (  -- ancestor concept name
+        905151           -- 'alclometasone'                      -- probably ignore b/c mostly topical
+        ,1115572         -- 'beclomethasone'
+        ,92048           -- 'betamethasone'
+        ,939259          -- 'budesonide'
+        ,902938          -- 'ciclesonide'
+        ,19050907        -- 'cloprednol'
+        ,1000632         -- 'clotrimazole'                       -- probably ignore b/c mostly topical
+        ,1507705         -- 'cortisone'
+        ,19061907        -- 'cortivazol'
+        ,19086888        -- 'deflazacort'
+        ,1518254         -- 'dexamethasone'
+        ,19111234        -- 'fluprednisolone'
+        ,1149380         -- 'fluticasone'
+        ,975125          -- 'hydrocortisone'
+        ,21602737        -- 'hydrocortisone; systemic'
+        ,19009116        -- 'meprednisone'
+        ,1506270         -- 'methylprednisolone'
+        ,905233          -- 'mometasone'
+        ,19027186        -- 'paramethasone'
+        ,1550557         -- 'prednisolone'
+        ,1551099         -- 'prednisone'
+        ,19011127        -- 'prednylidene'
+        ,903963          -- 'triamcinolone'
       )
     ORDER BY
-     a.concept_name
-     ,d.concept_name
+      a.concept_name
+      ,d.concept_name
   "
 
 # OuhscMunge::readr_spec_aligned(config$path_steroid_classification)
@@ -142,10 +140,13 @@ ds_classified     <- readr::read_csv(config$path_steroid_classification , col_ty
 ds_concept_counts <- readr::read_csv(config$path_concept_counts         , col_types = col_types_counts)
 rm(col_types_classified, col_types_counts)
 
+system.time({
 # Pull info from OMOP's concept & concept_ancestor tables
 cnn <- DBI::dbConnect(drv = RSQLite::SQLite(), dbname = config$path_database)
 ds_omop  <- DBI::dbGetQuery(cnn, sql_retrieve)
 DBI::dbDisconnect(cnn); rm(cnn, sql_retrieve)
+})
+# 451.94 with concept name; 1.4 sec with concept id
 
 # ---- tweak-data --------------------------------------------------------------
 # OuhscMunge::column_rename_headstart(ds) # Help write `dplyr::select()` call.
