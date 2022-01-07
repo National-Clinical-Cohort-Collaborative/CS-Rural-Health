@@ -26,7 +26,7 @@ config                         <- config::get()
 sql_retrieve <-
   "
     SELECT
-      ca.descendant_concept_id
+      ca.descendant_concept_id    as concept_id
       ,case
         when d.concept_name like '%drug implant%'   then 'systemic'
         when d.concept_name like '%inject%'         then 'systemic'
@@ -45,8 +45,8 @@ sql_retrieve <-
         when d.concept_name like '%ointment%'       then 'other'
         when d.concept_name like '%ophthal%'        then 'other'
         when d.concept_name like '%otic%'           then 'other'
-        when d.concept_name like '%pad%'            then 'other'
-        when d.concept_name like '%paste%'          then 'other'
+        when d.concept_name like '% pad %'          then 'other'
+        when d.concept_name like '% paste %'        then 'other'
         when d.concept_name like '%rectal%'         then 'other'
         when d.concept_name like '%shampoo%'        then 'other'
         when d.concept_name like '%tape%'           then 'other'
@@ -56,8 +56,12 @@ sql_retrieve <-
       end                        as guess
       ,d.concept_name            as descendent_name
       ,a.concept_name            as ancestor_name
-      -- ,d.vocabulary_id
       ,ca.ancestor_concept_id
+      ,d.standard_concept
+      ,d.invalid_reason
+      ,d.concept_code
+      ,d.vocabulary_id
+      ,d.concept_class_id
       -- ,ca.min_levels_of_separation
       -- ,ca.max_levels_of_separation
       -- ,a.concept_id   as ancestor_id
@@ -73,16 +77,21 @@ sql_retrieve <-
       -- d.standard_concept = 'S'
       -- and
       a.concept_name in (          -- ancestor_concept_id
-        'beclomethasone'           -- 1115572
+        'alclometasone'            -- 905151 --probably ignore b/c mostly topical
+        ,'beclomethasone'          -- 1115572
+        ,'betamethasone'           -- 92048
         ,'budesonide'              -- 939259
         ,'ciclesonide'             -- 902938
         ,'cloprednol'              -- 19050907
+        ,'clotrimazole'            -- 1000632 --probably ignore b/c mostly topical
         ,'cortisone'               -- 1507705
         ,'cortivazol'              -- 19061907
         ,'deflazacort'             -- 19086888
         ,'dexamethasone'           -- 1518254
+        ,'fluprednisolone'         -- 19111234
         ,'fluticasone'             -- 1149380
         ,'hydrocortisone'          -- 975125
+        ,'hydrocortisone; systemic'-- 21602737
         ,'meprednisone'            -- 19009116
         ,'methylprednisolone'      -- 1506270
         ,'mometasone'              -- 905233
@@ -95,50 +104,61 @@ sql_retrieve <-
     ORDER BY
      a.concept_name
      ,d.concept_name
-
   "
+
+# OuhscMunge::readr_spec_aligned(config$path_steroid_classification)
+col_types_classified <- readr::cols_only(
+  `concept_id`                                  = readr::col_integer(),
+  `steroid_class`                               = readr::col_character(),
+  `concept_name`                                = readr::col_character(),
+  `condition_count`                             = readr::col_integer(),
+  `patient_count`                               = readr::col_integer(),
+  `nasal_spray`                                 = readr::col_logical(),
+  `inhaled_corticosteroid`                      = readr::col_logical(),
+  `oral_dexamethasone`                          = readr::col_logical(),
+  `oral_hydrocortisone`                         = readr::col_logical(),
+  `systemic_hydrocortisone`                     = readr::col_logical(),
+  `systemic_prednisolone`                       = readr::col_logical(),
+  `systemic_prednisone_and_methyprednisolone`   = readr::col_logical(),
+  `membership_count`                            = readr::col_integer(),
+  `standard_concept`                            = readr::col_character(),
+  `invalid_reason`                              = readr::col_character(),
+  `concept_code`                                = readr::col_character(),
+  `vocabulary_id`                               = readr::col_character(),
+  `concept_class_id`                            = readr::col_character()
+)
+
+# OuhscMunge::readr_spec_aligned(config$path_concept_counts)
+col_types_counts <- readr::cols_only(
+  `concept_id`        = readr::col_integer(),
+  `condition_count`   = readr::col_integer(),
+  `patient_count`     = readr::col_integer()
+)
 
 # ---- load-data ---------------------------------------------------------------
 # dplyr::filter(dplyr::count(ds, concept_id), 2L <= n)
-# ds_long <-
-#   paths |>
-#   purrr::map_dfr(read_reviewed, .id = "concept_set") |>
-#   # dplyr::filter(concept_id %in% c(792484L, 792486L, 792487L)) |>
-#   dplyr::mutate(
-#     concept_set = gsub("-", "_", concept_set),
-#   )
-#
-# ds_concept_counts <- readr::read_csv(config$path_concept_counts, col_types = col_types_counts)
 
-# Pull info from OMOP's concept table
+ds_classified     <- readr::read_csv(config$path_steroid_classification , col_types = col_types_classified)
+ds_concept_counts <- readr::read_csv(config$path_concept_counts         , col_types = col_types_counts)
+rm(col_types_classified, col_types_counts)
+
+# Pull info from OMOP's concept & concept_ancestor tables
 cnn <- DBI::dbConnect(drv = RSQLite::SQLite(), dbname = config$path_database)
 ds_omop  <- DBI::dbGetQuery(cnn, sql_retrieve)
-# ds_omop  <- DBI::dbGetQuery(cnn, sql_retrieve, params = list(unique(ds_long$concept_id)))
 DBI::dbDisconnect(cnn); rm(cnn, sql_retrieve)
 
 # ---- tweak-data --------------------------------------------------------------
 # OuhscMunge::column_rename_headstart(ds) # Help write `dplyr::select()` call.
+
+ds_missing_from_omop <-
+  ds_classified |>
+  dplyr::filter(vocabulary_id != "RxNorm Extension") |>
+  dplyr::anti_join(ds_omop, by = "concept_id")
+stop()
+
 ds <-
-  ds_long |>
-  tidyr::pivot_wider(
-    id_cols       = concept_id,
-    names_from    = concept_set,
-    values_from   = keep_entry_in_codeset
-  ) |>
-  {\(x)
-    dplyr::mutate(
-      x,
-      membership_count = as.integer(rowSums(dplyr::select(x,
-        nasal_spray,
-        inhaled_corticosteroid,
-        oral_dexamethasone,
-        oral_hydrocortisone,
-        systemic_hydrocortisone,
-        systemic_prednisolone,
-        systemic_prednisone_and_methyprednisolone
-    ), na.rm = TRUE)))
-  }() |>
-  dplyr::left_join(ds_omop, by = "concept_id") |>
+  ds_omop |>
+  dplyr::left_join(ds_classified, by = "concept_id") |>
   dplyr::left_join(ds_concept_counts, by = "concept_id") |>
   dplyr::mutate(
     standard_concept  = dplyr::coalesce(standard_concept, "S"),
