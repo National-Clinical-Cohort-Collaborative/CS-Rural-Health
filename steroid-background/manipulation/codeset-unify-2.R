@@ -25,83 +25,95 @@ config                         <- config::get()
 
 sql_retrieve <-
   "
+    with descendant as (
+      SELECT
+        ca.descendant_concept_id                      as concept_id
+        ,group_concat(a.concept_name, ';')            as ancestor_names
+        ,group_concat(ca.ancestor_concept_id, ';')    as ancestor_concept_ids
+        -- ,ca.min_levels_of_separation
+        -- ,ca.max_levels_of_separation
+        -- ,a.concept_id   as ancestor_id
+        -- ,d.concept_id   as descendent_id
+      FROM concept_ancestor ca
+        inner join concept a on ca.ancestor_concept_id = a.concept_id -- stands for ancestor
+        inner join concept d on ca.descendant_concept_id = d.concept_id -- stands for descendant
+      WHERE
+        -- d.standard_concept = 'S'
+        -- and
+        d.vocabulary_id != 'RxNorm Extension'  --d.vocabulary_id = 'RxNorm'
+        and
+        ca.ancestor_concept_id in (  -- ancestor concept name
+          905151           -- 'alclometasone'                      -- probably ignore b/c mostly topical
+          ,1115572         -- 'beclomethasone'
+          ,92048           -- 'betamethasone'
+          ,939259          -- 'budesonide'
+          ,902938          -- 'ciclesonide'
+          ,19050907        -- 'cloprednol'
+          ,1000632         -- 'clotrimazole'                       -- probably ignore b/c mostly topical
+          ,1507705         -- 'cortisone'
+          ,19061907        -- 'cortivazol'
+          ,19086888        -- 'deflazacort'
+          ,1518254         -- 'dexamethasone'
+          ,19111234        -- 'fluprednisolone'
+          ,1149380         -- 'fluticasone'
+          ,975125          -- 'hydrocortisone'
+          ,21602737        -- 'hydrocortisone; systemic'
+          ,19009116        -- 'meprednisone'
+          ,1506270         -- 'methylprednisolone'
+          ,905233          -- 'mometasone'
+          ,19027186        -- 'paramethasone'
+          ,1550557         -- 'prednisolone'
+          ,1551099         -- 'prednisone'
+          ,19011127        -- 'prednylidene'
+          ,903963          -- 'triamcinolone'
+        )
+      GROUP BY ca.descendant_concept_id
+      ORDER BY
+        a.concept_name
+        ,d.concept_name
+    )
     SELECT
-      ca.descendant_concept_id    as concept_id
+      d.concept_id
       ,case
-        when d.concept_name like '%drug implant%'   then 'systemic'
-        when d.concept_name like '%inject%'         then 'systemic'
-        when d.concept_name like '%oral%'           then 'systemic'
-        when d.concept_name like '%pill%'           then 'systemic'
-        when d.concept_name like '%syringe%'        then 'systemic'
-        when d.concept_name like '%tablet%'         then 'systemic'
+        when c.concept_name like '%drug implant%'   then 'systemic'
+        when c.concept_name like '%inject%'         then 'systemic'
+        when c.concept_name like '%oral%'           then 'systemic'
+        when c.concept_name like '%pill%'           then 'systemic'
+        when c.concept_name like '%syringe%'        then 'systemic'
+        when c.concept_name like '%tablet%'         then 'systemic'
 
-        when d.concept_name like '%inhal%'          then 'inhaled'
+        when c.concept_name like '%inhal%'          then 'inhaled'
 
-        when d.concept_name like '%nasal%'          then 'nasal'
+        when c.concept_name like '%nasal%'          then 'nasal'
 
-        when d.concept_name like '%cream%'          then 'other'
-        when d.concept_name like '%enema%'          then 'other'
-        when d.concept_name like '%itch%'           then 'other'
-        when d.concept_name like '%ointment%'       then 'other'
-        when d.concept_name like '%ophthal%'        then 'other'
-        when d.concept_name like '%otic%'           then 'other'
-        when d.concept_name like '% pad %'          then 'other'
-        when d.concept_name like '% paste %'        then 'other'
-        when d.concept_name like '%rectal%'         then 'other'
-        when d.concept_name like '%shampoo%'        then 'other'
-        when d.concept_name like '%tape%'           then 'other'
-        when d.concept_name like '%toothpaste%'     then 'other'
-        when d.concept_name like '%topical%'        then 'other'
-        when d.concept_name like '%vaginal%'        then 'other'
+        when c.concept_name like '%cream%'          then 'other'
+        when c.concept_name like '%enema%'          then 'other'
+        when c.concept_name like '%itch%'           then 'other'
+        when c.concept_name like '%ointment%'       then 'other'
+        when c.concept_name like '%ophthal%'        then 'other'
+        when c.concept_name like '%otic%'           then 'other'
+        when c.concept_name like '% pad %'          then 'other'
+        when c.concept_name like '% paste %'        then 'other'
+        when c.concept_name like '%rectal%'         then 'other'
+        when c.concept_name like '%shampoo%'        then 'other'
+        when c.concept_name like '%tape%'           then 'other'
+        when c.concept_name like '%toothpaste%'     then 'other'
+        when c.concept_name like '%topical%'        then 'other'
+        when c.concept_name like '%vaginal%'        then 'other'
       end                        as guess
-      ,d.concept_name            as descendent_name
-      ,a.concept_name            as ancestor_name
-      ,ca.ancestor_concept_id
-      ,d.standard_concept
-      ,d.invalid_reason
-      ,d.concept_code
-      ,d.vocabulary_id
-      ,d.concept_class_id
-      -- ,ca.min_levels_of_separation
-      -- ,ca.max_levels_of_separation
-      -- ,a.concept_id   as ancestor_id
-      -- ,d.concept_id   as descendent_id
-    FROM concept_ancestor ca
-      inner join concept a on ca.ancestor_concept_id = a.concept_id -- stands for ancestor
-      inner join concept d on ca.descendant_concept_id = d.concept_id -- stands for descendant
-    WHERE
-      -- d.standard_concept = 'S'
-      -- and
-      d.vocabulary_id != 'RxNorm Extension'  --d.vocabulary_id = 'RxNorm'
-      and
-      ca.ancestor_concept_id in (  -- ancestor concept name
-        905151           -- 'alclometasone'                      -- probably ignore b/c mostly topical
-        ,1115572         -- 'beclomethasone'
-        ,92048           -- 'betamethasone'
-        ,939259          -- 'budesonide'
-        ,902938          -- 'ciclesonide'
-        ,19050907        -- 'cloprednol'
-        ,1000632         -- 'clotrimazole'                       -- probably ignore b/c mostly topical
-        ,1507705         -- 'cortisone'
-        ,19061907        -- 'cortivazol'
-        ,19086888        -- 'deflazacort'
-        ,1518254         -- 'dexamethasone'
-        ,19111234        -- 'fluprednisolone'
-        ,1149380         -- 'fluticasone'
-        ,975125          -- 'hydrocortisone'
-        ,21602737        -- 'hydrocortisone; systemic'
-        ,19009116        -- 'meprednisone'
-        ,1506270         -- 'methylprednisolone'
-        ,905233          -- 'mometasone'
-        ,19027186        -- 'paramethasone'
-        ,1550557         -- 'prednisolone'
-        ,1551099         -- 'prednisone'
-        ,19011127        -- 'prednylidene'
-        ,903963          -- 'triamcinolone'
-      )
+      ,c.concept_name
+      ,d.ancestor_names
+      ,d.ancestor_concept_ids
+      ,c.standard_concept
+      ,c.invalid_reason
+      ,c.concept_class_id
+      ,c.vocabulary_id
+      ,c.concept_code
+    FROM descendant d
+      inner join concept c on d.concept_id = c.concept_id
     ORDER BY
-      a.concept_name
-      ,d.concept_name
+      c.concept_name
+      ,d.ancestor_names
   "
 
 # OuhscMunge::readr_spec_aligned(config$path_steroid_classification)
@@ -155,6 +167,24 @@ ds_missing_from_omop <-
   ds_classified |>
   dplyr::filter(vocabulary_id != "RxNorm Extension") |>
   dplyr::anti_join(ds_omop, by = "concept_id")
+
+table(table(ds_omop$concept_id))
+
+# ds_omop |>
+#   dplyr::group_by(concept_id) |>
+#   dplyr::mutate(
+#     concept_count = dplyr::n()
+#   ) |>
+#   dplyr::ungroup() |>
+#   dplyr::filter(2L <= concept_count) |>
+#   dplyr::arrange(concept_id) |>
+#   View()
+
+
+ds_omop <-
+  ds_omop |>
+  dplyr::group_by()
+
 stop()
 
 ds <-
