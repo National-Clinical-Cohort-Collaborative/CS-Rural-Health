@@ -8,7 +8,6 @@ rm(list = ls(all.names = TRUE)) # Clear the memory of variables from previous ru
 # ---- load-packages -----------------------------------------------------------
 # import::from("magrittr", "%>%")
 requireNamespace("DBI")
-requireNamespace("odbc")
 requireNamespace("tibble")
 requireNamespace("readr"                      )  # remotes::install_github("tidyverse/readr")
 requireNamespace("dplyr"                      )
@@ -17,11 +16,13 @@ requireNamespace("testit"                     )
 requireNamespace("config"                     )
 requireNamespace("OuhscMunge"                 )  # remotes::install_github("OuhscBbmc/OuhscMunge")
 
+time_start <- Sys.time()
 # ---- declare-globals ---------------------------------------------------------
 # Constant values that won't change.
 config                         <- config::get()
-path_concept    <- "S:/BBMC/prairie-outpost/omop-1/downloads-athena/omop-v5/CONCEPT.csv"
-path_ancestor   <- "S:/BBMC/prairie-outpost/omop-1/downloads-athena/omop-v5/CONCEPT_ANCESTOR.csv"
+path_concept        <- "S:/BBMC/prairie-outpost/omop-1/downloads-athena/omop-v5/CONCEPT.csv"
+path_ancestor       <- "S:/BBMC/prairie-outpost/omop-1/downloads-athena/omop-v5/CONCEPT_ANCESTOR.csv"
+path_relationship   <- "S:/BBMC/prairie-outpost/omop-1/downloads-athena/omop-v5/CONCEPT_RELATIONSHIP.csv"
 
 # OuhscMunge::readr_spec_aligned(path_concept)
 col_types_concept <- readr::cols_only(
@@ -37,7 +38,6 @@ col_types_concept <- readr::cols_only(
   invalid_reason      = readr::col_character()
 )
 
-
 # OuhscMunge::readr_spec_aligned(path_ancestor)
 col_types_ancestor <- readr::cols_only(
   ancestor_concept_id       = readr::col_integer(),
@@ -45,6 +45,28 @@ col_types_ancestor <- readr::cols_only(
   # min_levels_of_separation  = readr::col_integer(),
   # max_levels_of_separation  = readr::col_integer()
 )
+sql_relationship <-
+  "
+    SELECT
+      concept_id_1
+      ,concept_id_2
+      ,invalid_reason
+    FROM cr
+    WHERE
+      relationship_id = 'Mapped from'
+      and
+      invalid_reason = ''
+  "
+
+# # OuhscMunge::readr_spec_aligned(path_relationship)
+# col_types_relationship <- readr::cols_only(
+#   concept_id_1         = readr::col_integer(),
+#   concept_id_2         = readr::col_integer(),
+#   relationship_id      = readr::col_character(),
+#   # valid_start_date     = readr::col_date(),
+#   # valid_end_date       = readr::col_date(),
+#   invalid_reason       = readr::col_character(),
+# )
 
 # sql <-
 #   "
@@ -71,11 +93,31 @@ col_types_ancestor <- readr::cols_only(
 # cnn_warehouse <- DBI::dbConnect(odbc::odbc(), dsn = config$dsn_omop)
 # ds            <- DBI::dbGetQuery(cnn_warehouse, sql)
 # DBI::dbDisconnect(cnn_warehouse); rm(cnn_warehouse, sql)
-ds_concept  <- readr::read_tsv(path_concept, col_types = col_types_concept)
-ds_ancestor <- readr::read_tsv(path_ancestor, col_types = col_types_ancestor)
+ds_concept      <- readr::read_tsv(path_concept, col_types = col_types_concept)
+ds_ancestor     <- readr::read_tsv(path_ancestor, col_types = col_types_ancestor)
+# system.time({
+# ds_relationship <- readr::read_tsv(path_relationship, col_types = col_types_relationship, lazy = TRUE)
+# })
+# print(object.size(ds_relationship), units = "GB")
 
 
-rm(path_concept, path_ancestor)
+
+cr <- base::file(path_relationship) # Create an explicit connection.
+system.time({
+ds_relationship <-
+  sqldf::read.csv.sql(
+    sql         = sql_relationship,
+    sep         = "\t",
+    eol         = "\n",
+    # na.strings  = "",
+    # strip.white = TRUE,
+    colClasses  = c("integer", "integer", "character", "character", "character", "character")
+  )
+# base::closeAllConnections() # I'd like to be more selective than 'All'.
+})
+base::close(cr)
+
+rm(path_concept, path_ancestor, path_relationship)
 
 # ---- tweak-data --------------------------------------------------------------
 # OuhscMunge::column_rename_headstart(ds) # Help write `dplyr::select()` call.
@@ -106,6 +148,25 @@ ds_ancestor <-
     descendant_concept_id %in% ds_concept$concept_id
   )
 
+ds_relationship <-
+  ds_relationship |>
+  dplyr::filter(
+    concept_id_1   %in% ds_concept$concept_id,
+    concept_id_2   %in% ds_concept$concept_id
+  )
+
+# ds_relationship <-
+#   ds_relationship |>
+#   dplyr::filter(relationship_id == 'Mapped from') |>
+#   dplyr::filter(is.na(invalid_reason)) |>
+#   dplyr::select(
+#     -relationship_id,
+#     -invalid_reason,
+#   )
+
+# print(object.size(ds_relationship), units = "GB")
+
+
 # ---- verify-values -----------------------------------------------------------
 # OuhscMunge::verify_value_headstart(ds)
 checkmate::assert_integer(  ds_concept$concept_id       , any.missing=F , lower=0, upper=2^31-1, unique=T)
@@ -126,8 +187,14 @@ combo <- paste(ds_ancestor$ancestor_concept_id, ds_ancestor$descendant_concept_i
 checkmate::assert_character(combo, any.missing = FALSE, unique = TRUE)
 rm(combo)
 
-sum(!ds_slim_ancestor$ancestor_concept_id   %in% ds_slim_concept$concept_id)
-sum(!ds_slim_ancestor$descendant_concept_id %in% ds_slim_concept$concept_id)
+# sum(!ds_ancestor$ancestor_concept_id   %in% ds_concept$concept_id)
+# sum(!ds_ancestor$descendant_concept_id %in% ds_concept$concept_id)
+
+
+# OuhscMunge::verify_value_headstart(ds_relationship)
+checkmate::assert_integer(  ds_relationship$concept_id_1       , any.missing=F , lower=0, upper=2^31-1, unique=F)
+checkmate::assert_integer(  ds_relationship$concept_id_2       , any.missing=F , lower=0, upper=2^31-1, unique=F)
+
 
 # ---- specify-columns-to-upload -----------------------------------------------
 # Print colnames that `dplyr::select()`  should contain below:
@@ -155,9 +222,13 @@ ds_slim_concept <-
 ds_slim_ancestor <-
   ds_ancestor
 
-rm(ds_concept, ds_ancestor)
+ds_slim_relationship <-
+  ds_relationship
+
+rm(ds_concept, ds_ancestor, ds_relationship)
 # ds_concept    <- ds_slim_concept
 # ds_ancestor   <- ds_slim_ancestor
+# ds_relationship <- ds_slim_relationship
 
 # ---- save-to-db --------------------------------------------------------------
 # If there's no PHI, a local database like SQLite fits a nice niche if
@@ -170,6 +241,9 @@ sql_create <- c(
   ",
   "
     DROP TABLE IF EXISTS concept_ancestor;
+  ",
+  "
+    DROP TABLE IF EXISTS concept_relationship_mapped_from;
   ",
   "
     CREATE TABLE concept (
@@ -192,6 +266,15 @@ sql_create <- c(
       primary key (ancestor_concept_id, descendant_concept_id),
       foreign key (ancestor_concept_id  ) references concept(concept_id),
       foreign key (descendant_concept_id) references concept(concept_id)
+    )
+  ",
+  "
+    CREATE TABLE concept_relationship_mapped_from (
+      concept_id_1    int   not null,
+      concept_id_2  int   not null,
+      primary key (concept_id_1, concept_id_2),
+      foreign key (concept_id_1) references concept(concept_id),
+      foreign key (concept_id_1) references concept(concept_id)
     )
   "
 )
@@ -220,17 +303,22 @@ ds_slim_concept |>
     dplyr::mutate_if(.x, ~inherits(.x, "Date"), as.character)
   }() |>
   {\(.d)
-    DBI::dbWriteTable(cnn, name = 'concept', value = .d, append = TRUE, row.names = FALSE)
+    DBI::dbWriteTable(cnn, name = "concept", value = .d, append = TRUE, row.names = FALSE)
   }()
 
 ds_slim_ancestor |>
   # dplyr::slice(1:100) |>
-  # {\(.x)
-  #   dplyr::mutate_if(.x, ~inherits(.x, "Date"), as.character)
-  # }() |>
   {\(.d)
-    DBI::dbWriteTable(cnn, name = 'concept_ancestor', value = .d, append = TRUE, row.names = FALSE)
+    DBI::dbWriteTable(cnn, name = "concept_ancestor", value = .d, append = TRUE, row.names = FALSE)
+  }()
+
+ds_slim_relationship |>
+  # dplyr::slice(1:100) |>
+  {\(.d)
+    DBI::dbWriteTable(cnn, name = "concept_relationship_mapped_from", value = .d, append = TRUE, row.names = FALSE)
   }()
 
 # Close connection
 DBI::dbDisconnect(cnn)
+
+message(sprintf("Caching duration: %.2f min.", (difftime(Sys.time(), time_start, units = "min"))))
