@@ -33,8 +33,9 @@ with ingredient as (
 ,downstream as (
   SELECT
     cr.concept_id_2                              as concept_id
-    ,string_agg(c2.concept_name, ';')            as ingredient_names
-    ,string_agg(cr.concept_id_1, ';')            as ingredient_concept_ids
+    ,cr.concept_id_1                             as ingredient_concept_id
+    -- ,string_agg(c2.concept_name, ';')            as ingredient_names
+    -- ,string_agg(cr.concept_id_1, ';')            as ingredient_concept_ids
     -- ,group_concat(c2.concept_name, ';')          as ingredient_names
     -- ,group_concat(cr.concept_id_1, ';')          as ingredient_concept_ids
   FROM [v6].[concept_relationship]  cr
@@ -54,13 +55,14 @@ with ingredient as (
     c1.concept_id in (SELECT i.concept_id FROM ingredient i)
     --and
     --c2.concept_name like '%dexameth%'
-  GROUP BY cr.concept_id_2
+  -- GROUP BY cr.concept_id_2
 )
--- ,descendant as (
+,descendant as (
   SELECT
     ca.descendant_concept_id                      as concept_id
-    ,string_agg(a.concept_name, ';')              as ingredient_names          -- about 100 duplicates
-    ,string_agg(ca.ancestor_concept_id, ';')      as ingredient_concept_ids
+    ,ca.ancestor_concept_id                       as ingredient_concept_id
+    -- ,string_agg(a.concept_name, ';')              as ingredient_names          -- about 100 duplicates
+    -- ,string_agg(ca.ancestor_concept_id, ';')      as ingredient_concept_ids
     -- ,group_concat(a.concept_name, ';')            as ingredient_names
     -- ,group_concat(ca.ancestor_concept_id, ';')    as ingredient_concept_ids
   FROM v6.concept_ancestor ca
@@ -72,9 +74,43 @@ with ingredient as (
     d.vocabulary_id != 'RxNorm Extension'  --d.vocabulary_id = 'RxNorm'
     and
     ca.ancestor_concept_id in (SELECT i.concept_id FROM ingredient i)
-  GROUP BY ca.descendant_concept_id
--- )
-
+  -- GROUP BY ca.descendant_concept_id
+)
+,stack as (
+  SELECT
+    concept_id
+    ,ingredient_concept_id
+  FROM downstream
+  UNION
+  SELECT
+    concept_id
+    ,ingredient_concept_id
+  FROM descendant
+)
+,collapsed as (
+  SELECT
+    s.concept_id
+      ,string_agg(s.ingredient_concept_id, ';')      as ingredient_concept_ids -- about 100 duplicates
+      ,string_agg(i.concept_name, ';')               as ingredient_names
+      -- ,group_concat(s.ingredient_concept_id, ';')   as ingredient_concept_ids
+      -- ,group_concat(i.concept_name, ';')            as ingredient_names
+      ,count(distinct s.ingredient_concept_id)       as ingredient_count
+  FROM stack s
+    inner join v6.concept i on s.ingredient_concept_id = i.concept_id
+  GROUP BY s.concept_id
+)
+SELECT
+  co.concept_id
+  ,co.ingredient_concept_ids
+  ,co.ingredient_names
+  ,co.ingredient_count
+  ,c.concept_name
+  ,c.vocabulary_id
+  ,c.concept_class_id
+  ,c.standard_concept
+FROM collapsed co
+  inner join v6.concept c on co.concept_id = c.concept_id
+ORDER BY ingredient_names
 -- SELECT
 --   *
 -- FROM v6.concept_ancestor ca
