@@ -70,7 +70,7 @@ sql_retrieve <-
         -- and
         -- cr.concept_id_1 != cr.concept_id_2
         -- and
-        c1.concept_class_id = 'ingredient'
+        c1.concept_class_id = 'Ingredient'
         and
         c2.vocabulary_id != 'RxNorm Extension'
         and

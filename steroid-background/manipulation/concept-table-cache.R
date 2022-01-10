@@ -50,7 +50,7 @@ sql_relationship <-
     SELECT
       concept_id_1
       ,concept_id_2
-      ,invalid_reason
+      -- ,invalid_reason
     FROM cr
     WHERE
       relationship_id = 'Mapped from'
@@ -223,7 +223,11 @@ ds_slim_ancestor <-
   ds_ancestor
 
 ds_slim_relationship <-
-  ds_relationship
+  ds_relationship |>
+  dplyr::select(
+    concept_id_1,
+    concept_id_2,
+  )
 
 rm(ds_concept, ds_ancestor, ds_relationship)
 # ds_concept    <- ds_slim_concept
@@ -279,6 +283,14 @@ sql_create <- c(
   "
 )
 
+sql_index <- c(
+  "CREATE INDEX ix_concept_class_id    on concept(concept_class_id);",
+  "CREATE INDEX ix_vocabulary_id       on concept(vocabulary_id);",
+  "CREATE INDEX ix_concept_name        on concept(concept_name);",
+  "CREATE INDEX ix_standard_concept    on concept(standard_concept);",
+  "CREATE INDEX ix_invalid_reason      on concept(invalid_reason);"
+)
+
 # Remove old DB
 if( file.exists(config$path_database) ) file.remove(config$path_database)
 
@@ -317,6 +329,11 @@ ds_slim_relationship |>
   {\(.d)
     DBI::dbWriteTable(cnn, name = "concept_relationship_mapped_from", value = .d, append = TRUE, row.names = FALSE)
   }()
+
+
+# Create indexes
+sql_index |>
+  purrr::walk(~DBI::dbExecute(cnn, .))
 
 # Close connection
 DBI::dbDisconnect(cnn)
