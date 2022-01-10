@@ -68,11 +68,12 @@ sql_retrieve <-
         -- and
         -- cr.relationship_id = 'Mapped from'
         -- and
-        -- cr.concept_id_1 != cr.concept_id_2
-        -- and
         c1.concept_class_id = 'Ingredient'
         and
         c2.vocabulary_id != 'RxNorm Extension'
+        --c2.vocabulary_id = 'RxNorm'
+        --and
+        --c2.standard_concept = 'S'
         and
         c1.concept_id in (SELECT i.concept_id FROM ingredient i)
         --and
@@ -86,9 +87,10 @@ sql_retrieve <-
         inner join concept a on ca.ancestor_concept_id = a.concept_id -- stands for ancestor
         inner join concept d on ca.descendant_concept_id = d.concept_id -- stands for descendant
       WHERE
-        -- d.standard_concept = 'S'
-        -- and
-        d.vocabulary_id != 'RxNorm Extension'  --d.vocabulary_id = 'RxNorm'
+        d.vocabulary_id != 'RxNorm Extension'
+        --d.vocabulary_id = 'RxNorm'
+        --and
+        --d.standard_concept = 'S'
         and
         ca.ancestor_concept_id in (SELECT i.concept_id FROM ingredient i)
     )
