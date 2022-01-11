@@ -1,0 +1,21 @@
+default:
+    dsn_omop                      : "cdw_omop_1"
+
+    # directory_codeset_input       : "concept-sets/input"
+    # directory_codeset_output      : "concept-sets"
+    # directory_codeset_output_template: "concept-sets/%s.json"
+    # directory_codeset_output_try1      : "concept-sets/try-1.json"
+    # path_steroid_classification   : "concept-sets/steroid-classification.csv"
+
+    # path_concept_counts         : "data-public/metadata/concept-steroid-count.csv"
+
+    # Central Database (a cache of the OMOP concept table).
+    path_database:            "data-unshared/db.sqlite3"
+
+    path_log_flow:            !expr strftime(Sys.time(), "data-unshared/log/%Y/%Y-%m/flow-%Y-%m-%d--%H-%M-%S.log")
+
+
+    # ---- Validation Ranges & Patterns ----
+    omop_concept_min              : 0
+    omop_concept_local            : 2000000000
+    omop_concept_max              : 2147483647
