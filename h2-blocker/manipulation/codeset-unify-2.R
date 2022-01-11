@@ -31,29 +31,10 @@ sql_retrieve <-
       FROM concept
       WHERE
         concept_id in (  -- ancestor concept name
-          905151           -- 'alclometasone'                      -- probably ignore b/c mostly topical
-          ,1115572         -- 'beclomethasone'
-          ,92048           -- 'betamethasone'
-          ,939259          -- 'budesonide'
-          ,902938          -- 'ciclesonide'
-          ,19050907        -- 'cloprednol'
-          ,1000632         -- 'clotrimazole'                       -- probably ignore b/c mostly topical
-          ,1507705         -- 'cortisone'
-          ,19061907        -- 'cortivazol'
-          ,19086888        -- 'deflazacort'
-          ,1518254         -- 'dexamethasone'
-          ,19111234        -- 'fluprednisolone'
-          ,1149380         -- 'fluticasone'
-          ,975125          -- 'hydrocortisone'
-          ,21602737        -- 'hydrocortisone; systemic'
-          ,19009116        -- 'meprednisone'
-          ,1506270         -- 'methylprednisolone'
-          ,905233          -- 'mometasone'
-          ,19027186        -- 'paramethasone'
-          ,1550557         -- 'prednisolone'
-          ,1551099         -- 'prednisone'
-          ,19011127        -- 'prednylidene'
-          ,903963          -- 'triamcinolone'
+          997276           -- 'cimetidine'
+          ,953076          -- 'famotidine'
+          ,950696          -- 'nizatidine'
+          ,961047          -- 'ranitidine'
         )
     )
     ,downstream as (
@@ -77,7 +58,7 @@ sql_retrieve <-
         and
         c1.concept_id in (SELECT i.concept_id FROM ingredient i)
         --and
-        --c2.concept_name like '%dexameth%'
+        --c2.concept_name like '%cimet%'
     )
     ,descendant as (
       SELECT
@@ -114,36 +95,15 @@ sql_retrieve <-
     -- ,cte as (
     SELECT
       co.concept_id
-      ,case
-        when c.concept_name like '%drug implant%'   then 'systemic'
-        when c.concept_name like '%inject%'         then 'systemic'
-        when c.concept_name like '%oral%'           then 'systemic'
-        when c.concept_name like '%pill%'           then 'systemic'
-        when c.concept_name like '%syringe%'        then 'systemic'
-        when c.concept_name like '% systemic%'      then 'systemic'
-        when c.concept_name like '%tablet%'         then 'systemic'
-
-        when c.concept_name like '%inhal%'          then 'inhaled'
-
-        when c.concept_name like '%nasal%'          then 'nasal'
-
-        when c.concept_name like '%cream%'          then 'other'
-        when c.concept_name like '%enema%'          then 'other'
-        when c.concept_name like '%itch%'           then 'other'
-        when c.concept_name like '%ointment%'       then 'other'
-        when c.concept_name like '%ophthal%'        then 'other'
-        when c.concept_name like '%otic%'           then 'other'
-        when c.concept_name like '% pad%'           then 'other'
-        when c.concept_name like '% paste%'         then 'other'
-        when c.concept_name like '%rectal%'         then 'other'
-        when c.concept_name like '%shampoo%'        then 'other'
-        when c.concept_name like '% soap%'          then 'other'
-        when c.concept_name like '%spray%'          then 'other'
-        when c.concept_name like '%tape%'           then 'other'
-        when c.concept_name like '%toothpaste%'     then 'other'
-        when c.concept_name like '%topical%'        then 'other'
-        when c.concept_name like '%vaginal%'        then 'other'
-      end                        as guess
+      --,case
+      --  when c.concept_name like '%drug implant%'   then 'systemic'
+      --  when c.concept_name like '%inject%'         then 'systemic'
+      --  when c.concept_name like '%oral%'           then 'systemic'
+      --  when c.concept_name like '%inhal%'          then 'inhaled'
+      --  when c.concept_name like '%nasal%'          then 'nasal'
+      --  when c.concept_name like '%cream%'          then 'other'
+      --  when c.concept_name like '%enema%'          then 'other'
+      --end                        as guess
       ,co.ingredient_concept_ids
       ,co.ingredient_names
       ,co.ingredient_count
@@ -165,27 +125,6 @@ sql_retrieve <-
 
   "
 
-# OuhscMunge::readr_spec_aligned(config$path_steroid_classification)
-col_types_classified <- readr::cols_only(
-  `concept_id`                                  = readr::col_integer(),
-  `steroid_class`                               = readr::col_character(),
-  `concept_name`                                = readr::col_character(),
-  `condition_count`                             = readr::col_integer(),
-  `patient_count`                               = readr::col_integer(),
-  `nasal_spray`                                 = readr::col_logical(),
-  `inhaled_corticosteroid`                      = readr::col_logical(),
-  `oral_dexamethasone`                          = readr::col_logical(),
-  `oral_hydrocortisone`                         = readr::col_logical(),
-  `systemic_hydrocortisone`                     = readr::col_logical(),
-  `systemic_prednisolone`                       = readr::col_logical(),
-  `systemic_prednisone_and_methyprednisolone`   = readr::col_logical(),
-  `membership_count`                            = readr::col_integer(),
-  `standard_concept`                            = readr::col_character(),
-  `invalid_reason`                              = readr::col_character(),
-  `concept_code`                                = readr::col_character(),
-  `vocabulary_id`                               = readr::col_character(),
-  `concept_class_id`                            = readr::col_character()
-)
 
 # OuhscMunge::readr_spec_aligned(config$path_concept_counts)
 col_types_counts <- readr::cols_only(
@@ -197,9 +136,9 @@ col_types_counts <- readr::cols_only(
 # ---- load-data ---------------------------------------------------------------
 # dplyr::filter(dplyr::count(ds, concept_id), 2L <= n)
 
-ds_classified     <- readr::read_csv(config$path_steroid_classification , col_types = col_types_classified)
-ds_concept_counts <- readr::read_csv(config$path_concept_counts         , col_types = col_types_counts)
-rm(col_types_classified, col_types_counts)
+# ds_classified     <- readr::read_csv(config$path_steroid_classification , col_types = col_types_classified)
+# ds_concept_counts <- readr::read_csv(config$path_concept_counts         , col_types = col_types_counts)
+# rm(col_types_classified, col_types_counts)
 
 system.time({
 # Pull info from OMOP's concept & concept_ancestor tables
@@ -260,8 +199,9 @@ ds <-
   dplyr::arrange(concept_id)
 
 
+
 # ---- output-concepts-for-sql-where-clause ------------------------------------
-ds |>
+ds_omop |>
   # dplyr::filter(!is_excluded) |>
   dplyr::pull(concept_id) |>
   paste0(collapse = ", ", prefix = "") |>
