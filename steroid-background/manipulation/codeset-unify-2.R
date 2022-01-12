@@ -31,13 +31,11 @@ sql_retrieve <-
       FROM concept
       WHERE
         concept_id in (  -- ancestor concept name
-          905151           -- 'alclometasone'                      -- probably ignore b/c mostly topical
-          ,1115572         -- 'beclomethasone'
+          1115572          -- 'beclomethasone'
           ,92048           -- 'betamethasone'
           ,939259          -- 'budesonide'
           ,902938          -- 'ciclesonide'
           ,19050907        -- 'cloprednol'
-          ,1000632         -- 'clotrimazole'                       -- probably ignore b/c mostly topical
           ,1507705         -- 'cortisone'
           ,19061907        -- 'cortivazol'
           ,19086888        -- 'deflazacort'
@@ -54,6 +52,8 @@ sql_retrieve <-
           ,1551099         -- 'prednisone'
           ,19011127        -- 'prednylidene'
           ,903963          -- 'triamcinolone'
+          -- ,905151       -- 'alclometasone'                      -- probably ignore b/c mostly topical
+          -- ,1000632      -- 'clotrimazole'                       -- probably ignore b/c mostly topical
         )
     )
     ,downstream as (

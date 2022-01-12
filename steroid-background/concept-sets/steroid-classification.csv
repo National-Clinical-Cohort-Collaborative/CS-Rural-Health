@@ -1,35 +1,4 @@
 concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,guess,ingredient_concept_ids,ingredient_count,standard_concept,invalid_reason,concept_code,vocabulary_id,concept_class_id
-36232808,other,alclometasone,Aclovate Topical Product,,,other,905151,1,C,,1168445,RxNorm,Branded Dose Group
-905151,unclassified,alclometasone,alclometasone,,,,905151,1,S,,108088,RxNorm,Ingredient
-4213137,unclassified,alclometasone,Alclometasone,,,,905151,1,S,,395956000,SNOMED,Substance
-4022738,unclassified,alclometasone,Alclometasone-containing product,,,,905151,1,S,,116570009,SNOMED,Pharma/Biol Product
-19018409,unclassified,alclometasone,alclometasone dipropionate,,,,905151,1,S,,17268,RxNorm,Precise Ingredient
-4299741,unclassified,alclometasone,Alclometasone dipropionate,,,,905151,1,S,,38684009,SNOMED,Substance
-40526413,unclassified,alclometasone,Alclometasone dipropionate,,,,905151,1,S,U,331772007,SNOMED,Substance
-45404771,unclassified,alclometasone,Alclometasone Dipropionate,,,,905151,1,S,D,9055000510,GPI,GPI
-40565649,unclassified,alclometasone,Alclometasone dipropionate - chemical,,,,905151,1,S,U,391724008,SNOMED,Substance
-40163571,unclassified,alclometasone,alclometasone dipropionate 0.0005 MG/MG,,,,905151,1,S,,855479,RxNorm,Clinical Drug Comp
-40163574,unclassified,alclometasone,alclometasone dipropionate 0.0005 MG/MG [Aclovate],,,,905151,1,S,,855481,RxNorm,Branded Drug Comp
-40167363,unclassified,alclometasone,alclometasone dipropionate 0.0005 MG/MG [Modrasone],,,,905151,1,S,,875894,RxNorm,Branded Drug Comp
-40163572,other,alclometasone,alclometasone dipropionate 0.0005 MG/MG Topical Ointment,,,other,905151,1,S,,855480,RxNorm,Clinical Drug
-40163573,other,alclometasone,alclometasone dipropionate 0.0005 MG/MG Topical Ointment [Aclovate],,,other,905151,1,S,,855482,RxNorm,Branded Drug
-19009948,other,alclometasone,alclometasone dipropionate 0.0005 MG/MG Topical Ointment [Modrasone],,,other,905151,1,S,,108090,RxNorm,Branded Drug
-40163575,unclassified,alclometasone,alclometasone dipropionate 0.5 MG/ML,,,,905151,1,S,,855473,RxNorm,Clinical Drug Comp
-40163578,unclassified,alclometasone,alclometasone dipropionate 0.5 MG/ML [Aclovate],,,,905151,1,S,,855475,RxNorm,Branded Drug Comp
-40167364,unclassified,alclometasone,alclometasone dipropionate 0.5 MG/ML [Modrasone],,,,905151,1,S,,876025,RxNorm,Branded Drug Comp
-40163576,other,alclometasone,alclometasone dipropionate 0.5 MG/ML Topical Cream,,,other,905151,1,S,,855474,RxNorm,Clinical Drug
-40163577,other,alclometasone,alclometasone dipropionate 0.5 MG/ML Topical Cream [Aclovate],,,other,905151,1,S,,855476,RxNorm,Branded Drug
-19009947,other,alclometasone,alclometasone dipropionate 0.5 MG/ML Topical Cream [Modrasone],,,other,905151,1,S,,108089,RxNorm,Branded Drug
-40007022,other,alclometasone,alclometasone Topical Cream,,,other,905151,1,S,,378616,RxNorm,Clinical Drug Form
-40007023,other,alclometasone,alclometasone Topical Cream [Aclovate],,,other,905151,1,S,,362078,RxNorm,Branded Drug Form
-40007024,other,alclometasone,alclometasone Topical Cream [Modrasone],,,other,905151,1,S,,362162,RxNorm,Branded Drug Form
-40007025,other,alclometasone,alclometasone Topical Ointment,,,other,905151,1,S,,385087,RxNorm,Clinical Drug Form
-40007026,other,alclometasone,alclometasone Topical Ointment [Aclovate],,,other,905151,1,S,,367420,RxNorm,Branded Drug Form
-40007027,other,alclometasone,alclometasone Topical Ointment [Modrasone],,,other,905151,1,S,,367318,RxNorm,Branded Drug Form
-36215529,other,alclometasone,alclometasone Topical Product,,,other,905151,1,C,,1154609,RxNorm,Clinical Dose Group
-21603627,other,alclometasone,alclometasone; ophthalmic,,,other,905151,1,C,,S01BA10,ATC,ATC 5th
-21602114,other,alclometasone,alclometasone; topical,,,other,905151,1,C,,D07AB10,ATC,ATC 5th
-36231922,other,alclometasone,Modrasone Topical Product,,,other,905151,1,C,,1181618,RxNorm,Branded Dose Group
 40166046,systemic,beclomethasone,{200 (beclomethasone dipropionate 1 MG Delayed Release Oral Tablet) / 200 (beclomethasone dipropionate 1 MG Oral Tablet) } Pack,20,20,systemic,1115572,1,S,,858139,RxNorm,Clinical Pack
 40166047,systemic,beclomethasone,{200 (beclomethasone dipropionate 1 MG Delayed Release Oral Tablet) / 200 (beclomethasone dipropionate 1 MG Oral Tablet) } Pack [orBec],20,20,systemic,1115572,1,S,,858140,RxNorm,Branded Pack
 40173401,inhaled,beclomethasone,100 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler,9251,3234,inhaled,1115572,1,S,,966536,RxNorm,Quant Clinical Drug
@@ -439,305 +408,6 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 40095885,systemic,cloprednol,cloprednol Oral Tablet,,,systemic,19050907,1,S,,371585,RxNorm,Clinical Drug Form
 36222257,systemic,cloprednol,cloprednol Pill,,,systemic,19050907,1,C,,1163769,RxNorm,Clinical Dose Group
 21602742,systemic,cloprednol,cloprednol; systemic,,,systemic,19050907,1,C,,H02AB14,ATC,ATC 5th
-44818197,other,clotrimazole,{1 (75000 MG) (clotrimazole 0.01 MG/MG Medicated Bar Soap) / 1 (25000 MG) (clotrimazole 0.01 MG/MG Topical Ointment) } Pack,,,other,1000632,1,S,,1535506,RxNorm,Clinical Pack
-36246634,other,clotrimazole,Aardora Anti-Fungal Maximum Strength Topical Product,,,other,1000632,1,C,,1358728,RxNorm,Branded Dose Group
-36247262,other,clotrimazole,Alevazol Topical Product,,,other,1000632,1,C,,1543312,RxNorm,Branded Dose Group
-36236496,other,clotrimazole,Atopalm Clotrimazole Antifungal Topical Product,,,other,1000632,1,C,,1172877,RxNorm,Branded Dose Group
-4227311,unclassified,clotrimazole,Betamethasone- and clotrimazole-containing product,,,,1000632,1,S,,346344001,SNOMED,Pharma/Biol Product
-36029270,unclassified,clotrimazole,Betamethasone / Clotrimazole,,,,1000632,1,S,,106928,RxNorm,Multiple Ingredients
-36029694,unclassified,clotrimazole,Betamethasone / Clotrimazole / Gentamicin,,,,1000632,1,S,,1596454,RxNorm,Multiple Ingredients
-45892421,other,clotrimazole,betamethasone / clotrimazole / gentamicin Otic Ointment,,,other,1000632,1,S,,1596453,RxNorm,Clinical Drug Form
-1592202,other,clotrimazole,betamethasone / clotrimazole / gentamicin Otic Ointment [Malotic],,,other,1000632,1,S,,1870674,RxNorm,Branded Drug Form
-46287603,other,clotrimazole,betamethasone / clotrimazole / gentamicin Otic Ointment [Otomax],,,other,1000632,1,S,,1666756,RxNorm,Branded Drug Form
-45892425,other,clotrimazole,betamethasone / clotrimazole / gentamicin Otic Ointment [Remicin],,,other,1000632,1,S,,1596458,RxNorm,Branded Drug Form
-1592206,other,clotrimazole,betamethasone / clotrimazole / gentamicin Otic Ointment [Tri-Otic for Canines],,,other,1000632,1,S,,1870679,RxNorm,Branded Drug Form
-1560041,other,clotrimazole,betamethasone / clotrimazole / gentamicin Otic Ointment [Vetaderm Plus],,,other,1000632,1,S,,2049511,RxNorm,Branded Drug Form
-1592209,other,clotrimazole,betamethasone / clotrimazole / gentamicin Otic Ointment [Vetromax],,,other,1000632,1,S,,1870683,RxNorm,Branded Drug Form
-36248836,other,clotrimazole,betamethasone / clotrimazole / gentamicin Otic Product,,,other,1000632,1,C,,1596452,RxNorm,Clinical Dose Group
-40018131,other,clotrimazole,betamethasone / clotrimazole Topical Cream,,,other,1000632,1,S,,378086,RxNorm,Clinical Drug Form
-40018132,other,clotrimazole,betamethasone / clotrimazole Topical Cream [Lotrisone],,,other,1000632,1,S,,362385,RxNorm,Branded Drug Form
-40018133,other,clotrimazole,betamethasone / clotrimazole Topical Lotion,,,other,1000632,1,S,,379106,RxNorm,Clinical Drug Form
-40018134,other,clotrimazole,betamethasone / clotrimazole Topical Lotion [Lotrisone],,,other,1000632,1,S,,365732,RxNorm,Branded Drug Form
-40018135,other,clotrimazole,betamethasone / clotrimazole Topical Ointment,,,other,1000632,1,S,,438802,RxNorm,Clinical Drug Form
-36212124,other,clotrimazole,betamethasone / clotrimazole Topical Product,,,other,1000632,1,C,,1153768,RxNorm,Clinical Dose Group
-19105091,other,clotrimazole,betamethasone 0.0006 MG/MG / clotrimazole 0.01 MG/MG Topical Ointment,,,other,1000632,1,S,,418187,RxNorm,Clinical Drug
-1592201,other,clotrimazole,betamethasone 0.001 MG/MG / clotrimazole 0.01 MG/MG / gentamicin 0.003 MG/MG [Malotic],,,other,1000632,1,S,,1870673,RxNorm,Branded Drug Comp
-46287602,unclassified,clotrimazole,betamethasone 0.001 MG/MG / clotrimazole 0.01 MG/MG / gentamicin 0.003 MG/MG [Otomax],,,,1000632,1,S,,1666755,RxNorm,Branded Drug Comp
-45892424,unclassified,clotrimazole,betamethasone 0.001 MG/MG / clotrimazole 0.01 MG/MG / gentamicin 0.003 MG/MG [Remicin],,,,1000632,1,S,,1596457,RxNorm,Branded Drug Comp
-1592205,other,clotrimazole,betamethasone 0.001 MG/MG / clotrimazole 0.01 MG/MG / gentamicin 0.003 MG/MG [Tri-Otic for Canines],,,other,1000632,1,S,,1870678,RxNorm,Branded Drug Comp
-1592208,unclassified,clotrimazole,betamethasone 0.001 MG/MG / clotrimazole 0.01 MG/MG / gentamicin 0.003 MG/MG [Vetromax],,,,1000632,1,S,,1870682,RxNorm,Branded Drug Comp
-45892422,other,clotrimazole,betamethasone 0.001 MG/MG / clotrimazole 0.01 MG/MG / gentamicin 0.003 MG/MG Otic Ointment,,,other,1000632,1,S,,1596455,RxNorm,Clinical Drug
-45774991,other,clotrimazole,betamethasone 0.001 MG/MG / clotrimazole 0.01 MG/MG / gentamicin 0.003 MG/MG Otic Ointment [Malotic],,,other,1000632,1,S,,1552573,RxNorm,Branded Drug
-46287604,other,clotrimazole,betamethasone 0.001 MG/MG / clotrimazole 0.01 MG/MG / gentamicin 0.003 MG/MG Otic Ointment [Otomax],,,other,1000632,1,S,,1666758,RxNorm,Branded Drug
-45892426,other,clotrimazole,betamethasone 0.001 MG/MG / clotrimazole 0.01 MG/MG / gentamicin 0.003 MG/MG Otic Ointment [Remicin],,,other,1000632,1,S,,1596460,RxNorm,Branded Drug
-43532892,other,clotrimazole,betamethasone 0.001 MG/MG / clotrimazole 0.01 MG/MG / gentamicin 0.003 MG/MG Otic Ointment [Tri-Otic for Canines],,,other,1000632,1,S,,1430115,RxNorm,Branded Drug
-43013497,other,clotrimazole,betamethasone 0.001 MG/MG / clotrimazole 0.01 MG/MG / gentamicin 0.003 MG/MG Otic Ointment [Vetromax],,,other,1000632,1,S,,1367702,RxNorm,Branded Drug
-19120353,unclassified,clotrimazole,betamethasone 0.5 MG/ML / clotrimazole 10 MG/ML [Lotrisone],,,,1000632,1,S,,573509,RxNorm,Branded Drug Comp
-19074181,other,clotrimazole,betamethasone 0.5 MG/ML / clotrimazole 10 MG/ML Topical Cream,,,other,1000632,1,S,,308714,RxNorm,Clinical Drug
-1000640,other,clotrimazole,betamethasone 0.5 MG/ML / clotrimazole 10 MG/ML Topical Cream [Lotrisone],,,other,1000632,1,S,,213641,RxNorm,Branded Drug
-19074182,other,clotrimazole,betamethasone 0.5 MG/ML / clotrimazole 10 MG/ML Topical Lotion,,,other,1000632,1,S,,308715,RxNorm,Clinical Drug
-1000697,other,clotrimazole,betamethasone 0.5 MG/ML / clotrimazole 10 MG/ML Topical Lotion [Lotrisone],,,other,1000632,1,S,,284515,RxNorm,Branded Drug
-19114314,other,clotrimazole,betamethasone 0.64 MG/ML / clotrimazole 10 MG/ML Topical Lotion,,,other,1000632,1,S,,543804,RxNorm,Clinical Drug
-1000736,other,clotrimazole,betamethasone 1 MG/ML / clotrimazole 10 MG/ML Topical Lotion,,,other,1000632,1,S,,629389,RxNorm,Clinical Drug
-1560040,unclassified,clotrimazole,betamethasone valerate 0.001 MG/MG / clotrimazole 0.01 MG/MG / gentamicin sulfate 0.003 MG/MG [Vetaderm Plus],,,,1000632,1,S,,2049510,RxNorm,Branded Drug Comp
-1560038,other,clotrimazole,betamethasone valerate 0.001 MG/MG / clotrimazole 0.01 MG/MG / gentamicin sulfate 0.003 MG/MG Otic Ointment,,,other,1000632,1,S,,2049508,RxNorm,Clinical Drug
-1560043,other,clotrimazole,betamethasone valerate 0.001 MG/MG / clotrimazole 0.01 MG/MG / gentamicin sulfate 0.003 MG/MG Otic Ointment [Vetaderm Plus],,,other,1000632,1,S,,2049513,RxNorm,Branded Drug
-36234505,other,clotrimazole,Canesten AF Topical Product,,,other,1000632,1,C,,1172252,RxNorm,Branded Dose Group
-36234509,other,clotrimazole,Canesten Topical Product,,,other,1000632,1,C,,1172257,RxNorm,Branded Dose Group
-36236791,other,clotrimazole,Canesten VC Vaginal Product,,,other,1000632,1,C,,1172942,RxNorm,Branded Dose Group
-36247550,other,clotrimazole,Clotrimazoil Topical Product,,,other,1000632,1,C,,1426996,RxNorm,Branded Dose Group
-1000632,unclassified,clotrimazole,clotrimazole,,,,1000632,1,S,,2623,RxNorm,Ingredient
-4305885,unclassified,clotrimazole,Clotrimazole,,,,1000632,1,S,,387325003,SNOMED,Substance
-45397345,unclassified,clotrimazole,Clotrimazole,,,,1000632,1,S,D,5510402000,GPI,GPI
-45401387,unclassified,clotrimazole,Clotrimazole,,,,1000632,1,S,D,8810002000,GPI,GPI
-45407844,unclassified,clotrimazole,Clotrimazole,,,,1000632,1,S,D,9015402000,GPI,GPI
-45957836,unclassified,clotrimazole,Clotrimazole,,,,1000632,1,S,U,3524611000001101,SNOMED,Substance
-36233955,other,clotrimazole,Clotrimazole-7 Vaginal Product,,,other,1000632,1,C,,1173710,RxNorm,Branded Dose Group
-4237313,unclassified,clotrimazole,Clotrimazole-containing product,,,,1000632,1,S,,5797005,SNOMED,Pharma/Biol Product
-36028486,unclassified,clotrimazole,Clotrimazole / hexamidine,,,,1000632,1,S,,1008399,RxNorm,Multiple Ingredients
-40026558,other,clotrimazole,clotrimazole / hexamidine Topical Cream,,,other,1000632,1,S,,438803,RxNorm,Clinical Drug Form
-36212645,other,clotrimazole,clotrimazole / hexamidine Topical Product,,,other,1000632,1,C,,1153917,RxNorm,Clinical Dose Group
-36027563,unclassified,clotrimazole,Clotrimazole / Phenylethyl Alcohol,,,,1000632,1,S,,1007441,RxNorm,Multiple Ingredients
-40026554,other,clotrimazole,clotrimazole / phenylethyl alcohol Paste,,,other,1000632,1,S,,438805,RxNorm,Clinical Drug Form
-36212641,other,clotrimazole,clotrimazole / phenylethyl alcohol Paste Product,,,other,1000632,1,C,,1153913,RxNorm,Clinical Dose Group
-36028090,unclassified,clotrimazole,Clotrimazole / Urea,,,,1000632,1,S,,1007981,RxNorm,Multiple Ingredients
-40026555,other,clotrimazole,clotrimazole / urea Topical Ointment,,,other,1000632,1,S,,438806,RxNorm,Clinical Drug Form
-36212642,other,clotrimazole,clotrimazole / urea Topical Product,,,other,1000632,1,C,,1153914,RxNorm,Clinical Dose Group
-36028730,unclassified,clotrimazole,Clotrimazole / Zinc Oxide,,,,1000632,1,S,,1008652,RxNorm,Multiple Ingredients
-40026556,other,clotrimazole,clotrimazole / zinc oxide Paste,,,other,1000632,1,S,,438808,RxNorm,Clinical Drug Form
-36212643,other,clotrimazole,clotrimazole / zinc oxide Paste Product,,,other,1000632,1,C,,1153915,RxNorm,Clinical Dose Group
-40532834,unclassified,clotrimazole,Clotrimazole [ear],,,,1000632,1,S,U,330922006,SNOMED,Pharma/Biol Product
-40528276,unclassified,clotrimazole,Clotrimazole [skin],,,,1000632,1,S,U,332860008,SNOMED,Pharma/Biol Product
-42706521,unclassified,clotrimazole,clotrimazole 0.002 MG/MG,,,,1000632,1,S,,1247813,RxNorm,Clinical Drug Comp
-42708667,other,clotrimazole,clotrimazole 0.002 MG/MG Topical Ointment,,,other,1000632,1,S,,1247814,RxNorm,Clinical Drug
-1000718,unclassified,clotrimazole,clotrimazole 0.01 MG/MG,,,,1000632,1,S,,329455,RxNorm,Clinical Drug Comp
-19105051,other,clotrimazole,clotrimazole 0.01 MG/MG / phenylethyl alcohol 0.005 MG/MG Paste,,,other,1000632,1,S,,417909,RxNorm,Clinical Drug
-19105250,other,clotrimazole,clotrimazole 0.01 MG/MG / urea 0.1 MG/MG Topical Ointment,,,other,1000632,1,S,,418927,RxNorm,Clinical Drug
-19104824,other,clotrimazole,clotrimazole 0.01 MG/MG / zinc oxide 0.00015 MG/MG Paste,,,other,1000632,1,S,,416677,RxNorm,Clinical Drug
-19104823,other,clotrimazole,clotrimazole 0.01 MG/MG / zinc oxide 0.15 MG/MG Paste,,,other,1000632,1,S,,416676,RxNorm,Clinical Drug
-42901466,unclassified,clotrimazole,clotrimazole 0.01 MG/MG [Aardora Anti-Fungal Maximum Strength],,,,1000632,1,S,,1358726,RxNorm,Branded Drug Comp
-45776639,unclassified,clotrimazole,clotrimazole 0.01 MG/MG [Alevazol],,,,1000632,1,S,,1543310,RxNorm,Branded Drug Comp
-19116992,unclassified,clotrimazole,clotrimazole 0.01 MG/MG [Canesten AF],,,,1000632,1,S,,565116,RxNorm,Branded Drug Comp
-19115640,unclassified,clotrimazole,clotrimazole 0.01 MG/MG [Canesten],,,,1000632,1,S,,563359,RxNorm,Branded Drug Comp
-19044171,unclassified,clotrimazole,clotrimazole 0.01 MG/MG [Lotrimin],,,,1000632,1,S,,574411,RxNorm,Branded Drug Comp
-42706560,unclassified,clotrimazole,clotrimazole 0.01 MG/MG [Pedesil],,,,1000632,1,S,,1247976,RxNorm,Branded Drug Comp
-1000656,other,clotrimazole,clotrimazole 0.01 MG/MG Medicated Bar Soap,,,other,1000632,1,S,,251267,RxNorm,Clinical Drug
-40231759,other,clotrimazole,clotrimazole 0.01 MG/MG Topical Gel,,,other,1000632,1,S,,1049535,RxNorm,Clinical Drug
-19105155,other,clotrimazole,clotrimazole 0.01 MG/MG Topical Ointment,,,other,1000632,1,S,,418475,RxNorm,Clinical Drug
-42902147,other,clotrimazole,clotrimazole 0.01 MG/MG Topical Ointment [Aardora Anti-Fungal Maximum Strength],,,other,1000632,1,S,,1358729,RxNorm,Branded Drug
-45776641,other,clotrimazole,clotrimazole 0.01 MG/MG Topical Ointment [Alevazol],,,other,1000632,1,S,,1543313,RxNorm,Branded Drug
-42708705,other,clotrimazole,clotrimazole 0.01 MG/MG Topical Ointment [Pedesil],,,other,1000632,1,S,,1247979,RxNorm,Branded Drug
-19067264,other,clotrimazole,clotrimazole 0.01 MG/MG Topical Powder,,,other,1000632,1,S,,260229,RxNorm,Clinical Drug
-19016654,other,clotrimazole,clotrimazole 0.01 MG/MG Topical Powder [Canesten AF],,,other,1000632,1,S,,152939,RxNorm,Branded Drug
-19002515,other,clotrimazole,clotrimazole 0.01 MG/MG Topical Powder [Canesten],,,other,1000632,1,S,,103584,RxNorm,Branded Drug
-1000692,other,clotrimazole,clotrimazole 0.01 MG/MG Topical Powder [Lotrimin],,,other,1000632,1,S,,261176,RxNorm,Branded Drug
-1000719,unclassified,clotrimazole,clotrimazole 0.02 MG/MG,,,,1000632,1,S,,331738,RxNorm,Clinical Drug Comp
-1000657,other,clotrimazole,clotrimazole 0.02 MG/MG Topical Gel,,,other,1000632,1,S,,252194,RxNorm,Clinical Drug
-19109445,unclassified,clotrimazole,clotrimazole 0.5 MG/ML,,,,1000632,1,S,,438797,RxNorm,Clinical Drug Comp
-19103236,other,clotrimazole,clotrimazole 0.5 MG/ML Topical Spray,,,other,1000632,1,S,,409270,RxNorm,Clinical Drug
-19081089,unclassified,clotrimazole,clotrimazole 10 MG,,,,1000632,1,S,,315701,RxNorm,Clinical Drug Comp
-19062712,unclassified,clotrimazole,clotrimazole 10 MG [Mycelex Troches],,,,1000632,1,S,,541572,RxNorm,Branded Drug Comp
-19075605,systemic,clotrimazole,clotrimazole 10 MG Oral Lozenge,,,systemic,1000632,1,S,,309371,RxNorm,Clinical Drug
-19031570,systemic,clotrimazole,clotrimazole 10 MG Oral Lozenge [Mycelex Troches],,,systemic,1000632,1,S,,206178,RxNorm,Branded Drug
-1000733,systemic,clotrimazole,clotrimazole 10 MG Oral Tablet,,,systemic,1000632,1,S,,346558,RxNorm,Clinical Drug
-19093618,unclassified,clotrimazole,clotrimazole 10 MG/ML,,,,1000632,1,S,,340084,RxNorm,Clinical Drug Comp
-19104785,other,clotrimazole,clotrimazole 10 MG/ML / hexamidine 2.5 MG/ML Topical Cream,,,other,1000632,1,S,,416575,RxNorm,Clinical Drug
-40236645,unclassified,clotrimazole,clotrimazole 10 MG/ML [Atopalm Clotrimazole Antifungal],,,,1000632,1,S,,1093228,RxNorm,Branded Drug Comp
-19116920,unclassified,clotrimazole,clotrimazole 10 MG/ML [Canesten AF],,,,1000632,1,S,,565029,RxNorm,Branded Drug Comp
-19116807,unclassified,clotrimazole,clotrimazole 10 MG/ML [Canesten],,,,1000632,1,S,,564898,RxNorm,Branded Drug Comp
-43531814,unclassified,clotrimazole,clotrimazole 10 MG/ML [Clotrimazoil],,,,1000632,1,S,,1426994,RxNorm,Branded Drug Comp
-19058823,unclassified,clotrimazole,clotrimazole 10 MG/ML [Clotrimazole-7],,,,1000632,1,S,,574444,RxNorm,Branded Drug Comp
-40163083,unclassified,clotrimazole,clotrimazole 10 MG/ML [Cruex Antifungal],,,,1000632,1,S,,856802,RxNorm,Branded Drug Comp
-40239456,unclassified,clotrimazole,clotrimazole 10 MG/ML [Dermatin],,,,1000632,1,S,,1112453,RxNorm,Branded Drug Comp
-40222281,other,clotrimazole,clotrimazole 10 MG/ML [Desenex Cream],,,other,1000632,1,S,,996229,RxNorm,Branded Drug Comp
-19065253,unclassified,clotrimazole,clotrimazole 10 MG/ML [Femcare],,,,1000632,1,S,,574445,RxNorm,Branded Drug Comp
-45775299,unclassified,clotrimazole,clotrimazole 10 MG/ML [Fungazoil],,,,1000632,1,S,,1540220,RxNorm,Branded Drug Comp
-40228855,unclassified,clotrimazole,clotrimazole 10 MG/ML [Fungicure Solution],,,,1000632,1,S,,1045618,RxNorm,Branded Drug Comp
-35604199,unclassified,clotrimazole,clotrimazole 10 MG/ML [Fungistat],,,,1000632,1,S,,1747486,RxNorm,Branded Drug Comp
-19066334,unclassified,clotrimazole,clotrimazole 10 MG/ML [Fungoid (Clotrimazole)],,,,1000632,1,S,,574399,RxNorm,Branded Drug Comp
-19120637,unclassified,clotrimazole,clotrimazole 10 MG/ML [Fungoid Solution],,,,1000632,1,S,,574403,RxNorm,Branded Drug Comp
-37003408,unclassified,clotrimazole,clotrimazole 10 MG/ML [Jock-Eze],,,,1000632,1,S,,2467737,RxNorm,Branded Drug Comp
-45892664,unclassified,clotrimazole,clotrimazole 10 MG/ML [Kerasal Toe & Foot],,,,1000632,1,S,,1598056,RxNorm,Branded Drug Comp
-19120635,unclassified,clotrimazole,clotrimazole 10 MG/ML [Lotrimin],,,,1000632,1,S,,574401,RxNorm,Branded Drug Comp
-19116544,unclassified,clotrimazole,clotrimazole 10 MG/ML [Masnoderm],,,,1000632,1,S,,564506,RxNorm,Branded Drug Comp
-19073944,unclassified,clotrimazole,clotrimazole 10 MG/ML [Mycelex-7],,,,1000632,1,S,,574448,RxNorm,Branded Drug Comp
-19120636,unclassified,clotrimazole,clotrimazole 10 MG/ML [Mycelex],,,,1000632,1,S,,574402,RxNorm,Branded Drug Comp
-42706895,unclassified,clotrimazole,clotrimazole 10 MG/ML [Pedesil],,,,1000632,1,S,,1250724,RxNorm,Branded Drug Comp
-19009788,other,clotrimazole,clotrimazole 10 MG/ML Ophthalmic Solution,,,other,1000632,1,S,,107566,RxNorm,Clinical Drug
-19061792,other,clotrimazole,clotrimazole 10 MG/ML Paste,,,other,1000632,1,S,,249507,RxNorm,Clinical Drug
-1000652,other,clotrimazole,clotrimazole 10 MG/ML Powder Spray,,,other,1000632,1,S,,249143,RxNorm,Clinical Drug
-19075602,other,clotrimazole,clotrimazole 10 MG/ML Topical Cream,,,other,1000632,1,S,,309367,RxNorm,Clinical Drug
-40236644,other,clotrimazole,clotrimazole 10 MG/ML Topical Cream [Atopalm Clotrimazole Antifungal],,,other,1000632,1,S,,1093230,RxNorm,Branded Drug
-19016303,other,clotrimazole,clotrimazole 10 MG/ML Topical Cream [Canesten AF],,,other,1000632,1,S,,152714,RxNorm,Branded Drug
-19012748,other,clotrimazole,clotrimazole 10 MG/ML Topical Cream [Canesten],,,other,1000632,1,S,,151010,RxNorm,Branded Drug
-40163082,other,clotrimazole,clotrimazole 10 MG/ML Topical Cream [Cruex Antifungal],,,other,1000632,1,S,,856804,RxNorm,Branded Drug
-40239455,other,clotrimazole,clotrimazole 10 MG/ML Topical Cream [Dermatin],,,other,1000632,1,S,,1112455,RxNorm,Branded Drug
-40222280,other,clotrimazole,clotrimazole 10 MG/ML Topical Cream [Desenex Cream],,,other,1000632,1,S,,996231,RxNorm,Branded Drug
-1000661,other,clotrimazole,clotrimazole 10 MG/ML Topical Cream [Fungoid (Clotrimazole)],,,other,1000632,1,S,,261157,RxNorm,Branded Drug
-37003411,other,clotrimazole,clotrimazole 10 MG/ML Topical Cream [Jock-Eze],,,other,1000632,1,S,,2467740,RxNorm,Branded Drug
-45892666,other,clotrimazole,clotrimazole 10 MG/ML Topical Cream [Kerasal Toe & Foot],,,other,1000632,1,S,,1598059,RxNorm,Branded Drug
-1000672,other,clotrimazole,clotrimazole 10 MG/ML Topical Cream [Lotrimin],,,other,1000632,1,S,,261159,RxNorm,Branded Drug
-19068272,other,clotrimazole,clotrimazole 10 MG/ML Topical Cream [Mycelex],,,other,1000632,1,S,,261160,RxNorm,Branded Drug
-42709027,other,clotrimazole,clotrimazole 10 MG/ML Topical Cream [Pedesil],,,other,1000632,1,S,,1250726,RxNorm,Branded Drug
-42800643,other,clotrimazole,clotrimazole 10 MG/ML Topical Foam,,,other,1000632,1,S,,1299969,RxNorm,Clinical Drug
-1000635,other,clotrimazole,clotrimazole 10 MG/ML Topical Lotion,,,other,1000632,1,S,,197531,RxNorm,Clinical Drug
-1000680,other,clotrimazole,clotrimazole 10 MG/ML Topical Lotion [Lotrimin],,,other,1000632,1,S,,261169,RxNorm,Branded Drug
-45776344,other,clotrimazole,clotrimazole 10 MG/ML Topical Oil,,,other,1000632,1,S,,1547954,RxNorm,Clinical Drug
-19075604,other,clotrimazole,clotrimazole 10 MG/ML Topical Solution,,,other,1000632,1,S,,309370,RxNorm,Clinical Drug
-43531813,other,clotrimazole,clotrimazole 10 MG/ML Topical Solution [Clotrimazoil],,,other,1000632,1,S,,1426997,RxNorm,Branded Drug
-45775301,other,clotrimazole,clotrimazole 10 MG/ML Topical Solution [Fungazoil],,,other,1000632,1,S,,1540223,RxNorm,Branded Drug
-40228853,other,clotrimazole,clotrimazole 10 MG/ML Topical Solution [Fungicure Solution],,,other,1000632,1,S,,1045620,RxNorm,Branded Drug
-35604201,other,clotrimazole,clotrimazole 10 MG/ML Topical Solution [Fungistat],,,other,1000632,1,S,,1747489,RxNorm,Branded Drug
-1000674,other,clotrimazole,clotrimazole 10 MG/ML Topical Solution [Fungoid Solution],,,other,1000632,1,S,,261161,RxNorm,Branded Drug
-1000675,other,clotrimazole,clotrimazole 10 MG/ML Topical Solution [Lotrimin],,,other,1000632,1,S,,261163,RxNorm,Branded Drug
-1000676,other,clotrimazole,clotrimazole 10 MG/ML Topical Solution [Mycelex],,,other,1000632,1,S,,261165,RxNorm,Branded Drug
-1000734,other,clotrimazole,clotrimazole 10 MG/ML Topical Spray,,,other,1000632,1,S,,358371,RxNorm,Clinical Drug
-19017230,other,clotrimazole,clotrimazole 10 MG/ML Topical Spray [Canesten AF],,,other,1000632,1,S,,153443,RxNorm,Branded Drug
-40228854,other,clotrimazole,clotrimazole 10 MG/ML Topical Spray [Fungicure Solution],,,other,1000632,1,S,,1045623,RxNorm,Branded Drug
-19075603,other,clotrimazole,clotrimazole 10 MG/ML Vaginal Cream,,,other,1000632,1,S,,309368,RxNorm,Clinical Drug
-1000693,other,clotrimazole,clotrimazole 10 MG/ML Vaginal Cream [Clotrimazole-7],,,other,1000632,1,S,,261211,RxNorm,Branded Drug
-1000694,other,clotrimazole,clotrimazole 10 MG/ML Vaginal Cream [Femcare],,,other,1000632,1,S,,261212,RxNorm,Branded Drug
-19010119,other,clotrimazole,clotrimazole 10 MG/ML Vaginal Cream [Masnoderm],,,other,1000632,1,S,,108328,RxNorm,Branded Drug
-1000696,other,clotrimazole,clotrimazole 10 MG/ML Vaginal Cream [Mycelex-7],,,other,1000632,1,S,,261216,RxNorm,Branded Drug
-19081090,unclassified,clotrimazole,clotrimazole 100 MG,,,,1000632,1,S,,315702,RxNorm,Clinical Drug Comp
-19120638,unclassified,clotrimazole,clotrimazole 100 MG [Femcare],,,,1000632,1,S,,574405,RxNorm,Branded Drug Comp
-19120640,unclassified,clotrimazole,clotrimazole 100 MG [Mycelex-7],,,,1000632,1,S,,574407,RxNorm,Branded Drug Comp
-19018880,other,clotrimazole,clotrimazole 100 MG Vaginal Insert,,,other,1000632,1,S,,197530,RxNorm,Clinical Drug
-1000677,other,clotrimazole,clotrimazole 100 MG Vaginal Insert [Femcare],,,other,1000632,1,S,,261166,RxNorm,Branded Drug
-1000679,other,clotrimazole,clotrimazole 100 MG Vaginal Insert [Mycelex-7],,,other,1000632,1,S,,261168,RxNorm,Branded Drug
-1000732,unclassified,clotrimazole,clotrimazole 100 MG/ML,,,,1000632,1,S,,343372,RxNorm,Clinical Drug Comp
-19115475,unclassified,clotrimazole,clotrimazole 100 MG/ML [Canesten VC],,,,1000632,1,S,,563174,RxNorm,Branded Drug Comp
-19007148,other,clotrimazole,clotrimazole 100 MG/ML Vaginal Cream,,,other,1000632,1,S,,105476,RxNorm,Clinical Drug
-19001607,other,clotrimazole,clotrimazole 100 MG/ML Vaginal Cream [Canesten VC],,,other,1000632,1,S,,102916,RxNorm,Branded Drug
-19099062,unclassified,clotrimazole,clotrimazole 20 MG/ML,,,,1000632,1,S,,358508,RxNorm,Clinical Drug Comp
-19103235,other,clotrimazole,clotrimazole 20 MG/ML Topical Spray,,,other,1000632,1,S,,409269,RxNorm,Clinical Drug
-19022063,other,clotrimazole,clotrimazole 20 MG/ML Vaginal Cream,,,other,1000632,1,S,,199603,RxNorm,Clinical Drug
-19081111,unclassified,clotrimazole,clotrimazole 200 MG,,,,1000632,1,S,,315703,RxNorm,Clinical Drug Comp
-19022784,other,clotrimazole,clotrimazole 200 MG Vaginal Insert,,,other,1000632,1,S,,200036,RxNorm,Clinical Drug
-1000720,unclassified,clotrimazole,clotrimazole 3.3 MG/ML,,,,1000632,1,S,,333799,RxNorm,Clinical Drug Comp
-19065217,other,clotrimazole,clotrimazole 3.3 MG/ML Topical Solution,,,other,1000632,1,S,,252670,RxNorm,Clinical Drug
-43525359,unclassified,clotrimazole,clotrimazole 4 MG/ML,,,,1000632,1,S,,1370955,RxNorm,Clinical Drug Comp
-43525637,other,clotrimazole,clotrimazole 4 MG/ML Topical Spray,,,other,1000632,1,S,,1370956,RxNorm,Clinical Drug
-19081112,unclassified,clotrimazole,clotrimazole 500 MG,,,,1000632,1,S,,315704,RxNorm,Clinical Drug Comp
-19115267,unclassified,clotrimazole,clotrimazole 500 MG [Mycelex-G],,,,1000632,1,S,,562904,RxNorm,Branded Drug Comp
-1000636,other,clotrimazole,clotrimazole 500 MG Vaginal Insert,,,other,1000632,1,S,,197532,RxNorm,Clinical Drug
-19136002,other,clotrimazole,clotrimazole 500 MG Vaginal Insert [Mycelex-G],,,other,1000632,1,S,,93370,RxNorm,Branded Drug
-43526072,unclassified,clotrimazole,clotrimazole 6 MG/ML,,,,1000632,1,S,,1374381,RxNorm,Clinical Drug Comp
-43526073,other,clotrimazole,clotrimazole 6 MG/ML Topical Cream,,,other,1000632,1,S,,1374382,RxNorm,Clinical Drug
-19109446,unclassified,clotrimazole,clotrimazole 7.6 MG/ML,,,,1000632,1,S,,438798,RxNorm,Clinical Drug Comp
-19103248,other,clotrimazole,clotrimazole 7.6 MG/ML Topical Spray,,,other,1000632,1,S,,409344,RxNorm,Clinical Drug
-36245319,unclassified,clotrimazole,clotrimazole Lozenge Product,,,,1000632,1,C,,1295312,RxNorm,Clinical Dose Group
-40026926,other,clotrimazole,clotrimazole Medicated Bar Soap,,,other,1000632,1,S,,376487,RxNorm,Clinical Drug Form
-36212646,other,clotrimazole,clotrimazole Ophthalmic Product,,,other,1000632,1,C,,1153918,RxNorm,Clinical Dose Group
-40026927,other,clotrimazole,clotrimazole Ophthalmic Solution,,,other,1000632,1,S,,377426,RxNorm,Clinical Drug Form
-40026924,systemic,clotrimazole,clotrimazole Oral Lozenge,,,systemic,1000632,1,S,,371595,RxNorm,Clinical Drug Form
-40026925,systemic,clotrimazole,clotrimazole Oral Lozenge [Mycelex Troches],,,systemic,1000632,1,S,,367216,RxNorm,Branded Drug Form
-36212647,systemic,clotrimazole,clotrimazole Oral Product,,,systemic,1000632,1,C,,1153919,RxNorm,Clinical Dose Group
-40026928,systemic,clotrimazole,clotrimazole Oral Tablet,,,systemic,1000632,1,S,,378136,RxNorm,Clinical Drug Form
-40026929,other,clotrimazole,clotrimazole Paste,,,other,1000632,1,S,,376206,RxNorm,Clinical Drug Form
-36212648,other,clotrimazole,clotrimazole Paste Product,,,other,1000632,1,C,,1153920,RxNorm,Clinical Dose Group
-36212649,systemic,clotrimazole,clotrimazole Pill,,,systemic,1000632,1,C,,1153921,RxNorm,Clinical Dose Group
-44852806,unclassified,clotrimazole,CLOTRIMAZOLE POWDER,,,,1000632,1,S,,62991103502,NDC,11-digit NDC
-44982221,unclassified,clotrimazole,CLOTRIMAZOLE POWDER,,,,1000632,1,S,,38779001908,NDC,11-digit NDC
-45001332,unclassified,clotrimazole,CLOTRIMAZOLE POWDER,,,,1000632,1,S,,51552131804,NDC,11-digit NDC
-45001479,unclassified,clotrimazole,CLOTRIMAZOLE POWDER,,,,1000632,1,S,,51927134800,NDC,11-digit NDC
-45005943,unclassified,clotrimazole,CLOTRIMAZOLE POWDER,,,,1000632,1,S,,62991103501,NDC,11-digit NDC
-45050477,unclassified,clotrimazole,CLOTRIMAZOLE POWDER,,,,1000632,1,S,,38779001901,NDC,11-digit NDC
-45057168,unclassified,clotrimazole,CLOTRIMAZOLE POWDER,,,,1000632,1,S,,62991103503,NDC,11-digit NDC
-45069735,unclassified,clotrimazole,CLOTRIMAZOLE POWDER,,,,1000632,1,S,,51552131802,NDC,11-digit NDC
-45118552,unclassified,clotrimazole,CLOTRIMAZOLE POWDER,,,,1000632,1,S,,38779001904,NDC,11-digit NDC
-45118553,unclassified,clotrimazole,CLOTRIMAZOLE POWDER,,,,1000632,1,S,,38779001909,NDC,11-digit NDC
-45323456,unclassified,clotrimazole,CLOTRIMAZOLE POWDER,,,,1000632,1,S,,38779001903,NDC,11-digit NDC
-45357615,unclassified,clotrimazole,CLOTRIMAZOLE POWDER,,,,1000632,1,S,,38779001905,NDC,11-digit NDC
-40026930,other,clotrimazole,clotrimazole Powder Spray,,,other,1000632,1,S,,371593,RxNorm,Clinical Drug Form
-36245771,other,clotrimazole,clotrimazole Soap Product,,,other,1000632,1,C,,1295510,RxNorm,Clinical Dose Group
-40026931,other,clotrimazole,clotrimazole Topical Cream,,,other,1000632,1,S,,377660,RxNorm,Clinical Drug Form
-40236646,other,clotrimazole,clotrimazole Topical Cream [Atopalm Clotrimazole Antifungal],,,other,1000632,1,S,,1093229,RxNorm,Branded Drug Form
-40026932,other,clotrimazole,clotrimazole Topical Cream [Canesten AF],,,other,1000632,1,S,,385948,RxNorm,Branded Drug Form
-40026935,other,clotrimazole,clotrimazole Topical Cream [Canesten],,,other,1000632,1,S,,362179,RxNorm,Branded Drug Form
-40163087,other,clotrimazole,clotrimazole Topical Cream [Cruex Antifungal],,,other,1000632,1,S,,856803,RxNorm,Branded Drug Form
-40239457,other,clotrimazole,clotrimazole Topical Cream [Dermatin],,,other,1000632,1,S,,1112454,RxNorm,Branded Drug Form
-40221442,other,clotrimazole,clotrimazole Topical Cream [Desenex Cream],,,other,1000632,1,S,,996230,RxNorm,Branded Drug Form
-40026934,other,clotrimazole,clotrimazole Topical Cream [Fungoid (Clotrimazole)],,,other,1000632,1,S,,362357,RxNorm,Branded Drug Form
-37003409,other,clotrimazole,clotrimazole Topical Cream [Jock-Eze],,,other,1000632,1,S,,2467738,RxNorm,Branded Drug Form
-45892665,other,clotrimazole,clotrimazole Topical Cream [Kerasal Toe & Foot],,,other,1000632,1,S,,1598057,RxNorm,Branded Drug Form
-40026937,other,clotrimazole,clotrimazole Topical Cream [Lotrimin],,,other,1000632,1,S,,362355,RxNorm,Branded Drug Form
-40026938,other,clotrimazole,clotrimazole Topical Cream [Mycelex],,,other,1000632,1,S,,362354,RxNorm,Branded Drug Form
-42706896,other,clotrimazole,clotrimazole Topical Cream [Pedesil],,,other,1000632,1,S,,1250725,RxNorm,Branded Drug Form
-42800644,other,clotrimazole,clotrimazole Topical Foam,,,other,1000632,1,S,,1299968,RxNorm,Clinical Drug Form
-40026939,other,clotrimazole,clotrimazole Topical Gel,,,other,1000632,1,S,,378066,RxNorm,Clinical Drug Form
-40026940,other,clotrimazole,clotrimazole Topical Lotion,,,other,1000632,1,S,,377661,RxNorm,Clinical Drug Form
-40026941,other,clotrimazole,clotrimazole Topical Lotion [Lotrimin],,,other,1000632,1,S,,365730,RxNorm,Branded Drug Form
-43525358,other,clotrimazole,clotrimazole Topical Oil,,,other,1000632,1,S,,1370953,RxNorm,Clinical Drug Form
-40026942,other,clotrimazole,clotrimazole Topical Ointment,,,other,1000632,1,S,,438800,RxNorm,Clinical Drug Form
-42901467,other,clotrimazole,clotrimazole Topical Ointment [Aardora Anti-Fungal Maximum Strength],,,other,1000632,1,S,,1358727,RxNorm,Branded Drug Form
-45776640,other,clotrimazole,clotrimazole Topical Ointment [Alevazol],,,other,1000632,1,S,,1543311,RxNorm,Branded Drug Form
-42706561,other,clotrimazole,clotrimazole Topical Ointment [Pedesil],,,other,1000632,1,S,,1247977,RxNorm,Branded Drug Form
-40026943,other,clotrimazole,clotrimazole Topical Powder,,,other,1000632,1,S,,374601,RxNorm,Clinical Drug Form
-40026944,other,clotrimazole,clotrimazole Topical Powder [Canesten AF],,,other,1000632,1,S,,386003,RxNorm,Branded Drug Form
-40026945,other,clotrimazole,clotrimazole Topical Powder [Canesten],,,other,1000632,1,S,,385428,RxNorm,Branded Drug Form
-40026948,other,clotrimazole,clotrimazole Topical Powder [Lotrimin],,,other,1000632,1,S,,367493,RxNorm,Branded Drug Form
-36212650,other,clotrimazole,clotrimazole Topical Product,,,other,1000632,1,C,,1153923,RxNorm,Clinical Dose Group
-40026949,other,clotrimazole,clotrimazole Topical Solution,,,other,1000632,1,S,,371594,RxNorm,Clinical Drug Form
-43531815,other,clotrimazole,clotrimazole Topical Solution [Clotrimazoil],,,other,1000632,1,S,,1426995,RxNorm,Branded Drug Form
-45775300,other,clotrimazole,clotrimazole Topical Solution [Fungazoil],,,other,1000632,1,S,,1540221,RxNorm,Branded Drug Form
-40228856,other,clotrimazole,clotrimazole Topical Solution [Fungicure Solution],,,other,1000632,1,S,,1045619,RxNorm,Branded Drug Form
-35604200,other,clotrimazole,clotrimazole Topical Solution [Fungistat],,,other,1000632,1,S,,1747487,RxNorm,Branded Drug Form
-40026950,other,clotrimazole,clotrimazole Topical Solution [Fungoid Solution],,,other,1000632,1,S,,365459,RxNorm,Branded Drug Form
-40026952,other,clotrimazole,clotrimazole Topical Solution [Lotrimin],,,other,1000632,1,S,,365457,RxNorm,Branded Drug Form
-40026954,other,clotrimazole,clotrimazole Topical Solution [Mycelex],,,other,1000632,1,S,,365455,RxNorm,Branded Drug Form
-40026955,other,clotrimazole,clotrimazole Topical Spray,,,other,1000632,1,S,,377314,RxNorm,Clinical Drug Form
-40026956,other,clotrimazole,clotrimazole Topical Spray [Canesten AF],,,other,1000632,1,S,,386036,RxNorm,Branded Drug Form
-40228857,other,clotrimazole,clotrimazole Topical Spray [Fungicure Solution],,,other,1000632,1,S,,1045622,RxNorm,Branded Drug Form
-40026957,other,clotrimazole,clotrimazole Vaginal Cream,,,other,1000632,1,S,,377662,RxNorm,Clinical Drug Form
-40026958,other,clotrimazole,clotrimazole Vaginal Cream [Canesten VC],,,other,1000632,1,S,,362426,RxNorm,Branded Drug Form
-40026960,other,clotrimazole,clotrimazole Vaginal Cream [Clotrimazole-7],,,other,1000632,1,S,,362441,RxNorm,Branded Drug Form
-40026961,other,clotrimazole,clotrimazole Vaginal Cream [Femcare],,,other,1000632,1,S,,362442,RxNorm,Branded Drug Form
-40026964,other,clotrimazole,clotrimazole Vaginal Cream [Masnoderm],,,other,1000632,1,S,,362419,RxNorm,Branded Drug Form
-40027248,other,clotrimazole,clotrimazole Vaginal Cream [Mycelex-7],,,other,1000632,1,S,,362433,RxNorm,Branded Drug Form
-1356392,other,clotrimazole,clotrimazole Vaginal Insert,,,other,1000632,1,S,,2109117,RxNorm,Clinical Drug Form
-1356393,other,clotrimazole,clotrimazole Vaginal Insert [Femcare],,,other,1000632,1,S,,2109119,RxNorm,Branded Drug Form
-1356395,other,clotrimazole,clotrimazole Vaginal Insert [Mycelex-7],,,other,1000632,1,S,,2109123,RxNorm,Branded Drug Form
-1356397,other,clotrimazole,clotrimazole Vaginal Insert [Mycelex-G],,,other,1000632,1,S,,2109129,RxNorm,Branded Drug Form
-36212651,other,clotrimazole,clotrimazole Vaginal Product,,,other,1000632,1,C,,1153924,RxNorm,Clinical Dose Group
-21600028,systemic,clotrimazole,clotrimazole; local oral,,,systemic,1000632,1,C,,A01AB18,ATC,ATC 5th
-21601920,other,clotrimazole,clotrimazole; topical,,,other,1000632,1,C,,D01AC01,ATC,ATC 5th
-21602393,other,clotrimazole,clotrimazole; vaginal,,,other,1000632,1,C,,G01AF02,ATC,ATC 5th
-36237145,other,clotrimazole,Cruex Antifungal Topical Product,,,other,1000632,1,C,,1173066,RxNorm,Branded Dose Group
-36234267,other,clotrimazole,Dermatin Topical Product,,,other,1000632,1,C,,1173788,RxNorm,Branded Dose Group
-36237592,other,clotrimazole,Desenex Cream Topical Product,,,other,1000632,1,C,,1174506,RxNorm,Branded Dose Group
-36232074,other,clotrimazole,Femcare Vaginal Product,,,other,1000632,1,C,,1176632,RxNorm,Branded Dose Group
-36246995,other,clotrimazole,Fungazoil Topical Product,,,other,1000632,1,C,,1540222,RxNorm,Branded Dose Group
-36236881,other,clotrimazole,Fungicure Solution Topical Product,,,other,1000632,1,C,,1173985,RxNorm,Branded Dose Group
-36249439,other,clotrimazole,Fungistat Topical Product,,,other,1000632,1,C,,1747488,RxNorm,Branded Dose Group
-36236888,other,clotrimazole,Fungoid (Clotrimazole) Topical Product,,,other,1000632,1,C,,1173993,RxNorm,Branded Dose Group
-36236890,other,clotrimazole,Fungoid Solution Topical Product,,,other,1000632,1,C,,1173995,RxNorm,Branded Dose Group
-37003410,other,clotrimazole,Jock-Eze Topical Product,,,other,1000632,1,C,,2467739,RxNorm,Branded Dose Group
-36248953,other,clotrimazole,Kerasal Toe & Foot Topical Product,,,other,1000632,1,C,,1598058,RxNorm,Branded Dose Group
-36231603,other,clotrimazole,Lotrimin Topical Product,,,other,1000632,1,C,,1180919,RxNorm,Branded Dose Group
-36231605,other,clotrimazole,Lotrisone Topical Product,,,other,1000632,1,C,,1180921,RxNorm,Branded Dose Group
-36248540,other,clotrimazole,Malotic Otic Product,,,other,1000632,1,C,,1552572,RxNorm,Branded Dose Group
-36232605,other,clotrimazole,Masnoderm Vaginal Product,,,other,1000632,1,C,,1181041,RxNorm,Branded Dose Group
-36239818,other,clotrimazole,Mycelex-7 Vaginal Product,,,other,1000632,1,C,,1184409,RxNorm,Branded Dose Group
-36239819,other,clotrimazole,Mycelex-G Vaginal Product,,,other,1000632,1,C,,1184410,RxNorm,Branded Dose Group
-36239815,other,clotrimazole,Mycelex Topical Product,,,other,1000632,1,C,,1184406,RxNorm,Branded Dose Group
-36244132,unclassified,clotrimazole,Mycelex Troches Lozenge Product,,,,1000632,1,C,,1295947,RxNorm,Branded Dose Group
-36239816,systemic,clotrimazole,Mycelex Troches Oral Product,,,systemic,1000632,1,C,,1184407,RxNorm,Branded Dose Group
-36248515,other,clotrimazole,Otomax Otic Product,,,other,1000632,1,C,,1666757,RxNorm,Branded Dose Group
-36238369,other,clotrimazole,Pedesil Topical Product,,,other,1000632,1,C,,1247978,RxNorm,Branded Dose Group
-36248837,other,clotrimazole,Remicin Otic Product,,,other,1000632,1,C,,1596459,RxNorm,Branded Dose Group
-36247923,other,clotrimazole,Tri-Otic for Canines Otic Product,,,other,1000632,1,C,,1430114,RxNorm,Branded Dose Group
-1560042,other,clotrimazole,Vetaderm Plus Otic Product,,,other,1000632,1,C,,2049512,RxNorm,Branded Dose Group
-36246165,other,clotrimazole,Vetromax Otic Product,,,other,1000632,1,C,,1367701,RxNorm,Branded Dose Group
-36027968,unclassified,clotrimazole;dexamethasone,Clotrimazole / Dexamethasone,,,,1000632;1518254,2,S,,1007854,RxNorm,Multiple Ingredients
-40026551,other,clotrimazole;dexamethasone,clotrimazole / dexamethasone Topical Cream,,,other,1000632;1518254,2,S,,379385,RxNorm,Clinical Drug Form
-36212638,other,clotrimazole;dexamethasone,clotrimazole / dexamethasone Topical Product,,,other,1000632;1518254,2,C,,1153910,RxNorm,Clinical Dose Group
-1000641,other,clotrimazole;dexamethasone,clotrimazole 10 MG/ML / dexamethasone 0.4 MG/ML Topical Cream,,,other,1000632;1518254,2,S,,246752,RxNorm,Clinical Drug
-1000654,other,clotrimazole;dexamethasone,clotrimazole 10 MG/ML / dexamethasone 0.443 MG/ML Topical Cream,,,other,1000632;1518254,2,S,,249546,RxNorm,Clinical Drug
-36028556,unclassified,clotrimazole;prednisolone,Clotrimazole / hexamidine / prednisolone,,,,1000632;1550557,2,S,,1008474,RxNorm,Multiple Ingredients
-40026557,other,clotrimazole;prednisolone,clotrimazole / hexamidine / prednisolone Topical Cream,,,other,1000632;1550557,2,S,,438796,RxNorm,Clinical Drug Form
-36212644,other,clotrimazole;prednisolone,clotrimazole / hexamidine / prednisolone Topical Product,,,other,1000632;1550557,2,C,,1153916,RxNorm,Clinical Dose Group
-19104786,other,clotrimazole;prednisolone,clotrimazole 10 MG/ML / hexamidine 2.5 MG/ML / prednisolone 5 MG/ML Topical Cream,,,other,1000632;1550557,2,S,,416576,RxNorm,Clinical Drug
 1507705,unclassified,cortisone,cortisone,,,,1507705,1,S,,2878,RxNorm,Ingredient
 4137589,unclassified,cortisone,Cortisone,,,,1507705,1,S,,32498003,SNOMED,Substance
 45960132,unclassified,cortisone,Cortisone,,,,1507705,1,S,U,10051811000001102,SNOMED,Pharma/Biol Product
@@ -925,6 +595,11 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 40030911,other,dexamethasone,clioquinol / dexamethasone Topical Ointment,,,other,1518254,1,S,,438702,RxNorm,Clinical Drug Form
 36216366,other,dexamethasone,clioquinol / dexamethasone Topical Product,,,other,1518254,1,C,,1152791,RxNorm,Clinical Dose Group
 19105218,other,dexamethasone,clioquinol 0.02 MG/MG / dexamethasone 0.0002 MG/MG Topical Ointment,,,other,1518254,1,S,,418759,RxNorm,Clinical Drug
+36027968,unclassified,dexamethasone,Clotrimazole / Dexamethasone,,,,1518254,1,S,,1007854,RxNorm,Multiple Ingredients
+40026551,other,dexamethasone,clotrimazole / dexamethasone Topical Cream,,,other,1518254,1,S,,379385,RxNorm,Clinical Drug Form
+36212638,other,dexamethasone,clotrimazole / dexamethasone Topical Product,,,other,1518254,1,C,,1153910,RxNorm,Clinical Dose Group
+1000641,other,dexamethasone,clotrimazole 10 MG/ML / dexamethasone 0.4 MG/ML Topical Cream,,,other,1518254,1,S,,246752,RxNorm,Clinical Drug
+1000654,other,dexamethasone,clotrimazole 10 MG/ML / dexamethasone 0.443 MG/ML Topical Cream,,,other,1518254,1,S,,249546,RxNorm,Clinical Drug
 36031080,unclassified,dexamethasone,Cyproheptadine / Dexamethasone,,,,1518254,1,S,,821542,RxNorm,Multiple Ingredients
 36213833,systemic,dexamethasone,cyproheptadine / dexamethasone Injectable Product,,,systemic,1518254,1,C,,1156193,RxNorm,Clinical Dose Group
 40028865,systemic,dexamethasone,cyproheptadine / dexamethasone Injectable Solution,,,systemic,1518254,1,S,,371735,RxNorm,Clinical Drug Form
@@ -2253,6 +1928,11 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 19075562,other,hydrocortisone,clioquinol 30 MG/ML / hydrocortisone 5 MG/ML Topical Lotion,,,other,975125,1,S,,309350,RxNorm,Clinical Drug
 19075536,other,hydrocortisone,clioquinol 7.5 MG/ML / hydrocortisone 2.5 MG/ML Topical Lotion,,,other,975125,1,S,,309344,RxNorm,Clinical Drug
 4227459,unclassified,hydrocortisone,Clorquinaldol- and hydrocortisone-containing product,,,,975125,1,S,,346498001,SNOMED,Pharma/Biol Product
+4226758,unclassified,hydrocortisone,Clotrimazole- and hydrocortisone-containing product,,,,975125,1,S,,346501001,SNOMED,Pharma/Biol Product
+36030105,unclassified,hydrocortisone,Clotrimazole / Hydrocortisone,,,,975125,1,S,,262272,RxNorm,Multiple Ingredients
+40026552,other,hydrocortisone,clotrimazole / hydrocortisone Topical Cream,,,other,975125,1,S,,377659,RxNorm,Clinical Drug Form
+36212639,other,hydrocortisone,clotrimazole / hydrocortisone Topical Product,,,other,975125,1,C,,1153911,RxNorm,Clinical Dose Group
+19008507,other,hydrocortisone,clotrimazole 10 MG/ML / hydrocortisone 10 MG/ML Topical Cream,,,other,975125,1,S,,106238,RxNorm,Clinical Drug
 36030900,unclassified,hydrocortisone,Coal Tar / Hydrocortisone,,,,975125,1,S,,815532,RxNorm,Multiple Ingredients
 40027350,other,hydrocortisone,coal tar / hydrocortisone Topical Cream,,,other,975125,1,S,,379335,RxNorm,Clinical Drug Form
 36212660,other,hydrocortisone,coal tar / hydrocortisone Topical Product,,,other,975125,1,C,,1153934,RxNorm,Clinical Dose Group
@@ -3882,11 +3562,6 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 36241289,other,hydrocortisone,Zotane HC Otic Product,,,other,975125,1,C,,1186326,RxNorm,Branded Dose Group
 36245117,other,hydrocortisone,Zoto-HC Otic Product,,,other,975125,1,C,,1293894,RxNorm,Branded Dose Group
 36244963,other,hydrocortisone,ZyPram Rectal Product,,,other,975125,1,C,,1293833,RxNorm,Branded Dose Group
-4226758,unclassified,hydrocortisone;clotrimazole,Clotrimazole- and hydrocortisone-containing product,,,,975125;1000632,2,S,,346501001,SNOMED,Pharma/Biol Product
-36030105,unclassified,hydrocortisone;clotrimazole,Clotrimazole / Hydrocortisone,,,,975125;1000632,2,S,,262272,RxNorm,Multiple Ingredients
-40026552,other,hydrocortisone;clotrimazole,clotrimazole / hydrocortisone Topical Cream,,,other,975125;1000632,2,S,,377659,RxNorm,Clinical Drug Form
-36212639,other,hydrocortisone;clotrimazole,clotrimazole / hydrocortisone Topical Product,,,other,975125;1000632,2,C,,1153911,RxNorm,Clinical Dose Group
-19008507,other,hydrocortisone;clotrimazole,clotrimazole 10 MG/ML / hydrocortisone 10 MG/ML Topical Cream,,,other,975125;1000632,2,S,,106238,RxNorm,Clinical Drug
 975125,systemic,hydrocortisone;hydrocortisone; systemic,hydrocortisone,2507368,110774,,975125;21602737,2,S,,5492,RxNorm,Ingredient
 975955,systemic,hydrocortisone;hydrocortisone; systemic,hydrocortisone 0.1 MG/MG,20,20,,975125;21602737,2,S,,329839,RxNorm,Clinical Drug Comp
 19114612,unclassified,hydrocortisone;hydrocortisone; systemic,hydrocortisone 0.1 MG/ML,20,20,,975125;21602737,2,S,,544998,RxNorm,Clinical Drug Comp
@@ -4209,6 +3884,25 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 19129675,inhaled,mometasone,7 ACTUAT mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler [Asmanex],20,20,inhaled,905233,1,S,,790280,RxNorm,Quant Branded Drug
 36234168,inhaled,mometasone,Asmanex Inhalant Product,,,inhaled,905233,1,C,,1172147,RxNorm,Branded Dose Group
 36248503,other,mometasone,Claro Otic Product,,,other,905233,1,C,,1721557,RxNorm,Branded Dose Group
+36029720,unclassified,mometasone,Clotrimazole / Gentamicin / Mometasone,,,,905233,1,S,,1606020,RxNorm,Multiple Ingredients
+36248933,other,mometasone,clotrimazole / gentamicin / mometasone Otic Product,,,other,905233,1,C,,1606018,RxNorm,Clinical Dose Group
+46221668,other,mometasone,clotrimazole / gentamicin / mometasone Otic Suspension,20,20,other,905233,1,S,,1606019,RxNorm,Clinical Drug Form
+37496920,other,mometasone,clotrimazole / gentamicin / mometasone Otic Suspension [LoZatom],20,20,other,905233,1,S,,2201556,RxNorm,Branded Drug Form
+1511379,other,mometasone,clotrimazole / gentamicin / mometasone Otic Suspension [Maxi-Otic],20,20,other,905233,1,S,,2166110,RxNorm,Branded Drug Form
+46287628,inhaled,mometasone,clotrimazole / gentamicin / mometasone Otic Suspension [Mometamax],20,20,other,905233,1,S,,1666827,RxNorm,Branded Drug Form
+46221672,other,mometasone,clotrimazole / gentamicin / mometasone Otic Suspension [Motazol],20,20,other,905233,1,S,,1606024,RxNorm,Branded Drug Form
+1594500,other,mometasone,clotrimazole / gentamicin / mometasone Otic Suspension [Pattotic],20,20,other,905233,1,S,,1870316,RxNorm,Branded Drug Form
+37496919,inhaled,mometasone,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [LoZatom],20,20,,905233,1,S,,2201555,RxNorm,Branded Drug Comp
+1511378,other,mometasone,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Maxi-Otic],20,20,other,905233,1,S,,2166109,RxNorm,Branded Drug Comp
+46287627,inhaled,mometasone,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Mometamax],20,20,,905233,1,S,,1666826,RxNorm,Branded Drug Comp
+46221671,unclassified,mometasone,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Motazol],20,20,,905233,1,S,,1606023,RxNorm,Branded Drug Comp
+1592230,other,mometasone,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Pattotic],20,20,other,905233,1,S,,1870810,RxNorm,Branded Drug Comp
+46221669,other,mometasone,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension,20,20,other,905233,1,S,,1606021,RxNorm,Clinical Drug
+37496922,other,mometasone,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [LoZatom],20,20,other,905233,1,S,,2201558,RxNorm,Branded Drug
+1511381,other,mometasone,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Maxi-Otic],20,20,other,905233,1,S,,2166112,RxNorm,Branded Drug
+46287629,inhaled,mometasone,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Mometamax],20,20,other,905233,1,S,,1666829,RxNorm,Branded Drug
+46221673,other,mometasone,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Motazol],20,20,other,905233,1,S,,1606026,RxNorm,Branded Drug
+35606481,other,mometasone,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Pattotic],20,20,other,905233,1,S,,1734665,RxNorm,Branded Drug
 36219491,inhaled,mometasone,Dulera Inhalant Product,,,inhaled,905233,1,C,,1166984,RxNorm,Branded Dose Group
 36236207,other,mometasone,Elocon Topical Product,,,other,905233,1,C,,1174624,RxNorm,Branded Dose Group
 36029757,unclassified,mometasone,florfenicol / Mometasone / terbinafine,,,,905233,1,S,,1721552,RxNorm,Multiple Ingredients
@@ -4235,6 +3929,9 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 42902603,inhaled,mometasone,formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Dulera],9089,913,inhaled,905233,1,S,,1359716,RxNorm,Branded Drug
 715851,inhaled,mometasone,indacaterol and mometasone; inhalant,,,inhaled,905233,1,C,,R03AK14,ATC,ATC 5th
 715852,inhaled,mometasone,"indacaterol, glycopyrronium bromide and mometasone; inhalant",,,inhaled,905233,1,C,,R03AL12,ATC,ATC 5th
+37496921,other,mometasone,LoZatom Otic Product,,,other,905233,1,C,,2201557,RxNorm,Branded Dose Group
+1511380,other,mometasone,Maxi-Otic Otic Product,,,other,905233,1,C,,2166111,RxNorm,Branded Dose Group
+36248518,other,mometasone,Mometamax Otic Product,,,other,905233,1,C,,1666828,RxNorm,Branded Dose Group
 905233,inhaled,mometasone,mometasone,252492,18627,,905233,1,S,,108118,RxNorm,Ingredient
 4217114,unclassified,mometasone,Mometasone,,,,905233,1,S,,395990009,SNOMED,Substance
 4328477,unclassified,mometasone,Mometasone-containing product,,,,905233,1,S,,75203002,SNOMED,Pharma/Biol Product
@@ -4342,35 +4039,13 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 21605051,nasal,mometasone,mometasone; nasal,,,nasal,905233,1,C,,R01AD09,ATC,ATC 5th
 21602132,other,mometasone,mometasone; topical,,,other,905233,1,C,,D07AC13,ATC,ATC 5th
 36231946,other,mometasone,Momexin Topical Product,,,other,905233,1,C,,1181646,RxNorm,Branded Dose Group
+36248934,other,mometasone,Motazol Otic Product,,,other,905233,1,C,,1606025,RxNorm,Branded Dose Group
 36231547,inhaled,mometasone,Nasonex Inhalant Product,,,inhaled,905233,1,C,,1179823,RxNorm,Branded Dose Group
 36249625,nasal,mometasone,Nasonex Nasal Product,,,nasal,905233,1,C,,1801260,RxNorm,Branded Dose Group
+36248369,other,mometasone,Pattotic Otic Product,,,other,905233,1,C,,1734664,RxNorm,Branded Dose Group
 1355737,other,mometasone,Posatex Otic Product,,,other,905233,1,C,,2105741,RxNorm,Branded Dose Group
 36230281,systemic,mometasone,Propel Drug Implant Product,,,systemic,905233,1,C,,1181831,RxNorm,Branded Dose Group
 793461,systemic,mometasone,Sinuva Drug Implant Product,,,systemic,905233,1,C,,1995987,RxNorm,Branded Dose Group
-36029720,unclassified,mometasone;clotrimazole,Clotrimazole / Gentamicin / Mometasone,,,,905233;1000632,2,S,,1606020,RxNorm,Multiple Ingredients
-36248933,other,mometasone;clotrimazole,clotrimazole / gentamicin / mometasone Otic Product,,,other,905233;1000632,2,C,,1606018,RxNorm,Clinical Dose Group
-46221668,other,mometasone;clotrimazole,clotrimazole / gentamicin / mometasone Otic Suspension,20,20,other,905233;1000632,2,S,,1606019,RxNorm,Clinical Drug Form
-37496920,other,mometasone;clotrimazole,clotrimazole / gentamicin / mometasone Otic Suspension [LoZatom],20,20,other,905233;1000632,2,S,,2201556,RxNorm,Branded Drug Form
-1511379,other,mometasone;clotrimazole,clotrimazole / gentamicin / mometasone Otic Suspension [Maxi-Otic],20,20,other,905233;1000632,2,S,,2166110,RxNorm,Branded Drug Form
-46287628,inhaled,mometasone;clotrimazole,clotrimazole / gentamicin / mometasone Otic Suspension [Mometamax],20,20,other,905233;1000632,2,S,,1666827,RxNorm,Branded Drug Form
-46221672,other,mometasone;clotrimazole,clotrimazole / gentamicin / mometasone Otic Suspension [Motazol],20,20,other,905233;1000632,2,S,,1606024,RxNorm,Branded Drug Form
-1594500,other,mometasone;clotrimazole,clotrimazole / gentamicin / mometasone Otic Suspension [Pattotic],20,20,other,905233;1000632,2,S,,1870316,RxNorm,Branded Drug Form
-37496919,inhaled,mometasone;clotrimazole,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [LoZatom],20,20,,905233;1000632,2,S,,2201555,RxNorm,Branded Drug Comp
-1511378,other,mometasone;clotrimazole,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Maxi-Otic],20,20,other,905233;1000632,2,S,,2166109,RxNorm,Branded Drug Comp
-46287627,inhaled,mometasone;clotrimazole,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Mometamax],20,20,,905233;1000632,2,S,,1666826,RxNorm,Branded Drug Comp
-46221671,unclassified,mometasone;clotrimazole,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Motazol],20,20,,905233;1000632,2,S,,1606023,RxNorm,Branded Drug Comp
-1592230,other,mometasone;clotrimazole,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML [Pattotic],20,20,other,905233;1000632,2,S,,1870810,RxNorm,Branded Drug Comp
-46221669,other,mometasone;clotrimazole,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension,20,20,other,905233;1000632,2,S,,1606021,RxNorm,Clinical Drug
-37496922,other,mometasone;clotrimazole,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [LoZatom],20,20,other,905233;1000632,2,S,,2201558,RxNorm,Branded Drug
-1511381,other,mometasone;clotrimazole,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Maxi-Otic],20,20,other,905233;1000632,2,S,,2166112,RxNorm,Branded Drug
-46287629,inhaled,mometasone;clotrimazole,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Mometamax],20,20,other,905233;1000632,2,S,,1666829,RxNorm,Branded Drug
-46221673,other,mometasone;clotrimazole,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Motazol],20,20,other,905233;1000632,2,S,,1606026,RxNorm,Branded Drug
-35606481,other,mometasone;clotrimazole,clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Pattotic],20,20,other,905233;1000632,2,S,,1734665,RxNorm,Branded Drug
-37496921,other,mometasone;clotrimazole,LoZatom Otic Product,,,other,905233;1000632,2,C,,2201557,RxNorm,Branded Dose Group
-1511380,other,mometasone;clotrimazole,Maxi-Otic Otic Product,,,other,905233;1000632,2,C,,2166111,RxNorm,Branded Dose Group
-36248518,other,mometasone;clotrimazole,Mometamax Otic Product,,,other,905233;1000632,2,C,,1666828,RxNorm,Branded Dose Group
-36248934,other,mometasone;clotrimazole,Motazol Otic Product,,,other,905233;1000632,2,C,,1606025,RxNorm,Branded Dose Group
-36248369,other,mometasone;clotrimazole,Pattotic Otic Product,,,other,905233;1000632,2,C,,1734664,RxNorm,Branded Dose Group
 19027186,unclassified,paramethasone,paramethasone,,,,19027186,1,S,,7910,RxNorm,Ingredient
 4022751,unclassified,paramethasone,Paramethasone,,,,19027186,1,S,,116604005,SNOMED,Substance
 4069689,unclassified,paramethasone,Paramethasone-containing product,,,,19027186,1,S,,17554004,SNOMED,Pharma/Biol Product
@@ -4425,6 +4100,10 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 990095,other,prednisolone,chloramphenicol 1 MG/ML / prednisolone 5 MG/ML Ophthalmic Solution,,,other,1550557,1,S,,246727,RxNorm,Clinical Drug
 990100,other,prednisolone,chloramphenicol 2 MG/ML / prednisolone 5 MG/ML Ophthalmic Suspension,,,other,1550557,1,S,,249573,RxNorm,Clinical Drug
 19061458,other,prednisolone,chloramphenicol 2 MG/ML / prednisolone 5 MG/ML Otic Solution,,,other,1550557,1,S,,248804,RxNorm,Clinical Drug
+36028556,unclassified,prednisolone,Clotrimazole / hexamidine / prednisolone,,,,1550557,1,S,,1008474,RxNorm,Multiple Ingredients
+40026557,other,prednisolone,clotrimazole / hexamidine / prednisolone Topical Cream,,,other,1550557,1,S,,438796,RxNorm,Clinical Drug Form
+36212644,other,prednisolone,clotrimazole / hexamidine / prednisolone Topical Product,,,other,1550557,1,C,,1153916,RxNorm,Clinical Dose Group
+19104786,other,prednisolone,clotrimazole 10 MG/ML / hexamidine 2.5 MG/ML / prednisolone 5 MG/ML Topical Cream,,,other,1550557,1,S,,416576,RxNorm,Clinical Drug
 36227777,systemic,prednisolone,Codelsol Injectable Product,,,systemic,1550557,1,C,,1175156,RxNorm,Branded Dose Group
 36227778,systemic,prednisolone,Codelson Injectable Product,,,systemic,1550557,1,C,,1175157,RxNorm,Branded Dose Group
 36237035,systemic,prednisolone,Cotolone Injectable Product,,,systemic,1550557,1,C,,1171632,RxNorm,Branded Dose Group
