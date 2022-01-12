@@ -740,13 +740,13 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 19039283,other,dexamethasone,dexamethasone 0.0005 MG/MG / neomycin 0.0035 MG/MG Ophthalmic Ointment [Neo-Decadron],,,other,1518254,1,S,,[208677],RxNorm,Branded Drug
 916179,other,dexamethasone,dexamethasone 0.0005 MG/MG / neomycin 0.005 MG/MG Ophthalmic Ointment,,,other,1518254,1,S,,[244268],RxNorm,Clinical Drug
 1518691,unclassified,dexamethasone,dexamethasone 0.001 MG/MG,,,,1518254,1,S,,[339981],RxNorm,Clinical Drug Comp
-19052279,unclassified,dexamethasone,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [AK-Trol],,,,1518254,1,S,,[575412],RxNorm,Branded Drug Comp
-19061578,unclassified,dexamethasone,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Dexacidin],,,,1518254,1,S,,[569269],RxNorm,Branded Drug Comp
-19118697,unclassified,dexamethasone,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Dexacine],,,,1518254,1,S,,[569270],RxNorm,Branded Drug Comp
-19061654,unclassified,dexamethasone,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Dexasporin],,,,1518254,1,S,,[569271],RxNorm,Branded Drug Comp
-19015801,unclassified,dexamethasone,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Maxitrol],,,,1518254,1,S,,[569272],RxNorm,Branded Drug Comp
-19035282,unclassified,dexamethasone,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Ocu-Trol],,,,1518254,1,S,,[575413],RxNorm,Branded Drug Comp
-19077782,unclassified,dexamethasone,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Poly-Dex],,,,1518254,1,S,,[569273],RxNorm,Branded Drug Comp
+19052279,other,dexamethasone,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [AK-Trol],,,,1518254,1,S,,[575412],RxNorm,Branded Drug Comp
+19061578,other,dexamethasone,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Dexacidin],,,,1518254,1,S,,[569269],RxNorm,Branded Drug Comp
+19118697,other,dexamethasone,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Dexacine],,,,1518254,1,S,,[569270],RxNorm,Branded Drug Comp
+19061654,other,dexamethasone,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Dexasporin],,,,1518254,1,S,,[569271],RxNorm,Branded Drug Comp
+19015801,other,dexamethasone,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Maxitrol],,,,1518254,1,S,,[569272],RxNorm,Branded Drug Comp
+19035282,other,dexamethasone,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Ocu-Trol],,,,1518254,1,S,,[575413],RxNorm,Branded Drug Comp
+19077782,other,dexamethasone,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Poly-Dex],,,,1518254,1,S,,[569273],RxNorm,Branded Drug Comp
 19076110,other,dexamethasone,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG Ophthalmic Ointment,,,other,1518254,1,S,,[309679],RxNorm,Clinical Drug
 916468,other,dexamethasone,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG Ophthalmic Ointment [AK-Trol],,,other,1518254,1,S,,[351492],RxNorm,Branded Drug
 19038947,other,dexamethasone,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG Ophthalmic Ointment [Dexacidin],,,other,1518254,1,S,,[208598],RxNorm,Branded Drug
@@ -757,7 +757,7 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 19038981,other,dexamethasone,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG Ophthalmic Ointment [Poly-Dex],,,other,1518254,1,S,,[208602],RxNorm,Branded Drug
 19096433,other,dexamethasone,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG Topical Ointment,,,other,1518254,1,S,,[348336],RxNorm,Clinical Drug
 948694,other,dexamethasone,dexamethasone 0.001 MG/MG / neomycin 0.005 MG/MG / polymyxin B 10 UNT/MG Ophthalmic Ointment,,,other,1518254,1,S,,[313947],RxNorm,Clinical Drug
-19118736,unclassified,dexamethasone,dexamethasone 0.001 MG/MG / tobramycin 0.003 MG/MG [Tobradex],,,,1518254,1,S,,[569470],RxNorm,Branded Drug Comp
+19118736,other,dexamethasone,dexamethasone 0.001 MG/MG / tobramycin 0.003 MG/MG [Tobradex],,,,1518254,1,S,,[569470],RxNorm,Branded Drug Comp
 19076133,other,dexamethasone,dexamethasone 0.001 MG/MG / tobramycin 0.003 MG/MG Ophthalmic Ointment,,,other,1518254,1,S,,[309682],RxNorm,Clinical Drug
 19039745,other,dexamethasone,dexamethasone 0.001 MG/MG / tobramycin 0.003 MG/MG Ophthalmic Ointment [Tobradex],,,other,1518254,1,S,,[208821],RxNorm,Branded Drug
 1518526,other,dexamethasone,dexamethasone 0.001 MG/MG Ophthalmic Ointment,,,other,1518254,1,S,,[247484],RxNorm,Clinical Drug
@@ -807,8 +807,8 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 1518491,systemic,dexamethasone,dexamethasone 0.2 MG/ML Oral Solution,,,systemic,1518254,1,S,,[242882],RxNorm,Clinical Drug
 1518604,unclassified,dexamethasone,dexamethasone 0.25 MG,,,,1518254,1,S,,[315774],RxNorm,Clinical Drug Comp
 19105407,other,dexamethasone,dexamethasone 0.25 MG / indomethacin 75 MG Rectal Suppository,,,other,1518254,1,S,,[420634],RxNorm,Clinical Drug
-19088971,unclassified,dexamethasone,dexamethasone 0.25 MG [Decadron],,,,1518254,1,S,,[566574],RxNorm,Branded Drug Comp
-40233171,unclassified,dexamethasone,dexamethasone 0.25 MG [Dexium],,,,1518254,1,S,,[1086699],RxNorm,Branded Drug Comp
+19088971,systemic,dexamethasone,dexamethasone 0.25 MG [Decadron],,,,1518254,1,S,,[566574],RxNorm,Branded Drug Comp
+40233171,systemic,dexamethasone,dexamethasone 0.25 MG [Dexium],,,,1518254,1,S,,[1086699],RxNorm,Branded Drug Comp
 1518257,systemic,dexamethasone,dexamethasone 0.25 MG Oral Tablet,,,systemic,1518254,1,S,,[197576],RxNorm,Clinical Drug
 19029909,systemic,dexamethasone,dexamethasone 0.25 MG Oral Tablet [Decadron],,,systemic,1518254,1,S,,[205683],RxNorm,Branded Drug
 40233170,systemic,dexamethasone,dexamethasone 0.25 MG Oral Tablet [Dexium],,,systemic,1518254,1,S,,[1086701],RxNorm,Branded Drug
@@ -829,7 +829,7 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 1518605,systemic,dexamethasone,dexamethasone 0.5 MG,,,,1518254,1,S,,[315775],RxNorm,Clinical Drug Comp
 19103718,systemic,dexamethasone,dexamethasone 0.5 MG / indomethacin 25 MG Oral Capsule,,,systemic,1518254,1,S,,[411549],RxNorm,Clinical Drug
 1150862,systemic,dexamethasone,dexamethasone 0.5 MG / terfenadine 60 MG Oral Tablet,,,systemic,1518254,1,S,,[249731],RxNorm,Clinical Drug
-19116154,unclassified,dexamethasone,dexamethasone 0.5 MG [Decadron],,,,1518254,1,S,,[564044],RxNorm,Branded Drug Comp
+19116154,systemic,dexamethasone,dexamethasone 0.5 MG [Decadron],,,,1518254,1,S,,[564044],RxNorm,Branded Drug Comp
 1518258,systemic,dexamethasone,dexamethasone 0.5 MG Oral Tablet,,,systemic,1518254,1,S,,[197577],RxNorm,Clinical Drug
 19006962,systemic,dexamethasone,dexamethasone 0.5 MG Oral Tablet [Decadron],,,systemic,1518254,1,S,,[105392],RxNorm,Branded Drug
 19109493,systemic,dexamethasone,dexamethasone 0.5 MG/ML,,,,1518254,1,S,,[438889],RxNorm,Clinical Drug Comp
@@ -843,7 +843,7 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 40160930,systemic,dexamethasone,dexamethasone 0.7 MG Drug Implant,,,systemic,1518254,1,S,,[854177],RxNorm,Clinical Drug
 40160931,systemic,dexamethasone,dexamethasone 0.7 MG Drug Implant [Ozurdex],,,systemic,1518254,1,S,,[854181],RxNorm,Branded Drug
 1518715,unclassified,dexamethasone,dexamethasone 0.75 MG,,,,1518254,1,S,,[345816],RxNorm,Clinical Drug Comp
-19088976,unclassified,dexamethasone,dexamethasone 0.75 MG [Decadron],,,,1518254,1,S,,[575233],RxNorm,Branded Drug Comp
+19088976,systemic,dexamethasone,dexamethasone 0.75 MG [Decadron],,,,1518254,1,S,,[575233],RxNorm,Branded Drug Comp
 19095136,systemic,dexamethasone,dexamethasone 0.75 MG Oral Tablet,,,systemic,1518254,1,S,,[343033],RxNorm,Clinical Drug
 19095151,systemic,dexamethasone,dexamethasone 0.75 MG Oral Tablet [Decadron],,,systemic,1518254,1,S,,[343040],RxNorm,Branded Drug
 1518606,unclassified,dexamethasone,dexamethasone 1 MG,,,,1518254,1,S,,[315776],RxNorm,Clinical Drug Comp
@@ -903,7 +903,7 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 19029973,systemic,dexamethasone,dexamethasone 1 MG/ML Oral Solution [Dexamethasone Intensol],,,systemic,1518254,1,S,,[205702],RxNorm,Branded Drug
 19101700,other,dexamethasone,dexamethasone 1 MG/ML Topical Solution,,,other,1518254,1,S,,[388755],RxNorm,Clinical Drug
 1518607,unclassified,dexamethasone,dexamethasone 1.5 MG,,,,1518254,1,S,,[315777],RxNorm,Clinical Drug Comp
-19117914,unclassified,dexamethasone,dexamethasone 1.5 MG [Decadron],,,,1518254,1,S,,[566601],RxNorm,Branded Drug Comp
+19117914,systemic,dexamethasone,dexamethasone 1.5 MG [Decadron],,,,1518254,1,S,,[566601],RxNorm,Branded Drug Comp
 19018906,systemic,dexamethasone,dexamethasone 1.5 MG Oral Tablet,,,systemic,1518254,1,S,,[197580],RxNorm,Clinical Drug
 19030001,systemic,dexamethasone,dexamethasone 1.5 MG Oral Tablet [Decadron],,,systemic,1518254,1,S,,[205710],RxNorm,Branded Drug
 19097275,unclassified,dexamethasone,dexamethasone 10 MG,,,,1518254,1,S,,[350217],RxNorm,Clinical Drug Comp
@@ -946,7 +946,7 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 1518682,unclassified,dexamethasone,dexamethasone 3.2 MG/ML,,,,1518254,1,S,,[332982],RxNorm,Clinical Drug Comp
 1518525,systemic,dexamethasone,dexamethasone 3.2 MG/ML Injectable Suspension,,,systemic,1518254,1,S,,[247293],RxNorm,Clinical Drug
 1518608,unclassified,dexamethasone,dexamethasone 4 MG,,,,1518254,1,S,,[315778],RxNorm,Clinical Drug Comp
-19117916,unclassified,dexamethasone,dexamethasone 4 MG [Decadron],,,,1518254,1,S,,[566603],RxNorm,Branded Drug Comp
+19117916,systemic,dexamethasone,dexamethasone 4 MG [Decadron],,,,1518254,1,S,,[566603],RxNorm,Branded Drug Comp
 19117918,unclassified,dexamethasone,dexamethasone 4 MG [Hexadrol],,,,1518254,1,S,,[566605],RxNorm,Branded Drug Comp
 1518292,systemic,dexamethasone,dexamethasone 4 MG Oral Tablet,,,systemic,1518254,1,S,,[197582],RxNorm,Clinical Drug
 19030003,systemic,dexamethasone,dexamethasone 4 MG Oral Tablet [Decadron],,,systemic,1518254,1,S,,[205712],RxNorm,Branded Drug
@@ -959,7 +959,7 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 1518651,unclassified,dexamethasone,dexamethasone 5 MG/ML,,,,1518254,1,S,,[331791],RxNorm,Clinical Drug Comp
 19006963,systemic,dexamethasone,dexamethasone 5 MG/ML Injectable Solution,,,systemic,1518254,1,S,,[105394],RxNorm,Clinical Drug
 1518609,unclassified,dexamethasone,dexamethasone 6 MG,,,,1518254,1,S,,[315779],RxNorm,Clinical Drug Comp
-19117921,unclassified,dexamethasone,dexamethasone 6 MG [Decadron],,,,1518254,1,S,,[566608],RxNorm,Branded Drug Comp
+19117921,systemic,dexamethasone,dexamethasone 6 MG [Decadron],,,,1518254,1,S,,[566608],RxNorm,Branded Drug Comp
 1518293,systemic,dexamethasone,dexamethasone 6 MG Oral Tablet,,,systemic,1518254,1,S,,[197583],RxNorm,Clinical Drug
 19030008,systemic,dexamethasone,dexamethasone 6 MG Oral Tablet [Decadron],,,systemic,1518254,1,S,,[205717],RxNorm,Branded Drug
 19109490,unclassified,dexamethasone,dexamethasone 8 MG,,,,1518254,1,S,,[438885],RxNorm,Clinical Drug Comp
@@ -977,7 +977,7 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 43526418,unclassified,dexamethasone,dexamethasone acetate 8 MG/ML,,,,1518254,1,S,,[1374371],RxNorm,Clinical Drug Comp
 43526422,unclassified,dexamethasone,dexamethasone acetate 8 MG/ML [Dalalone],,,,1518254,1,S,,[1374409],RxNorm,Branded Drug Comp
 44816050,unclassified,dexamethasone,dexamethasone acetate 8 MG/ML [De-Sone LA],,,,1518254,1,S,,[1534398],RxNorm,Branded Drug Comp
-44815940,unclassified,dexamethasone,dexamethasone acetate 8 MG/ML [Decadron-LA],,,,1518254,1,S,,[1534288],RxNorm,Branded Drug Comp
+44815940,systemic,dexamethasone,dexamethasone acetate 8 MG/ML [Decadron-LA],,,,1518254,1,S,,[1534288],RxNorm,Branded Drug Comp
 44815983,unclassified,dexamethasone,dexamethasone acetate 8 MG/ML [Dexacort-LA],,,,1518254,1,S,,[1534331],RxNorm,Branded Drug Comp
 43526423,unclassified,dexamethasone,dexamethasone acetate 8 MG/ML [Dexasone],,,,1518254,1,S,,[1374386],RxNorm,Branded Drug Comp
 44815941,unclassified,dexamethasone,dexamethasone acetate 8 MG/ML [Robadex],,,,1518254,1,S,,[1534289],RxNorm,Branded Drug Comp
@@ -1823,14 +1823,14 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 40127397,other,hydrocortisone,chloroxylenol / hydrocortisone / pramoxine Topical Lotion [Cortane-B],,,other,975125,1,S,,[581877],RxNorm,Branded Drug Form
 36226027,other,hydrocortisone,chloroxylenol / hydrocortisone / pramoxine Topical Product,,,other,975125,1,C,,[1162464],RxNorm,Clinical Dose Group
 42800104,unclassified,hydrocortisone,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Cortane-B],20,20,,975125,1,S,,[1293875],RxNorm,Branded Drug Comp
-42800105,unclassified,hydrocortisone,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Cortic],20,20,,975125,1,S,,[1294243],RxNorm,Branded Drug Comp
+42800105,other,hydrocortisone,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Cortic],20,20,,975125,1,S,,[1294243],RxNorm,Branded Drug Comp
 42800106,other,hydrocortisone,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Exotic-HC],20,20,other,975125,1,S,,[1294245],RxNorm,Branded Drug Comp
 42800107,other,hydrocortisone,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Oticin HC Ear Drops],20,20,other,975125,1,S,,[1294247],RxNorm,Branded Drug Comp
-42800108,unclassified,hydrocortisone,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Otirx],20,20,,975125,1,S,,[1294363],RxNorm,Branded Drug Comp
-42800109,unclassified,hydrocortisone,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Otomax HC],20,20,,975125,1,S,,[1294254],RxNorm,Branded Drug Comp
+42800108,other,hydrocortisone,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Otirx],20,20,,975125,1,S,,[1294363],RxNorm,Branded Drug Comp
+42800109,other,hydrocortisone,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Otomax HC],20,20,,975125,1,S,,[1294254],RxNorm,Branded Drug Comp
 42800110,other,hydrocortisone,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Tri-Otic],20,20,other,975125,1,S,,[1294263],RxNorm,Branded Drug Comp
-42800111,unclassified,hydrocortisone,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Zotane HC],20,20,,975125,1,S,,[1294265],RxNorm,Branded Drug Comp
-42800112,unclassified,hydrocortisone,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Zoto-HC],20,20,,975125,1,S,,[1293892],RxNorm,Branded Drug Comp
+42800111,other,hydrocortisone,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Zotane HC],20,20,,975125,1,S,,[1294265],RxNorm,Branded Drug Comp
+42800112,other,hydrocortisone,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [Zoto-HC],20,20,,975125,1,S,,[1293892],RxNorm,Branded Drug Comp
 42800092,other,hydrocortisone,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML Otic Solution,,,other,975125,1,S,,[1293874],RxNorm,Clinical Drug
 42800093,other,hydrocortisone,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML Otic Solution [Cortane-B],,,other,975125,1,S,,[1293876],RxNorm,Branded Drug
 42800094,other,hydrocortisone,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML Otic Solution [Cortic],,,other,975125,1,S,,[1294244],RxNorm,Branded Drug
@@ -1843,15 +1843,15 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 42800101,other,hydrocortisone,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML Otic Solution [Zoto-HC],,,other,975125,1,S,,[1293895],RxNorm,Branded Drug
 42800102,other,hydrocortisone,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Lotion,,,other,975125,1,S,,[1293865],RxNorm,Clinical Drug
 42800103,other,hydrocortisone,chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Lotion [Cortane-B],,,other,975125,1,S,,[1293943],RxNorm,Branded Drug
-36030406,unclassified,hydrocortisone,Chlorpheniramine / Hydrocortisone / Pheniramine / Pyrilamine,,,,975125,1,S,,[689410],RxNorm,Multiple Ingredients
+36030406,other,hydrocortisone,Chlorpheniramine / Hydrocortisone / Pheniramine / Pyrilamine,,,,975125,1,S,,[689410],RxNorm,Multiple Ingredients
 40022019,other,hydrocortisone,chlorpheniramine / hydrocortisone / pheniramine / pyrilamine Topical Lotion,,,other,975125,1,S,,[486565],RxNorm,Clinical Drug Form
 36211968,other,hydrocortisone,chlorpheniramine / hydrocortisone / pheniramine / pyrilamine Topical Product,,,other,975125,1,C,,[1154773],RxNorm,Clinical Dose Group
-36027030,unclassified,hydrocortisone,Chlorpheniramine / Hydrocortisone / Pyrilamine,,,,975125,1,S,,[1006891],RxNorm,Multiple Ingredients
+36027030,other,hydrocortisone,Chlorpheniramine / Hydrocortisone / Pyrilamine,,,,975125,1,S,,[1006891],RxNorm,Multiple Ingredients
 40022020,other,hydrocortisone,chlorpheniramine / hydrocortisone / pyrilamine Topical Lotion,,,other,975125,1,S,,[379407],RxNorm,Clinical Drug Form
 36211969,other,hydrocortisone,chlorpheniramine / hydrocortisone / pyrilamine Topical Product,,,other,975125,1,C,,[1154774],RxNorm,Clinical Dose Group
 19075877,other,hydrocortisone,chlorpheniramine 0.6 MG/ML / hydrocortisone 5 MG/ML / pheniramine 2 MG/ML / pyrilamine 2 MG/ML Topical Lotion,,,other,975125,1,S,,[309557],RxNorm,Clinical Drug
 19075876,other,hydrocortisone,chlorpheniramine 0.6 MG/ML / hydrocortisone 5 MG/ML / pyrilamine 4.4 MG/ML Topical Lotion,,,other,975125,1,S,,[309556],RxNorm,Clinical Drug
-36029283,unclassified,hydrocortisone,Chlorquinaldol / Hydrocortisone,,,,975125,1,S,,[106990],RxNorm,Multiple Ingredients
+36029283,other,hydrocortisone,Chlorquinaldol / Hydrocortisone,,,,975125,1,S,,[106990],RxNorm,Multiple Ingredients
 40030488,other,hydrocortisone,chlorquinaldol / hydrocortisone Topical Cream,,,other,975125,1,S,,[377647],RxNorm,Clinical Drug Form
 40030490,other,hydrocortisone,chlorquinaldol / hydrocortisone Topical Ointment,,,other,975125,1,S,,[376582],RxNorm,Clinical Drug Form
 36214828,other,hydrocortisone,chlorquinaldol / hydrocortisone Topical Product,,,other,975125,1,C,,[1155478],RxNorm,Clinical Dose Group
@@ -1903,7 +1903,7 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 42799480,other,hydrocortisone,clioquinol 3 MG/ML / hydrocortisone 5 MG/ML / pramoxine hydrochloride 1 MG/ML Topical Cream,,,other,975125,1,S,,[1293997],RxNorm,Clinical Drug
 19075537,other,hydrocortisone,clioquinol 30 MG/ML / coal tar 50 MG/ML / hydrocortisone 5 MG/ML Topical Cream,,,other,975125,1,S,,[309345],RxNorm,Clinical Drug
 19104916,other,hydrocortisone,clioquinol 30 MG/ML / hydrocortisone 1 MG/ML Topical Cream,,,other,975125,1,S,,[417214],RxNorm,Clinical Drug
-42799483,unclassified,hydrocortisone,clioquinol 30 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [1 Plus 1 F],20,20,,975125,1,S,,[1293641],RxNorm,Branded Drug Comp
+42799483,other,hydrocortisone,clioquinol 30 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML [1 Plus 1 F],20,20,,975125,1,S,,[1293641],RxNorm,Branded Drug Comp
 42799481,other,hydrocortisone,clioquinol 30 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Cream,,,other,975125,1,S,,[1293640],RxNorm,Clinical Drug
 42799482,other,hydrocortisone,clioquinol 30 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Cream [1 Plus 1 F],,,other,975125,1,S,,[1293642],RxNorm,Branded Drug
 42799484,other,hydrocortisone,clioquinol 30 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 5 MG/ML Topical Cream,,,other,975125,1,S,,[1294002],RxNorm,Clinical Drug
@@ -2592,7 +2592,7 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 44784836,unclassified,hydrocortisone,hydrocortisone 10 MG/ML [Dermacool HC],20,20,,975125,1,S,,[1483215],RxNorm,Branded Drug Comp
 19043320,systemic,hydrocortisone,hydrocortisone 10 MG/ML [Dermacort],20,20,,975125,1,S,,[567198],RxNorm,Branded Drug Comp
 19118103,systemic,hydrocortisone,hydrocortisone 10 MG/ML [Dermol HC],20,20,,975125,1,S,,[567200],RxNorm,Branded Drug Comp
-19061358,unclassified,hydrocortisone,hydrocortisone 10 MG/ML [Dermtex HC],20,20,,975125,1,S,,[576137],RxNorm,Branded Drug Comp
+19061358,other,hydrocortisone,hydrocortisone 10 MG/ML [Dermtex HC],20,20,,975125,1,S,,[576137],RxNorm,Branded Drug Comp
 19117813,systemic,hydrocortisone,hydrocortisone 10 MG/ML [Efcortelan],20,20,,975125,1,S,,[566208],RxNorm,Branded Drug Comp
 19067155,systemic,hydrocortisone,hydrocortisone 10 MG/ML [Gly-Cort],20,20,,975125,1,S,,[567172],RxNorm,Branded Drug Comp
 19126788,unclassified,hydrocortisone,hydrocortisone 10 MG/ML [Gynecort],20,20,,975125,1,S,,[707791],RxNorm,Branded Drug Comp
@@ -2620,8 +2620,8 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 19079489,unclassified,hydrocortisone,hydrocortisone 10 MG/ML [Rederm],20,20,,975125,1,S,,[543683],RxNorm,Branded Drug Comp
 44784837,unclassified,hydrocortisone,hydrocortisone 10 MG/ML [Resicort],20,20,,975125,1,S,,[1483220],RxNorm,Branded Drug Comp
 19080565,unclassified,hydrocortisone,hydrocortisone 10 MG/ML [Sarnol-HC],20,20,,975125,1,S,,[567177],RxNorm,Branded Drug Comp
-19080569,unclassified,hydrocortisone,hydrocortisone 10 MG/ML [Scalp-Aid],20,20,,975125,1,S,,[567178],RxNorm,Branded Drug Comp
-19080591,unclassified,hydrocortisone,hydrocortisone 10 MG/ML [Scalp-Cort],20,20,,975125,1,S,,[567179],RxNorm,Branded Drug Comp
+19080569,other,hydrocortisone,hydrocortisone 10 MG/ML [Scalp-Aid],20,20,,975125,1,S,,[567178],RxNorm,Branded Drug Comp
+19080591,other,hydrocortisone,hydrocortisone 10 MG/ML [Scalp-Cort],20,20,,975125,1,S,,[567179],RxNorm,Branded Drug Comp
 40231136,other,hydrocortisone,hydrocortisone 10 MG/ML [Scalpicin Itch Relief],20,20,other,975125,1,S,,[1039271],RxNorm,Branded Drug Comp
 46233830,other,hydrocortisone,hydrocortisone 10 MG/ML [Selsun Blue Scalp Itch],20,20,other,975125,1,S,,[1650985],RxNorm,Branded Drug Comp
 19118099,systemic,hydrocortisone,hydrocortisone 10 MG/ML [Texacort],20,20,,975125,1,S,,[567180],RxNorm,Branded Drug Comp
@@ -2818,14 +2818,14 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 19122088,other,hydrocortisone,hydrocortisone 5 MG/ML / lidocaine 30 MG/ML [Rectacreame],20,20,other,975125,1,S,,[584469],RxNorm,Branded Drug Comp
 19078259,other,hydrocortisone,hydrocortisone 5 MG/ML / lidocaine 30 MG/ML Topical Cream,,,other,975125,1,S,,[310864],RxNorm,Clinical Drug
 19122089,other,hydrocortisone,hydrocortisone 5 MG/ML / lidocaine 30 MG/ML Topical Cream [Rectacreame],,,other,975125,1,S,,[584471],RxNorm,Branded Drug
-40223870,unclassified,hydrocortisone,hydrocortisone 5 MG/ML / miconazole nitrate 20 MG/ML [Fungoid and HC],20,20,,975125,1,S,,[998556],RxNorm,Branded Drug Comp
+40223870,other,hydrocortisone,hydrocortisone 5 MG/ML / miconazole nitrate 20 MG/ML [Fungoid and HC],20,20,,975125,1,S,,[998556],RxNorm,Branded Drug Comp
 40223868,other,hydrocortisone,hydrocortisone 5 MG/ML / miconazole nitrate 20 MG/ML Topical Cream,,,other,975125,1,S,,[998554],RxNorm,Clinical Drug
 40223869,other,hydrocortisone,hydrocortisone 5 MG/ML / miconazole nitrate 20 MG/ML Topical Cream [Fungoid and HC],,,other,975125,1,S,,[998558],RxNorm,Branded Drug
 19132822,other,hydrocortisone,hydrocortisone 5 MG/ML / neomycin 5 MG/ML / polymyxin B 10000 UNT/ML Topical Cream,,,other,975125,1,S,,[809813],RxNorm,Clinical Drug
 19078260,other,hydrocortisone,hydrocortisone 5 MG/ML / neomycin 5 MG/ML Ophthalmic Suspension,,,other,975125,1,S,,[310865],RxNorm,Clinical Drug
 19078281,other,hydrocortisone,hydrocortisone 5 MG/ML / neomycin 5 MG/ML Topical Cream,,,other,975125,1,S,,[310866],RxNorm,Clinical Drug
 19103264,other,hydrocortisone,hydrocortisone 5 MG/ML / neomycin 5 MG/ML Topical Spray,,,other,975125,1,S,,[409513],RxNorm,Clinical Drug
-19116457,unclassified,hydrocortisone,hydrocortisone 5 MG/ML / nystatin 100000 UNT/ML [Nystaform-HC],20,20,,975125,1,S,,[564403],RxNorm,Branded Drug Comp
+19116457,other,hydrocortisone,hydrocortisone 5 MG/ML / nystatin 100000 UNT/ML [Nystaform-HC],20,20,,975125,1,S,,[564403],RxNorm,Branded Drug Comp
 19115112,other,hydrocortisone,hydrocortisone 5 MG/ML / nystatin 100000 UNT/ML Topical Cream,,,other,975125,1,S,,[562087],RxNorm,Clinical Drug
 19009426,other,hydrocortisone,hydrocortisone 5 MG/ML / nystatin 100000 UNT/ML Topical Cream [Nystaform-HC],,,other,975125,1,S,,[106975],RxNorm,Branded Drug
 19076097,other,hydrocortisone,hydrocortisone 5 MG/ML / polymyxin B 10000 UNT/ML [Otobiotic],20,20,other,975125,1,S,,[567378],RxNorm,Branded Drug Comp
@@ -3472,8 +3472,8 @@ concept_id,steroid_class,ingredient_names,concept_name,drug_count,patient_count,
 36228355,other,hydrocortisone,Ocu-Cort Ophthalmic Product,,,other,975125,1,C,,[1180539],RxNorm,Branded Dose Group
 36229969,other,hydrocortisone,Ocutricin HC Ophthalmic Product,,,other,975125,1,C,,[1181142],RxNorm,Branded Dose Group
 36238550,other,hydrocortisone,Ophthocort Ophthalmic Product,,,other,975125,1,C,,[1182307],RxNorm,Branded Dose Group
-36245200,systemic,hydrocortisone,Orabase HCA Oral Paste Product,20,20,systemic,975125,1,C,,[1296685],RxNorm,Branded Dose Group
-36239748,systemic,hydrocortisone,Orabase HCA Oral Product,20,20,systemic,975125,1,C,,[1182885],RxNorm,Branded Dose Group
+36245200,other,hydrocortisone,Orabase HCA Oral Paste Product,20,20,systemic,975125,1,C,,[1296685],RxNorm,Branded Dose Group
+36239748,other,hydrocortisone,Orabase HCA Oral Product,20,20,systemic,975125,1,C,,[1182885],RxNorm,Branded Dose Group
 36239749,other,hydrocortisone,Orabase HCA Paste Product,20,20,other,975125,1,C,,[1182886],RxNorm,Branded Dose Group
 36241881,other,hydrocortisone,Oti-sone Otic Product,,,other,975125,1,C,,[1185159],RxNorm,Branded Dose Group
 36242134,other,hydrocortisone,Otic care Otic Product,,,other,975125,1,C,,[1185163],RxNorm,Branded Dose Group
