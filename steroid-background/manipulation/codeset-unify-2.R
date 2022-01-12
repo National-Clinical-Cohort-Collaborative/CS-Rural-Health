@@ -151,6 +151,8 @@ sql_retrieve <-
       ,c.vocabulary_id
       ,c.concept_class_id
       ,c.standard_concept
+      ,c.invalid_reason
+      ,c.concept_code
     FROM collapsed co
       inner join concept c on co.concept_id = c.concept_id
     ORDER BY ingredient_names, c.concept_name
@@ -190,7 +192,7 @@ col_types_classified <- readr::cols_only(
 # OuhscMunge::readr_spec_aligned(config$path_concept_counts)
 col_types_counts <- readr::cols_only(
   `concept_id`        = readr::col_integer(),
-  `condition_count`   = readr::col_integer(),
+  `drug_count`        = readr::col_integer(),
   `patient_count`     = readr::col_integer()
 )
 
@@ -231,25 +233,43 @@ ds_missing_from_omop <-
   dplyr::filter(vocabulary_id != "RxNorm Extension") |>
   dplyr::anti_join(ds_omop, by = "concept_id")
 
+if (200L < nrow(ds_missing_from_omop)) {
+  stop(nrow(ds_missing_from_omop), " concept records are missing from the current pull, which is above the (arbitrary) acceptable threshold of ", 200, ".")
+}
 
-stop()
+ds_classified <-
+  ds_classified |>
+  dplyr::select(
+    concept_id,
+    steroid_class,
+  )
+
+ds_concept_counts <-
+  ds_concept_counts |>
+  dplyr::select(
+    concept_id,
+    drug_count,
+    patient_count,
+  )
 
 ds <-
   ds_omop |>
+  tibble::as_tibble() |>
   dplyr::left_join(ds_classified, by = "concept_id") |>
   dplyr::left_join(ds_concept_counts, by = "concept_id") |>
   dplyr::mutate(
     standard_concept  = dplyr::coalesce(standard_concept, "S"),
-    steroid_class = dplyr::case_when(
-      oral_dexamethasone                            ~ "systemic",
-      oral_hydrocortisone                           ~ "systemic",
-      systemic_hydrocortisone                       ~ "systemic",
-      systemic_prednisolone                         ~ "systemic",
-      systemic_prednisone_and_methyprednisolone     ~ "systemic",
-      inhaled_corticosteroid                        ~ "inhaled",
-      nasal_spray                                   ~ "nasal",
-      TRUE                                          ~ "unclassified"
-    ),
+    steroid_class     = dplyr::coalesce(steroid_class   , "unclassified"),
+    # steroid_class = dplyr::case_when(
+    #   oral_dexamethasone                            ~ "systemic",
+    #   oral_hydrocortisone                           ~ "systemic",
+    #   systemic_hydrocortisone                       ~ "systemic",
+    #   systemic_prednisolone                         ~ "systemic",
+    #   systemic_prednisone_and_methyprednisolone     ~ "systemic",
+    #   inhaled_corticosteroid                        ~ "inhaled",
+    #   nasal_spray                                   ~ "nasal",
+    #   TRUE                                          ~ "unclassified"
+    # ),
   ) |>
   dplyr::select(
     concept_id,
@@ -259,11 +279,11 @@ ds <-
   ) |>
   dplyr::arrange(concept_id)
 
-
 # ---- output-concepts-for-sql-where-clause ------------------------------------
-ds |>
+ds_omop |>
   # dplyr::filter(!is_excluded) |>
   dplyr::pull(concept_id) |>
+  sort() |>
   paste0(collapse = ", ", prefix = "") |>
   stringi::stri_wrap(
     initial = "WHERE concept_id in (\n  ",
@@ -278,28 +298,25 @@ ds |>
     sep = "\n"
   )
 
-
-
-
 # ---- verify-values -----------------------------------------------------------
 # OuhscMunge::verify_value_headstart(ds)
 checkmate::assert_integer(  ds$concept_id                                , any.missing=F , lower=1, upper=2^31 , unique=T)
 checkmate::assert_character(ds$steroid_class                             , any.missing=F , pattern="^systemic|inhaled|nasal|unclassified$")
 checkmate::assert_character(ds$concept_name                              , any.missing=F , pattern="^.{5,255}$"         )
-checkmate::assert_logical(  ds$nasal_spray                               , any.missing=T                                )
-checkmate::assert_logical(  ds$inhaled_corticosteroid                    , any.missing=T                                )
-checkmate::assert_logical(  ds$oral_dexamethasone                        , any.missing=T                                )
-checkmate::assert_logical(  ds$oral_hydrocortisone                       , any.missing=T                                )
-checkmate::assert_logical(  ds$systemic_hydrocortisone                   , any.missing=T                                )
-checkmate::assert_logical(  ds$systemic_prednisolone                     , any.missing=T                                )
-checkmate::assert_logical(  ds$systemic_prednisone_and_methyprednisolone , any.missing=T                                )
-checkmate::assert_integer(  ds$membership_count                          , any.missing=F , lower=0, upper=2             )
+# checkmate::assert_logical(  ds$nasal_spray                               , any.missing=T                                )
+# checkmate::assert_logical(  ds$inhaled_corticosteroid                    , any.missing=T                                )
+# checkmate::assert_logical(  ds$oral_dexamethasone                        , any.missing=T                                )
+# checkmate::assert_logical(  ds$oral_hydrocortisone                       , any.missing=T                                )
+# checkmate::assert_logical(  ds$systemic_hydrocortisone                   , any.missing=T                                )
+# checkmate::assert_logical(  ds$systemic_prednisolone                     , any.missing=T                                )
+# checkmate::assert_logical(  ds$systemic_prednisone_and_methyprednisolone , any.missing=T                                )
+# checkmate::assert_integer(  ds$membership_count                          , any.missing=F , lower=0, upper=2             )
 checkmate::assert_character(ds$standard_concept                          , any.missing=F , pattern="^C|S$"         )
 checkmate::assert_character(ds$invalid_reason                            , all.missing=T)
-checkmate::assert_character(ds$concept_code                              , any.missing=F , pattern="^.{4,11}$"          , unique=T)
-checkmate::assert_character(ds$vocabulary_id                             , any.missing=F , pattern="^(?:ATC|RxNorm(?: Extension)?)$")
-checkmate::assert_character(ds$concept_class_id                          , any.missing=F , pattern="^.{5,50}$"          )
-checkmate::assert_integer(  ds$condition_count                           , any.missing=T , lower=20, upper=9999999      )
+checkmate::assert_character(ds$concept_code                              , any.missing=F , pattern="^.{4,17}$"          , unique=T)
+checkmate::assert_character(ds$vocabulary_id                             , any.missing=F , pattern="^(?:ATC|RxNorm(?: Extension)?|GPI|HCPCS|NDC|SNOMED)$")
+checkmate::assert_character(ds$concept_class_id                          , any.missing=F , pattern="^.{3,50}$"          )
+checkmate::assert_integer(  ds$drug_count                                , any.missing=T , lower=20, upper=9999999      )
 checkmate::assert_integer(  ds$patient_count                             , any.missing=T , lower=20, upper=999999       )
 
 # View(ds[is.na(ds$standard_concept), ])
