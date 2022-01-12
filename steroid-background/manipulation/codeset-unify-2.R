@@ -263,7 +263,8 @@ ds <-
   dplyr::left_join(ds_concept_counts, by = "concept_id") |>
   dplyr::mutate(
     standard_concept  = dplyr::coalesce(standard_concept, "S"),
-    steroid_class     = dplyr::coalesce(steroid_class   , "unclassified"),
+    steroid_class     = dplyr::na_if(steroid_class, "unclassified"),
+    steroid_class     = dplyr::coalesce(steroid_class, guess, "unclassified"),
     # steroid_class = dplyr::case_when(
     #   oral_dexamethasone                            ~ "systemic",
     #   oral_hydrocortisone                           ~ "systemic",
@@ -283,7 +284,7 @@ ds <-
   ) |>
   dplyr::arrange(ingredient_names, concept_name)
 
-table(ds$steroid_class, useNA= "always")
+table(ds$steroid_class, useNA = "always")
 
 # ---- output-concepts-for-sql-where-clause ------------------------------------
 ds_omop |>
@@ -307,7 +308,7 @@ ds_omop |>
 # ---- verify-values -----------------------------------------------------------
 # OuhscMunge::verify_value_headstart(ds)
 checkmate::assert_integer(  ds$concept_id                                , any.missing=F , lower=1, upper=2^31 , unique=T)
-checkmate::assert_character(ds$steroid_class                             , any.missing=F , pattern="^systemic|inhaled|nasal|unclassified$")
+checkmate::assert_character(ds$steroid_class                             , any.missing=F , pattern="^systemic|inhaled|nasal|other|unclassified$")
 checkmate::assert_character(ds$concept_name                              , any.missing=F , pattern="^.{5,255}$"         )
 checkmate::assert_character(ds$guess                                     , any.missing=T , pattern="^.{5,8}$"           )
 checkmate::assert_character(ds$ingredient_concept_ids                    , any.missing=F , pattern="^.{6,15}$"          )
