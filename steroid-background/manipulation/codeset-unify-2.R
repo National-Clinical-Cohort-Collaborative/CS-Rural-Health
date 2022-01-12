@@ -265,6 +265,7 @@ ds <-
     standard_concept  = dplyr::coalesce(standard_concept, "S"),
     steroid_class     = dplyr::na_if(steroid_class, "unclassified"),
     steroid_class     = dplyr::coalesce(steroid_class, guess, "unclassified"),
+    concept_code      = paste0("[", concept_code, "]"),
     # steroid_class = dplyr::case_when(
     #   oral_dexamethasone                            ~ "systemic",
     #   oral_hydrocortisone                           ~ "systemic",
@@ -324,7 +325,7 @@ checkmate::assert_integer(  ds$ingredient_count                          , any.m
 # checkmate::assert_integer(  ds$membership_count                          , any.missing=F , lower=0, upper=2             )
 checkmate::assert_character(ds$standard_concept                          , any.missing=F , pattern="^C|S$"         )
 checkmate::assert_character(ds$invalid_reason                            , all.missing=T)
-checkmate::assert_character(ds$concept_code                              , any.missing=F , pattern="^.{4,17}$"          , unique=T)
+checkmate::assert_character(ds$concept_code                              , any.missing=F , pattern="^\\[.{4,17}\\]$"          , unique=T)
 checkmate::assert_character(ds$vocabulary_id                             , any.missing=F , pattern="^(?:ATC|RxNorm(?: Extension)?|GPI|HCPCS|NDC|SNOMED)$")
 checkmate::assert_character(ds$concept_class_id                          , any.missing=F , pattern="^.{3,50}$"          )
 checkmate::assert_integer(  ds$drug_count                                , any.missing=T , lower=20, upper=9999999      )
