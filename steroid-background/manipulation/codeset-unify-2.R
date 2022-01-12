@@ -303,6 +303,10 @@ ds_omop |>
 checkmate::assert_integer(  ds$concept_id                                , any.missing=F , lower=1, upper=2^31 , unique=T)
 checkmate::assert_character(ds$steroid_class                             , any.missing=F , pattern="^systemic|inhaled|nasal|unclassified$")
 checkmate::assert_character(ds$concept_name                              , any.missing=F , pattern="^.{5,255}$"         )
+checkmate::assert_character(ds$guess                                     , any.missing=T , pattern="^.{5,8}$"           )
+checkmate::assert_character(ds$ingredient_concept_ids                    , any.missing=F , pattern="^.{6,15}$"          )
+checkmate::assert_character(ds$ingredient_names                          , any.missing=F , pattern="^.{9,39}$"          )
+checkmate::assert_integer(  ds$ingredient_count                          , any.missing=F , lower=1, upper=2             )
 # checkmate::assert_logical(  ds$nasal_spray                               , any.missing=T                                )
 # checkmate::assert_logical(  ds$inhaled_corticosteroid                    , any.missing=T                                )
 # checkmate::assert_logical(  ds$oral_dexamethasone                        , any.missing=T                                )
@@ -335,17 +339,21 @@ ds_slim <-
   dplyr::select(
     concept_id,
     steroid_class,
+    ingredient_names,
     concept_name,
-    condition_count,
+    drug_count,
     patient_count,
-    nasal_spray,
-    inhaled_corticosteroid,
-    oral_dexamethasone,
-    oral_hydrocortisone,
-    systemic_hydrocortisone,
-    systemic_prednisolone,
-    systemic_prednisone_and_methyprednisolone,
-    membership_count,
+    guess,
+    ingredient_concept_ids,
+    ingredient_count,
+    # nasal_spray,
+    # inhaled_corticosteroid,
+    # oral_dexamethasone,
+    # oral_hydrocortisone,
+    # systemic_hydrocortisone,
+    # systemic_prednisolone,
+    # systemic_prednisone_and_methyprednisolone,
+    # membership_count,
     standard_concept,
     invalid_reason,
     concept_code,
