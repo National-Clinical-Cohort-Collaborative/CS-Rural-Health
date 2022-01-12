@@ -170,23 +170,23 @@ sql_retrieve <-
 # OuhscMunge::readr_spec_aligned(config$path_steroid_classification)
 col_types_classified <- readr::cols_only(
   `concept_id`                                  = readr::col_integer(),
-  `steroid_class`                               = readr::col_character(),
-  `concept_name`                                = readr::col_character(),
-  `condition_count`                             = readr::col_integer(),
-  `patient_count`                               = readr::col_integer(),
-  `nasal_spray`                                 = readr::col_logical(),
-  `inhaled_corticosteroid`                      = readr::col_logical(),
-  `oral_dexamethasone`                          = readr::col_logical(),
-  `oral_hydrocortisone`                         = readr::col_logical(),
-  `systemic_hydrocortisone`                     = readr::col_logical(),
-  `systemic_prednisolone`                       = readr::col_logical(),
-  `systemic_prednisone_and_methyprednisolone`   = readr::col_logical(),
-  `membership_count`                            = readr::col_integer(),
-  `standard_concept`                            = readr::col_character(),
-  `invalid_reason`                              = readr::col_character(),
-  `concept_code`                                = readr::col_character(),
-  `vocabulary_id`                               = readr::col_character(),
-  `concept_class_id`                            = readr::col_character()
+  `steroid_class`                               = readr::col_character()
+  # `concept_name`                                = readr::col_character()
+  # `condition_count`                             = readr::col_integer(),
+  # `patient_count`                               = readr::col_integer(),
+  # `nasal_spray`                                 = readr::col_logical(),
+  # `inhaled_corticosteroid`                      = readr::col_logical(),
+  # `oral_dexamethasone`                          = readr::col_logical(),
+  # `oral_hydrocortisone`                         = readr::col_logical(),
+  # `systemic_hydrocortisone`                     = readr::col_logical(),
+  # `systemic_prednisolone`                       = readr::col_logical(),
+  # `systemic_prednisone_and_methyprednisolone`   = readr::col_logical(),
+  # `membership_count`                            = readr::col_integer(),
+  # `standard_concept`                            = readr::col_character(),
+  # `invalid_reason`                              = readr::col_character(),
+  # `concept_code`                                = readr::col_character(),
+  # `vocabulary_id`                               = readr::col_character(),
+  # `concept_class_id`                            = readr::col_character()
 )
 
 # OuhscMunge::readr_spec_aligned(config$path_concept_counts)
@@ -228,13 +228,17 @@ checkmate::assert_integer(ds_omop$concept_id, any.missing = FALSE, unique = TRUE
 #   dplyr::arrange(concept_id) |>
 #   View()
 
+ds_omop <-
+  ds_omop |>
+  tibble::as_tibble()
+
 ds_missing_from_omop <-
   ds_classified |>
-  dplyr::filter(vocabulary_id != "RxNorm Extension") |>
-  dplyr::anti_join(ds_omop, by = "concept_id")
+  dplyr::anti_join(ds_omop, by = "concept_id")# |>
+  # dplyr::filter(vocabulary_id != "RxNorm Extension")
 
-if (200L < nrow(ds_missing_from_omop)) {
-  stop(nrow(ds_missing_from_omop), " concept records are missing from the current pull, which is above the (arbitrary) acceptable threshold of ", 200, ".")
+if (0L < nrow(ds_missing_from_omop)) {
+  stop(nrow(ds_missing_from_omop), " concept records are missing from the current pull, which is above the (arbitrary) acceptable threshold of 0.")
 }
 
 ds_classified <-
@@ -277,7 +281,9 @@ ds <-
     concept_name,
     tidyselect::everything()
   ) |>
-  dplyr::arrange(concept_id)
+  dplyr::arrange(ingredient_names, concept_name)
+
+table(ds$steroid_class, useNA= "always")
 
 # ---- output-concepts-for-sql-where-clause ------------------------------------
 ds_omop |>
