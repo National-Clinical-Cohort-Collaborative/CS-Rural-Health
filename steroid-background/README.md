@@ -11,7 +11,7 @@ Resources
 ------------------
 
 * "CTR N3C" Google Drive: `Manuscripts/steroid-background`
-* N3C Enclave [RP-504BA5](https://unite.nih.gov/workspace/compass/view/ri.compass.main.folder.f90211ae-6dc2-4eba-b3ae-919cc78a9aaf) *COVID-19 Treatements Associated with Lower Mortality*: `projects/steroid-background`
+* N3C Enclave [RP-504BA5](https://unite.nih.gov/workspace/compass/view/ri.compass.main.folder.f90211ae-6dc2-4eba-b3ae-919cc78a9aaf) *COVID-19 Treatements Associated with Lower Mortality*: [`projects/steroid-background`](https://unite.nih.gov/workspace/compass/view/ri.compass.main.folder.4d227459-f9bb-4ea2-b4b3-ef437369665e)
 
 Methods Used
 -------------------
