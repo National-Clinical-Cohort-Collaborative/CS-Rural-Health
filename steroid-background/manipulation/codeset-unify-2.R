@@ -372,4 +372,8 @@ ds_slim
 
 # ---- save-to-disk ------------------------------------------------------------
 # If there's no PHI, a rectangular CSV is usually adequate, and it's portable to other machines and software.
-readr::write_csv(ds_slim, config$path_steroid_classification)
+readr::write_csv(
+  x     = ds_slim,
+  file  = config$path_steroid_classification,
+  na    = ""
+)
