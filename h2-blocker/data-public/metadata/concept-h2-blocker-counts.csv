@@ -1,0 +1,542 @@
+﻿concept_id,count_record,count_patient,concept_name,domain_id,vocabulary_id,standard_concept,concept_code
+19010745,209,70,cimetidine 800 MG Oral Tablet [Acitak 800],Drug,RxNorm,S,108917
+19021074,91417,23524,famotidine 10 MG Oral Tablet,Drug,RxNorm,S,199047
+35603521,20,20,calcium carbonate 800 MG / famotidine 10 MG / magnesium hydroxide 165 MG Chewable Tablet [Duo Fusion],Drug,RxNorm,S,1744398
+36228772,0,0,Algitec Oral Liquid Product,Drug,RxNorm,C,1175515
+45101543,0,0,RANITIDINE HCL POWDER,Drug,NDC,,38779053605
+45135445,0,0,RANITIDINE HCL POWDER,Drug,NDC,,38779053608
+45958073,0,0,Nizatidine,Observation,SNOMED,,3572111000001100
+4170594,0,0,Calcium carbonate- and famotidine- and magnesium hydroxide-containing product,Drug,SNOMED,,418223003
+19115760,0,0,cimetidine 200 MG [Peptimax 200],Drug,RxNorm,S,563501
+44818393,0,0,cimetidine 400 MG Effervescent Oral Tablet,Drug,RxNorm,S,1537223
+45103521,0,0,RANITIDINE HCL POWDER,Drug,NDC,,51552062007
+961047,625372,61762,ranitidine,Drug,RxNorm,S,9143
+997314,0,0,cimetidine 600 MG Oral Tablet,Drug,RxNorm,S,245354
+19120797,0,0,calcium carbonate 800 MG / famotidine 10 MG / magnesium hydroxide 165 MG [Pepcid Complete],Drug,RxNorm,S,575076
+36221702,0,0,ranitidine Oral Product,Drug,RxNorm,C,1164813
+36244059,0,0,ranitidine Disintegrating Oral Product,Drug,RxNorm,C,1294742
+997300,0,0,cimetidine 150 MG/ML Injectable Solution [Tagamet],Drug,RxNorm,S,212741
+19022758,0,0,cimetidine 60 MG/ML [Tagamet],Drug,RxNorm,S,572879
+19128546,0,0,cimetidine 40 MG/ML Oral Solution [Tagamet],Drug,RxNorm,S,755108
+36218004,0,0,calcium carbonate / famotidine / magnesium hydroxide Oral Product,Drug,RxNorm,C,1153291
+36225019,0,0,nizatidine Injectable Product,Drug,RxNorm,C,1159835
+40036964,20,20,famotidine Oral Suspension,Drug,RxNorm,S,372139
+19019696,36819,14514,ranitidine 150 MG Oral Capsule,Drug,RxNorm,S,198190
+19117205,0,0,ranitidine 150 MG [Zaedoc],Drug,RxNorm,S,565415
+40166935,0,0,calcium carbonate 800 MG / famotidine 10 MG / magnesium hydroxide 165 MG [Tums Dual Action],Drug,RxNorm,S,867495
+997355,0,0,cimetidine 150 MG/ML,Drug,RxNorm,S,323943
+36226133,0,0,famotidine Oral Liquid Product,Drug,RxNorm,C,1159020
+40019691,0,0,calcium carbonate / famotidine / magnesium hydroxide Chewable Tablet [Pepcid Complete],Drug,RxNorm,S,369738
+997374,0,0,cimetidine 10 MG/ML,Drug,RxNorm,S,331557
+19003289,0,0,cimetidine 200 MG Oral Tablet [Ultec],Drug,RxNorm,S,104083
+19107357,0,0,cimetidine 350 MG Extended Release Oral Tablet,Drug,RxNorm,S,431780
+19107936,0,0,ranitidine 150 MG Delayed Release Oral Tablet,Drug,RxNorm,S,433842
+36226496,0,0,domperidone / ranitidine Pill,Drug,RxNorm,C,1160208
+36244523,0,0,cimetidine Chewable Product,Drug,RxNorm,C,1294943
+36244896,0,0,Dyspamet Chewable Product,Drug,RxNorm,C,1296973
+40027999,0,0,cimetidine Oral Tablet [Tagamet 100],Drug,RxNorm,S,381020
+19022752,0,0,cimetidine 200 MG [Tagamet],Drug,RxNorm,S,563491
+19033716,121498,13103,famotidine 8 MG/ML Oral Suspension [Pepcid],Drug,RxNorm,S,206873
+19038622,0,0,famotidine 8 MG/ML [Pepcid],Drug,RxNorm,S,567675
+19063669,0,0,cimetidine 40 MG/ML Oral Suspension,Drug,RxNorm,S,250787
+19115756,0,0,cimetidine 200 MG [Galenamet],Drug,RxNorm,S,563497
+19116825,0,0,ranitidine 400 MG [Pylorid],Drug,RxNorm,S,564918
+36231074,0,0,Axid Injectable Product,Drug,RxNorm,C,1176300
+36241387,0,0,Zinga Oral Product,Drug,RxNorm,C,1187647
+36249222,0,0,Duo Fusion Chewable Product,Drug,RxNorm,C,1744397
+1718659,0,0,ranitidine 25 MG/ML Injection [Zantac],Drug,RxNorm,S,1859556
+36244195,0,0,calcium carbonate / famotidine / magnesium hydroxide Chewable Product,Drug,RxNorm,C,1294788
+40036966,0,0,famotidine Oral Tablet,Drug,RxNorm,S,372140
+19021797,20,20,nizatidine 75 MG Oral Tablet,Drug,RxNorm,S,199420
+19075346,0,0,cimetidine 0.9 MG/ML Injectable Solution,Drug,RxNorm,S,309294
+19100351,0,0,ranitidine 1.68 MG/ML,Drug,RxNorm,S,361788
+19123302,0,0,ranitidine 25 MG Effervescent Oral Tablet [Zantac],Drug,RxNorm,S,608798
+36241425,0,0,Ultec Oral Product,Drug,RxNorm,C,1187689
+36246041,0,0,Pepcid Chewable Product,Drug,RxNorm,C,1296314
+961090,0,0,pirenzepine 25 MG / ranitidine 150 MG Oral Tablet,Drug,RxNorm,S,251597
+40019690,0,0,calcium carbonate / famotidine / magnesium hydroxide Chewable Tablet,Drug,RxNorm,S,374812
+961051,13741,3616,ranitidine 300 MG Oral Capsule,Drug,RxNorm,S,198192
+19062433,0,0,cimetidine 100 MG/ML Injectable Solution,Drug,RxNorm,S,250259
+19113069,0,0,ranitidine 150 MG [Taladine],Drug,RxNorm,S,539403
+36233412,0,0,Dyspamet Oral Liquid Product,Drug,RxNorm,C,1170423
+36245393,0,0,Tums Dual Action Chewable Product,Drug,RxNorm,C,1296473
+40027988,0,0,cimetidine Oral Suspension,Drug,RxNorm,S,371514
+45137524,0,0,RANITIDINE HCL POWDER,Drug,NDC,,51552062004
+19038660,0,0,nizatidine 150 MG [Axid],Drug,RxNorm,S,563517
+19103340,0,0,nizatidine 75 MG Oral Capsule,Drug,RxNorm,S,410179
+21600091,0,0,"famotidine, combinations; systemic",Drug,ATC,C,A02BA53
+36244110,0,0,Fluxid Disintegrating Oral Product,Drug,RxNorm,C,1295923
+40166960,0,0,calcium carbonate / famotidine / magnesium hydroxide Chewable Tablet [Tums Dual Action],Drug,RxNorm,S,867496
+997319,0,0,cimetidine 4 MG/ML Injectable Solution,Drug,RxNorm,S,251788
+19003271,537,277,cimetidine 400 MG Oral Tablet [Tagamet],Drug,RxNorm,S,104063
+19003272,194,115,cimetidine 800 MG Oral Tablet [Tagamet],Drug,RxNorm,S,104064
+19003288,0,0,cimetidine 800 MG Oral Tablet [Zita],Drug,RxNorm,S,104082
+19133216,0,0,ranitidine 1 MG/ML Oral Solution [Zantac],Drug,RxNorm,S,827180
+36027022,0,0,Pirenzepine / Ranitidine,Drug,RxNorm,,1006883
+40084185,0,0,ranitidine Injectable Solution [Zantac],Drug,RxNorm,S,94629
+19023071,0,0,ranitidine 300 MG [Zantac],Drug,RxNorm,S,827184
+19066499,20,20,cimetidine 10 MG/ML Oral Suspension,Drug,RxNorm,S,259309
+19107935,0,0,ranitidine 300 MG Delayed Release Oral Tablet,Drug,RxNorm,S,433841
+40031623,0,0,domperidone / ranitidine Oral Tablet,Drug,RxNorm,S,373754
+40120090,0,0,ranitidine Oral Capsule [Taladine],Drug,RxNorm,S,539404
+40173844,0,0,cimetidine 10 MG/ML [Tagamet],Drug,RxNorm,S,966988
+35603520,0,0,calcium carbonate / famotidine / magnesium hydroxide Chewable Tablet [Duo Fusion],Drug,RxNorm,S,1744394
+36230502,0,0,Taladine Oral Product,Drug,RxNorm,C,1177842
+36242171,0,0,Pepcid Oral Product,Drug,RxNorm,C,1185206
+19010372,411,133,nizatidine 150 MG Oral Capsule [Zinga],Drug,RxNorm,S,108730
+19022757,0,0,cimetidine 150 MG/ML [Tagamet],Drug,RxNorm,S,572838
+40036957,0,0,famotidine Disintegrating Oral Tablet,Drug,RxNorm,S,374596
+43013806,0,0,ranitidine 0.5 MG/ML Injectable Solution [Zantac],Drug,RxNorm,S,1369852
+19021198,0,0,cimetidine 100 MG Oral Tablet,Drug,RxNorm,S,199093
+19117484,0,0,nizatidine 25 MG/ML [Axid],Drug,RxNorm,S,565745
+19124364,1079,720,ranitidine 75 MG Oral Tablet [Wal-Zan],Drug,RxNorm,S,643046
+36228417,0,0,Galenamet Oral Product,Drug,RxNorm,C,1175368
+40036969,0,0,famotidine Oral Tablet [Pepcid],Drug,RxNorm,S,93732
+40167606,0,0,famotidine Chewable Tablet [Pepcid],Drug,RxNorm,S,865422
+953102,300816,59533,50 ML famotidine 0.4 MG/ML Injection,Drug,RxNorm,S,199739
+961264,0,0,ranitidine 1 MG/ML Oral Solution,Drug,RxNorm,S,827179
+19010058,0,0,cimetidine 400 MG Oral Tablet [Ultec],Drug,RxNorm,S,108282
+19075373,0,0,cimetidine 6 MG/ML Injectable Solution,Drug,RxNorm,S,309301
+19113093,0,0,ranitidine 150 MG/ML,Drug,RxNorm,S,539505
+19126405,201756,23395,ranitidine 15 MG/ML Oral Solution,Drug,RxNorm,S,705610
+40071620,0,0,nizatidine Oral Tablet [Axid AR],Drug,RxNorm,S,367635
+35603519,0,0,calcium carbonate 800 MG / famotidine 10 MG / magnesium hydroxide 165 MG [Duo Fusion],Drug,RxNorm,S,1744393
+950735,0,0,nizatidine 300 MG,Drug,RxNorm,S,316383
+961166,190,24,ranitidine 1 MG/ML Injectable Solution,Drug,RxNorm,S,312771
+19003275,0,0,cimetidine 200 MG Oral Tablet [Galenamet],Drug,RxNorm,S,104068
+40239178,0,0,famotidine / ibuprofen Oral Tablet,Drug,RxNorm,S,1100064
+19003290,3712,1820,ranitidine 25 MG/ML Injectable Solution [Zantac],Drug,RxNorm,S,104084
+19122391,2287,214,ranitidine 25 MG Effervescent Oral Tablet,Drug,RxNorm,S,602639
+40027982,0,0,cimetidine Injectable Solution,Drug,RxNorm,S,371513
+40071619,0,0,nizatidine Oral Tablet,Drug,RxNorm,S,373111
+4299842,0,0,Nizatidine,Drug,SNOMED,,386887009
+19115755,0,0,cimetidine 40 MG/ML [Dyspamet],Drug,RxNorm,S,563496
+40136780,0,0,famotidine Disintegrating Oral Tablet [Fluxid],Drug,RxNorm,S,667135
+40239183,0,0,famotidine 26.6 MG / ibuprofen 800 MG [Duexis],Drug,RxNorm,S,1100068
+43011788,20,20,famotidine 20 MG Chewable Tablet [Pepcid],Drug,RxNorm,S,1360654
+961162,0,0,ranitidine 100 MG Oral Tablet,Drug,RxNorm,S,252574
+1718655,0,0,ranitidine Injection [Zantac],Drug,RxNorm,S,1859544
+19018082,0,0,ranitidine 300 MG Oral Tablet [Zaedoc],Drug,RxNorm,S,153877
+19075372,0,0,cimetidine 4.8 MG/ML Injectable Solution,Drug,RxNorm,S,309300
+45103520,0,0,RANITIDINE HCL POWDER,Drug,NDC,,51552062002
+45958032,0,0,Famotidine,Observation,SNOMED,,3537211000001107
+19012853,0,0,ranitidine 400 MG Oral Tablet [Pylorid],Drug,RxNorm,S,151103
+19022756,0,0,cimetidine 300 MG [Tagamet],Drug,RxNorm,S,568558
+36216556,0,0,cimetidine Oral Liquid Product,Drug,RxNorm,C,1151783
+40236162,538356,63522,famotidine 20 MG Oral Tablet [Calmicid],Drug,RxNorm,S,1091399
+40236163,0,0,famotidine 20 MG [Calmicid],Drug,RxNorm,S,1091397
+1718657,506,193,2 ML ranitidine 25 MG/ML Injection [Zantac],Drug,RxNorm,S,1859554
+19115761,0,0,cimetidine 200 MG [Phimetin],Drug,RxNorm,S,563502
+19116646,0,0,cimetidine 800 MG [Acitak 800],Drug,RxNorm,S,564650
+40122859,0,0,alginic acid / cimetidine Oral Suspension,Drug,RxNorm,S,561971
+961086,0,0,ranitidine 10 MG/ML Injectable Solution,Drug,RxNorm,S,246793
+19023015,0,0,ranitidine 25 MG/ML [Zantac],Drug,RxNorm,S,563511
+19075349,0,0,cimetidine 2.4 MG/ML Injectable Solution,Drug,RxNorm,S,309297
+19077242,401444,34538,famotidine 8 MG/ML Oral Suspension,Drug,RxNorm,S,310274
+19115758,0,0,cimetidine 800 MG [Galenamet],Drug,RxNorm,S,563499
+953080,4608,344,famotidine 40 MG Disintegrating Oral Tablet,Drug,RxNorm,S,197691
+19019002,20,20,famotidine 20 MG Disintegrating Oral Tablet,Drug,RxNorm,S,197690
+36219345,0,0,alginic acid / cimetidine Oral Product,Drug,RxNorm,C,1164280
+40155679,0,0,ranitidine Oral Capsule [Zantac],Drug,RxNorm,S,827186
+953110,0,0,famotidine 40 MG Disintegrating Oral Tablet [Pepcid],Drug,RxNorm,S,213472
+997376,0,0,cimetidine 40 MG/ML,Drug,RxNorm,S,332842
+19115754,20,20,cimetidine 200 MG [Dyspamet],Drug,RxNorm,S,563495
+36225020,0,0,nizatidine Oral Liquid Product,Drug,RxNorm,C,1159836
+40522966,0,0,Ranitidine hydrochloride,Drug,SNOMED,,317229002
+961236,1280,585,ranitidine 300 MG Oral Capsule [Taladine],Drug,RxNorm,S,645398
+961267,6738,2015,ranitidine 300 MG Oral Tablet [Zantac],Drug,RxNorm,S,827185
+997312,434,223,cimetidine 60 MG/ML Oral Solution [Tagamet],Drug,RxNorm,S,212788
+19102181,0,0,cimetidine 40 MG/ML Oral Solution,Drug,RxNorm,S,402006
+40235792,24272,8536,ranitidine 150 MG Oral Tablet [Wal-Zan],Drug,RxNorm,S,1090518
+19075350,0,0,cimetidine 3.6 MG/ML Injectable Solution,Drug,RxNorm,S,309298
+19120498,0,0,ranitidine 150 MG [Rantec],Drug,RxNorm,S,574005
+36243852,0,0,famotidine Disintegrating Oral Product,Drug,RxNorm,C,1295714
+40077557,0,0,pirenzepine / ranitidine Oral Tablet,Drug,RxNorm,S,373755
+961163,0,0,ranitidine 150 MG Disintegrating Oral Tablet,Drug,RxNorm,S,252585
+21600082,0,0,cimetidine; systemic,Drug,ATC,C,A02BA01
+36224083,0,0,famotidine / ibuprofen Oral Product,Drug,RxNorm,C,1158493
+36232800,0,0,Acitak 200 Oral Product,Drug,RxNorm,C,1168437
+953146,0,0,famotidine 20 MG Disintegrating Oral Tablet [Fluxid],Drug,RxNorm,S,667136
+1718658,0,0,ranitidine 25 MG/ML Injection,Drug,RxNorm,S,1859555
+40071616,0,0,nizatidine Oral Capsule [Axid],Drug,RxNorm,S,381156
+961167,10562,2246,ranitidine 25 MG/ML Injectable Solution,Drug,RxNorm,S,312772
+4029090,0,0,Ranitidine bismuth citrate product,Drug,SNOMED,,108662009
+40173846,0,0,cimetidine 100 MG [Tagamet],Drug,RxNorm,S,966986
+961268,1522,809,ranitidine 300 MG Oral Capsule [Zantac],Drug,RxNorm,S,827187
+19038598,0,0,famotidine 20 MG [Pepcid],Drug,RxNorm,S,491217
+35606551,12211,4828,famotidine 0.4 MG/ML Injection,Drug,RxNorm,S,1743829
+36244986,0,0,famotidine Chewable Product,Drug,RxNorm,C,1295140
+36249221,0,0,Duo Fusion Pill,Drug,RxNorm,C,1744396
+19003318,32,26,nizatidine 300 MG Oral Capsule [Axid],Drug,RxNorm,S,104097
+19010743,512,197,cimetidine 200 MG Oral Tablet [Acitak 200],Drug,RxNorm,S,108915
+19116554,0,0,cimetidine 100 MG [Tagamet 100],Drug,RxNorm,S,564524
+40027984,0,0,cimetidine Oral Capsule,Drug,RxNorm,S,371509
+4187570,0,0,Ranitidine,Drug,SNOMED,,372755005
+19003315,670593,85609,famotidine 20 MG Oral Tablet [Pepcid],Drug,RxNorm,S,104094
+19100653,0,0,cimetidine 10 MG/ML Oral Solution,Drug,RxNorm,S,381026
+44916609,0,0,RANITIDINE HCL POWDER,Drug,NDC,,51552062005
+19036595,595,302,cimetidine 300 MG Oral Tablet [Tagamet],Drug,RxNorm,S,207824
+19079438,20,20,ranitidine 2 MG/ML Oral Solution,Drug,RxNorm,S,312770
+36228655,0,0,Phimetin Pill,Drug,RxNorm,C,1180616
+46341386,0,0,"SENTRADINE - ranitidine hydrochloride, choline kit",Drug,NDC,,68405003326
+4305819,0,0,Cimetidine hydrochloride,Drug,SNOMED,,83051006
+19046867,26909,5277,famotidine 10 MG Oral Tablet [Pepcid],Drug,RxNorm,S,212072
+40236165,0,0,famotidine Oral Tablet [Calmicid],Drug,RxNorm,S,1091398
+45306482,0,0,RANITIDINE HCL POWDER,Drug,NDC,,38779053603
+19023020,0,0,ranitidine 75 MG [Zantac],Drug,RxNorm,S,827181
+19115277,0,0,alginic acid 50 MG/ML / cimetidine 20 MG/ML [Algitec],Drug,RxNorm,S,562945
+36226135,0,0,famotidine Pill,Drug,RxNorm,C,1159022
+19019338,1035,304,nizatidine 300 MG Oral Capsule,Drug,RxNorm,S,198041
+21600090,0,0,"cimetidine, combinations; systemic",Drug,ATC,C,A02BA51
+40027981,0,0,cimetidine Extended Release Oral Tablet,Drug,RxNorm,S,438652
+45159186,0,0,RANITIDINE HCL POWDER,Drug,NDC,,62991113203
+19003220,447,249,cimetidine 200 MG Oral Tablet [Tagamet],Drug,RxNorm,S,104062
+19115089,0,0,ranitidine 1.68 MG/ML Oral Solution,Drug,RxNorm,S,562041
+43013807,0,0,ranitidine 0.5 MG/ML [Zantac],Drug,RxNorm,S,1369851
+961269,85438,10774,ranitidine 150 MG Oral Tablet [Zantac],Drug,RxNorm,S,827189
+36230498,0,0,Tagamet Oral Product,Drug,RxNorm,C,1177838
+36242178,0,0,Peptimax 400 Oral Product,Drug,RxNorm,C,1185213
+36242939,0,0,Pylorid Oral Product,Drug,RxNorm,C,1184089
+19103341,0,0,famotidine 20 MG Oral Capsule,Drug,RxNorm,S,410180
+36232802,0,0,Acitak 400 Oral Product,Drug,RxNorm,C,1168439
+40166934,149,107,calcium carbonate 800 MG / famotidine 10 MG / magnesium hydroxide 165 MG Chewable Tablet [Tums Dual Action],Drug,RxNorm,S,867497
+997395,0,0,alginic acid 50 MG/ML / cimetidine 20 MG/ML Oral Suspension,Drug,RxNorm,S,561972
+19023016,0,0,ranitidine 15 MG/ML [Zantac],Drug,RxNorm,S,564366
+997316,0,0,cimetidine 400 MG Oral Capsule,Drug,RxNorm,S,246215
+997381,0,0,cimetidine 3.6 MG/ML,Drug,RxNorm,S,346128
+19018081,0,0,ranitidine 150 MG Oral Tablet [Zaedoc],Drug,RxNorm,S,153876
+19115770,0,0,ranitidine 1.68 MG/ML [Zantac],Drug,RxNorm,S,563513
+36241406,0,0,Zita Oral Product,Drug,RxNorm,C,1187669
+36243103,0,0,Zaedoc Pill,Drug,RxNorm,C,1187015
+19003281,0,0,cimetidine 200 MG Oral Tablet [Phimetin],Drug,RxNorm,S,104075
+19024816,0,0,nizatidine 25 MG/ML Injectable Solution [Axid],Drug,RxNorm,S,201220
+36027695,0,0,Domperidone / Ranitidine,Drug,RxNorm,,1007575
+36225022,0,0,nizatidine Pill,Drug,RxNorm,C,1159838
+36226132,0,0,famotidine Injectable Product,Drug,RxNorm,C,1159019
+40036963,0,0,famotidine Oral Capsule,Drug,RxNorm,S,439526
+40084192,0,0,ranitidine Oral Tablet [Raciran],Drug,RxNorm,S,368488
+953147,0,0,famotidine 40 MG Disintegrating Oral Tablet [Fluxid],Drug,RxNorm,S,667138
+40167603,20,20,famotidine 10 MG Chewable Tablet [Pepcid],Drug,RxNorm,S,865423
+36219344,0,0,alginic acid / cimetidine Oral Liquid Product,Drug,RxNorm,C,1164279
+36230494,0,0,Tagamet 100 Oral Product,Drug,RxNorm,C,1177834
+36231072,0,0,Axid AR Oral Product,Drug,RxNorm,C,1176298
+36241407,0,0,Zita Pill,Drug,RxNorm,C,1187670
+961192,0,0,ranitidine 25 MG/ML,Drug,RxNorm,S,328497
+19003317,190,111,nizatidine 150 MG Oral Capsule [Axid],Drug,RxNorm,S,104096
+19022755,0,0,cimetidine 6 MG/ML [Tagamet],Drug,RxNorm,S,566634
+40084191,0,0,ranitidine Oral Tablet [Pylorid],Drug,RxNorm,S,368638
+961089,0,0,ranitidine 300 MG Extended Release Oral Tablet,Drug,RxNorm,S,251416
+19116530,0,0,cimetidine 400 MG [Ultec],Drug,RxNorm,S,564489
+40027990,0,0,cimetidine Oral Tablet,Drug,RxNorm,S,371515
+40028270,0,0,cimetidine Oral Tablet [Zita],Drug,RxNorm,S,368529
+997357,0,0,cimetidine 0.9 MG/ML,Drug,RxNorm,S,329436
+19003277,0,0,cimetidine 800 MG Oral Tablet [Galenamet],Drug,RxNorm,S,104071
+40239181,2341,1244,famotidine 26.6 MG / ibuprofen 800 MG Oral Tablet,Drug,RxNorm,S,1100066
+953112,2019,1384,calcium carbonate 800 MG / famotidine 10 MG / magnesium hydroxide 165 MG Chewable Tablet,Drug,RxNorm,S,283641
+36230499,0,0,Tagamet Pill,Drug,RxNorm,C,1177839
+19024859,0,0,cimetidine 4 MG/ML Injectable Solution [Tagamet],Drug,RxNorm,S,201250
+36227284,0,0,pirenzepine / ranitidine Oral Product,Drug,RxNorm,C,1159288
+19000831,0,0,alginic acid 50 MG/ML / cimetidine 20 MG/ML Oral Suspension [Algitec],Drug,RxNorm,S,102182
+36237713,0,0,Fluxid Pill,Drug,RxNorm,C,1171871
+44818321,20,20,ranitidine 150 MG Effervescent Oral Tablet,Drug,RxNorm,S,1536836
+19035388,0,0,ranitidine 1 MG/ML Injectable Solution [Zantac],Drug,RxNorm,S,207380
+19115766,0,0,cimetidine 200 MG [Zita],Drug,RxNorm,S,563507
+36216557,0,0,cimetidine Oral Product,Drug,RxNorm,C,1151784
+36239206,0,0,Tritec Pill,Drug,RxNorm,C,1185584
+953118,0,0,famotidine 10 MG,Drug,RxNorm,S,315919
+953142,271,246,famotidine 40 MG,Drug,RxNorm,S,317369
+961193,0,0,ranitidine 15 MG/ML,Drug,RxNorm,S,328498
+19003276,0,0,cimetidine 400 MG Oral Tablet [Galenamet],Drug,RxNorm,S,104070
+19094287,0,0,famotidine 20 MG [Fluxid],Drug,RxNorm,S,667134
+45244842,0,0,RANITIDINE HCL POWDER,Drug,NDC,,62991113202
+19018874,3588,1199,cimetidine 300 MG Oral Tablet,Drug,RxNorm,S,197506
+36233413,0,0,Dyspamet Oral Product,Drug,RxNorm,C,1170424
+40036954,0,0,famotidine Chewable Tablet,Drug,RxNorm,S,372138
+40036965,0,0,famotidine Oral Suspension [Pepcid],Drug,RxNorm,S,93731
+19117105,0,0,ranitidine 300 MG [Raciran],Drug,RxNorm,S,565281
+40027993,0,0,cimetidine Oral Tablet [Acitak 800],Drug,RxNorm,S,381023
+40239179,0,0,famotidine / ibuprofen Oral Tablet [Duexis],Drug,RxNorm,S,1100069
+45023256,0,0,RANITIDINE HCL POWDER,Drug,NDC,,63370021835
+19003316,100974,42034,famotidine 40 MG Oral Tablet [Pepcid],Drug,RxNorm,S,104095
+19115767,0,0,cimetidine 400 MG [Zita],Drug,RxNorm,S,563508
+40071617,0,0,nizatidine Oral Capsule [Zinga],Drug,RxNorm,S,366484
+40084193,0,0,ranitidine Oral Tablet [Rantec],Drug,RxNorm,S,368637
+19017287,22492,7669,ranitidine 150 MG Oral Tablet [Raciran],Drug,RxNorm,S,153464
+40036961,0,0,famotidine Injectable Solution [Pepcid],Drug,RxNorm,S,362696
+44887047,0,0,CIMETIDINE POWDER,Drug,NDC,,62991145606
+961197,0,0,ranitidine 10 MG/ML,Drug,RxNorm,S,334179
+19003286,0,0,cimetidine 200 MG Oral Tablet [Zita],Drug,RxNorm,S,104080
+45957872,0,0,Ranitidine bismuth citrate,Observation,SNOMED,,3540711000001102
+19124363,0,0,ranitidine 75 MG [Wal-Zan],Drug,RxNorm,S,643044
+40084184,0,0,ranitidine Injectable Solution,Drug,RxNorm,S,373751
+44818341,0,0,ranitidine 75 MG Effervescent Oral Tablet,Drug,RxNorm,S,1536915
+19022753,0,0,cimetidine 400 MG [Tagamet],Drug,RxNorm,S,563492
+19022754,0,0,cimetidine 800 MG [Tagamet],Drug,RxNorm,S,563493
+36231075,0,0,Axid Oral Liquid Product,Drug,RxNorm,C,1176301
+40027995,0,0,cimetidine Oral Tablet [Peptimax 200],Drug,RxNorm,S,381017
+961087,0,0,domperidone 10 MG / ranitidine 150 MG Oral Tablet,Drug,RxNorm,S,248816
+19115763,0,0,cimetidine 400 MG [Phimetin],Drug,RxNorm,S,563504
+19030094,0,0,cimetidine 6 MG/ML Injectable Solution [Tagamet],Drug,RxNorm,S,205746
+36227285,0,0,pirenzepine / ranitidine Pill,Drug,RxNorm,C,1159289
+36242813,0,0,Zaedoc Oral Product,Drug,RxNorm,C,1186874
+36243120,0,0,Zantac Oral Product,Drug,RxNorm,C,1187032
+19023017,0,0,ranitidine 1 MG/ML [Zantac],Drug,RxNorm,S,568148
+19038599,0,0,famotidine 40 MG [Pepcid],Drug,RxNorm,S,491221
+35606553,0,0,famotidine 10 MG/ML Injection,Drug,RxNorm,S,1743834
+36221701,0,0,ranitidine Oral Liquid Product,Drug,RxNorm,C,1164812
+36230133,0,0,Raciran Pill,Drug,RxNorm,C,1177677
+19024858,0,0,cimetidine 100 MG/ML Injectable Solution [Tagamet],Drug,RxNorm,S,201249
+35606552,1123961,267469,2 ML famotidine 10 MG/ML Injection,Drug,RxNorm,S,1743833
+36222786,0,0,Duexis Oral Product,Drug,RxNorm,C,1166407
+36237712,0,0,Fluxid Oral Product,Drug,RxNorm,C,1171870
+40027997,0,0,cimetidine Oral Tablet [Peptimax 800],Drug,RxNorm,S,381019
+40120170,0,0,ranitidine Oral Solution [Zantac],Drug,RxNorm,S,539871
+19010059,0,0,cimetidine 800 MG Oral Tablet [Ultec],Drug,RxNorm,S,108283
+36218005,0,0,calcium carbonate / famotidine / magnesium hydroxide Pill,Drug,RxNorm,C,1153292
+45308703,0,0,FAMOTIDINE POWDER,Drug,NDC,,51927340800
+961085,0,0,ranitidine 400 MG Oral Tablet [Tritec],Drug,RxNorm,S,211181
+997276,14230,2476,cimetidine,Drug,RxNorm,S,2541
+19003273,0,0,cimetidine 200 MG Chewable Tablet [Dyspamet],Drug,RxNorm,S,104066
+19116580,0,0,nizatidine 150 MG [Zinga],Drug,RxNorm,S,564565
+997378,0,0,cimetidine 20 MG/ML,Drug,RxNorm,S,332844
+19077220,883,303,famotidine 10 MG Chewable Tablet,Drug,RxNorm,S,310272
+36242176,0,0,Peptimax 200 Oral Product,Drug,RxNorm,C,1185211
+997313,0,0,cimetidine 150 MG/ML Injectable Solution,Drug,RxNorm,S,239982
+19117495,0,0,cimetidine 4 MG/ML [Tagamet],Drug,RxNorm,S,565758
+36030991,0,0,alginic acid / Cimetidine,Drug,RxNorm,,818150
+40173843,0,0,cimetidine 10 MG/ML Oral Solution [Tagamet],Drug,RxNorm,S,966989
+997380,0,0,cimetidine 200 MG Chewable Tablet,Drug,RxNorm,S,333839
+19010177,0,0,cimetidine 100 MG Oral Tablet [Tagamet 100],Drug,RxNorm,S,108394
+36242172,0,0,Pepcid Pill,Drug,RxNorm,C,1185207
+40239182,8789,2909,famotidine 26.6 MG / ibuprofen 800 MG Oral Tablet [Duexis],Drug,RxNorm,S,1100070
+44817888,0,0,ranitidine Effervescent Oral Tablet,Drug,RxNorm,S,1536200
+4306718,0,0,Famotidine,Drug,SNOMED,,387211002
+19075371,0,0,cimetidine 3 MG/ML Injectable Solution,Drug,RxNorm,S,309299
+40027983,0,0,cimetidine Injectable Solution [Tagamet],Drug,RxNorm,S,94233
+44818070,0,0,cimetidine Effervescent Oral Tablet,Drug,RxNorm,S,1537222
+19027493,973559,229509,famotidine 10 MG/ML Injectable Solution,Drug,RxNorm,S,204441
+19094288,0,0,famotidine 40 MG [Fluxid],Drug,RxNorm,S,667137
+36242179,0,0,Peptimax 400 Pill,Drug,RxNorm,C,1185214
+40036959,25,20,famotidine Injectable Solution,Drug,RxNorm,S,374391
+953113,315364,69584,famotidine 40 MG Oral Tablet,Drug,RxNorm,S,284245
+961171,0,0,ranitidine 1 MG/ML,Drug,RxNorm,S,328496
+19129050,0,0,ranitidine 150 MG/ML Oral Solution,Drug,RxNorm,S,756168
+993601,233,172,calcium carbonate 800 MG / famotidine 10 MG / magnesium hydroxide 165 MG Chewable Tablet [Pepcid Complete],Drug,RxNorm,S,688892
+19038691,0,0,nizatidine 300 MG [Axid],Drug,RxNorm,S,563518
+36231073,0,0,Axid AR Pill,Drug,RxNorm,C,1176299
+950736,0,0,nizatidine 75 MG,Drug,RxNorm,S,316384
+36030665,0,0,Calcium Carbonate / Famotidine / Magnesium Hydroxide,Drug,RxNorm,,691005
+36242940,0,0,Pylorid Pill,Drug,RxNorm,C,1184090
+40084195,0,0,ranitidine Oral Tablet [Zaedoc],Drug,RxNorm,S,369432
+44818048,0,0,ranitidine Effervescent Oral Tablet [Zantac],Drug,RxNorm,S,1537109
+961194,0,0,ranitidine 75 MG,Drug,RxNorm,S,329156
+19003280,0,0,cimetidine 200 MG Oral Tablet [Peptimax 200],Drug,RxNorm,S,104074
+19081086,0,0,cimetidine 400 MG,Drug,RxNorm,S,315680
+36245530,0,0,Pepcid Complete Chewable Product,Drug,RxNorm,C,1296184
+997301,1573,585,cimetidine 60 MG/ML Oral Solution,Drug,RxNorm,S,212787
+19116531,0,0,cimetidine 800 MG [Ultec],Drug,RxNorm,S,564490
+36233414,0,0,Dyspamet Pill,Drug,RxNorm,C,1170425
+45347321,0,0,RANITIDINE HCL POWDER,Drug,NDC,,63370021825
+36216555,0,0,cimetidine Injectable Product,Drug,RxNorm,C,1151782
+36242170,0,0,Pepcid Oral Liquid Product,Drug,RxNorm,C,1185205
+40167607,0,0,famotidine Oral Capsule [Pepcid],Drug,RxNorm,S,865426
+19023072,0,0,ranitidine 150 MG [Zantac],Drug,RxNorm,S,827188
+19107189,0,0,ranitidine 168 MG Oral Tablet,Drug,RxNorm,S,430663
+40027987,0,0,cimetidine Oral Solution [Tagamet],Drug,RxNorm,S,364666
+36242169,0,0,Pepcid Injectable Product,Drug,RxNorm,C,1185204
+36244276,0,0,Pepcid Disintegrating Oral Product,Drug,RxNorm,C,1296024
+40071618,0,0,nizatidine Oral Solution,Drug,RxNorm,S,476874
+40235793,0,0,ranitidine 150 MG [Wal-Zan],Drug,RxNorm,S,1090517
+44818368,0,0,ranitidine 300 MG Effervescent Oral Tablet,Drug,RxNorm,S,1537068
+19018875,10348,3106,cimetidine 400 MG Oral Tablet,Drug,RxNorm,S,197507
+19117104,0,0,ranitidine 150 MG [Raciran],Drug,RxNorm,S,565280
+36231077,0,0,Axid Pill,Drug,RxNorm,C,1176303
+36243121,0,0,Zantac Pill,Drug,RxNorm,C,1187033
+40027985,0,0,cimetidine Oral Solution,Drug,RxNorm,S,371511
+997358,0,0,cimetidine 1.2 MG/ML,Drug,RxNorm,S,329437
+19064522,0,0,pirenzepine 50 MG / ranitidine 300 MG Oral Tablet,Drug,RxNorm,S,251600
+19003311,0,0,ranitidine 1.68 MG/ML Oral Solution [Zantac],Drug,RxNorm,S,104086
+19120499,0,0,ranitidine 300 MG [Rantec],Drug,RxNorm,S,574006
+19077241,3261067,492510,famotidine 20 MG Oral Tablet,Drug,RxNorm,S,310273
+36230495,0,0,Tagamet 100 Pill,Drug,RxNorm,C,1177835
+36249220,0,0,Duo Fusion Oral Product,Drug,RxNorm,C,1744395
+19115764,0,0,cimetidine 800 MG [Peptimax 800],Drug,RxNorm,S,563505
+36227830,0,0,Tums Dual Action Oral Product,Drug,RxNorm,C,1176892
+40084189,0,0,ranitidine Oral Solution,Drug,RxNorm,S,379494
+953109,20,20,famotidine 20 MG Disintegrating Oral Tablet [Pepcid],Drug,RxNorm,S,213413
+961169,0,0,ranitidine 150 MG,Drug,RxNorm,S,328494
+19116645,0,0,cimetidine 400 MG [Acitak 400],Drug,RxNorm,S,564649
+40028269,0,0,cimetidine Oral Tablet [Ultec],Drug,RxNorm,S,368504
+40084180,0,0,ranitidine Disintegrating Oral Tablet,Drug,RxNorm,S,378737
+19003287,0,0,cimetidine 400 MG Oral Tablet [Zita],Drug,RxNorm,S,104081
+40027991,0,0,cimetidine Oral Tablet [Acitak 200],Drug,RxNorm,S,381021
+997356,0,0,cimetidine 4.8 MG/ML,Drug,RxNorm,S,328281
+19113070,1506,856,ranitidine 150 MG Oral Capsule [Taladine],Drug,RxNorm,S,539405
+19130460,878,770,famotidine 20 MG Chewable Tablet,Drug,RxNorm,S,799049
+19115753,0,0,cimetidine 40 MG/ML [Tagamet],Drug,RxNorm,S,563494
+40027989,0,0,cimetidine Oral Suspension [Dyspamet],Drug,RxNorm,S,365895
+961266,7484,1062,ranitidine 75 MG Oral Tablet [Zantac],Drug,RxNorm,S,827183
+40027980,0,0,cimetidine Chewable Tablet [Dyspamet],Drug,RxNorm,S,381024
+19117206,0,0,ranitidine 300 MG [Zaedoc],Drug,RxNorm,S,565416
+36232804,0,0,Acitak 800 Oral Product,Drug,RxNorm,C,1168441
+40027998,0,0,cimetidine Oral Tablet [Phimetin],Drug,RxNorm,S,368527
+950696,1936,431,nizatidine,Drug,RxNorm,S,42319
+19018876,3507,1146,cimetidine 800 MG Oral Tablet,Drug,RxNorm,S,197508
+19075347,0,0,cimetidine 1.2 MG/ML Injectable Solution,Drug,RxNorm,S,309295
+36228773,0,0,Algitec Oral Product,Drug,RxNorm,C,1175516
+36232801,0,0,Acitak 200 Pill,Drug,RxNorm,C,1168438
+40007176,0,0,alginic acid / cimetidine Oral Suspension [Algitec],Drug,RxNorm,S,385191
+997341,0,0,cimetidine 200 MG,Drug,RxNorm,S,315678
+36234510,0,0,Calmicid Pill,Drug,RxNorm,C,1172258
+46361370,0,0,"DERMACINRX INFLAMMATRAL PAK - diclofenac sodium delayed release tablets, ranitidine tablets, capsaicin cream kit",Drug,NDC,,59088006200
+961238,0,0,ranitidine 50 MG/ML Injectable Solution,Drug,RxNorm,S,645923
+36243119,0,0,Zantac Oral Liquid Product,Drug,RxNorm,C,1187031
+4173245,0,0,Ranitidine-containing product,Drug,SNOMED,,48174005
+40027994,0,0,cimetidine Oral Tablet [Galenamet],Drug,RxNorm,S,368530
+45210617,0,0,RANITIDINE HCL POWDER,Drug,NDC,,62991113204
+950738,949,267,nizatidine 15 MG/ML Oral Solution,Drug,RxNorm,S,476872
+961196,0,0,ranitidine 0.5 MG/ML,Drug,RxNorm,S,334178
+19003274,0,0,cimetidine 40 MG/ML Oral Suspension [Dyspamet],Drug,RxNorm,S,104067
+36222787,0,0,Duexis Pill,Drug,RxNorm,C,1166408
+36231076,0,0,Axid Oral Product,Drug,RxNorm,C,1176302
+40084194,0,0,ranitidine Oral Tablet [Tritec],Drug,RxNorm,S,367780
+40173845,0,0,cimetidine 100 MG Oral Tablet [Tagamet],Drug,RxNorm,S,966987
+19026593,0,0,ranitidine hydrochloride,Drug,RxNorm,,203136
+21600088,0,0,ranitidine bismuth citrate; oral,Drug,ATC,C,A02BA07
+40135121,0,0,ranitidine Oral Tablet [Wal-Zan],Drug,RxNorm,S,643045
+19064431,0,0,cimetidine 20 MG/ML Oral Suspension,Drug,RxNorm,S,251263
+40027979,0,0,cimetidine Chewable Tablet,Drug,RxNorm,S,371510
+997360,0,0,cimetidine 2.4 MG/ML,Drug,RxNorm,S,329439
+19033687,355486,80957,famotidine 10 MG/ML Injectable Solution [Pepcid],Drug,RxNorm,S,206864
+950737,0,0,nizatidine 25 MG/ML,Drug,RxNorm,S,337356
+997315,0,0,cimetidine 300 MG Oral Capsule,Drug,RxNorm,S,246214
+36230497,0,0,Tagamet Oral Liquid Product,Drug,RxNorm,C,1177837
+997379,0,0,cimetidine 4 MG/ML,Drug,RxNorm,S,333643
+19038621,0,0,famotidine 10 MG/ML [Pepcid],Drug,RxNorm,S,567666
+40239180,0,0,famotidine 26.6 MG,Drug,RxNorm,S,1100063
+44817887,313,75,ranitidine 25 MG,Drug,RxNorm,S,1536199
+961050,531716,109716,ranitidine 150 MG Oral Tablet,Drug,RxNorm,S,198191
+40071613,0,0,nizatidine Injectable Solution [Axid],Drug,RxNorm,S,381155
+961170,0,0,ranitidine 300 MG,Drug,RxNorm,S,328495
+19018873,5871,2244,cimetidine 200 MG Oral Tablet,Drug,RxNorm,S,197505
+19115765,0,0,cimetidine 800 MG [Phimetin],Drug,RxNorm,S,563506
+19116584,0,0,nizatidine 300 MG [Zinga],Drug,RxNorm,S,564569
+19121171,0,0,nizatidine 300 MG Oral Tablet,Drug,RxNorm,S,576654
+36029344,0,0,Famotidine / Ibuprofen,Drug,RxNorm,,1100065
+19069618,0,0,ranitidine 300 MG [Taladine],Drug,RxNorm,S,645397
+19116644,0,0,cimetidine 200 MG [Acitak 200],Drug,RxNorm,S,564648
+36228418,0,0,Galenamet Pill,Drug,RxNorm,C,1175369
+961164,0,0,ranitidine 0.5 MG/ML Injectable Solution,Drug,RxNorm,S,312769
+19084587,0,0,ranitidine 400 MG,Drug,RxNorm,S,330185
+19115768,0,0,cimetidine 800 MG [Zita],Drug,RxNorm,S,563509
+19075348,0,0,cimetidine 1.8 MG/ML Injectable Solution,Drug,RxNorm,S,309296
+19085261,0,0,cimetidine 6 MG/ML,Drug,RxNorm,S,330441
+36228654,0,0,Phimetin Oral Product,Drug,RxNorm,C,1180615
+953076,2504114,184984,famotidine,Drug,RxNorm,S,4278
+19033670,0,0,ranitidine 400 MG [Tritec],Drug,RxNorm,S,571641
+40102894,0,0,famotidine Disintegrating Oral Tablet [Pepcid],Drug,RxNorm,S,491218
+19117494,0,0,cimetidine 100 MG/ML [Tagamet],Drug,RxNorm,S,565757
+36230496,0,0,Tagamet Injectable Product,Drug,RxNorm,C,1177836
+1718654,0,0,ranitidine Injection,Drug,RxNorm,S,1859541
+36221703,0,0,ranitidine Pill,Drug,RxNorm,C,1164814
+36226131,0,0,famotidine / ibuprofen Pill,Drug,RxNorm,C,1159018
+997375,0,0,cimetidine 100 MG/ML,Drug,RxNorm,S,331714
+19010744,658,204,cimetidine 400 MG Oral Tablet [Acitak 400],Drug,RxNorm,S,108916
+36232805,0,0,Acitak 800 Pill,Drug,RxNorm,C,1168442
+40084181,0,0,ranitidine Delayed Release Oral Tablet,Drug,RxNorm,S,451179
+19081238,0,0,famotidine 10 MG/ML,Drug,RxNorm,S,315920
+36230503,0,0,Taladine Pill,Drug,RxNorm,C,1177843
+45238209,0,0,RANITIDINE HCL POWDER,Drug,NDC,,38779053609
+961239,0,0,ranitidine 50 MG/ML Injectable Solution [Zantac],Drug,RxNorm,S,645925
+21600084,0,0,famotidine; systemic,Drug,ATC,C,A02BA03
+40084182,0,0,ranitidine Extended Release Oral Tablet,Drug,RxNorm,S,373753
+961237,0,0,ranitidine 50 MG/ML,Drug,RxNorm,S,645922
+40071612,0,0,nizatidine Injectable Solution,Drug,RxNorm,S,377199
+997359,0,0,cimetidine 1.8 MG/ML,Drug,RxNorm,S,329438
+19023019,0,0,ranitidine 50 MG/ML [Zantac],Drug,RxNorm,S,645924
+4162425,0,0,Cimetidine,Drug,SNOMED,,373541007
+19038692,0,0,nizatidine 15 MG/ML [Axid],Drug,RxNorm,S,582618
+36243118,0,0,Zantac Injectable Product,Drug,RxNorm,C,1187030
+36230149,0,0,Rantec Pill,Drug,RxNorm,C,1177698
+40084190,0,0,ranitidine Oral Tablet,Drug,RxNorm,S,373752
+40126820,0,0,nizatidine Oral Solution [Axid],Drug,RxNorm,S,582619
+4297535,0,0,Ranitidine bismuth citrate,Drug,SNOMED,,386886000
+19115048,0,0,ranitidine bismuth citrate,Drug,RxNorm,,55471
+45005949,0,0,RANITIDINE HCL POWDER,Drug,NDC,,62991113206
+997354,0,0,cimetidine 800 MG,Drug,RxNorm,S,315681
+40028268,0,0,cimetidine Oral Tablet [Tagamet],Drug,RxNorm,S,94235
+953117,0,0,famotidine 0.4 MG/ML,Drug,RxNorm,S,315918
+1718656,73270,2033,2 ML ranitidine 25 MG/ML Injection,Drug,RxNorm,S,1859553
+4084000,0,0,Ranitidine hydrochloride,Drug,SNOMED,,24202000
+40167604,0,0,famotidine 10 MG Oral Capsule,Drug,RxNorm,S,865425
+19083863,0,0,cimetidine 60 MG/ML,Drug,RxNorm,S,329440
+19115757,0,0,cimetidine 400 MG [Galenamet],Drug,RxNorm,S,563498
+19090907,0,0,ranitidine 100 MG,Drug,RxNorm,S,334450
+19109367,0,0,cimetidine 350 MG,Drug,RxNorm,S,438651
+21600083,0,0,ranitidine; systemic,Drug,ATC,C,A02BA02
+997340,0,0,cimetidine 100 MG,Drug,RxNorm,S,315677
+997377,0,0,cimetidine 600 MG,Drug,RxNorm,S,332843
+19003282,0,0,cimetidine 400 MG Oral Tablet [Peptimax 400],Drug,RxNorm,S,104076
+953120,0,0,famotidine 20 MG,Drug,RxNorm,S,315921
+961200,0,0,ranitidine 2 MG/ML,Drug,RxNorm,S,393464
+36226134,0,0,famotidine Oral Product,Drug,RxNorm,C,1159021
+19003284,0,0,cimetidine 800 MG Oral Tablet [Peptimax 800],Drug,RxNorm,S,104078
+36230132,0,0,Raciran Oral Product,Drug,RxNorm,C,1177676
+36239205,0,0,Tritec Oral Product,Drug,RxNorm,C,1185583
+961168,47600,9947,ranitidine 75 MG Oral Tablet,Drug,RxNorm,S,312773
+40084186,0,0,ranitidine Oral Capsule,Drug,RxNorm,S,373750
+4032558,0,0,Nizatidine-containing product,Drug,SNOMED,,108664005
+19135915,0,0,cimetidine hydrochloride,Drug,RxNorm,,91251
+19115769,0,0,cimetidine 200 MG [Ultec],Drug,RxNorm,S,563510
+36230148,0,0,Rantec Oral Product,Drug,RxNorm,C,1177697
+961263,45366,5603,ranitidine 15 MG/ML Oral Solution [Zantac],Drug,RxNorm,S,755272
+953121,0,0,famotidine 8 MG/ML,Drug,RxNorm,S,315922
+19111666,0,0,ranitidine 168 MG,Drug,RxNorm,S,451180
+36241426,0,0,Ultec Pill,Drug,RxNorm,C,1187690
+40071614,0,0,nizatidine Oral Capsule,Drug,RxNorm,S,373110
+45103733,0,0,RANITIDINE HCL POWDER,Drug,NDC,,51927302300
+36234508,0,0,Calmicid Oral Product,Drug,RxNorm,C,1172256
+45135444,0,0,RANITIDINE HCL POWDER,Drug,NDC,,38779053604
+19121842,208,54,nizatidine 15 MG/ML Oral Solution [Axid],Drug,RxNorm,S,582620
+19003285,0,0,cimetidine 800 MG Oral Tablet [Phimetin],Drug,RxNorm,S,104079
+19003283,0,0,cimetidine 400 MG Oral Tablet [Phimetin],Drug,RxNorm,S,104077
+997352,0,0,cimetidine 300 MG,Drug,RxNorm,S,315679
+36242370,0,0,Wal-Zan Oral Product,Drug,RxNorm,C,1187819
+19133217,18829,5636,ranitidine 150 MG Oral Capsule [Zantac],Drug,RxNorm,S,827190
+19017288,5864,2830,ranitidine 300 MG Oral Tablet [Raciran],Drug,RxNorm,S,153465
+19063843,0,0,nizatidine 25 MG/ML Injectable Solution,Drug,RxNorm,S,250851
+950734,0,0,nizatidine 150 MG,Drug,RxNorm,S,316382
+36242168,0,0,Pepcid Complete Pill,Drug,RxNorm,C,1185203
+40167605,20,20,famotidine 10 MG Oral Capsule [Pepcid],Drug,RxNorm,S,865427
+19054264,2905,1435,ranitidine 300 MG Oral Tablet [Rantec],Drug,RxNorm,S,226637
+19010376,48,30,nizatidine 300 MG Oral Capsule [Zinga],Drug,RxNorm,S,108742
+36226495,0,0,domperidone / ranitidine Oral Product,Drug,RxNorm,C,1160207
+950701,0,0,nizatidine 75 MG Oral Tablet [Axid AR],Drug,RxNorm,S,211821
+19054263,0,0,ranitidine 150 MG Oral Tablet [Rantec],Drug,RxNorm,S,226636
+40027996,0,0,cimetidine Oral Tablet [Peptimax 400],Drug,RxNorm,S,381018
+997372,0,0,cimetidine 3 MG/ML,Drug,RxNorm,S,329441
+36232803,0,0,Acitak 400 Pill,Drug,RxNorm,C,1168440
+40027992,0,0,cimetidine Oral Tablet [Acitak 400],Drug,RxNorm,S,381022
+19115762,0,0,cimetidine 400 MG [Peptimax 400],Drug,RxNorm,S,563503
+40155677,0,0,ranitidine Oral Tablet [Zantac],Drug,RxNorm,S,827182
+19079088,4347,1223,nizatidine 150 MG Oral Capsule,Drug,RxNorm,S,312025
+36221700,0,0,ranitidine Injectable Product,Drug,RxNorm,C,1164811
+36242167,0,0,Pepcid Complete Oral Product,Drug,RxNorm,C,1185202
+961082,137550,23748,ranitidine 300 MG Oral Tablet,Drug,RxNorm,S,198193
+961083,0,0,ranitidine 400 MG Oral Tablet,Drug,RxNorm,S,199561
+4307523,0,0,Cimetidine-containing product,Drug,SNOMED,,83532008
+4310194,0,0,Famotidine-containing product,Drug,SNOMED,,39128000
+44818047,0,0,ranitidine 25 MG [Zantac],Drug,RxNorm,S,1537108
+19055547,0,0,nizatidine 75 MG [Axid AR],Drug,RxNorm,S,572152
+36242180,0,0,Peptimax 800 Oral Product,Drug,RxNorm,C,1185215
+19038600,0,0,famotidine 10 MG [Pepcid],Drug,RxNorm,S,491224
+36225021,0,0,nizatidine Oral Product,Drug,RxNorm,C,1159837
+36227831,0,0,Tums Dual Action Pill,Drug,RxNorm,C,1176893
+35606550,0,0,famotidine Injection,Drug,RxNorm,S,1743827
+950739,0,0,nizatidine 15 MG/ML,Drug,RxNorm,S,476873
+36242181,0,0,Peptimax 800 Pill,Drug,RxNorm,C,1185216
+36242177,0,0,Peptimax 200 Pill,Drug,RxNorm,C,1185212
+21600085,0,0,nizatidine; systemic,Drug,ATC,C,A02BA04
+36216558,0,0,cimetidine Pill,Drug,RxNorm,C,1151785
+36242371,0,0,Wal-Zan Pill,Drug,RxNorm,C,1187820
+36241388,0,0,Zinga Pill,Drug,RxNorm,C,1187648
