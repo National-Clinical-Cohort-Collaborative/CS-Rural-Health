@@ -171,7 +171,7 @@ concept_id,steroid_class,ingredient_names,concept_name,count_record,count_patien
 42708516,inhaled,budesonide,60 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler,176497,18231,inhaled,939259,1,S,,[1246316],RxNorm,Quant Clinical Drug
 42708517,inhaled,budesonide,60 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler [Symbicort],236506,24437,inhaled,939259,1,S,,[1246317],RxNorm,Quant Branded Drug
 37002377,inhaled,budesonide,Breztri Inhalant Product,0,0,inhaled,939259,1,C,,[2387324],RxNorm,Branded Dose Group
-939259,unclassified,budesonide,budesonide,966567,72107,,939259,1,S,,[19831],RxNorm,Ingredient
+939259,systemic,budesonide,budesonide,966567,72107,,939259,1,S,,[19831],RxNorm,Ingredient
 4217723,unclassified,budesonide,Budesonide,0,0,,939259,1,S,,[395726003],SNOMED,Substance
 45396373,unclassified,budesonide,Budesonide,,,,939259,1,S,D,[2210001200],GPI,GPI
 45958135,unclassified,budesonide,Budesonide,0,0,,939259,1,S,U,[3517511000001103],SNOMED,Substance
@@ -846,7 +846,7 @@ concept_id,steroid_class,ingredient_names,concept_name,count_record,count_patien
 19088976,systemic,dexamethasone,dexamethasone 0.75 MG [Decadron],0,0,,1518254,1,S,,[575233],RxNorm,Branded Drug Comp
 19095136,systemic,dexamethasone,dexamethasone 0.75 MG Oral Tablet,7325,1949,systemic,1518254,1,S,,[343033],RxNorm,Clinical Drug
 19095151,systemic,dexamethasone,dexamethasone 0.75 MG Oral Tablet [Decadron],1298,774,systemic,1518254,1,S,,[343040],RxNorm,Branded Drug
-1518606,unclassified,dexamethasone,dexamethasone 1 MG,1101330,378928,,1518254,1,S,,[315776],RxNorm,Clinical Drug Comp
+1518606,systemic,dexamethasone,dexamethasone 1 MG,1101330,378928,,1518254,1,S,,[315776],RxNorm,Clinical Drug Comp
 1150865,systemic,dexamethasone,dexamethasone 1 MG / terfenadine 120 MG Extended Release Oral Tablet,0,0,systemic,1518254,1,S,,[252621],RxNorm,Clinical Drug
 19063770,systemic,dexamethasone,dexamethasone 1 MG / terfenadine 120 MG Oral Tablet,0,0,systemic,1518254,1,S,,[250828],RxNorm,Clinical Drug
 19134690,systemic,dexamethasone,dexamethasone 1 MG / theophylline 300 MG Extended Release Oral Tablet,0,0,systemic,1518254,1,S,,[844882],RxNorm,Clinical Drug
@@ -1157,7 +1157,7 @@ concept_id,steroid_class,ingredient_names,concept_name,count_record,count_patien
 40241506,other,dexamethasone,dexamethasone sodium phosphate 1 MG/ML Otic Solution,0,0,other,1518254,1,S,,[1145624],RxNorm,Clinical Drug
 43526128,other,dexamethasone,dexamethasone sodium phosphate 1 MG/ML Topical Cream,0,0,other,1518254,1,S,,[1376063],RxNorm,Clinical Drug
 43526129,other,dexamethasone,dexamethasone sodium phosphate 1 MG/ML Topical Cream [Decadron],0,0,other,1518254,1,S,,[1376066],RxNorm,Branded Drug
-43526135,unclassified,dexamethasone,dexamethasone sodium phosphate 24 MG/ML,337,112,,1518254,1,S,,[1376067],RxNorm,Clinical Drug Comp
+43526135,systemic,dexamethasone,dexamethasone sodium phosphate 24 MG/ML,337,112,,1518254,1,S,,[1376067],RxNorm,Clinical Drug Comp
 43526138,unclassified,dexamethasone,dexamethasone sodium phosphate 24 MG/ML [Decadron],0,0,,1518254,1,S,,[1376069],RxNorm,Branded Drug Comp
 43526136,systemic,dexamethasone,dexamethasone sodium phosphate 24 MG/ML Injectable Solution,19133,911,systemic,1518254,1,S,,[1376068],RxNorm,Clinical Drug
 43526137,systemic,dexamethasone,dexamethasone sodium phosphate 24 MG/ML Injectable Solution [Decadron],0,0,systemic,1518254,1,S,,[1376070],RxNorm,Branded Drug
@@ -3991,7 +3991,7 @@ concept_id,steroid_class,ingredient_names,concept_name,count_record,count_patien
 42902386,inhaled,mometasone,mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler,0,0,inhaled,905233,1,S,,[1359499],RxNorm,Clinical Drug
 42902498,inhaled,mometasone,mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex],0,0,inhaled,905233,1,S,,[1359611],RxNorm,Branded Drug
 40242701,unclassified,mometasone,mometasone furoate 0.37 MG,0,0,,905233,1,S,,[1148517],RxNorm,Clinical Drug Comp
-40242704,unclassified,mometasone,mometasone furoate 0.37 MG [Propel],360,100,,905233,1,S,,[1148521],RxNorm,Branded Drug Comp
+40242704,nasal,mometasone,mometasone furoate 0.37 MG [Propel],360,100,,905233,1,S,,[1148521],RxNorm,Branded Drug Comp
 40242702,systemic,mometasone,mometasone furoate 0.37 MG Drug Implant,287,173,systemic,905233,1,S,,[1148519],RxNorm,Clinical Drug
 40242703,systemic,mometasone,mometasone furoate 0.37 MG Drug Implant [Propel],20,20,systemic,905233,1,S,,[1148523],RxNorm,Branded Drug
 19099139,inhaled,mometasone,mometasone furoate 1 MG/ML,0,0,,905233,1,S,,[358650],RxNorm,Clinical Drug Comp
@@ -4951,7 +4951,7 @@ concept_id,steroid_class,ingredient_names,concept_name,count_record,count_patien
 36228921,systemic,prednisone,Sterapred DS Pill,0,0,systemic,1551099,1,C,,[1178983],RxNorm,Branded Dose Group
 36228922,systemic,prednisone,Sterapred Oral Product,0,0,systemic,1551099,1,C,,[1178984],RxNorm,Branded Dose Group
 36228923,systemic,prednisone,Sterapred Pill,0,0,systemic,1551099,1,C,,[1178985],RxNorm,Branded Dose Group
-19011127,unclassified,prednylidene,prednylidene,1335,503,,19011127,1,S,,[12473],RxNorm,Ingredient
+19011127,systemic,prednylidene,prednylidene,1335,503,,19011127,1,S,,[12473],RxNorm,Ingredient
 19111649,unclassified,prednylidene,prednylidene 24 MG,0,0,,19011127,1,S,,[451150],RxNorm,Clinical Drug Comp
 19106202,systemic,prednylidene,prednylidene 24 MG Oral Tablet,0,0,systemic,19011127,1,S,,[427426],RxNorm,Clinical Drug
 19111651,unclassified,prednylidene,prednylidene 6 MG,0,0,,19011127,1,S,,[451154],RxNorm,Clinical Drug Comp
@@ -5199,7 +5199,7 @@ concept_id,steroid_class,ingredient_names,concept_name,count_record,count_patien
 36227701,other,triamcinolone,Tri-Statin Topical Product,0,0,other,903963,1,C,,[1180344],RxNorm,Branded Dose Group
 36227710,other,triamcinolone,Triacet Topical Product,0,0,other,903963,1,C,,[1180367],RxNorm,Branded Dose Group
 36231646,systemic,triamcinolone,Triam Injectable Product,0,0,systemic,903963,1,C,,[1180964],RxNorm,Branded Dose Group
-903963,unclassified,triamcinolone,triamcinolone,1924402,155400,,903963,1,S,,[10759],RxNorm,Ingredient
+903963,other,triamcinolone,triamcinolone,1924402,155400,,903963,1,S,,[10759],RxNorm,Ingredient
 4023238,unclassified,triamcinolone,Triamcinolone,0,0,,903963,1,S,,[116594009],SNOMED,Substance
 45396391,unclassified,triamcinolone,Triamcinolone,,,,903963,1,S,D,[2210005000],GPI,GPI
 4247273,unclassified,triamcinolone,Triamcinolone-containing product,0,0,,903963,1,S,,[6028009],SNOMED,Pharma/Biol Product
@@ -5237,7 +5237,7 @@ concept_id,steroid_class,ingredient_names,concept_name,count_record,count_patien
 904427,unclassified,triamcinolone,triamcinolone 0.5 MG/ML,0,0,,903963,1,S,,[353417],RxNorm,Clinical Drug Comp
 19091880,unclassified,triamcinolone,triamcinolone 0.6 MG/ML,0,0,,903963,1,S,,[335770],RxNorm,Clinical Drug Comp
 19129069,systemic,triamcinolone,triamcinolone 0.6 MG/ML Oral Solution,0,0,systemic,903963,1,S,,[756201],RxNorm,Clinical Drug
-904332,unclassified,triamcinolone,triamcinolone 1 MG,8467,2316,,903963,1,S,,[317524],RxNorm,Clinical Drug Comp
+904332,other,triamcinolone,triamcinolone 1 MG,8467,2316,,903963,1,S,,[317524],RxNorm,Clinical Drug Comp
 40233947,unclassified,triamcinolone,triamcinolone 1 MG [Aristocort],0,0,,903963,1,S,,[1085694],RxNorm,Branded Drug Comp
 19019891,systemic,triamcinolone,triamcinolone 1 MG Oral Tablet,20,20,systemic,903963,1,S,,[198301],RxNorm,Clinical Drug
 40233946,systemic,triamcinolone,triamcinolone 1 MG Oral Tablet [Aristocort],0,0,systemic,903963,1,S,,[1085696],RxNorm,Branded Drug
