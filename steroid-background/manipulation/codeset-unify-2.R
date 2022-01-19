@@ -192,8 +192,8 @@ col_types_classified <- readr::cols_only(
 # OuhscMunge::readr_spec_aligned(config$path_concept_counts)
 col_types_counts <- readr::cols_only(
   `concept_id`        = readr::col_integer(),
-  `drug_count`        = readr::col_integer(),
-  `patient_count`     = readr::col_integer()
+  `count_record`      = readr::col_integer(),
+  `count_patient`     = readr::col_integer()
 )
 
 # ---- load-data ---------------------------------------------------------------
@@ -252,8 +252,8 @@ ds_concept_counts <-
   ds_concept_counts |>
   dplyr::select(
     concept_id,
-    drug_count,
-    patient_count,
+    count_record,
+    count_patient,
   )
 
 ds <-
@@ -328,8 +328,8 @@ checkmate::assert_character(ds$invalid_reason                            , all.m
 checkmate::assert_character(ds$concept_code                              , any.missing=F , pattern="^\\[.{4,17}\\]$"          , unique=T)
 checkmate::assert_character(ds$vocabulary_id                             , any.missing=F , pattern="^(?:ATC|RxNorm(?: Extension)?|GPI|HCPCS|NDC|SNOMED)$")
 checkmate::assert_character(ds$concept_class_id                          , any.missing=F , pattern="^.{3,50}$"          )
-checkmate::assert_integer(  ds$drug_count                                , any.missing=T , lower=20, upper=9999999      )
-checkmate::assert_integer(  ds$patient_count                             , any.missing=T , lower=20, upper=999999       )
+checkmate::assert_integer(  ds$count_record                              , any.missing=T , lower=0, upper=9999999       )
+checkmate::assert_integer(  ds$count_patient                             , any.missing=T , lower=0, upper= 999999       )
 
 # View(ds[is.na(ds$standard_concept), ])
 # ds$concept_code[!grepl("^.{4,11}$", ds$concept_code)]
@@ -349,8 +349,8 @@ ds_slim <-
     steroid_class,
     ingredient_names,
     concept_name,
-    drug_count,
-    patient_count,
+    count_record,
+    count_patient,
     guess,
     ingredient_concept_ids,
     ingredient_count,
