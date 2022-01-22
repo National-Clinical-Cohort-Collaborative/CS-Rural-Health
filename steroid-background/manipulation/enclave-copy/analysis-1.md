@@ -29,19 +29,20 @@ factor_steroid <- function (x) {
 factor_asthma <- function (x) {
     dplyr::recode_factor(
         x, 
-        '7-none'                        = '7-none',
-        '6-asthma - other'              = '6-other',
-        '5-asthma - unspecified'        = '5-unspecified',
-        '4-mild intermittent asthma'    = '4-mild intermittent',
-        '3-mild persistent asthma'      = '3-mild persist',
-        '2-moderate persistent asthma'  = '2-moderate persist',
-        '1-severe persistent asthma'    = '1-severe persist'
+        '7-none'                        = 'none',
+        '6-asthma - other'              = 'other',
+        '4-mild intermittent asthma'    = 'mild intermittent',
+        '3-mild persistent asthma'      = 'mild persist',
+        '2-moderate persistent asthma'  = 'moderate persist',
+        '1-severe persistent asthma'    = 'severe persist',
+        '5-asthma - unspecified'        = 'unspecified'
     )
 }
 
 prepare_predictors <- function (d) {
     d %>%
         dplyr::mutate(
+            severe_dead    = as.integer(severe_dead),
             inpatient_ed   = as.integer(inpatient_ed),
             steroid        = factor_steroid(steroid_class),
             asthma         = factor_asthma(asthma_category_cdc), 
@@ -146,9 +147,10 @@ LOS Unfiltered
 --------------------
 
 ```r
-    los_unfiltered <- function(Ds_patient_2) {
+los_unfiltered <- function(Ds_patient_2) {
     load_packages()
 
+    main_title    <- "Unfiltered"
     outcome_name  <- "length_of_stay"
     outcome_label <- "Length of Stay"
 
@@ -180,7 +182,8 @@ LOS Unfiltered
             outcome_label = outcome_label,
             y_limits      = y_limits, 
             y_breaks      = y_breaks,
-            y_scale       = y_scale
+            y_scale       = y_scale,
+            title         = main_title
         ) %>%
         print()
       
