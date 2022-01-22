@@ -42,7 +42,7 @@ factor_asthma <- function (x) {
 prepare_predictors <- function (d) {
     d %>%
         dplyr::mutate(
-            # inpatient_ed_2 = as.integer(inpatient_ed),
+            inpatient_ed   = as.integer(inpatient_ed),
             steroid        = factor_steroid(steroid_class),
             asthma         = factor_asthma(asthma_category_cdc), 
         ) %>%
@@ -104,6 +104,7 @@ plot_asthma_by_steroid <- function (
     outcome_label, 
     y_limits = NULL, 
     y_breaks = NULL,
+    y_scale  = NULL,
     title    = NULL
 ) {
     #if (!inherits(ms, "glm")) stop("The class of the `m` argument must be 'glm'.")
@@ -115,8 +116,8 @@ plot_asthma_by_steroid <- function (
         # geom_line() + 
         geom_ribbon() +
         geom_point() +
-        # geom_linerange() +
-        scale_y_continuous(breaks = y_breaks) +
+        geom_linerange() +
+        scale_y_continuous(breaks = y_breaks, labels = y_scale) +
         scale_color_manual(values = palette_dark) +
         scale_fill_manual(values = palette_light) +
         coord_flip(ylim = y_limits) +
@@ -139,14 +140,13 @@ plot_asthma_by_steroid <- function (
             title = title
         )
 }
-
 ```
 
 LOS Unfiltered
 --------------------
 
 ```r
-los_unfiltered <- function (Ds_patient_2) {
+    los_unfiltered <- function(Ds_patient_2) {
     load_packages()
 
     outcome_name  <- "length_of_stay"
@@ -159,6 +159,7 @@ los_unfiltered <- function (Ds_patient_2) {
     glm_link      <- "poisson"
     y_limits      <- c(0, 12)
     y_breaks      <- c(0, 3, 6, 9, 12)
+    y_scale       <- NULL
 
     ds <- 
         Ds_patient_2 %>%
@@ -173,25 +174,25 @@ los_unfiltered <- function (Ds_patient_2) {
     ms <-
         eqs %>%
         purrr::map(function(eq) glm(eq, data = ds, family = glm_link))
-      
-    ts <-
-        list(ms, model_titles) %>%
-        purrr::pmap(function(m, n) tidy_model(m, n))
-        
+
     ms %>%
         plot_asthma_by_steroid(
             outcome_label = outcome_label,
             y_limits      = y_limits, 
-            y_breaks      = y_breaks
+            y_breaks      = y_breaks,
+            y_scale       = y_scale
         ) %>%
         print()
+      
+    bs <-
+        list(ms, model_titles) %>%
+        purrr::pmap(function(m, n) tidy_model(m, n))
 
-    # ts %>%
+    # bs %>%
     #     purrr::walk(function(t) print(t, n = 100))
 
-    ts %>%
+    bs %>%
         purrr::map_dfr(~.) %>%
         dplyr::select(model, term, estimate, std.error, statistic, p.value)
 }
-
 ```
