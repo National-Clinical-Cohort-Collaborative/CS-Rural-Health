@@ -1,0 +1,38 @@
+Concept Id,Concept Name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date
+2788025,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Positive Airway Pressure",Procedure,ICD10PCS,ICD10PCS,S,5A09558,4/22/2014,12/31/2099
+2788027,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Negative Airway Pressure",Procedure,ICD10PCS,ICD10PCS,S,5A0955B,4/22/2014,12/31/2099
+2788026,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Negative Airway Pressure",Procedure,ICD10PCS,ICD10PCS,S,5A09559,4/22/2014,12/31/2099
+2788024,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure",Procedure,ICD10PCS,ICD10PCS,S,5A09557,4/22/2014,12/31/2099
+2788017,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Negative Airway Pressure",Procedure,ICD10PCS,ICD10PCS,S,5A0935B,4/22/2014,12/31/2099
+2787824,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Positive Airway Pressure",Procedure,ICD10PCS,ICD10PCS,S,5A09358,4/22/2014,12/31/2099
+2788016,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Negative Airway Pressure",Procedure,ICD10PCS,ICD10PCS,S,5A09359,4/22/2014,12/31/2099
+2787823,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Positive Airway Pressure",Procedure,ICD10PCS,ICD10PCS,S,5A09357,4/22/2014,12/31/2099
+2788022,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Negative Airway Pressure",Procedure,ICD10PCS,ICD10PCS,S,5A0945B,4/22/2014,12/31/2099
+2788020,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Positive Airway Pressure",Procedure,ICD10PCS,ICD10PCS,S,5A09458,4/22/2014,12/31/2099
+2788021,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Negative Airway Pressure",Procedure,ICD10PCS,ICD10PCS,S,5A09459,4/22/2014,12/31/2099
+1781162,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, High Nasal Flow/Velocity",Procedure,ICD10PCS,ICD10PCS,S,5A0955A,10/1/2020,12/31/2099
+1781160,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, High Nasal Flow/Velocity",Procedure,ICD10PCS,ICD10PCS,S,5A0935A,10/1/2020,12/31/2099
+2788019,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Positive Airway Pressure",Procedure,ICD10PCS,ICD10PCS,S,5A09457,4/22/2014,12/31/2099
+1781161,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, High Nasal Flow/Velocity",Procedure,ICD10PCS,ICD10PCS,S,5A0945A,10/1/2020,12/31/2099
+2743417,"Removal of Tracheostomy Device from Trachea, Via Natural or Artificial Opening Endoscopic",Procedure,ICD10PCS,ICD10PCS,S,0BP18FZ,4/22/2014,12/31/2099
+2788028,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours",Procedure,ICD10PCS,ICD10PCS,S,5A0955Z,4/22/2014,12/31/2099
+2788018,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours",Procedure,ICD10PCS,ICD10PCS,S,5A0935Z,4/22/2014,12/31/2099
+2314035,"Continuous positive airway pressure ventilation (CPAP), initiation and management",Procedure,CPT4,CPT4,S,94660,1/1/1970,12/31/2099
+2788023,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours",Procedure,ICD10PCS,ICD10PCS,S,5A0945Z,4/22/2014,12/31/2099
+2314036,"Continuous negative pressure ventilation (CNP), initiation and management",Procedure,CPT4,CPT4,S,94662,1/1/1970,12/31/2099
+2788035,"Respiratory Ventilation, Single, Nonmechanical",Procedure,ICD10PCS,ICD10PCS,S,5A19054,4/22/2014,12/31/2099
+4155151,Oxygen administration by nasal cannula,Procedure,SNOMED,Procedure,S,371907003,7/31/2002,12/31/2099
+4239130,Oxygen therapy,Procedure,SNOMED,Procedure,S,57485005,1/31/2002,12/31/2099
+3014080,Oxygen gas flow Oxygen delivery system,Measurement,LOINC,Clinical Observation,S,19941-4,1/25/1999,12/31/2099
+3438660,Delivered oxygen flow rate,Measurement,Nebraska Lexicon,Observable Entity,null,427081008,7/31/2007,12/31/2099
+3574723,Delivered oxygen flow rate,Measurement,SNOMED,Observable Entity,null,7.06411E+14,1/1/1970,4/1/2010
+3574702,Delivered oxygen flow rate,Measurement,SNOMED,Observable Entity,null,3.84051E+14,1/1/1970,4/1/2009
+3574685,Delivered oxygen flow rate,Measurement,SNOMED,Observable Entity,null,2.39491E+14,10/2/2006,10/1/2007
+3020716,Inhaled oxygen concentration,Measurement,LOINC,Clinical Observation,S,3150-0,1/1/1970,12/31/2099
+4141684,Delivered oxygen flow rate,Measurement,SNOMED,Observable Entity,S,427081008,7/31/2007,12/31/2099
+3005629,Inhaled oxygen flow rate,Measurement,LOINC,Clinical Observation,S,3151-8,1/1/1970,12/31/2099
+1004397,Oxygen delivery,Observation,LOINC,LOINC Component,null,LP101919-1,1/1/1970,12/31/2099
+3327346,Oxygen delivery,Observation,Nebraska Lexicon,Observable Entity,null,16206004,1/31/2002,12/31/2099
+2614930,Variable concentration mask,Device,HCPCS,HCPCS,S,A4620,1/1/1990,12/31/2099
+2614925,"Cannula, nasal",Device,HCPCS,HCPCS,S,A4615,1/1/1990,12/31/2099
+19025274,oxygen,Drug,RxNorm,Ingredient,S,7806,1/1/1970,12/31/2099
