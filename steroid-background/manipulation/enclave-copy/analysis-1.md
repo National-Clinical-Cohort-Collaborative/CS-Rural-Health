@@ -26,11 +26,25 @@ factor_steroid <- function (x) {
     )
 }
 
+factor_period <- function (x) {
+    factor(
+        x,
+        levels = c(
+            "2020H1"
+            ,"2020H2"
+            ,"2021H1"
+            ,"2021H2"
+            # ,"2022H1"
+            # ,"2022H2"
+        )
+    )
+}
+
 factor_asthma <- function (x) {
     dplyr::recode_factor(
         x, 
         '7-none'                        = 'none',
-        '6-asthma - other'              = 'other',
+        # '6-asthma - other'              = 'other',
         '4-mild intermittent asthma'    = 'mild intermittent',
         '3-mild persistent asthma'      = 'mild persist',
         '2-moderate persistent asthma'  = 'moderate persist',
@@ -41,22 +55,39 @@ factor_asthma <- function (x) {
 
 prepare_predictors <- function (d) {
     d %>%
+        # dplyr::filter(
+        #     hypertension == 0L &
+        #     # upper_gi_bleed == 0L &
+        #     MI == 0L &
+        #     CHF == 0L &
+        #     PVD == 0L &
+        #     stroke == 0L &
+        #     # dementia == 0L &
+        #     # pulmonary == 0L &
+        #     # rheumatic == 0L &
+        #     # PUD == 0L &   # peptic ulcer
+        #     # liver_mild == 0L &
+        #     diabetes == 0L &
+        #     dmcx == 0L &        # ?
+        #     paralysis == 0L &
+        #     renal == 0L &
+        #     cancer == 0L &
+        #     mets == 0L &   # metastatic?
+        #     hiv == 0L
+        # ) %>%
         dplyr::mutate(
             severe_dead    = as.integer(severe_dead),
             inpatient_ed   = as.integer(inpatient_ed),
             steroid        = factor_steroid(steroid_class),
             asthma         = factor_asthma(asthma_category_cdc), 
+            period_first_covid_dx = factor_period(period_first_covid_dx),
+        )  %>%
+        dplyr::select(
+            -steroid_class, 
+            -asthma_category_cdc,
         ) %>%
         tibble::as_tibble()
 }
-
-# build_equation <- function (outcome_name, predictors) {
-#     sprintf(
-#         "%s ~ 1 + %s",
-#         outcome_name,
-#         predictors
-#     )
-# }
 
 tidy_model <- function (m, model_title) {
     m %>%
@@ -76,7 +107,7 @@ palette_dark <- c( # http://colrd.com/image-dna/29746/
   "title"           = "#646596"   # purple
   # "inhaled"         = "#a06e97", # mauve
 )
-palette_light <- scales::alpha(palette_dark, alpha = .8)
+palette_light <- scales::alpha(palette_dark, alpha = .5)
     
 augment_prediction <- function (m, terms) {
     if (!inherits(m, "glm")) stop("The class of the `m` argument must be 'glm'.")
@@ -114,10 +145,10 @@ plot_asthma_by_steroid <- function (
     ms %>%
         purrr::map_df(function(m) augment_prediction(m, terms), .id = "model") %>%
         ggplot(aes(x = x, y = yhat, group = group, color = group, fill = group, ymin = lower, ymax = upper)) +
-        # geom_line() + 
-        geom_ribbon() +
+        geom_line() + 
+        geom_ribbon(color = NA) +
         geom_point() +
-        geom_linerange() +
+        # geom_linerange() +
         scale_y_continuous(breaks = y_breaks, labels = y_scale) +
         scale_color_manual(values = palette_dark) +
         scale_fill_manual(values = palette_light) +
@@ -143,11 +174,65 @@ plot_asthma_by_steroid <- function (
 }
 ```
 
+Cell Counts
+--------------------
+
+```r
+graph_counts_unfiltered_2 <- function(cell_count_unfiltered) {
+    library(ggplot2)
+
+    ds <- 
+        cell_count_unfiltered %>%
+        tibble::as_tibble() %>%
+        dplyr::mutate(
+            steroid        = factor_steroid(steroid_class),
+            asthma         = factor_asthma(asthma_category_cdc), 
+            pt_count       = as.integer(pt_count),                 # from a 64-bit int
+        )
+
+    {
+        ggplot(ds, aes(x = asthma, y = pt_count, group = steroid, color = steroid)) +
+        geom_line(size = 4, alpha = .4) +
+        geom_point(size = 3) +
+        # annotation_logticks() # Not w/ ggplot2 3.3.0: https://stackoverflow.com/a/68972745/1082435
+        scale_y_log10(
+            breaks = scales::trans_breaks("log10", function(x) 10^x),
+            labels = scales::trans_format("log10", scales::math_format(10^.x))
+        ) +
+        scale_color_manual(values = palette_dark) +
+        scale_fill_manual(values = palette_light) +
+        coord_cartesian(ylim = c(10, 5000000)) +
+        # coord_flip(ylim = c(10, 5000000)) +
+        guides(color = guide_legend(override.aes = list(size = 6))) +
+        guides(fill = guide_legend(override.aes = list(alpha = 1))) +
+        theme_minimal(base_size = 20) +
+        theme(legend.position = c(1, 1), legend.justification = c(1, 1)) +
+        theme(legend.title     = element_text(color = palette_dark[["title"]], face = "bold")) +
+        theme(strip.background = element_rect(fill  = palette_dark[["title"]], color = NA)) +
+        theme(strip.text       = element_text(color = "gray97"               , face = "bold")) +
+        theme(axis.title       = element_text(color = palette_dark[["title"]], face = "bold")) +
+        # theme(axis.line = element_line(size = 0)) + # color doesn't work w/ ggeffects
+        theme(panel.grid.major.y = element_line(color = "gray97")) +
+        theme(panel.grid.minor.y = element_blank()) +
+        labs(
+            x     = "Asthma Category", 
+            y     = "Patient Count (log 10)", 
+            color = "Steroid Class",
+            fill  = "Steroid Class",
+            title = "Patient Counts: Asthma x Steroid Combination"
+        )
+    } %>%
+        print()
+    
+    return(ds)
+}
+```
+
 LOS Unfiltered
 --------------------
 
 ```r
-los_unfiltered <- function(Ds_patient_2) {
+los_unfiltered <- function (Ds_patient_2) {
     load_packages()
 
     main_title    <- "Unfiltered"
@@ -161,7 +246,7 @@ los_unfiltered <- function(Ds_patient_2) {
     glm_link      <- "poisson"
     y_limits      <- c(0, 12)
     y_breaks      <- c(0, 3, 6, 9, 12)
-    y_scale       <- NULL
+    y_scale       <- scales::comma_format(accuracy = 1)
 
     ds <- 
         Ds_patient_2 %>%
@@ -172,6 +257,10 @@ los_unfiltered <- function(Ds_patient_2) {
     eqs <- 
         paste0(outcome_name, " ~ ", predictors) %>%
         rlang::set_names(model_titles)
+        
+    ds %>%
+        dplyr::count(steroid, asthma) %>%
+        print(n = 100)
         
     ms <-
         eqs %>%
@@ -197,5 +286,102 @@ los_unfiltered <- function(Ds_patient_2) {
     bs %>%
         purrr::map_dfr(~.) %>%
         dplyr::select(model, term, estimate, std.error, statistic, p.value)
+}
+```
+
+Steroid by Quarter
+--------------------------
+
+```r
+explore_steroid_quarter <- function (Ds_patient_2) {
+    load_packages()
+
+    predictors <- "steroid + quarter_first_covid_dx"
+    terms      <- c("quarter_first_covid_dx", "steroid")
+    title      <- "Steroid by Quarter-Year"
+    
+    ds <- 
+        Ds_patient_2 %>%
+        prepare_predictors()
+
+    outcomes <- 
+        c(
+            "inpatient_ed",
+            "length_of_stay",
+            "severe_dead"
+        ) %>%
+        rlang::set_names()   
+    
+    eqs <- 
+        outcomes %>%
+        purrr::map_chr(function (o) sprintf("%s ~ %s", o, predictors))
+
+    links <- c(
+        "binomial",
+        "poisson",
+        "binomial"
+    )
+
+    d_count <-
+        ds %>%
+        dplyr::count(!!! syms(terms)) %>%
+        dplyr::mutate(
+            yhat    = log10(n),
+            outcome = "patient_count_log10",
+            lower   =  NA_real_,
+            upper   =  NA_real_,
+        ) %>%
+        dplyr::select(
+            outcome,
+            yhat,
+            x         = terms[1],
+            group     = terms[2],
+            lower, 
+            upper,
+        )
+
+    dgs <-                             # datasets for graphing
+        list(eqs, links) %>%
+        purrr::pmap(function (eq, l) glm(eq, data = ds, family = l)) %>%
+        purrr::map_dfr(function (m) augment_prediction(m, terms), .id = "outcome") %>%
+        dplyr::union_all(d_count) %>%
+        dplyr::mutate(
+            outcome = factor(
+                outcome,
+                levels = c("patient_count_log10"  , "inpatient_ed", "length_of_stay", "severe_dead"),
+                labels = c("Patient Count (log10)", "Inpatient/ED", "Length of Stay", "Dead/Severe COVID")
+            )
+        )
+
+    {
+        dgs %>%
+            ggplot(aes(x = x, y = yhat, group = group, color = group, fill = group, ymin = lower, ymax = upper)) +
+            geom_line() +
+            geom_ribbon(color = NA) +
+            scale_color_manual(values = palette_dark) +
+            scale_fill_manual(values = palette_light) +
+            facet_wrap("outcome", scales = "free_y", ncol = 1) + # github.com/zeehio/facetscales
+            guides(color = guide_legend(reverse = TRUE, override.aes = list(size = 6))) +
+            guides(fill  = guide_legend(reverse = TRUE, override.aes = list(alpha = 1))) +
+            theme_minimal(base_size = 20) +
+            # theme(legend.position = c(1, .55), legend.justification = c(1, .5)) +
+            theme(legend.title     = element_text(color = palette_dark[["title"]], face = "bold")) +
+            theme(strip.background = element_rect(fill  = palette_dark[["title"]], color = NA)) +
+            theme(strip.text       = element_text(color = "gray97"               , face = "bold")) +
+            theme(axis.title       = element_text(color = palette_dark[["title"]], face = "bold")) +
+            # theme(axis.line = element_line(size = 0)) + # color doesn't work w/ ggeffects
+            theme(panel.grid.major.y = element_line(color = "gray97")) +
+            theme(panel.grid.minor.y = element_blank()) +
+            labs(
+                x     = NULL, 
+                y     = NULL, 
+                color = "Steroid Class",
+                fill  = "Steroid Class",
+                title = title
+            )
+    } %>%
+        print()
+
+    return (ds)
 }
 ```
