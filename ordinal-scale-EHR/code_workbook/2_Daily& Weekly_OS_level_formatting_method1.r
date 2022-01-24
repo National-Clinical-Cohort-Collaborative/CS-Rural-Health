@@ -1,5 +1,8 @@
 
-#  formatting string OS levels in R
+#   Author: Maryam Khodaverdi 
+#   Date: 06/21
+#   Desc: formatting string OS levels in R
+
 daily_OS_levels <- function(daily_string_level_sql) 
 {
     library(tidyverse)
