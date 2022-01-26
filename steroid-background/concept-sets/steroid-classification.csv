@@ -408,7 +408,7 @@ concept_id,steroid_class,ingredient_names,concept_name,count_record,count_patien
 40095885,systemic,cloprednol,cloprednol Oral Tablet,0,0,systemic,19050907,1,S,,[371585],RxNorm,Clinical Drug Form
 36222257,systemic,cloprednol,cloprednol Pill,0,0,systemic,19050907,1,C,,[1163769],RxNorm,Clinical Dose Group
 21602742,systemic,cloprednol,cloprednol; systemic,0,0,systemic,19050907,1,C,,[H02AB14],ATC,ATC 5th
-1507705,unclassified,cortisone,cortisone,5841,2553,,1507705,1,S,,[2878],RxNorm,Ingredient
+1507705,systemic,cortisone,cortisone,5841,2553,,1507705,1,S,,[2878],RxNorm,Ingredient
 4137589,unclassified,cortisone,Cortisone,0,0,,1507705,1,S,,[32498003],SNOMED,Substance
 45960132,unclassified,cortisone,Cortisone,0,0,,1507705,1,S,U,[10051811000001102],SNOMED,Pharma/Biol Product
 4009023,unclassified,cortisone,Cortisone-containing product,0,0,,1507705,1,S,,[111150008],SNOMED,Pharma/Biol Product
@@ -466,7 +466,7 @@ concept_id,steroid_class,ingredient_names,concept_name,count_record,count_patien
 21602744,systemic,cortivazol,cortivazol; systemic,0,0,systemic,19061907,1,C,,[H02AB17],ATC,ATC 5th
 36236720,systemic,deflazacort,Calcort Oral Product,0,0,systemic,19086888,1,C,,[1171547],RxNorm,Branded Dose Group
 36236721,systemic,deflazacort,Calcort Pill,0,0,systemic,19086888,1,C,,[1171548],RxNorm,Branded Dose Group
-19086888,unclassified,deflazacort,deflazacort,886,126,,19086888,1,S,,[22396],RxNorm,Ingredient
+19086888,systemic,deflazacort,deflazacort,886,126,,19086888,1,S,,[22396],RxNorm,Ingredient
 4213961,unclassified,deflazacort,Deflazacort,0,0,,19086888,1,S,,[396012006],SNOMED,Substance
 40522777,unclassified,deflazacort,Deflazacort,0,0,,19086888,1,S,U,[325471003],SNOMED,Substance
 45958283,unclassified,deflazacort,Deflazacort,0,0,,19086888,1,S,U,[3766511000001100],SNOMED,Substance
@@ -3953,7 +3953,7 @@ concept_id,steroid_class,ingredient_names,concept_name,count_record,count_patien
 36219414,systemic,mometasone,mometasone Drug Implant Product,0,0,systemic,905233,1,C,,[1165390],RxNorm,Clinical Dose Group
 40143326,inhaled,mometasone,mometasone Dry Powder Inhaler,0,0,inhaled,905233,1,S,,[746792],RxNorm,Clinical Drug Form
 40143327,inhaled,mometasone,mometasone Dry Powder Inhaler [Asmanex],0,0,inhaled,905233,1,S,,[746795],RxNorm,Branded Drug Form
-19072126,unclassified,mometasone,mometasone furoate,3495,1943,,905233,1,S,,[30145],RxNorm,Precise Ingredient
+19072126,nasal,mometasone,mometasone furoate,3495,1943,,905233,1,S,,[30145],RxNorm,Precise Ingredient
 4193809,unclassified,mometasone,Mometasone furoate,0,0,,905233,1,S,,[395802006],SNOMED,Substance
 45957942,unclassified,mometasone,Mometasone furoate,0,0,,905233,1,S,U,[3570511000001108],SNOMED,Substance
 45387677,unclassified,mometasone,Mometasone Furoate,,,,905233,1,S,D,[4440003620],GPI,GPI
