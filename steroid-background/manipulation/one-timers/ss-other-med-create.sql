@@ -5,10 +5,19 @@ with ingredient as (
   FROM v6.concept
   WHERE
     concept_id in (  -- ancestor concept name
-      905151           -- 'alclometasone'                      -- probably ignore b/c mostly topical
-      ,1115572         -- 'beclomethasone'
-      ,92048           -- 'betamethasone'
+      1154343	       -- saba: albuterol
+      ,1192218       -- saba: levalbuterol
 
+      ,1593467	     -- biologics: dupilumab
+      ,792993        -- biologics: benralizumab
+      ,35606631      -- biologics: mepolizumab
+      ,35603983      -- biologics: reslizumab
+      ,1110942       -- biologics: omalizumab
+
+      --,19034275	     -- saba: bambuterol we're ignoring this because it won't be used clinically
+      -- 45774639      -- biologics: vedolizumab  not used for asthma; used primary for GI
+      -- ,936429       -- biologics: efalizumab   not used for asthma; withdrawn from the market in 2009 related to lvier disease
+      -- ,1110942      -- biologics: ibalizumab   not used for asthma; used primary for HIV;
     )
 )
 ,downstream as (
@@ -68,34 +77,14 @@ with ingredient as (
 SELECT
   co.concept_id
   ,case
-    when c.concept_name like '%drug implant%'   then 'systemic'
-    when c.concept_name like '%inject%'         then 'systemic'
-    when c.concept_name like '%oral%'           then 'systemic'
-    when c.concept_name like '%pill%'           then 'systemic'
-    when c.concept_name like '%syringe%'        then 'systemic'
-    when c.concept_name like '% systemic%'      then 'systemic'
-    when c.concept_name like '%tablet%'         then 'systemic'
+    when co.ingredient_names like '%dupilumab%'      then 'biologics'
+    when co.ingredient_names like '%benralizumab%'   then 'biologics'
+    when co.ingredient_names like '%mepolizumab%'    then 'biologics'
+    when co.ingredient_names like '%reslizumab%'     then 'biologics'
+    when co.ingredient_names like '%omalizumab%'     then 'biologics'
 
-    when c.concept_name like '%inhal%'          then 'inhaled'
-
-    when c.concept_name like '%nasal%'          then 'nasal'
-
-    when c.concept_name like '%cream%'          then 'other'
-    when c.concept_name like '%enema%'          then 'other'
-    when c.concept_name like '%itch%'           then 'other'
-    when c.concept_name like '%ointment%'       then 'other'
-    when c.concept_name like '%ophthal%'        then 'other'
-    when c.concept_name like '%otic%'           then 'other'
-    when c.concept_name like '% pad%'           then 'other'
-    when c.concept_name like '% paste%'         then 'other'
-    when c.concept_name like '%rectal%'         then 'other'
-    when c.concept_name like '%shampoo%'        then 'other'
-    when c.concept_name like '% soap%'          then 'other'
-    when c.concept_name like '%spray%'          then 'other'
-    when c.concept_name like '%tape%'           then 'other'
-    when c.concept_name like '%toothpaste%'     then 'other'
-    when c.concept_name like '%topical%'        then 'other'
-    when c.concept_name like '%vaginal%'        then 'other'
+    when co.ingredient_names like '%albuterol%'      then 'saba'  -- stands for short acting beta agonist
+    when co.ingredient_names like '%levalbuterol%'   then 'saba'
   end                        as guess
   ,co.ingredient_concept_ids
   ,co.ingredient_names
