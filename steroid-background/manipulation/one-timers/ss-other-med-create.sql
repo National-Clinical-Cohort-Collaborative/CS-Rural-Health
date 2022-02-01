@@ -77,11 +77,11 @@ with ingredient as (
 SELECT
   co.concept_id
   ,case
-    when co.ingredient_names like '%dupilumab%'      then 'biologics'
-    when co.ingredient_names like '%benralizumab%'   then 'biologics'
-    when co.ingredient_names like '%mepolizumab%'    then 'biologics'
-    when co.ingredient_names like '%reslizumab%'     then 'biologics'
-    when co.ingredient_names like '%omalizumab%'     then 'biologics'
+    when co.ingredient_names like '%dupilumab%'      then 'biologic'
+    when co.ingredient_names like '%benralizumab%'   then 'biologic'
+    when co.ingredient_names like '%mepolizumab%'    then 'biologic'
+    when co.ingredient_names like '%reslizumab%'     then 'biologic'
+    when co.ingredient_names like '%omalizumab%'     then 'biologic'
 
     when co.ingredient_names like '%albuterol%'      then 'saba'  -- stands for short acting beta agonist
     when co.ingredient_names like '%levalbuterol%'   then 'saba'
