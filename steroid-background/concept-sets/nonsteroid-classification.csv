@@ -1,4 +1,309 @@
 concept_id,guess,ingredient_concept_ids,ingredient_names,ingredient_count,concept_name,vocabulary_id,concept_class_id,standard_concept
+1154576,saba,1154343,albuterol,1,12 HR albuterol 4 MG Extended Release Oral Tablet,RxNorm,Quant Clinical Drug,S
+1154620,saba,1154343,albuterol,1,12 HR albuterol 4 MG Extended Release Oral Tablet [Proventil],RxNorm,Quant Branded Drug,S
+1154379,saba,1154343,albuterol,1,12 HR albuterol 4 MG Extended Release Oral Tablet [Volmax],RxNorm,Quant Branded Drug,S
+40171426,saba,1154343,albuterol,1,12 HR albuterol 4 MG Extended Release Oral Tablet [Vospire],RxNorm,Quant Branded Drug,S
+1154577,saba,1154343,albuterol,1,12 HR albuterol 8 MG Extended Release Oral Tablet,RxNorm,Quant Clinical Drug,S
+1154378,saba,1154343,albuterol,1,12 HR albuterol 8 MG Extended Release Oral Tablet [Volmax],RxNorm,Quant Branded Drug,S
+40171427,saba,1154343,albuterol,1,12 HR albuterol 8 MG Extended Release Oral Tablet [Vospire],RxNorm,Quant Branded Drug,S
+40243202,saba,1154343,albuterol,1,120 ACTUAT albuterol 0.1 MG/ACTUAT / ipratropium bromide 0.02 MG/ACTUAT Inhalation Spray,RxNorm,Quant Clinical Drug,S
+40243203,saba,1154343,albuterol,1,120 ACTUAT albuterol 0.1 MG/ACTUAT / ipratropium bromide 0.02 MG/ACTUAT Inhalation Spray [Combivent],RxNorm,Quant Branded Drug,S
+1154660,saba,1154343,albuterol,1,200 ACTUAT albuterol 0.09 MG/ACTUAT / ipratropium bromide 0.018 MG/ACTUAT Inhalation Spray,RxNorm,Quant Clinical Drug,S
+1113078,saba,1154343,albuterol,1,200 ACTUAT albuterol 0.09 MG/ACTUAT / ipratropium bromide 0.018 MG/ACTUAT Inhalation Spray [Combivent],RxNorm,Quant Branded Drug,S
+46234464,saba,1154343,albuterol,1,200 ACTUAT albuterol 0.09 MG/ACTUAT Dry Powder Inhaler,RxNorm,Quant Clinical Drug,S
+46234508,saba,1154343,albuterol,1,200 ACTUAT albuterol 0.09 MG/ACTUAT Dry Powder Inhaler [ProAir],RxNorm,Quant Branded Drug,S
+1154615,saba,1154343,albuterol,1,200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,RxNorm,Quant Clinical Drug,S
+1154617,saba,1154343,albuterol,1,80 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,RxNorm,Quant Clinical Drug,S
+40163919,saba,1154343,albuterol,1,80 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin],RxNorm,Quant Branded Drug,S
+36221811,saba,1154343,albuterol,1,Accuneb Inhalant Product,RxNorm,Branded Dose Group,C
+36236443,saba,1154343,albuterol,1,Airet Inhalant Product,RxNorm,Branded Dose Group,C
+1154343,saba,1154343,albuterol,1,albuterol,RxNorm,Ingredient,S
+4160634,saba,1154343,albuterol,1,Albuterol,SNOMED,Substance,NULL
+45387635,saba,1154343,albuterol,1,Albuterol,GPI,GPI,NULL
+36028493,saba,1154343,albuterol,1,Albuterol / Ambroxol,RxNorm,Multiple Ingredients,NULL
+36214218,saba,1154343,albuterol,1,albuterol / ambroxol Oral Liquid Product,RxNorm,Clinical Dose Group,C
+36214219,saba,1154343,albuterol,1,albuterol / ambroxol Oral Product,RxNorm,Clinical Dose Group,C
+40006790,saba,1154343,albuterol,1,albuterol / ambroxol Oral Solution,RxNorm,Clinical Drug Form,S
+36030818,saba,1154343,albuterol,1,Albuterol / Guaifenesin,RxNorm,Multiple Ingredients,NULL
+36214222,saba,1154343,albuterol,1,albuterol / guaifenesin Oral Liquid Product,RxNorm,Clinical Dose Group,C
+36215321,saba,1154343,albuterol,1,albuterol / guaifenesin Oral Product,RxNorm,Clinical Dose Group,C
+40145234,saba,1154343,albuterol,1,albuterol / guaifenesin Oral Solution,RxNorm,Clinical Drug Form,S
+36029881,saba,1154343,albuterol,1,Albuterol / Ipratropium,RxNorm,Multiple Ingredients,NULL
+36215322,saba,1154343,albuterol,1,albuterol / ipratropium Inhalant Product,RxNorm,Clinical Dose Group,C
+1356123,saba,1154343,albuterol,1,albuterol / ipratropium Inhalation Solution,RxNorm,Clinical Drug Form,S
+1356124,saba,1154343,albuterol,1,albuterol / ipratropium Inhalation Solution [DuoNeb],RxNorm,Branded Drug Form,S
+37499261,saba,1154343,albuterol,1,albuterol / ipratropium Inhalation Spray,RxNorm,Clinical Drug Form,S
+37499262,saba,1154343,albuterol,1,albuterol / ipratropium Inhalation Spray [Combivent],RxNorm,Branded Drug Form,S
+36031017,saba,1154343,albuterol,1,Albuterol / Ketotifen / Theophylline,RxNorm,Multiple Ingredients,NULL
+36215519,saba,1154343,albuterol,1,albuterol / ketotifen / theophylline Oral Liquid Product,RxNorm,Clinical Dose Group,C
+36215520,saba,1154343,albuterol,1,albuterol / ketotifen / theophylline Oral Product,RxNorm,Clinical Dose Group,C
+40145235,saba,1154343,albuterol,1,albuterol / ketotifen / theophylline Oral Solution,RxNorm,Clinical Drug Form,S
+40006797,saba,1154343,albuterol,1,albuterol / ketotifen / theophylline Oral Tablet,RxNorm,Clinical Drug Form,S
+36215521,saba,1154343,albuterol,1,albuterol / ketotifen / theophylline Pill,RxNorm,Clinical Dose Group,C
+19108688,saba,1154343,albuterol,1,albuterol 0.01 MG/ML,RxNorm,Clinical Drug Comp,S
+19104814,saba,1154343,albuterol,1,albuterol 0.01 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
+1154497,saba,1154343,albuterol,1,albuterol 0.05 MG/ML,RxNorm,Clinical Drug Comp,S
+19117781,saba,1154343,albuterol,1,albuterol 0.05 MG/ML [Salbuvent],RxNorm,Branded Drug Comp,S
+19115871,saba,1154343,albuterol,1,albuterol 0.05 MG/ML [Ventolin],RxNorm,Branded Drug Comp,S
+19060644,saba,1154343,albuterol,1,albuterol 0.05 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
+19027037,saba,1154343,albuterol,1,albuterol 0.05 MG/ML Injectable Solution [Salbuvent],RxNorm,Branded Drug,S
+19004086,saba,1154343,albuterol,1,albuterol 0.05 MG/ML Injectable Solution [Ventolin],RxNorm,Branded Drug,S
+1154459,saba,1154343,albuterol,1,albuterol 0.09 MG/ACTUAT,RxNorm,Clinical Drug Comp,S
+19021327,saba,1154343,albuterol,1,albuterol 0.09 MG/ACTUAT / ipratropium bromide 0.018 MG/ACTUAT [Combivent],RxNorm,Branded Drug Comp,S
+42902622,saba,1154343,albuterol,1,albuterol 0.09 MG/ACTUAT / ipratropium bromide 0.018 MG/ACTUAT Inhalation Spray,RxNorm,Clinical Drug,S
+42902809,saba,1154343,albuterol,1,albuterol 0.09 MG/ACTUAT / ipratropium bromide 0.018 MG/ACTUAT Inhalation Spray [Combivent],RxNorm,Branded Drug,S
+46234506,saba,1154343,albuterol,1,albuterol 0.09 MG/ACTUAT [ProAir],RxNorm,Branded Drug Comp,S
+19044359,saba,1154343,albuterol,1,albuterol 0.09 MG/ACTUAT [Proventil],RxNorm,Branded Drug Comp,S
+19131110,saba,1154343,albuterol,1,albuterol 0.09 MG/ACTUAT [Ventolin],RxNorm,Branded Drug Comp,S
+46234465,saba,1154343,albuterol,1,albuterol 0.09 MG/ACTUAT Dry Powder Inhaler,RxNorm,Clinical Drug,S
+46234509,saba,1154343,albuterol,1,albuterol 0.09 MG/ACTUAT Dry Powder Inhaler [ProAir],RxNorm,Branded Drug,S
+42903088,saba,1154343,albuterol,1,albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,RxNorm,Clinical Drug,S
+42902448,saba,1154343,albuterol,1,albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir],RxNorm,Branded Drug,S
+42903179,saba,1154343,albuterol,1,albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil],RxNorm,Branded Drug,S
+42902903,saba,1154343,albuterol,1,albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin],RxNorm,Branded Drug,S
+1356174,saba,1154343,albuterol,1,albuterol 0.1 MG,RxNorm,Clinical Drug Comp,S
+1154453,saba,1154343,albuterol,1,albuterol 0.1 MG Inhalation Powder,RxNorm,Clinical Drug,S
+1154496,saba,1154343,albuterol,1,albuterol 0.1 MG/ACTUAT,RxNorm,Clinical Drug Comp,S
+40243275,saba,1154343,albuterol,1,albuterol 0.1 MG/ACTUAT / ipratropium bromide 0.02 MG/ACTUAT [Combivent],RxNorm,Branded Drug Comp,S
+42903409,saba,1154343,albuterol,1,albuterol 0.1 MG/ACTUAT / ipratropium bromide 0.02 MG/ACTUAT Inhalation Spray,RxNorm,Clinical Drug,S
+42903280,saba,1154343,albuterol,1,albuterol 0.1 MG/ACTUAT / ipratropium bromide 0.02 MG/ACTUAT Inhalation Spray [Combivent],RxNorm,Branded Drug,S
+19101999,saba,1154343,albuterol,1,albuterol 0.1 MG/ML,RxNorm,Clinical Drug Comp,S
+19101538,saba,1154343,albuterol,1,albuterol 0.1 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
+1154533,saba,1154343,albuterol,1,albuterol 0.15 MG/ML,RxNorm,Clinical Drug Comp,S
+986180,saba,1154343,albuterol,1,albuterol 0.15 MG/ML / ketotifen 0.08 MG/ML / theophylline 15 MG/ML Oral Solution,RxNorm,Clinical Drug,S
+1356110,saba,1154343,albuterol,1,albuterol 0.2 MG,RxNorm,Clinical Drug Comp,S
+1356112,saba,1154343,albuterol,1,albuterol 0.2 MG [Ventolin],RxNorm,Branded Drug Comp,S
+19072359,saba,1154343,albuterol,1,albuterol 0.2 MG Inhalation Powder,RxNorm,Clinical Drug,S
+40164006,saba,1154343,albuterol,1,albuterol 0.2 MG Inhalation Powder [Ventolin],RxNorm,Branded Drug,S
+19086690,saba,1154343,albuterol,1,albuterol 0.2 MG/ML,RxNorm,Clinical Drug Comp,S
+1166126,saba,1154343,albuterol,1,albuterol 0.2 MG/ML / guaifenesin 10 MG/ML Oral Solution,RxNorm,Clinical Drug,S
+1154541,saba,1154343,albuterol,1,albuterol 0.21 MG/ML,RxNorm,Clinical Drug Comp,S
+19120958,saba,1154343,albuterol,1,albuterol 0.21 MG/ML [Accuneb],RxNorm,Branded Drug Comp,S
+1154536,saba,1154343,albuterol,1,albuterol 0.21 MG/ML Inhalation Solution,RxNorm,Clinical Drug,S
+19098332,saba,1154343,albuterol,1,albuterol 0.21 MG/ML Inhalation Solution [Accuneb],RxNorm,Branded Drug,S
+1356116,saba,1154343,albuterol,1,albuterol 0.4 MG,RxNorm,Clinical Drug Comp,S
+19004125,saba,1154343,albuterol,1,albuterol 0.4 MG Inhalation Powder,RxNorm,Clinical Drug,S
+19085818,saba,1154343,albuterol,1,albuterol 0.4 MG/ML,RxNorm,Clinical Drug Comp,S
+19105773,saba,1154343,albuterol,1,albuterol 0.4 MG/ML / ambroxol 1.5 MG/ML Oral Solution,RxNorm,Clinical Drug,S
+19116924,saba,1154343,albuterol,1,albuterol 0.4 MG/ML [Libetist],RxNorm,Branded Drug Comp,S
+19044360,saba,1154343,albuterol,1,albuterol 0.4 MG/ML [Proventil],RxNorm,Branded Drug Comp,S
+19115323,saba,1154343,albuterol,1,albuterol 0.4 MG/ML [Salbuvent],RxNorm,Branded Drug Comp,S
+19054320,saba,1154343,albuterol,1,albuterol 0.4 MG/ML [Ventolin],RxNorm,Branded Drug Comp,S
+1154654,saba,1154343,albuterol,1,albuterol 0.4 MG/ML Oral Solution,RxNorm,Clinical Drug,S
+19128414,saba,1154343,albuterol,1,albuterol 0.4 MG/ML Oral Solution [Libetist],RxNorm,Branded Drug,S
+19128415,saba,1154343,albuterol,1,albuterol 0.4 MG/ML Oral Solution [Proventil],RxNorm,Branded Drug,S
+19128416,saba,1154343,albuterol,1,albuterol 0.4 MG/ML Oral Solution [Salbuvent],RxNorm,Branded Drug,S
+19128417,saba,1154343,albuterol,1,albuterol 0.4 MG/ML Oral Solution [Ventolin],RxNorm,Branded Drug,S
+19099825,saba,1154343,albuterol,1,albuterol 0.417 MG/ML,RxNorm,Clinical Drug Comp,S
+19120957,saba,1154343,albuterol,1,albuterol 0.417 MG/ML [Accuneb],RxNorm,Branded Drug Comp,S
+1154535,saba,1154343,albuterol,1,albuterol 0.417 MG/ML Inhalation Solution,RxNorm,Clinical Drug,S
+19098331,saba,1154343,albuterol,1,albuterol 0.417 MG/ML Inhalation Solution [Accuneb],RxNorm,Branded Drug,S
+19086687,saba,1154343,albuterol,1,albuterol 0.5 MG/ML,RxNorm,Clinical Drug Comp,S
+19117782,saba,1154343,albuterol,1,albuterol 0.5 MG/ML [Salbuvent],RxNorm,Branded Drug Comp,S
+19115872,saba,1154343,albuterol,1,albuterol 0.5 MG/ML [Ventolin],RxNorm,Branded Drug Comp,S
+1154351,saba,1154343,albuterol,1,albuterol 0.5 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
+19027038,saba,1154343,albuterol,1,albuterol 0.5 MG/ML Injectable Solution [Salbuvent],RxNorm,Branded Drug,S
+19004087,saba,1154343,albuterol,1,albuterol 0.5 MG/ML Injectable Solution [Ventolin],RxNorm,Branded Drug,S
+1154501,saba,1154343,albuterol,1,albuterol 0.83 MG/ML,RxNorm,Clinical Drug Comp,S
+19053005,saba,1154343,albuterol,1,albuterol 0.83 MG/ML [Airet],RxNorm,Branded Drug Comp,S
+19120386,saba,1154343,albuterol,1,albuterol 0.83 MG/ML [Arm-A-Med],RxNorm,Branded Drug Comp,S
+19044358,saba,1154343,albuterol,1,albuterol 0.83 MG/ML [Proventil],RxNorm,Branded Drug Comp,S
+40164015,saba,1154343,albuterol,1,albuterol 0.83 MG/ML [Ventolin],RxNorm,Branded Drug Comp,S
+19123989,saba,1154343,albuterol,1,albuterol 0.83 MG/ML Inhalation Solution,RxNorm,Clinical Drug,S
+1154373,saba,1154343,albuterol,1,albuterol 0.83 MG/ML Inhalation Solution [Airet],RxNorm,Branded Drug,S
+1154374,saba,1154343,albuterol,1,albuterol 0.83 MG/ML Inhalation Solution [Arm-A-Med],RxNorm,Branded Drug,S
+19123990,saba,1154343,albuterol,1,albuterol 0.83 MG/ML Inhalation Solution [Proventil],RxNorm,Branded Drug,S
+40164014,saba,1154343,albuterol,1,albuterol 0.83 MG/ML Inhalation Solution [Ventolin],RxNorm,Branded Drug,S
+19103065,saba,1154343,albuterol,1,albuterol 0.833 MG/ML,RxNorm,Clinical Drug Comp,S
+43560453,saba,1154343,albuterol,1,albuterol 0.833 MG/ML / ipratropium bromide 0.167 MG/ML [DuoNeb],RxNorm,Branded Drug Comp,S
+43560451,saba,1154343,albuterol,1,albuterol 0.833 MG/ML / ipratropium bromide 0.167 MG/ML Inhalation Solution,RxNorm,Clinical Drug,S
+43560452,saba,1154343,albuterol,1,albuterol 0.833 MG/ML / ipratropium bromide 0.167 MG/ML Inhalation Solution [DuoNeb],RxNorm,Branded Drug,S
+19108686,saba,1154343,albuterol,1,albuterol 1 MG,RxNorm,Clinical Drug Comp,S
+19105478,saba,1154343,albuterol,1,albuterol 1 MG Rectal Suppository,RxNorm,Clinical Drug,S
+19093833,saba,1154343,albuterol,1,albuterol 1 MG/ML,RxNorm,Clinical Drug Comp,S
+43011917,saba,1154343,albuterol,1,albuterol 1 MG/ML / ipratropium bromide 0.2 MG/ML Inhalation Solution,RxNorm,Clinical Drug,S
+19115322,saba,1154343,albuterol,1,albuterol 1 MG/ML [Salbulin],RxNorm,Branded Drug Comp,S
+19117783,saba,1154343,albuterol,1,albuterol 1 MG/ML [Salbuvent],RxNorm,Branded Drug Comp,S
+19115873,saba,1154343,albuterol,1,albuterol 1 MG/ML [Ventolin],RxNorm,Branded Drug Comp,S
+19061106,saba,1154343,albuterol,1,albuterol 1 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
+19027039,saba,1154343,albuterol,1,albuterol 1 MG/ML Injectable Solution [Salbuvent],RxNorm,Branded Drug,S
+19004088,saba,1154343,albuterol,1,albuterol 1 MG/ML Injectable Solution [Ventolin],RxNorm,Branded Drug,S
+1154581,saba,1154343,albuterol,1,albuterol 1 MG/ML Oral Solution,RxNorm,Clinical Drug,S
+19000911,saba,1154343,albuterol,1,albuterol 1 MG/ML Oral Solution [Salbulin],RxNorm,Branded Drug,S
+19096013,saba,1154343,albuterol,1,albuterol 1.8 MG,RxNorm,Clinical Drug Comp,S
+19063963,saba,1154343,albuterol,1,albuterol 1.8 MG / ketotifen 0.8 MG / theophylline 230 MG Oral Tablet,RxNorm,Clinical Drug,S
+1154460,saba,1154343,albuterol,1,albuterol 2 MG,RxNorm,Clinical Drug Comp,S
+19117777,saba,1154343,albuterol,1,albuterol 2 MG [Asmaven],RxNorm,Branded Drug Comp,S
+19117776,saba,1154343,albuterol,1,albuterol 2 MG [Cobutolin],RxNorm,Branded Drug Comp,S
+19044391,saba,1154343,albuterol,1,albuterol 2 MG [Proventil],RxNorm,Branded Drug Comp,S
+19115320,saba,1154343,albuterol,1,albuterol 2 MG [Salbulin],RxNorm,Branded Drug Comp,S
+19117775,saba,1154343,albuterol,1,albuterol 2 MG [Salbuvent],RxNorm,Branded Drug Comp,S
+19054317,saba,1154343,albuterol,1,albuterol 2 MG [Ventolin],RxNorm,Branded Drug Comp,S
+1154349,saba,1154343,albuterol,1,albuterol 2 MG Oral Tablet,RxNorm,Clinical Drug,S
+19027033,saba,1154343,albuterol,1,albuterol 2 MG Oral Tablet [Asmaven],RxNorm,Branded Drug,S
+19027032,saba,1154343,albuterol,1,albuterol 2 MG Oral Tablet [Cobutolin],RxNorm,Branded Drug,S
+1154376,saba,1154343,albuterol,1,albuterol 2 MG Oral Tablet [Proventil],RxNorm,Branded Drug,S
+19000909,saba,1154343,albuterol,1,albuterol 2 MG Oral Tablet [Salbulin],RxNorm,Branded Drug,S
+19027031,saba,1154343,albuterol,1,albuterol 2 MG Oral Tablet [Salbuvent],RxNorm,Branded Drug,S
+19000907,saba,1154343,albuterol,1,albuterol 2 MG Oral Tablet [Ventolin],RxNorm,Branded Drug,S
+1154572,saba,1154343,albuterol,1,albuterol 2 MG/ML,RxNorm,Clinical Drug Comp,S
+19060972,saba,1154343,albuterol,1,albuterol 2 MG/ML Inhalation Solution,RxNorm,Clinical Drug,S
+1154458,saba,1154343,albuterol,1,albuterol 4 MG,RxNorm,Clinical Drug Comp,S
+19117780,saba,1154343,albuterol,1,albuterol 4 MG [Asmaven],RxNorm,Branded Drug Comp,S
+19117779,saba,1154343,albuterol,1,albuterol 4 MG [Cobutolin],RxNorm,Branded Drug Comp,S
+19044392,saba,1154343,albuterol,1,albuterol 4 MG [Proventil],RxNorm,Branded Drug Comp,S
+19115321,saba,1154343,albuterol,1,albuterol 4 MG [Salbulin],RxNorm,Branded Drug Comp,S
+19117778,saba,1154343,albuterol,1,albuterol 4 MG [Salbuvent],RxNorm,Branded Drug Comp,S
+19054318,saba,1154343,albuterol,1,albuterol 4 MG [Ventolin],RxNorm,Branded Drug Comp,S
+19023013,saba,1154343,albuterol,1,albuterol 4 MG [Volmax],RxNorm,Branded Drug Comp,S
+19035039,saba,1154343,albuterol,1,albuterol 4 MG [Vospire],RxNorm,Branded Drug Comp,S
+19017861,saba,1154343,albuterol,1,albuterol 4 MG Extended Release Oral Capsule,RxNorm,Clinical Drug,S
+19072360,saba,1154343,albuterol,1,albuterol 4 MG Extended Release Oral Tablet,RxNorm,Clinical Drug,S
+19134868,saba,1154343,albuterol,1,albuterol 4 MG Extended Release Oral Tablet [Proventil],RxNorm,Branded Drug,S
+19004084,saba,1154343,albuterol,1,albuterol 4 MG Extended Release Oral Tablet [Ventolin],RxNorm,Branded Drug,S
+19134513,saba,1154343,albuterol,1,albuterol 4 MG Extended Release Oral Tablet [Volmax],RxNorm,Branded Drug,S
+19098298,saba,1154343,albuterol,1,albuterol 4 MG Extended Release Oral Tablet [Vospire],RxNorm,Branded Drug,S
+1154350,saba,1154343,albuterol,1,albuterol 4 MG Oral Tablet,RxNorm,Clinical Drug,S
+19027036,saba,1154343,albuterol,1,albuterol 4 MG Oral Tablet [Asmaven],RxNorm,Branded Drug,S
+19027035,saba,1154343,albuterol,1,albuterol 4 MG Oral Tablet [Cobutolin],RxNorm,Branded Drug,S
+19048068,saba,1154343,albuterol,1,albuterol 4 MG Oral Tablet [Proventil],RxNorm,Branded Drug,S
+19000910,saba,1154343,albuterol,1,albuterol 4 MG Oral Tablet [Salbulin],RxNorm,Branded Drug,S
+19027034,saba,1154343,albuterol,1,albuterol 4 MG Oral Tablet [Salbuvent],RxNorm,Branded Drug,S
+19000908,saba,1154343,albuterol,1,albuterol 4 MG Oral Tablet [Ventolin],RxNorm,Branded Drug,S
+19108687,saba,1154343,albuterol,1,albuterol 4.8 MG/ML,RxNorm,Clinical Drug Comp,S
+19128692,saba,1154343,albuterol,1,albuterol 4.8 MG/ML Oral Solution,RxNorm,Clinical Drug,S
+1356125,saba,1154343,albuterol,1,albuterol 5 MG/ML,RxNorm,Clinical Drug Comp,S
+1356126,saba,1154343,albuterol,1,albuterol 5 MG/ML [Arm-A-Med],RxNorm,Branded Drug Comp,S
+1356127,saba,1154343,albuterol,1,albuterol 5 MG/ML [Proventil],RxNorm,Branded Drug Comp,S
+1356128,saba,1154343,albuterol,1,albuterol 5 MG/ML [Ventolin],RxNorm,Branded Drug Comp,S
+1154380,saba,1154343,albuterol,1,albuterol 5 MG/ML Inhalation Solution,RxNorm,Clinical Drug,S
+19130040,saba,1154343,albuterol,1,albuterol 5 MG/ML Inhalation Solution [Arm-A-Med],RxNorm,Branded Drug,S
+1154656,saba,1154343,albuterol,1,albuterol 5 MG/ML Inhalation Solution [Proventil],RxNorm,Branded Drug,S
+1154655,saba,1154343,albuterol,1,albuterol 5 MG/ML Inhalation Solution [Ventolin],RxNorm,Branded Drug,S
+1154499,saba,1154343,albuterol,1,albuterol 8 MG,RxNorm,Clinical Drug Comp,S
+19115870,saba,1154343,albuterol,1,albuterol 8 MG [Ventolin],RxNorm,Branded Drug Comp,S
+19023012,saba,1154343,albuterol,1,albuterol 8 MG [Volmax],RxNorm,Branded Drug Comp,S
+19120951,saba,1154343,albuterol,1,albuterol 8 MG [Vospire],RxNorm,Branded Drug Comp,S
+19017862,saba,1154343,albuterol,1,albuterol 8 MG Extended Release Oral Capsule,RxNorm,Clinical Drug,S
+1154457,saba,1154343,albuterol,1,albuterol 8 MG Extended Release Oral Tablet,RxNorm,Clinical Drug,S
+19004085,saba,1154343,albuterol,1,albuterol 8 MG Extended Release Oral Tablet [Ventolin],RxNorm,Branded Drug,S
+19134512,saba,1154343,albuterol,1,albuterol 8 MG Extended Release Oral Tablet [Volmax],RxNorm,Branded Drug,S
+1154537,saba,1154343,albuterol,1,albuterol 8 MG Extended Release Oral Tablet [Vospire],RxNorm,Branded Drug,S
+19101859,saba,1154343,albuterol,1,albuterol 8 MG Oral Tablet,RxNorm,Clinical Drug,S
+44782376,saba,1154343,albuterol,1,ALBUTEROL COMPOUND SOLUTION,HCPCS,HCPCS,NULL
+46234463,saba,1154343,albuterol,1,albuterol Dry Powder Inhaler,RxNorm,Clinical Drug Form,S
+46234507,saba,1154343,albuterol,1,albuterol Dry Powder Inhaler [ProAir],RxNorm,Branded Drug Form,S
+40006960,saba,1154343,albuterol,1,albuterol Extended Release Oral Capsule,RxNorm,Clinical Drug Form,S
+40006962,saba,1154343,albuterol,1,albuterol Extended Release Oral Tablet,RxNorm,Clinical Drug Form,S
+40142702,saba,1154343,albuterol,1,albuterol Extended Release Oral Tablet [Proventil],RxNorm,Branded Drug Form,S
+40006963,saba,1154343,albuterol,1,albuterol Extended Release Oral Tablet [Ventolin],RxNorm,Branded Drug Form,S
+40006908,saba,1154343,albuterol,1,albuterol Extended Release Oral Tablet [Volmax],RxNorm,Branded Drug Form,S
+40006964,saba,1154343,albuterol,1,albuterol Extended Release Oral Tablet [Vospire],RxNorm,Branded Drug Form,S
+36215522,saba,1154343,albuterol,1,albuterol Inhalant Product,RxNorm,Clinical Dose Group,C
+1356111,saba,1154343,albuterol,1,albuterol Inhalation Powder,RxNorm,Clinical Drug Form,S
+1356113,saba,1154343,albuterol,1,albuterol Inhalation Powder [Ventolin],RxNorm,Branded Drug Form,S
+1356108,saba,1154343,albuterol,1,albuterol Inhalation Solution,RxNorm,Clinical Drug Form,S
+1356109,saba,1154343,albuterol,1,albuterol Inhalation Solution [Accuneb],RxNorm,Branded Drug Form,S
+1356117,saba,1154343,albuterol,1,albuterol Inhalation Solution [Airet],RxNorm,Branded Drug Form,S
+1356118,saba,1154343,albuterol,1,albuterol Inhalation Solution [Arm-A-Med],RxNorm,Branded Drug Form,S
+1356119,saba,1154343,albuterol,1,albuterol Inhalation Solution [Proventil],RxNorm,Branded Drug Form,S
+1356122,saba,1154343,albuterol,1,albuterol Inhalation Solution [Ventolin],RxNorm,Branded Drug Form,S
+36215523,saba,1154343,albuterol,1,albuterol Injectable Product,RxNorm,Clinical Dose Group,C
+40006994,saba,1154343,albuterol,1,albuterol Injectable Solution,RxNorm,Clinical Drug Form,S
+40006995,saba,1154343,albuterol,1,albuterol Injectable Solution [Salbuvent],RxNorm,Branded Drug Form,S
+40006996,saba,1154343,albuterol,1,albuterol Injectable Solution [Ventolin],RxNorm,Branded Drug Form,S
+40142703,saba,1154343,albuterol,1,albuterol Metered Dose Inhaler,RxNorm,Clinical Drug Form,S
+46234512,saba,1154343,albuterol,1,albuterol Metered Dose Inhaler [ProAir],RxNorm,Branded Drug Form,S
+40142705,saba,1154343,albuterol,1,albuterol Metered Dose Inhaler [Proventil],RxNorm,Branded Drug Form,S
+40151684,saba,1154343,albuterol,1,albuterol Metered Dose Inhaler [Ventolin],RxNorm,Branded Drug Form,S
+36215524,saba,1154343,albuterol,1,albuterol Oral Liquid Product,RxNorm,Clinical Dose Group,C
+36215525,saba,1154343,albuterol,1,albuterol Oral Product,RxNorm,Clinical Dose Group,C
+40104188,saba,1154343,albuterol,1,albuterol Oral Solution,RxNorm,Clinical Drug Form,S
+40145307,saba,1154343,albuterol,1,albuterol Oral Solution [Libetist],RxNorm,Branded Drug Form,S
+40145308,saba,1154343,albuterol,1,albuterol Oral Solution [Proventil],RxNorm,Branded Drug Form,S
+40082688,saba,1154343,albuterol,1,albuterol Oral Solution [Salbulin],RxNorm,Branded Drug Form,S
+40145309,saba,1154343,albuterol,1,albuterol Oral Solution [Salbuvent],RxNorm,Branded Drug Form,S
+40145310,saba,1154343,albuterol,1,albuterol Oral Solution [Ventolin],RxNorm,Branded Drug Form,S
+40006997,saba,1154343,albuterol,1,albuterol Oral Tablet,RxNorm,Clinical Drug Form,S
+40006998,saba,1154343,albuterol,1,albuterol Oral Tablet [Asmaven],RxNorm,Branded Drug Form,S
+40006999,saba,1154343,albuterol,1,albuterol Oral Tablet [Cobutolin],RxNorm,Branded Drug Form,S
+40007000,saba,1154343,albuterol,1,albuterol Oral Tablet [Proventil],RxNorm,Branded Drug Form,S
+40007001,saba,1154343,albuterol,1,albuterol Oral Tablet [Salbulin],RxNorm,Branded Drug Form,S
+40007002,saba,1154343,albuterol,1,albuterol Oral Tablet [Salbuvent],RxNorm,Branded Drug Form,S
+40007003,saba,1154343,albuterol,1,albuterol Oral Tablet [Ventolin],RxNorm,Branded Drug Form,S
+36215526,saba,1154343,albuterol,1,albuterol Pill,RxNorm,Clinical Dose Group,C
+45086770,saba,1154343,albuterol,1,ALBUTEROL POWDER,NDC,11-digit NDC,NULL
+36215527,saba,1154343,albuterol,1,albuterol Rectal Product,RxNorm,Clinical Dose Group,C
+40007004,saba,1154343,albuterol,1,albuterol Rectal Suppository,RxNorm,Clinical Drug Form,S
+45393917,saba,1154343,albuterol,1,Albuterol Sulfate,GPI,GPI,NULL
+4174960,saba,1154343,albuterol,1,Albuterol sulfate,SNOMED,Substance,NULL
+19011931,saba,1154343,albuterol,1,albuterol sulfate,RxNorm,Precise Ingredient,NULL
+45171902,saba,1154343,albuterol,1,ALBUTEROL SULFATE POWDER,NDC,11-digit NDC,NULL
+45364205,saba,1154343,albuterol,1,ALBUTEROL SULFATE POWDER,NDC,11-digit NDC,NULL
+44967186,saba,1154343,albuterol,1,ALBUTEROL SULFATE POWDER,NDC,11-digit NDC,NULL
+45057166,saba,1154343,albuterol,1,ALBUTEROL SULFATE POWDER,NDC,11-digit NDC,NULL
+45074316,saba,1154343,albuterol,1,ALBUTEROL SULFATE POWDER,NDC,11-digit NDC,NULL
+45137489,saba,1154343,albuterol,1,ALBUTEROL SULFATE POWDER,NDC,11-digit NDC,NULL
+45169745,saba,1154343,albuterol,1,ALBUTEROL SULFATE POWDER,NDC,11-digit NDC,NULL
+45193358,saba,1154343,albuterol,1,ALBUTEROL SULFATE POWDER,NDC,11-digit NDC,NULL
+45221042,saba,1154343,albuterol,1,ALBUTEROL SULFATE POWDER,NDC,11-digit NDC,NULL
+45221043,saba,1154343,albuterol,1,ALBUTEROL SULFATE POWDER,NDC,11-digit NDC,NULL
+45376558,saba,1154343,albuterol,1,ALBUTEROL SULFATE POWDER,NDC,11-digit NDC,NULL
+45376559,saba,1154343,albuterol,1,ALBUTEROL SULFATE POWDER,NDC,11-digit NDC,NULL
+40217575,saba,1154343,albuterol,1,"Albuterol sulfate, 0.5%, per ml, inhalation solution administered through DME",HCPCS,HCPCS,NULL
+40217461,saba,1154343,albuterol,1,"Albuterol sulfate, compounded, per mg, inhalation solution administered through DME",HCPCS,HCPCS,NULL
+2720785,saba,1154343,albuterol,1,"ALBUTEROL, ALL FORMULATIONS INCLUDING SEPARATED ISOMERS, INHALATION SOLUTION, FDA-APPROVED FINAL PRODUCT, NON-COMPOUNDED, ADMINISTERED THROUGH DME, CONCENTRATED FORM, PER 1 MG (ALBUTEROL) OR PER 0.5 MG (LEVALBUTEROL)",HCPCS,HCPCS,NULL
+2720786,saba,1154343,albuterol,1,"ALBUTEROL, ALL FORMULATIONS INCLUDING SEPARATED ISOMERS, INHALATION SOLUTION, FDA-APPROVED FINAL PRODUCT, NON-COMPOUNDED, ADMINISTERED THROUGH DME, UNIT DOSE, PER 1 MG (ALBUTEROL) OR PER 0.5 MG (LEVALBUTEROL)",HCPCS,HCPCS,NULL
+40217785,saba,1154343,albuterol,1,"Albuterol, inhalation solution administered through DME, concentrated form, per milligram",HCPCS,HCPCS,NULL
+40217786,saba,1154343,albuterol,1,"Albuterol, inhalation solution administered through DME, unit dose form, per milligram",HCPCS,HCPCS,NULL
+4228283,saba,1154343,albuterol,1,Albuterol- and ipratropium-containing product,SNOMED,Pharma/Biol Product,NULL
+4237832,saba,1154343,albuterol,1,Albuterol-containing product,SNOMED,Pharma/Biol Product,NULL
+36234409,saba,1154343,albuterol,1,Arm-A-Med Inhalant Product,RxNorm,Branded Dose Group,C
+36234172,saba,1154343,albuterol,1,Asmaven Oral Product,RxNorm,Branded Dose Group,C
+36234173,saba,1154343,albuterol,1,Asmaven Pill,RxNorm,Branded Dose Group,C
+36237526,saba,1154343,albuterol,1,Cobutolin Oral Product,RxNorm,Branded Dose Group,C
+36237527,saba,1154343,albuterol,1,Cobutolin Pill,RxNorm,Branded Dose Group,C
+36219436,saba,1154343,albuterol,1,Combivent Inhalant Product,RxNorm,Branded Dose Group,C
+36219499,saba,1154343,albuterol,1,DuoNeb Inhalant Product,RxNorm,Branded Dose Group,C
+36240753,saba,1154343,albuterol,1,Libetist Oral Liquid Product,RxNorm,Branded Dose Group,C
+36240754,saba,1154343,albuterol,1,Libetist Oral Product,RxNorm,Branded Dose Group,C
+1511248,saba,1154343,albuterol,1,NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,RxNorm,Clinical Drug,S
+1154621,saba,1154343,albuterol,1,NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil],RxNorm,Branded Drug,S
+1511247,saba,1154343,albuterol,1,NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,RxNorm,Clinical Drug,S
+40163900,saba,1154343,albuterol,1,NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin],RxNorm,Branded Drug,S
+19131109,saba,1154343,albuterol,1,NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,RxNorm,Clinical Drug,S
+19131111,saba,1154343,albuterol,1,NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin],RxNorm,Branded Drug,S
+1511246,saba,1154343,albuterol,1,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,RxNorm,Clinical Drug,S
+1154619,saba,1154343,albuterol,1,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir],RxNorm,Branded Drug,S
+36248769,saba,1154343,albuterol,1,ProAir Inhalant Product,RxNorm,Branded Dose Group,C
+36238935,saba,1154343,albuterol,1,Proventil Inhalant Product,RxNorm,Branded Dose Group,C
+36238936,saba,1154343,albuterol,1,Proventil Oral Liquid Product,RxNorm,Branded Dose Group,C
+36238937,saba,1154343,albuterol,1,Proventil Oral Product,RxNorm,Branded Dose Group,C
+36238938,saba,1154343,albuterol,1,Proventil Pill,RxNorm,Branded Dose Group,C
+36240968,saba,1154343,albuterol,1,Salbulin Oral Liquid Product,RxNorm,Branded Dose Group,C
+36240969,saba,1154343,albuterol,1,Salbulin Oral Product,RxNorm,Branded Dose Group,C
+36240970,saba,1154343,albuterol,1,Salbulin Pill,RxNorm,Branded Dose Group,C
+40524272,saba,1154343,albuterol,1,Salbutamol [obstetric],SNOMED,Pharma/Biol Product,NULL
+1123813,saba,1154343,albuterol,1,salbutamol and beclometasone; inhalant,ATC,ATC 5th,C
+43534844,saba,1154343,albuterol,1,salbutamol and ipratropium bromide; inhalant,ATC,ATC 5th,C
+21603278,saba,1154343,albuterol,1,salbutamol and sodium cromoglicate; inhalant,ATC,ATC 5th,C
+21603256,saba,1154343,albuterol,1,salbutamol; inhalant,ATC,ATC 5th,C
+21603312,saba,1154343,albuterol,1,salbutamol; systemic,ATC,ATC 5th,C
+36240972,saba,1154343,albuterol,1,Salbuvent Injectable Product,RxNorm,Branded Dose Group,C
+36240973,saba,1154343,albuterol,1,Salbuvent Oral Liquid Product,RxNorm,Branded Dose Group,C
+36240974,saba,1154343,albuterol,1,Salbuvent Oral Product,RxNorm,Branded Dose Group,C
+36240975,saba,1154343,albuterol,1,Salbuvent Pill,RxNorm,Branded Dose Group,C
+789792,saba,1154343,albuterol,1,Sensor 200 ACTUAT albuterol 0.09 MG/ACTUAT Dry Powder Inhaler,RxNorm,Clinical Drug,S
+789793,saba,1154343,albuterol,1,Sensor 200 ACTUAT albuterol 0.09 MG/ACTUAT Dry Powder Inhaler [ProAir],RxNorm,Branded Drug,S
+36243175,saba,1154343,albuterol,1,Ventolin Inhalant Product,RxNorm,Branded Dose Group,C
+36243176,saba,1154343,albuterol,1,Ventolin Injectable Product,RxNorm,Branded Dose Group,C
+36243178,saba,1154343,albuterol,1,Ventolin Oral Liquid Product,RxNorm,Branded Dose Group,C
+36243179,saba,1154343,albuterol,1,Ventolin Oral Product,RxNorm,Branded Dose Group,C
+36243180,saba,1154343,albuterol,1,Ventolin Pill,RxNorm,Branded Dose Group,C
+36239350,saba,1154343,albuterol,1,Volmax Oral Product,RxNorm,Branded Dose Group,C
+36239351,saba,1154343,albuterol,1,Volmax Pill,RxNorm,Branded Dose Group,C
+36239995,saba,1154343,albuterol,1,Vospire Oral Product,RxNorm,Branded Dose Group,C
+36239996,saba,1154343,albuterol,1,Vospire Pill,RxNorm,Branded Dose Group,C
 37499742,biologics,792993,benralizumab,1,1 ML benralizumab 30 MG/ML Auto-Injector,RxNorm,Quant Clinical Drug,S
 37499743,biologics,792993,benralizumab,1,1 ML benralizumab 30 MG/ML Auto-Injector [Fasenra],RxNorm,Quant Branded Drug,S
 792997,biologics,792993,benralizumab,1,1 ML benralizumab 30 MG/ML Prefilled Syringe,RxNorm,Quant Clinical Drug,S
@@ -54,13 +359,54 @@ concept_id,guess,ingredient_concept_ids,ingredient_names,ingredient_count,concep
 35622225,biologics,1593467,dupilumab,1,Dupilumab-containing product,SNOMED,Pharma/Biol Product,NULL
 1501787,biologics,1593467,dupilumab,1,dupilumab; topical,ATC,ATC 5th,C
 1593495,biologics,1593467,dupilumab,1,Dupixent Injectable Product,RxNorm,Branded Dose Group,C
+1192251,saba,1192218,levalbuterol,1,200 ACTUAT levalbuterol 0.045 MG/ACTUAT Metered Dose Inhaler,RxNorm,Quant Clinical Drug,S
+1192272,saba,1192218,levalbuterol,1,200 ACTUAT levalbuterol 0.045 MG/ACTUAT Metered Dose Inhaler [Xopenex],RxNorm,Quant Branded Drug,S
+40221887,saba,1192218,levalbuterol,1,80 ACTUAT levalbuterol 0.045 MG/ACTUAT Metered Dose Inhaler,RxNorm,Quant Clinical Drug,S
+40221888,saba,1192218,levalbuterol,1,80 ACTUAT levalbuterol 0.045 MG/ACTUAT Metered Dose Inhaler [Xopenex],RxNorm,Quant Branded Drug,S
+4023395,saba,1192218,levalbuterol,1,Levalbuterol,SNOMED,Substance,NULL
+1192218,saba,1192218,levalbuterol,1,levalbuterol,RxNorm,Ingredient,S
+19122205,saba,1192218,levalbuterol,1,levalbuterol 0.045 MG/ACTUAT,RxNorm,Clinical Drug Comp,S
+19124105,saba,1192218,levalbuterol,1,levalbuterol 0.045 MG/ACTUAT [Xopenex],RxNorm,Branded Drug Comp,S
+42903291,saba,1192218,levalbuterol,1,levalbuterol 0.045 MG/ACTUAT Metered Dose Inhaler,RxNorm,Clinical Drug,S
+42902352,saba,1192218,levalbuterol,1,levalbuterol 0.045 MG/ACTUAT Metered Dose Inhaler [Xopenex],RxNorm,Branded Drug,S
+19097993,saba,1192218,levalbuterol,1,levalbuterol 0.103 MG/ML,RxNorm,Clinical Drug Comp,S
+19100307,saba,1192218,levalbuterol,1,levalbuterol 0.103 MG/ML [Xopenex],RxNorm,Branded Drug Comp,S
+19096798,saba,1192218,levalbuterol,1,levalbuterol 0.103 MG/ML Inhalation Solution,RxNorm,Clinical Drug,S
+1192247,saba,1192218,levalbuterol,1,levalbuterol 0.103 MG/ML Inhalation Solution [Xopenex],RxNorm,Branded Drug,S
+1192243,saba,1192218,levalbuterol,1,levalbuterol 0.21 MG/ML,RxNorm,Clinical Drug Comp,S
+19120631,saba,1192218,levalbuterol,1,levalbuterol 0.21 MG/ML [Xopenex],RxNorm,Branded Drug Comp,S
+1192221,saba,1192218,levalbuterol,1,levalbuterol 0.21 MG/ML Inhalation Solution,RxNorm,Clinical Drug,S
+1192220,saba,1192218,levalbuterol,1,levalbuterol 0.21 MG/ML Inhalation Solution [Xopenex],RxNorm,Branded Drug,S
+1192244,saba,1192218,levalbuterol,1,levalbuterol 0.417 MG/ML,RxNorm,Clinical Drug Comp,S
+19100309,saba,1192218,levalbuterol,1,levalbuterol 0.417 MG/ML [Xopenex],RxNorm,Branded Drug Comp,S
+1192219,saba,1192218,levalbuterol,1,levalbuterol 0.417 MG/ML Inhalation Solution,RxNorm,Clinical Drug,S
+19133818,saba,1192218,levalbuterol,1,levalbuterol 0.417 MG/ML Inhalation Solution [Xopenex],RxNorm,Branded Drug,S
+1718291,saba,1192218,levalbuterol,1,levalbuterol 2.5 MG/ML,RxNorm,Clinical Drug Comp,S
+1718293,saba,1192218,levalbuterol,1,levalbuterol 2.5 MG/ML [Xopenex],RxNorm,Branded Drug Comp,S
+1718292,saba,1192218,levalbuterol,1,levalbuterol 2.5 MG/ML Inhalation Solution,RxNorm,Clinical Drug,S
+1718294,saba,1192218,levalbuterol,1,levalbuterol 2.5 MG/ML Inhalation Solution [Xopenex],RxNorm,Branded Drug,S
+44782377,saba,1192218,levalbuterol,1,LEVALBUTEROL COMPOUNDED SOL,HCPCS,HCPCS,NULL
+45390743,saba,1192218,levalbuterol,1,Levalbuterol HCl,GPI,GPI,NULL
+45176342,saba,1192218,levalbuterol,1,LEVALBUTEROL HCL 100% POWDER,NDC,11-digit NDC,NULL
+4259091,saba,1192218,levalbuterol,1,Levalbuterol hydrochloride,SNOMED,Substance,NULL
+19056873,saba,1192218,levalbuterol,1,levalbuterol hydrochloride,RxNorm,Precise Ingredient,NULL
+36220776,saba,1192218,levalbuterol,1,levalbuterol Inhalant Product,RxNorm,Clinical Dose Group,C
+1356103,saba,1192218,levalbuterol,1,levalbuterol Inhalation Solution,RxNorm,Clinical Drug Form,S
+1356105,saba,1192218,levalbuterol,1,levalbuterol Inhalation Solution [Xopenex],RxNorm,Branded Drug Form,S
+40143276,saba,1192218,levalbuterol,1,levalbuterol Metered Dose Inhaler,RxNorm,Clinical Drug Form,S
+40143277,saba,1192218,levalbuterol,1,levalbuterol Metered Dose Inhaler [Xopenex],RxNorm,Branded Drug Form,S
+4142559,saba,1192218,levalbuterol,1,Levalbuterol tartrate,SNOMED,Substance,NULL
+19112952,saba,1192218,levalbuterol,1,levalbuterol tartrate,RxNorm,Precise Ingredient,NULL
+45390744,saba,1192218,levalbuterol,1,Levalbuterol Tartrate,GPI,GPI,NULL
+4162808,saba,1192218,levalbuterol,1,Levalbuterol-containing product,SNOMED,Pharma/Biol Product,NULL
+36241363,saba,1192218,levalbuterol,1,Xopenex Inhalant Product,RxNorm,Branded Dose Group,C
 21603920,biologics,35606631,mepolizumab,1,[U] mepolizumab; parenteral,ATC,ATC 5th,NULL
 1396812,biologics,35606631,mepolizumab,1,1 ML mepolizumab 100 MG/ML Auto-Injector,RxNorm,Quant Clinical Drug,S
 1396813,biologics,35606631,mepolizumab,1,1 ML mepolizumab 100 MG/ML Auto-Injector [Nucala],RxNorm,Quant Branded Drug,S
 1396815,biologics,35606631,mepolizumab,1,1 ML mepolizumab 100 MG/ML Prefilled Syringe,RxNorm,Quant Clinical Drug,S
 1396816,biologics,35606631,mepolizumab,1,1 ML mepolizumab 100 MG/ML Prefilled Syringe [Nucala],RxNorm,Quant Branded Drug,S
-37396289,biologics,35606631,mepolizumab,1,Mepolizumab,SNOMED,Substance,NULL
 37003708,biologics,35606631,mepolizumab,1,Mepolizumab,SNOMED,Substance,NULL
+37396289,biologics,35606631,mepolizumab,1,Mepolizumab,SNOMED,Substance,NULL
 35606631,biologics,35606631,mepolizumab,1,mepolizumab,RxNorm,Ingredient,S
 35606632,biologics,35606631,mepolizumab,1,mepolizumab 100 MG,RxNorm,Clinical Drug Comp,S
 35606636,biologics,35606631,mepolizumab,1,mepolizumab 100 MG [Nucala],RxNorm,Branded Drug Comp,S
@@ -87,8 +433,8 @@ concept_id,guess,ingredient_concept_ids,ingredient_names,ingredient_count,concep
 35202003,biologics,1110942,omalizumab,1,1 ML omalizumab 150 MG/ML Prefilled Syringe,RxNorm,Quant Clinical Drug,S
 35202004,biologics,1110942,omalizumab,1,1 ML omalizumab 150 MG/ML Prefilled Syringe [Xolair],RxNorm,Quant Branded Drug,S
 45403386,biologics,1110942,omalizumab,1,Omalizumab,GPI,GPI,NULL
-4235999,biologics,1110942,omalizumab,1,Omalizumab,SNOMED,Substance,NULL
 1110942,biologics,1110942,omalizumab,1,omalizumab,RxNorm,Ingredient,S
+4235999,biologics,1110942,omalizumab,1,Omalizumab,SNOMED,Substance,NULL
 46276090,biologics,1110942,omalizumab,1,omalizumab 150 MG,RxNorm,Clinical Drug Comp,S
 46276093,biologics,1110942,omalizumab,1,omalizumab 150 MG [Xolair],RxNorm,Branded Drug Comp,S
 46276092,biologics,1110942,omalizumab,1,omalizumab 150 MG Injection,RxNorm,Clinical Drug,S
