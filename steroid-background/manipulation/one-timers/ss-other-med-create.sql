@@ -6,19 +6,19 @@ with ingredient as (
   FROM v6.concept
   WHERE
     concept_id in (  -- ancestor concept name
-      1154343	       -- saba: albuterol
+      1154343        -- saba: albuterol
       ,1192218       -- saba: levalbuterol
 
-      ,1593467	     -- biologics: dupilumab
+      ,1593467       -- biologics: dupilumab
       ,792993        -- biologics: benralizumab
       ,35606631      -- biologics: mepolizumab
       ,35603983      -- biologics: reslizumab
       ,1110942       -- biologics: omalizumab
 
-      --,19034275	     -- saba: bambuterol we're ignoring this because it won't be used clinically
-      -- 45774639      -- biologics: vedolizumab  not used for asthma; used primary for GI
-      -- ,936429       -- biologics: efalizumab   not used for asthma; withdrawn from the market in 2009 related to lvier disease
-      -- ,1110942      -- biologics: ibalizumab   not used for asthma; used primary for HIV;
+      --,19034275      -- saba: bambuterol we're ignoring this because it won't be used clinically
+      --,45774639      -- biologics: vedolizumab  not used for asthma; used primary for GI
+      --,936429        -- biologics: efalizumab   not used for asthma; withdrawn from the market in 2009 related to lvier disease
+      --,1110942       -- biologics: ibalizumab   not used for asthma; used primary for HIV;
     )
 )
 ,downstream as (
