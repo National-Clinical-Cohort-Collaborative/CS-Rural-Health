@@ -304,61 +304,61 @@ concept_id,guess,ingredient_concept_ids,ingredient_names,ingredient_count,concep
 36239351,saba,1154343,albuterol,1,Volmax Pill,RxNorm,Branded Dose Group,C
 36239995,saba,1154343,albuterol,1,Vospire Oral Product,RxNorm,Branded Dose Group,C
 36239996,saba,1154343,albuterol,1,Vospire Pill,RxNorm,Branded Dose Group,C
-37499742,biologics,792993,benralizumab,1,1 ML benralizumab 30 MG/ML Auto-Injector,RxNorm,Quant Clinical Drug,S
-37499743,biologics,792993,benralizumab,1,1 ML benralizumab 30 MG/ML Auto-Injector [Fasenra],RxNorm,Quant Branded Drug,S
-792997,biologics,792993,benralizumab,1,1 ML benralizumab 30 MG/ML Prefilled Syringe,RxNorm,Quant Clinical Drug,S
-793002,biologics,792993,benralizumab,1,1 ML benralizumab 30 MG/ML Prefilled Syringe [Fasenra],RxNorm,Quant Branded Drug,S
-792993,biologics,792993,benralizumab,1,benralizumab,RxNorm,Ingredient,S
-42532312,biologics,792993,benralizumab,1,Benralizumab,SNOMED,Substance,NULL
-35622272,biologics,792993,benralizumab,1,Benralizumab,SNOMED,Substance,NULL
-792994,biologics,792993,benralizumab,1,benralizumab 30 MG/ML,RxNorm,Clinical Drug Comp,S
-792999,biologics,792993,benralizumab,1,benralizumab 30 MG/ML [Fasenra],RxNorm,Branded Drug Comp,S
-37497381,biologics,792993,benralizumab,1,benralizumab 30 MG/ML Auto-Injector,RxNorm,Clinical Drug,S
-37497382,biologics,792993,benralizumab,1,benralizumab 30 MG/ML Auto-Injector [Fasenra],RxNorm,Branded Drug,S
-793003,biologics,792993,benralizumab,1,benralizumab 30 MG/ML Prefilled Syringe,RxNorm,Clinical Drug,S
-793004,biologics,792993,benralizumab,1,benralizumab 30 MG/ML Prefilled Syringe [Fasenra],RxNorm,Branded Drug,S
-37497379,biologics,792993,benralizumab,1,benralizumab Auto-Injector,RxNorm,Clinical Drug Form,S
-37497380,biologics,792993,benralizumab,1,benralizumab Auto-Injector [Fasenra],RxNorm,Branded Drug Form,S
-792995,biologics,792993,benralizumab,1,benralizumab Injectable Product,RxNorm,Clinical Dose Group,C
-792996,biologics,792993,benralizumab,1,benralizumab Prefilled Syringe,RxNorm,Clinical Drug Form,S
-793000,biologics,792993,benralizumab,1,benralizumab Prefilled Syringe [Fasenra],RxNorm,Branded Drug Form,S
-35622273,biologics,792993,benralizumab,1,Benralizumab-containing product,SNOMED,Pharma/Biol Product,NULL
-1502111,biologics,792993,benralizumab,1,benralizumab; systemic,ATC,ATC 5th,C
-793001,biologics,792993,benralizumab,1,Fasenra Injectable Product,RxNorm,Branded Dose Group,C
-1537616,biologics,1593467,dupilumab,1,1.14 ML dupilumab 175 MG/ML Auto-Injector,RxNorm,Quant Clinical Drug,S
-1537617,biologics,1593467,dupilumab,1,1.14 ML dupilumab 175 MG/ML Auto-Injector [Dupixent],RxNorm,Quant Branded Drug,S
-35202010,biologics,1593467,dupilumab,1,1.14 ML dupilumab 175 MG/ML Prefilled Syringe,RxNorm,Quant Clinical Drug,S
-35202011,biologics,1593467,dupilumab,1,1.14 ML dupilumab 175 MG/ML Prefilled Syringe [Dupixent],RxNorm,Quant Branded Drug,S
-1146754,biologics,1593467,dupilumab,1,2 ML dupilumab 150 MG/ML Auto-Injector,RxNorm,Quant Clinical Drug,S
-1146755,biologics,1593467,dupilumab,1,2 ML dupilumab 150 MG/ML Auto-Injector [Dupixent],RxNorm,Quant Branded Drug,S
-1593491,biologics,1593467,dupilumab,1,2 ML dupilumab 150 MG/ML Prefilled Syringe,RxNorm,Quant Clinical Drug,S
-1593496,biologics,1593467,dupilumab,1,2 ML dupilumab 150 MG/ML Prefilled Syringe [Dupixent],RxNorm,Quant Branded Drug,S
-1593467,biologics,1593467,dupilumab,1,dupilumab,RxNorm,Ingredient,S
-37116683,biologics,1593467,dupilumab,1,Dupilumab,SNOMED,Substance,NULL
-1593488,biologics,1593467,dupilumab,1,dupilumab 150 MG/ML,RxNorm,Clinical Drug Comp,S
-1593493,biologics,1593467,dupilumab,1,dupilumab 150 MG/ML [Dupixent],RxNorm,Branded Drug Comp,S
-1146203,biologics,1593467,dupilumab,1,dupilumab 150 MG/ML Auto-Injector,RxNorm,Clinical Drug,S
-1146204,biologics,1593467,dupilumab,1,dupilumab 150 MG/ML Auto-Injector [Dupixent],RxNorm,Branded Drug,S
-1593497,biologics,1593467,dupilumab,1,dupilumab 150 MG/ML Prefilled Syringe,RxNorm,Clinical Drug,S
-1593498,biologics,1593467,dupilumab,1,dupilumab 150 MG/ML Prefilled Syringe [Dupixent],RxNorm,Branded Drug,S
-35201187,biologics,1593467,dupilumab,1,dupilumab 175 MG/ML,RxNorm,Clinical Drug Comp,S
-35201188,biologics,1593467,dupilumab,1,dupilumab 175 MG/ML [Dupixent],RxNorm,Branded Drug Comp,S
-1537188,biologics,1593467,dupilumab,1,dupilumab 175 MG/ML Auto-Injector,RxNorm,Clinical Drug,S
-1537189,biologics,1593467,dupilumab,1,dupilumab 175 MG/ML Auto-Injector [Dupixent],RxNorm,Branded Drug,S
-35201189,biologics,1593467,dupilumab,1,dupilumab 175 MG/ML Prefilled Syringe,RxNorm,Clinical Drug,S
-35201190,biologics,1593467,dupilumab,1,dupilumab 175 MG/ML Prefilled Syringe [Dupixent],RxNorm,Branded Drug,S
-35200997,biologics,1593467,dupilumab,1,dupilumab 200 MG/ML,RxNorm,Clinical Drug Comp,S
-35200998,biologics,1593467,dupilumab,1,dupilumab 200 MG/ML [Dupixent],RxNorm,Branded Drug Comp,S
-35200999,biologics,1593467,dupilumab,1,dupilumab 200 MG/ML Prefilled Syringe,RxNorm,Clinical Drug,S
-35201000,biologics,1593467,dupilumab,1,dupilumab 200 MG/ML Prefilled Syringe [Dupixent],RxNorm,Branded Drug,S
-1146201,biologics,1593467,dupilumab,1,dupilumab Auto-Injector,RxNorm,Clinical Drug Form,S
-1146202,biologics,1593467,dupilumab,1,dupilumab Auto-Injector [Dupixent],RxNorm,Branded Drug Form,S
-1593489,biologics,1593467,dupilumab,1,dupilumab Injectable Product,RxNorm,Clinical Dose Group,C
-1593490,biologics,1593467,dupilumab,1,dupilumab Prefilled Syringe,RxNorm,Clinical Drug Form,S
-1593494,biologics,1593467,dupilumab,1,dupilumab Prefilled Syringe [Dupixent],RxNorm,Branded Drug Form,S
-35622225,biologics,1593467,dupilumab,1,Dupilumab-containing product,SNOMED,Pharma/Biol Product,NULL
-1501787,biologics,1593467,dupilumab,1,dupilumab; topical,ATC,ATC 5th,C
-1593495,biologics,1593467,dupilumab,1,Dupixent Injectable Product,RxNorm,Branded Dose Group,C
+37499742,biologic,792993,benralizumab,1,1 ML benralizumab 30 MG/ML Auto-Injector,RxNorm,Quant Clinical Drug,S
+37499743,biologic,792993,benralizumab,1,1 ML benralizumab 30 MG/ML Auto-Injector [Fasenra],RxNorm,Quant Branded Drug,S
+792997,biologic,792993,benralizumab,1,1 ML benralizumab 30 MG/ML Prefilled Syringe,RxNorm,Quant Clinical Drug,S
+793002,biologic,792993,benralizumab,1,1 ML benralizumab 30 MG/ML Prefilled Syringe [Fasenra],RxNorm,Quant Branded Drug,S
+792993,biologic,792993,benralizumab,1,benralizumab,RxNorm,Ingredient,S
+42532312,biologic,792993,benralizumab,1,Benralizumab,SNOMED,Substance,NULL
+35622272,biologic,792993,benralizumab,1,Benralizumab,SNOMED,Substance,NULL
+792994,biologic,792993,benralizumab,1,benralizumab 30 MG/ML,RxNorm,Clinical Drug Comp,S
+792999,biologic,792993,benralizumab,1,benralizumab 30 MG/ML [Fasenra],RxNorm,Branded Drug Comp,S
+37497381,biologic,792993,benralizumab,1,benralizumab 30 MG/ML Auto-Injector,RxNorm,Clinical Drug,S
+37497382,biologic,792993,benralizumab,1,benralizumab 30 MG/ML Auto-Injector [Fasenra],RxNorm,Branded Drug,S
+793003,biologic,792993,benralizumab,1,benralizumab 30 MG/ML Prefilled Syringe,RxNorm,Clinical Drug,S
+793004,biologic,792993,benralizumab,1,benralizumab 30 MG/ML Prefilled Syringe [Fasenra],RxNorm,Branded Drug,S
+37497379,biologic,792993,benralizumab,1,benralizumab Auto-Injector,RxNorm,Clinical Drug Form,S
+37497380,biologic,792993,benralizumab,1,benralizumab Auto-Injector [Fasenra],RxNorm,Branded Drug Form,S
+792995,biologic,792993,benralizumab,1,benralizumab Injectable Product,RxNorm,Clinical Dose Group,C
+792996,biologic,792993,benralizumab,1,benralizumab Prefilled Syringe,RxNorm,Clinical Drug Form,S
+793000,biologic,792993,benralizumab,1,benralizumab Prefilled Syringe [Fasenra],RxNorm,Branded Drug Form,S
+35622273,biologic,792993,benralizumab,1,Benralizumab-containing product,SNOMED,Pharma/Biol Product,NULL
+1502111,biologic,792993,benralizumab,1,benralizumab; systemic,ATC,ATC 5th,C
+793001,biologic,792993,benralizumab,1,Fasenra Injectable Product,RxNorm,Branded Dose Group,C
+1537616,biologic,1593467,dupilumab,1,1.14 ML dupilumab 175 MG/ML Auto-Injector,RxNorm,Quant Clinical Drug,S
+1537617,biologic,1593467,dupilumab,1,1.14 ML dupilumab 175 MG/ML Auto-Injector [Dupixent],RxNorm,Quant Branded Drug,S
+35202010,biologic,1593467,dupilumab,1,1.14 ML dupilumab 175 MG/ML Prefilled Syringe,RxNorm,Quant Clinical Drug,S
+35202011,biologic,1593467,dupilumab,1,1.14 ML dupilumab 175 MG/ML Prefilled Syringe [Dupixent],RxNorm,Quant Branded Drug,S
+1146754,biologic,1593467,dupilumab,1,2 ML dupilumab 150 MG/ML Auto-Injector,RxNorm,Quant Clinical Drug,S
+1146755,biologic,1593467,dupilumab,1,2 ML dupilumab 150 MG/ML Auto-Injector [Dupixent],RxNorm,Quant Branded Drug,S
+1593491,biologic,1593467,dupilumab,1,2 ML dupilumab 150 MG/ML Prefilled Syringe,RxNorm,Quant Clinical Drug,S
+1593496,biologic,1593467,dupilumab,1,2 ML dupilumab 150 MG/ML Prefilled Syringe [Dupixent],RxNorm,Quant Branded Drug,S
+1593467,biologic,1593467,dupilumab,1,dupilumab,RxNorm,Ingredient,S
+37116683,biologic,1593467,dupilumab,1,Dupilumab,SNOMED,Substance,NULL
+1593488,biologic,1593467,dupilumab,1,dupilumab 150 MG/ML,RxNorm,Clinical Drug Comp,S
+1593493,biologic,1593467,dupilumab,1,dupilumab 150 MG/ML [Dupixent],RxNorm,Branded Drug Comp,S
+1146203,biologic,1593467,dupilumab,1,dupilumab 150 MG/ML Auto-Injector,RxNorm,Clinical Drug,S
+1146204,biologic,1593467,dupilumab,1,dupilumab 150 MG/ML Auto-Injector [Dupixent],RxNorm,Branded Drug,S
+1593497,biologic,1593467,dupilumab,1,dupilumab 150 MG/ML Prefilled Syringe,RxNorm,Clinical Drug,S
+1593498,biologic,1593467,dupilumab,1,dupilumab 150 MG/ML Prefilled Syringe [Dupixent],RxNorm,Branded Drug,S
+35201187,biologic,1593467,dupilumab,1,dupilumab 175 MG/ML,RxNorm,Clinical Drug Comp,S
+35201188,biologic,1593467,dupilumab,1,dupilumab 175 MG/ML [Dupixent],RxNorm,Branded Drug Comp,S
+1537188,biologic,1593467,dupilumab,1,dupilumab 175 MG/ML Auto-Injector,RxNorm,Clinical Drug,S
+1537189,biologic,1593467,dupilumab,1,dupilumab 175 MG/ML Auto-Injector [Dupixent],RxNorm,Branded Drug,S
+35201189,biologic,1593467,dupilumab,1,dupilumab 175 MG/ML Prefilled Syringe,RxNorm,Clinical Drug,S
+35201190,biologic,1593467,dupilumab,1,dupilumab 175 MG/ML Prefilled Syringe [Dupixent],RxNorm,Branded Drug,S
+35200997,biologic,1593467,dupilumab,1,dupilumab 200 MG/ML,RxNorm,Clinical Drug Comp,S
+35200998,biologic,1593467,dupilumab,1,dupilumab 200 MG/ML [Dupixent],RxNorm,Branded Drug Comp,S
+35200999,biologic,1593467,dupilumab,1,dupilumab 200 MG/ML Prefilled Syringe,RxNorm,Clinical Drug,S
+35201000,biologic,1593467,dupilumab,1,dupilumab 200 MG/ML Prefilled Syringe [Dupixent],RxNorm,Branded Drug,S
+1146201,biologic,1593467,dupilumab,1,dupilumab Auto-Injector,RxNorm,Clinical Drug Form,S
+1146202,biologic,1593467,dupilumab,1,dupilumab Auto-Injector [Dupixent],RxNorm,Branded Drug Form,S
+1593489,biologic,1593467,dupilumab,1,dupilumab Injectable Product,RxNorm,Clinical Dose Group,C
+1593490,biologic,1593467,dupilumab,1,dupilumab Prefilled Syringe,RxNorm,Clinical Drug Form,S
+1593494,biologic,1593467,dupilumab,1,dupilumab Prefilled Syringe [Dupixent],RxNorm,Branded Drug Form,S
+35622225,biologic,1593467,dupilumab,1,Dupilumab-containing product,SNOMED,Pharma/Biol Product,NULL
+1501787,biologic,1593467,dupilumab,1,dupilumab; topical,ATC,ATC 5th,C
+1593495,biologic,1593467,dupilumab,1,Dupixent Injectable Product,RxNorm,Branded Dose Group,C
 1192251,saba,1192218,levalbuterol,1,200 ACTUAT levalbuterol 0.045 MG/ACTUAT Metered Dose Inhaler,RxNorm,Quant Clinical Drug,S
 1192272,saba,1192218,levalbuterol,1,200 ACTUAT levalbuterol 0.045 MG/ACTUAT Metered Dose Inhaler [Xopenex],RxNorm,Quant Branded Drug,S
 40221887,saba,1192218,levalbuterol,1,80 ACTUAT levalbuterol 0.045 MG/ACTUAT Metered Dose Inhaler,RxNorm,Quant Clinical Drug,S
@@ -400,69 +400,69 @@ concept_id,guess,ingredient_concept_ids,ingredient_names,ingredient_count,concep
 45390744,saba,1192218,levalbuterol,1,Levalbuterol Tartrate,GPI,GPI,NULL
 4162808,saba,1192218,levalbuterol,1,Levalbuterol-containing product,SNOMED,Pharma/Biol Product,NULL
 36241363,saba,1192218,levalbuterol,1,Xopenex Inhalant Product,RxNorm,Branded Dose Group,C
-21603920,biologics,35606631,mepolizumab,1,[U] mepolizumab; parenteral,ATC,ATC 5th,NULL
-1396812,biologics,35606631,mepolizumab,1,1 ML mepolizumab 100 MG/ML Auto-Injector,RxNorm,Quant Clinical Drug,S
-1396813,biologics,35606631,mepolizumab,1,1 ML mepolizumab 100 MG/ML Auto-Injector [Nucala],RxNorm,Quant Branded Drug,S
-1396815,biologics,35606631,mepolizumab,1,1 ML mepolizumab 100 MG/ML Prefilled Syringe,RxNorm,Quant Clinical Drug,S
-1396816,biologics,35606631,mepolizumab,1,1 ML mepolizumab 100 MG/ML Prefilled Syringe [Nucala],RxNorm,Quant Branded Drug,S
-37003708,biologics,35606631,mepolizumab,1,Mepolizumab,SNOMED,Substance,NULL
-37396289,biologics,35606631,mepolizumab,1,Mepolizumab,SNOMED,Substance,NULL
-35606631,biologics,35606631,mepolizumab,1,mepolizumab,RxNorm,Ingredient,S
-35606632,biologics,35606631,mepolizumab,1,mepolizumab 100 MG,RxNorm,Clinical Drug Comp,S
-35606636,biologics,35606631,mepolizumab,1,mepolizumab 100 MG [Nucala],RxNorm,Branded Drug Comp,S
-35606634,biologics,35606631,mepolizumab,1,mepolizumab 100 MG Injection,RxNorm,Clinical Drug,S
-35606638,biologics,35606631,mepolizumab,1,mepolizumab 100 MG Injection [Nucala],RxNorm,Branded Drug,S
-1396501,biologics,35606631,mepolizumab,1,mepolizumab 100 MG/ML,RxNorm,Clinical Drug Comp,S
-1396503,biologics,35606631,mepolizumab,1,mepolizumab 100 MG/ML [Nucala],RxNorm,Branded Drug Comp,S
-1396505,biologics,35606631,mepolizumab,1,mepolizumab 100 MG/ML Auto-Injector,RxNorm,Clinical Drug,S
-1396506,biologics,35606631,mepolizumab,1,mepolizumab 100 MG/ML Auto-Injector [Nucala],RxNorm,Branded Drug,S
-1396658,biologics,35606631,mepolizumab,1,mepolizumab 100 MG/ML Prefilled Syringe,RxNorm,Clinical Drug,S
-1396659,biologics,35606631,mepolizumab,1,mepolizumab 100 MG/ML Prefilled Syringe [Nucala],RxNorm,Branded Drug,S
-1396502,biologics,35606631,mepolizumab,1,mepolizumab Auto-Injector,RxNorm,Clinical Drug Form,S
-1396504,biologics,35606631,mepolizumab,1,mepolizumab Auto-Injector [Nucala],RxNorm,Branded Drug Form,S
-36248433,biologics,35606631,mepolizumab,1,mepolizumab Injectable Product,RxNorm,Clinical Dose Group,C
-35606633,biologics,35606631,mepolizumab,1,mepolizumab Injection,RxNorm,Clinical Drug Form,S
-35606637,biologics,35606631,mepolizumab,1,mepolizumab Injection [Nucala],RxNorm,Branded Drug Form,S
-1396656,biologics,35606631,mepolizumab,1,mepolizumab Prefilled Syringe,RxNorm,Clinical Drug Form,S
-1396657,biologics,35606631,mepolizumab,1,mepolizumab Prefilled Syringe [Nucala],RxNorm,Branded Drug Form,S
-36683410,biologics,35606631,mepolizumab,1,Mepolizumab-containing product,SNOMED,Pharma/Biol Product,NULL
-1123828,biologics,35606631,mepolizumab,1,mepolizumab; parenteral,ATC,ATC 5th,C
-36248434,biologics,35606631,mepolizumab,1,Nucala Injectable Product,RxNorm,Branded Dose Group,C
-35202005,biologics,1110942,omalizumab,1,0.5 ML omalizumab 150 MG/ML Prefilled Syringe,RxNorm,Quant Clinical Drug,S
-35202006,biologics,1110942,omalizumab,1,0.5 ML omalizumab 150 MG/ML Prefilled Syringe [Xolair],RxNorm,Quant Branded Drug,S
-35202003,biologics,1110942,omalizumab,1,1 ML omalizumab 150 MG/ML Prefilled Syringe,RxNorm,Quant Clinical Drug,S
-35202004,biologics,1110942,omalizumab,1,1 ML omalizumab 150 MG/ML Prefilled Syringe [Xolair],RxNorm,Quant Branded Drug,S
-45403386,biologics,1110942,omalizumab,1,Omalizumab,GPI,GPI,NULL
-1110942,biologics,1110942,omalizumab,1,omalizumab,RxNorm,Ingredient,S
-4235999,biologics,1110942,omalizumab,1,Omalizumab,SNOMED,Substance,NULL
-46276090,biologics,1110942,omalizumab,1,omalizumab 150 MG,RxNorm,Clinical Drug Comp,S
-46276093,biologics,1110942,omalizumab,1,omalizumab 150 MG [Xolair],RxNorm,Branded Drug Comp,S
-46276092,biologics,1110942,omalizumab,1,omalizumab 150 MG Injection,RxNorm,Clinical Drug,S
-46276095,biologics,1110942,omalizumab,1,omalizumab 150 MG Injection [Xolair],RxNorm,Branded Drug,S
-35200865,biologics,1110942,omalizumab,1,omalizumab 150 MG/ML,RxNorm,Clinical Drug Comp,S
-35200867,biologics,1110942,omalizumab,1,omalizumab 150 MG/ML [Xolair],RxNorm,Branded Drug Comp,S
-35200869,biologics,1110942,omalizumab,1,omalizumab 150 MG/ML Prefilled Syringe,RxNorm,Clinical Drug,S
-35200870,biologics,1110942,omalizumab,1,omalizumab 150 MG/ML Prefilled Syringe [Xolair],RxNorm,Branded Drug,S
-36223882,biologics,1110942,omalizumab,1,omalizumab Injectable Product,RxNorm,Clinical Dose Group,C
-46276091,biologics,1110942,omalizumab,1,omalizumab Injection,RxNorm,Clinical Drug Form,S
-46276094,biologics,1110942,omalizumab,1,omalizumab Injection [Xolair],RxNorm,Branded Drug Form,S
-35200866,biologics,1110942,omalizumab,1,omalizumab Prefilled Syringe,RxNorm,Clinical Drug Form,S
-35200868,biologics,1110942,omalizumab,1,omalizumab Prefilled Syringe [Xolair],RxNorm,Branded Drug Form,S
-4248987,biologics,1110942,omalizumab,1,Omalizumab-containing product,SNOMED,Pharma/Biol Product,NULL
-21603362,biologics,1110942,omalizumab,1,omalizumab; parenteral,ATC,ATC 5th,C
-36241359,biologics,1110942,omalizumab,1,Xolair Injectable Product,RxNorm,Branded Dose Group,C
-35603986,biologics,35603983,reslizumab,1,10 ML reslizumab 10 MG/ML Injection,RxNorm,Quant Clinical Drug,S
-35603990,biologics,35603983,reslizumab,1,10 ML reslizumab 10 MG/ML Injection [Cinqair],RxNorm,Quant Branded Drug,S
-36249396,biologics,35603983,reslizumab,1,Cinqair Injectable Product,RxNorm,Branded Dose Group,C
-37397135,biologics,35603983,reslizumab,1,Reslizumab,SNOMED,Substance,NULL
-36703630,biologics,35603983,reslizumab,1,Reslizumab,SNOMED,Substance,NULL
-35603983,biologics,35603983,reslizumab,1,reslizumab,RxNorm,Ingredient,S
-35603984,biologics,35603983,reslizumab,1,reslizumab 10 MG/ML,RxNorm,Clinical Drug Comp,S
-35603988,biologics,35603983,reslizumab,1,reslizumab 10 MG/ML [Cinqair],RxNorm,Branded Drug Comp,S
-35603991,biologics,35603983,reslizumab,1,reslizumab 10 MG/ML Injection,RxNorm,Clinical Drug,S
-35603992,biologics,35603983,reslizumab,1,reslizumab 10 MG/ML Injection [Cinqair],RxNorm,Branded Drug,S
-36249395,biologics,35603983,reslizumab,1,reslizumab Injectable Product,RxNorm,Clinical Dose Group,C
-35603985,biologics,35603983,reslizumab,1,reslizumab Injection,RxNorm,Clinical Drug Form,S
-35603989,biologics,35603983,reslizumab,1,reslizumab Injection [Cinqair],RxNorm,Branded Drug Form,S
-36683395,biologics,35603983,reslizumab,1,Reslizumab-containing product,SNOMED,Pharma/Biol Product,NULL
-1588701,biologics,35603983,reslizumab,1,reslizumab; systemic,ATC,ATC 5th,C
+21603920,biologic,35606631,mepolizumab,1,[U] mepolizumab; parenteral,ATC,ATC 5th,NULL
+1396812,biologic,35606631,mepolizumab,1,1 ML mepolizumab 100 MG/ML Auto-Injector,RxNorm,Quant Clinical Drug,S
+1396813,biologic,35606631,mepolizumab,1,1 ML mepolizumab 100 MG/ML Auto-Injector [Nucala],RxNorm,Quant Branded Drug,S
+1396815,biologic,35606631,mepolizumab,1,1 ML mepolizumab 100 MG/ML Prefilled Syringe,RxNorm,Quant Clinical Drug,S
+1396816,biologic,35606631,mepolizumab,1,1 ML mepolizumab 100 MG/ML Prefilled Syringe [Nucala],RxNorm,Quant Branded Drug,S
+37003708,biologic,35606631,mepolizumab,1,Mepolizumab,SNOMED,Substance,NULL
+37396289,biologic,35606631,mepolizumab,1,Mepolizumab,SNOMED,Substance,NULL
+35606631,biologic,35606631,mepolizumab,1,mepolizumab,RxNorm,Ingredient,S
+35606632,biologic,35606631,mepolizumab,1,mepolizumab 100 MG,RxNorm,Clinical Drug Comp,S
+35606636,biologic,35606631,mepolizumab,1,mepolizumab 100 MG [Nucala],RxNorm,Branded Drug Comp,S
+35606634,biologic,35606631,mepolizumab,1,mepolizumab 100 MG Injection,RxNorm,Clinical Drug,S
+35606638,biologic,35606631,mepolizumab,1,mepolizumab 100 MG Injection [Nucala],RxNorm,Branded Drug,S
+1396501,biologic,35606631,mepolizumab,1,mepolizumab 100 MG/ML,RxNorm,Clinical Drug Comp,S
+1396503,biologic,35606631,mepolizumab,1,mepolizumab 100 MG/ML [Nucala],RxNorm,Branded Drug Comp,S
+1396505,biologic,35606631,mepolizumab,1,mepolizumab 100 MG/ML Auto-Injector,RxNorm,Clinical Drug,S
+1396506,biologic,35606631,mepolizumab,1,mepolizumab 100 MG/ML Auto-Injector [Nucala],RxNorm,Branded Drug,S
+1396658,biologic,35606631,mepolizumab,1,mepolizumab 100 MG/ML Prefilled Syringe,RxNorm,Clinical Drug,S
+1396659,biologic,35606631,mepolizumab,1,mepolizumab 100 MG/ML Prefilled Syringe [Nucala],RxNorm,Branded Drug,S
+1396502,biologic,35606631,mepolizumab,1,mepolizumab Auto-Injector,RxNorm,Clinical Drug Form,S
+1396504,biologic,35606631,mepolizumab,1,mepolizumab Auto-Injector [Nucala],RxNorm,Branded Drug Form,S
+36248433,biologic,35606631,mepolizumab,1,mepolizumab Injectable Product,RxNorm,Clinical Dose Group,C
+35606633,biologic,35606631,mepolizumab,1,mepolizumab Injection,RxNorm,Clinical Drug Form,S
+35606637,biologic,35606631,mepolizumab,1,mepolizumab Injection [Nucala],RxNorm,Branded Drug Form,S
+1396656,biologic,35606631,mepolizumab,1,mepolizumab Prefilled Syringe,RxNorm,Clinical Drug Form,S
+1396657,biologic,35606631,mepolizumab,1,mepolizumab Prefilled Syringe [Nucala],RxNorm,Branded Drug Form,S
+36683410,biologic,35606631,mepolizumab,1,Mepolizumab-containing product,SNOMED,Pharma/Biol Product,NULL
+1123828,biologic,35606631,mepolizumab,1,mepolizumab; parenteral,ATC,ATC 5th,C
+36248434,biologic,35606631,mepolizumab,1,Nucala Injectable Product,RxNorm,Branded Dose Group,C
+35202005,biologic,1110942,omalizumab,1,0.5 ML omalizumab 150 MG/ML Prefilled Syringe,RxNorm,Quant Clinical Drug,S
+35202006,biologic,1110942,omalizumab,1,0.5 ML omalizumab 150 MG/ML Prefilled Syringe [Xolair],RxNorm,Quant Branded Drug,S
+35202003,biologic,1110942,omalizumab,1,1 ML omalizumab 150 MG/ML Prefilled Syringe,RxNorm,Quant Clinical Drug,S
+35202004,biologic,1110942,omalizumab,1,1 ML omalizumab 150 MG/ML Prefilled Syringe [Xolair],RxNorm,Quant Branded Drug,S
+45403386,biologic,1110942,omalizumab,1,Omalizumab,GPI,GPI,NULL
+1110942,biologic,1110942,omalizumab,1,omalizumab,RxNorm,Ingredient,S
+4235999,biologic,1110942,omalizumab,1,Omalizumab,SNOMED,Substance,NULL
+46276090,biologic,1110942,omalizumab,1,omalizumab 150 MG,RxNorm,Clinical Drug Comp,S
+46276093,biologic,1110942,omalizumab,1,omalizumab 150 MG [Xolair],RxNorm,Branded Drug Comp,S
+46276092,biologic,1110942,omalizumab,1,omalizumab 150 MG Injection,RxNorm,Clinical Drug,S
+46276095,biologic,1110942,omalizumab,1,omalizumab 150 MG Injection [Xolair],RxNorm,Branded Drug,S
+35200865,biologic,1110942,omalizumab,1,omalizumab 150 MG/ML,RxNorm,Clinical Drug Comp,S
+35200867,biologic,1110942,omalizumab,1,omalizumab 150 MG/ML [Xolair],RxNorm,Branded Drug Comp,S
+35200869,biologic,1110942,omalizumab,1,omalizumab 150 MG/ML Prefilled Syringe,RxNorm,Clinical Drug,S
+35200870,biologic,1110942,omalizumab,1,omalizumab 150 MG/ML Prefilled Syringe [Xolair],RxNorm,Branded Drug,S
+36223882,biologic,1110942,omalizumab,1,omalizumab Injectable Product,RxNorm,Clinical Dose Group,C
+46276091,biologic,1110942,omalizumab,1,omalizumab Injection,RxNorm,Clinical Drug Form,S
+46276094,biologic,1110942,omalizumab,1,omalizumab Injection [Xolair],RxNorm,Branded Drug Form,S
+35200866,biologic,1110942,omalizumab,1,omalizumab Prefilled Syringe,RxNorm,Clinical Drug Form,S
+35200868,biologic,1110942,omalizumab,1,omalizumab Prefilled Syringe [Xolair],RxNorm,Branded Drug Form,S
+4248987,biologic,1110942,omalizumab,1,Omalizumab-containing product,SNOMED,Pharma/Biol Product,NULL
+21603362,biologic,1110942,omalizumab,1,omalizumab; parenteral,ATC,ATC 5th,C
+36241359,biologic,1110942,omalizumab,1,Xolair Injectable Product,RxNorm,Branded Dose Group,C
+35603986,biologic,35603983,reslizumab,1,10 ML reslizumab 10 MG/ML Injection,RxNorm,Quant Clinical Drug,S
+35603990,biologic,35603983,reslizumab,1,10 ML reslizumab 10 MG/ML Injection [Cinqair],RxNorm,Quant Branded Drug,S
+36249396,biologic,35603983,reslizumab,1,Cinqair Injectable Product,RxNorm,Branded Dose Group,C
+37397135,biologic,35603983,reslizumab,1,Reslizumab,SNOMED,Substance,NULL
+36703630,biologic,35603983,reslizumab,1,Reslizumab,SNOMED,Substance,NULL
+35603983,biologic,35603983,reslizumab,1,reslizumab,RxNorm,Ingredient,S
+35603984,biologic,35603983,reslizumab,1,reslizumab 10 MG/ML,RxNorm,Clinical Drug Comp,S
+35603988,biologic,35603983,reslizumab,1,reslizumab 10 MG/ML [Cinqair],RxNorm,Branded Drug Comp,S
+35603991,biologic,35603983,reslizumab,1,reslizumab 10 MG/ML Injection,RxNorm,Clinical Drug,S
+35603992,biologic,35603983,reslizumab,1,reslizumab 10 MG/ML Injection [Cinqair],RxNorm,Branded Drug,S
+36249395,biologic,35603983,reslizumab,1,reslizumab Injectable Product,RxNorm,Clinical Dose Group,C
+35603985,biologic,35603983,reslizumab,1,reslizumab Injection,RxNorm,Clinical Drug Form,S
+35603989,biologic,35603983,reslizumab,1,reslizumab Injection [Cinqair],RxNorm,Branded Drug Form,S
+36683395,biologic,35603983,reslizumab,1,Reslizumab-containing product,SNOMED,Pharma/Biol Product,NULL
+1588701,biologic,35603983,reslizumab,1,reslizumab; systemic,ATC,ATC 5th,C
