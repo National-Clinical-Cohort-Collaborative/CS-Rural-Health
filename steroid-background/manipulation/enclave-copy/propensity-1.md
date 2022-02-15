@@ -358,3 +358,31 @@ propensity_3 <- function( patient_thinned) {
     return(ds)    
 }
 ```
+
+
+Archived/Old
+==============
+
+
+When slicing across people (not across asthma class).  Also, uses 4+ outcomes of `tx_v1`, not binary.
+
+```r
+propensity_1 <- function( patient_thinned) {
+    slice_id <- 1L
+
+    # ---- nothing below should change between slices ----------
+    load_packages()
+  
+    ds <- prepare_dataset(patient_thinned, slice_id) %>%
+        dplyr::slice(1:10000)
+
+    ps_mod <- estimate_propensity(ds)
+        
+    #Assign weights to original ds.    
+    ds$w <- get.weights(ps_mod, stop.method = 'es.max')
+
+    graph_diagnostics(ps_mod)
+    
+    return(ds)    
+}
+```
