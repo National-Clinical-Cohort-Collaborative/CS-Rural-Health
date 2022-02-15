@@ -186,23 +186,25 @@ with person_1 as (
         ,cast(rand() * 8 as int) + 1  as patient_slice_id
     FROM person_1
 )
-SELECT /*+ COALESCE(200) */   * FROM  person_2
+SELECT /*+ REPARTITION(3) */    * FROM  person_2
 ```
 
-`propensity_3`
+`propensity_severe`
 -------------------
 
 ```r
-propensity_3 <- function( patient_thinned) {
+propensity_severe <- function( patient_thinned) {
     slice_ids <- 1:99
+    asthma_v2_level <- "severe"
+
 
     # ---- nothing below should change between slices ----------
     load_packages()
   
     ds <-
         patient_thinned %>%
-        dplyr::filter(tx_v1 %in% c("no_tx_documented", "steroid_systemic")) %>%
-        dplyr::filter(asthma_v2 == "severe") %>%
+        dplyr::filter(.data$asthma_v2 == asthma_v2_level) %>%
+        dplyr::filter(.data$tx_v1 %in% c("no_tx_documented", "steroid_systemic")) %>%
         prepare_dataset(slice_ids) %>%
         dplyr::mutate(
             tx_systemic = dplyr::recode(tx_v1, "no_tx_documented" = 0, "steroid_systemic" = 1),
@@ -222,32 +224,6 @@ propensity_3 <- function( patient_thinned) {
     print(table(bmi = ds$bmi_cut5, gender_male = ds$gender_male, tx = ds$tx_v1, useNA = "always"))
     print("tx by bmi by race -----")
     print(table(bmi = ds$bmi_cut5, race = ds$race_v2, tx = ds$tx_v1,useNA = "always"))
-
-    ds %>%
-        dplyr::select(
-            x = bmi,
-        ) %>%
-        tidyr::drop_na(x) %>%
-        dplyr::summarize(
-            n    = dplyr::n(),
-            mean = mean(x, na.rm = TRUE),
-            min  = min(x, na.rm = TRUE),
-            # q01  = quantile(x, probs = .01),
-            # q05  = quantile(x, probs = .05),
-            q10  = quantile(x, probs = .10),
-            q25  = quantile(x, probs = .25),
-            q40  = quantile(x, probs = .40),
-            q45  = quantile(x, probs = .45),
-            q50  = quantile(x, probs = .50),
-            # q55  = quantile(x, probs = .55),
-            q60  = quantile(x, probs = .60),
-            q75  = quantile(x, probs = .75),
-            q90  = quantile(x, probs = .90),
-            q95  = quantile(x, probs = .95),
-            q98  = quantile(x, probs = .98),
-            q99  = quantile(x, probs = .99),
-            max  = max(x, na.rm = TRUE),
-        )
 
     # equation_propensity <- "tx_systemic ~ asthma_v1 + age_cut5 + gender_male + smoking_ever + bmi + race_v2"
     # equation_propensity <- "tx_systemic ~ asthma_v1 + gender_male + age_cut5  + smoking_ever + bmi + race_v2 + pulmonary" #asthma_v2, period_first_covid_dx
@@ -352,12 +328,31 @@ propensity_3 <- function( patient_thinned) {
         
     # #Assign weights to original ds.    
     ds$weight_asthma_specific <- get.weights(ps_mod, stop.method = 'es.max')
+    ds$asthma_v2_level        <- asthma_v2_level
 
     # graph_diagnostics(ps_mod)
     
     return(ds)    
 }
+
 ```
+
+`patient_weighted`
+-----------------------
+
+```sql
+with new_sample as (
+    SELECT * FROM propensity_severe
+    UNION ALL
+    SELECT * FROM propensity_moderate_mild
+    UNION ALL
+    SELECT * FROM propensity_unspecified
+    UNION ALL
+    SELECT * FROM propensity_none
+)
+SELECT /*+ REPARTITION(3) */  * FROM new_sample
+```
+
 
 
 Archived/Old
