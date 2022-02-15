@@ -1,4 +1,4 @@
-Exceprts from analysis-1
+Excerpts from analysis-1
 ==================
 
 https://unite.nih.gov/workspace/vector/view/ri.vector.main.workbook.69dc0fbc-b028-4c9f-a633-abc957c5284a?branch=master
