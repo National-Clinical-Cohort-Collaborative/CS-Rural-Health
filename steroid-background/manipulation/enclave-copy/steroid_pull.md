@@ -1,4 +1,4 @@
-Exceprts from steroid_pull
+Excerpts from steroid_pull
 ==================
 
 https://unite.nih.gov/workspace/vector/view/ri.vector.main.workbook.69dc0fbc-b028-4c9f-a633-abc957c5284a?branch=master
