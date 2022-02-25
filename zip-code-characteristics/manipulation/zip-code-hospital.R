@@ -147,7 +147,7 @@ message("Distance start time: ", Sys.time())
 system.time({
 ds_zcta_hospital_2 <-
   ds_zcta_hospital %>%
-  dplyr::slice(1:20000) %>%
+  # dplyr::slice(1:20000) %>%
   dplyr::mutate(
     distance_from_zip_code_to_hospital_in_miles =
       geosphere::distVincentyEllipsoid(
@@ -186,7 +186,7 @@ ds_zcta <-  # One row per [zip]
   ) |>
   dplyr::ungroup()
 
-}) #  1340.62  sec on i7 2th gen w/ 16GB
+}) #  1571.16 sec on i7 2th gen w/ 16GB
 
 ds_wide <-
   ds_zcta_hospital_type %>%
@@ -250,8 +250,8 @@ checkmate::assert_integer(  ds_wide$hospital_count_within_60mi_critical  , any.m
 checkmate::assert_integer(  ds_wide$hospital_count_within_100mi_acute    , any.missing=F , lower=0, upper=999     )
 checkmate::assert_integer(  ds_wide$hospital_count_within_100mi_critical , any.missing=F , lower=0, upper=999     )
 checkmate::assert_integer(  ds_wide$bed_count_within_20mi                , any.missing=F , lower=0, upper=99999   )
-checkmate::assert_integer(  ds_wide$bed_count_within_60mi                , any.missing=F , lower=9, upper=99999  )
-checkmate::assert_integer(  ds_wide$bed_count_within_100mi               , any.missing=F , lower=99, upper=99999 )
+checkmate::assert_integer(  ds_wide$bed_count_within_60mi                , any.missing=F , lower=0, upper=99999   )
+checkmate::assert_integer(  ds_wide$bed_count_within_100mi               , any.missing=F , lower=0, upper=99999   )
 checkmate::assert_integer(  ds_wide$year_last_existed           , any.missing=F , lower=2019, upper=2021 )
 
 # checkmate::assert_character(ds2$zip_code         , any.missing=F , pattern="^\\d{5}$" , unique=F)
