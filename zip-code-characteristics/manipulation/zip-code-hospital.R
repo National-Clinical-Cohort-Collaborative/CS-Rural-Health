@@ -121,7 +121,7 @@ ds_hospital <-
 # general acute care  4191   77
 
 system.time({
-ds_zcta_hospital <- # One row represents a zip-by-hospital combination
+ds_zcta_hospital <- # One row represents a [zip]-by-[hospital] combination
   "
     SELECT
       z.zip_code
@@ -145,7 +145,7 @@ ds_zcta_hospital <- # One row represents a zip-by-hospital combination
 # ---- find-distance-to-city ---------------------------------------------------
 message("Distance start time: ", Sys.time())
 system.time({
-ds_zcta_hospital_2 <-
+ds_zcta_hospital_2 <- # One row represents a [zip]-by-[hospital] combination
   ds_zcta_hospital %>%
   # dplyr::slice(1:20000) %>%
   dplyr::mutate(
@@ -160,19 +160,16 @@ ds_zcta_hospital_2 <-
     within_60mi  = (distance_from_zip_code_to_hospital_in_miles <=  60L),
     within_100mi = (distance_from_zip_code_to_hospital_in_miles <= 100L),
   )
+}) #  1571.16 sec on i7 2th gen w/ 16GB
 
 ds_zcta_hospital_type <- # One row per [zip] -by- [hospital type]
   ds_zcta_hospital_2 |>
   dplyr::group_by(zip_code, hospital_type) %>%
   dplyr::summarize(
     distance_min      = as.integer(round(min(distance_from_zip_code_to_hospital_in_miles))),
-    hospital_count_within_20mi  = sum(distance_from_zip_code_to_hospital_in_miles <=  20L),
-    hospital_count_within_60mi  = sum(distance_from_zip_code_to_hospital_in_miles <=  60L),
-    hospital_count_within_100mi = sum(distance_from_zip_code_to_hospital_in_miles <= 100L),
-
-#     bed_count_within_20mi   = sum(bed_count * within_20mi , na.rm = TRUE),
-#     bed_count_within_60mi   = sum(bed_count * within_60mi , na.rm = TRUE),
-#     bed_count_within_100mi  = sum(bed_count * within_100mi, na.rm = TRUE),
+    hospital_count_within_20mi  = sum(within_20mi ),
+    hospital_count_within_60mi  = sum(within_60mi ),
+    hospital_count_within_100mi = sum(within_100mi),
   ) %>%
   dplyr::ungroup()
 
@@ -186,12 +183,10 @@ ds_zcta <-  # One row per [zip]
   ) |>
   dplyr::ungroup()
 
-}) #  1571.16 sec on i7 2th gen w/ 16GB
-
+# Pivot to one row per zip,a nd join with two other zip-grain datasets.
 ds_wide <-
   ds_zcta_hospital_type %>%
   dplyr::mutate(
-    # hospital_type = gsub(" ", "_", hospital_type),
     hospital_type =
       dplyr::recode(
         hospital_type,
@@ -217,7 +212,7 @@ ds_wide <-
     hospital_count_within_100mi_acute       = dplyr::coalesce(hospital_count_within_100mi_acute     , 0L),
     hospital_count_within_100mi_critical    = dplyr::coalesce(hospital_count_within_100mi_critical  , 0L),
   ) %>%
-  dplyr::left_join(
+  dplyr::left_join( # join with the bed counts
     ds_zcta %>%
       dplyr::select(
         zip_code,
@@ -227,7 +222,7 @@ ds_wide <-
       ),
     by = "zip_code"
   ) %>%
-  dplyr::left_join(
+  dplyr::left_join( # join to get the last year of info for the zip
     ds_zcta_census %>%
       dplyr::select(
         zip_code,
@@ -240,28 +235,20 @@ ds_wide <-
 # Sniff out problems
 # OuhscMunge::verify_value_headstart(ds_wide)
 
-checkmate::assert_character(ds_wide$zip_code                    , any.missing=F , pattern="^\\d{5}$"     , unique=T)
-checkmate::assert_integer(  ds_wide$distance_min_acute          , any.missing=T , lower=0, upper=500      )
-checkmate::assert_integer(  ds_wide$distance_min_critical       , any.missing=T , lower=0, upper=500     )
-checkmate::assert_integer(  ds_wide$hospital_count_within_20mi_acute     , any.missing=F , lower=0, upper=999     )
-checkmate::assert_integer(  ds_wide$hospital_count_within_20mi_critical  , any.missing=F , lower=0, upper=999     )
-checkmate::assert_integer(  ds_wide$hospital_count_within_60mi_acute     , any.missing=F , lower=0, upper=999     )
-checkmate::assert_integer(  ds_wide$hospital_count_within_60mi_critical  , any.missing=F , lower=0, upper=999     )
-checkmate::assert_integer(  ds_wide$hospital_count_within_100mi_acute    , any.missing=F , lower=0, upper=999     )
-checkmate::assert_integer(  ds_wide$hospital_count_within_100mi_critical , any.missing=F , lower=0, upper=999     )
-checkmate::assert_integer(  ds_wide$bed_count_within_20mi                , any.missing=F , lower=0, upper=99999   )
-checkmate::assert_integer(  ds_wide$bed_count_within_60mi                , any.missing=F , lower=0, upper=99999   )
-checkmate::assert_integer(  ds_wide$bed_count_within_100mi               , any.missing=F , lower=0, upper=99999   )
-checkmate::assert_integer(  ds_wide$year_last_existed           , any.missing=F , lower=2019, upper=2021 )
+checkmate::assert_character(ds_wide$zip_code                            , any.missing=F , pattern="^\\d{5}$"     , unique=T)
+checkmate::assert_integer(  ds_wide$distance_min_acute                  , any.missing=T , lower=0, upper=500      )
+checkmate::assert_integer(  ds_wide$distance_min_critical               , any.missing=T , lower=0, upper=500     )
+checkmate::assert_integer(  ds_wide$hospital_count_within_20mi_acute    , any.missing=F , lower=0, upper=999     )
+checkmate::assert_integer(  ds_wide$hospital_count_within_20mi_critical , any.missing=F , lower=0, upper=999     )
+checkmate::assert_integer(  ds_wide$hospital_count_within_60mi_acute    , any.missing=F , lower=0, upper=999     )
+checkmate::assert_integer(  ds_wide$hospital_count_within_60mi_critical , any.missing=F , lower=0, upper=999     )
+checkmate::assert_integer(  ds_wide$hospital_count_within_100mi_acute   , any.missing=F , lower=0, upper=999     )
+checkmate::assert_integer(  ds_wide$hospital_count_within_100mi_critical, any.missing=F , lower=0, upper=999     )
+checkmate::assert_integer(  ds_wide$bed_count_within_20mi               , any.missing=F , lower=0, upper=99999   )
+checkmate::assert_integer(  ds_wide$bed_count_within_60mi               , any.missing=F , lower=0, upper=99999   )
+checkmate::assert_integer(  ds_wide$bed_count_within_100mi              , any.missing=F , lower=0, upper=99999   )
+checkmate::assert_integer(  ds_wide$year_last_existed                   , any.missing=F , lower=2019, upper=2021 )
 
-# checkmate::assert_character(ds2$zip_code         , any.missing=F , pattern="^\\d{5}$" , unique=F)
-# checkmate::assert_character(ds2$hospital_type    , any.missing=T , pattern="^.{15,18}$"   )
-# checkmate::assert_integer(  ds2$distance_min     , any.missing=T , lower=0, upper= 400 )
-# checkmate::assert_integer(  ds2$count_within_20  , any.missing=T , lower=0, upper= 500 )
-# checkmate::assert_integer(  ds2$count_within_60  , any.missing=T , lower=0, upper=1000 )
-# checkmate::assert_integer(  ds2$count_within_100 , any.missing=T , lower=0, upper=2000 )
-# checkmate::assert_integer(  ds2$year_last_existed, any.missing=F , lower=2019, upper=2021 )
-#
 # combo <- paste(ds2$zip_code, ds2$hospital_type)
 # checkmate::assert_character(combo, any.missing=F, unique=T) # The combination should be unique
 
@@ -289,7 +276,6 @@ ds_slim <-
     bed_count_within_100mi,
     year_last_existed,
   )
-# ds_slim
 
 # ---- save-to-disk -------------------------------------------------
 readr::write_csv(ds_slim, config$path_derived_zip_code_hospital)
