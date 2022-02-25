@@ -40,12 +40,13 @@ col_types_hospital <- readr::cols_only( # OuhscMunge::readr_spec_aligned(config$
   `LATITUDE`    = readr::col_double(),
   `LONGITUDE`   = readr::col_double(),
   `TYPE`        = readr::col_character(),
-  `STATUS`      = readr::col_character()
+  `STATUS`      = readr::col_character(),
+  `BEDS`        = readr::col_integer()
 )
 
 # ---- load-data ---------------------------------------------------------------
 # Read the CSVs
-ds_zcta  <-
+ds_zcta_census  <-
   readr::read_tsv(
     file        = zip_paths,
     col_types   = col_types_zcta,
@@ -58,8 +59,8 @@ rm(col_types_zcta, col_types_hospital)
 # ---- tweak-data --------------------------------------------------------------
 # OuhscMunge::column_rename_headstart(ds_city) #Spit out columns to help write call ato `dplyr::rename()`.
 
-ds_zcta <-
-  ds_zcta %>%
+ds_zcta_census <-
+  ds_zcta_census %>%
   # dplyr::slice(1:200) %>%
   dplyr::select(    # `dplyr::select()` drops columns not mentioned.
     zip_code    = GEOID,
@@ -95,31 +96,43 @@ ds_hospital <-
     lat           = LATITUDE,
     status        = STATUS,
     hospital_type = TYPE,
+    bed_count     = BEDS,
   ) %>%
   dplyr::filter(status == "OPEN") %>%
   dplyr::filter(hospital_type %in% c("CRITICAL ACCESS", "GENERAL ACUTE CARE")) %>%
   dplyr::mutate(
     hospital_type  = factor(tolower(hospital_type)),
+    bed_count      = dplyr::na_if(bed_count, -999L),
   ) %>%
   dplyr::select(
     hospital_id,
     long,
     lat,
     hospital_type,
+    bed_count,
   )
 
+# ggplot(ds_hospital, aes(x = bed_count, color = hospital_type)) +
+#   geom_line(stat = "bin")
+# table(ds_hospital$hospital_type, missing = is.na(ds_hospital$bed_count))
+#                    missing
+#                    FALSE TRUE
+# critical access      989   21
+# general acute care  4191   77
+
 system.time({
-ds <-
+ds_zcta_hospital <- # One row represents a zip-by-hospital combination
   "
     SELECT
       z.zip_code
       ,h.hospital_id
       ,h.hospital_type
+      ,h.bed_count
       ,z.long    as z_long
       ,z.lat     as z_lat
       ,h.long    as h_long
       ,h.lat     as h_lat
-    FROM ds_zcta z
+    FROM ds_zcta_census z
       left  join ds_hospital h on
         z.lat  between h.lat  - 3 and h.lat  + 3
         and
@@ -132,9 +145,9 @@ ds <-
 # ---- find-distance-to-city ---------------------------------------------------
 message("Distance start time: ", Sys.time())
 system.time({
-ds2 <-
-  ds %>%
-  # dplyr::slice(1:20000) %>%
+ds_zcta_hospital_2 <-
+  ds_zcta_hospital %>%
+  dplyr::slice(1:20000) %>%
   dplyr::mutate(
     distance_from_zip_code_to_hospital_in_miles =
       geosphere::distVincentyEllipsoid(
@@ -142,19 +155,41 @@ ds2 <-
         p2  = cbind(.data$h_long, .data$h_lat)
       ) * config$miles_per_m
   ) %>%
+  dplyr::mutate(
+    within_20mi  = (distance_from_zip_code_to_hospital_in_miles <=  20L),
+    within_60mi  = (distance_from_zip_code_to_hospital_in_miles <=  60L),
+    within_100mi = (distance_from_zip_code_to_hospital_in_miles <= 100L),
+  )
+
+ds_zcta_hospital_type <- # One row per [zip] -by- [hospital type]
+  ds_zcta_hospital_2 |>
   dplyr::group_by(zip_code, hospital_type) %>%
   dplyr::summarize(
     distance_min      = as.integer(round(min(distance_from_zip_code_to_hospital_in_miles))),
-    count_within_20mi = sum(distance_from_zip_code_to_hospital_in_miles <=  20L),
-    count_within_60mi = sum(distance_from_zip_code_to_hospital_in_miles <=  60L),
-    count_within_100mi= sum(distance_from_zip_code_to_hospital_in_miles <= 100L),
+    hospital_count_within_20mi  = sum(distance_from_zip_code_to_hospital_in_miles <=  20L),
+    hospital_count_within_60mi  = sum(distance_from_zip_code_to_hospital_in_miles <=  60L),
+    hospital_count_within_100mi = sum(distance_from_zip_code_to_hospital_in_miles <= 100L),
+
+#     bed_count_within_20mi   = sum(bed_count * within_20mi , na.rm = TRUE),
+#     bed_count_within_60mi   = sum(bed_count * within_60mi , na.rm = TRUE),
+#     bed_count_within_100mi  = sum(bed_count * within_100mi, na.rm = TRUE),
   ) %>%
   dplyr::ungroup()
+
+ds_zcta <-  # One row per [zip]
+  ds_zcta_hospital_2 |>
+  dplyr::group_by(zip_code) %>%
+  dplyr::summarize(
+    bed_count_within_20mi   = sum(bed_count * within_20mi , na.rm = TRUE),
+    bed_count_within_60mi   = sum(bed_count * within_60mi , na.rm = TRUE),
+    bed_count_within_100mi  = sum(bed_count * within_100mi, na.rm = TRUE),
+  ) |>
+  dplyr::ungroup()
+
 }) #  1340.62  sec on i7 2th gen w/ 16GB
 
-
 ds_wide <-
-  ds2 %>%
+  ds_zcta_hospital_type %>%
   dplyr::mutate(
     # hospital_type = gsub(" ", "_", hospital_type),
     hospital_type =
@@ -167,18 +202,33 @@ ds_wide <-
   tidyr::pivot_wider(
     id_cols     = "zip_code",
     names_from  = "hospital_type",
-    values_from = c("distance_min", "count_within_20mi", "count_within_60mi", "count_within_100mi")
+    values_from = c(
+      "distance_min",
+      "hospital_count_within_20mi",
+      "hospital_count_within_60mi",
+      "hospital_count_within_100mi"
+    )
   ) %>%
   dplyr::mutate(
-    count_within_20mi_acute        = dplyr::coalesce(count_within_20mi_acute      , 0L),
-    count_within_20mi_critical     = dplyr::coalesce(count_within_20mi_critical   , 0L),
-    count_within_60mi_acute        = dplyr::coalesce(count_within_60mi_acute      , 0L),
-    count_within_60mi_critical     = dplyr::coalesce(count_within_60mi_critical   , 0L),
-    count_within_100mi_acute       = dplyr::coalesce(count_within_100mi_acute     , 0L),
-    count_within_100mi_critical    = dplyr::coalesce(count_within_100mi_critical  , 0L),
+    hospital_count_within_20mi_acute        = dplyr::coalesce(hospital_count_within_20mi_acute      , 0L),
+    hospital_count_within_20mi_critical     = dplyr::coalesce(hospital_count_within_20mi_critical   , 0L),
+    hospital_count_within_60mi_acute        = dplyr::coalesce(hospital_count_within_60mi_acute      , 0L),
+    hospital_count_within_60mi_critical     = dplyr::coalesce(hospital_count_within_60mi_critical   , 0L),
+    hospital_count_within_100mi_acute       = dplyr::coalesce(hospital_count_within_100mi_acute     , 0L),
+    hospital_count_within_100mi_critical    = dplyr::coalesce(hospital_count_within_100mi_critical  , 0L),
   ) %>%
   dplyr::left_join(
     ds_zcta %>%
+      dplyr::select(
+        zip_code,
+        bed_count_within_20mi,
+        bed_count_within_60mi,
+        bed_count_within_100mi,
+      ),
+    by = "zip_code"
+  ) %>%
+  dplyr::left_join(
+    ds_zcta_census %>%
       dplyr::select(
         zip_code,
         year_last_existed,
@@ -193,12 +243,15 @@ ds_wide <-
 checkmate::assert_character(ds_wide$zip_code                    , any.missing=F , pattern="^\\d{5}$"     , unique=T)
 checkmate::assert_integer(  ds_wide$distance_min_acute          , any.missing=T , lower=0, upper=500      )
 checkmate::assert_integer(  ds_wide$distance_min_critical       , any.missing=T , lower=0, upper=500     )
-checkmate::assert_integer(  ds_wide$count_within_20mi_acute     , any.missing=F , lower=0, upper=999     )
-checkmate::assert_integer(  ds_wide$count_within_20mi_critical  , any.missing=F , lower=0, upper=999     )
-checkmate::assert_integer(  ds_wide$count_within_60mi_acute     , any.missing=F , lower=0, upper=999     )
-checkmate::assert_integer(  ds_wide$count_within_60mi_critical  , any.missing=F , lower=0, upper=999     )
-checkmate::assert_integer(  ds_wide$count_within_100mi_acute    , any.missing=F , lower=0, upper=999     )
-checkmate::assert_integer(  ds_wide$count_within_100mi_critical , any.missing=F , lower=0, upper=999     )
+checkmate::assert_integer(  ds_wide$hospital_count_within_20mi_acute     , any.missing=F , lower=0, upper=999     )
+checkmate::assert_integer(  ds_wide$hospital_count_within_20mi_critical  , any.missing=F , lower=0, upper=999     )
+checkmate::assert_integer(  ds_wide$hospital_count_within_60mi_acute     , any.missing=F , lower=0, upper=999     )
+checkmate::assert_integer(  ds_wide$hospital_count_within_60mi_critical  , any.missing=F , lower=0, upper=999     )
+checkmate::assert_integer(  ds_wide$hospital_count_within_100mi_acute    , any.missing=F , lower=0, upper=999     )
+checkmate::assert_integer(  ds_wide$hospital_count_within_100mi_critical , any.missing=F , lower=0, upper=999     )
+checkmate::assert_integer(  ds_wide$bed_count_within_20mi                , any.missing=F , lower=0, upper=99999   )
+checkmate::assert_integer(  ds_wide$bed_count_within_60mi                , any.missing=F , lower=9, upper=99999  )
+checkmate::assert_integer(  ds_wide$bed_count_within_100mi               , any.missing=F , lower=99, upper=99999 )
 checkmate::assert_integer(  ds_wide$year_last_existed           , any.missing=F , lower=2019, upper=2021 )
 
 # checkmate::assert_character(ds2$zip_code         , any.missing=F , pattern="^\\d{5}$" , unique=F)
@@ -225,12 +278,15 @@ ds_slim <-
     zip_code,
     distance_min_acute,
     distance_min_critical,
-    count_within_20mi_acute,
-    count_within_20mi_critical,
-    count_within_60mi_acute,
-    count_within_60mi_critical,
-    count_within_100mi_acute,
-    count_within_100mi_critical,
+    hospital_count_within_20mi_acute,
+    hospital_count_within_20mi_critical,
+    hospital_count_within_60mi_acute,
+    hospital_count_within_60mi_critical,
+    hospital_count_within_100mi_acute,
+    hospital_count_within_100mi_critical,
+    bed_count_within_20mi,
+    bed_count_within_60mi,
+    bed_count_within_100mi,
     year_last_existed,
   )
 # ds_slim
