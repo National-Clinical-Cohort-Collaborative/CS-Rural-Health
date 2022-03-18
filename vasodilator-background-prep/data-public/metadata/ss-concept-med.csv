@@ -1,0 +1,151 @@
+concept_id,ingredient_concept_ids,ingredient_names,ingredient_count,concept_name,vocabulary_id,concept_class_id,standard_concept
+1354118,1354118,epoprostenol,1,epoprostenol,RxNorm,Ingredient,S
+4159305,1354118,epoprostenol,1,Epoprostenol,SNOMED,Substance,NULL
+42629306,1354118,epoprostenol,1,epoprostenol 0.5 MG,RxNorm,Clinical Drug Comp,S
+42629308,1354118,epoprostenol,1,epoprostenol 0.5 MG [Flolan],RxNorm,Branded Drug Comp,S
+42629310,1354118,epoprostenol,1,epoprostenol 0.5 MG [Veletri],RxNorm,Branded Drug Comp,S
+19115193,1354118,epoprostenol,1,epoprostenol 0.5 MG Injection,RxNorm,Clinical Drug,S
+1354119,1354118,epoprostenol,1,epoprostenol 0.5 MG Injection [Flolan],RxNorm,Branded Drug,S
+42873590,1354118,epoprostenol,1,epoprostenol 0.5 MG Injection [Veletri],RxNorm,Branded Drug,S
+42629312,1354118,epoprostenol,1,epoprostenol 1.5 MG,RxNorm,Clinical Drug Comp,S
+42629313,1354118,epoprostenol,1,epoprostenol 1.5 MG [Flolan],RxNorm,Branded Drug Comp,S
+42629314,1354118,epoprostenol,1,epoprostenol 1.5 MG [Veletri],RxNorm,Branded Drug Comp,S
+19115194,1354118,epoprostenol,1,epoprostenol 1.5 MG Injection,RxNorm,Clinical Drug,S
+19045938,1354118,epoprostenol,1,epoprostenol 1.5 MG Injection [Flolan],RxNorm,Branded Drug,S
+40226772,1354118,epoprostenol,1,epoprostenol 1.5 MG Injection [Veletri],RxNorm,Branded Drug,S
+36222622,1354118,epoprostenol,1,epoprostenol Injectable Product,RxNorm,Clinical Dose Group,C
+42629307,1354118,epoprostenol,1,epoprostenol Injection,RxNorm,Clinical Drug Form,S
+42629309,1354118,epoprostenol,1,epoprostenol Injection [Flolan],RxNorm,Branded Drug Form,S
+42629311,1354118,epoprostenol,1,epoprostenol Injection [Veletri],RxNorm,Branded Drug Form,S
+40519704,1354118,epoprostenol,1,Epoprostenol sodium,SNOMED,Substance,NULL
+19004007,1354118,epoprostenol,1,epoprostenol sodium,RxNorm,Precise Ingredient,NULL
+45403032,1354118,epoprostenol,1,Epoprostenol Sodium,GPI,GPI,NULL
+4031899,1354118,epoprostenol,1,Epoprostenol sodium,SNOMED,Substance,NULL
+4032547,1354118,epoprostenol,1,Epoprostenol-containing product,SNOMED,Pharma/Biol Product,NULL
+21600994,1354118,epoprostenol,1,epoprostenol; parenteral,ATC,ATC 5th,C
+36235966,1354118,epoprostenol,1,Flolan Injectable Product,RxNorm,Branded Dose Group,C
+40640701,1354118,epoprostenol,1,Prostacyclin,SNOMED,Substance,NULL
+40299479,1354118,epoprostenol,1,Prostaglandin X,SNOMED,Substance,NULL
+36242322,1354118,epoprostenol,1,Veletri Injectable Product,RxNorm,Branded Dose Group,C
+45387329,1344992,iloprost,1,Iloprost,GPI,GPI,NULL
+45958607,1344992,iloprost,1,Iloprost,SNOMED,Substance,NULL
+4216919,1344992,iloprost,1,Iloprost,SNOMED,Substance,NULL
+1344992,1344992,iloprost,1,iloprost,RxNorm,Ingredient,S
+19112948,1344992,iloprost,1,iloprost 0.01 MG/ML,RxNorm,Clinical Drug Comp,S
+19080430,1344992,iloprost,1,iloprost 0.01 MG/ML [Ventavis],RxNorm,Branded Drug Comp,S
+19112949,1344992,iloprost,1,iloprost 0.01 MG/ML Inhalation Solution,RxNorm,Clinical Drug,S
+1344995,1344992,iloprost,1,iloprost 0.01 MG/ML Inhalation Solution [Ventavis],RxNorm,Branded Drug,S
+19110302,1344992,iloprost,1,iloprost 0.02 MG/ML,RxNorm,Clinical Drug Comp,S
+40164837,1344992,iloprost,1,iloprost 0.02 MG/ML [Ventavis],RxNorm,Branded Drug Comp,S
+40164835,1344992,iloprost,1,iloprost 0.02 MG/ML Inhalation Solution,RxNorm,Clinical Drug,S
+40164836,1344992,iloprost,1,iloprost 0.02 MG/ML Inhalation Solution [Ventavis],RxNorm,Branded Drug,S
+19104373,1344992,iloprost,1,iloprost 0.02 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
+19101291,1344992,iloprost,1,iloprost 0.1 MG/ML,RxNorm,Clinical Drug Comp,S
+19054361,1344992,iloprost,1,iloprost 0.1 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
+36214306,1344992,iloprost,1,iloprost Inhalant Product,RxNorm,Clinical Dose Group,C
+1356206,1344992,iloprost,1,iloprost Inhalation Solution,RxNorm,Clinical Drug Form,S
+1356207,1344992,iloprost,1,iloprost Inhalation Solution [Ventavis],RxNorm,Branded Drug Form,S
+36214307,1344992,iloprost,1,iloprost Injectable Product,RxNorm,Clinical Dose Group,C
+40048977,1344992,iloprost,1,iloprost Injectable Solution,RxNorm,Clinical Drug Form,S
+4200747,1344992,iloprost,1,Iloprost-containing product,SNOMED,Pharma/Biol Product,NULL
+21600996,1344992,iloprost,1,"iloprost; inhalant, parenteral",ATC,ATC 5th,C
+36242338,1344992,iloprost,1,Ventavis Inhalant Product,RxNorm,Branded Dose Group,C
+36218524,19020068,nitric oxide,1,INOmax Inhalant Product,RxNorm,Branded Dose Group,C
+2788011,19020068,nitric oxide,1,"Introduction of Nitric Oxide Gas into Respiratory Tract, Percutaneous Approach",ICD10PCS,ICD10PCS,NULL
+2788234,19020068,nitric oxide,1,"Introduction of Nitric Oxide Gas into Respiratory Tract, Via Natural or Artificial Opening",ICD10PCS,ICD10PCS,NULL
+2788251,19020068,nitric oxide,1,"Introduction of Nitric Oxide Gas into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",ICD10PCS,ICD10PCS,NULL
+19020068,19020068,nitric oxide,1,nitric oxide,RxNorm,Ingredient,S
+45959312,19020068,nitric oxide,1,Nitric oxide,SNOMED,Pharma/Biol Product,NULL
+4283972,19020068,nitric oxide,1,Nitric oxide,SNOMED,Substance,NULL
+36027391,19020068,nitric oxide,1,Nitric Oxide / Nitrogen,RxNorm,Multiple Ingredients,NULL
+40118583,19020068,nitric oxide,1,nitric oxide / nitrogen Gas for Inhalation,RxNorm,Clinical Drug Form,S
+40155795,19020068,nitric oxide,1,nitric oxide / nitrogen Gas for Inhalation [INOmax],RxNorm,Branded Drug Form,S
+36227025,19020068,nitric oxide,1,nitric oxide / nitrogen Inhalant Product,RxNorm,Clinical Dose Group,C
+19020070,19020068,nitric oxide,1,nitric oxide 0.01 %,RxNorm,Clinical Drug Comp,S
+19043876,19020068,nitric oxide,1,nitric oxide 0.01 % / nitrogen 99.99 % [INOmax],RxNorm,Branded Drug Comp,S
+19020619,19020068,nitric oxide,1,nitric oxide 0.01 % / nitrogen 99.99 % Gas for Inhalation,RxNorm,Clinical Drug,S
+19043877,19020068,nitric oxide,1,nitric oxide 0.01 % / nitrogen 99.99 % Gas for Inhalation [INOmax],RxNorm,Branded Drug,S
+19121839,19020068,nitric oxide,1,nitric oxide 0.08 %,RxNorm,Clinical Drug Comp,S
+19043879,19020068,nitric oxide,1,nitric oxide 0.08 % / nitrogen 99.92 % [INOmax],RxNorm,Branded Drug Comp,S
+19121841,19020068,nitric oxide,1,nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation,RxNorm,Clinical Drug,S
+19020620,19020068,nitric oxide,1,nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation [INOmax],RxNorm,Branded Drug,S
+45776910,19020068,nitric oxide,1,nitric oxide 0.5 %,RxNorm,Clinical Drug Comp,S
+45776911,19020068,nitric oxide,1,nitric oxide 0.5 % / nitrogen 99.5 % Gas for Inhalation,RxNorm,Clinical Drug,S
+19122056,19020068,nitric oxide,1,nitric oxide 99.8 %,RxNorm,Clinical Drug Comp,S
+19122057,19020068,nitric oxide,1,nitric oxide 99.8 % Gas for Inhalation,RxNorm,Clinical Drug,S
+40069608,19020068,nitric oxide,1,nitric oxide Gas for Inhalation,RxNorm,Clinical Drug Form,S
+36227026,19020068,nitric oxide,1,nitric oxide Inhalant Product,RxNorm,Clinical Dose Group,C
+4255990,19020068,nitric oxide,1,Nitric oxide-containing product,SNOMED,Pharma/Biol Product,NULL
+21603549,19020068,nitric oxide,1,nitric oxide; inhalant,ATC,ATC 5th,C
+44785531,1327256,treprostinil,1,12 HR treprostinil 0.125 MG Extended Release Oral Tablet,RxNorm,Quant Clinical Drug,S
+44785532,1327256,treprostinil,1,12 HR treprostinil 0.125 MG Extended Release Oral Tablet [Orenitram],RxNorm,Quant Branded Drug,S
+44785533,1327256,treprostinil,1,12 HR treprostinil 0.25 MG Extended Release Oral Tablet,RxNorm,Quant Clinical Drug,S
+44785534,1327256,treprostinil,1,12 HR treprostinil 0.25 MG Extended Release Oral Tablet [Orenitram],RxNorm,Quant Branded Drug,S
+44785535,1327256,treprostinil,1,12 HR treprostinil 1 MG Extended Release Oral Tablet,RxNorm,Quant Clinical Drug,S
+44785536,1327256,treprostinil,1,12 HR treprostinil 1 MG Extended Release Oral Tablet [Orenitram],RxNorm,Quant Branded Drug,S
+44785537,1327256,treprostinil,1,12 HR treprostinil 2.5 MG Extended Release Oral Tablet,RxNorm,Quant Clinical Drug,S
+44785538,1327256,treprostinil,1,12 HR treprostinil 2.5 MG Extended Release Oral Tablet [Orenitram],RxNorm,Quant Branded Drug,S
+1718572,1327256,treprostinil,1,12 HR treprostinil 5 MG Extended Release Oral Tablet,RxNorm,Quant Clinical Drug,S
+1718574,1327256,treprostinil,1,12 HR treprostinil 5 MG Extended Release Oral Tablet [Orenitram],RxNorm,Quant Branded Drug,S
+36248106,1327256,treprostinil,1,Orenitram Oral Product,RxNorm,Branded Dose Group,C
+36248107,1327256,treprostinil,1,Orenitram Pill,RxNorm,Branded Dose Group,C
+36228989,1327256,treprostinil,1,Remodulin Injectable Product,RxNorm,Branded Dose Group,C
+40482328,1327256,treprostinil,1,Treprostinil,SNOMED,Substance,NULL
+1327256,1327256,treprostinil,1,treprostinil,RxNorm,Ingredient,S
+44785331,1327256,treprostinil,1,treprostinil 0.125 MG,RxNorm,Clinical Drug Comp,S
+44785334,1327256,treprostinil,1,treprostinil 0.125 MG [Orenitram],RxNorm,Branded Drug Comp,S
+44785789,1327256,treprostinil,1,treprostinil 0.125 MG Extended Release Oral Tablet,RxNorm,Clinical Drug,S
+44785790,1327256,treprostinil,1,treprostinil 0.125 MG Extended Release Oral Tablet [Orenitram],RxNorm,Branded Drug,S
+44785335,1327256,treprostinil,1,treprostinil 0.25 MG,RxNorm,Clinical Drug Comp,S
+44785338,1327256,treprostinil,1,treprostinil 0.25 MG [Orenitram],RxNorm,Branded Drug Comp,S
+44785792,1327256,treprostinil,1,treprostinil 0.25 MG Extended Release Oral Tablet,RxNorm,Clinical Drug,S
+44785793,1327256,treprostinil,1,treprostinil 0.25 MG Extended Release Oral Tablet [Orenitram],RxNorm,Branded Drug,S
+40165305,1327256,treprostinil,1,treprostinil 0.6 MG/ML,RxNorm,Clinical Drug Comp,S
+40165308,1327256,treprostinil,1,treprostinil 0.6 MG/ML [Tyvaso],RxNorm,Branded Drug Comp,S
+40165306,1327256,treprostinil,1,treprostinil 0.6 MG/ML Inhalation Solution,RxNorm,Clinical Drug,S
+40165307,1327256,treprostinil,1,treprostinil 0.6 MG/ML Inhalation Solution [Tyvaso],RxNorm,Branded Drug,S
+44785339,1327256,treprostinil,1,treprostinil 1 MG,RxNorm,Clinical Drug Comp,S
+44785342,1327256,treprostinil,1,treprostinil 1 MG [Orenitram],RxNorm,Branded Drug Comp,S
+44785794,1327256,treprostinil,1,treprostinil 1 MG Extended Release Oral Tablet,RxNorm,Clinical Drug,S
+44785795,1327256,treprostinil,1,treprostinil 1 MG Extended Release Oral Tablet [Orenitram],RxNorm,Branded Drug,S
+1327295,1327256,treprostinil,1,treprostinil 1 MG/ML,RxNorm,Clinical Drug Comp,S
+19016192,1327256,treprostinil,1,treprostinil 1 MG/ML [Remodulin],RxNorm,Branded Drug Comp,S
+19096754,1327256,treprostinil,1,treprostinil 1 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
+1327261,1327256,treprostinil,1,treprostinil 1 MG/ML Injectable Solution [Remodulin],RxNorm,Branded Drug,S
+19100973,1327256,treprostinil,1,treprostinil 10 MG/ML,RxNorm,Clinical Drug Comp,S
+19016195,1327256,treprostinil,1,treprostinil 10 MG/ML [Remodulin],RxNorm,Branded Drug Comp,S
+19096755,1327256,treprostinil,1,treprostinil 10 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
+1327294,1327256,treprostinil,1,treprostinil 10 MG/ML Injectable Solution [Remodulin],RxNorm,Branded Drug,S
+44785343,1327256,treprostinil,1,treprostinil 2.5 MG,RxNorm,Clinical Drug Comp,S
+44785346,1327256,treprostinil,1,treprostinil 2.5 MG [Orenitram],RxNorm,Branded Drug Comp,S
+44785796,1327256,treprostinil,1,treprostinil 2.5 MG Extended Release Oral Tablet,RxNorm,Clinical Drug,S
+44785797,1327256,treprostinil,1,treprostinil 2.5 MG Extended Release Oral Tablet [Orenitram],RxNorm,Branded Drug,S
+1327297,1327256,treprostinil,1,treprostinil 2.5 MG/ML,RxNorm,Clinical Drug Comp,S
+19016193,1327256,treprostinil,1,treprostinil 2.5 MG/ML [Remodulin],RxNorm,Branded Drug Comp,S
+19096756,1327256,treprostinil,1,treprostinil 2.5 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
+1327292,1327256,treprostinil,1,treprostinil 2.5 MG/ML Injectable Solution [Remodulin],RxNorm,Branded Drug,S
+1718571,1327256,treprostinil,1,treprostinil 5 MG,RxNorm,Clinical Drug Comp,S
+1718573,1327256,treprostinil,1,treprostinil 5 MG [Orenitram],RxNorm,Branded Drug Comp,S
+1718575,1327256,treprostinil,1,treprostinil 5 MG Extended Release Oral Tablet,RxNorm,Clinical Drug,S
+1718576,1327256,treprostinil,1,treprostinil 5 MG Extended Release Oral Tablet [Orenitram],RxNorm,Branded Drug,S
+1327298,1327256,treprostinil,1,treprostinil 5 MG/ML,RxNorm,Clinical Drug Comp,S
+19016194,1327256,treprostinil,1,treprostinil 5 MG/ML [Remodulin],RxNorm,Branded Drug Comp,S
+19096757,1327256,treprostinil,1,treprostinil 5 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
+1327293,1327256,treprostinil,1,treprostinil 5 MG/ML Injectable Solution [Remodulin],RxNorm,Branded Drug,S
+1592773,1327256,treprostinil,1,treprostinil diolamine,RxNorm,Precise Ingredient,NULL
+44785798,1327256,treprostinil,1,treprostinil Extended Release Oral Tablet,RxNorm,Clinical Drug Form,S
+44785799,1327256,treprostinil,1,treprostinil Extended Release Oral Tablet [Orenitram],RxNorm,Branded Drug Form,S
+36214424,1327256,treprostinil,1,treprostinil Inhalant Product,RxNorm,Clinical Dose Group,C
+1356256,1327256,treprostinil,1,treprostinil Inhalation Solution,RxNorm,Clinical Drug Form,S
+1356257,1327256,treprostinil,1,treprostinil Inhalation Solution [Tyvaso],RxNorm,Branded Drug Form,S
+36214425,1327256,treprostinil,1,treprostinil Injectable Product,RxNorm,Clinical Dose Group,C
+40090704,1327256,treprostinil,1,treprostinil Injectable Solution,RxNorm,Clinical Drug Form,S
+40090705,1327256,treprostinil,1,treprostinil Injectable Solution [Remodulin],RxNorm,Branded Drug Form,S
+36247974,1327256,treprostinil,1,treprostinil Oral Product,RxNorm,Clinical Dose Group,C
+36247975,1327256,treprostinil,1,treprostinil Pill,RxNorm,Clinical Dose Group,C
+4301437,1327256,treprostinil,1,Treprostinil sodium,SNOMED,Substance,NULL
+19094992,1327256,treprostinil,1,treprostinil sodium,RxNorm,Precise Ingredient,NULL
+45393593,1327256,treprostinil,1,Treprostinil Sodium,GPI,GPI,NULL
+4295940,1327256,treprostinil,1,Treprostinil-containing product,SNOMED,Pharma/Biol Product,NULL
+21601003,1327256,treprostinil,1,treprostinil; parenteral,ATC,ATC 5th,C
+36239680,1327256,treprostinil,1,Tyvaso Inhalant Product,RxNorm,Branded Dose Group,C
