@@ -1,0 +1,70 @@
+Concept Id,Concept Name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date
+1321363,4 ML norepinephrine 1 MG/ML Injection,Drug,RxNorm,Quant Clinical Drug,S,242969,1/1/1970,12/31/2099
+46275918,1 ML epinephrine 1 MG/ML Injection [Adrenalin],Drug,RxNorm,Quant Branded Drug,S,1660016,9/8/2015,12/31/2099
+1507835,vasopressin (USP),Drug,RxNorm,Ingredient,S,11149,1/1/1970,12/31/2099
+1507838,vasopressin (USP) 20 UNT/ML Injectable Solution,Drug,RxNorm,Clinical Drug,S,313578,1/1/1970,12/31/2099
+1344245,10 ML epinephrine 0.1 MG/ML Prefilled Syringe,Drug,RxNorm,Quant Clinical Drug,S,727373,9/2/2007,12/31/2099
+42707286,phenylephrine hydrochloride 10 MG/ML Injectable Solution,Drug,RxNorm,Clinical Drug,S,1232651,5/7/2012,12/31/2099
+19076899,epinephrine 1 MG/ML Injectable Solution,Drug,RxNorm,Clinical Drug,S,310132,1/1/1970,12/31/2099
+40074086,phenylephrine Injectable Solution,Drug,RxNorm,Clinical Drug Form,S,373369,1/1/1970,12/31/2099
+1594367,NDA201739 0.3 ML epinephrine 1 MG/ML Auto-Injector,Drug,RxNorm,Clinical Drug,S,1870205,8/7/2017,12/31/2099
+45775841,vasopressin (USP) 20 UNT/ML Injectable Solution [Vasostrict],Drug,RxNorm,Branded Drug,S,1593738,12/1/2014,12/31/2099
+35202043,1 ML vasopressin (USP) 20 UNT/ML Injection [Vasostrict],Drug,RxNorm,Quant Branded Drug,S,2103184,12/3/2018,12/31/2099
+46275916,1 ML epinephrine 1 MG/ML Injection,Drug,RxNorm,Quant Clinical Drug,S,1660014,9/8/2015,12/31/2099
+1594382,NDA020800 0.3 ML epinephrine 1 MG/ML Auto-Injector,Drug,RxNorm,Clinical Drug,S,1870230,8/7/2017,12/31/2099
+40169309,NDA020800 0.3 ML epinephrine 1 MG/ML Auto-Injector [Adrenaclick],Drug,RxNorm,Branded Drug,S,891438,1/31/2010,12/31/2099
+46287545,1 ML phenylephrine hydrochloride 10 MG/ML Injection,Drug,RxNorm,Quant Clinical Drug,S,1666372,10/5/2015,12/31/2099
+1594368,NDA019430 0.3 ML epinephrine 1 MG/ML Auto-Injector,Drug,RxNorm,Clinical Drug,S,1870207,8/7/2017,12/31/2099
+19040856,4 ML norepinephrine 1 MG/ML Injection [Levophed],Drug,RxNorm,Quant Branded Drug,S,209217,1/1/1970,12/31/2099
+44814533,epinephrine 1 MG/ML Injectable Solution [Adrenalin],Drug,RxNorm,Branded Drug,S,1490057,4/7/2014,12/31/2099
+40072394,norepinephrine Injectable Solution,Drug,RxNorm,Clinical Drug Form,S,373112,1/1/1970,12/31/2099
+42873645,NDA201739 0.3 ML epinephrine 1 MG/ML Auto-Injector [Auvi-Q],Drug,RxNorm,Branded Drug,S,1305269,9/4/2012,12/31/2099
+35606564,250 ML dopamine hydrochloride 1.6 MG/ML Injection,Drug,RxNorm,Quant Clinical Drug,S,1743877,5/2/2016,12/31/2099
+19123434,epinephrine 1 MG/ML Injectable Solution [Twinject],Drug,RxNorm,Branded Drug,S,616392,4/2/2006,12/31/2099
+46287547,1 ML phenylephrine hydrochloride 10 MG/ML Injection [Vazculep],Drug,RxNorm,Quant Branded Drug,S,1666374,10/5/2015,12/31/2099
+40087301,vasopressin (USP) Injectable Solution,Drug,RxNorm,Clinical Drug Form,S,374283,1/1/1970,12/31/2099
+35782395,10 ML Phenylephrine 0.1 MG/ML Injectable Solution,Drug,RxNorm Extension,Quant Clinical Drug,S,OMOP2783856,8/24/2017,12/31/2099
+1344244,NDA019430 0.3 ML epinephrine 1 MG/ML Auto-Injector [Epipen],Drug,RxNorm,Branded Drug,S,727347,9/2/2007,12/31/2099
+42799685,250 ML dopamine hydrochloride 3.2 MG/ML Injection,Drug,RxNorm,Quant Clinical Drug,S,1292887,6/4/2012,12/31/2099
+45776267,phenylephrine hydrochloride 10 MG/ML Injectable Solution [Vazculep],Drug,RxNorm,Branded Drug,S,1542385,12/1/2014,12/31/2099
+35202042,1 ML vasopressin (USP) 20 UNT/ML Injection,Drug,RxNorm,Quant Clinical Drug,S,2103182,12/3/2018,12/31/2099
+35603731,norepinephrine Injection,Drug,RxNorm,Clinical Drug Form,S,1745276,5/2/2016,12/31/2099
+46287548,phenylephrine hydrochloride 10 MG/ML Injection,Drug,RxNorm,Clinical Drug,S,1666375,10/5/2015,12/31/2099
+1337860,dopamine,Drug,RxNorm,Ingredient,S,3628,1/1/1970,12/31/2099
+1344242,NDA019430 0.3 ML epinephrine 0.5 MG/ML Auto-Injector,Drug,RxNorm,Clinical Drug,S,727316,9/2/2007,12/31/2099
+35606558,dopamine Injection,Drug,RxNorm,Clinical Drug Form,S,1743862,5/2/2016,12/31/2099
+35606565,dopamine hydrochloride 1.6 MG/ML Injection,Drug,RxNorm,Clinical Drug,S,1743878,5/2/2016,12/31/2099
+35606561,250 ML dopamine hydrochloride 0.8 MG/ML Injection,Drug,RxNorm,Quant Clinical Drug,S,1743869,5/2/2016,12/31/2099
+40038600,epinephrine Injectable Solution,Drug,RxNorm,Clinical Drug Form,S,372030,1/1/1970,12/31/2099
+43832924,Epinephrine 0.02 MG/ML Injectable Solution,Drug,RxNorm Extension,Clinical Drug,S,OMOP655731,8/24/2017,12/31/2099
+35606566,500 ML dopamine hydrochloride 1.6 MG/ML Injection,Drug,RxNorm,Quant Clinical Drug,S,1743879,5/2/2016,12/31/2099
+963889,angiotensin II,Drug,RxNorm,Ingredient,S,1999003,4/2/2018,12/31/2099
+40865800,Phenylephrine 0.1 MG/ML Injectable Solution,Drug,RxNorm Extension,Clinical Drug,S,OMOP2063762,8/24/2017,12/31/2099
+19076867,epinephrine 0.1 MG/ML Injectable Solution,Drug,RxNorm,Clinical Drug,S,310116,1/1/1970,12/31/2099
+1344247,NDA019430 0.3 ML epinephrine 0.5 MG/ML Auto-Injector [Epipen],Drug,RxNorm,Branded Drug,S,727386,9/2/2007,12/31/2099
+19039813,vasopressin (USP) 20 UNT/ML Injectable Solution [Pitressin],Drug,RxNorm,Branded Drug,S,208841,1/1/1970,12/31/2099
+42707287,1 ML phenylephrine hydrochloride 10 MG/ML Injection [Neo-Synephrine],Drug,RxNorm,Quant Branded Drug,S,1232653,5/7/2012,12/31/2099
+964321,1 ML angiotensin II 2.5 MG/ML Injection [Giapreza],Drug,RxNorm,Quant Branded Drug,S,1999012,4/2/2018,12/31/2099
+19030571,epinephrine 1 MG/ML Injectable Solution [Ana-Guard],Drug,RxNorm,Branded Drug,S,205871,1/1/1970,12/31/2099
+35606562,dopamine hydrochloride 0.8 MG/ML Injection,Drug,RxNorm,Clinical Drug,S,1743870,5/2/2016,12/31/2099
+21068446,10 ML Epinephrine 0.01 MG/ML Prefilled Syringe,Drug,RxNorm Extension,Quant Clinical Drug,S,OMOP310766,8/24/2017,12/31/2099
+40240695,5 ML dopamine hydrochloride 160 MG/ML Injection,Drug,RxNorm,Quant Clinical Drug,S,1114874,7/31/2011,12/31/2099
+46275919,epinephrine 1 MG/ML Injection,Drug,RxNorm,Clinical Drug,S,1660017,9/8/2015,12/31/2099
+964320,1 ML angiotensin II 2.5 MG/ML Injection,Drug,RxNorm,Quant Clinical Drug,S,1999007,4/2/2018,12/31/2099
+1594379,NDA020800 0.15 ML epinephrine 1 MG/ML Auto-Injector,Drug,RxNorm,Clinical Drug,S,1870225,8/7/2017,12/31/2099
+35606567,10 ML dopamine hydrochloride 40 MG/ML Injection,Drug,RxNorm,Quant Clinical Drug,S,1743938,5/2/2016,12/31/2099
+37499754,5 ML phenylephrine hydrochloride 0.1 MG/ML Injection,Drug,RxNorm,Quant Clinical Drug,S,2262018,5/4/2020,12/31/2099
+42873642,NDA201739 0.15 ML epinephrine 1 MG/ML Auto-Injector [Auvi-Q],Drug,RxNorm,Branded Drug,S,1305268,9/4/2012,12/31/2099
+42482921,Epinephrine 0.01 MG/ML Prefilled Syringe,Drug,RxNorm Extension,Clinical Drug,S,OMOP420732,8/24/2017,12/31/2099
+793160,NDA201739 0.1 ML epinephrine 1 MG/ML Auto-Injector,Drug,RxNorm,Clinical Drug,S,1991328,2/5/2018,12/31/2099
+793161,NDA201739 0.1 ML epinephrine 1 MG/ML Auto-Injector [Auvi-Q],Drug,RxNorm,Branded Drug,S,1991329,2/5/2018,12/31/2099
+1594383,NDA201739 0.15 ML epinephrine 1 MG/ML Auto-Injector,Drug,RxNorm,Clinical Drug,S,1870232,8/7/2017,12/31/2099
+35606563,500 ML dopamine hydrochloride 0.8 MG/ML Injection,Drug,RxNorm,Quant Clinical Drug,S,1743871,5/2/2016,12/31/2099
+19076896,epinephrine 2 MG/ML Injectable Solution,Drug,RxNorm,Clinical Drug,S,310125,1/1/1970,12/31/2099
+793010,0.3 ML epinephrine 1 MG/ML Prefilled Syringe [Symjepi],Drug,RxNorm,Quant Branded Drug,S,1989117,2/5/2018,12/31/2099
+40169298,NDA020800 0.15 ML epinephrine 1 MG/ML Auto-Injector [Adrenaclick],Drug,RxNorm,Branded Drug,S,891437,1/31/2010,12/31/2099
+793005,0.3 ML epinephrine 1 MG/ML Prefilled Syringe,Drug,RxNorm,Quant Clinical Drug,S,1989112,2/5/2018,12/31/2099
+35606568,dopamine hydrochloride 40 MG/ML Injection,Drug,RxNorm,Clinical Drug,S,1743939,5/2/2016,12/31/2099
+35606569,5 ML dopamine hydrochloride 40 MG/ML Injection,Drug,RxNorm,Quant Clinical Drug,S,1743941,5/2/2016,12/31/2099
+35606570,10 ML dopamine hydrochloride 80 MG/ML Injection,Drug,RxNorm,Quant Clinical Drug,S,1743950,5/2/2016,12/31/2099
+35867643,epinephrine 0.05 MG/ML Injectable Solution,Drug,RxNorm Extension,Clinical Drug,S,OMOP5024110,10/2/2020,12/31/2099
