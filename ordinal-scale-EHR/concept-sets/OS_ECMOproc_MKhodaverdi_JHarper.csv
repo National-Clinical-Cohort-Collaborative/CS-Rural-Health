@@ -1,0 +1,56 @@
+Concept Id,Concept Name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date
+46257466,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; insertion of peripheral (arterial and/or venous) cannula(e), percutaneous, 6 years and older (includes fluoroscopic guidance, when performed)",Procedure,CPT4,CPT4,S,33952,42125,73050
+2800859,Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Performance @ Respiratory @ 24-96 Consecutive Hours @ Ventilation,Procedure,ICD10PCS,ICD10PCS Hierarchy,S,5A1945,25569,73050
+46257512,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; insertion of peripheral (arterial and/or venous) cannula(e), percutaneous, birth through 5 years of age (includes fluoroscopic guidance, when performed)",Procedure,CPT4,CPT4,S,33951,42125,73050
+46257513,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; reposition peripheral (arterial and/or venous) cannula(e), percutaneous, birth through 5 years of age (includes fluoroscopic guidance, when performed)",Procedure,CPT4,CPT4,S,33957,42135,73050
+46257439,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; reposition of central cannula(e) by sternotomy or thoracotomy, birth through 5 years of age (includes fluoroscopic guidance, when performed)",Procedure,CPT4,CPT4,S,33963,42125,73050
+46257467,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; reposition peripheral (arterial and/or venous) cannula(e), percutaneous, 6 years and older (includes fluoroscopic guidance, when performed)",Procedure,CPT4,CPT4,S,33958,42125,73050
+46257684,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; reposition peripheral (arterial and/or venous) cannula(e), open, 6 years and older (includes fluoroscopic guidance, when performed)",Procedure,CPT4,CPT4,S,33962,42135,73050
+46257440,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; reposition central cannula(e) by sternotomy or thoracotomy, 6 years and older (includes fluoroscopic guidance, when performed)",Procedure,CPT4,CPT4,S,33964,42135,73050
+46257438,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; insertion of peripheral (arterial and/or venous) cannula(e), open, 6 years and older",Procedure,CPT4,CPT4,S,33954,42135,73050
+46257399,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; removal of peripheral (arterial and/or venous) cannula(e), open, 6 years and older",Procedure,CPT4,CPT4,S,33984,42125,73050
+46257730,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; removal of peripheral (arterial and/or venous) cannula(e), percutaneous, birth through 5 years of age",Procedure,CPT4,CPT4,S,33965,42125,73050
+3525733,Extracorporeal membrane oxygenation,Procedure,SNOMED,Procedure,null,2.67261E+14,25569,38992
+42739551,"Subsequent neonatal intensive care, per day, for the evaluation and management of a critically ill though stable neonate or infant Critically ill though stable neonates require cardiac and/or respiratory support (including ventilator and n... (Deprecated)",Procedure,CPT4,CPT4,S,99297,25569,37711
+2893766,Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Performance @ Respiratory @ Less than 24 Consecutive Hours @ Ventilation,Procedure,ICD10PCS,ICD10PCS Hierarchy,S,5A1935,25569,73050
+46257682,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; initiation, veno-arterial",Procedure,CPT4,CPT4,S,33947,42125,73050
+46257683,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; insertion of peripheral (arterial and/or venous) cannula(e), open, birth through 5 years of age",Procedure,CPT4,CPT4,S,33953,42135,73050
+46257544,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; removal of peripheral (arterial and/or venous) cannula(e), open, birth through 5 years of age",Procedure,CPT4,CPT4,S,33969,42125,73050
+46257398,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; insertion of central cannula(e) by sternotomy or thoracotomy, 6 years and older",Procedure,CPT4,CPT4,S,33956,42125,73050
+46257543,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; initiation, veno-venous",Procedure,CPT4,CPT4,S,33946,42125,73050
+46257468,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; removal of peripheral (arterial and/or venous) cannula(e), percutaneous, 6 years and older",Procedure,CPT4,CPT4,S,33966,42125,73050
+46257397,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; insertion of central cannula(e) by sternotomy or thoracotomy, birth through 5 years of age",Procedure,CPT4,CPT4,S,33955,42125,73050
+3245375,Extracorporeal membrane oxygenation,Procedure,Nebraska Lexicon,Procedure,null,233573008,37287,73050
+46257729,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; reposition peripheral (arterial and/or venous) cannula(e), open, birth through 5 years of age (includes fluoroscopic guidance, when performed)",Procedure,CPT4,CPT4,S,33959,42125,73050
+2834015,Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Performance @ Respiratory @ Greater than 96 Consecutive Hours @ Ventilation,Procedure,ICD10PCS,ICD10PCS Hierarchy,S,5A1955,25569,73050
+2813710,Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Assistance @ Respiratory @ Greater than 96 Consecutive Hours @ Ventilation,Procedure,ICD10PCS,ICD10PCS Hierarchy,S,5A0955,25569,73050
+46257680,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; removal of central cannula(e) by sternotomy or thoracotomy, 6 years and older",Procedure,CPT4,CPT4,S,33986,42125,73050
+2805870,Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Assistance @ Respiratory @ Less than 24 Consecutive Hours @ Ventilation,Procedure,ICD10PCS,ICD10PCS Hierarchy,S,5A0935,25569,73050
+46257441,"Arterial exposure with creation of graft conduit (eg, chimney graft) to facilitate arterial perfusion for ECMO/ECLS (List separately in addition to code for primary procedure)",Procedure,CPT4,CPT4,S,33987,42125,73050
+2867784,Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Assistance @ Respiratory @ 24-96 Consecutive Hours @ Ventilation,Procedure,ICD10PCS,ICD10PCS Hierarchy,S,5A0945,25569,73050
+37206601,Venoarterial extracorporeal membrane oxygenation,Procedure,SNOMED,Procedure,S,786451004,43677,73050
+46257685,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; removal of central cannula(e) by sternotomy or thoracotomy, birth through 5 years of age",Procedure,CPT4,CPT4,S,33985,42135,73050
+46257511,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; daily management, each day, veno-arterial",Procedure,CPT4,CPT4,S,33949,42135,73050
+46257510,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; daily management, each day, veno-venous",Procedure,CPT4,CPT4,S,33948,42125,73050
+46257469,"Removal of left heart vent by thoracic incision (eg, sternotomy, thoracotomy) for ECMO/ECLS",Procedure,CPT4,CPT4,S,33989,42125,73050
+3396547,Cardiac support using extracorporeal membrane oxygenation circuitry,Procedure,Nebraska Lexicon,Procedure,null,232969009,37287,73050
+2108293,Insertion of cannula(s) for prolonged extracorporeal circulation for cardiopulmonary insufficiency (ECMO) (separate procedure),Procedure,CPT4,CPT4,S,36822,25569,42134
+44811012,Fluoroscopy guided percutaneous insertion of cannula for extracorporeal membrane oxygenation,Procedure,SNOMED,Procedure,S,8.62791E+14,41365,73050
+46257585,Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician,Procedure,CPT4,CPT4 Hierarchy,C,1022227,42135,73050
+46257586,Extracorporeal Membrane Oxygenation or Extracorporeal Life Support Services and Procedures,Observation,CPT4,CPT4 Hierarchy,C,1021846,42135,73050
+46257400,"Insertion of left heart vent by thoracic incision (eg, sternotomy, thoracotomy) for ECMO/ECLS",Procedure,CPT4,CPT4,S,33988,42135,73050
+4338595,Cardiac support using extracorporeal membrane oxygenation circuitry,Procedure,SNOMED,Procedure,S,232969009,37287,73050
+1531631,"Extracorporeal Oxygenation, Membrane, Peripheral Veno-arterial",Procedure,ICD10PCS,ICD10PCS,S,5A1522G,43466,73050
+2788034,"Extracorporeal Membrane Oxygenation, Continuous (Deprecated)",Procedure,ICD10PCS,ICD10PCS,S,5A15223,41751,44104
+1531630,"Extracorporeal Oxygenation, Membrane, Peripheral Veno-venous",Procedure,ICD10PCS,ICD10PCS,S,5A1522H,43466,73050
+2787820,"Extracorporeal Supersaturated Oxygenation, Intermittent",Procedure,ICD10PCS,ICD10PCS,S,5A0512C,41751,73050
+37206602,Arteriovenous extracorporeal membrane oxygenation,Procedure,SNOMED,Procedure,S,786452006,43677,73050
+2787821,"Extracorporeal Hyperbaric Oxygenation, Continuous",Procedure,ICD10PCS,ICD10PCS,S,5A05221,41751,73050
+2002247,Extracorporeal membrane oxygenation [ECMO],Procedure,ICD9Proc,4-dig billing code,null,39.65,25569,73050
+37206603,Venovenous extracorporeal membrane oxygenation,Procedure,SNOMED,Procedure,S,786453001,43677,73050
+3118570,Extracorporeal membrane oxygenation,Procedure,Nebraska Lexicon,Procedure,null,180904009,37287,42947
+1531632,"Extracorporeal Oxygenation, Membrane, Central",Procedure,ICD10PCS,ICD10PCS,S,5A1522F,43466,73050
+40379806,Extracorporeal membrane oxygenation,Procedure,SNOMED,Procedure,null,180904009,25569,37287
+4052536,Extracorporeal membrane oxygenation,Procedure,SNOMED,Procedure,S,233573008,37287,73050
+44515635,Extracorporeal membrane oxygenation,Procedure,OPCS4,Procedure,null,X58.1,25569,73050
+4197460,Injection of epinephrine,Procedure,SNOMED,Procedure,S,313191000,37287,73050
