@@ -6,11 +6,19 @@ with ingredient as (
   FROM v6.concept
   WHERE
     concept_id in (  -- ancestor concept name
-      19020068	     -- nitric oxide (inhaled though?)
-      ,1344992       -- iloprost
-      ,1354118       -- epoprostenol
-      ,1327256       -- treprostinil
+      1154343        -- saba: albuterol
+      ,1192218       -- saba: levalbuterol
 
+      ,1593467       -- biologics: dupilumab
+      ,792993        -- biologics: benralizumab
+      ,35606631      -- biologics: mepolizumab
+      ,35603983      -- biologics: reslizumab
+      ,1110942       -- biologics: omalizumab
+
+      --,19034275      -- saba: bambuterol we're ignoring this because it won't be used clinically
+      --,45774639      -- biologics: vedolizumab  not used for asthma; used primary for GI
+      --,936429        -- biologics: efalizumab   not used for asthma; withdrawn from the market in 2009 related to lvier disease
+      --,1110942       -- biologics: ibalizumab   not used for asthma; used primary for HIV;
     )
 )
 ,downstream as (
@@ -69,16 +77,16 @@ with ingredient as (
 -- ,cte as (
 SELECT
   co.concept_id
-  -- ,case
-  --   when co.ingredient_names like '%dupilumab%'      then 'biologic'
-  --   when co.ingredient_names like '%benralizumab%'   then 'biologic'
-  --   when co.ingredient_names like '%mepolizumab%'    then 'biologic'
-  --   when co.ingredient_names like '%reslizumab%'     then 'biologic'
-  --   when co.ingredient_names like '%omalizumab%'     then 'biologic'
+  ,case
+    when co.ingredient_names like '%dupilumab%'      then 'biologic'
+    when co.ingredient_names like '%benralizumab%'   then 'biologic'
+    when co.ingredient_names like '%mepolizumab%'    then 'biologic'
+    when co.ingredient_names like '%reslizumab%'     then 'biologic'
+    when co.ingredient_names like '%omalizumab%'     then 'biologic'
 
-  --   when co.ingredient_names like '%albuterol%'      then 'saba'  -- stands for short acting beta agonist
-  --   when co.ingredient_names like '%levalbuterol%'   then 'saba'
-  -- end                        as guess
+    when co.ingredient_names like '%albuterol%'      then 'saba'  -- stands for short acting beta agonist
+    when co.ingredient_names like '%levalbuterol%'   then 'saba'
+  end                        as guess
   ,co.ingredient_concept_ids
   ,co.ingredient_names
   ,co.ingredient_count
