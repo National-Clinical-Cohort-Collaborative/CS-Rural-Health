@@ -1,4 +1,5 @@
 ## An Ordinal Scale for COVID-19 Retrospective Severity Studies Using Electronic Health Records
+JAMIA Open, https://doi.org/10.1093/jamiaopen/ooac066
 
 ## Authors
 [Maryam Khodaverdi, MS](https://directory.hsc.wvu.edu/Profile/61365); [Bradley S. Price, PhD](https://business.wvu.edu/faculty-and-staff/directory/profile?pid=273); [J. Zachary Porterfield, MD PhD](https://med.uky.edu/users/jpo284); [H. Timothy Bunnell, PhD](https://www.nemoursresearch.org/snap/user/5); [Michael T. Vest, MD](https://doctors.christianacare.org/provider/Michael+T.+Vest/844978); [Alfred J. Anzalone, MS](https://www.unmc.edu/bmi/current-students/student-bios/anzalone-jerrod-bio.html); [Jeremy Harper, MS](https://owlhealthworks.com/); [Wes D. Kimble, MPA](https://directory.hsc.wvu.edu/Profile/39623); [Hamidreza Moradi, PhD](https://umc.edu/facultyprofile/moradi_hamidreza/); [Brian Hendricks, PhD](https://directory.hsc.wvu.edu/Profile/52462); [Susan L. Santangelo, ScD](https://mmcri.org/?page_id=9111); [Sally L. Hodder, MD](https://directory.hsc.wvu.edu/Profile/41751)
