@@ -10,13 +10,28 @@ with ingredient as (
       ,1354118       -- epoprostenol
       ,1327256       -- treprostinil
 
+      -- Endothelin Receptor Antagonists
+      ,1321636       -- Bosentan
+      ,1337068       -- Ambrisentan
+      ,44507580      -- Macitentan
+
+      -- PDE-5i
+      ,1316262       -- Sildenafil
+      ,1336926       -- Tadalafil
+      ,1311276       -- Vardenafil
+
+      -- Oral prostacyclin receptor agonist
+      ,35604848      -- Selexipag
+
+      -- Soluble guanylate cyclase stimulators
+      ,44506752      -- Riociguat
     )
 )
 ,downstream as (
   SELECT
     cr.concept_id_2                              as concept_id
     ,cr.concept_id_1                             as ingredient_concept_id
-  FROM [v6].[concept_relationship]  cr
+  FROM v6.concept_relationship  cr
     left  join v6.concept c1 on cr.concept_id_1 = c1.concept_id
     left  join v6.concept c2 on cr.concept_id_2 = c2.concept_id
   WHERE
