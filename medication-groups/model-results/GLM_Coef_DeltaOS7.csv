@@ -1,0 +1,36 @@
+Variable,X1,X2,X3,X4,X5,X6
+Intercept,2.198191294,0.778950219,-1.229783483,0.155075575,-2.591198882,0.688765277
+CCI,-0.034461107,0,0,0,0,0
+Gender=Male,0,0,0,0,0,0.068448341
+Ethnicity= Not Hispanic or Latino,0,0,0,0.13435931,0,-0.000807367
+Age>60,0,0,0,0,0,0.664325595
+Targeted Antivirals,-0.284656581,0,0,0,0,0
+Untargeted Antivirals,0,0.037747191,0.12216085,-0.129650839,0,0
+Spike Protein Monoclonal Antibodies,0.345653765,0,0,0,0,0
+Immunomodulator Monoclonal Antibodies,-0.322331042,0,0,0,0,0
+Steroids,0,-0.12921727,0,0,0,0
+Antibiotics,0,0,0,0,0,0
+Anticoagulants,-0.254456418,0,0,0.055629356,0,0
+Miscellaneous,-0.013455806,0,0,0,0,0
+Pressors Used,-0.630056864,-0.203680537,0,0.146613918,0,0.343094566
+CCI: Targeted Antivirals,0,0,0,0,0,0
+CCI: Untargeted Antivirals,0,0,0,0,0,0
+CCI: Spike Protein Monoclonal Antibodies,0,0,0,0,0,0
+CCI: Immunomodulator Monoclonal Antibodies,-0.054964872,0,0,0,0,0.023656348
+CCI: Steroids,-0.03447652,0,0,0.002419198,0,0
+CCI: Antibiotics,-0.004899375,0,0,0,0,0
+CCI: Anticoagulants,0,0,0,0,0,0
+CCI: Miscellaneous,0,0,0,0.012563753,0,0
+Steroids: Targeted Antivirals,0,0,0,0,0,0
+Steroids: Untargeted Antivirals,0,0.001299007,0.116342818,-0.144053331,0,0
+Steroids: Spike Protein Monoclonal Antibodies,0,0,0,0,0,0
+Steroids: Immunomodulator Monoclonal Antibodies,0,0,0,0.066930341,0,0
+Steroids: Antibiotics,-0.047059127,0,0,0,0,0
+Steroids: Anticoagulants,-0.13540573,-0.000219175,0,0,0,0
+Steroids: Miscellaneous,0,0,0,0.084986774,0,0
+Anticoagulants: Targeted Antivirals,0,0,0,0,0,0
+Anticoagulants: Untargeted Antivirals,0,0.091659541,0.251060406,-0.083007513,0,0
+Anticoagulants: Spike Protein Monoclonal Antibodies,0,0,0,0,0,0
+Anticoagulants: Immunomodulator Monoclonal Antibodies,0,0,0,0,0,0
+Anticoagulants: Antibiotics,0,0,0,0,0,-0.002561971
+Anticoagulants: Miscellaneous,-0.054061764,0,0,0,0,0
