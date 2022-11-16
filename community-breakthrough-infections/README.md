@@ -1,0 +1,32 @@
+# Community risks for SARS-CoV-2 infection among fully vaccinated US adults by rurality: A retrospective cohort study from the National COVID Cohort Collaborative (N3C)
+
+## Authors
+ <a href="https://orcid.org/0000-0002-3212-7845">A. Jerrod Anzalone,<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>  <a href="https://orcid.org/0000-0003-3741-0962">Jing Sun,<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>  <a href="https://orcid.org/0000-0002-9345-5252">Amanda J. Vinson,<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>  <a href="https://orcid.org/0000-0002-5613-5006">William H. Beasley,<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> William B. Hillegass, Kimberly Murray,  <a href="https://orcid.org/0000-0001-6682-1694">Brian M. Hendricks,<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>  <a href="https://orcid.org/0000-0001-9114-8737">Melissa Haendel,<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> Carol Reynolds Geary, <a href="https://orcid.org/0000-0003-2990-9042">Kristina L. Bailey,<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> <a href="https://orcid.org/0000-0002-5118-591X">Corrine K. Hanson,<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> <a href="https://orcid.org/0000-0002-5853-7287">Lucio Miele,<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> Ronald Horswell, <a href="https://orcid.org/0000-0002-9353-5498">Julie A McMurry,<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> J. Zachary Porterfield, <a href="https://orcid.org/0000-0002-3525-6095">Michael Vest,<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> H. Timothy Bunnell, Jeremy Richard Harper, <a href="https://orcid.org/0000-0002-0619-3347">Bradley S Price,<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>  <a href="https://orcid.org/0000-0001-5576-4495">Susan L Santangelo,<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>  <a href="https://orcid.org/0000-0003-3436-8199">Clifford J Rosen,<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> James C McClay, Sally L Hodder, on Behalf of the National COVID Cohort Collaborative (N3C)
+ 
+ 
+## Abstract
+
+### Background 
+While COVID-19 vaccines reduce adverse outcomes, post-vaccination SARS-CoV-2 infection remains problematic. We sought to identify community factors impacting risk for breakthrough infections (BTI) among fully vaccinated persons by rurality. 
+### Methods 
+We conducted a retrospective cohort study of US adults sampled between January 1 and December 20, 2021, from the National COVID Cohort Collaborative (N3C). Using Kaplan-Meier and Cox-Proportional Hazards models adjusted for demographic differences and comorbid conditions, we assessed impact of rurality, county vaccine hesitancy, and county vaccination rates on risk of BTI over 180 days following two mRNA COVID-19 vaccinations between January 1 and September 21, 2021. Additionally, Cox Proportional Hazards models assessed the risk of infection among adults without documented vaccinations. We secondarily assessed the odds of hospitalization and adverse COVID-19 events based on vaccination status using multivariable logistic regression during the study period. 
+### Results
+Our study population included 566,128 vaccinated and 1,724,546 adults without documented vaccination. Among vaccinated persons, rurality was associated with an increased risk of BTI (adjusted hazard ratio [aHR] 1.53, 95% confidence interval [CI] 1.42-1.64, for urban-adjacent rural and 1.65, 1.42-1.91, for nonurban-adjacent rural) compared to urban dwellers. Compared to low vaccine-hesitant counties, higher risks of BTI were associated with medium (1.07, 1.02-1.12) and high (1.33, 1.23-1.43) vaccine-hesitant counties. Compared to counties with high vaccination rates, a higher risk of BTI was associated with dwelling in counties with low vaccination rates (1.34, 1.27-1.43) but not medium vaccination rates (1.00, 0.95-1.07). Community factors were also associated with higher odds of SARS-CoV-2 infection among persons without a documented vaccination. Vaccinated persons with SARS-CoV-2 infection during the study period had significantly lower odds of hospitalization and adverse events across all geographic areas and community exposures.
+### Conclusions
+Our findings suggest that community factors are associated with an increased risk of BTI, particularly in rural areas and counties with high vaccine hesitancy. Communities, such as those in rural and disproportionately vaccine hesitant areas, and certain groups at high risk for adverse breakthrough events, including immunosuppressed/compromised persons, should continue to receive public health focus, targeted interventions, and consistent guidance to help manage community spread as vaccination protection wanes.
+
+
+## Repository Usage
+
+This repository is broken down into two sections: 
+
+[Concept Sets](https://github.com/National-COVID-Cohort-Collaborative/CS-Rural-Health/tree/main/rural-mortality-and-hospitalization/concept-sets)
+
+[Code Workbooks](https://github.com/National-COVID-Cohort-Collaborative/CS-Rural-Health/tree/main/rural-mortality-and-hospitalization/code-workbook)
+
+## National COVID Cohort Collaborative (N3C)
+N3C is a public resource maintained by NCATS to support COVID-19 research. Investigators can request access to the Enclave [here](https://ncats.nih.gov/n3c/about/applying-for-access).
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
