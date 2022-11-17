@@ -1,3 +1,9 @@
+# Author: A Jerrod Anzalone
+# R code for Community and Social Risks for SARS-CoV-2 Infection Among 
+# Fully Vaccinated US Adults: A Retrospective Cohort Study from the National COVID Cohort Collaborative.
+# Published 16 November 2022
+# Last updated: 09 April 2022
+
 community_prevalance_adjusted <- function(updated_hr_breakthrough) {
   library(gtsummary)
   library(rvest)
