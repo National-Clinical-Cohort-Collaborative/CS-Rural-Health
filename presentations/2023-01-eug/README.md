@@ -23,7 +23,8 @@ Will
 * sparkr
 * asserts for data 
 * R analysis transform produces (a) regression table and (b) graph
-* For each column, identify the smallest data type that appropriately contains the variable's info.  The smaller the rds, the quicker the files is written & read.  The smaller the data.frame, the less RAM is required and more efficient the CPU & retrieval/caching mechanism can be.
-  * boolean *vs* integer/factor (1 vs 32 bit).  R internally represents factors with 32-bit integers
+* For each column, identify the smallest data type that appropriately contains the variable's info.  The smaller the rds, the quicker the files is written & read.  The smaller the data.frame, the less RAM is required and more efficient the CPU & retrieval/caching mechanism can be.  
+
+  * boolean *vs* integer/factor.  R internally represents factors with 32-bit integers
   * date *vs* datetime
   * integer *vs* floating point (32 vs 64 bits)
