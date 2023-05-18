@@ -447,4 +447,4 @@ concept_id,category_cut6,category_cut3,priority,ingredient_concept_ids,ingredien
 45958454,pde,oral,3,1311276,vardenafil,1,Vardenafil,SNOMED,Substance,NULL
 45958455,pde,oral,3,1311276,vardenafil,1,Vardenafil hydrochloride trihydrate,SNOMED,Substance,NULL
 46274394,pde,oral,3,1311276,vardenafil,1,vardenafil hydrochloride trihydrate,RxNorm,Precise Ingredient,NULL
-test3 ,column,,,,,,,,,
+test3 ,column,,,,,,,,
