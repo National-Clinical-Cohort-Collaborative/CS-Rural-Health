@@ -1,449 +1,449 @@
-concept_id,category_class,category_form,category_medication,priority,ingredient_concept_ids,ingredient_names,ingredient_count,concept_name,vocabulary_id,concept_class_id,standard_concept
-1337068,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan,RxNorm,Ingredient,S
-1337069,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan 10 MG,RxNorm,Clinical Drug Comp,S
-1337070,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan 10 MG Oral Tablet,RxNorm,Clinical Drug,S
-1337102,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan 5 MG,RxNorm,Clinical Drug Comp,S
-1337103,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan 5 MG Oral Tablet,RxNorm,Clinical Drug,S
-1337104,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan 5 MG Oral Tablet [Letairis],RxNorm,Branded Drug,S
-4176164,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,Ambrisentan-containing product,SNOMED,Pharma/Biol Product,NULL
-4177191,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,Ambrisentan,SNOMED,Substance,NULL
-19013177,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan 10 MG [Letairis],RxNorm,Branded Drug Comp,S
-19013178,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan 5 MG [Letairis],RxNorm,Branded Drug Comp,S
-19126932,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan 10 MG Oral Tablet [Letairis],RxNorm,Branded Drug,S
-21600449,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan; oral,ATC,ATC 5th,C
-36214145,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan Oral Product,RxNorm,Clinical Dose Group,C
-36214146,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan Pill,RxNorm,Clinical Dose Group,C
-36222100,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,Letairis Oral Product,RxNorm,Branded Dose Group,C
-36222101,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,Letairis Pill,RxNorm,Branded Dose Group,C
-40140735,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan Oral Tablet,RxNorm,Clinical Drug Form,S
-40140736,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan Oral Tablet [Letairis],RxNorm,Branded Drug Form,S
-45406140,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,Ambrisentan,GPI,GPI,NULL
-715818,ERA,oral,ambrisentan,3,1337068;1336926,ambrisentan;tadalafil,2,ambrisentan and tadalafil; oral,ATC,ATC 5th,C
-792985,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 32 MG,RxNorm,Clinical Drug Comp,S
-792986,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan Oral Liquid Product,RxNorm,Clinical Dose Group,C
-792987,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan Tablet for Oral Suspension,RxNorm,Clinical Drug Form,S
-792988,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 32 MG Tablet for Oral Suspension,RxNorm,Clinical Drug,S
-792989,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 32 MG [Tracleer],RxNorm,Branded Drug Comp,S
-792990,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan Tablet for Oral Suspension [Tracleer],RxNorm,Branded Drug Form,S
-792991,ERA,oral,bosentan,3,1321636,bosentan,1,Tracleer Oral Liquid Product,RxNorm,Branded Dose Group,C
-792992,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 32 MG Tablet for Oral Suspension [Tracleer],RxNorm,Branded Drug,S
-1321636,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan,RxNorm,Ingredient,S
-1321637,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 62.5 MG Oral Tablet,RxNorm,Clinical Drug,S
-1321641,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 125 MG Oral Tablet,RxNorm,Clinical Drug,S
-4299461,ERA,oral,bosentan,3,1321636,bosentan,1,Bosentan-containing product,SNOMED,Pharma/Biol Product,NULL
-4300263,ERA,oral,bosentan,3,1321636,bosentan,1,Bosentan,SNOMED,Substance,NULL
-19016157,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 62.5 MG [Tracleer],RxNorm,Branded Drug Comp,S
-19016158,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 125 MG [Tracleer],RxNorm,Branded Drug Comp,S
-19098071,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 125 MG,RxNorm,Clinical Drug Comp,S
-19098072,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 62.5 MG,RxNorm,Clinical Drug Comp,S
-19098352,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 62.5 MG Oral Tablet [Tracleer],RxNorm,Branded Drug,S
-19124851,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 125 MG Oral Tablet [Tracleer],RxNorm,Branded Drug,S
-21600448,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan; oral,ATC,ATC 5th,C
-36219519,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan Oral Product,RxNorm,Clinical Dose Group,C
-36219520,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan Pill,RxNorm,Clinical Dose Group,C
-36227948,ERA,oral,bosentan,3,1321636,bosentan,1,Tracleer Oral Product,RxNorm,Branded Dose Group,C
-36227949,ERA,oral,bosentan,3,1321636,bosentan,1,Tracleer Pill,RxNorm,Branded Dose Group,C
-40092426,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan Oral Tablet,RxNorm,Clinical Drug Form,S
-40092427,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan Oral Tablet [Tracleer],RxNorm,Branded Drug Form,S
-45393589,ERA,oral,bosentan,3,1321636,bosentan,1,Bosentan,GPI,GPI,NULL
-45958567,ERA,oral,bosentan,3,1321636,bosentan,1,Bosentan,SNOMED,Substance,NULL
-46274838,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan anhydrous,RxNorm,Precise Ingredient,NULL
-1354118,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol,RxNorm,Ingredient,S
-1354119,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 0.5 MG Injection [Flolan],RxNorm,Branded Drug,S
-4031899,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,Epoprostenol sodium,SNOMED,Substance,NULL
-4032547,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,Epoprostenol-containing product,SNOMED,Pharma/Biol Product,NULL
-4159305,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,Epoprostenol,SNOMED,Substance,NULL
-19004007,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol sodium,RxNorm,Precise Ingredient,NULL
-19045938,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 1.5 MG Injection [Flolan],RxNorm,Branded Drug,S
-19115193,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 0.5 MG Injection,RxNorm,Clinical Drug,S
-19115194,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 1.5 MG Injection,RxNorm,Clinical Drug,S
-21600994,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol; parenteral,ATC,ATC 5th,C
-36222622,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol Injectable Product,RxNorm,Clinical Dose Group,C
-36235966,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,Flolan Injectable Product,RxNorm,Branded Dose Group,C
-36242322,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,Veletri Injectable Product,RxNorm,Branded Dose Group,C
-40226772,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 1.5 MG Injection [Veletri],RxNorm,Branded Drug,S
-40299479,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,Prostaglandin X,SNOMED,Substance,NULL
-40519704,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,Epoprostenol sodium,SNOMED,Substance,NULL
-40640701,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,Prostacyclin,SNOMED,Substance,NULL
-42629306,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 0.5 MG,RxNorm,Clinical Drug Comp,S
-42629307,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol Injection,RxNorm,Clinical Drug Form,S
-42629308,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 0.5 MG [Flolan],RxNorm,Branded Drug Comp,S
-42629309,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol Injection [Flolan],RxNorm,Branded Drug Form,S
-42629310,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 0.5 MG [Veletri],RxNorm,Branded Drug Comp,S
-42629311,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol Injection [Veletri],RxNorm,Branded Drug Form,S
-42629312,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 1.5 MG,RxNorm,Clinical Drug Comp,S
-42629313,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 1.5 MG [Flolan],RxNorm,Branded Drug Comp,S
-42629314,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 1.5 MG [Veletri],RxNorm,Branded Drug Comp,S
-42873590,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 0.5 MG Injection [Veletri],RxNorm,Branded Drug,S
-45403032,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,Epoprostenol Sodium,GPI,GPI,NULL
-1344992,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost,RxNorm,Ingredient,S
-1344995,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.01 MG/ML Inhalation Solution [Ventavis],RxNorm,Branded Drug,S
-1356206,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost Inhalation Solution,RxNorm,Clinical Drug Form,S
-1356207,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost Inhalation Solution [Ventavis],RxNorm,Branded Drug Form,S
-4200747,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,Iloprost-containing product,SNOMED,Pharma/Biol Product,NULL
-4216919,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,Iloprost,SNOMED,Substance,NULL
-19054361,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.1 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
-19080430,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.01 MG/ML [Ventavis],RxNorm,Branded Drug Comp,S
-19101291,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.1 MG/ML,RxNorm,Clinical Drug Comp,S
-19104373,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.02 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
-19110302,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.02 MG/ML,RxNorm,Clinical Drug Comp,S
-19112948,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.01 MG/ML,RxNorm,Clinical Drug Comp,S
-19112949,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.01 MG/ML Inhalation Solution,RxNorm,Clinical Drug,S
-21600996,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,"iloprost; inhalant,parenteral",ATC,ATC 5th,C
-36214306,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost Inhalant Product,RxNorm,Clinical Dose Group,C
-36214307,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost Injectable Product,RxNorm,Clinical Dose Group,C
-36242338,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,Ventavis Inhalant Product,RxNorm,Branded Dose Group,C
-40048977,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost Injectable Solution,RxNorm,Clinical Drug Form,S
-40164835,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.02 MG/ML Inhalation Solution,RxNorm,Clinical Drug,S
-40164836,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.02 MG/ML Inhalation Solution [Ventavis],RxNorm,Branded Drug,S
-40164837,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.02 MG/ML [Ventavis],RxNorm,Branded Drug Comp,S
-45387329,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,Iloprost,GPI,GPI,NULL
-45958607,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,Iloprost,SNOMED,Substance,NULL
-36247787,ERA,oral,macitentan,2,44507580,macitentan,1,macitentan Oral Product,RxNorm,Clinical Dose Group,C
-36247788,ERA,oral,macitentan,2,44507580,macitentan,1,macitentan Pill,RxNorm,Clinical Dose Group,C
-36247789,ERA,oral,macitentan,2,44507580,macitentan,1,Opsumit Oral Product,RxNorm,Branded Dose Group,C
-36247790,ERA,oral,macitentan,2,44507580,macitentan,1,Opsumit Pill,RxNorm,Branded Dose Group,C
-37398929,ERA,oral,macitentan,2,44507580,macitentan,1,Macitentan-containing product,SNOMED,Pharma/Biol Product,NULL
-43534769,ERA,oral,macitentan,2,44507580,macitentan,1,macitentan; oral,ATC,ATC 5th,C
-44507580,ERA,oral,macitentan,2,44507580,macitentan,1,macitentan,RxNorm,Ingredient,S
-44507581,ERA,oral,macitentan,2,44507580,macitentan,1,macitentan 10 MG,RxNorm,Clinical Drug Comp,S
-44507582,ERA,oral,macitentan,2,44507580,macitentan,1,macitentan 10 MG Oral Tablet,RxNorm,Clinical Drug,S
-44507583,ERA,oral,macitentan,2,44507580,macitentan,1,macitentan 10 MG Oral Tablet [Opsumit],RxNorm,Branded Drug,S
-44507584,ERA,oral,macitentan,2,44507580,macitentan,1,macitentan 10 MG [Opsumit],RxNorm,Branded Drug Comp,S
-44507585,ERA,oral,macitentan,2,44507580,macitentan,1,macitentan Oral Tablet,RxNorm,Clinical Drug Form,S
-44507586,ERA,oral,macitentan,2,44507580,macitentan,1,macitentan Oral Tablet [Opsumit],RxNorm,Branded Drug Form,S
-45957591,ERA,oral,macitentan,2,44507580,macitentan,1,Macitentan,SNOMED,Substance,NULL
-45959535,ERA,oral,macitentan,2,44507580,macitentan,1,Macitentan,SNOMED,Pharma/Biol Product,NULL
-46271990,ERA,oral,macitentan,2,44507580,macitentan,1,Macitentan,SNOMED,Substance,NULL
-2788011,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,"Introduction of Nitric Oxide Gas into Respiratory Tract,Percutaneous Approach",ICD10PCS,ICD10PCS,NULL
-2788234,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,"Introduction of Nitric Oxide Gas into Respiratory Tract,Via Natural or Artificial Opening",ICD10PCS,ICD10PCS,NULL
-2788251,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,"Introduction of Nitric Oxide Gas into Respiratory Tract,Via Natural or Artificial Opening Endoscopic",ICD10PCS,ICD10PCS,NULL
-4255990,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,Nitric oxide-containing product,SNOMED,Pharma/Biol Product,NULL
-4283972,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,Nitric oxide,SNOMED,Substance,NULL
-19020068,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide,RxNorm,Ingredient,S
-19020070,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 0.01 %,RxNorm,Clinical Drug Comp,S
-19020619,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 0.01 % / nitrogen 99.99 % Gas for Inhalation,RxNorm,Clinical Drug,S
-19020620,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation [INOmax],RxNorm,Branded Drug,S
-19043876,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 0.01 % / nitrogen 99.99 % [INOmax],RxNorm,Branded Drug Comp,S
-19043877,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 0.01 % / nitrogen 99.99 % Gas for Inhalation [INOmax],RxNorm,Branded Drug,S
-19043879,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 0.08 % / nitrogen 99.92 % [INOmax],RxNorm,Branded Drug Comp,S
-19121839,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 0.08 %,RxNorm,Clinical Drug Comp,S
-19121841,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation,RxNorm,Clinical Drug,S
-19122056,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 99.8 %,RxNorm,Clinical Drug Comp,S
-19122057,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 99.8 % Gas for Inhalation,RxNorm,Clinical Drug,S
-21603549,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide; inhalant,ATC,ATC 5th,C
-36027391,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,Nitric Oxide / Nitrogen,RxNorm,Multiple Ingredients,NULL
-36218524,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,INOmax Inhalant Product,RxNorm,Branded Dose Group,C
-36227025,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide / nitrogen Inhalant Product,RxNorm,Clinical Dose Group,C
-36227026,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide Inhalant Product,RxNorm,Clinical Dose Group,C
-40069608,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide Gas for Inhalation,RxNorm,Clinical Drug Form,S
-40118583,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide / nitrogen Gas for Inhalation,RxNorm,Clinical Drug Form,S
-40155795,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide / nitrogen Gas for Inhalation [INOmax],RxNorm,Branded Drug Form,S
-45776910,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 0.5 %,RxNorm,Clinical Drug Comp,S
-45776911,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 0.5 % / nitrogen 99.5 % Gas for Inhalation,RxNorm,Clinical Drug,S
-45959312,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,Nitric oxide,SNOMED,Pharma/Biol Product,NULL
-36247520,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat Oral Product,RxNorm,Clinical Dose Group,C
-36247521,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat Pill,RxNorm,Clinical Dose Group,C
-36247567,sGC,oral,riociguat,3,44506752,riociguat,1,Adempas Oral Product,RxNorm,Branded Dose Group,C
-36247568,sGC,oral,riociguat,3,44506752,riociguat,1,Adempas Pill,RxNorm,Branded Dose Group,C
-37017120,sGC,oral,riociguat,3,44506752,riociguat,1,Riociguat,SNOMED,Substance,NULL
-37395892,sGC,oral,riociguat,3,44506752,riociguat,1,Riociguat-containing product,SNOMED,Pharma/Biol Product,NULL
-44506421,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 0.5 MG,RxNorm,Clinical Drug Comp,S
-44506422,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat Oral Tablet,RxNorm,Clinical Drug Form,S
-44506423,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 1.5 MG,RxNorm,Clinical Drug Comp,S
-44506427,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 1 MG,RxNorm,Clinical Drug Comp,S
-44506428,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 2.5 MG,RxNorm,Clinical Drug Comp,S
-44506429,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 2 MG,RxNorm,Clinical Drug Comp,S
-44506454,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 0.5 MG [Adempas],RxNorm,Branded Drug Comp,S
-44506455,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat Oral Tablet [Adempas],RxNorm,Branded Drug Form,S
-44506456,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 1 MG [Adempas],RxNorm,Branded Drug Comp,S
-44506457,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 1.5 MG [Adempas],RxNorm,Branded Drug Comp,S
-44506458,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 2 MG [Adempas],RxNorm,Branded Drug Comp,S
-44506459,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 2.5 MG [Adempas],RxNorm,Branded Drug Comp,S
-44506614,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 0.5 MG Oral Tablet,RxNorm,Clinical Drug,S
-44506615,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 1.5 MG Oral Tablet,RxNorm,Clinical Drug,S
-44506617,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 1 MG Oral Tablet,RxNorm,Clinical Drug,S
-44506618,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 2.5 MG Oral Tablet,RxNorm,Clinical Drug,S
-44506619,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 2 MG Oral Tablet,RxNorm,Clinical Drug,S
-44506639,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 0.5 MG Oral Tablet [Adempas],RxNorm,Branded Drug,S
-44506640,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 1 MG Oral Tablet [Adempas],RxNorm,Branded Drug,S
-44506642,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 1.5 MG Oral Tablet [Adempas],RxNorm,Branded Drug,S
-44506643,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 2 MG Oral Tablet [Adempas],RxNorm,Branded Drug,S
-44506644,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 2.5 MG Oral Tablet [Adempas],RxNorm,Branded Drug,S
-44506752,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat,RxNorm,Ingredient,S
-45893474,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat; oral,ATC,ATC 5th,C
-45957603,sGC,oral,riociguat,3,44506752,riociguat,1,Riociguat,SNOMED,Substance,NULL
-45959551,sGC,oral,riociguat,3,44506752,riociguat,1,Riociguat,SNOMED,Pharma/Biol Product,NULL
-701473,PRA,IV,selexipag,2,35604848,selexipag,1,selexipag 1.8 MG,RxNorm,Clinical Drug Comp,S
-701474,PRA,IV,selexipag,2,35604848,selexipag,1,selexipag Injectable Product,RxNorm,Clinical Dose Group,C
-701475,PRA,IV,selexipag,2,35604848,selexipag,1,selexipag Injection,RxNorm,Clinical Drug Form,S
-701476,PRA,IV,selexipag,2,35604848,selexipag,1,selexipag 1.8 MG Injection,RxNorm,Clinical Drug,S
-701477,PRA,IV,selexipag,2,35604848,selexipag,1,selexipag 1.8 MG [Uptravi],RxNorm,Branded Drug Comp,S
-701478,PRA,oral,selexipag,2,35604848,selexipag,1,Uptravi Injectable Product,RxNorm,Branded Dose Group,C
-701479,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag Injection [Uptravi],RxNorm,Branded Drug Form,S
-701480,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.8 MG Injection [Uptravi],RxNorm,Branded Drug,S
-1588656,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag; oral,ATC,ATC 5th,C
-35604618,PRA,oral,selexipag,2,35604848,selexipag,1,{140 (selexipag 0.2 MG Oral Tablet [Uptravi]) / 60 (selexipag 0.8 MG Oral Tablet [Uptravi]) } Pack [Uptravi Titration Pack],RxNorm,Branded Pack,S
-35604848,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag,RxNorm,Ingredient,S
-35604849,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1 MG,RxNorm,Clinical Drug Comp,S
-35604850,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag Oral Tablet,RxNorm,Clinical Drug Form,S
-35604851,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1 MG Oral Tablet,RxNorm,Clinical Drug,S
-35604932,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1 MG [Uptravi],RxNorm,Branded Drug Comp,S
-35604933,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag Oral Tablet [Uptravi],RxNorm,Branded Drug Form,S
-35604934,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1 MG Oral Tablet [Uptravi],RxNorm,Branded Drug,S
-35604936,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.2 MG,RxNorm,Clinical Drug Comp,S
-35604937,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.2 MG Oral Tablet,RxNorm,Clinical Drug,S
-35604938,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.2 MG [Uptravi],RxNorm,Branded Drug Comp,S
-35604939,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.2 MG Oral Tablet [Uptravi],RxNorm,Branded Drug,S
-35604940,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.4 MG,RxNorm,Clinical Drug Comp,S
-35604941,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.4 MG Oral Tablet,RxNorm,Clinical Drug,S
-35604942,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.4 MG [Uptravi],RxNorm,Branded Drug Comp,S
-35604943,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.4 MG Oral Tablet [Uptravi],RxNorm,Branded Drug,S
-35604944,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.6 MG,RxNorm,Clinical Drug Comp,S
-35604945,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.6 MG Oral Tablet,RxNorm,Clinical Drug,S
-35604946,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.6 MG [Uptravi],RxNorm,Branded Drug Comp,S
-35604947,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.6 MG Oral Tablet [Uptravi],RxNorm,Branded Drug,S
-35604948,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.2 MG,RxNorm,Clinical Drug Comp,S
-35604949,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.2 MG Oral Tablet,RxNorm,Clinical Drug,S
-35604950,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.2 MG [Uptravi],RxNorm,Branded Drug Comp,S
-35604951,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.2 MG Oral Tablet [Uptravi],RxNorm,Branded Drug,S
-35604952,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.4 MG,RxNorm,Clinical Drug Comp,S
-35604953,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.4 MG Oral Tablet,RxNorm,Clinical Drug,S
-35604954,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.4 MG [Uptravi],RxNorm,Branded Drug Comp,S
-35604955,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.4 MG Oral Tablet [Uptravi],RxNorm,Branded Drug,S
-35604956,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.6 MG,RxNorm,Clinical Drug Comp,S
-35604957,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.6 MG Oral Tablet,RxNorm,Clinical Drug,S
-35604958,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.6 MG [Uptravi],RxNorm,Branded Drug Comp,S
-35604959,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.6 MG Oral Tablet [Uptravi],RxNorm,Branded Drug,S
-35604960,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.8 MG,RxNorm,Clinical Drug Comp,S
-35604961,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.8 MG Oral Tablet,RxNorm,Clinical Drug,S
-35604962,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.8 MG [Uptravi],RxNorm,Branded Drug Comp,S
-35604963,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.8 MG Oral Tablet [Uptravi],RxNorm,Branded Drug,S
-35606608,PRA,oral,selexipag,2,35604848,selexipag,1,{140 (selexipag 0.2 MG Oral Tablet) / 60 (selexipag 0.8 MG Oral Tablet) } Pack,RxNorm,Clinical Pack,S
-36248460,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag Oral Product,RxNorm,Clinical Dose Group,C
-36248461,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag Pill,RxNorm,Clinical Dose Group,C
-36248481,PRA,oral,selexipag,2,35604848,selexipag,1,Uptravi Oral Product,RxNorm,Branded Dose Group,C
-36248482,PRA,oral,selexipag,2,35604848,selexipag,1,Uptravi Pill,RxNorm,Branded Dose Group,C
-36683529,PRA,oral,selexipag,2,35604848,selexipag,1,Selexipag-containing product,SNOMED,Pharma/Biol Product,NULL
-37384548,PRA,oral,selexipag,2,35604848,selexipag,1,Selexipag,SNOMED,Substance,NULL
-37397279,PRA,oral,selexipag,2,35604848,selexipag,1,Selexipag,SNOMED,Substance,NULL
-1316262,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil,RxNorm,Ingredient,S
-1316263,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 25 MG Oral Tablet [Viagra],RxNorm,Branded Drug,S
-1316265,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 100 MG Oral Tablet [Viagra],RxNorm,Branded Drug,S
-1316268,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 25 MG Oral Tablet,RxNorm,Clinical Drug,S
-1316269,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 100 MG Oral Tablet,RxNorm,Clinical Drug,S
-1316270,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 100 MG,RxNorm,Clinical Drug Comp,S
-1316271,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 50 MG,RxNorm,Clinical Drug Comp,S
-1316304,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 20 MG Oral Tablet [Revatio],RxNorm,Branded Drug,S
-4030956,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Sildenafil-containing product,SNOMED,Pharma/Biol Product,NULL
-4032406,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Sildenafil citrate,SNOMED,Substance,NULL
-4164031,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Sildenafil,SNOMED,Substance,NULL
-19036977,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 25 MG [Viagra],RxNorm,Branded Drug Comp,S
-19036978,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 50 MG [Viagra],RxNorm,Branded Drug Comp,S
-19036979,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 100 MG [Viagra],RxNorm,Branded Drug Comp,S
-19047693,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 50 MG Oral Tablet [Viagra],RxNorm,Branded Drug,S
-19052556,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil citrate,RxNorm,Precise Ingredient,NULL
-19065870,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 25 MG,RxNorm,Clinical Drug Comp,S
-19079048,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 20 MG [Revatio],RxNorm,Branded Drug Comp,S
-19079498,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 50 MG Oral Tablet,RxNorm,Clinical Drug,S
-19121181,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 20 MG,RxNorm,Clinical Drug Comp,S
-19121182,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 20 MG Oral Tablet,RxNorm,Clinical Drug,S
-21602648,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil; oral,ATC,ATC 5th,C
-36226428,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Injectable Product,RxNorm,Clinical Dose Group,C
-36226429,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Oral Product,RxNorm,Clinical Dose Group,C
-36226430,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Pill,RxNorm,Clinical Dose Group,C
-36238746,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Revatio Injectable Product,RxNorm,Branded Dose Group,C
-36238747,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Revatio Oral Product,RxNorm,Branded Dose Group,C
-36238748,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Revatio Pill,RxNorm,Branded Dose Group,C
-36241997,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Viagra Oral Product,RxNorm,Branded Dose Group,C
-36241998,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Viagra Pill,RxNorm,Branded Dose Group,C
-36243697,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Oral Liquid Product,RxNorm,Clinical Dose Group,C
-36243725,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Revatio Oral Liquid Product,RxNorm,Branded Dose Group,C
-40100616,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Oral Tablet,RxNorm,Clinical Drug Form,S
-40100617,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Oral Tablet [Viagra],RxNorm,Branded Drug Form,S
-40127552,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Oral Tablet [Revatio],RxNorm,Branded Drug Form,S
-40168406,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 0.8 MG/ML,RxNorm,Clinical Drug Comp,S
-40168407,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,12.5 ML sildenafil 0.8 MG/ML Injection,RxNorm,Quant Clinical Drug,S
-40168408,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,12.5 ML sildenafil 0.8 MG/ML Injection [Revatio],RxNorm,Quant Branded Drug,S
-40168409,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 0.8 MG/ML [Revatio],RxNorm,Branded Drug Comp,S
-42900539,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 10 MG/ML,RxNorm,Clinical Drug Comp,S
-42900540,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 10 MG/ML Oral Suspension,RxNorm,Clinical Drug,S
-42900541,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 10 MG/ML Oral Suspension [Revatio],RxNorm,Branded Drug,S
-42900542,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 10 MG/ML [Revatio],RxNorm,Branded Drug Comp,S
-42900546,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Oral Suspension,RxNorm,Clinical Drug Form,S
-42900547,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Oral Suspension [Revatio],RxNorm,Branded Drug Form,S
-45384222,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Sildenafil Citrate,GPI,GPI,NULL
-45396715,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Sildenafil Citrate,GPI,GPI,NULL
-46275407,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Injection,RxNorm,Clinical Drug Form,S
-46275408,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Injection [Revatio],RxNorm,Branded Drug Form,S
-46275409,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 0.8 MG/ML Injection,RxNorm,Clinical Drug,S
-46275410,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 0.8 MG/ML Injection [Revatio],RxNorm,Branded Drug,S
-702484,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,finasteride / tadalafil Oral Product,RxNorm,Clinical Dose Group,C
-702485,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,finasteride / tadalafil Pill,RxNorm,Clinical Dose Group,C
-702486,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,finasteride / tadalafil Oral Capsule,RxNorm,Clinical Drug Form,S
-702487,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,finasteride 5 MG / tadalafil 5 MG Oral Capsule,RxNorm,Clinical Drug,S
-702489,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,finasteride 5 MG / tadalafil 5 MG [Entadfi],RxNorm,Branded Drug Comp,S
-702490,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Entadfi Oral Product,RxNorm,Branded Dose Group,C
-702491,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Entadfi Pill,RxNorm,Branded Dose Group,C
-702492,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,finasteride / tadalafil Oral Capsule [Entadfi],RxNorm,Branded Drug Form,S
-702493,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,finasteride 5 MG / tadalafil 5 MG Oral Capsule [Entadfi],RxNorm,Branded Drug,S
-715862,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tamsulosin and tadalafil; systemic,ATC,ATC 5th,C
-1336926,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil,RxNorm,Ingredient,S
-1336975,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 10 MG Oral Tablet,RxNorm,Clinical Drug,S
-1336979,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Pulmonary Hypertension tadalafil 20 MG Oral Tablet [Adcirca],RxNorm,Branded Drug,S
-1366396,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 20 MG [Alyq],RxNorm,Branded Drug Comp,S
-1366397,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil Oral Tablet [Alyq],RxNorm,Branded Drug Form,S
-1366398,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Alyq Oral Product,RxNorm,Branded Dose Group,C
-1366399,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Alyq Pill,RxNorm,Branded Dose Group,C
-1366400,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Pulmonary Hypertension tadalafil 20 MG Oral Tablet [Alyq],RxNorm,Branded Drug,S
-1511304,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Pulmonary Hypertension tadalafil 20 MG Oral Tablet,RxNorm,Clinical Drug,S
-4248216,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Tadalafil,SNOMED,Substance,NULL
-4250143,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Tadalafil-containing product,SNOMED,Pharma/Biol Product,NULL
-19011081,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 2.5 MG [Cialis],RxNorm,Branded Drug Comp,S
-19048492,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 20 MG [Adcirca],RxNorm,Branded Drug Comp,S
-19102192,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 20 MG Oral Tablet,RxNorm,Clinical Drug,S
-19102204,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 10 MG Oral Tablet [Cialis],RxNorm,Branded Drug,S
-19102205,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 20 MG Oral Tablet [Cialis],RxNorm,Branded Drug,S
-19102278,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 10 MG,RxNorm,Clinical Drug Comp,S
-19102279,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 20 MG,RxNorm,Clinical Drug Comp,S
-19102546,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 5 MG Oral Tablet,RxNorm,Clinical Drug,S
-19102899,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 5 MG Oral Tablet [Cialis],RxNorm,Branded Drug,S
-19103059,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 5 MG,RxNorm,Clinical Drug Comp,S
-19121064,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 10 MG [Cialis],RxNorm,Branded Drug Comp,S
-19121065,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 20 MG [Cialis],RxNorm,Branded Drug Comp,S
-19121159,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 5 MG [Cialis],RxNorm,Branded Drug Comp,S
-19129174,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 2.5 MG,RxNorm,Clinical Drug Comp,S
-19129175,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 2.5 MG Oral Tablet,RxNorm,Clinical Drug,S
-19129390,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 2.5 MG Oral Tablet [Cialis],RxNorm,Branded Drug,S
-21602653,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil; oral,ATC,ATC 5th,C
-36224827,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil Oral Product,RxNorm,Clinical Dose Group,C
-36224828,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil Pill,RxNorm,Clinical Dose Group,C
-36233797,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Adcirca Oral Product,RxNorm,Branded Dose Group,C
-36233798,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Adcirca Pill,RxNorm,Branded Dose Group,C
-36237315,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Cialis Oral Product,RxNorm,Branded Dose Group,C
-36237316,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Cialis Pill,RxNorm,Branded Dose Group,C
-40102137,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil Oral Tablet,RxNorm,Clinical Drug Form,S
-40102138,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil Oral Tablet [Cialis],RxNorm,Branded Drug Form,S
-40160920,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil Oral Tablet [Adcirca],RxNorm,Branded Drug Form,S
-45387335,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Tadalafil,GPI,GPI,NULL
-45958384,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Tadalafil,SNOMED,Substance,NULL
-1327256,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil,RxNorm,Ingredient,S
-1327261,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 1 MG/ML Injectable Solution [Remodulin],RxNorm,Branded Drug,S
-1327292,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 2.5 MG/ML Injectable Solution [Remodulin],RxNorm,Branded Drug,S
-1327293,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 5 MG/ML Injectable Solution [Remodulin],RxNorm,Branded Drug,S
-1327294,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 10 MG/ML Injectable Solution [Remodulin],RxNorm,Branded Drug,S
-1327295,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 1 MG/ML,RxNorm,Clinical Drug Comp,S
-1327297,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 2.5 MG/ML,RxNorm,Clinical Drug Comp,S
-1327298,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 5 MG/ML,RxNorm,Clinical Drug Comp,S
-1356256,prostanoid,inhaled,treprostinil,2,1327256,treprostinil,1,treprostinil Inhalation Solution,RxNorm,Clinical Drug Form,S
-1356257,prostanoid,inhaled,treprostinil,2,1327256,treprostinil,1,treprostinil Inhalation Solution [Tyvaso],RxNorm,Branded Drug Form,S
-1592773,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil diolamine,RxNorm,Precise Ingredient,NULL
-1718571,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 5 MG,RxNorm,Clinical Drug Comp,S
-1718572,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,12 HR treprostinil 5 MG Extended Release Oral Tablet,RxNorm,Quant Clinical Drug,S
-1718573,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 5 MG [Orenitram],RxNorm,Branded Drug Comp,S
-1718574,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,12 HR treprostinil 5 MG Extended Release Oral Tablet [Orenitram],RxNorm,Quant Branded Drug,S
-1718575,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 5 MG Extended Release Oral Tablet,RxNorm,Clinical Drug,S
-1718576,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 5 MG Extended Release Oral Tablet [Orenitram],RxNorm,Branded Drug,S
-1758766,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 20 MG/ML,RxNorm,Clinical Drug Comp,S
-1758767,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 20 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
-1758768,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 20 MG/ML [Remodulin],RxNorm,Branded Drug Comp,S
-1758769,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 20 MG/ML Injectable Solution [Remodulin],RxNorm,Branded Drug,S
-4295940,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,Treprostinil-containing product,SNOMED,Pharma/Biol Product,NULL
-4301437,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,Treprostinil sodium,SNOMED,Substance,NULL
-19016192,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 1 MG/ML [Remodulin],RxNorm,Branded Drug Comp,S
-19016193,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 2.5 MG/ML [Remodulin],RxNorm,Branded Drug Comp,S
-19016194,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 5 MG/ML [Remodulin],RxNorm,Branded Drug Comp,S
-19016195,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 10 MG/ML [Remodulin],RxNorm,Branded Drug Comp,S
-19094992,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil sodium,RxNorm,Precise Ingredient,NULL
-19096754,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 1 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
-19096755,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 10 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
-19096756,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 2.5 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
-19096757,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 5 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
-19100973,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 10 MG/ML,RxNorm,Clinical Drug Comp,S
-21601003,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil; parenteral,ATC,ATC 5th,C
-36214424,prostanoid,inhaled,treprostinil,2,1327256,treprostinil,1,treprostinil Inhalant Product,RxNorm,Clinical Dose Group,C
-36214425,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil Injectable Product,RxNorm,Clinical Dose Group,C
-36228989,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,Remodulin Injectable Product,RxNorm,Branded Dose Group,C
-36239680,prostanoid,inhaled,treprostinil,2,1327256,treprostinil,1,Tyvaso Inhalant Product,RxNorm,Branded Dose Group,C
-36247974,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil Oral Product,RxNorm,Clinical Dose Group,C
-36247975,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil Pill,RxNorm,Clinical Dose Group,C
-36248106,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,Orenitram Oral Product,RxNorm,Branded Dose Group,C
-36248107,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,Orenitram Pill,RxNorm,Branded Dose Group,C
-40090704,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil Injectable Solution,RxNorm,Clinical Drug Form,S
-40090705,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil Injectable Solution [Remodulin],RxNorm,Branded Drug Form,S
-40165305,prostanoid,inhaled,treprostinil,2,1327256,treprostinil,1,treprostinil 0.6 MG/ML,RxNorm,Clinical Drug Comp,S
-40165306,prostanoid,inhaled,treprostinil,2,1327256,treprostinil,1,treprostinil 0.6 MG/ML Inhalation Solution,RxNorm,Clinical Drug,S
-40165307,prostanoid,inhaled,treprostinil,2,1327256,treprostinil,1,treprostinil 0.6 MG/ML Inhalation Solution [Tyvaso],RxNorm,Branded Drug,S
-40165308,prostanoid,inhaled,treprostinil,2,1327256,treprostinil,1,treprostinil 0.6 MG/ML [Tyvaso],RxNorm,Branded Drug Comp,S
-40482328,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,Treprostinil,SNOMED,Substance,NULL
-44785331,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 0.125 MG,RxNorm,Clinical Drug Comp,S
-44785334,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 0.125 MG [Orenitram],RxNorm,Branded Drug Comp,S
-44785335,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 0.25 MG,RxNorm,Clinical Drug Comp,S
-44785338,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 0.25 MG [Orenitram],RxNorm,Branded Drug Comp,S
-44785339,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 1 MG,RxNorm,Clinical Drug Comp,S
-44785342,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 1 MG [Orenitram],RxNorm,Branded Drug Comp,S
-44785343,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 2.5 MG,RxNorm,Clinical Drug Comp,S
-44785346,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 2.5 MG [Orenitram],RxNorm,Branded Drug Comp,S
-44785531,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,12 HR treprostinil 0.125 MG Extended Release Oral Tablet,RxNorm,Quant Clinical Drug,S
-44785532,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,12 HR treprostinil 0.125 MG Extended Release Oral Tablet [Orenitram],RxNorm,Quant Branded Drug,S
-44785533,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,12 HR treprostinil 0.25 MG Extended Release Oral Tablet,RxNorm,Quant Clinical Drug,S
-44785534,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,12 HR treprostinil 0.25 MG Extended Release Oral Tablet [Orenitram],RxNorm,Quant Branded Drug,S
-44785535,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,12 HR treprostinil 1 MG Extended Release Oral Tablet,RxNorm,Quant Clinical Drug,S
-44785536,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,12 HR treprostinil 1 MG Extended Release Oral Tablet [Orenitram],RxNorm,Quant Branded Drug,S
-44785537,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,12 HR treprostinil 2.5 MG Extended Release Oral Tablet,RxNorm,Quant Clinical Drug,S
-44785538,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,12 HR treprostinil 2.5 MG Extended Release Oral Tablet [Orenitram],RxNorm,Quant Branded Drug,S
-44785789,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 0.125 MG Extended Release Oral Tablet,RxNorm,Clinical Drug,S
-44785790,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 0.125 MG Extended Release Oral Tablet [Orenitram],RxNorm,Branded Drug,S
-44785792,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 0.25 MG Extended Release Oral Tablet,RxNorm,Clinical Drug,S
-44785793,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 0.25 MG Extended Release Oral Tablet [Orenitram],RxNorm,Branded Drug,S
-44785794,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 1 MG Extended Release Oral Tablet,RxNorm,Clinical Drug,S
-44785795,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 1 MG Extended Release Oral Tablet [Orenitram],RxNorm,Branded Drug,S
-44785796,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 2.5 MG Extended Release Oral Tablet,RxNorm,Clinical Drug,S
-44785797,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 2.5 MG Extended Release Oral Tablet [Orenitram],RxNorm,Branded Drug,S
-44785798,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil Extended Release Oral Tablet,RxNorm,Clinical Drug Form,S
-44785799,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil Extended Release Oral Tablet [Orenitram],RxNorm,Branded Drug Form,S
-45393593,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,Treprostinil Sodium,GPI,GPI,NULL
-1311276,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil,RxNorm,Ingredient,S
-1311277,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 5 MG Oral Tablet,RxNorm,Clinical Drug,S
-1311278,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 10 MG Oral Tablet,RxNorm,Clinical Drug,S
-1311280,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 10 MG,RxNorm,Clinical Drug Comp,S
-1311281,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 20 MG,RxNorm,Clinical Drug Comp,S
-4138920,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Vardenafil hydrochloride trihydrate,SNOMED,Substance,NULL
-4225684,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Vardenafil,SNOMED,Substance,NULL
-4238358,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Vardenafil-containing product,SNOMED,Pharma/Biol Product,NULL
-4260600,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Vardenafil hydrochloride,SNOMED,Substance,NULL
-19036395,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 2.5 MG [Levitra],RxNorm,Branded Drug Comp,S
-19036397,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 10 MG [Levitra],RxNorm,Branded Drug Comp,S
-19036398,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 20 MG [Levitra],RxNorm,Branded Drug Comp,S
-19072154,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil hydrochloride,RxNorm,Precise Ingredient,NULL
-19096774,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 20 MG Oral Tablet,RxNorm,Clinical Drug,S
-19099271,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 5 MG,RxNorm,Clinical Drug Comp,S
-19102229,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 2.5 MG Oral Tablet,RxNorm,Clinical Drug,S
-19102256,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 2.5 MG,RxNorm,Clinical Drug Comp,S
-19102850,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 2.5 MG Oral Tablet [Levitra],RxNorm,Branded Drug,S
-19102851,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 5 MG Oral Tablet [Levitra],RxNorm,Branded Drug,S
-19102852,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 10 MG Oral Tablet [Levitra],RxNorm,Branded Drug,S
-19102853,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 20 MG Oral Tablet [Levitra],RxNorm,Branded Drug,S
-19112722,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,verdenafil hydrochloride,RxNorm,Ingredient,NULL
-19112723,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,verdenafil,RxNorm,Ingredient,NULL
-19121148,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 5 MG [Levitra],RxNorm,Branded Drug Comp,S
-21602654,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil; oral,ATC,ATC 5th,C
-36220535,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil Oral Product,RxNorm,Clinical Dose Group,C
-36220536,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil Pill,RxNorm,Clinical Dose Group,C
-36222193,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Levitra Oral Product,RxNorm,Branded Dose Group,C
-36222194,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Levitra Pill,RxNorm,Branded Dose Group,C
-36232417,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Staxyn Oral Product,RxNorm,Branded Dose Group,C
-36232419,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Staxyn Pill,RxNorm,Branded Dose Group,C
-36244675,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil Disintegrating Oral Product,RxNorm,Clinical Dose Group,C
-36245719,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Staxyn Disintegrating Oral Product,RxNorm,Branded Dose Group,C
-40100681,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil Oral Tablet,RxNorm,Clinical Drug Form,S
-40100682,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil Oral Tablet [Levitra],RxNorm,Branded Drug Form,S
-40223045,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 10 MG Disintegrating Oral Tablet,RxNorm,Clinical Drug,S
-40223046,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 10 MG Disintegrating Oral Tablet [Staxyn],RxNorm,Branded Drug,S
-40223047,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 10 MG [Staxyn],RxNorm,Branded Drug Comp,S
-40223048,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil Disintegrating Oral Tablet,RxNorm,Clinical Drug Form,S
-40223049,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil Disintegrating Oral Tablet [Staxyn],RxNorm,Branded Drug Form,S
-45387337,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Vardenafil HCl,GPI,GPI,NULL
-45958454,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Vardenafil,SNOMED,Substance,NULL
-45958455,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Vardenafil hydrochloride trihydrate,SNOMED,Substance,NULL
-46274394,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil hydrochloride trihydrate,RxNorm,Precise Ingredient,NULL
+concept_id,tx_group,ignore_medication,exclude_pt,category_class,category_form,category_medication,priority,ingredient_concept_ids,ingredient_names,ingredient_count,concept_name,vocabulary_id,concept_class_id,standard_concept
+1337068,,FALSE,FALSE,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan,RxNorm,Ingredient,S
+1337069,,FALSE,FALSE,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan 10 MG,RxNorm,Clinical Drug Comp,S
+1337070,,FALSE,FALSE,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan 10 MG Oral Tablet,RxNorm,Clinical Drug,S
+1337102,,FALSE,FALSE,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan 5 MG,RxNorm,Clinical Drug Comp,S
+1337103,,FALSE,FALSE,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan 5 MG Oral Tablet,RxNorm,Clinical Drug,S
+1337104,,FALSE,FALSE,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan 5 MG Oral Tablet [Letairis],RxNorm,Branded Drug,S
+4176164,,FALSE,FALSE,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,Ambrisentan-containing product,SNOMED,Pharma/Biol Product,NULL
+4177191,,FALSE,FALSE,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,Ambrisentan,SNOMED,Substance,NULL
+19013177,,FALSE,FALSE,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan 10 MG [Letairis],RxNorm,Branded Drug Comp,S
+19013178,,FALSE,FALSE,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan 5 MG [Letairis],RxNorm,Branded Drug Comp,S
+19126932,,FALSE,FALSE,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan 10 MG Oral Tablet [Letairis],RxNorm,Branded Drug,S
+21600449,,FALSE,FALSE,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan; oral,ATC,ATC 5th,C
+36214145,,FALSE,FALSE,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan Oral Product,RxNorm,Clinical Dose Group,C
+36214146,,FALSE,FALSE,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan Pill,RxNorm,Clinical Dose Group,C
+36222100,,FALSE,FALSE,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,Letairis Oral Product,RxNorm,Branded Dose Group,C
+36222101,,FALSE,FALSE,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,Letairis Pill,RxNorm,Branded Dose Group,C
+40140735,,FALSE,FALSE,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan Oral Tablet,RxNorm,Clinical Drug Form,S
+40140736,,FALSE,FALSE,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,ambrisentan Oral Tablet [Letairis],RxNorm,Branded Drug Form,S
+45406140,,FALSE,FALSE,ERA,oral,ambrisentan,3,1337068,ambrisentan,1,Ambrisentan,GPI,GPI,NULL
+715818,,FALSE,FALSE,ERA,oral,ambrisentan,3,1337068;1336926,ambrisentan;tadalafil,2,ambrisentan and tadalafil; oral,ATC,ATC 5th,C
+792985,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 32 MG,RxNorm,Clinical Drug Comp,S
+792986,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan Oral Liquid Product,RxNorm,Clinical Dose Group,C
+792987,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan Tablet for Oral Suspension,RxNorm,Clinical Drug Form,S
+792988,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 32 MG Tablet for Oral Suspension,RxNorm,Clinical Drug,S
+792989,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 32 MG [Tracleer],RxNorm,Branded Drug Comp,S
+792990,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan Tablet for Oral Suspension [Tracleer],RxNorm,Branded Drug Form,S
+792991,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,Tracleer Oral Liquid Product,RxNorm,Branded Dose Group,C
+792992,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 32 MG Tablet for Oral Suspension [Tracleer],RxNorm,Branded Drug,S
+1321636,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan,RxNorm,Ingredient,S
+1321637,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 62.5 MG Oral Tablet,RxNorm,Clinical Drug,S
+1321641,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 125 MG Oral Tablet,RxNorm,Clinical Drug,S
+4299461,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,Bosentan-containing product,SNOMED,Pharma/Biol Product,NULL
+4300263,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,Bosentan,SNOMED,Substance,NULL
+19016157,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 62.5 MG [Tracleer],RxNorm,Branded Drug Comp,S
+19016158,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 125 MG [Tracleer],RxNorm,Branded Drug Comp,S
+19098071,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 125 MG,RxNorm,Clinical Drug Comp,S
+19098072,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 62.5 MG,RxNorm,Clinical Drug Comp,S
+19098352,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 62.5 MG Oral Tablet [Tracleer],RxNorm,Branded Drug,S
+19124851,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan 125 MG Oral Tablet [Tracleer],RxNorm,Branded Drug,S
+21600448,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan; oral,ATC,ATC 5th,C
+36219519,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan Oral Product,RxNorm,Clinical Dose Group,C
+36219520,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan Pill,RxNorm,Clinical Dose Group,C
+36227948,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,Tracleer Oral Product,RxNorm,Branded Dose Group,C
+36227949,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,Tracleer Pill,RxNorm,Branded Dose Group,C
+40092426,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan Oral Tablet,RxNorm,Clinical Drug Form,S
+40092427,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan Oral Tablet [Tracleer],RxNorm,Branded Drug Form,S
+45393589,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,Bosentan,GPI,GPI,NULL
+45958567,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,Bosentan,SNOMED,Substance,NULL
+46274838,,FALSE,FALSE,ERA,oral,bosentan,3,1321636,bosentan,1,bosentan anhydrous,RxNorm,Precise Ingredient,NULL
+1354118,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol,RxNorm,Ingredient,S
+1354119,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 0.5 MG Injection [Flolan],RxNorm,Branded Drug,S
+4031899,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,Epoprostenol sodium,SNOMED,Substance,NULL
+4032547,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,Epoprostenol-containing product,SNOMED,Pharma/Biol Product,NULL
+4159305,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,Epoprostenol,SNOMED,Substance,NULL
+19004007,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol sodium,RxNorm,Precise Ingredient,NULL
+19045938,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 1.5 MG Injection [Flolan],RxNorm,Branded Drug,S
+19115193,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 0.5 MG Injection,RxNorm,Clinical Drug,S
+19115194,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 1.5 MG Injection,RxNorm,Clinical Drug,S
+21600994,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol; parenteral,ATC,ATC 5th,C
+36222622,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol Injectable Product,RxNorm,Clinical Dose Group,C
+36235966,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,Flolan Injectable Product,RxNorm,Branded Dose Group,C
+36242322,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,Veletri Injectable Product,RxNorm,Branded Dose Group,C
+40226772,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 1.5 MG Injection [Veletri],RxNorm,Branded Drug,S
+40299479,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,Prostaglandin X,SNOMED,Substance,NULL
+40519704,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,Epoprostenol sodium,SNOMED,Substance,NULL
+40640701,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,Prostacyclin,SNOMED,Substance,NULL
+42629306,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 0.5 MG,RxNorm,Clinical Drug Comp,S
+42629307,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol Injection,RxNorm,Clinical Drug Form,S
+42629308,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 0.5 MG [Flolan],RxNorm,Branded Drug Comp,S
+42629309,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol Injection [Flolan],RxNorm,Branded Drug Form,S
+42629310,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 0.5 MG [Veletri],RxNorm,Branded Drug Comp,S
+42629311,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol Injection [Veletri],RxNorm,Branded Drug Form,S
+42629312,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 1.5 MG,RxNorm,Clinical Drug Comp,S
+42629313,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 1.5 MG [Flolan],RxNorm,Branded Drug Comp,S
+42629314,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 1.5 MG [Veletri],RxNorm,Branded Drug Comp,S
+42873590,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,epoprostenol 0.5 MG Injection [Veletri],RxNorm,Branded Drug,S
+45403032,,FALSE,FALSE,prostanoid,IV,epoprostenol,2,1354118,epoprostenol,1,Epoprostenol Sodium,GPI,GPI,NULL
+1344992,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost,RxNorm,Ingredient,S
+1344995,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.01 MG/ML Inhalation Solution [Ventavis],RxNorm,Branded Drug,S
+1356206,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost Inhalation Solution,RxNorm,Clinical Drug Form,S
+1356207,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost Inhalation Solution [Ventavis],RxNorm,Branded Drug Form,S
+4200747,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,Iloprost-containing product,SNOMED,Pharma/Biol Product,NULL
+4216919,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,Iloprost,SNOMED,Substance,NULL
+19054361,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.1 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
+19080430,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.01 MG/ML [Ventavis],RxNorm,Branded Drug Comp,S
+19101291,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.1 MG/ML,RxNorm,Clinical Drug Comp,S
+19104373,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.02 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
+19110302,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.02 MG/ML,RxNorm,Clinical Drug Comp,S
+19112948,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.01 MG/ML,RxNorm,Clinical Drug Comp,S
+19112949,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.01 MG/ML Inhalation Solution,RxNorm,Clinical Drug,S
+21600996,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,"iloprost; inhalant,parenteral",ATC,ATC 5th,C
+36214306,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost Inhalant Product,RxNorm,Clinical Dose Group,C
+36214307,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost Injectable Product,RxNorm,Clinical Dose Group,C
+36242338,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,Ventavis Inhalant Product,RxNorm,Branded Dose Group,C
+40048977,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost Injectable Solution,RxNorm,Clinical Drug Form,S
+40164835,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.02 MG/ML Inhalation Solution,RxNorm,Clinical Drug,S
+40164836,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.02 MG/ML Inhalation Solution [Ventavis],RxNorm,Branded Drug,S
+40164837,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,iloprost 0.02 MG/ML [Ventavis],RxNorm,Branded Drug Comp,S
+45387329,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,Iloprost,GPI,GPI,NULL
+45958607,,FALSE,FALSE,prostanoid,inhaled,iloprost,2,1344992,iloprost,1,Iloprost,SNOMED,Substance,NULL
+36247787,,FALSE,FALSE,ERA,oral,macitentan,2,44507580,macitentan,1,macitentan Oral Product,RxNorm,Clinical Dose Group,C
+36247788,,FALSE,FALSE,ERA,oral,macitentan,2,44507580,macitentan,1,macitentan Pill,RxNorm,Clinical Dose Group,C
+36247789,,FALSE,FALSE,ERA,oral,macitentan,2,44507580,macitentan,1,Opsumit Oral Product,RxNorm,Branded Dose Group,C
+36247790,,FALSE,FALSE,ERA,oral,macitentan,2,44507580,macitentan,1,Opsumit Pill,RxNorm,Branded Dose Group,C
+37398929,,FALSE,FALSE,ERA,oral,macitentan,2,44507580,macitentan,1,Macitentan-containing product,SNOMED,Pharma/Biol Product,NULL
+43534769,,FALSE,FALSE,ERA,oral,macitentan,2,44507580,macitentan,1,macitentan; oral,ATC,ATC 5th,C
+44507580,,FALSE,FALSE,ERA,oral,macitentan,2,44507580,macitentan,1,macitentan,RxNorm,Ingredient,S
+44507581,,FALSE,FALSE,ERA,oral,macitentan,2,44507580,macitentan,1,macitentan 10 MG,RxNorm,Clinical Drug Comp,S
+44507582,,FALSE,FALSE,ERA,oral,macitentan,2,44507580,macitentan,1,macitentan 10 MG Oral Tablet,RxNorm,Clinical Drug,S
+44507583,,FALSE,FALSE,ERA,oral,macitentan,2,44507580,macitentan,1,macitentan 10 MG Oral Tablet [Opsumit],RxNorm,Branded Drug,S
+44507584,,FALSE,FALSE,ERA,oral,macitentan,2,44507580,macitentan,1,macitentan 10 MG [Opsumit],RxNorm,Branded Drug Comp,S
+44507585,,FALSE,FALSE,ERA,oral,macitentan,2,44507580,macitentan,1,macitentan Oral Tablet,RxNorm,Clinical Drug Form,S
+44507586,,FALSE,FALSE,ERA,oral,macitentan,2,44507580,macitentan,1,macitentan Oral Tablet [Opsumit],RxNorm,Branded Drug Form,S
+45957591,,FALSE,FALSE,ERA,oral,macitentan,2,44507580,macitentan,1,Macitentan,SNOMED,Substance,NULL
+45959535,,FALSE,FALSE,ERA,oral,macitentan,2,44507580,macitentan,1,Macitentan,SNOMED,Pharma/Biol Product,NULL
+46271990,,FALSE,FALSE,ERA,oral,macitentan,2,44507580,macitentan,1,Macitentan,SNOMED,Substance,NULL
+2788011,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,"Introduction of Nitric Oxide Gas into Respiratory Tract,Percutaneous Approach",ICD10PCS,ICD10PCS,NULL
+2788234,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,"Introduction of Nitric Oxide Gas into Respiratory Tract,Via Natural or Artificial Opening",ICD10PCS,ICD10PCS,NULL
+2788251,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,"Introduction of Nitric Oxide Gas into Respiratory Tract,Via Natural or Artificial Opening Endoscopic",ICD10PCS,ICD10PCS,NULL
+4255990,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,Nitric oxide-containing product,SNOMED,Pharma/Biol Product,NULL
+4283972,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,Nitric oxide,SNOMED,Substance,NULL
+19020068,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide,RxNorm,Ingredient,S
+19020070,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 0.01 %,RxNorm,Clinical Drug Comp,S
+19020619,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 0.01 % / nitrogen 99.99 % Gas for Inhalation,RxNorm,Clinical Drug,S
+19020620,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation [INOmax],RxNorm,Branded Drug,S
+19043876,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 0.01 % / nitrogen 99.99 % [INOmax],RxNorm,Branded Drug Comp,S
+19043877,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 0.01 % / nitrogen 99.99 % Gas for Inhalation [INOmax],RxNorm,Branded Drug,S
+19043879,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 0.08 % / nitrogen 99.92 % [INOmax],RxNorm,Branded Drug Comp,S
+19121839,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 0.08 %,RxNorm,Clinical Drug Comp,S
+19121841,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation,RxNorm,Clinical Drug,S
+19122056,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 99.8 %,RxNorm,Clinical Drug Comp,S
+19122057,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 99.8 % Gas for Inhalation,RxNorm,Clinical Drug,S
+21603549,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide; inhalant,ATC,ATC 5th,C
+36027391,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,Nitric Oxide / Nitrogen,RxNorm,Multiple Ingredients,NULL
+36218524,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,INOmax Inhalant Product,RxNorm,Branded Dose Group,C
+36227025,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide / nitrogen Inhalant Product,RxNorm,Clinical Dose Group,C
+36227026,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide Inhalant Product,RxNorm,Clinical Dose Group,C
+40069608,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide Gas for Inhalation,RxNorm,Clinical Drug Form,S
+40118583,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide / nitrogen Gas for Inhalation,RxNorm,Clinical Drug Form,S
+40155795,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide / nitrogen Gas for Inhalation [INOmax],RxNorm,Branded Drug Form,S
+45776910,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 0.5 %,RxNorm,Clinical Drug Comp,S
+45776911,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,nitric oxide 0.5 % / nitrogen 99.5 % Gas for Inhalation,RxNorm,Clinical Drug,S
+45959312,,FALSE,FALSE,nitric,inhaled,nitric oxide,3,19020068,nitric oxide,1,Nitric oxide,SNOMED,Pharma/Biol Product,NULL
+36247520,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat Oral Product,RxNorm,Clinical Dose Group,C
+36247521,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat Pill,RxNorm,Clinical Dose Group,C
+36247567,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,Adempas Oral Product,RxNorm,Branded Dose Group,C
+36247568,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,Adempas Pill,RxNorm,Branded Dose Group,C
+37017120,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,Riociguat,SNOMED,Substance,NULL
+37395892,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,Riociguat-containing product,SNOMED,Pharma/Biol Product,NULL
+44506421,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 0.5 MG,RxNorm,Clinical Drug Comp,S
+44506422,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat Oral Tablet,RxNorm,Clinical Drug Form,S
+44506423,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 1.5 MG,RxNorm,Clinical Drug Comp,S
+44506427,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 1 MG,RxNorm,Clinical Drug Comp,S
+44506428,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 2.5 MG,RxNorm,Clinical Drug Comp,S
+44506429,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 2 MG,RxNorm,Clinical Drug Comp,S
+44506454,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 0.5 MG [Adempas],RxNorm,Branded Drug Comp,S
+44506455,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat Oral Tablet [Adempas],RxNorm,Branded Drug Form,S
+44506456,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 1 MG [Adempas],RxNorm,Branded Drug Comp,S
+44506457,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 1.5 MG [Adempas],RxNorm,Branded Drug Comp,S
+44506458,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 2 MG [Adempas],RxNorm,Branded Drug Comp,S
+44506459,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 2.5 MG [Adempas],RxNorm,Branded Drug Comp,S
+44506614,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 0.5 MG Oral Tablet,RxNorm,Clinical Drug,S
+44506615,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 1.5 MG Oral Tablet,RxNorm,Clinical Drug,S
+44506617,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 1 MG Oral Tablet,RxNorm,Clinical Drug,S
+44506618,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 2.5 MG Oral Tablet,RxNorm,Clinical Drug,S
+44506619,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 2 MG Oral Tablet,RxNorm,Clinical Drug,S
+44506639,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 0.5 MG Oral Tablet [Adempas],RxNorm,Branded Drug,S
+44506640,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 1 MG Oral Tablet [Adempas],RxNorm,Branded Drug,S
+44506642,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 1.5 MG Oral Tablet [Adempas],RxNorm,Branded Drug,S
+44506643,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 2 MG Oral Tablet [Adempas],RxNorm,Branded Drug,S
+44506644,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat 2.5 MG Oral Tablet [Adempas],RxNorm,Branded Drug,S
+44506752,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat,RxNorm,Ingredient,S
+45893474,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,riociguat; oral,ATC,ATC 5th,C
+45957603,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,Riociguat,SNOMED,Substance,NULL
+45959551,,FALSE,FALSE,sGC,oral,riociguat,3,44506752,riociguat,1,Riociguat,SNOMED,Pharma/Biol Product,NULL
+701473,,FALSE,FALSE,PRA,IV,selexipag,2,35604848,selexipag,1,selexipag 1.8 MG,RxNorm,Clinical Drug Comp,S
+701474,,FALSE,FALSE,PRA,IV,selexipag,2,35604848,selexipag,1,selexipag Injectable Product,RxNorm,Clinical Dose Group,C
+701475,,FALSE,FALSE,PRA,IV,selexipag,2,35604848,selexipag,1,selexipag Injection,RxNorm,Clinical Drug Form,S
+701476,,FALSE,FALSE,PRA,IV,selexipag,2,35604848,selexipag,1,selexipag 1.8 MG Injection,RxNorm,Clinical Drug,S
+701477,,FALSE,FALSE,PRA,IV,selexipag,2,35604848,selexipag,1,selexipag 1.8 MG [Uptravi],RxNorm,Branded Drug Comp,S
+701478,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,Uptravi Injectable Product,RxNorm,Branded Dose Group,C
+701479,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag Injection [Uptravi],RxNorm,Branded Drug Form,S
+701480,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.8 MG Injection [Uptravi],RxNorm,Branded Drug,S
+1588656,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag; oral,ATC,ATC 5th,C
+35604618,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,{140 (selexipag 0.2 MG Oral Tablet [Uptravi]) / 60 (selexipag 0.8 MG Oral Tablet [Uptravi]) } Pack [Uptravi Titration Pack],RxNorm,Branded Pack,S
+35604848,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag,RxNorm,Ingredient,S
+35604849,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1 MG,RxNorm,Clinical Drug Comp,S
+35604850,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag Oral Tablet,RxNorm,Clinical Drug Form,S
+35604851,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1 MG Oral Tablet,RxNorm,Clinical Drug,S
+35604932,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1 MG [Uptravi],RxNorm,Branded Drug Comp,S
+35604933,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag Oral Tablet [Uptravi],RxNorm,Branded Drug Form,S
+35604934,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1 MG Oral Tablet [Uptravi],RxNorm,Branded Drug,S
+35604936,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.2 MG,RxNorm,Clinical Drug Comp,S
+35604937,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.2 MG Oral Tablet,RxNorm,Clinical Drug,S
+35604938,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.2 MG [Uptravi],RxNorm,Branded Drug Comp,S
+35604939,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.2 MG Oral Tablet [Uptravi],RxNorm,Branded Drug,S
+35604940,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.4 MG,RxNorm,Clinical Drug Comp,S
+35604941,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.4 MG Oral Tablet,RxNorm,Clinical Drug,S
+35604942,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.4 MG [Uptravi],RxNorm,Branded Drug Comp,S
+35604943,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.4 MG Oral Tablet [Uptravi],RxNorm,Branded Drug,S
+35604944,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.6 MG,RxNorm,Clinical Drug Comp,S
+35604945,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.6 MG Oral Tablet,RxNorm,Clinical Drug,S
+35604946,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.6 MG [Uptravi],RxNorm,Branded Drug Comp,S
+35604947,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 1.6 MG Oral Tablet [Uptravi],RxNorm,Branded Drug,S
+35604948,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.2 MG,RxNorm,Clinical Drug Comp,S
+35604949,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.2 MG Oral Tablet,RxNorm,Clinical Drug,S
+35604950,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.2 MG [Uptravi],RxNorm,Branded Drug Comp,S
+35604951,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.2 MG Oral Tablet [Uptravi],RxNorm,Branded Drug,S
+35604952,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.4 MG,RxNorm,Clinical Drug Comp,S
+35604953,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.4 MG Oral Tablet,RxNorm,Clinical Drug,S
+35604954,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.4 MG [Uptravi],RxNorm,Branded Drug Comp,S
+35604955,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.4 MG Oral Tablet [Uptravi],RxNorm,Branded Drug,S
+35604956,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.6 MG,RxNorm,Clinical Drug Comp,S
+35604957,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.6 MG Oral Tablet,RxNorm,Clinical Drug,S
+35604958,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.6 MG [Uptravi],RxNorm,Branded Drug Comp,S
+35604959,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.6 MG Oral Tablet [Uptravi],RxNorm,Branded Drug,S
+35604960,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.8 MG,RxNorm,Clinical Drug Comp,S
+35604961,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.8 MG Oral Tablet,RxNorm,Clinical Drug,S
+35604962,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.8 MG [Uptravi],RxNorm,Branded Drug Comp,S
+35604963,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag 0.8 MG Oral Tablet [Uptravi],RxNorm,Branded Drug,S
+35606608,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,{140 (selexipag 0.2 MG Oral Tablet) / 60 (selexipag 0.8 MG Oral Tablet) } Pack,RxNorm,Clinical Pack,S
+36248460,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag Oral Product,RxNorm,Clinical Dose Group,C
+36248461,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,selexipag Pill,RxNorm,Clinical Dose Group,C
+36248481,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,Uptravi Oral Product,RxNorm,Branded Dose Group,C
+36248482,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,Uptravi Pill,RxNorm,Branded Dose Group,C
+36683529,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,Selexipag-containing product,SNOMED,Pharma/Biol Product,NULL
+37384548,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,Selexipag,SNOMED,Substance,NULL
+37397279,,FALSE,FALSE,PRA,oral,selexipag,2,35604848,selexipag,1,Selexipag,SNOMED,Substance,NULL
+1316262,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil,RxNorm,Ingredient,S
+1316263,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 25 MG Oral Tablet [Viagra],RxNorm,Branded Drug,S
+1316265,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 100 MG Oral Tablet [Viagra],RxNorm,Branded Drug,S
+1316268,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 25 MG Oral Tablet,RxNorm,Clinical Drug,S
+1316269,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 100 MG Oral Tablet,RxNorm,Clinical Drug,S
+1316270,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 100 MG,RxNorm,Clinical Drug Comp,S
+1316271,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 50 MG,RxNorm,Clinical Drug Comp,S
+1316304,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 20 MG Oral Tablet [Revatio],RxNorm,Branded Drug,S
+4030956,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Sildenafil-containing product,SNOMED,Pharma/Biol Product,NULL
+4032406,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Sildenafil citrate,SNOMED,Substance,NULL
+4164031,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Sildenafil,SNOMED,Substance,NULL
+19036977,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 25 MG [Viagra],RxNorm,Branded Drug Comp,S
+19036978,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 50 MG [Viagra],RxNorm,Branded Drug Comp,S
+19036979,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 100 MG [Viagra],RxNorm,Branded Drug Comp,S
+19047693,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 50 MG Oral Tablet [Viagra],RxNorm,Branded Drug,S
+19052556,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil citrate,RxNorm,Precise Ingredient,NULL
+19065870,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 25 MG,RxNorm,Clinical Drug Comp,S
+19079048,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 20 MG [Revatio],RxNorm,Branded Drug Comp,S
+19079498,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 50 MG Oral Tablet,RxNorm,Clinical Drug,S
+19121181,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 20 MG,RxNorm,Clinical Drug Comp,S
+19121182,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 20 MG Oral Tablet,RxNorm,Clinical Drug,S
+21602648,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil; oral,ATC,ATC 5th,C
+36226428,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Injectable Product,RxNorm,Clinical Dose Group,C
+36226429,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Oral Product,RxNorm,Clinical Dose Group,C
+36226430,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Pill,RxNorm,Clinical Dose Group,C
+36238746,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Revatio Injectable Product,RxNorm,Branded Dose Group,C
+36238747,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Revatio Oral Product,RxNorm,Branded Dose Group,C
+36238748,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Revatio Pill,RxNorm,Branded Dose Group,C
+36241997,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Viagra Oral Product,RxNorm,Branded Dose Group,C
+36241998,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Viagra Pill,RxNorm,Branded Dose Group,C
+36243697,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Oral Liquid Product,RxNorm,Clinical Dose Group,C
+36243725,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Revatio Oral Liquid Product,RxNorm,Branded Dose Group,C
+40100616,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Oral Tablet,RxNorm,Clinical Drug Form,S
+40100617,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Oral Tablet [Viagra],RxNorm,Branded Drug Form,S
+40127552,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Oral Tablet [Revatio],RxNorm,Branded Drug Form,S
+40168406,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 0.8 MG/ML,RxNorm,Clinical Drug Comp,S
+40168407,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,12.5 ML sildenafil 0.8 MG/ML Injection,RxNorm,Quant Clinical Drug,S
+40168408,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,12.5 ML sildenafil 0.8 MG/ML Injection [Revatio],RxNorm,Quant Branded Drug,S
+40168409,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 0.8 MG/ML [Revatio],RxNorm,Branded Drug Comp,S
+42900539,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 10 MG/ML,RxNorm,Clinical Drug Comp,S
+42900540,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 10 MG/ML Oral Suspension,RxNorm,Clinical Drug,S
+42900541,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 10 MG/ML Oral Suspension [Revatio],RxNorm,Branded Drug,S
+42900542,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 10 MG/ML [Revatio],RxNorm,Branded Drug Comp,S
+42900546,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Oral Suspension,RxNorm,Clinical Drug Form,S
+42900547,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Oral Suspension [Revatio],RxNorm,Branded Drug Form,S
+45384222,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Sildenafil Citrate,GPI,GPI,NULL
+45396715,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,Sildenafil Citrate,GPI,GPI,NULL
+46275407,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Injection,RxNorm,Clinical Drug Form,S
+46275408,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil Injection [Revatio],RxNorm,Branded Drug Form,S
+46275409,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 0.8 MG/ML Injection,RxNorm,Clinical Drug,S
+46275410,,FALSE,FALSE,PDE5i,oral,sildenafil,3,1316262,sildenafil,1,sildenafil 0.8 MG/ML Injection [Revatio],RxNorm,Branded Drug,S
+702484,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,finasteride / tadalafil Oral Product,RxNorm,Clinical Dose Group,C
+702485,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,finasteride / tadalafil Pill,RxNorm,Clinical Dose Group,C
+702486,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,finasteride / tadalafil Oral Capsule,RxNorm,Clinical Drug Form,S
+702487,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,finasteride 5 MG / tadalafil 5 MG Oral Capsule,RxNorm,Clinical Drug,S
+702489,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,finasteride 5 MG / tadalafil 5 MG [Entadfi],RxNorm,Branded Drug Comp,S
+702490,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Entadfi Oral Product,RxNorm,Branded Dose Group,C
+702491,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Entadfi Pill,RxNorm,Branded Dose Group,C
+702492,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,finasteride / tadalafil Oral Capsule [Entadfi],RxNorm,Branded Drug Form,S
+702493,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,finasteride 5 MG / tadalafil 5 MG Oral Capsule [Entadfi],RxNorm,Branded Drug,S
+715862,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tamsulosin and tadalafil; systemic,ATC,ATC 5th,C
+1336926,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil,RxNorm,Ingredient,S
+1336975,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 10 MG Oral Tablet,RxNorm,Clinical Drug,S
+1336979,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Pulmonary Hypertension tadalafil 20 MG Oral Tablet [Adcirca],RxNorm,Branded Drug,S
+1366396,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 20 MG [Alyq],RxNorm,Branded Drug Comp,S
+1366397,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil Oral Tablet [Alyq],RxNorm,Branded Drug Form,S
+1366398,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Alyq Oral Product,RxNorm,Branded Dose Group,C
+1366399,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Alyq Pill,RxNorm,Branded Dose Group,C
+1366400,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Pulmonary Hypertension tadalafil 20 MG Oral Tablet [Alyq],RxNorm,Branded Drug,S
+1511304,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Pulmonary Hypertension tadalafil 20 MG Oral Tablet,RxNorm,Clinical Drug,S
+4248216,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Tadalafil,SNOMED,Substance,NULL
+4250143,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Tadalafil-containing product,SNOMED,Pharma/Biol Product,NULL
+19011081,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 2.5 MG [Cialis],RxNorm,Branded Drug Comp,S
+19048492,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 20 MG [Adcirca],RxNorm,Branded Drug Comp,S
+19102192,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 20 MG Oral Tablet,RxNorm,Clinical Drug,S
+19102204,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 10 MG Oral Tablet [Cialis],RxNorm,Branded Drug,S
+19102205,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 20 MG Oral Tablet [Cialis],RxNorm,Branded Drug,S
+19102278,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 10 MG,RxNorm,Clinical Drug Comp,S
+19102279,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 20 MG,RxNorm,Clinical Drug Comp,S
+19102546,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 5 MG Oral Tablet,RxNorm,Clinical Drug,S
+19102899,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 5 MG Oral Tablet [Cialis],RxNorm,Branded Drug,S
+19103059,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 5 MG,RxNorm,Clinical Drug Comp,S
+19121064,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 10 MG [Cialis],RxNorm,Branded Drug Comp,S
+19121065,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 20 MG [Cialis],RxNorm,Branded Drug Comp,S
+19121159,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 5 MG [Cialis],RxNorm,Branded Drug Comp,S
+19129174,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 2.5 MG,RxNorm,Clinical Drug Comp,S
+19129175,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 2.5 MG Oral Tablet,RxNorm,Clinical Drug,S
+19129390,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil 2.5 MG Oral Tablet [Cialis],RxNorm,Branded Drug,S
+21602653,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil; oral,ATC,ATC 5th,C
+36224827,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil Oral Product,RxNorm,Clinical Dose Group,C
+36224828,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil Pill,RxNorm,Clinical Dose Group,C
+36233797,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Adcirca Oral Product,RxNorm,Branded Dose Group,C
+36233798,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Adcirca Pill,RxNorm,Branded Dose Group,C
+36237315,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Cialis Oral Product,RxNorm,Branded Dose Group,C
+36237316,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Cialis Pill,RxNorm,Branded Dose Group,C
+40102137,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil Oral Tablet,RxNorm,Clinical Drug Form,S
+40102138,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil Oral Tablet [Cialis],RxNorm,Branded Drug Form,S
+40160920,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,tadalafil Oral Tablet [Adcirca],RxNorm,Branded Drug Form,S
+45387335,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Tadalafil,GPI,GPI,NULL
+45958384,,FALSE,FALSE,PDE5i,oral,tadalafil,3,1336926,tadalafil,1,Tadalafil,SNOMED,Substance,NULL
+1327256,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil,RxNorm,Ingredient,S
+1327261,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 1 MG/ML Injectable Solution [Remodulin],RxNorm,Branded Drug,S
+1327292,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 2.5 MG/ML Injectable Solution [Remodulin],RxNorm,Branded Drug,S
+1327293,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 5 MG/ML Injectable Solution [Remodulin],RxNorm,Branded Drug,S
+1327294,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 10 MG/ML Injectable Solution [Remodulin],RxNorm,Branded Drug,S
+1327295,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 1 MG/ML,RxNorm,Clinical Drug Comp,S
+1327297,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 2.5 MG/ML,RxNorm,Clinical Drug Comp,S
+1327298,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 5 MG/ML,RxNorm,Clinical Drug Comp,S
+1356256,,FALSE,FALSE,prostanoid,inhaled,treprostinil,2,1327256,treprostinil,1,treprostinil Inhalation Solution,RxNorm,Clinical Drug Form,S
+1356257,,FALSE,FALSE,prostanoid,inhaled,treprostinil,2,1327256,treprostinil,1,treprostinil Inhalation Solution [Tyvaso],RxNorm,Branded Drug Form,S
+1592773,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil diolamine,RxNorm,Precise Ingredient,NULL
+1718571,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 5 MG,RxNorm,Clinical Drug Comp,S
+1718572,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,12 HR treprostinil 5 MG Extended Release Oral Tablet,RxNorm,Quant Clinical Drug,S
+1718573,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 5 MG [Orenitram],RxNorm,Branded Drug Comp,S
+1718574,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,12 HR treprostinil 5 MG Extended Release Oral Tablet [Orenitram],RxNorm,Quant Branded Drug,S
+1718575,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 5 MG Extended Release Oral Tablet,RxNorm,Clinical Drug,S
+1718576,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 5 MG Extended Release Oral Tablet [Orenitram],RxNorm,Branded Drug,S
+1758766,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 20 MG/ML,RxNorm,Clinical Drug Comp,S
+1758767,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 20 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
+1758768,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 20 MG/ML [Remodulin],RxNorm,Branded Drug Comp,S
+1758769,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 20 MG/ML Injectable Solution [Remodulin],RxNorm,Branded Drug,S
+4295940,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,Treprostinil-containing product,SNOMED,Pharma/Biol Product,NULL
+4301437,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,Treprostinil sodium,SNOMED,Substance,NULL
+19016192,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 1 MG/ML [Remodulin],RxNorm,Branded Drug Comp,S
+19016193,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 2.5 MG/ML [Remodulin],RxNorm,Branded Drug Comp,S
+19016194,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 5 MG/ML [Remodulin],RxNorm,Branded Drug Comp,S
+19016195,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 10 MG/ML [Remodulin],RxNorm,Branded Drug Comp,S
+19094992,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil sodium,RxNorm,Precise Ingredient,NULL
+19096754,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 1 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
+19096755,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 10 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
+19096756,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 2.5 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
+19096757,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 5 MG/ML Injectable Solution,RxNorm,Clinical Drug,S
+19100973,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil 10 MG/ML,RxNorm,Clinical Drug Comp,S
+21601003,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil; parenteral,ATC,ATC 5th,C
+36214424,,FALSE,FALSE,prostanoid,inhaled,treprostinil,2,1327256,treprostinil,1,treprostinil Inhalant Product,RxNorm,Clinical Dose Group,C
+36214425,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil Injectable Product,RxNorm,Clinical Dose Group,C
+36228989,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,Remodulin Injectable Product,RxNorm,Branded Dose Group,C
+36239680,,FALSE,FALSE,prostanoid,inhaled,treprostinil,2,1327256,treprostinil,1,Tyvaso Inhalant Product,RxNorm,Branded Dose Group,C
+36247974,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil Oral Product,RxNorm,Clinical Dose Group,C
+36247975,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil Pill,RxNorm,Clinical Dose Group,C
+36248106,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,Orenitram Oral Product,RxNorm,Branded Dose Group,C
+36248107,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,Orenitram Pill,RxNorm,Branded Dose Group,C
+40090704,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil Injectable Solution,RxNorm,Clinical Drug Form,S
+40090705,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,treprostinil Injectable Solution [Remodulin],RxNorm,Branded Drug Form,S
+40165305,,FALSE,FALSE,prostanoid,inhaled,treprostinil,2,1327256,treprostinil,1,treprostinil 0.6 MG/ML,RxNorm,Clinical Drug Comp,S
+40165306,,FALSE,FALSE,prostanoid,inhaled,treprostinil,2,1327256,treprostinil,1,treprostinil 0.6 MG/ML Inhalation Solution,RxNorm,Clinical Drug,S
+40165307,,FALSE,FALSE,prostanoid,inhaled,treprostinil,2,1327256,treprostinil,1,treprostinil 0.6 MG/ML Inhalation Solution [Tyvaso],RxNorm,Branded Drug,S
+40165308,,FALSE,FALSE,prostanoid,inhaled,treprostinil,2,1327256,treprostinil,1,treprostinil 0.6 MG/ML [Tyvaso],RxNorm,Branded Drug Comp,S
+40482328,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,Treprostinil,SNOMED,Substance,NULL
+44785331,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 0.125 MG,RxNorm,Clinical Drug Comp,S
+44785334,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 0.125 MG [Orenitram],RxNorm,Branded Drug Comp,S
+44785335,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 0.25 MG,RxNorm,Clinical Drug Comp,S
+44785338,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 0.25 MG [Orenitram],RxNorm,Branded Drug Comp,S
+44785339,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 1 MG,RxNorm,Clinical Drug Comp,S
+44785342,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 1 MG [Orenitram],RxNorm,Branded Drug Comp,S
+44785343,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 2.5 MG,RxNorm,Clinical Drug Comp,S
+44785346,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 2.5 MG [Orenitram],RxNorm,Branded Drug Comp,S
+44785531,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,12 HR treprostinil 0.125 MG Extended Release Oral Tablet,RxNorm,Quant Clinical Drug,S
+44785532,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,12 HR treprostinil 0.125 MG Extended Release Oral Tablet [Orenitram],RxNorm,Quant Branded Drug,S
+44785533,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,12 HR treprostinil 0.25 MG Extended Release Oral Tablet,RxNorm,Quant Clinical Drug,S
+44785534,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,12 HR treprostinil 0.25 MG Extended Release Oral Tablet [Orenitram],RxNorm,Quant Branded Drug,S
+44785535,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,12 HR treprostinil 1 MG Extended Release Oral Tablet,RxNorm,Quant Clinical Drug,S
+44785536,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,12 HR treprostinil 1 MG Extended Release Oral Tablet [Orenitram],RxNorm,Quant Branded Drug,S
+44785537,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,12 HR treprostinil 2.5 MG Extended Release Oral Tablet,RxNorm,Quant Clinical Drug,S
+44785538,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,12 HR treprostinil 2.5 MG Extended Release Oral Tablet [Orenitram],RxNorm,Quant Branded Drug,S
+44785789,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 0.125 MG Extended Release Oral Tablet,RxNorm,Clinical Drug,S
+44785790,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 0.125 MG Extended Release Oral Tablet [Orenitram],RxNorm,Branded Drug,S
+44785792,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 0.25 MG Extended Release Oral Tablet,RxNorm,Clinical Drug,S
+44785793,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 0.25 MG Extended Release Oral Tablet [Orenitram],RxNorm,Branded Drug,S
+44785794,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 1 MG Extended Release Oral Tablet,RxNorm,Clinical Drug,S
+44785795,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 1 MG Extended Release Oral Tablet [Orenitram],RxNorm,Branded Drug,S
+44785796,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 2.5 MG Extended Release Oral Tablet,RxNorm,Clinical Drug,S
+44785797,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil 2.5 MG Extended Release Oral Tablet [Orenitram],RxNorm,Branded Drug,S
+44785798,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil Extended Release Oral Tablet,RxNorm,Clinical Drug Form,S
+44785799,,FALSE,FALSE,prostanoid,oral,treprostinil,2,1327256,treprostinil,1,treprostinil Extended Release Oral Tablet [Orenitram],RxNorm,Branded Drug Form,S
+45393593,,FALSE,FALSE,prostanoid,IV,treprostinil,2,1327256,treprostinil,1,Treprostinil Sodium,GPI,GPI,NULL
+1311276,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil,RxNorm,Ingredient,S
+1311277,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 5 MG Oral Tablet,RxNorm,Clinical Drug,S
+1311278,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 10 MG Oral Tablet,RxNorm,Clinical Drug,S
+1311280,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 10 MG,RxNorm,Clinical Drug Comp,S
+1311281,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 20 MG,RxNorm,Clinical Drug Comp,S
+4138920,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Vardenafil hydrochloride trihydrate,SNOMED,Substance,NULL
+4225684,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Vardenafil,SNOMED,Substance,NULL
+4238358,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Vardenafil-containing product,SNOMED,Pharma/Biol Product,NULL
+4260600,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Vardenafil hydrochloride,SNOMED,Substance,NULL
+19036395,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 2.5 MG [Levitra],RxNorm,Branded Drug Comp,S
+19036397,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 10 MG [Levitra],RxNorm,Branded Drug Comp,S
+19036398,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 20 MG [Levitra],RxNorm,Branded Drug Comp,S
+19072154,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil hydrochloride,RxNorm,Precise Ingredient,NULL
+19096774,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 20 MG Oral Tablet,RxNorm,Clinical Drug,S
+19099271,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 5 MG,RxNorm,Clinical Drug Comp,S
+19102229,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 2.5 MG Oral Tablet,RxNorm,Clinical Drug,S
+19102256,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 2.5 MG,RxNorm,Clinical Drug Comp,S
+19102850,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 2.5 MG Oral Tablet [Levitra],RxNorm,Branded Drug,S
+19102851,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 5 MG Oral Tablet [Levitra],RxNorm,Branded Drug,S
+19102852,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 10 MG Oral Tablet [Levitra],RxNorm,Branded Drug,S
+19102853,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 20 MG Oral Tablet [Levitra],RxNorm,Branded Drug,S
+19112722,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,verdenafil hydrochloride,RxNorm,Ingredient,NULL
+19112723,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,verdenafil,RxNorm,Ingredient,NULL
+19121148,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 5 MG [Levitra],RxNorm,Branded Drug Comp,S
+21602654,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil; oral,ATC,ATC 5th,C
+36220535,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil Oral Product,RxNorm,Clinical Dose Group,C
+36220536,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil Pill,RxNorm,Clinical Dose Group,C
+36222193,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Levitra Oral Product,RxNorm,Branded Dose Group,C
+36222194,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Levitra Pill,RxNorm,Branded Dose Group,C
+36232417,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Staxyn Oral Product,RxNorm,Branded Dose Group,C
+36232419,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Staxyn Pill,RxNorm,Branded Dose Group,C
+36244675,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil Disintegrating Oral Product,RxNorm,Clinical Dose Group,C
+36245719,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Staxyn Disintegrating Oral Product,RxNorm,Branded Dose Group,C
+40100681,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil Oral Tablet,RxNorm,Clinical Drug Form,S
+40100682,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil Oral Tablet [Levitra],RxNorm,Branded Drug Form,S
+40223045,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 10 MG Disintegrating Oral Tablet,RxNorm,Clinical Drug,S
+40223046,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 10 MG Disintegrating Oral Tablet [Staxyn],RxNorm,Branded Drug,S
+40223047,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil 10 MG [Staxyn],RxNorm,Branded Drug Comp,S
+40223048,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil Disintegrating Oral Tablet,RxNorm,Clinical Drug Form,S
+40223049,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil Disintegrating Oral Tablet [Staxyn],RxNorm,Branded Drug Form,S
+45387337,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Vardenafil HCl,GPI,GPI,NULL
+45958454,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Vardenafil,SNOMED,Substance,NULL
+45958455,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,Vardenafil hydrochloride trihydrate,SNOMED,Substance,NULL
+46274394,,FALSE,FALSE,PDE5i,oral,vardenafil,3,1311276,vardenafil,1,vardenafil hydrochloride trihydrate,RxNorm,Precise Ingredient,NULL
