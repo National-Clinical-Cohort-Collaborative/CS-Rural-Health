@@ -1,19 +1,19 @@
-﻿target_concept_id,target_domain_id,include_in_analysis,category,icd_code,icd_description,target_description,icd_concept_id,target_vocabulary
+target_concept_id,target_domain_id,include_in_analysis,category,icd_code,icd_description,target_description,icd_concept_id,target_vocabulary
 4111213,Condition,TRUE,,R45.85,Homicidal and suicidal ideations,Dangerous and harmful thoughts,35211368,SNOMED
 4092411,Condition,TRUE,,R45.88,Nonsuicidal self-harm,Self-injurious behavior,766432,SNOMED
-1340204,Observation,TRUE,,Z91.52,Personal history of nonsuicidal self-harm,History of event,766522,OMOP Extension
-1340204,Observation,TRUE,,Z91.51,Personal history of suicidal behavior,History of event,766447,OMOP Extension
+1340204,Observation,FALSE,,Z91.52,Personal history of nonsuicidal self-harm,History of event,766522,OMOP Extension
+1340204,Observation,FALSE,,Z91.51,Personal history of suicidal behavior,History of event,766447,OMOP Extension
 4273391,Condition,TRUE,,R45.851,Suicidal ideations,Suicidal thoughts,45582713,SNOMED
 4219484,Observation,TRUE,,T14.91,Suicide attempt,Suicide attempt,45541247,SNOMED
-4204615,Condition,TRUE,,Y38.811,"Terrorism involving suicide bomber, public safety official injured",Traumatic injury due to assault,21621,SNOMED
-4204615,Condition,TRUE,,Y38.812,"Terrorism involving suicide bomber, civilian injured",Traumatic injury due to assault,21622,SNOMED
+4204615,Condition,FALSE,,Y38.811,"Terrorism involving suicide bomber, public safety official injured",Traumatic injury due to assault,21621,SNOMED
+4204615,Condition,FALSE,,Y38.812,"Terrorism involving suicide bomber, civilian injured",Traumatic injury due to assault,21622,SNOMED
 4219484,Observation,TRUE,,T14.91XA,"Suicide attempt, initial encounter",Suicide attempt,1326800,SNOMED
 4219484,Observation,TRUE,,T14.91XD,"Suicide attempt, subsequent encounter",Suicide attempt,1326801,SNOMED
 435446,Condition,TRUE,,T14.91XS,"Suicide attempt, sequela",Late effect of self inflicted injury,1326802,SNOMED
-4204615,Condition,TRUE,,Y38.81,Terrorism involving suicide bomber,Traumatic injury due to assault,1575896,SNOMED
-435119,Condition,TRUE,,Y38.811S,"Terrorism involving suicide bomber, public safety official injured, sequela",Late effect of injury,45571260,SNOMED
-4204615,Condition,TRUE,,Y38.812A,"Terrorism involving suicide bomber, civilian injured, initial encounter",Traumatic injury due to assault,45580959,SNOMED
-435119,Condition,TRUE,,Y38.812S,"Terrorism involving suicide bomber, civilian injured, sequela",Late effect of injury,45580960,SNOMED
-4204615,Condition,TRUE,,Y38.811D,"Terrorism involving suicide bomber, public safety official injured, subsequent encounter",Traumatic injury due to assault,45600269,SNOMED
-4204615,Condition,TRUE,,Y38.811A,"Terrorism involving suicide bomber, public safety official injured, initial encounter",Traumatic injury due to assault,45609863,SNOMED
-4204615,Condition,TRUE,,Y38.812D,"Terrorism involving suicide bomber, civilian injured, subsequent encounter",Traumatic injury due to assault,45609864,SNOMED
+4204615,Condition,FALSE,,Y38.81,Terrorism involving suicide bomber,Traumatic injury due to assault,1575896,SNOMED
+435119,Condition,FALSE,,Y38.811S,"Terrorism involving suicide bomber, public safety official injured, sequela",Late effect of injury,45571260,SNOMED
+4204615,Condition,FALSE,,Y38.812A,"Terrorism involving suicide bomber, civilian injured, initial encounter",Traumatic injury due to assault,45580959,SNOMED
+435119,Condition,FALSE,,Y38.812S,"Terrorism involving suicide bomber, civilian injured, sequela",Late effect of injury,45580960,SNOMED
+4204615,Condition,FALSE,,Y38.811D,"Terrorism involving suicide bomber, public safety official injured, subsequent encounter",Traumatic injury due to assault,45600269,SNOMED
+4204615,Condition,FALSE,,Y38.811A,"Terrorism involving suicide bomber, public safety official injured, initial encounter",Traumatic injury due to assault,45609863,SNOMED
+4204615,Condition,FALSE,,Y38.812D,"Terrorism involving suicide bomber, civilian injured, subsequent encounter",Traumatic injury due to assault,45609864,SNOMED
