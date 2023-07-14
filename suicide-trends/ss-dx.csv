@@ -1,19 +1,19 @@
-﻿concept_id,icd_code,category,include_in_analysis,icd_description,domain_id,vocabulary_id,concept_class_id
-35211368,[R45.85],,TRUE,Homicidal and suicidal ideations,Condition,ICD10CM,5-char nonbill code
-766432,[R45.88],,TRUE,Nonsuicidal self-harm,Condition,ICD10CM,5-char billing code
-766522,[Z91.52],,TRUE,Personal history of nonsuicidal self-harm,Observation,ICD10CM,5-char billing code
-766447,[Z91.51],,TRUE,Personal history of suicidal behavior,Observation,ICD10CM,5-char billing code
-45582713,[R45.851],,TRUE,Suicidal ideations,Condition,ICD10CM,6-char billing code
-45541247,[T14.91],,TRUE,Suicide attempt,Observation,ICD10CM,5-char nonbill code
-21621,[Y38.811],,TRUE,"Terrorism involving suicide bomber, public safety official injured",Condition,ICD10CM,6-char nonbill code
-21622,[Y38.812],,TRUE,"Terrorism involving suicide bomber, civilian injured",Condition,ICD10CM,6-char nonbill code
-1326800,[T14.91XA],,TRUE,"Suicide attempt, initial encounter",Observation,ICD10CM,7-char billing code
-1326801,[T14.91XD],,TRUE,"Suicide attempt, subsequent encounter",Observation,ICD10CM,7-char billing code
-1326802,[T14.91XS],,TRUE,"Suicide attempt, sequela",Condition,ICD10CM,7-char billing code
-1575896,[Y38.81],,TRUE,Terrorism involving suicide bomber,Condition,ICD10CM,5-char nonbill code
-45571260,[Y38.811S],,TRUE,"Terrorism involving suicide bomber, public safety official injured, sequela",Condition,ICD10CM,7-char billing code
-45580959,[Y38.812A],,TRUE,"Terrorism involving suicide bomber, civilian injured, initial encounter",Condition,ICD10CM,7-char billing code
-45580960,[Y38.812S],,TRUE,"Terrorism involving suicide bomber, civilian injured, sequela",Condition,ICD10CM,7-char billing code
-45600269,[Y38.811D],,TRUE,"Terrorism involving suicide bomber, public safety official injured, subsequent encounter",Condition,ICD10CM,7-char billing code
-45609863,[Y38.811A],,TRUE,"Terrorism involving suicide bomber, public safety official injured, initial encounter",Condition,ICD10CM,7-char billing code
-45609864,[Y38.812D],,TRUE,"Terrorism involving suicide bomber, civilian injured, subsequent encounter",Condition,ICD10CM,7-char billing code
+concept_id,include_in_analysis,category,icd_code,icd_description,domain_id,vocabulary_id,concept_class_id
+35211368,TRUE,,[R45.85],Homicidal and suicidal ideations,Condition,ICD10CM,5-char nonbill code
+766432,TRUE,,[R45.88],Nonsuicidal self-harm,Condition,ICD10CM,5-char billing code
+766522,TRUE,,[Z91.52],Personal history of nonsuicidal self-harm,Observation,ICD10CM,5-char billing code
+766447,TRUE,,[Z91.51],Personal history of suicidal behavior,Observation,ICD10CM,5-char billing code
+45582713,TRUE,,[R45.851],Suicidal ideations,Condition,ICD10CM,6-char billing code
+45541247,TRUE,,[T14.91],Suicide attempt,Observation,ICD10CM,5-char nonbill code
+21621,TRUE,,[Y38.811],"Terrorism involving suicide bomber, public safety official injured",Condition,ICD10CM,6-char nonbill code
+21622,TRUE,,[Y38.812],"Terrorism involving suicide bomber, civilian injured",Condition,ICD10CM,6-char nonbill code
+1326800,TRUE,,[T14.91XA],"Suicide attempt, initial encounter",Observation,ICD10CM,7-char billing code
+1326801,TRUE,,[T14.91XD],"Suicide attempt, subsequent encounter",Observation,ICD10CM,7-char billing code
+1326802,TRUE,,[T14.91XS],"Suicide attempt, sequela",Condition,ICD10CM,7-char billing code
+1575896,TRUE,,[Y38.81],Terrorism involving suicide bomber,Condition,ICD10CM,5-char nonbill code
+45571260,TRUE,,[Y38.811S],"Terrorism involving suicide bomber, public safety official injured, sequela",Condition,ICD10CM,7-char billing code
+45580959,TRUE,,[Y38.812A],"Terrorism involving suicide bomber, civilian injured, initial encounter",Condition,ICD10CM,7-char billing code
+45580960,TRUE,,[Y38.812S],"Terrorism involving suicide bomber, civilian injured, sequela",Condition,ICD10CM,7-char billing code
+45600269,TRUE,,[Y38.811D],"Terrorism involving suicide bomber, public safety official injured, subsequent encounter",Condition,ICD10CM,7-char billing code
+45609863,TRUE,,[Y38.811A],"Terrorism involving suicide bomber, public safety official injured, initial encounter",Condition,ICD10CM,7-char billing code
+45609864,TRUE,,[Y38.812D],"Terrorism involving suicide bomber, civilian injured, subsequent encounter",Condition,ICD10CM,7-char billing code
