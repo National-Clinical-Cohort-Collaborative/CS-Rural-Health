@@ -1,19 +1,210 @@
-target_concept_id,target_domain_id,include_in_analysis,category,icd_code,icd_description,target_description,icd_concept_id,target_vocabulary
-4111213,Condition,TRUE,,R45.85,Homicidal and suicidal ideations,Dangerous and harmful thoughts,35211368,SNOMED
-4092411,Condition,TRUE,,R45.88,Nonsuicidal self-harm,Self-injurious behavior,766432,SNOMED
-1340204,Observation,FALSE,,Z91.52,Personal history of nonsuicidal self-harm,History of event,766522,OMOP Extension
-1340204,Observation,FALSE,,Z91.51,Personal history of suicidal behavior,History of event,766447,OMOP Extension
-4273391,Condition,TRUE,,R45.851,Suicidal ideations,Suicidal thoughts,45582713,SNOMED
-4219484,Observation,TRUE,,T14.91,Suicide attempt,Suicide attempt,45541247,SNOMED
-4204615,Condition,FALSE,,Y38.811,"Terrorism involving suicide bomber, public safety official injured",Traumatic injury due to assault,21621,SNOMED
-4204615,Condition,FALSE,,Y38.812,"Terrorism involving suicide bomber, civilian injured",Traumatic injury due to assault,21622,SNOMED
-4219484,Observation,TRUE,,T14.91XA,"Suicide attempt, initial encounter",Suicide attempt,1326800,SNOMED
-4219484,Observation,TRUE,,T14.91XD,"Suicide attempt, subsequent encounter",Suicide attempt,1326801,SNOMED
-435446,Condition,TRUE,,T14.91XS,"Suicide attempt, sequela",Late effect of self inflicted injury,1326802,SNOMED
-4204615,Condition,FALSE,,Y38.81,Terrorism involving suicide bomber,Traumatic injury due to assault,1575896,SNOMED
-435119,Condition,FALSE,,Y38.811S,"Terrorism involving suicide bomber, public safety official injured, sequela",Late effect of injury,45571260,SNOMED
-4204615,Condition,FALSE,,Y38.812A,"Terrorism involving suicide bomber, civilian injured, initial encounter",Traumatic injury due to assault,45580959,SNOMED
-435119,Condition,FALSE,,Y38.812S,"Terrorism involving suicide bomber, civilian injured, sequela",Late effect of injury,45580960,SNOMED
-4204615,Condition,FALSE,,Y38.811D,"Terrorism involving suicide bomber, public safety official injured, subsequent encounter",Traumatic injury due to assault,45600269,SNOMED
-4204615,Condition,FALSE,,Y38.811A,"Terrorism involving suicide bomber, public safety official injured, initial encounter",Traumatic injury due to assault,45609863,SNOMED
-4204615,Condition,FALSE,,Y38.812D,"Terrorism involving suicide bomber, civilian injured, subsequent encounter",Traumatic injury due to assault,45609864,SNOMED
+﻿target_concept_id,target_domain_id,include_in_analysis,include_replicate_2017,category,icd_code,icd_description,target_description,icd_concept_id,target_vocabulary
+4273391,Condition,TRUE,TRUE,,R45.851,Suicidal ideations,Suicidal thoughts,45582713,SNOMED
+4219484,Observation,TRUE,TRUE,,T14.91,Suicide attempt,Suicide attempt,45541247,SNOMED
+4219484,Observation,TRUE,TRUE,,T14.91XA,"Suicide attempt, initial encounter",Suicide attempt,1326800,SNOMED
+4219484,Observation,TRUE,TRUE,,T14.91XD,"Suicide attempt, subsequent encounter",Suicide attempt,1326801,SNOMED
+435446,Condition,TRUE,TRUE,,T14.91XS,"Suicide attempt, sequela",Late effect of self inflicted injury,1326802,SNOMED
+439235,Condition,TRUE,TRUE,,T71.122,"Asphyxiation due to plastic bag, intentional self-harm",Self inflicted injury,19176,SNOMED
+443950,Observation,TRUE,TRUE,,T71.122,"Asphyxiation due to plastic bag, intentional self-harm",Suffocation by plastic bag,19176,SNOMED
+4076659,Observation,TRUE,TRUE,,T71.122,"Asphyxiation due to plastic bag, intentional self-harm",Self-asphyxiation,19176,SNOMED
+4303690,Observation,TRUE,TRUE,,T71.122,"Asphyxiation due to plastic bag, intentional self-harm",Intentionally harming self,19176,SNOMED
+439235,Condition,TRUE,TRUE,,T71.122A,"Asphyxiation due to plastic bag, intentional self-harm, initial encounter",Self inflicted injury,45575505,SNOMED
+443950,Observation,TRUE,TRUE,,T71.122A,"Asphyxiation due to plastic bag, intentional self-harm, initial encounter",Suffocation by plastic bag,45575505,SNOMED
+4076659,Observation,TRUE,TRUE,,T71.122A,"Asphyxiation due to plastic bag, intentional self-harm, initial encounter",Self-asphyxiation,45575505,SNOMED
+4303690,Observation,TRUE,TRUE,,T71.122A,"Asphyxiation due to plastic bag, intentional self-harm, initial encounter",Intentionally harming self,45575505,SNOMED
+439235,Condition,TRUE,TRUE,,T71.122D,"Asphyxiation due to plastic bag, intentional self-harm, subsequent encounter",Self inflicted injury,45541780,SNOMED
+443950,Observation,TRUE,TRUE,,T71.122D,"Asphyxiation due to plastic bag, intentional self-harm, subsequent encounter",Suffocation by plastic bag,45541780,SNOMED
+4076659,Observation,TRUE,TRUE,,T71.122D,"Asphyxiation due to plastic bag, intentional self-harm, subsequent encounter",Self-asphyxiation,45541780,SNOMED
+4303690,Observation,TRUE,TRUE,,T71.122D,"Asphyxiation due to plastic bag, intentional self-harm, subsequent encounter",Intentionally harming self,45541780,SNOMED
+435446,Condition,TRUE,TRUE,,T71.122S,"Asphyxiation due to plastic bag, intentional self-harm, sequela",Late effect of self inflicted injury,45609275,SNOMED
+4092411,Condition,FALSE,TRUE,,X70,deactivated. See T71,Self-injurious behavior,35223832,SNOMED
+4303690,Observation,TRUE,TRUE,,X71,Intentional self-harm by drowning and submersion,Intentionally harming self,1575705,SNOMED
+4303690,Observation,TRUE,TRUE,,X71.0,Intentional self-harm by drowning and submersion while in bathtub,Intentionally harming self,45566261,SNOMED
+4303690,Observation,TRUE,TRUE,,X71.0XXA,"Intentional self-harm by drowning and submersion while in bathtub, initial encounter",Intentionally harming self,45551944,SNOMED
+4303690,Observation,TRUE,TRUE,,X71.0XXD,"Intentional self-harm by drowning and submersion while in bathtub, subsequent encounter",Intentionally harming self,45537469,SNOMED
+435446,Condition,TRUE,TRUE,,X71.0XXS,"Intentional self-harm by drowning and submersion while in bathtub, sequela",Late effect of self inflicted injury,45590546,SNOMED
+4303690,Observation,TRUE,TRUE,,X71.1,Intentional self-harm by drowning and submersion while in swimming pool,Intentionally harming self,45604953,SNOMED
+4303690,Observation,TRUE,TRUE,,X71.1XXA,"Intentional self-harm by drowning and submersion while in swimming pool, initial encounter",Intentionally harming self,45537470,SNOMED
+4303690,Observation,TRUE,TRUE,,X71.1XXD,"Intentional self-harm by drowning and submersion while in swimming pool, subsequent encounter",Intentionally harming self,45542262,SNOMED
+435446,Condition,TRUE,TRUE,,X71.1XXS,"Intentional self-harm by drowning and submersion while in swimming pool, sequela",Late effect of self inflicted injury,45580865,SNOMED
+4303690,Observation,TRUE,TRUE,,X71.2,Intentional self-harm by drowning and submersion after jump into swimming pool,Intentionally harming self,45595331,SNOMED
+4303690,Observation,TRUE,TRUE,,X71.2XXA,"Intentional self-harm by drowning and submersion after jump into swimming pool, initial encounter",Intentionally harming self,45561466,SNOMED
+4303690,Observation,TRUE,TRUE,,X71.2XXD,"Intentional self-harm by drowning and submersion after jump into swimming pool, subsequent encounter",Intentionally harming self,45566262,SNOMED
+435446,Condition,TRUE,TRUE,,X71.2XXS,"Intentional self-harm by drowning and submersion after jump into swimming pool, sequela",Late effect of self inflicted injury,45542263,SNOMED
+4303690,Observation,TRUE,TRUE,,X71.3,Intentional self-harm by drowning and submersion in natural water,Intentionally harming self,45604954,SNOMED
+4303690,Observation,TRUE,TRUE,,X71.3XXA,"Intentional self-harm by drowning and submersion in natural water, initial encounter",Intentionally harming self,45600200,SNOMED
+4303690,Observation,TRUE,TRUE,,X71.3XXD,"Intentional self-harm by drowning and submersion in natural water, subsequent encounter",Intentionally harming self,45566263,SNOMED
+435446,Condition,TRUE,TRUE,,X71.3XXS,"Intentional self-harm by drowning and submersion in natural water, sequela",Late effect of self inflicted injury,45571182,SNOMED
+4303690,Observation,TRUE,TRUE,,X71.8,Other intentional self-harm by drowning and submersion,Intentionally harming self,45580866,SNOMED
+4303690,Observation,TRUE,TRUE,,X71.8XXA,"Other intentional self-harm by drowning and submersion, initial encounter",Intentionally harming self,45609786,SNOMED
+4303690,Observation,TRUE,TRUE,,X71.8XXD,"Other intentional self-harm by drowning and submersion, subsequent encounter",Intentionally harming self,45600201,SNOMED
+435446,Condition,TRUE,TRUE,,X71.8XXS,"Other intentional self-harm by drowning and submersion, sequela",Late effect of self inflicted injury,45595332,SNOMED
+4303690,Observation,TRUE,TRUE,,X71.9,"Intentional self-harm by drowning and submersion, unspecified",Intentionally harming self,45551945,SNOMED
+4303690,Observation,TRUE,TRUE,,X71.9XXA,"Intentional self-harm by drowning and submersion, unspecified, initial encounter",Intentionally harming self,45561467,SNOMED
+4303690,Observation,TRUE,TRUE,,X71.9XXD,"Intentional self-harm by drowning and submersion, unspecified, subsequent encounter",Intentionally harming self,45575994,SNOMED
+435446,Condition,TRUE,TRUE,,X71.9XXS,"Intentional self-harm by drowning and submersion, unspecified, sequela",Late effect of self inflicted injury,45585662,SNOMED
+4092411,Condition,TRUE,TRUE,,X72,Intentional self-harm by handgun discharge,Self-injurious behavior,21300,SNOMED
+4303690,Observation,TRUE,TRUE,,X72.XXXA,"Intentional self-harm by handgun discharge, initial encounter",Intentionally harming self,45585663,SNOMED
+4303690,Observation,TRUE,TRUE,,X72.XXXD,"Intentional self-harm by handgun discharge, subsequent encounter",Intentionally harming self,45566264,SNOMED
+435446,Condition,TRUE,TRUE,,X72.XXXS,"Intentional self-harm by handgun discharge, sequela",Late effect of self inflicted injury,45609787,SNOMED
+4092411,Condition,TRUE,TRUE,,X73,"Intentional self-harm by rifle, shotgun and larger firearm discharge",Self-injurious behavior,1575706,SNOMED
+4092411,Condition,TRUE,TRUE,,X73.0,Intentional self-harm by shotgun discharge,Self-injurious behavior,45556675,SNOMED
+4303690,Observation,TRUE,TRUE,,X73.0XXA,"Intentional self-harm by shotgun discharge, initial encounter",Intentionally harming self,45547148,SNOMED
+4303690,Observation,TRUE,TRUE,,X73.0XXD,"Intentional self-harm by shotgun discharge, subsequent encounter",Intentionally harming self,45580867,SNOMED
+435446,Condition,TRUE,TRUE,,X73.0XXS,"Intentional self-harm by shotgun discharge, sequela",Late effect of self inflicted injury,45580868,SNOMED
+4092411,Condition,TRUE,TRUE,,X73.1,Intentional self-harm by hunting rifle discharge,Self-injurious behavior,21301,SNOMED
+4303690,Observation,TRUE,TRUE,,X73.1XXA,"Intentional self-harm by hunting rifle discharge, initial encounter",Intentionally harming self,45566265,SNOMED
+4303690,Observation,TRUE,TRUE,,X73.1XXD,"Intentional self-harm by hunting rifle discharge, subsequent encounter",Intentionally harming self,45604955,SNOMED
+435446,Condition,TRUE,TRUE,,X73.1XXS,"Intentional self-harm by hunting rifle discharge, sequela",Late effect of self inflicted injury,45566266,SNOMED
+4092411,Condition,TRUE,TRUE,,X73.2,Intentional self-harm by machine gun discharge,Self-injurious behavior,45547149,SNOMED
+4303690,Observation,TRUE,TRUE,,X73.2XXA,"Intentional self-harm by machine gun discharge, initial encounter",Intentionally harming self,45585664,SNOMED
+4303690,Observation,TRUE,TRUE,,X73.2XXD,"Intentional self-harm by machine gun discharge, subsequent encounter",Intentionally harming self,45547150,SNOMED
+435446,Condition,TRUE,TRUE,,X73.2XXS,"Intentional self-harm by machine gun discharge, sequela",Late effect of self inflicted injury,45551946,SNOMED
+4092411,Condition,TRUE,TRUE,,X73.8,Intentional self-harm by other larger firearm discharge,Self-injurious behavior,45537471,SNOMED
+4303690,Observation,TRUE,TRUE,,X73.8XXA,"Intentional self-harm by other larger firearm discharge, initial encounter",Intentionally harming self,45575995,SNOMED
+4303690,Observation,TRUE,TRUE,,X73.8XXD,"Intentional self-harm by other larger firearm discharge, subsequent encounter",Intentionally harming self,45551947,SNOMED
+435446,Condition,TRUE,TRUE,,X73.8XXS,"Intentional self-harm by other larger firearm discharge, sequela",Late effect of self inflicted injury,45537472,SNOMED
+4092411,Condition,TRUE,TRUE,,X73.9,Intentional self-harm by unspecified larger firearm discharge,Self-injurious behavior,45551948,SNOMED
+4303690,Observation,TRUE,TRUE,,X73.9XXA,"Intentional self-harm by unspecified larger firearm discharge, initial encounter",Intentionally harming self,45571183,SNOMED
+4303690,Observation,TRUE,TRUE,,X73.9XXD,"Intentional self-harm by unspecified larger firearm discharge, subsequent encounter",Intentionally harming self,45556676,SNOMED
+435446,Condition,TRUE,TRUE,,X73.9XXS,"Intentional self-harm by unspecified larger firearm discharge, sequela",Late effect of self inflicted injury,45566267,SNOMED
+4092411,Condition,TRUE,TRUE,,X74,Intentional self-harm by other and unspecified firearm and gun discharge,Self-injurious behavior,1575707,SNOMED
+4092411,Condition,TRUE,TRUE,,X74.0,"Intentional self-harm by gas, air or spring-operated guns",Self-injurious behavior,45551950,SNOMED
+437771,Condition,TRUE,TRUE,,X74.01,Intentional self-harm by airgun,Injury due to airgun pellet,21302,SNOMED
+4303690,Observation,TRUE,TRUE,,X74.01,Intentional self-harm by airgun,Intentionally harming self,21302,SNOMED
+437771,Condition,TRUE,TRUE,,X74.01XA,"Intentional self-harm by airgun, initial encounter",Injury due to airgun pellet,45595333,SNOMED
+4303690,Observation,TRUE,TRUE,,X74.01XA,"Intentional self-harm by airgun, initial encounter",Intentionally harming self,45595333,SNOMED
+437771,Condition,TRUE,TRUE,,X74.01XD,"Intentional self-harm by airgun, subsequent encounter",Injury due to airgun pellet,45547151,SNOMED
+4303690,Observation,TRUE,TRUE,,X74.01XD,"Intentional self-harm by airgun, subsequent encounter",Intentionally harming self,45547151,SNOMED
+435446,Condition,TRUE,TRUE,,X74.01XS,"Intentional self-harm by airgun, sequela",Late effect of self inflicted injury,45566268,SNOMED
+4073505,Condition,TRUE,TRUE,,X74.02,Intentional self-harm by paintball gun,Injury due to low velocity bullet,21303,SNOMED
+4303690,Observation,TRUE,TRUE,,X74.02,Intentional self-harm by paintball gun,Intentionally harming self,21303,SNOMED
+4073505,Condition,TRUE,TRUE,,X74.02XA,"Intentional self-harm by paintball gun, initial encounter",Injury due to low velocity bullet,45595334,SNOMED
+4303690,Observation,TRUE,TRUE,,X74.02XA,"Intentional self-harm by paintball gun, initial encounter",Intentionally harming self,45595334,SNOMED
+4073505,Condition,TRUE,TRUE,,X74.02XD,"Intentional self-harm by paintball gun, subsequent encounter",Injury due to low velocity bullet,45580869,SNOMED
+4303690,Observation,TRUE,TRUE,,X74.02XD,"Intentional self-harm by paintball gun, subsequent encounter",Intentionally harming self,45580869,SNOMED
+435446,Condition,TRUE,TRUE,,X74.02XS,"Intentional self-harm by paintball gun, sequela",Late effect of self inflicted injury,45566269,SNOMED
+4303690,Observation,TRUE,TRUE,,X74.09,"Intentional self-harm by other gas, air or spring-operated gun",Intentionally harming self,21304,SNOMED
+4303690,Observation,TRUE,TRUE,,X74.09XA,"Intentional self-harm by other gas, air or spring-operated gun, initial encounter",Intentionally harming self,45585665,SNOMED
+4303690,Observation,TRUE,TRUE,,X74.09XD,"Intentional self-harm by other gas, air or spring-operated gun, subsequent encounter",Intentionally harming self,45551951,SNOMED
+435446,Condition,TRUE,TRUE,,X74.09XS,"Intentional self-harm by other gas, air or spring-operated gun, sequela",Late effect of self inflicted injury,45600202,SNOMED
+4092411,Condition,TRUE,TRUE,,X74.8,Intentional self-harm by other firearm discharge,Self-injurious behavior,45537473,SNOMED
+4303690,Observation,TRUE,TRUE,,X74.8XXA,"Intentional self-harm by other firearm discharge, initial encounter",Intentionally harming self,45575996,SNOMED
+4303690,Observation,TRUE,TRUE,,X74.8XXD,"Intentional self-harm by other firearm discharge, subsequent encounter",Intentionally harming self,45547152,SNOMED
+435446,Condition,TRUE,TRUE,,X74.8XXS,"Intentional self-harm by other firearm discharge, sequela",Late effect of self inflicted injury,45604956,SNOMED
+4092411,Condition,TRUE,TRUE,,X74.9,Intentional self-harm by unspecified firearm discharge,Self-injurious behavior,45585666,SNOMED
+4303690,Observation,TRUE,TRUE,,X74.9XXA,"Intentional self-harm by unspecified firearm discharge, initial encounter",Intentionally harming self,45600203,SNOMED
+4303690,Observation,TRUE,TRUE,,X74.9XXD,"Intentional self-harm by unspecified firearm discharge, subsequent encounter",Intentionally harming self,45590547,SNOMED
+435446,Condition,TRUE,TRUE,,X74.9XXS,"Intentional self-harm by unspecified firearm discharge, sequela",Late effect of self inflicted injury,45551952,SNOMED
+4092411,Condition,TRUE,TRUE,,X75,Intentional self-harm by explosive material,Self-injurious behavior,21305,SNOMED
+4092411,Condition,TRUE,TRUE,,X75.XXXA,"Intentional self-harm by explosive material, initial encounter",Self-injurious behavior,45590548,SNOMED
+4092411,Condition,TRUE,TRUE,,X75.XXXD,"Intentional self-harm by explosive material, subsequent encounter",Self-injurious behavior,45561469,SNOMED
+435446,Condition,TRUE,TRUE,,X75.XXXS,"Intentional self-harm by explosive material, sequela",Late effect of self inflicted injury,45571184,SNOMED
+4092411,Condition,TRUE,TRUE,,X76,"Intentional self-harm by smoke, fire and flames",Self-injurious behavior,21306,SNOMED
+4092411,Condition,TRUE,TRUE,,X76.XXXA,"Intentional self-harm by smoke, fire and flames, initial encounter",Self-injurious behavior,45595335,SNOMED
+4092411,Condition,TRUE,TRUE,,X76.XXXD,"Intentional self-harm by smoke, fire and flames, subsequent encounter",Self-injurious behavior,45609788,SNOMED
+435446,Condition,TRUE,TRUE,,X76.XXXS,"Intentional self-harm by smoke, fire and flames, sequela",Late effect of self inflicted injury,45556677,SNOMED
+4092411,Condition,TRUE,TRUE,,X77,"Intentional self-harm by steam, hot vapors and hot objects",Self-injurious behavior,1575708,SNOMED
+4092411,Condition,TRUE,TRUE,,X77.0,Intentional self-harm by steam or hot vapors,Self-injurious behavior,45580870,SNOMED
+4092411,Condition,TRUE,TRUE,,X77.0XXA,"Intentional self-harm by steam or hot vapors, initial encounter",Self-injurious behavior,45571185,SNOMED
+4092411,Condition,TRUE,TRUE,,X77.0XXD,"Intentional self-harm by steam or hot vapors, subsequent encounter",Self-injurious behavior,45609789,SNOMED
+435446,Condition,TRUE,TRUE,,X77.0XXS,"Intentional self-harm by steam or hot vapors, sequela",Late effect of self inflicted injury,45556678,SNOMED
+4092411,Condition,TRUE,TRUE,,X77.1,Intentional self-harm by hot tap water,Self-injurious behavior,45595336,SNOMED
+4092411,Condition,TRUE,TRUE,,X77.1XXA,"Intentional self-harm by hot tap water, initial encounter",Self-injurious behavior,45561470,SNOMED
+4092411,Condition,TRUE,TRUE,,X77.1XXD,"Intentional self-harm by hot tap water, subsequent encounter",Self-injurious behavior,45575997,SNOMED
+435446,Condition,TRUE,TRUE,,X77.1XXS,"Intentional self-harm by hot tap water, sequela",Late effect of self inflicted injury,45595337,SNOMED
+4092411,Condition,TRUE,TRUE,,X77.2,Intentional self-harm by other hot fluids,Self-injurious behavior,45600204,SNOMED
+4092411,Condition,TRUE,TRUE,,X77.2XXA,"Intentional self-harm by other hot fluids, initial encounter",Self-injurious behavior,45542264,SNOMED
+4092411,Condition,TRUE,TRUE,,X77.2XXD,"Intentional self-harm by other hot fluids, subsequent encounter",Self-injurious behavior,45551954,SNOMED
+435446,Condition,TRUE,TRUE,,X77.2XXS,"Intentional self-harm by other hot fluids, sequela",Late effect of self inflicted injury,45551955,SNOMED
+4092411,Condition,TRUE,TRUE,,X77.3,Intentional self-harm by hot household appliances,Self-injurious behavior,45561471,SNOMED
+4092411,Condition,TRUE,TRUE,,X77.3XXA,"Intentional self-harm by hot household appliances, initial encounter",Self-injurious behavior,45575998,SNOMED
+4092411,Condition,TRUE,TRUE,,X77.3XXD,"Intentional self-harm by hot household appliances, subsequent encounter",Self-injurious behavior,45585667,SNOMED
+435446,Condition,TRUE,TRUE,,X77.3XXS,"Intentional self-harm by hot household appliances, sequela",Late effect of self inflicted injury,45604957,SNOMED
+4092411,Condition,TRUE,TRUE,,X77.8,Intentional self-harm by other hot objects,Self-injurious behavior,21307,SNOMED
+4092411,Condition,TRUE,TRUE,,X77.8XXA,"Intentional self-harm by other hot objects, initial encounter",Self-injurious behavior,45600205,SNOMED
+4092411,Condition,TRUE,TRUE,,X77.8XXD,"Intentional self-harm by other hot objects, subsequent encounter",Self-injurious behavior,45600206,SNOMED
+435446,Condition,TRUE,TRUE,,X77.8XXS,"Intentional self-harm by other hot objects, sequela",Late effect of self inflicted injury,45595338,SNOMED
+4092411,Condition,TRUE,TRUE,,X77.9,Intentional self-harm by unspecified hot objects,Self-injurious behavior,45537474,SNOMED
+4092411,Condition,TRUE,TRUE,,X77.9XXA,"Intentional self-harm by unspecified hot objects, initial encounter",Self-injurious behavior,45571186,SNOMED
+4092411,Condition,TRUE,TRUE,,X77.9XXD,"Intentional self-harm by unspecified hot objects, subsequent encounter",Self-injurious behavior,45585668,SNOMED
+435446,Condition,TRUE,TRUE,,X77.9XXS,"Intentional self-harm by unspecified hot objects, sequela",Late effect of self inflicted injury,45537475,SNOMED
+4092411,Condition,TRUE,TRUE,,X78,Intentional self-harm by sharp object,Self-injurious behavior,1575709,SNOMED
+4092411,Condition,TRUE,TRUE,,X78.0,Intentional self-harm by sharp glass,Self-injurious behavior,45556679,SNOMED
+4303690,Observation,TRUE,TRUE,,X78.0XXA,"Intentional self-harm by sharp glass, initial encounter",Intentionally harming self,45595339,SNOMED
+4303690,Observation,TRUE,TRUE,,X78.0XXD,"Intentional self-harm by sharp glass, subsequent encounter",Intentionally harming self,45561472,SNOMED
+435446,Condition,TRUE,TRUE,,X78.0XXS,"Intentional self-harm by sharp glass, sequela",Late effect of self inflicted injury,45590549,SNOMED
+4092411,Condition,TRUE,TRUE,,X78.1,Intentional self-harm by knife,Self-injurious behavior,45585669,SNOMED
+4303690,Observation,TRUE,TRUE,,X78.1XXA,"Intentional self-harm by knife, initial encounter",Intentionally harming self,45547153,SNOMED
+4303690,Observation,TRUE,TRUE,,X78.1XXD,"Intentional self-harm by knife, subsequent encounter",Intentionally harming self,45537476,SNOMED
+435446,Condition,TRUE,TRUE,,X78.1XXS,"Intentional self-harm by knife, sequela",Late effect of self inflicted injury,45600207,SNOMED
+4092411,Condition,TRUE,TRUE,,X78.2,Intentional self-harm by sword or dagger,Self-injurious behavior,45561473,SNOMED
+4303690,Observation,TRUE,TRUE,,X78.2XXA,"Intentional self-harm by sword or dagger, initial encounter",Intentionally harming self,45585670,SNOMED
+4303690,Observation,TRUE,TRUE,,X78.2XXD,"Intentional self-harm by sword or dagger, subsequent encounter",Intentionally harming self,45571187,SNOMED
+435446,Condition,TRUE,TRUE,,X78.2XXS,"Intentional self-harm by sword or dagger, sequela",Late effect of self inflicted injury,45571188,SNOMED
+4092411,Condition,TRUE,TRUE,,X78.8,Intentional self-harm by other sharp object,Self-injurious behavior,45537477,SNOMED
+4303690,Observation,TRUE,TRUE,,X78.8XXA,"Intentional self-harm by other sharp object, initial encounter",Intentionally harming self,45537478,SNOMED
+4303690,Observation,TRUE,TRUE,,X78.8XXD,"Intentional self-harm by other sharp object, subsequent encounter",Intentionally harming self,45551956,SNOMED
+435446,Condition,TRUE,TRUE,,X78.8XXS,"Intentional self-harm by other sharp object, sequela",Late effect of self inflicted injury,45566270,SNOMED
+4092411,Condition,TRUE,TRUE,,X78.9,Intentional self-harm by unspecified sharp object,Self-injurious behavior,45590550,SNOMED
+4303690,Observation,TRUE,TRUE,,X78.9XXA,"Intentional self-harm by unspecified sharp object, initial encounter",Intentionally harming self,45585671,SNOMED
+4303690,Observation,TRUE,TRUE,,X78.9XXD,"Intentional self-harm by unspecified sharp object, subsequent encounter",Intentionally harming self,45571189,SNOMED
+435446,Condition,TRUE,TRUE,,X78.9XXS,"Intentional self-harm by unspecified sharp object, sequela",Late effect of self inflicted injury,45595340,SNOMED
+4092411,Condition,TRUE,TRUE,,X79,Intentional self-harm by blunt object,Self-injurious behavior,21308,SNOMED
+4092411,Condition,TRUE,TRUE,,X79.XXXA,"Intentional self-harm by blunt object, initial encounter",Self-injurious behavior,45575999,SNOMED
+4092411,Condition,TRUE,TRUE,,X79.XXXD,"Intentional self-harm by blunt object, subsequent encounter",Self-injurious behavior,45604958,SNOMED
+435446,Condition,TRUE,TRUE,,X79.XXXS,"Intentional self-harm by blunt object, sequela",Late effect of self inflicted injury,45580871,SNOMED
+4092411,Condition,TRUE,TRUE,,X80,Intentional self-harm by jumping from a high place,Self-injurious behavior,21309,SNOMED
+436605,Observation,TRUE,TRUE,,X80.XXXA,"Intentional self-harm by jumping from a high place, initial encounter",Attempted suicide - jumping from a high place,45551957,SNOMED
+4303690,Observation,TRUE,TRUE,,X80.XXXA,"Intentional self-harm by jumping from a high place, initial encounter",Intentionally harming self,45551957,SNOMED
+436605,Observation,TRUE,TRUE,,X80.XXXD,"Intentional self-harm by jumping from a high place, subsequent encounter",Attempted suicide - jumping from a high place,45576000,SNOMED
+4303690,Observation,TRUE,TRUE,,X80.XXXD,"Intentional self-harm by jumping from a high place, subsequent encounter",Intentionally harming self,45576000,SNOMED
+435446,Condition,TRUE,TRUE,,X80.XXXS,"Intentional self-harm by jumping from a high place, sequela",Late effect of self inflicted injury,45590552,SNOMED
+4092411,Condition,TRUE,TRUE,,X81,Intentional self-harm by jumping or lying in front of moving object,Self-injurious behavior,1575710,SNOMED
+4092411,Condition,TRUE,TRUE,,X81.0,Intentional self-harm by jumping or lying in front of motor vehicle,Self-injurious behavior,21310,SNOMED
+4092411,Condition,TRUE,TRUE,,X81.0XXA,"Intentional self-harm by jumping or lying in front of motor vehicle, initial encounter",Self-injurious behavior,45576001,SNOMED
+4092411,Condition,TRUE,TRUE,,X81.0XXD,"Intentional self-harm by jumping or lying in front of motor vehicle, subsequent encounter",Self-injurious behavior,45537479,SNOMED
+435446,Condition,TRUE,TRUE,,X81.0XXS,"Intentional self-harm by jumping or lying in front of motor vehicle, sequela",Late effect of self inflicted injury,45571190,SNOMED
+4092411,Condition,TRUE,TRUE,,X81.1,Intentional self-harm by jumping or lying in front of (subway) train,Self-injurious behavior,21311,SNOMED
+4092411,Condition,TRUE,TRUE,,X81.1XXA,"Intentional self-harm by jumping or lying in front of (subway) train, initial encounter",Self-injurious behavior,45576002,SNOMED
+4092411,Condition,TRUE,TRUE,,X81.1XXD,"Intentional self-harm by jumping or lying in front of (subway) train, subsequent encounter",Self-injurious behavior,45571191,SNOMED
+435446,Condition,TRUE,TRUE,,X81.1XXS,"Intentional self-harm by jumping or lying in front of (subway) train, sequela",Late effect of self inflicted injury,45590553,SNOMED
+4092411,Condition,TRUE,TRUE,,X81.8,Intentional self-harm by jumping or lying in front of other moving object,Self-injurious behavior,45556680,SNOMED
+4092411,Condition,TRUE,TRUE,,X81.8XXA,"Intentional self-harm by jumping or lying in front of other moving object, initial encounter",Self-injurious behavior,45537480,SNOMED
+4092411,Condition,TRUE,TRUE,,X81.8XXD,"Intentional self-harm by jumping or lying in front of other moving object, subsequent encounter",Self-injurious behavior,45576003,SNOMED
+435446,Condition,TRUE,TRUE,,X81.8XXS,"Intentional self-harm by jumping or lying in front of other moving object, sequela",Late effect of self inflicted injury,45580872,SNOMED
+4092411,Condition,TRUE,TRUE,,X82,Intentional self-harm by crashing of motor vehicle,Self-injurious behavior,1575711,SNOMED
+4092411,Condition,FALSE,TRUE,,X82.0,Intentional collision of motor vehicle with other motor vehicle,Self-injurious behavior,45609790,SNOMED
+4092411,Condition,FALSE,TRUE,,X82.0XXA,"Intentional collision of motor vehicle with other motor vehicle, initial encounter",Self-injurious behavior,45561474,SNOMED
+4092411,Condition,FALSE,TRUE,,X82.0XXD,"Intentional collision of motor vehicle with other motor vehicle, subsequent encounter",Self-injurious behavior,45576004,SNOMED
+435446,Condition,FALSE,TRUE,,X82.0XXS,"Intentional collision of motor vehicle with other motor vehicle, sequela",Late effect of self inflicted injury,45566271,SNOMED
+4092411,Condition,FALSE,TRUE,,X82.1,Intentional collision of motor vehicle with train,Self-injurious behavior,21312,SNOMED
+4092411,Condition,FALSE,TRUE,,X82.1XXA,"Intentional collision of motor vehicle with train, initial encounter",Self-injurious behavior,45547155,SNOMED
+4092411,Condition,FALSE,TRUE,,X82.1XXD,"Intentional collision of motor vehicle with train, subsequent encounter",Self-injurious behavior,45551958,SNOMED
+435446,Condition,FALSE,TRUE,,X82.1XXS,"Intentional collision of motor vehicle with train, sequela",Late effect of self inflicted injury,45580873,SNOMED
+4092411,Condition,FALSE,TRUE,,X82.2,Intentional collision of motor vehicle with tree,Self-injurious behavior,21313,SNOMED
+4092411,Condition,FALSE,TRUE,,X82.2XXA,"Intentional collision of motor vehicle with tree, initial encounter",Self-injurious behavior,45571192,SNOMED
+4092411,Condition,FALSE,TRUE,,X82.2XXD,"Intentional collision of motor vehicle with tree, subsequent encounter",Self-injurious behavior,45590554,SNOMED
+435446,Condition,FALSE,TRUE,,X82.2XXS,"Intentional collision of motor vehicle with tree, sequela",Late effect of self inflicted injury,45604959,SNOMED
+4092411,Condition,TRUE,TRUE,,X82.8,Other intentional self-harm by crashing of motor vehicle,Self-injurious behavior,45595341,SNOMED
+4092411,Condition,TRUE,TRUE,,X82.8XXA,"Other intentional self-harm by crashing of motor vehicle, initial encounter",Self-injurious behavior,45566272,SNOMED
+4092411,Condition,TRUE,TRUE,,X82.8XXD,"Other intentional self-harm by crashing of motor vehicle, subsequent encounter",Self-injurious behavior,45609791,SNOMED
+435446,Condition,TRUE,TRUE,,X82.8XXS,"Other intentional self-harm by crashing of motor vehicle, sequela",Late effect of self inflicted injury,45571193,SNOMED
+4092411,Condition,TRUE,TRUE,,X83,Intentional self-harm by other specified means,Self-injurious behavior,1575712,SNOMED
+4092411,Condition,TRUE,TRUE,,X83.0,Intentional self-harm by crashing of aircraft,Self-injurious behavior,45566273,SNOMED
+4092411,Condition,TRUE,TRUE,,X83.0XXA,"Intentional self-harm by crashing of aircraft, initial encounter",Self-injurious behavior,45561475,SNOMED
+4092411,Condition,TRUE,TRUE,,X83.0XXD,"Intentional self-harm by crashing of aircraft, subsequent encounter",Self-injurious behavior,45537481,SNOMED
+435446,Condition,TRUE,TRUE,,X83.0XXS,"Intentional self-harm by crashing of aircraft, sequela",Late effect of self inflicted injury,45551959,SNOMED
+4092411,Condition,TRUE,TRUE,,X83.1,Intentional self-harm by electrocution,Self-injurious behavior,45604960,SNOMED
+4092411,Condition,TRUE,TRUE,,X83.1XXA,"Intentional self-harm by electrocution, initial encounter",Self-injurious behavior,45566274,SNOMED
+4092411,Condition,TRUE,TRUE,,X83.1XXD,"Intentional self-harm by electrocution, subsequent encounter",Self-injurious behavior,45547156,SNOMED
+435446,Condition,TRUE,TRUE,,X83.1XXS,"Intentional self-harm by electrocution, sequela",Late effect of self inflicted injury,45576005,SNOMED
+4092411,Condition,TRUE,TRUE,,X83.2,Intentional self-harm by exposure to extremes of cold,Self-injurious behavior,45551960,SNOMED
+4092411,Condition,TRUE,TRUE,,X83.2XXA,"Intentional self-harm by exposure to extremes of cold, initial encounter",Self-injurious behavior,45604961,SNOMED
+4092411,Condition,TRUE,TRUE,,X83.2XXD,"Intentional self-harm by exposure to extremes of cold, subsequent encounter",Self-injurious behavior,45566275,SNOMED
+435446,Condition,TRUE,TRUE,,X83.2XXS,"Intentional self-harm by exposure to extremes of cold, sequela",Late effect of self inflicted injury,45566276,SNOMED
+4092411,Condition,TRUE,TRUE,,X83.8,Intentional self-harm by other specified means,Self-injurious behavior,45595342,SNOMED
+4092411,Condition,TRUE,TRUE,,X83.8XXA,"Intentional self-harm by other specified means, initial encounter",Self-injurious behavior,45542265,SNOMED
+4092411,Condition,TRUE,TRUE,,X83.8XXD,"Intentional self-harm by other specified means, subsequent encounter",Self-injurious behavior,45609792,SNOMED
+435446,Condition,TRUE,TRUE,,X83.8XXS,"Intentional self-harm by other specified means, sequela",Late effect of self inflicted injury,45585672,SNOMED
+4092411,Condition,FALSE,TRUE,,X84,deactivated. See T14,Self-injurious behavior,35223962,SNOMED
