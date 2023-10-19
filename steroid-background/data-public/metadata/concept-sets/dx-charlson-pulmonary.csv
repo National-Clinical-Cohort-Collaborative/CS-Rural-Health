@@ -1,87 +1,88 @@
-﻿4307356	1569151	I27.8	Other specified pulmonary heart diseases	0
-4195892	45601029	I27.81	Cor pulmonale (chronic)	0
-44782732	45533441	I27.82	Chronic pulmonary embolism	0
-40493243	1326598	I27.83	Eisenmenger's syndrome	0
-4307356	45533442	I27.89	Other specified pulmonary heart diseases	0
-4307356	35207710	I27.9	Pulmonary heart disease, unspecified	0
-256451	35208013	J40	Bronchitis, not specified as acute or chronic	0
-255841	1569485	J41	Simple and mucopurulent chronic bronchitis	0
-261889	35208014	J41.0	Simple chronic bronchitis	0
-257905	35208015	J41.1	Mucopurulent chronic bronchitis	0
-4112826	35208016	J41.8	Mixed simple and mucopurulent chronic bronchitis	0
-255841	35208017	J42	Unspecified chronic bronchitis	0
-261325	1569486	J43	Emphysema	0
-261325	35208018	J43.0	Unilateral pulmonary emphysema [MacLeod's syndrome]	0
-4177944	35208019	J43.1	Panlobular emphysema	0
-4286497	35208020	J43.2	Centrilobular emphysema	0
-261325	35208021	J43.8	Other emphysema	0
-261325	35208022	J43.9	Emphysema, unspecified	0
-255573	1569487	J44	Other chronic obstructive pulmonary disease	0
-4110056	35208023	J44.0	Chronic obstructive pulmonary disease with (acute) lower respiratory infection	0
-257004	35208024	J44.1	Chronic obstructive pulmonary disease with (acute) exacerbation	0
-255573	35208025	J44.9	Chronic obstructive pulmonary disease, unspecified	0
-317009	1569488	J45	Asthma	1
-4146581	45572168	J45.2	Mild intermittent asthma	1
-4146581	45548116	J45.20	Mild intermittent asthma, uncomplicated	1
-4138760	45572169	J45.21	Mild intermittent asthma with (acute) exacerbation	1
-45769438	45572170	J45.22	Mild intermittent asthma with status asthmaticus	1
-4143828	45581859	J45.3	Mild persistent asthma	1
-45768963	45576951	J45.30	Mild persistent asthma, uncomplicated	1
-45768911	45548117	J45.31	Mild persistent asthma with (acute) exacerbation	1
-45769352	45576952	J45.32	Mild persistent asthma with status asthmaticus	1
-4142738	45591558	J45.4	Moderate persistent asthma	1
-45768964	45601133	J45.40	Moderate persistent asthma, uncomplicated	1
-45772937	45543269	J45.41	Moderate persistent asthma with (acute) exacerbation	1
-45769351	45557626	J45.42	Moderate persistent asthma with status asthmaticus	1
-4145356	45591559	J45.5	Severe persistent asthma	1
-45768965	45567265	J45.50	Severe persistent asthma, uncomplicated	1
-45769350	45567266	J45.51	Severe persistent asthma with (acute) exacerbation	1
-37116845	45581860	J45.52	Severe persistent asthma with status asthmaticus	1
-45769350	45581860	J45.52	Severe persistent asthma with status asthmaticus	1
-317009	1569489	J45.9	Other and unspecified asthma	1
-317009	1569490	J45.90	Unspecified asthma	1
-257581	45601134	J45.901	Unspecified asthma with (acute) exacerbation	1
-37116845	45543270	J45.902	Unspecified asthma with status asthmaticus	1
-45768910	45562457	J45.909	Unspecified asthma, uncomplicated	1
-317009	1569491	J45.99	Other asthma	1
-45768908	45586674	J45.990	Exercise induced bronchospasm	1
-313236	45586675	J45.991	Cough variant asthma	1
-317009	45572171	J45.998	Other asthma	1
-256449	1569492	J47	Bronchiectasis	0
-256449	45562458	J47.0	Bronchiectasis with acute lower respiratory infection	0
-40483342	45572172	J47.1	Bronchiectasis with (acute) exacerbation	0
-256449	45562459	J47.9	Bronchiectasis, uncomplicated	0
-252946	35208026	J60	Coalworker's pneumoconiosis	0
-256450	35208027	J61	Pneumoconiosis due to asbestos and other mineral fibers	0
-442125	1569493	J62	Pneumoconiosis due to dust containing silica	0
-4249010	35208028	J62.0	Pneumoconiosis due to talc dust	0
-256146	35208029	J62.8	Pneumoconiosis due to other dust containing silica	0
-254389	1569494	J63	Pneumoconiosis due to other inorganic dusts	0
-4236624	35208030	J63.0	Aluminosis (of lung)	0
-4032314	35208031	J63.1	Bauxite fibrosis (of lung)	0
-4221139	35208032	J63.2	Berylliosis	0
-4066407	35208033	J63.3	Graphite fibrosis (of lung)	0
-4266525	35208034	J63.4	Siderosis	0
-4196950	35208035	J63.5	Stannosis	0
-254389	45586677	J63.6	Pneumoconiosis due to other specified inorganic dusts	0
-259044	35208036	J64	Unspecified pneumoconiosis	0
-4112676	35208037	J65	Pneumoconiosis associated with tuberculosis	0
-259044	1569495	J66	Airway disease due to specific organic dust	0
-4311814	35208038	J66.0	Byssinosis	0
-4027669	35208039	J66.1	Flax-dressers' disease	0
-4302900	35208040	J66.2	Cannabinosis	0
-320136	35208041	J66.8	Airway disease due to other specific organic dusts	0
-444084	1569496	J67	Hypersensitivity pneumonitis due to organic dust	0
-435298	35208042	J67.0	Farmer's lung	0
-437588	35208043	J67.1	Bagassosis	0
-439853	35208044	J67.2	Bird fancier's lung	0
-443890	35208045	J67.3	Suberosis	0
-434975	35208046	J67.4	Maltworker's lung	0
-433233	35208047	J67.5	Mushroom-worker's lung	0
-438175	35208048	J67.6	Maple-bark-stripper's lung	0
-434670	35208049	J67.7	Air conditioner and humidifier lung	0
-444084	35208050	J67.8	Hypersensitivity pneumonitis due to other organic dusts	0
-444084	35208051	J67.9	Hypersensitivity pneumonitis due to unspecified organic dust	0
-3655113	35208056	J68.4	Chronic respiratory conditions due to chemicals, gases, fumes and vapors	0
-252348	35208063	J70.1	Chronic and other pulmonary manifestations due to radiation	0
-4112814	35208065	J70.3	Chronic drug-induced interstitial lung disorders	0
+concept_id,concept_id_from_icd,icd_code,icd_description,dx_asthma
+4307356,1569151,I27.8,Other specified pulmonary heart diseases,0
+4195892,45601029,I27.81,Cor pulmonale (chronic),0
+44782732,45533441,I27.82,Chronic pulmonary embolism,0
+40493243,1326598,I27.83,Eisenmenger's syndrome,0
+4307356,45533442,I27.89,Other specified pulmonary heart diseases,0
+4307356,35207710,I27.9,"Pulmonary heart disease, unspecified",0
+256451,35208013,J40,"Bronchitis, not specified as acute or chronic",0
+255841,1569485,J41,Simple and mucopurulent chronic bronchitis,0
+261889,35208014,J41.0,Simple chronic bronchitis,0
+257905,35208015,J41.1,Mucopurulent chronic bronchitis,0
+4112826,35208016,J41.8,Mixed simple and mucopurulent chronic bronchitis,0
+255841,35208017,J42,Unspecified chronic bronchitis,0
+261325,1569486,J43,Emphysema,0
+261325,35208018,J43.0,Unilateral pulmonary emphysema [MacLeod's syndrome],0
+4177944,35208019,J43.1,Panlobular emphysema,0
+4286497,35208020,J43.2,Centrilobular emphysema,0
+261325,35208021,J43.8,Other emphysema,0
+261325,35208022,J43.9,"Emphysema, unspecified",0
+255573,1569487,J44,Other chronic obstructive pulmonary disease,0
+4110056,35208023,J44.0,Chronic obstructive pulmonary disease with (acute) lower respiratory infection,0
+257004,35208024,J44.1,Chronic obstructive pulmonary disease with (acute) exacerbation,0
+255573,35208025,J44.9,"Chronic obstructive pulmonary disease, unspecified",0
+317009,1569488,J45,Asthma,1
+4146581,45572168,J45.2,Mild intermittent asthma,1
+4146581,45548116,J45.20,"Mild intermittent asthma, uncomplicated",1
+4138760,45572169,J45.21,Mild intermittent asthma with (acute) exacerbation,1
+45769438,45572170,J45.22,Mild intermittent asthma with status asthmaticus,1
+4143828,45581859,J45.3,Mild persistent asthma,1
+45768963,45576951,J45.30,"Mild persistent asthma, uncomplicated",1
+45768911,45548117,J45.31,Mild persistent asthma with (acute) exacerbation,1
+45769352,45576952,J45.32,Mild persistent asthma with status asthmaticus,1
+4142738,45591558,J45.4,Moderate persistent asthma,1
+45768964,45601133,J45.40,"Moderate persistent asthma, uncomplicated",1
+45772937,45543269,J45.41,Moderate persistent asthma with (acute) exacerbation,1
+45769351,45557626,J45.42,Moderate persistent asthma with status asthmaticus,1
+4145356,45591559,J45.5,Severe persistent asthma,1
+45768965,45567265,J45.50,"Severe persistent asthma, uncomplicated",1
+45769350,45567266,J45.51,Severe persistent asthma with (acute) exacerbation,1
+37116845,45581860,J45.52,Severe persistent asthma with status asthmaticus,1
+45769350,45581860,J45.52,Severe persistent asthma with status asthmaticus,1
+317009,1569489,J45.9,Other and unspecified asthma,1
+317009,1569490,J45.90,Unspecified asthma,1
+257581,45601134,J45.901,Unspecified asthma with (acute) exacerbation,1
+37116845,45543270,J45.902,Unspecified asthma with status asthmaticus,1
+45768910,45562457,J45.909,"Unspecified asthma, uncomplicated",1
+317009,1569491,J45.99,Other asthma,1
+45768908,45586674,J45.990,Exercise induced bronchospasm,1
+313236,45586675,J45.991,Cough variant asthma,1
+317009,45572171,J45.998,Other asthma,1
+256449,1569492,J47,Bronchiectasis,0
+256449,45562458,J47.0,Bronchiectasis with acute lower respiratory infection,0
+40483342,45572172,J47.1,Bronchiectasis with (acute) exacerbation,0
+256449,45562459,J47.9,"Bronchiectasis, uncomplicated",0
+252946,35208026,J60,Coalworker's pneumoconiosis,0
+256450,35208027,J61,Pneumoconiosis due to asbestos and other mineral fibers,0
+442125,1569493,J62,Pneumoconiosis due to dust containing silica,0
+4249010,35208028,J62.0,Pneumoconiosis due to talc dust,0
+256146,35208029,J62.8,Pneumoconiosis due to other dust containing silica,0
+254389,1569494,J63,Pneumoconiosis due to other inorganic dusts,0
+4236624,35208030,J63.0,Aluminosis (of lung),0
+4032314,35208031,J63.1,Bauxite fibrosis (of lung),0
+4221139,35208032,J63.2,Berylliosis,0
+4066407,35208033,J63.3,Graphite fibrosis (of lung),0
+4266525,35208034,J63.4,Siderosis,0
+4196950,35208035,J63.5,Stannosis,0
+254389,45586677,J63.6,Pneumoconiosis due to other specified inorganic dusts,0
+259044,35208036,J64,Unspecified pneumoconiosis,0
+4112676,35208037,J65,Pneumoconiosis associated with tuberculosis,0
+259044,1569495,J66,Airway disease due to specific organic dust,0
+4311814,35208038,J66.0,Byssinosis,0
+4027669,35208039,J66.1,Flax-dressers' disease,0
+4302900,35208040,J66.2,Cannabinosis,0
+320136,35208041,J66.8,Airway disease due to other specific organic dusts,0
+444084,1569496,J67,Hypersensitivity pneumonitis due to organic dust,0
+435298,35208042,J67.0,Farmer's lung,0
+437588,35208043,J67.1,Bagassosis,0
+439853,35208044,J67.2,Bird fancier's lung,0
+443890,35208045,J67.3,Suberosis,0
+434975,35208046,J67.4,Maltworker's lung,0
+433233,35208047,J67.5,Mushroom-worker's lung,0
+438175,35208048,J67.6,Maple-bark-stripper's lung,0
+434670,35208049,J67.7,Air conditioner and humidifier lung,0
+444084,35208050,J67.8,Hypersensitivity pneumonitis due to other organic dusts,0
+444084,35208051,J67.9,Hypersensitivity pneumonitis due to unspecified organic dust,0
+3655113,35208056,J68.4,"Chronic respiratory conditions due to chemicals, gases, fumes and vapors",0
+252348,35208063,J70.1,Chronic and other pulmonary manifestations due to radiation,0
+4112814,35208065,J70.3,Chronic drug-induced interstitial lung disorders,0
