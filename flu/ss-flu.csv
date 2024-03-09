@@ -1,0 +1,49 @@
+﻿concept_name,concept_code,desired,comments,domain_id,vocabulary_id,concept_class_id,concept_id
+Influenza due to certain identified influenza viruses,J09,TRUE,,Condition,ICD10CM,3-char nonbill code,35207930
+Influenza due to identified novel influenza A virus,J09.X,TRUE,,Condition,ICD10CM,4-char nonbill code,1569458
+Influenza due to identified novel influenza A virus with gastrointestinal manifestations,J09.X3,TRUE,,Condition,ICD10CM,5-char billing code,45601118
+Influenza due to identified novel influenza A virus with other manifestations,J09.X9,TRUE,,Condition,ICD10CM,5-char billing code,45581841
+Influenza due to identified novel influenza A virus with other respiratory manifestations,J09.X2,TRUE,,Condition,ICD10CM,5-char billing code,45562440
+Influenza due to identified novel influenza A virus with pneumonia,J09.X1,TRUE,,Condition,ICD10CM,5-char billing code,45596276
+Influenza due to other identified influenza virus,J10,TRUE,,Condition,ICD10CM,3-char nonbill code,1569459
+Influenza due to other identified influenza virus with encephalopathy,J10.81,TRUE,,Condition,ICD10CM,5-char billing code,45586659
+Influenza due to other identified influenza virus with gastrointestinal manifestations,J10.2,TRUE,,Condition,ICD10CM,4-char billing code,45576945
+Influenza due to other identified influenza virus with myocarditis,J10.82,TRUE,,Condition,ICD10CM,5-char billing code,45591546
+Influenza due to other identified influenza virus with other manifestations,J10.89,TRUE,,Condition,ICD10CM,5-char billing code,45586660
+Influenza due to other identified influenza virus with other manifestations,J10.8,TRUE,,Condition,ICD10CM,4-char nonbill code,1569461
+Influenza due to other identified influenza virus with other respiratory manifestations,J10.1,TRUE,,Condition,ICD10CM,4-char billing code,35207931
+Influenza due to other identified influenza virus with other specified pneumonia,J10.08,TRUE,,Condition,ICD10CM,5-char billing code,45591545
+Influenza due to other identified influenza virus with otitis media,J10.83,TRUE,,Condition,ICD10CM,5-char billing code,45601121
+Influenza due to other identified influenza virus with pneumonia,J10.0,TRUE,,Condition,ICD10CM,4-char nonbill code,1569460
+Influenza due to other identified influenza virus with the same other identified influenza virus pneumonia,J10.01,TRUE,,Condition,ICD10CM,5-char billing code,45543254
+Influenza due to other identified influenza virus with unspecified type of pneumonia,J10.00,TRUE,,Condition,ICD10CM,5-char billing code,45567259
+Influenza due to unidentified influenza virus,J11,TRUE,,Condition,ICD10CM,3-char nonbill code,1569462
+Influenza due to unidentified influenza virus with encephalopathy,J11.81,TRUE,,Condition,ICD10CM,5-char billing code,45581844
+Influenza due to unidentified influenza virus with gastrointestinal manifestations,J11.2,TRUE,,Condition,ICD10CM,4-char billing code,45572160
+Influenza due to unidentified influenza virus with myocarditis,J11.82,TRUE,,Condition,ICD10CM,5-char billing code,45543255
+Influenza due to unidentified influenza virus with other manifestations,J11.89,TRUE,,Condition,ICD10CM,5-char billing code,45581845
+Influenza due to unidentified influenza virus with other manifestations,J11.8,TRUE,,Condition,ICD10CM,4-char nonbill code,1569464
+Influenza due to unidentified influenza virus with other respiratory manifestations,J11.1,TRUE,,Condition,ICD10CM,4-char billing code,8689
+Influenza due to unidentified influenza virus with otitis media,J11.83,TRUE,,Condition,ICD10CM,5-char billing code,45538475
+Influenza due to unidentified influenza virus with pneumonia,J11.0,TRUE,,Condition,ICD10CM,4-char nonbill code,1569463
+Influenza due to unidentified influenza virus with specified pneumonia,J11.08,TRUE,,Condition,ICD10CM,5-char billing code,45581842
+Influenza due to unidentified influenza virus with unspecified type of pneumonia,J11.00,TRUE,,Condition,ICD10CM,5-char billing code,45586661
+Influenza A H1N1 virus 2009 pandemic strain present,702482001,TRUE,,Measurement,SNOMED,Clinical Finding,45765521
+Influenza A virus H1N1 subtype detected,506781000000105,TRUE,,Measurement,SNOMED,Clinical Finding,44802951
+Influenza A virus present,181000124108,TRUE,,Measurement,SNOMED,Clinical Finding,45757528
+Influenza A virus subtype H1 2009 pandemic strain present,231000124101,TRUE,,Measurement,SNOMED,Clinical Finding,761948
+Influenza A virus subtype H1 present,441043003,TRUE,,Measurement,SNOMED,Clinical Finding,4208931
+Influenza A virus subtype H1N1 detected,711330007,TRUE,,Measurement,SNOMED,Clinical Finding,46272887
+Influenza A virus subtype H2 present,440927002,TRUE,,Measurement,SNOMED,Clinical Finding,4235537
+Influenza A virus subtype H3 present,441049004,TRUE,,Measurement,SNOMED,Clinical Finding,4207452
+Influenza A virus subtype H5 asian strain detected,1011000124101,TRUE,,Measurement,SNOMED,Clinical Finding,765180
+Influenza A virus subtype H5 present,441343005,TRUE,,Measurement,SNOMED,Clinical Finding,4262073
+Influenza A virus subtype H7 present,708119004,TRUE,,Measurement,SNOMED,Clinical Finding,45771050
+Influenza A virus subtype H9 present,708120005,TRUE,,Measurement,SNOMED,Clinical Finding,45773008
+Influenza A virus untyped strain present,699872005,TRUE,,Measurement,SNOMED,Clinical Finding,44783879
+Influenza B virus detected,359521000000101,TRUE,,Measurement,SNOMED,Clinical Finding,44792686
+Influenza B virus present,441345003,TRUE,,Measurement,SNOMED,Clinical Finding,4262075
+Influenza H1 virus detected,359371000000109,TRUE,,Measurement,SNOMED,Clinical Finding,44792675
+Influenza H2 virus detected,359401000000106,TRUE,,Measurement,SNOMED,Clinical Finding,44792676
+Influenza H3 virus detected,359431000000100,TRUE,,Measurement,SNOMED,Clinical Finding,44792677
+Influenza H5 virus detected,359461000000105,TRUE,,Measurement,SNOMED,Clinical Finding,44807171
