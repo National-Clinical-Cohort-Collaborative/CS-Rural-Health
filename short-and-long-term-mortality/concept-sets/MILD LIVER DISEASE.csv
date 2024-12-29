@@ -1,0 +1,455 @@
+"Concept Name","Concept Code","Concept Id","Domain Id","Vocabulary Id","Concept Class Id","Concept Category","Invalid Reason","Valid End Date","Valid Start Date"
+"Hematoma and contusion of liver","431674004",443624,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-07-31
+"Congenital dilatation of lobar intrahepatic bile duct with obstruction","97961000119108",764977,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-09-01
+"Liver subcapsular hematoma due to birth trauma","206242003",4047863,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic nonalcoholic liver disease","79720007",201613,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Toxic hepatitis due to carbamazepine","447961000124105",763865,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Cirrhosis secondary to cholestasis","271440004",4153294,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic fibrosis with hepatic sclerosis","235901004",4340948,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congenital atrophy of left lobe of liver","204788008",4005461,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Progressive intrahepatic cholestasis","74162007",4253211,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cavernous hemangioma of liver","838311008",3654619,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Bacterial hepatitis","318191000009109",37399734,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Macronodular cirrhosis","43904005",4184779,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic hepatitis C caused by Hepatitis C virus genotype 4","768126006",35625140,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Alpha-1-antitrypsin hepatitis","190944000",4097874,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Fibropolycystic disease of liver","737202006",42537672,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Liver abscess via hepatic artery","197328001",4058690,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic liver disease","328383001",4212540,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic active viral hepatitis","66870002",4283078,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cytomegalovirus hepatitis","186698009",4092685,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cholestatic hepatitis","95556007",4318541,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Secondary biliary cirrhosis","12368000",4046123,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Discoloration of liver","93426003",4247071,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2002-01-31
+"Hepatic granulomas in sarcoidosis","197368002",4058697,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Phlebosclerosis of intrahepatic vein","1052210007",602626,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Acute type B viral hepatitis","76795007",197795,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Parenteral nutrition-related hepatitis","276554009",4173182,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Primary biliary cholangitis and/or primary sclerosing cholangitis and autoimmune hepatitis overlap syndrome","1230291009",37164403,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-06-30
+"Pipestem portal cirrhosis","197300007",4055211,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Alcoholic fatty liver","50325005",193256,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Liver abscess due to cholangitis","197327006",4055214,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute cholangiohepatitis","370490006",4157033,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31
+"Progressive familial intrahepatic cholestasis type 2","1155841005",607718,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Stellate laceration of liver without open wound into abdominal cavity","48303008",4167999,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute hepatitis - non-infective","197271008",4055207,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nodular hyperplasia of liver","109820009",4001168,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Perinatal hepatitis","276551001",4171096,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic fibrosis, renal cyst, intellectual disability syndrome","771149000",36674996,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Viral hepatitis in mother complicating pregnancy","10759151000119101",45757142,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Toxic cirrhosis","123604002",4046016,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Lesion of liver","300331000",4104000,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cirrhosis of liver due to and following cardiac procedure","871619002",3656096,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Hepatocellular dysplasia","396460000",4245953,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Cholangiohepatitis","370489002",4157032,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31
+"Chronic hepatitis C with stage 2 fibrosis","703866000",45766656,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Tuberculosis of liver","186273003",4091181,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cavernous hemangioma of liver","9121/0-C22.0",36554604,"Condition","ICDO3","ICDO Condition","S",NA,2099-12-31,2015-09-18
+"Syphilitic portal cirrhosis","197305002",4058682,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Liver abscess via umbilicus","197329009",4055215,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute toxic hepatitis","4896000",4169242,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic aggressive viral hepatitis","89789003",4232466,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic sclerosis","235899008",4340394,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Drug-induced cirrhosis of liver","425413006",4143008,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Hepatic veno-occlusive disease with immunodeficiency syndrome","724361001",37110194,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Calculus of intrahepatic bile duct","1162565008",37160510,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Blastomycosis liver","187068005",4093474,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Copper storage associated hepatitis","370492003",4156416,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31
+"Exacerbation of viral hepatitis C","OMOP5166154",1340499,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Joubert syndrome with congenital hepatic fibrosis","721847002",36716035,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Hepatic vein thrombosis","38739001",4301208,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic granulomas in berylliosis","197367007",4026139,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Autoimmune hepatitis type 1","721711009",36715923,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Focal nodular hyperplasia of liver","278527001",4133325,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Minor laceration of liver without open wound into abdominal cavity","65324009",442773,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Liver abscess due to portal pyemia","197326002",4026133,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Liver disease due to cystic fibrosis","427022004",4141669,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Hepatitis in yellow fever","197342009",4055219,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatosplenic schistosomiasis caused by Schistosoma haematobium","860856002",3655317,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Hematoma AND contusion of liver with open wound into abdominal cavity","21580006",197134,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Clonorchiasis with biliary cirrhosis","37688005",4292401,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Posthepatitic cirrhosis","27156006",4098583,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Growth retardation, mild developmental delay, chronic hepatitis syndrome","774204006",36676898,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Cirrhosis of liver due to chronic hepatitis C","831000119103",43531723,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Chronic hepatitis C caused by Hepatitis C virus genotype 3","768006009",35625040,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Cardiac portal cirrhosis","266470007",4141628,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Toxic liver disease","197354009",4055224,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatitis due to acquired disseminated toxoplasmosis","17681007",443632,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Mesenchymal hamartoma of liver","715397000",37395823,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Nodular regenerative hyperplasia of liver caused by antiretroviral drug","713698004",37017427,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Opisthorchiasis","1059007",444117,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Liver disorder in mother complicating childbirth","10807061000119103",45757190,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"NPHP3-related Meckel-like syndrome","773737004",36674397,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Chronic viral hepatitis B without delta-agent","186639003",439674,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Alcoholic steatohepatitis","1234778004",37164788,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-07-31
+"Cirrhosis of liver","19943007",4064161,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nonalcoholic steatohepatitis","442685003",40484532,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Hepatosplenic schistosomiasis caused by Schistosoma japonicum","1163464002",37160802,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Drug-induced chronic hepatitis","235889003",4342774,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Steatohepatitis","442191002",40482277,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Hepatitis caused by sexually transmissible virus","721588008",36715820,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Early cirrhosis","371139006",4159158,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31
+"Viral hepatitis in mother complicating childbirth","10759111000119102",45757141,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Congenital cystic disease of liver","72925005",197654,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Liver hematoma","262796008",4096644,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Histoplasmosis liver","187062006",4090095,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic autoimmune hepatitis","16098491000119109",36687200,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Portal triaditis","17349007",4066291,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Disorder of liver co-occurrent and due to disorder of urea cycle","737203001",42537673,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Cholestasis in newborn","433237003",4203366,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-07-31
+"North American Indian childhood cirrhosis","699189004",44783142,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Cirrhosis of liver caused by amiodarone","725939009",37111265,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Neonatal intrahepatic cholestasis due to citrin deficiency","717155003",37399026,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Hepatic vein to right sided atrium","449015009",40492964,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-07-31
+"Major laceration of liver with open wound into abdominal cavity","25554004",201715,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic aggressive type B viral hepatitis","1116000",4009793,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Liver cyst","85057007",4225905,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Portal thrombophlebitis","24805007",4092406,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Benign neuroendocrine neoplasm of liver","682811000119109",1246705,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-09-01
+"Chronic hepatitis C caused by Hepatitis C virus genotype 1b","768288001",35625295,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Fibrosis of liver caused by alcohol","721710005",36715922,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Pyogenic hepatic abscess","48036004",4173094,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic alcoholic liver disease","713181003",37017009,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Mixed micro and macronodular cirrhosis","15999000",4050640,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Red blood cell sequestration in liver","95557003",4316361,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Fatty portal cirrhosis","197294009",4058680,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatitis C genotype 6","824901000000104",44809239,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-04-01
+"Viral hepatitis B without hepatic coma","111891008",198683,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Liver abscess due to direct extension","197330004",4055216,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Neonatal hepatitis","69800000",4320490,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Infectious neonatal hepatitis","111892001",4008083,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Liver abscess and sequelae of chronic liver disease","197324004",4026132,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Epstein-Barr virus hepatitis","302919001",4119142,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Q fever hepatitis","409554001",4260073,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-07-31
+"Hepatic actinomycosis","186395002",4087431,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Syphilitic cirrhosis","16070004",4053079,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congenital syphilitic hepatomegaly","192008",4078519,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Budd-Chiari syndrome","82385007",196715,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Zieve's syndrome","44047000",4195620,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cholestasis of pregnancy complicating childbirth","10750161000119106",45757110,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Lupus hepatitis","19682006",4057084,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Unilobular portal cirrhosis","197291001",4055209,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Liver rupture due to birth trauma","206245001",4047865,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Exacerbation of viral hepatitis, type A","OMOP5166155",1340500,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Hepatic cryptococcosis","187093007",4090101,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactivation of hepatitis B viral hepatitis","446698005",40488872,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-01-31
+"Benign neoplasm of liver","92186001",4243427,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Torsion of liver lobe","28698006",4102941,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic duct dysplasia","396461001",4245954,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Moderate laceration of liver with open wound into abdominal cavity","20402005",194199,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cryptogenic cirrhosis","89580002",4232955,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Amebic liver abscess","75119003",194560,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Abnormal findings diagnostic imaging of liver+biliary tract","274527008",436231,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Chronic lobular hepatitis","57339008",4238978,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Transient infantile hypertriglyceridemia and hepatosteatosis","773649005",36676683,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Lymphangioma of liver","1196847006",37162573,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Autoimmune liver disease","235890007",4340391,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cyst of intrahepatic bile ducts","235925007",4342780,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cholangiolitic cirrhosis","123606000",4049282,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatopulmonary syndrome","371067004",4159144,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31
+"Chronic active hepatitis C","708198006",45769525,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Delayed rupture of liver","262801003",4096025,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Radiation hepatitis","53476006",4201597,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Major laceration of liver without open wound into abdominal cavity","13891000",443870,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rupture of liver due to Echinococcus granulosus infection","840499006",3654951,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Viral hepatitis A without hepatic coma, without hepatitis delta","424758008",4313600,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-01-31
+"Inflammatory pseudotumor of liver","717329009",37399368,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Hepatitis C genotype 4","824881000000102",44809237,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-04-01
+"Liver hamartoma","253810002",4109793,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diffuse nodular cirrhosis","197293003",4055210,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Septal fibrosis of liver","123607009",4046017,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rupture of liver","235887001",4340943,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Empyema with hepatopleural fistula","34286007",4145425,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute hepatitis E","235867002",197490,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute hepatitis B with hepatitis D","235864009",4341652,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Liver regeneration","65860006",4277921,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Allergic hepatitis","426364002",4139051,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Liver cirrhosis due to classical cystic fibrosis","1010616001",605193,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Intrahepatic hematoma","262798009",4096023,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Subacute noninfective hepatitis","72445008",4219115,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Halothane hepatitis","235873001",4340381,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acquired arteriovenous fistula of liver","70668000",196438,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic persistent type B viral hepatitis","38662009",4296554,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic viral hepatitis","10295004",4012113,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congenital hepatic fibrosis","79607001",4194229,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Atrophy of liver","89835009",4231698,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Non-alcoholic fatty liver disease without non-alcoholic steatohepatitis","722866000",36716710,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Portal fibrosis without cirrhosis","197316009",4058685,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic schistosomal granuloma","240791003",4345824,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Mumps hepatitis","89231008",192824,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Liver enzymes level above reference range","707724006",45769139,"Measurement","SNOMED","Clinical Finding",NA,NA,2099-12-31,2015-01-31
+"Advanced cirrhosis","123717006",4048083,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Alcoholic cirrhosis","420054005",196463,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2006-01-31
+"Anicteric type A viral hepatitis","79031007",4193635,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bacterial liver abscess","866119000",3655650,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Chronic hepatitis C","128302006",198964,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatitis C genotype 5","824891000000100",44809238,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-04-01
+"Lipitor hepatotoxicity","5220001000004109",3199188,"Observation","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Hepatitis C genotype 2","824851000000108",44809234,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-04-01
+"Deficiency of coagulation factor due to liver disease","191296000",4098766,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic persistent hepatitis","41889008",199867,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic hepatitis E","450880008",42872885,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-07-31
+"Hepatitis in coxsackie viral disease","36155008",4263363,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Viral hepatitis C","50711007",197494,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congenital dilatation of lobar intrahepatic bile duct","111331000",4009157,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatitis caused by adenovirus","197344005",4059294,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cirrhosis associated with cystic fibrosis","776981000000103",44805713,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-04-01
+"Amebic hepatitis","95897009",4319160,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute fatty liver of pregnancy","716379000",37396531,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Lymphocytic portal hepatitis","370889009",4154553,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31
+"Chronic hepatitis C caused by Hepatitis C virus genotype 1","768127002",35625141,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Hepatitis C genotype 3","824871000000104",44809236,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-04-01
+"Sickle cell hepatopathy","763096004",35621839,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Acute hepatitis B with delta-agent (coinfection) without hepatic coma","186626002",439673,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Idiopathic hepatitis in infancy","276553003",4079849,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatosplenomegaly","36760000",4279681,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nutritional cirrhosis","123605001",4048057,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Vascular disorder of liver","235878005",4341654,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatosplenic schistosomiasis","240789006",4345823,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic coccidiosis","58994008",4243356,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatitis caused by Toxoplasma gondii","1222580004",37163864,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-05-31
+"Hepatic vein to left sided atrium","449014008",40492963,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-07-31
+"Malarial hepatitis","83072009",4307072,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Anomalous pulmonary venous drainage to hepatic veins","32194006",4138237,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Schistosomal hepatomegaly","240790002",4346170,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Isoniazid induced hepatotoxicity","23200001000004105",3183833,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Coccidiomycosis liver","240729009",4082062,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatocellular jaundice","66789005",4282941,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic active hepatitis","197284004",4026125,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Caroli syndrome","1237346001",37165048,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-09-30
+"Large liver due to infectious mononucleosis caused by Cytomegalovirus","15969461000119103",761747,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Pigment cirrhosis","78208005",4300060,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Intrahepatic cholangitis due to intrahepatic cholelithiasis","1197729004",37162886,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Viral hepatitis without hepatic coma","111896003",193693,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gonococcal hepatitis","235863003",4342771,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nodular regenerative hyperplasia of liver","715140008",37018557,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Neonatal hepatocellular damage","95555006",4318835,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Alcoholic liver damage","41309000",201612,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Injury of liver due to birth trauma","722577000",36716541,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Hepatitis due to infection","235862008",194087,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Intrahepatic biliary atresia","253807009",4109620,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Focal nodular hypoplasia of liver","253814006",4109621,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cirrhosis of liver due to hepatitis B","103611000119102",45772057,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Abnormality of hepatic vein","448281007",40488972,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-07-31
+"Idiopathic peliosis hepatis","1234823004",37164807,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-07-31
+"Cholestasis of parenteral nutrition","371090009",4159743,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31
+"Chronic hepatitis C caused by Hepatitis C virus genotype 1a","768289009",35625296,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Acute alcoholic liver disease","9953008",201343,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Liver calculus","297288000",4178553,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Exacerbation of toxic liver disease","OMOP5166139",1340484,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Occult chronic type B viral hepatitis","713966008",37017654,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Lymphogenic liver abscess","866110001",3655641,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Exacerbation of liver damage","OMOP5166044",1340389,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Disorder of liver due to disorder of mineral metabolism","737204007",42537674,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Malignant neoplasm of liver and intrahepatic bile ducts","187767006",4095432,"Condition","SNOMED","Disorder",NA,"D",2021-09-30,2002-01-31
+"Congenital viral hepatitis","206372007",4048592,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Steatosis of liver caused by retroviral protease inhibitor","713529007",37017281,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Alcoholic fibrosis and sclerosis of liver","235880004",4340385,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Tegretol hepatotoxicity","2270001000004105",3190596,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Type B viral hepatitis","66071002",4281232,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Avulsion of liver","282429000",4104791,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatitis B associated with Human immunodeficiency virus infection","442134007",40482214,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Infection of liver and spleen caused by Schistosoma mansoni","860861000",3655321,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Westphal-Strumpell syndrome","190823004",4098598,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Latent cirrhosis","123716002",4049419,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic viral hepatitis B with hepatitis D","235869004",192240,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Relapsing viral hepatitis","58282009",4238508,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cirrhotic cardiomyopathy","725416005",37110890,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Progressive familial intrahepatic cholestasis type 3","1186865008",37162165,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-11-30
+"Nonspecific reactive hepatitis","235858002",4340941,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dubin-Johnson syndrome","44553005",4195953,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Sequelae of viral hepatitis","187260009",4093637,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Micronodular cirrhosis","21861000",4071022,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Indian childhood cirrhosis","6183001",4268006,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Arthritis due to viral infection and co-occurrent with hepatitis","41271000119108",37395593,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Caroli disease","717232005",37397179,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Hepatocellular liver damage","419616000",4303098,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2006-01-31
+"Recurrent hepatitis","197286002",4026126,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute type A viral hepatitis","25102003",4098652,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic fibrosis due to non-alcoholic fatty liver disease","1197739005",37162895,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Ectopic liver","253813000",4109794,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Relapsing type A viral hepatitis","43634002",4183882,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Subcapsular liver hematoma","262797004",4096645,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chorea co-occurrent and due to Wilson disease","724766009",37110503,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Capsular portal cirrhosis","197296006",4058681,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cystic dilation of intrahepatic duct","307133008",4139254,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Idiopathic ductopenia","1234822009",37164806,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-07-31
+"Autoantibody negative autoimmune hepatitis","1197704005",37162862,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Hepatitis D superinfection of hepatitis B carrier","235865005",197493,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Postnecrotic cirrhosis","86454000",4313567,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Infection by Opisthorchis viverrini","90281006",4234839,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Viral hepatitis, type G","397575003",4287644,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Neonatal hepatosplenomegaly","80378000",4214373,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactivation of hepatitis C viral hepatitis","702969000",45773146,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Separate hepatic venous and inferior caval venous connections to heart","449516003",40487629,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-07-31
+"Biliary cirrhosis","1761006",192675,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Autoimmune hepatitis type 3","721713007",36715924,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Congenital hyperplasia of intrahepatic bile duct","40028009",4221807,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic hepatitis B co-occurrent with hepatitis C and hepatitis D","838380002",3654685,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Alcoholic hepatitis","235875008",4340383,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatomegaly with AIDS (acquired immunodeficiency syndrome)","421230000",4222224,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2006-07-31
+"Space occupying lesion of liver","302285008",4119466,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Subcapsular hemorrhage of liver","111371005",4009167,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Viral hepatitis E","7111000119109",45769824,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Hepatogenous chronic copper poisoning","73475009",4248427,"Condition","SNOMED","Disorder",NA,"D",2021-07-31,2002-01-31
+"Compensated liver disease","702399004",45771255,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Boichis syndrome","717187000",37397143,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Hepatitis C genotype 1","824841000000105",44809233,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-04-01
+"Acute on chronic alcoholic liver disease","713370005",37017151,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Hepatic granuloma","714253009",37017895,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Exacerbation of type B viral hepatitis","OMOP5166142",1340487,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Pulmonary fibrosis, hepatic hyperplasia, bone marrow hypoplasia syndrome","723829000",37109889,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Portal pyemia","67656006",192670,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Drug-induced hepatitis","235876009",4340942,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Viral hepatitis complicating pregnancy, childbirth and the puerperium","199203001",4063037,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hemangioma of liver","93469006",4247079,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Liver cirrhosis secondary to nonalcoholic steatohepatitis","28500001000004103",3185452,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Stage 3 hepatic fibrosis","10690671000119109",36686081,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Liver disorder in pregnancy","15230009",194699,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Posttransfusion viral hepatitis","28766006",4103088,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Abnormal connection of hepatic vein to atrium","253333008",4100865,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Contusion of liver","262799001",4096646,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Alpha-1-antitrypsin deficiency","30188007",192275,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatitis B reinfection following liver transplantation","1230342001",37164421,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-06-30
+"Hepatic vein to left atrium and right atrium","449016005",40492965,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-07-31
+"Abscess of liver","27916005",201901,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Partial nodular transformation of liver","737205008",42537675,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Injury of liver with open wound into abdominal cavity","15151004",201161,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Periportal fibrosis","870517000",3655942,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Chronic hepatitis C co-occurrent with human immunodeficiency virus infection","838377003",3654682,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Chronic lymphocytic cholangitis-cholangiohepatitis","9843006",4322067,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Perinatal hepatocellular damage","276552008",4173181,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Viral hepatitis","3738000",4291005,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ischemia reperfusion injury of liver","721715000",36715926,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Non-alcoholic fatty liver","197315008",4026131,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Primary biliary cholangitis","31712002",4135822,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Traumatic rupture of liver","736434005",42537215,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Injury of hepatic vein","64638002",193627,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic hepatitis C caused by Hepatitis C virus genotype 2","768125005",35625139,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Hepatic congestion","76281005",4296301,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Exacerbation of chronic active hepatitis","OMOP5165935",1340280,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Liver moderate laceration with open wound into cavity","210175000",442538,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pericellular fibrosis of congenital syphilis","235898000",4342775,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic viral hepatitis D","735451005",42536529,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Congenital abnormal fusion of liver lobes","92864004",4242051,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Isolated polycystic liver disease","716196007",37396394,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Viral hepatitis C in mother during pregnancy","16623921000119105",37151819,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Cirrhosis of liver caused by methyldopa","725940006",37111266,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Idiopathic copper associated cirrhosis of liver","715864007",37396157,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Fungal infection of liver","1163463008",37160801,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Hepatic vein to coronary sinus","448081001",40487988,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-07-31
+"Granulomatous hepatitis","86514004",4313846,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Infectious cirrhosis","235896001",4340393,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Angiomyolipoma of liver","1196904007",37162622,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Anicteric type B viral hepatitis","53425008",4203326,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cholangiolitis","35571009",4261812,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cirrhosis of liver with primary sclerosing cholangitis","735733008",42539566,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Toxic portal cirrhosis","197301006",4059287,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cholestasis of pregnancy","235888006",4340944,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Enlargement of liver co-occurrent with human immunodeficiency virus infection","713510001",37017265,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Echinococcosis of liver","26103000",195749,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastasis to liver from adenocarcinoma","1691000119104",43530694,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2012-09-01
+"Chronic passive congestion of liver","34736002",200451,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute infectious hepatitis","822071000000104",44813565,"Condition","SNOMED","Disorder",NA,"U",2021-01-20,2012-04-01
+"Spontaneous subcapsular liver hematoma","405559000",4231820,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-01-31
+"Biliary cirrhosis of children","197310003",4059289,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Opisthorchis felineus infection","1177030007",37161129,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-10-31
+"Laceration of liver with open wound into abdominal cavity","698862003",44782863,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Autoimmune hepatitis type 2","721712002",36717496,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Perinatal hepatitis B","551621000124109",37172861,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-03-01
+"Infantile hemangioma of liver","703271000",45766163,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Chronic hepatitis C caused by hepatitis C virus genotype 5","767810006",35624867,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Acute hepatitis C","235866006",192242,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic type B viral hepatitis","61977001",194574,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Autosomal dominant polycystic liver disease","890229002",619148,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Chronic alcoholic hepatitis","307757001",4146181,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic schistosomiasis","90753004",4236011,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic hepatitis C with stage 3 fibrosis","347891000119103",45757726,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Arteriovenous malformation of liver","84150000",4224145,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Glissonian cirrhosis","536002",4203601,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic hepatitis C caused by hepatitis C virus genotype 6","767809001",35624866,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Secondary syphilis of liver","80770009",4215747,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Transection of liver","262803000",4096647,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congenital abnormality of hepatic vein","447823004",40486609,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-07-31
+"Crush injury of liver","283979000",4152631,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Exacerbation of hepatocellular liver damage","OMOP5166010",1340355,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Injury to liver during surgery","713203006",37017028,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Acute focal hepatitis","123603008",4048523,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Infection of liver transplant","12224501000119108",37163850,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-10-31
+"Idiopathic granulomatous hepatitis","723108006",36716883,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Nodule of liver","428187007",4322895,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-01-31
+"Neoplasm of liver","126851005",4130518,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Viral hepatitis D","707341005",45768827,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Capsular tear of liver","262795007",4095558,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Toxic hepatitis","197352008",4055223,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Drug-induced cholestatic hepatitis","83864008",4222609,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pigmentary portal cirrhosis","197299004",4059285,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Peliosis hepatis","58008004",4240725,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Progressive familial intrahepatic cholestasis type 4","1295517006",1245024,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-12-01
+"Hepatitis in secondary syphilis","197348008",442066,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Perinatal hepatitis C","551611000124101",37172860,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-03-01
+"Juvenile portal cirrhosis","266471006",4144116,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cholestasis-edema syndrome, Norwegian type","28724005",4102952,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Laennec's cirrhosis, non-alcoholic","235895002",4340392,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Viral hepatitis A without hepatic coma","111879004",196625,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"O/E - hepatomegaly","275296001",4167902,"Condition","SNOMED","Disorder",NA,"D",2021-01-31,2002-01-31
+"Laceration of liver","262802005",195392,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Symmer's pipe-stem fibrosis","240792005",4345477,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic hepatitis B during pregnancy","16859701000119109",37175349,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Progressive familial intrahepatic cholestasis type 1","1155913007",607683,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Injury of liver without open wound into abdominal cavity","34798003",193630,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Liver disease co-occurrent and due to mitochondrial disorder","735732003",42536741,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Minor laceration of liver with open wound into abdominal cavity","85870004",444286,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Echinococcus granulosus infection of liver","20790006",200656,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatitis C without hepatic coma","13820001000004107",3189876,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Anicteric viral hepatitis","4846001",4168151,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Steatosis of liver","197321007",4059290,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Stellate laceration of liver with open wound into abdominal cavity","38306002",4244063,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cirrhosis - non-alcoholic","266468003",194692,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute passive congestion of liver","1197720000",37162877,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Viral hepatitis, type A","40468003",4223947,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic rejection of liver transplant","432908002",4198610,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-07-31
+"Obstructive biliary cirrhosis","109819003",4003673,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reynolds syndrome","715401008",37399445,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Acute red atrophy of liver","40912001",4250743,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Antichymotrypsin deficiency-alpha-1","235909002",4341656,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Angiomyolipoma of liver","8860/0-C22.0",36547848,"Condition","ICDO3","ICDO Condition","S",NA,2099-12-31,2015-09-18
+"Chronic persistent viral hepatitis","60037002",4247138,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Echinococcus multilocularis infection of liver","27235001",193142,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Non-alcoholic fatty liver disease","1231824009",37164766,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-07-31
+"Arteriohepatic dysplasia","31742004",4136964,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Fontan-associated liver disease","870428003",3655916,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Multilobular portal cirrhosis","266469006",4148254,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Disorder of liver due to disorder of amino acid metabolism","762278005",42538550,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Enflurane hepatitis","235874007",4340382,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Syphilis of liver","86028001",194861,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypoxia-associated cirrhosis","235897005",4340946,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Parenchymatous degeneration of liver","111369005",4009165,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic hepatitis","76783007",200763,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatitis B and hepatitis C","442374005",40483136,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Infection of liver caused by parasite","866142007",3655669,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Moderate laceration of liver without open wound into abdominal cavity","43841005",197416,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Portal vein thrombosis","17920008",199837,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Wilson's disease","88518009",4229262,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute infectious hepatitis","773113008",36676304,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Chronic active type B viral hepatitis","50167007",4173584,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bacterial portal cirrhosis","197303009",4055212,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Liver disorder due to infection","235859005",4341650,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Autoimmune hepatitis","408335007",200762,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-01-31
+"Hepatitis in late syphilis","197347003",4055221,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Liver damage","243978007",4352876,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute viral hepatitis","57412004",4211974,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cirrhosis of liver caused by methotrexate","725938001",37117933,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Herpes simplex hepatitis","1087101000119109",45757252,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Cardiac cirrhosis","74669004",4252074,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Parasitic cirrhosis","33144001",4140536,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Granulomatous inflammation of liver caused by Candida","2260001000004104",761941,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Veno-occlusive disease of the liver","65617004",4277276,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Recurrent hepatitis C virus induced liver disease following liver transplant","1197150002",37162668,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Primary intrahepatic lithiasis","1234821002",37164805,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-07-31
+"Hepatopulmonary shunting","5130001000004109",3184471,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Ischemic hepatitis","235877000",4340384,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Intrahepatic phlebosclerosis and fibrosis","235902006",4342776,"Condition","SNOMED","Disorder",NA,"D",2021-01-31,2002-01-31
+"Portal cirrhosis","419728003",4304584,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2006-01-31
+"Coxsackie virus hepatitis","197339003",4026135,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic fibrosis","62484002",4267417,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31

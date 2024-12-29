@@ -1,0 +1,121 @@
+"Concept Name","Concept Code","Concept Id","Domain Id","Vocabulary Id","Concept Class Id","Concept Category","Invalid Reason","Valid End Date","Valid Start Date"
+"Acetaminphen abuse","15070001000004101",3190002,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Harmful use of sedative","1094241000000100",35610541,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Abuse of antidepressant drug","191928000",440992,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Episodic phencyclidine abuse","145841000119107",43020431,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Amphetamine abuse","84758004",432878,"Condition","SNOMED","Disorder",NA,"U",2022-06-30,2002-01-31
+"Cannabis hyperemesis syndrome co-occurrent and due to cannabis abuse","11047881000119101",37108712,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Harmful use of alcohol","1094151000000108",35610532,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Nondependent amphetamine or psychostimulant abuse, continuous","191924003",4103424,"Condition","SNOMED","Disorder",NA,"U",2022-06-30,2002-01-31
+"Abuse of vitamins","280983004",4092159,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nondependent cannabis abuse","191891003",4103419,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Psychoactive substance abuse","91388009",4239381,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Harmful use of vitamins","1094141000000105",35610531,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Nondependent opioid abuse, episodic","191913000",435798,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nondependent mixed drug abuse, episodic","191937000",440694,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nondependent antidepressant type drug abuse, episodic","191931004",434917,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Stimulant abuse","441527004",40479573,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Episodic nondependent crack cocaine abuse","204641000000107",44789542,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2006-04-01
+"Hypnotic or anxiolytic abuse","231461004",439554,"Condition","SNOMED","Disorder",NA,"U",2022-06-30,2002-01-31
+"Harmful use of hypnotic","772999000",36676296,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Hallucinogen abuse","74851005",437245,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nondependent alcohol abuse, episodic","191883007",440685,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nondependent cocaine abuse, continuous","191918009",439796,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Abuse of antacids","280986007",4089921,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Harmful use of cannabis","1094171000000104",35610534,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Nondependent amphetamine or psychostimulant abuse in remission","414874007",4212339,"Condition","SNOMED","Disorder",NA,"U",2022-06-30,2005-01-31
+"Abuse of diuretics","280985006",4091716,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Episodic inhalant abuse","427229002",4140733,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Alcohol abuse","15167005",433753,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Barbiturate abuse","231462006",436371,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Drug abuse in remission","1471000119103",43530681,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Nondependent amphetamine or other psychostimulant abuse","268648009",4146716,"Condition","SNOMED","Disorder",NA,"U",2022-06-30,2002-01-31
+"Harmful use of herbal medicine","1094101000000107",35610527,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Intravenous nondependent opioid abuse","145121000119106",44782731,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Harmful use of laxatives","1094111000000109",35610528,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Nondependent amphetamine or psychostimulant abuse, episodic","191925002",4100526,"Observation","SNOMED","Disorder",NA,"U",2022-06-30,2002-01-31
+"Nondependent cannabis abuse in remission","191895007",435231,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Harmful use of antidepressant drug","1094071000000103",35610524,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Continuous phencyclidine abuse","425885002",4141032,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Harmful use of amphetamine","1094161000000106",35610533,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Methanol abuse","304605000",4121343,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Inhalant abuse","70340006",4290538,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Harmful use of cocaine","1094191000000100",35610536,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Harmful use of dissociative drug","724712001",37110457,"Condition","SNOMED","Disorder",NA,"U",2022-06-30,2017-07-31
+"Continuous inhalant abuse","426095000",4144308,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Harmful use of barbiturate","1094251000000102",35610542,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Harmful pattern of use of amphetamine and/or amphetamine derivative","785277001",37205764,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Continuous sedative abuse","125851000119106",44782685,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Harmful pattern of use of caffeine","724694006",37110441,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Nondependent cocaine abuse, episodic","191919001",436089,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nondependent opioid abuse","191909007",4099935,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nondependent hallucinogen abuse","268646008",4150794,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nondependent mixed drug abuse in remission","191938005",4103426,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Harmful use of inhalant","1094211000000101",35610538,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Harmful use of analgesic","1094121000000103",35610529,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Harmful use of anxiolytic","773000004",36676297,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Amphetamine abuse, episodic","429692000",433745,"Condition","SNOMED","Disorder",NA,"U",2022-06-30,2008-01-31
+"Harmful use of ketamine","724713006",37110458,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Nondependent alcohol abuse","268645007",4152165,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nondependent opioid abuse in remission","191914006",436088,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Harmful use of methanol","1094221000000107",35610539,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Nondependent cannabis abuse, continuous","191893000",434019,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nondependent intraveous amphetamine abuse","144981000119109",761090,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-09-01
+"Abuse of synthetic cathinone","762504005",42538729,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Nondependent cocaine abuse in remission","191920007",436098,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"PCP abuse","7071007",4321069,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Harmful use of synthetic cathinone","1094281000000108",35610545,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Opioid abuse","5602001",438130,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nondependent cocaine abuse","191916008",4102821,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nondependent hypnotic or anxiolytic abuse in remission","191907009",4099933,"Condition","SNOMED","Disorder",NA,"U",2022-06-30,2002-01-31
+"Nondependent opioid abuse, continuous","191912005",434016,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Substance abuse","66214007",4279309,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cannabis abuse","37344009",434327,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Abuse of drugs to lose weight","248119008",4085362,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Synthetic cannabinoid abuse","737336003",42539100,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Harmful use of diuretics","1094081000000101",35610525,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Nondependent hallucinogen abuse, episodic","191900006",438732,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Novel psychoactive substance misuse","713775002",37017493,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Persistent alcohol abuse","284591009",4109691,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Harmful use of synthetic cannabinoid","1094271000000106",35610544,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Cocaine abuse","78267003",432303,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Harmful use of hallucinogen","1094201000000103",35610537,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Nondependent hypnotic or anxiolytic abuse, episodic","191906000",4099932,"Condition","SNOMED","Disorder",NA,"U",2022-06-30,2002-01-31
+"Nondependent hypnotic or anxiolytic abuse, continuous","191905001",4100524,"Condition","SNOMED","Disorder",NA,"U",2022-06-30,2002-01-31
+"Abuse of nonpsychotropic analgesic drugs","231459008",4333674,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic drug abuse","110281001",4001994,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nondependent alcohol abuse, continuous","191882002",435534,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Methamphetamine abuse","699449003",44783367,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Harmful use of khat","1094181000000102",35610535,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Sedative abuse","64386003",442601,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Drug abuse","26416006",436954,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Harmful use of steroids","1094131000000101",35610530,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Episodic drug abuse","425533007",4143110,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Catha edulis abuse","429001000124103",42535585,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Harmful pattern of use of nicotine","724697004",37110444,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Chronic abuse of laxatives","27051000119102",44782433,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Nondependent hypnotic or anxiolytic abuse","268647004",4150795,"Condition","SNOMED","Disorder",NA,"U",2022-06-30,2002-01-31
+"Nondependent hallucinogen abuse, continuous","191899001",440381,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Intravenous cocaine abuse","145101000119102",43020430,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Harmful use of opioid","1094231000000109",35610540,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Polysubstance abuse","445273005",40482898,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-07-31
+"Non dependent drug abuse","49540005",4175635,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Abuse of herbal medicine","280984005",4091715,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Harmful use of drugs to lose weight","1094091000000104",35610526,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Drug habituation","9769006",4321741,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Harmful use of stimulant","1094261000000104",35610543,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Nondependent antidepressant type drug abuse, continuous","191930003",434627,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nondependent mixed drug abuse, continuous","191936009",436097,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nondependent mixed drug abuse","191934007",439312,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Drug abuse, continuous","426590003",4145220,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Nondependent alcohol abuse in remission","191884001",441276,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nondependent amphetamine abuse","34111000119108",762382,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-09-01
+"Nondependent hallucinogen abuse in remission","191901005",441272,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Harmful use of antacids","1093911000000105",35610509,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Abuse of laxatives","280982009",4091714,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nondependent antidepressant type drug abuse","764651000000101",44813498,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-04-01
+"Abuse of steroids","231458000",4338023,"Condition","SNOMED","Disorder",NA,"U",2022-06-30,2002-01-31
+"Amphetamine abuse, continuous","427205009",438126,"Condition","SNOMED","Disorder",NA,"U",2022-06-30,2007-07-31
+"Nondependent antidepressant type drug abuse in remission","191932006",439313,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nondependent cannabis abuse, episodic","191894006",434328,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dependent drug abuse","6525002",4275756,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31

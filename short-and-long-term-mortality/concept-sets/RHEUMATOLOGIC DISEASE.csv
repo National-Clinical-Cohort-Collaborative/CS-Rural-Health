@@ -1,0 +1,531 @@
+"Concept Name","Concept Code","Concept Id","Domain Id","Vocabulary Id","Concept Class Id","Concept Category","Invalid Reason","Valid End Date","Valid Start Date"
+"Seropositive rheumatoid arthritis of joint of left shoulder region","318891000119108",601033,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Chronic lupus nephritis","22880001000004107",3184561,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Rheumatoid arthritis of interphalangeal joint of toe","201785007",4114442,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis after chlamydia trachomatis infection","905421000000104",44811657,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-04-01
+"Right foot seropositive rheumatoid arthritis","1073601000119101",605413,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Dermatomyositis","396230008",80182,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Endarteritis deformans","302728008",4120160,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Arthritis of lumbosacral spine","720363008",36714940,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Rheumatoid nodule of right wrist","319991000119106",1246188,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Eosinophilic granulomatosis with polyangiitis","82275008",4305666,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid neutrophilic dermatitis","402432002",4299308,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Temporal arteritis","400130008",4290976,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Segmental retinal periarteritis","417544004",4214822,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2005-07-31
+"Seropositive rheumatoid arthritis of multiple joints","11055151000119108",37108714,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Reactive arthritis of joint of hand due to and following dysentery","201500003",75619,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Circinate balanitis co-occurrent with reactive arthritis triad","236744002",4126944,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Adult osteochondritis of spine","701003",4289292,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid factor and anti-citrullinated protein antibody positive rheumatoid arthritis","1162313005",37160384,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Reactive arthritis of bilateral elbows","16005871000119103",1245761,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-10-01
+"Pyogenic infection of lumbar intervertebral disc","310511000119103",37171005,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-04-30
+"Reactive arthritis of distal radioulnar joint","201562009",4067056,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Infantile acute hemorrhagic edema","238806009",4032894,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Exacerbation of polymyalgia rheumatica","OMOP5166093",1340438,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Rheumatoid nodule of subcutaneous tissue of right foot","1073661000119100",1244137,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Arthritis of facet joint of thoracic spine","16426601000119103",37309677,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Immunoglobulin G4 related aortitis","1187508009",37162345,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-01-31
+"Single-level thoracic spondylosis without myelopathy","202666001",4066599,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Systemic sclerosis caused by chemical","443872005",40483692,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-01-31
+"Lymphoepithelial sialadenitis of Sjögren's syndrome","126766000",4130853,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Poikilodermatomyositis","86365006",4314120,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Lung disease with Sjögren's disease","196137000",4055370,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis of wrist","201771002",4116441,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis of sternoclavicular joint","201767000",4116148,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis of right ankle","1073761000119108",36685021,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-09-01
+"Secondary Sjögren's syndrome","239915006",4344163,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis of joint of left hand","319531000119101",1246174,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Systemic rheumatoid vasculitis","1149219001",607145,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Cerebral arteritis due to infectious disease","703311009",45766199,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Isolated nailfold rheumatoid vasculitis","1149218009",607144,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Reactive arthritis of joint of hip due to and following dysentery","1290748003",1244745,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Bilateral rheumatoid nodule of subcutaneous tissue of hands","15673521000119101",37209312,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Reactive arthritis of left elbow","319521000119104",1246173,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-10-01
+"Rheumatoid nodule of left wrist","319911000119102",1246186,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Occupational scleroderma","402712002",4291432,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Chronic peri-aortitis","257812009",4119999,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid aortitis","38877003",4306357,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Arthropathy in Behcet's syndrome of the spine","427967009",4176931,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-01-31
+"Seropositive rheumatoid arthritis of right knee","318951000119106",37207807,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-03-01
+"Rheumatoid arthritis of right hand","1073791000119101",42534836,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Juvenile reactive arthritis","239807009",4035428,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Felty syndrome with seronegative erosive rheumatoid arthritis","1162362005",37160417,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Reactive arthritis after ureaplasma urealyticum infection","905471000000100",44811662,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-04-01
+"Polyarteritis nodosa","155441006",320749,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Glomerulonephritis co-occurrent and due to scleroderma","89681000119101",37397763,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Aortitis","70933002",4324395,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Post-dysenteric reactive arthropathy of the ankle and/or foot","201503001",81373,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Left ankle seropositive rheumatoid arthritis","318841000119100",601030,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Granulomatosis with polyangiitis of nose","232369001",4048178,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis of cervical spine","201764007",4116439,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis of distal interphalangeal joint of finger","201774005",4114440,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Oral lesion co-occurrent with reactive arthritis triad","235066005",4122761,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis of subtalar joint","201572007",4065484,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid nodule of wrist","299481000119106",1246069,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Rheumatoid nodule of bilateral knees","15673241000119105",1245507,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"SLE glomerulonephritis syndrome, WHO class VI","11013005",4002526,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Takayasu's disease","359789008",440740,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Left foot seropositive rheumatoid arthritis","1073611000119103",605414,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Rheumatoid episcleritis","77522006",4300202,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis after shigella infection","905461000000107",44811661,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-04-01
+"Rheumatoid arthritis of hip","201775006",4116150,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthropathy of proximal interphalangeal joint of finger","201565006",4063690,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Childhood type dermatomyositis","1212005",4005037,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis of left glenohumeral joint","319561000119109",1246177,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-10-01
+"Rheumatoid nodule of subcutaneous tissue of right elbow","319941000119103",37207814,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Cerebral arteritis","28366008",380747,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Mycobacterial spondyloarthritis","1162330007",37169795,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Rheumatoid arthritis of right hip","1073801000119100",42534837,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Systemic sclerosis","89155008",134442,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thoracic arthritis","1033009",4304035,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-01-31
+"Neonatal dermatomyositis","774082004",36674477,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Enteropathic arthritis","9350004",4247084,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Felty syndrome with seronegative rheumatoid arthritis","1162364006",37160421,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Bacterial arthritis of atlantoaxial joint","712524006",46273196,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Left shoulder region seronegative rheumatoid arthritis","319061000119100",601042,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Exacerbation of systemic lupus erythematosus","OMOP5166128",1340473,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Right shoulder region seronegative rheumatoid arthritis","319141000119100",601047,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Seronegative rheumatoid arthritis of multiple joints","319081000119109",37207809,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Acute scleroderma renal crisis","236503001",4126439,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Uveitis-rheumatoid arthritis syndrome","86219005",4311391,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pyogenic infection of sacrococcygeal intervertebral disc","310551000119102",37171007,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-04-30
+"Seronegative arthritis of joint of spine","444556003",40479848,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-07-31
+"Bilateral seronegative rheumatoid arthritis of knees","15691241000119101",608811,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Reactive arthritis of joint of right wrist region","319641000119106",1246184,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Post-streptococcal reactive arthritis","123949001",4047780,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Idiopathic periaortitis","1290499006",1244689,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-10-01
+"Essential mixed cryoglobulinemia","239947001",4347067,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Limited systemic sclerosis","299276009",4103019,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Subcutaneous rheumatoid nodule","33719002",4142899,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Polyarteritis of kidney","444819004",40481092,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-07-31
+"Infectious endarteritis of arterial duct","459064009",43020879,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Reactive arthritis of talonavicular joint","201573002",4065485,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Primary chronic gout without tophus of vertebra","310081000119100",46270474,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Right ankle seropositive rheumatoid arthritis","318911000119105",601035,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Postinfectious arthritis due to Yersinia enterocolitica enteritis","1177017006",37161119,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-10-31
+"Arthritis of facet joint of lumbar spine","16426641000119101",37109063,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Arthritis of facet joint of cervical spine","16426681000119106",37109064,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Reactive arthritis co-occurrent and due to nonspecific urethritis","110041000119104",37395567,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Viral postinfective arthropathy","733180006",37116461,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Reactive arthritis after yersinia infection","905481000000103",44811663,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-04-01
+"Infection of intervertebral disc - pyogenic","202756004",4067312,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Right wrist region seronegative rheumatoid arthritis","319151000119103",601048,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Hypersensitivity angiitis","60555002",196431,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis of joint of ankle","201571000",4067301,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Axial spondyloarthritis with peripheral joint involvement","1153369009",607398,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Seropositive rheumatoid arthritis of right hand","318931000119100",609061,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Reactive arthritis of bilateral glenohumeral joints","16003471000119104",1245759,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-10-01
+"Necrotizing vasculitis","11791001",4039691,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis of right temporomandibular joint","15685961000119107",36687000,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-09-01
+"Urticarial vasculitis with monoclonal IgM component, Schnitzler","402416000",4297648,"Observation","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Arteritis","52089001",314659,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Postinfective arthropathy caused by fungus","733177005",37116459,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Juvenile dermatomyositis overlap syndrome","1144920003",606385,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Giant cell arteritis without polymyalgia rheumatica","239939001",4347064,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis after clostridium difficile infection","905431000000102",44811658,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-04-01
+"Sexually acquired reactive arthritis of joint of shoulder region","201474006",4066954,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis of proximal interphalangeal joint of finger","201773004",4116443,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bowel-bypass syndrome","402858006",4291463,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Normocomplementemic urticarial vasculitis","402855009",4291462,"Observation","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Seronegative rheumatoid arthritis of left hand","319031000119108",37207808,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-03-01
+"Bilateral seropositive rheumatoid arthritis of wrist joint regions","15692041000119104",608813,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Juvenile polyarteritis","195363007",4111856,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cutaneous polyarteritis nodosa","239926000",4347062,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Left elbow seropositive rheumatoid arthritis","318851000119103",601031,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Vasculitis with glomerulonephritis","90971000119103",35627150,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Syphilitic aortitis","20735004",315467,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Lupus erythematosus-associated necrotizing vasculitis","403511003",4301142,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Reactive arthritis of right glenohumeral joint","319631000119102",1246183,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-10-01
+"Bacterial arthritis of facet joint of lumbar spine","712548002",46273216,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Bacterial arthritis of facet joint of cervical spine","712549005",46273622,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Autoimmune interstitial lung disease, arthritis syndrome","1222679006",37163922,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-05-31
+"Lupus hepatitis","19682006",4057084,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Granulomatosis with polyangiitis of orbit","1231671001",37164701,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-08-31
+"Exacerbation of ankylosing spondylitis","OMOP5165904",1340249,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Nephrotic syndrome co-occurrent and due to systemic lupus erythematosus","295111000119108",37395585,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Arthritis of spine","371082009",4153359,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31
+"Reactive arthritis of joint of foot due to and following dysentery","1290746004",1244743,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"CREST syndrome","31848007",4135937,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Infective arthritis of joint of vertebral column","673111000119103",1246668,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Primary cerebral arteritis","703312002",45766200,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Chikungunya arthritis","905341000000100",44811610,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-04-01
+"SLE glomerulonephritis syndrome, WHO class V","52042003",4178133,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Seronegative rheumatoid arthritis of joint of left ankle","319011000119103",601039,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Seropositive erosive rheumatoid arthritis","308143008",4147418,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis of joint of left wrist region","319571000119103",1246178,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Reactive arthritis of radiocarpal joint","1290724007",1244730,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Exacerbation os systemic lupus","13370001000004108",3173735,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Bullous systemic lupus erythematosus","239889005",4346976,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Anti-citrullinated protein antibody positive erosive rheumatoid arthritis","1162336001",37160399,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Rheumatoid arthritis of left knee","1073731000119100",37108590,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Multiple-level thoracic spondylosis without myelopathy","202668000",4066600,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Juvenile spondyloarthropathy","239806000",4079735,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gout","90560007",440674,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis of right foot","1073781000119104",36685023,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-09-01
+"Sclerodermatomyositis","238936001",4033497,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Isolated aortitis","985961000000104",46286442,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-10-01
+"Rheumatoid arthritis of left shoulder","1073741000119109",35609009,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Gout of vertebra due to renal impairment","298951000119104",46273541,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Cryoglobulinemic vasculitis","190815001",4096220,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Right elbow seropositive rheumatoid arthritis","318921000119103",601036,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Juvenile temporal arteritis","722020006",36716136,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Flare of rheumatoid arthritis","201791009",4114444,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"SLE glomerulonephritis syndrome, WHO class IV","36402006",4267801,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis of left hand","1073711000119105",42534834,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Pustular vasculitis","402663007",4292536,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Rheumatoid arthritis of joint of spine","781206002",36683391,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Necrotizing vasculitis due to mixed cryoglobulinemia","402662002",4292535,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Reactive arthritis of right ankle","16583401000119105",1245870,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-10-01
+"Rheumatoid arthritis of tibiofibular joint","201778008",4115051,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid nodule of left knee","319891000119104",1246185,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Exacerbation of rheumatoid arthritis","OMOP5166115",1340460,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Diffuse systemic sclerosis of childhood","1144925008",606390,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Polyarteritis","20258000",4067424,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Sexually acquired reactive arthritis of joint of foot","1290742002",1244739,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Iritis with psoriatic arthritis","410482007",4132495,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-07-31
+"Neonatal lupus erythematosus","95609003",4316373,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Seronegative rheumatoid arthritis in remission","16606681000119101",603308,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Nail dystrophy co-occurrent with reactive arthritis triad","402339007",4223486,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Behçet's disease affecting oral mucosa","403443000",4293711,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Extra-articular rheumatoid process","52661003",4200987,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis of right elbow","319591000119102",1246179,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-10-01
+"Senile endarteritis","111291001",4009153,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Arthritis of joint of spine due to inflammatory bowel disease","307261000119104",37170948,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-04-30
+"Dermatomyositis overlap syndrome","1144931006",602876,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Idiopathic aortitis","239937004",4347063,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Adult onset dermatomyositis","402425006",4270868,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Renal involvement in scleroderma","236502006",4128222,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Left hip joint seronegative rheumatoid arthritis","319041000119104",601040,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Reactive arthritis of right hip","319611000119107",1246181,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-10-01
+"Primary Sjögren's syndrome","239912009",4347058,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Giant cell arteritis with polymyalgia rheumatica","239938009",4343935,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Systemic sclerosis, diffuse","128460000",4027727,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis of left temporomandibular joint","15686001000119104",36687001,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-09-01
+"Lung disease with systemic lupus erythematosus","196138005",4055640,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid carditis","28880005",4103516,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Drug-induced lupus erythematosus caused by hydralazine","54912002",4208241,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis of right knee","319621000119100",1246182,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-10-01
+"Seropositive rheumatoid arthritis of shoulder joint","459921000124108",36684998,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-09-01
+"Drug-induced lupus erythematosus caused by procainamide","22888007",4119296,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Sacral arthritis","429555005",4180469,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-01-31
+"Rheumatoid arthritis of talonavicular joint","201781003",4116152,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Juvenile psoriatic arthritis","239802003",4079733,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Seronegative rheumatoid arthritis of bilateral hip joints","15691361000119106",1245542,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"SLE glomerulonephritis syndrome, WHO class II","4676006",4186940,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Accelerated rheumatoid nodulosis","402427003",4292371,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Sexually acquired reactive arthritis of joint of pelvic wall","1290743007",1244740,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Rheumatoid nodule of subcutaneous tissue of bilateral feet","15673481000119101",1245510,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Granulomatosis with polyangiitis of gingiva","235000001",4122119,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Lupus erythematosus-associated urticarial vasculitis","403510002",4295305,"Observation","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Drug-induced systemic lupus erythematosus","201436003",4063581,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis of joint of shoulder region due to and following dysentery","201497009",72984,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Vasculitis of large artery","724597006",37110368,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Reactive arthritis of sacroiliac joint","201568008",4067057,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis of joint of knee","201569000",4065483,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Systemic sclerosis with limited cutaneous involvement","298285004",4185187,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid nodule of bilateral ankles","15673441000119106",1245509,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Reactive arthritis of left ankle","16583441000119107",1245871,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-10-01
+"Rheumatoid arthritis of right wrist","1073831000119107",36685024,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Spondyloarthritis caused by fungus","1153411004",607428,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Acute systemic lupus erythematosus","403486000",4295179,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Isolated angiitis of central nervous system","230733004",4045752,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Renal vasculitis","95578000",4318842,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Sexually acquired reactive arthritis of multiple sites","201481004",4066957,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Systemic lupus erythematosus with multisystem involvement","239890001",4344400,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Accelerated rheumatoid nodulosis caused by methotrexate","402428008",4297649,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Bilateral rheumatoid arthritis of feet","15686281000119101",37209321,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Sexually acquired reactive arthritis of joint of hip","1290744001",1244741,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Lumbar discitis","202752002",4067311,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Neuropathic spondylopathy","202700003",4067532,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Inflammation of fetal umbilical artery","710944000",46272559,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Granulomatosis with polyangiitis of larynx","232460001",4048502,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Psoriatic dactylitis","239813000",4035742,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis of joint of hand","104661000119102",1244116,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Reactive arthritis of joint of ankle due to and following dysentery","1290745000",1244742,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Drug-induced lupus erythematosus caused by diphenylhydantoin","61458006",4263547,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Polyarteritis nodosa with single organ involvement","239925001",4343931,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pyogenic infection of lumbosacral intervertebral disc","310521000119105",37171006,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-04-30
+"SLE glomerulonephritis syndrome, WHO class I","73286009",4250483,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Polymyalgia rheumatica","65323003",255348,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Seropositive rheumatoid arthritis of joint of right shoulder region","318961000119108",601037,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Arthritis of joint structure of spine caused by Streptococcus","673941000119102",1246675,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Hypomyopathic juvenile dermatomyositis","1144977002",606434,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Non-radiographic axial spondyloarthritis","713777005",37017494,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Viral discitis","1162355001",37160412,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Inflammatory abdominal aortic aneurysm","314186008",4193055,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Seronegative rheumatoid arthritis of right knee joint","319131000119109",601046,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Seronegative rheumatoid arthritis","239792003",4083556,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid nodule of subcutaneous tissue of foot","299421000119107",1246067,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Rheumatoid arthritis - ankle and/or foot","287008006",4117687,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis of distal radioulnar joint","201770001",4115050,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diffuse interstitial rheumatoid disease of lung","10713006",4028118,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis of multiple joints","287006005",4117686,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis of bilateral elbows","15686321000119106",36687002,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-09-01
+"Rheumatoid arthritis of left hip","1073721000119103",42534835,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Presenile gangrene","195299000",4111732,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis of temporomandibular joint","427770001",4179536,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-01-31
+"Lupus disease of the lung","77753005",4299106,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid necrotizing vasculitis","239943002",4347065,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis of distal interphalangeal joint of finger","201566007",4065481,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Syphilitic cerebral arteritis","230735006",4048790,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis of bilateral hips","15687841000119108",36687003,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-09-01
+"Oligoarticular psoriatic arthritis","1162306005",37160379,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Thoracic discitis","202748002",4068628,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis after escherichia coli infection","905441000000106",44811659,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-04-01
+"Right wrist region seropositive rheumatoid arthritis","318971000119102",601038,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Granulomatosis with polyangiitis","195353004",313223,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Sacrococcygeal discitis","305961000119100",37150958,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-05-31
+"Seronegative rheumatoid arthritis of bilateral hands","15691161000119108",37209328,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-03-01
+"Reactive arthritis of tibiofibular joint","201570004",4067300,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Systemic lupus erythematosus","55464009",257628,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Spondylosis due to another disorder","86261000119104",764930,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-03-01
+"Cerebral arteritis in systemic vasculitis","230731002",4048789,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thromboarteritis","89135007",4230478,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bilateral seropositive rheumatoid arthritis of knees","15691881000119107",603299,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Necrotizing vasculitis of undetermined etiology","402859003",4294428,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Rheumatoid arthritis of left wrist","1073751000119106",36685020,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Cutaneous atrophy due to rheumatoid arthritis","402431009",4297650,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Reactive arthritis of joint of bilateral hands","16006791000119102",1245765,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Bilateral seropositive rheumatoid arthritis of shoulder regions","15691841000119102",603298,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Primary systemic arteritis","407529009",4253161,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-01-31
+"Demyelination of central nervous system co-occurrent and due to systemic lupus erythematosus","724781003",37110517,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Rheumatoid arthritis of acromioclavicular joint","201768005",4116149,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Destructive spondylopathy","1153391002",607413,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Rheumatoid arthritis of left ankle","1073681000119109",36685017,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-09-01
+"Necrotizing vasculitis secondary to connective tissue disease","402657003",4292533,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Necrotizing cutaneous vasculitis due to childhood type dermatomyositis","870336006",3655859,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Post-genitourinary infection reactive arthritis","267883008",4150308,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bacterial arthritis of vertebral column","116441000119107",760722,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-03-01
+"Pediatric onset systemic sclerosis","724603009",37119141,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Rheumatoid arthritis of subtalar joint","201780002",4116446,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid nodule of subcutaneous tissue of left hand","319871000119100",37207813,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Felty's syndrome","57160007",81097,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bilateral seronegative rheumatoid arthritis of feet","15691081000119100",608809,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Axial spondyloarthritis","723116002",36716891,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Rheumatoid arthritis of bilateral glenohumeral joints","15686241000119106",1245533,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Reactive arthritis of joint of bilateral wrist regions","16008231000119108",1245770,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Rheumatoid lung disease","398726004",256197,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Seronegative rheumatoid arthritis of joint of shoulder region","1290768009",1244750,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Ankylosing spondylitis with multisystem involvement","239811003",4035741,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Benign cutaneous periarteritis nodosa","58144006",4240837,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic tophaceous gout of vertebra due to renal impairment","304301000119101",46273508,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Juvenile psoriatic arthritis with psoriasis","239803008",4079734,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gout of vertebra caused by drug","306821000119108",46270460,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Reactive arthritis of lesser metatarsophalangeal joint","201576005",4067554,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bilateral seronegative rheumatoid arthritis of elbow joints","15691121000119103",608810,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Idiopathic dermatomyositis","281358000",4084268,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bilateral rheumatoid arthritis of knees","15687201000119107",37209322,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Reactive arthritis of joint of pelvic wall due to and following dysentery","1290747008",1244744,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Pyogenic infection of cervical intervertebral disc","310491000119108",37171002,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-04-30
+"Reactive arthritis of bilateral feet","16011031000119106",1245775,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-10-01
+"Post-infective arthropathy in syphilis","201738001",4114429,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Seropositive rheumatoid arthritis of right hip","318941000119109",37207806,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-03-01
+"Limited lupus erythematosus","239886003",4344157,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Seropositive rheumatoid arthritis of bilateral hands","15691801000119104",37209329,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-03-01
+"Inflammation of intervertebral disc caused by fungus","1153372002",607400,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Rheumatoid arteritis","399923009",4269880,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Rheumatoid arthritis of lesser metatarsophalangeal joint","201784006",4116153,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cutaneous complication of rheumatoid disease","402434001",4299403,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Sexually acquired reactive arthritis of joint of ankle","1290741009",1244738,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Reactive arthritis of bilateral ankles","16015311000119101",1245777,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-10-01
+"Bilateral seropositive rheumatoid arthritis of joint of elbows","15692001000119101",603302,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Rheumatoid nodule of bilateral wrists","15673281000119100",1245508,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Reactive arthritis of joint of hip","201567003",4065482,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Retinal arteritis","11255009",4010874,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary endarteritis","76846002",4296039,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Fulminating systemic lupus erythematosus","403487009",4296502,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Chronic gout of vertebra without tophus due to renal impairment","304311000119103",46270428,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Post-infective polyarthritis","422565003",4173925,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-01-31
+"Cervical arthritis","387801000",4300489,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-01-31
+"Systemic lupus erythematosus encephalitis","95644001",4318863,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis of right knee","1073811000119102",37108591,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Progression of rheumatoid arthritis","OMOP5166178",1340523,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Rheumatoid arthritis of metacarpophalangeal joint","201772009",4116442,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis of left foot","1073571000119107",1244135,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-10-01
+"Polyangiitis overlap syndrome","239931003",4344169,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Postinfective arthropathy following infection caused by Mycobacterium","870274001",3655814,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Pyogenic infection of cervicothoracic intervertebral disc","310501000119101",37171003,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-04-30
+"Rheumatoid arthritis with erosion of joint","735599007",42539550,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Climacteric arthritis of spine","429298008",4179506,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-01-31
+"SLE glomerulonephritis syndrome, WHO class III","76521009",4297164,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis - hand joint","287007001",4115161,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Seronegative rheumatoid arthritis of left knee joint","319051000119102",601041,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Rheumatoid arthritis with pneumoconiosis","398640008",4162539,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Infective aortitis","312383007",4194154,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bilateral rheumatoid nodule of subcutaneous tissue of elbows","15673361000119100",37209311,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Infective discitis","302935008",4120327,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Drug-induced necrotizing vasculitis","402659000",4291294,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Bilateral seropositive rheumatoid arthritis of feet","16050071000119108",609024,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Demyelination of central nervous system co-occurrent and due to Sjogren disease","724782005",37110518,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Reactive arthritis","201736002",40399768,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Vasculitis of mesenteric artery","721664001",36715882,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Rheumatoid arthritis of bilateral ankles","15691721000119102",36687005,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-09-01
+"Endarteritis obliterans","302930003",4119145,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid vasculitis","400054000",4271003,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Systemic lupus erythematosus with organ/system involvement","239887007",4344158,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis with nailfold and finger-pulp infarcts","402433007",4297651,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Necrotizing cutaneous vasculitis","402655006",4297824,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Reactive arthritis of joint of multiple sites due to and following dysentery","201504007",4066958,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Right hip joint seronegative rheumatoid arthritis","319121000119106",601045,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Disorder of respiratory system due to microscopic polyangiitis","1144809002",606332,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Scleroderma-associated necrotizing vasculitis","403518009",4296513,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Progression of psoriatic arthritis","OMOP5166175",1340520,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Granulomatosis with polyangiitis with multisystem involvement","239936008",4344493,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid nodule of subcutaneous tissue of left ankle","1290877006",1244799,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Lung disease with systemic sclerosis","196133001",255304,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Polyarticular psoriatic arthritis","1162295001",37160369,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Post-infective arthritis of joint of hand","423310007",4313176,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-01-31
+"Hepatitis C virus-associated cryoglobulinaemic vasculitis","988111000000106",46286609,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-10-01
+"Rheumatoid arthritis with rheumatoid lung disease","1162677006",37160562,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Chronic gout of vertebra without tophus caused by drug","306561000119100",46270449,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Rheumatoid arthritis","69896004",80809,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis of shoulder","201766009",4114439,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute rheumatic aortitis","1155919006",607766,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Cerebral arteritis in giant cell arteritis","230732009",4045751,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Seronegative erosive rheumatoid arthritis","1162303002",37160376,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Rheumatoid nodulosis","402426007",4270869,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Juvenile reactive arthritis triad","239808004",4035429,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis due to and following dysentery","239785008",4079729,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid fibrosing alveolitis","54867000",4184896,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dermatomyositis with malignant disease","239901009",4344161,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Seronegative rheumatoid arthritis of right hand","319111000119104",37207810,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-03-01
+"Seropositive rheumatoid arthritis of left hand","318861000119101",601032,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Post-infective arthritis","239783001",4035610,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Two-level thoracic spondylosis without myelopathy","202667005",4067528,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Circinate vulvovaginitis co-occurrent with reactive arthritis triad","402338004",4221664,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Lumbar arthritis","699302001",44783242,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Seronegative rheumatoid arthritis of joint of right ankle","319091000119107",601044,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Seropositive rheumatoid arthritis of left knee","318881000119105",37207805,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-03-01
+"Rheumatoid arthritis of left foot","1073701000119107",36685019,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-09-01
+"Listerial cerebral arteritis","186317009",4088222,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Systemic lupus erythematosus in remission","698694005",44784527,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Bilateral seronegative rheumatoid arthritis of wrists","15691321000119101",608812,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Bacterial arthritis of facet joint of thoracic spine","712547007",46273215,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Reactive arthritis of left hip","319541000119105",1246175,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-10-01
+"Nonbacterial verrucal endocardiosis","54072008",4203919,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Viral spondyloarthritis","1162331006",37160396,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Post-dysenteric arthropathy","56528004",78830,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Lupus erythematosus of oral mucous membrane","707301001",45768793,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Rheumatoid arthritis of foot","429192004",4179378,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-01-31
+"Immunoglobulin G4 related periaortitis","1290776006",1244754,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-11-01
+"Systemic lupus erythematosus of childhood","403488004",4301051,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Reactive arthritis of interphalangeal joint of toe","201577001",4065105,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Spondyloarthritis caused by parasite","870281008",3655820,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Rheumatoid arthritis of first metatarsophalangeal joint","201783000",4114441,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid nodule of right knee","319971000119105",1246187,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Psoriatic arthritis with distal interphalangeal joint involvement","239812005",4083682,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary arteritis","17993000",4077129,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Post-infective arthritis of joint of foot","423515003",4173757,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-01-31
+"Limited granulomatosis with polyangiitis","239935007",4344492,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid nodule of ankle","299411000119100",1246066,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Reactive arthritis of bilateral hips","16010151000119108",1245774,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-10-01
+"Rheumatoid arthritis of bilateral temporomandibular joints","15685921000119102",36686999,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-09-01
+"Systemic sclerosis sine scleroderma","128461001",4027230,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid nodule","201789001",40400211,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Pyogenic infection of thoracolumbar intervertebral disc","310571000119106",37171009,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-04-30
+"Infective endarteritis at site of aortic coarctation","459163001",43021950,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Reactive arthritis triad","67224007",78357,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Seropositive rheumatoid arthritis","239791005",4035611,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Infective endarteritis at site of aortopulmonary window","459173004",43021059,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Rheumatoid nodule of subcutaneous tissue of right hand","319951000119101",37207815,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Seronegative rheumatoid arthritis of joint of bilateral shoulder regions","15691281000119106",1245541,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Rheumatoid pericarditis","7607008",4296152,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Retinal endarteritis","86191000",4313304,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis in remission","143441000119108",37117421,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Nephropathy co-occurrent and due to systemic lupus erythematosus","295101000119105",46270384,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Acute rheumatic arthritis","81077008",4216531,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Polyarteritis nodosa with multi-organ involvement","239927009",4343932,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Primary necrotizing systemic vasculitis","239924002",4344167,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Sjögren's syndrome","83901003",254443,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute febrile mucocutaneous lymph node syndrome","75053002",314381,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Systemic lupus complicating pregnancy","10990001000004109",3178808,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Pericarditis secondary to scleroderma","87442008",4337524,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid scleritis","59165007",4243509,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid nodule of subcutaneous tissue of left elbow","319861000119106",37207812,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Mycobacterial discitis","1162292003",37160367,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Rheumatoid arthritis of knee","201777003",4116151,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pyogenic infection of thoracic intervertebral disc","310561000119100",37171008,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-04-30
+"Rheumatoid arthritis of elbow","201769002",4116440,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Paraneoplastic vasculitis","402661009",4292534,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Bilateral seropositive rheumatoid arthritis of hip joints","15691921000119100",603300,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Thoracic spondylosis without myelopathy","267971005",74130,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Post-dysenteric reactive arthropathy of the pelvic region and thigh","201501004",439350,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Tuberculous cerebral arteritis","1177015003",37161117,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-10-31
+"Rheumatoid arthritis of bilateral wrists","15691761000119107",36687006,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-09-01
+"Reactive arthritis after salmonella infection","905451000000109",44811660,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-04-01
+"Bilateral seropositive rheumatoid arthritis of ankle joints","15691961000119105",603301,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Primary angiitis of central nervous system","699814001",44783716,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Pediatric onset Sjögren syndrome","762303003",42539352,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Lupus panniculitis","239888002",4344399,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis of joint of wrist region","1290723001",1244729,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Endarteritis","33806008",4142931,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Psoriatic arthritis","156370009",40319772,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Ankylosing spondylitis co-occurrent with anterior uveitis","786077003",37203959,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Reactive arthritis of glenohumeral joint","201558003",4067054,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis of right foot","1073561000119101",1244134,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-10-01
+"Left wrist region seronegative rheumatoid arthritis","319071000119106",601043,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Systemic lupus erythematosus with pericarditis","309762007",4149913,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Keratoconjunctivitis sicca, in Sjögren's syndrome","78946008",4193620,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Psoriatic arthritis with spine involvement","200956002",4064048,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Seropositive rheumatoid arthritis of left hip","318871000119107",37207804,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-03-01
+"Sexually acquired reactive arthritis","783711009",37204811,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Reactive arthritis of spine","104681000119106",765044,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-03-01
+"Rheumatoid arthritis of sacroiliac joint","201776007",4116444,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pericarditis secondary to systemic lupus erythematosus","25380002",4101469,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Necrotizing arteritis","399980009",4270883,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Seropositive rheumatoid arthritis in remission","16606721000119107",603309,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Rheumatoid factor and anti-citrullinated protein antibody positive erosive rheumatoid arthritis","1162319009",37160390,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Progressive systemic sclerosis","444133002",40485046,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-01-31
+"Reynolds syndrome","715401008",37399445,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Post-tuberculous reactive arthritis","239787000",4083554,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Drug-induced dermatomyositis","403635000",4295455,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Rheumatoid arthritis of ankle","201779000",4116445,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis of right elbow","1073771000119102",36685022,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-09-01
+"Microscopic polyangiitis","1144805008",606328,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Drug-induced lupus erythematosus","80258006",4198217,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Coronary arteritis","62827000",4270354,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pustular vasculitis due to gonococcal bacteremia","402958005",4293282,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Reactive arthritis of joint of elbow","201561002",4067299,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ankylosing spondylitis with organ / system involvement","239810002",4035614,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic tophaceous gout of vertebra caused by drug","306551000119102",46270448,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Reactive arthritis of acromioclavicular joint","201560001",4067055,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid osteoperiostitis","129563009",4030424,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Juvenile ankylosing spondylitis","239805001",4083681,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Granulomatous angiitis of central nervous system","230734005",4045753,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Left wrist region seropositive rheumatoid arthritis","318901000119107",601034,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Bilateral rheumatoid arthritis of hands","15687321000119109",37209323,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Cervical discitis","202744000",4067539,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ankylosing spondylitis","9631008",437082,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Periarteritis","76805007",4296029,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis of first metatarsophalangeal joint","201575009",4065104,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis of joint of foot","1288006003",1244519,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-10-01
+"Parasitic postinfectious arthropathy","733179008",37116460,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Reactive arthritis after campylobacter infection","905411000000105",44811656,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-04-01
+"Rheumatoid nodule of knee","299461000119102",1246068,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Secondary aortitis","239948006",4343937,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Senile arteritis","5534004",4208543,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bacterial spondyloarthritis","1153410003",607427,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Necrotizing vasculitis secondary to infection","402660005",4299561,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Allergic arthritis of spine","428218004",4323203,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-01-31
+"Bowel-associated dermatosis-arthritis syndrome","1052354004",605363,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Reactive arthritis of left knee","319551000119107",1246176,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-10-01
+"Rheumatoid arthritis of right shoulder","1073821000119109",35609010,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Exacerbation of psoriatic arthritis","OMOP5166103",1340448,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Arteriolitis","8901009",4230338,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Postmeningococcal arthritis","240428000",4345228,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Sexually acquired reactive arthritis of joint of hand","201477004",4067200,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Autosomal systemic lupus erythematosus","773333003",36676444,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Reactive arthritis of sternoclavicular joint","201559006",4063688,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid nodule of subcutaneous tissue of left foot","1073671000119106",1244138,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Urticarial vasculitis","402656007",4292532,"Observation","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Rheumatoid nodule of subcutaneous tissue of right ankle","1290876002",1244798,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Lupus erythematosus","200936003",255891,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatoid arthritis of left elbow","1073691000119107",36685018,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-09-01
+"Juvenile dermatomyositis co-occurrent with respiratory involvement","311671000119100",37395588,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"SLE glomerulonephritis syndrome","68815009",4285717,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis of metacarpophalangeal joint","201564005",4065480,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Discitis","2304001",4046205,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis of bilateral knees","16016791000119104",1245779,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-10-01
+"CRST syndrome","62382002",4266527,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reactive arthritis of joint of right hand","319601000119109",1246180,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Exacerbation of lupus erythematosus","OMOP5166046",1340391,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06

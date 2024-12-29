@@ -1,0 +1,76 @@
+"Concept Name","Concept Code","Concept Id","Domain Id","Vocabulary Id","Concept Class Id","Concept Category","Invalid Reason","Valid End Date","Valid Start Date"
+"Smoking started","266929003",4141787,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Cigarette smoker (1-4 cigarettes/day)","450821000124107",764104,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2016-09-01
+"Hookah smoker","OMOP5181847",903665,"Observation","OMOP Extension","Clinical Finding","S",NA,2099-12-31,2023-01-05
+"Electronic cigarette smoker","OMOP5181836",903655,"Observation","OMOP Extension","Clinical Finding","S",NA,2099-12-31,2023-01-05
+"Light cigarette smoker (1-9 cigarettes per day)","OMOP5181840",903659,"Observation","OMOP Extension","Clinical Finding","S",NA,2099-12-31,2023-01-05
+"Light tobacco smoker","428061000124105",762498,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2012-09-01
+"Tobacco smoking consumption","266918002",4144271,"Observation","SNOMED","Observable Entity",NA,NA,2099-12-31,2002-01-31
+"Cigarette smoker (5-9 cigarettes/day)","450811000124104",764103,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2016-09-01
+"Tobacco dependence, continuous","191887008",4099811,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Trivial cigarette smoker (less than one cigarette/day)","266920004",4144273,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Cigarette smoker","OMOP5181838",903657,"Observation","OMOP Extension","Clinical Finding","S",NA,2099-12-31,2023-01-05
+"Moderate cigarette smoker (10-19 cigs/day)","160604004",4052030,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Snuff user","OMOP5181850",903668,"Observation","OMOP Extension","Clinical Finding","S",NA,2099-12-31,2023-01-05
+"Current some day smoker","LA18977-1",45884037,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Some-day smoker","LA15919-6",45881686,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Wants to stop smoking","203191000000107",44789712,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2006-04-01
+"Cigar smoking tobacco","26663004",4132133,"Observation","SNOMED","Substance","S",NA,2099-12-31,2002-01-31
+"Chewing tobacco user","OMOP5181849",903667,"Observation","OMOP Extension","Clinical Finding","S",NA,2099-12-31,2023-01-05
+"Moderate smoker (20 or less per day)","56578002",4209585,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Passive smoker","OMOP5181837",903656,"Observation","OMOP Extension","Clinical Finding","S",NA,2099-12-31,2023-01-05
+"Keeps trying to stop smoking","160612007",4052948,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Occasional tobacco smoker","428041000124106",37395605,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2012-09-01
+"Heavy cigarette smoker","230063004",4041511,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Pipe smoker","OMOP5181845",903663,"Observation","OMOP Extension","Clinical Finding","S",NA,2099-12-31,2023-01-05
+"Heavy tobacco smoker","428071000124103",762499,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2012-09-01
+"Pipe smoking tobacco","84498003",4224317,"Observation","SNOMED","Substance","S",NA,2099-12-31,2002-01-31
+"Current every day smoker","LA18976-3",45881517,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Ready to stop smoking","394872000",4215409,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2003-01-31
+"Family normalization capacity","405203009",4234663,"Observation","SNOMED","Observable Entity","S",NA,2099-12-31,2004-01-31
+"Very heavy cigarette smoker (more or equal to 40 cigarettes per day)","OMOP5181843",903662,"Observation","OMOP Extension","Clinical Finding","S",NA,2099-12-31,2023-01-05
+"Cigar smoker","OMOP5181846",903664,"Observation","OMOP Extension","Clinical Finding","S",NA,2099-12-31,2023-01-05
+"Current smoker","LA20356-4",36309332,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Light tobacco smoker","LA18982-1",45878118,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Smoking reduced","134406006",4046886,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Moderate cigarette smoker (10-19 cigarettes per day)","OMOP5181841",903660,"Observation","OMOP Extension","Clinical Finding","S",NA,2099-12-31,2023-01-05
+"Very heavy cigarette smoker (40+ cigs/day)","160606002",4058136,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Trying to give up smoking","160616005",4058137,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Cigarette smoker","65568007",4276526,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Moist tobacco user","OMOP5181851",903669,"Observation","OMOP Extension","Clinical Finding","S",NA,2099-12-31,2023-01-05
+"Heavy smoker (over 20 per day)","56771006",4209006,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Smoke more cigarettes","LA16530-0",45882346,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Every day smoker","LA26104-2",36307857,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Not interested in stopping smoking","394873005",4216174,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2003-01-31
+"Thinking about stopping smoking","394871007",4190573,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2003-01-31
+"Chain smoker","230065006",4044778,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Rolls own cigarettes","160619003",4058138,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Use of both smoked and non-smoked tobacco products","LA26673-6",42531020,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Smoker","77176002",4298794,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Heavy tobacco smoker","LA18981-3",45884038,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Smoke from tobacco products","LA17739-6",45876790,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Light cigarette smoker","230060001",4042037,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Heavy cigarette smoker (20-39 cigs/day)","160605003",4052947,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Failed attempt to stop smoking","446172000",40486518,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2011-01-31
+"Tobacco smoking consumption - finding","365982000",4269997,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Heavy smoking","LA6213-8",45879945,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Cigarette smoking tobacco","66562002",4282779,"Observation","SNOMED","Substance","S",NA,2099-12-31,2002-01-31
+"Heavy cigarette smoker (20-39 cigarettes per day)","OMOP5181842",903661,"Observation","OMOP Extension","Clinical Finding","S",NA,2099-12-31,2023-01-05
+"Moderate cigarette smoker","230062009",4044776,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Every-day smoker","LA15918-8",45883387,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Smokes tobacco daily","449868002",42709996,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2012-01-31
+"Tobacco or its derivatives user","OMOP5181835",903654,"Observation","OMOP Extension","Clinical Finding","S",NA,2099-12-31,2023-01-05
+"Smoked before confirmation of pregnancy","449345000",40486696,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2011-07-31
+"Readiness to stop tobacco use","1421000175103",45757454,"Observation","SNOMED","Observable Entity",NA,NA,2099-12-31,2015-01-31
+"Trivial cigarette smoker (0-1 cigarettes per day)","OMOP5181839",903658,"Observation","OMOP Extension","Clinical Finding","S",NA,2099-12-31,2023-01-05
+"Smokeless tobacco user","OMOP5181848",903666,"Observation","OMOP Extension","Clinical Finding","S",NA,2099-12-31,2023-01-05
+"Smoking","LA8928-9",45880274,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Number of previous attempts to stop smoking","864091000000103",44811339,"Observation","SNOMED","Observable Entity",NA,NA,2099-12-31,2013-04-01
+"Smoked tobacco only","LA26671-0",42530793,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Some day smoker","LA26103-4",36307682,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Tobacco dependence caused by cigarettes","16077091000119107",37109023,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2017-07-31
+"Occasional cigarette smoker","230059006",4044775,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Use of smoked tobacco but no information about non-smoked tobacco use","LA26674-4",42530756,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Tobacco dependence with current use","870621003",3655996,"Condition","SNOMED","Disorder",NA,"D",2022-06-30,2020-07-31
+"Tobacco user","110483000",4005823,"Observation","SNOMED","Clinical Finding",NA,NA,2099-12-31,2002-01-31
+"Tobacco dependence, episodic","191888003",4103417,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31

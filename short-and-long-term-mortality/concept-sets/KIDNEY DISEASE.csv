@@ -1,0 +1,287 @@
+"Concept Name","Concept Code","Concept Id","Domain Id","Vocabulary Id","Concept Class Id","Concept Category","Invalid Reason","Valid End Date","Valid Start Date"
+"Migration of peritoneal dialysis catheter","236563004",4126451,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Renal disease in pregnancy AND/OR puerperium without hypertension","75150001",192679,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant hypertensive end stage renal disease","285841000119104",43020455,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Chronic rejection of renal transplant - grade II","236580000",4127552,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Recurrent hematuria co-occurrent and due to diffuse membranous glomerulonephritis","714821006",37018348,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"CKD G3aA1 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1","949881000000106",46284587,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-04-01
+"Unexplained episode of renal transplant dysfunction","277010001",4172368,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic kidney disease stage 1 due to hypertension","117681000119102",44782703,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Chronic kidney disease due to type 1 diabetes mellitus","96441000119101",45773688,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Nephrotic syndrome, diffuse membranous glomerulonephritis","197595006",4058841,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus","128001000119105",45757393,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Atypical hemolytic uremic syndrome","789660001",37312165,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Hypertensive renal disease complicating AND/OR reason for care during puerperium","57873008",4240080,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"End stage renal failure on dialysis","236435004",4030520,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive heart and chronic kidney disease","8501000119104",44784621,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Infection associated with peritoneal dialysis catheter","473069007",43021985,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Infection of peritoneal dialysis catheter","430958003",4330222,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-07-31
+"Vascular complication of renal transplant","844661000000109",44809172,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-10-01
+"CKD G3bA3 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3","950101000000101",46284593,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-04-01
+"Chronic kidney disease due to benign hypertension","284961000119106",46270353,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Renal insufficiency","723188008",36716945,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Chronic kidney disease stage 4","431857002",443612,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-07-31
+"Chronic kidney disease stage 2 due to type 2 diabetes mellitus","741000119101",43531566,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Isolated proteinuria with specified morphological lesion, diffuse mesangial proliferative glomerulonephritis","197721009",4055901,"Measurement","SNOMED","Disorder",NA,"D",2023-06-30,2002-01-31
+"Chronic kidney disease stage 1 with proteinuria","324121000000109",44792226,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-04-01
+"Chronic kidney disease stage 2","431856006",443601,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-07-31
+"Primary non-function of renal transplant","236569000",4032294,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive heart AND chronic kidney disease stage 1","96751000119106",44784640,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Chronic kidney disease stage 3 due to hypertension","129171000119106",44782691,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Chronic kidney disease stage 4 due to type 2 diabetes mellitus","721000119107",43531577,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Glomerulonephritis","36171008",4263367,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cardiorenal syndrome","445236007",40482857,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-07-31
+"Accelerated rejection of renal transplant","236572007",4128370,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"End-stage renal disease","46177005",193782,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Infection of bloodstream co-occurrent and due to hemodialysis catheter in situ","736918003",42537495,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Pre-existing disease in renal transplant","277011002",4172369,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive heart AND renal disease","86234004",195556,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive heart AND chronic kidney disease stage 4","96721000119103",44784639,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Transplanted kidney present","737295003",42539502,"Observation","SNOMED","Clinical Finding","S",NA,2099-12-31,2018-01-31
+"Disorder related to renal transplantation","429451003",4324887,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-01-31
+"Chronic kidney disease stage 1 due to benign hypertension","284971000119100",46270354,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Renal function of transplanted kidney within reference range","473195006",43021422,"Observation","SNOMED","Clinical Finding","S",NA,2099-12-31,2013-01-31
+"Chronic kidney disease stage 4 due to type 1 diabetes mellitus","90751000119109",45769902,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Prerenal renal failure","129561000119108",45770903,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Isolated proteinuria with specified morphological lesion, diffuse membranous glomerulonephritis","197720005",4059122,"Measurement","SNOMED","Disorder",NA,"D",2023-06-30,2002-01-31
+"Chronic renal failure","90688005",198185,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic kidney disease stage 1 due to type 1 diabetes mellitus","90721000119101",45773576,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Malignant hypertensive chronic kidney disease stage 1","285851000119102",43021853,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Hypertensive renal disease complicating AND/OR reason for care during pregnancy","66709007",4280382,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic kidney disease stage 3 with proteinuria","324251000000105",44792230,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-04-01
+"Obstruction of peritoneal dialysis catheter by fibrin formation","440597004",4261070,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-01-31
+"Renal cortical necrosis","444691002",40480627,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-07-31
+"Rapidly progressive glomerulonephritis","236392004",196464,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Fibrin formation around peritoneal dialysis catheter","364761000000109",44792959,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-10-01
+"End stage renal failure untreated by renal replacement therapy","236434000",4128200,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Obstruction of peritoneal dialysis catheter","236562009",4032292,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Anemia in chronic kidney disease stage 4","691401000119104",37398911,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Hypertension concurrent and due to end stage renal disease on dialysis","704667004",45772751,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"CKD G2A1 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A1","949521000000108",46284572,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-04-01
+"Illegal termination of pregnancy complicated by renal failure","8996006",195600,"Condition","SNOMED","Disorder",NA,"U",2022-05-31,2002-01-31
+"Anemia co-occurrent and due to chronic kidney disease stage 3","691421000119108",37019193,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Hypertensive renal disease","38481006",201313,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"End stage renal disease due to hypertension","111411000119103",37018886,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Benign hypertensive heart disease and chronic renal disease stage 3","285081000119102",762001,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Chronic mesangial proliferative glomerulonephritis","197613008",4056462,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic kidney disease stage 2 without proteinuria","324211000000106",44792229,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-04-01
+"Stenosis of vein of transplanted kidney","847881000000107",44808129,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-10-01
+"Infection of bloodstream co-occurrent and due to temporary hemodialysis catheter in situ","736984007",42537540,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Disorder of transplanted kidney","58797008",199991,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Benign hypertensive renal disease","193003",193493,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive renal disease complicating AND/OR reason for care during childbirth","49171007",4169889,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"CKD G3bA2 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2","950081000000107",46284592,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-04-01
+"Anemia, pre-end stage renal disease on erythropoietin protocol","1801000119106",42872405,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-07-31
+"Benign hypertensive heart disease and chronic renal disease stage 2","285061000119106",762000,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Dense deposit disease","722760002",36717583,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Hypertensive heart AND chronic kidney disease stage 5","96711000119105",44784638,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Malfunction of peritoneal dialysis catheter","473147002",43021389,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Erythropoietin resistance in anemia of chronic kidney disease","444271000",40478891,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-01-31
+"CKD G1A3 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A3","949481000000108",46284570,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-04-01
+"Pre-existing hypertensive chronic kidney disease in mother complicating pregnancy","118781000119108",45757356,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Chronic kidney disease stage 2 due to benign hypertension","284981000119102",46270355,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Hypertension in chronic kidney disease due to type 2 diabetes mellitus","71421000119105",45771064,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Hypertension secondary to kidney transplant","428575007",4178312,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-01-31
+"Tubulointerstitial nephritis","428255004",4177206,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-01-31
+"Chronic kidney disease stage 5 with transplant","714153000",37018761,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Chronic progressive renal failure","425369003",4322556,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-01-31
+"Polycystic kidney disease, infantile type","28770003",201675,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic milk alkali syndrome","57557005",4239804,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant hypertensive chronic kidney disease","285831000119108",43021852,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Hypertension in chronic kidney disease stage 2 due to type 2 diabetes mellitus","140131000119102",45757447,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Infection of hemodialysis arteriovenous fistula","449288005",40486245,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-07-31
+"Renal impairment","236423003",4030518,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Failed renal transplant","236583003",4127554,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Megaloblastic anemia due to hemodialysis","27366005",4099603,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Mesangial proliferative glomerulonephritis","35546006",4146996,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"End stage renal disease on dialysis due to type 1 diabetes mellitus","90771000119100",45769904,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Infection of hemodialysis catheter","841000124105",764921,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-08-01
+"Immune-complex glomerulonephritis","123752003",4048675,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Anemia in chronic kidney disease stage 5","691411000119101",37395652,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Benign hypertensive heart disease and chronic renal disease stage 4","285101000119109",765536,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Impaired renal function disorder","197663003",193519,"Observation","SNOMED","Disorder",NA,"U",2023-01-31,2002-01-31
+"Chronic kidney disease stage 3B without proteinuria","324411000000105",44792251,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-04-01
+"Skin lesion associated with hemodialysis","402762007",4300106,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Malignant hypertensive heart disease and chronic renal disease stage 3","285911000119109",762033,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Chronic rejection of renal transplant - grade III","236581001",4127553,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic kidney disease stage 3 due to benign hypertension","284991000119104",46273636,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Hypertensive heart AND chronic kidney disease with congestive heart failure","15781000119107",44782728,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Mechanical complication of hemodialysis catheter","736987000",42537543,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Chronic kidney disease stage 5 due to hypertension","129161000119100",44782690,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Pre-existing hypertensive heart and chronic kidney disease in mother complicating pregnancy","10757481000119107",45757139,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Rapidly progressive nephritic syndrome","197689003",4054992,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic kidney disease stage 1 due to type 2 diabetes mellitus","751000119104",43531559,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"CKD G3bA1 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1","950061000000103",46284591,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-04-01
+"Chronic kidney disease stage 3B with proteinuria","324371000000106",44792250,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-04-01
+"Renal failure syndrome co-occurrent with human immunodeficiency virus infection","713696000",37017425,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Chronic kidney disease stage 4 with proteinuria","324441000000106",44792252,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-04-01
+"Chronic kidney disease due to type 2 diabetes mellitus","771000119108",43531578,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Congenital hemolytic uremic syndrome","444976001",40481595,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-07-31
+"Recurrent hematuria co-occurrent and due to diffuse mesangiocapillary glomerulonephritis","714819001",37018346,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Acute-on-chronic rejection of renal transplant","236582008",4032298,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Mesangiocapillary glomerulonephritis","80321008",433257,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic kidney disease stage 3","433144002",443597,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-07-31
+"Legal termination of pregnancy complicated by renal failure","4576001",195595,"Condition","SNOMED","Disorder",NA,"U",2022-05-31,2002-01-31
+"Fungal infection associated with peritoneal dialysis catheter","442181000124100",763528,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-09-01
+"Hemodialysis-associated secondary amyloidosis of skin","402458002",4297658,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Anemia secondary to renal failure","310647000",4150547,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic kidney disease stage 4 without proteinuria","324471000000100",44792253,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-04-01
+"Infection of bloodstream co-occurrent and due to tunneled hemodialysis catheter in situ","736920000",42537497,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Chronic renal insufficiency","723190009",36716947,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Diffuse endocapillary proliferative glomerulonephritis","3704008",4284491,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"End stage renal disease due to benign hypertension","712487000",46273164,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"CKD G1A2 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A2","949421000000107",46284567,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-04-01
+"Bacterial infection associated with peritoneal dialysis catheter","442171000124103",765865,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-09-01
+"Hypertensive end stage renal disease","434431000124103",762973,"Condition","SNOMED","Disorder",NA,"U",2023-03-01,2013-03-01
+"Poor drainage of peritoneal dialysis catheter","236565006",4032293,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hyperuricemia, pulmonary hypertension, renal failure, alkalosis syndrome","776416004",36679002,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Chronic nephritic syndrome, dense deposit disease","197714009",4055899,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic kidney disease stage 5 with proteinuria","324501000000107",44792254,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-04-01
+"Chronic kidney disease resolved","939211000000104",46284080,"Observation","SNOMED","Clinical Finding","S",NA,2099-12-31,2015-04-01
+"Chronic kidney disease stage 2 with proteinuria","324181000000105",44792228,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-04-01
+"Chronic kidney disease stage 3 without proteinuria","324281000000104",44792231,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-04-01
+"CKD G5A1 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1","950251000000106",46284600,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-04-01
+"Misplacement of hemodialysis catheter","698937002",44782924,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Chronic kidney disease mineral and bone disorder","713313000",37017104,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Chronic graft-versus-host disease following kidney transplant","128631000119109",760992,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-03-01
+"Membranous glomerulonephritis","77182004",252365,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Peritonitis due to infected peritoneal dialysis catheter","431873008",4198021,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-07-31
+"Perfusion injury of renal transplant","236584009",4126132,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"CKD G1A1 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A1","949401000000103",46284566,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-04-01
+"Hypertensive renal failure","49220004",443919,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Benign hypertensive renal disease with renal failure","698591006",44784439,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Malignant hypertensive chronic kidney disease stage 5","153851000119106",43020437,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"CKD G2A2 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A2","949561000000100",46287169,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-04-01
+"Peritoneal dialysis catheter exit site infection","236557008",4126450,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Low alkaline phosphatase due to chronic kidney disease","721183009",36715491,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Hyperuricemia, anemia, renal failure syndrome","721840000",36716029,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Chronic kidney disease due to and following excision of neoplasm of kidney","722149000",36717534,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Thrombus in peritoneal dialysis catheter","854131000000107",44809608,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-10-01
+"Renal osteodystrophy","16726004",197921,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hemodialysis access failure","434061000124103",762945,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-03-01
+"Hypertension in chronic kidney disease due to type 1 diabetes mellitus","71701000119105",45771067,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Hemodialysis-associated pseudoporphyria","403732009",4297919,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Chronic kidney disease stage 5 due to type 2 diabetes mellitus","711000119100",43531562,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Nephrotic syndrome with membranoproliferative glomerulonephritis","197591002",192362,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Renal failure following molar AND/OR ectopic pregnancy","43629001",195014,"Condition","SNOMED","Disorder",NA,"D",2023-02-28,2002-01-31
+"Chronic kidney disease due to traumatic loss of kidney","722467000",36716455,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Necrotizing glomerulonephritis","1426004",4031981,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nephrotic syndrome with minimal change glomerulonephritis","266549004",199071,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombosis of arteriovenous graft caused by hemodialysis arteriovenous access device","133031000119106",46270073,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Thrombosis of artery of transplanted kidney","864271000000105",44811351,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-04-01
+"Chronic kidney disease stage 5 without proteinuria","324541000000105",44792255,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-04-01
+"Benign hypertensive heart AND renal disease","66052004",442626,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"CKD G3aA3 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3","949921000000100",46284588,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-04-01
+"Induced termination of pregnancy complicated by renal failure","609452007",43530912,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Renal failure as a complication of care","269301005",4153876,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant hypertensive end stage renal disease on dialysis","286371000119107",43021864,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Benign hypertensive heart disease and chronic renal disease","449631000124102",764011,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Chronic kidney disease stage 4 due to hypertension","129151000119102",44782689,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Anemia in end stage renal disease","707324008",45768813,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"CKD G2A3 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A3","949621000000109",46284575,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-04-01
+"Hypertensive heart AND chronic kidney disease on dialysis","96701000119107",44784637,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Chronic kidney disease","709044004",46271022,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Chronic kidney disease stage 3B","700379002",45763855,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Leakage of peritoneal dialysis catheter","473190001",43021418,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Acute disorder of hemodialysis","236538004",4126124,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Infection of hemodialysis temporary catheter","851000124107",764924,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-08-01
+"Adult type polycystic kidney disease type 1","253878003",4109637,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic kidney disease stage 5 due to type 1 diabetes mellitus","90761000119106",45769903,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Post-renal renal failure","301814009",4200639,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Extrusion of peritoneal dialysis catheter cuff","236566007",4126130,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hemodialysis-associated amyloidosis","32599008",4137616,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pre-existing hypertensive heart and chronic kidney disease in mother complicating childbirth","10757401000119104",45757137,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Mechanical complication of dialysis catheter","17778006",4070976,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Isolated proteinuria with specified morphological lesion, diffuse endocapillary proliferative glomerulonephritis","197722002",4056482,"Measurement","SNOMED","Disorder",NA,"D",2023-06-30,2002-01-31
+"Mechanical complication of peritoneal dialysis catheter","431028002",440302,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-07-31
+"Complication of renal dialysis","33603003",438624,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Kidney disease","90708001",198124,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive renal disease in obstetric context","73030000",4218784,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Proliferative glomerulonephritis","441815006",40480859,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Milk alkali syndrome","43258006",4183446,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Renal failure following molar pregnancy","737327002",42537766,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"End stage renal disease on dialysis due to type 2 diabetes mellitus","90791000119104",45769906,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Chronic kidney disease stage 1 without proteinuria","324151000000104",44792227,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-04-01
+"Peritoneal dialysis catheter tunnel infection","236558003",4128368,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic kidney disease stage 3 due to type 2 diabetes mellitus","731000119105",43531653,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Chronic kidney disease stage 3A with proteinuria","324311000000101",44792232,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-04-01
+"Chronic kidney disease stage 5 due to benign hypertension","285011000119108",46270356,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Hypertension concurrent and due to end stage renal disease on dialysis due to type 2 diabetes mellitus","127991000119101",45757392,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Chronic kidney disease stage 2 due to type 1 diabetes mellitus","90731000119103",45769901,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Kidney transplant failure and rejection","213150003",4309006,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hyperparathyroidism due to end stage renal disease on dialysis","16218721000119107",36713020,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Chronic nephritic syndrome, diffuse crescentic glomerulonephritis","197715005",4056480,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"End stage renal failure with renal transplant","236436003",4125970,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Very mild acute rejection of renal transplant","236573002",4126131,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"CKD G4A1 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1","950181000000106",46284597,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-04-01
+"Acquired polycystic kidney disease","71064009",4323988,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive heart and renal disease with (congestive) heart failure","194779001",439696,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertension in chronic kidney disease stage 4 due to type 2 diabetes mellitus","140111000119107",45757445,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Line sepsis associated with dialysis catheter","32751000119100",37395591,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Chronic kidney disease stage 5","433146000",443611,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-07-31
+"Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus","140121000119100",45757446,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Benign hypertensive heart disease and chronic renal disease stage 1","285041000119107",765535,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Anemia in chronic kidney disease","707323002",45768812,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure","194781004",439694,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic kidney disease stage 1","431855005",443614,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-07-31
+"Chronic kidney disease stage 3A without proteinuria","324341000000100",44792249,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-04-01
+"Malignant hypertensive chronic kidney disease stage 2","285861000119100",43021854,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Hypertensive heart AND chronic kidney disease stage 2","96741000119109",43021836,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Action myoclonus renal failure syndrome","764453009",35607997,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Benign hypertensive heart disease and chronic renal disease stage 5","120261000119101",760850,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Renal failure after ectopic pregnancy","10752771000119100",45757120,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Chronic nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis","197712008",4059463,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic glomerulonephritis","20917003",312358,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Renal failure associated with renal vascular disease","363287001",4180769,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"CKD G5A3 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3","950311000000102",46284603,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-04-01
+"Malignant hypertensive renal disease","65443008",442766,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nephrotic syndrome, diffuse mesangiocapillary glomerulonephritis","197598008",4027120,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Anemia of chronic renal failure","49708008",443961,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nephritic syndrome","7724006",4298809,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic kidney disease stage 5 on dialysis","714152005",37017813,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Renal and perinephric abscess","197772000",198192,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic nephritic syndrome, diffuse mesangiocapillary glomerulonephritis","197713003",4059584,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus","140101000119109",45757444,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Hypertensive heart AND chronic kidney disease stage 3","96731000119100",43021835,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Infection of hemodialysis tunneled catheter","831000124100",764914,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-08-01
+"Urological complication of renal transplant","843691000000100",44809014,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-10-01
+"Post-renal transplant vesicoureteric reflux","703048006",45765975,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Chronic kidney disease following donor nephrectomy","722098007",36716184,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Inadequate hemodialysis","702635003",45773389,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Malignant hypertensive chronic kidney disease stage 3","285871000119106",43020456,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Chronic nephritic syndrome with membranous glomerulonephritis","28191000119109",46270347,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Malignant hypertensive heart disease and chronic renal disease stage 4","285921000119102",762034,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-09-01
+"Chronic rejection of renal transplant","236578006",4128372,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant hypertensive chronic kidney disease stage 4","285881000119109",43020457,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Postoperative renal failure","275408006",4170452,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"CKD G5A2 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2","950291000000103",46284602,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-04-01
+"Chronic kidney disease stage 3 due to type 1 diabetes mellitus","90741000119107",45771075,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Hemodialysis-associated pruritus","403733004",4300099,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Malposition of peritoneal dialysis catheter","440551001",4207135,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-01-31
+"Congenital renal failure","268854008",4149398,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Infection of arteriovenous graft for hemodialysis","430332005",4332640,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-07-31
+"Disorder of peritoneal dialysis catheter","236561002",443212,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Non-functioning kidney","155876003",40317643,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Complication associated with dialysis catheter","473034005",43021247,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Complication of hemodialysis","85223007",435649,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Spondyloarthropathy due to hemodialysis-associated amyloidosis","707090004",45771002,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Acute-on-chronic renal failure","236433006",4128067,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nephrotic syndrome with membranous glomerulonephritis","197590001",194405,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive heart and renal disease with renal failure","194780003",439695,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic kidney disease due to hypertension","104931000119100",44782429,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Omental wrapping around peritoneal dialysis catheter","236564005",4126129,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"End stage renal disease on dialysis due to hypertension","153891000119101",44782717,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Diffuse crescentic glomerulonephritis","64212008",4272486,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Multiple congenital cysts of kidney","82525005",4220238,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Glomerulitis","22702000",4331449,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic kidney disease stage 4 due to benign hypertension","285001000119105",46273514,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"CKD G4A3 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3","950231000000104",46284599,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-04-01
+"Chronic rejection of renal transplant - grade I","236579003",4032297,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Infection of hemodialysis catheter exit site","715272002",37395728,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Renal transplant rejection","236570004",4128369,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"CKD G3aA2 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2","949901000000109",46286992,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-04-01
+"Renal failure syndrome","42399005",192359,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic kidney disease stage 2 due to hypertension","129181000119109",44782692,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Chronic kidney disease stage 3A","700378005",45763854,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Chronic kidney disease due to systemic infection","722150000",36717349,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"CKD G4A2 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2","950211000000107",46284598,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-04-01

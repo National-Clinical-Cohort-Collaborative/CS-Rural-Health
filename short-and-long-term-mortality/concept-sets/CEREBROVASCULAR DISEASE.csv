@@ -1,0 +1,885 @@
+"Concept Name","Concept Code","Concept Id","Domain Id","Vocabulary Id","Concept Class Id","Concept Category","Invalid Reason","Valid End Date","Valid Start Date"
+"Non-traumatic hemorrhage of subarachnoid space from right vertebral artery","291491000119108",37170694,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Asymptomatic stenosis of basilar artery","1204164005",37163032,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-03-31
+"Thrombosis transverse sinus","192761004",4105338,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occlusion of left middle cerebral artery","329491000119109",42535509,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Occlusion of right cilioretinal artery","16279401000119108",3657872,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Monoplegia of leg complicating stroke","5500001000004109",3181146,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Familial cerebral saccular aneurysm","703226008",45766128,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Neonatal cerebral ischemia","206576006",4049043,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Asymptomatic occlusion of posterior cerebral artery","703205008",45766108,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Occlusion of right posterior communicating artery","1153607003",607564,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Paraplegia as sequela of cerebrovascular accident","12367511000119101",42534989,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Cerebrovascular accident due to occlusion of left cerebellar artery","16024151000119105",42535148,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Rolandic vein occlusion syndrome","23808003",4031946,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ruptured aneurysm of left posterior communicating artery","734880004",42536193,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Aneurysm of anterior communicating artery","783418004",37204666,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Late effects of cerebral ischemic stroke","723083001",36716860,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Right pontine cerebrovascular accident","11840001000004104",3174415,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Intracranial septic embolism","230220006",4043900,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reversible cerebral vasoconstriction syndrome","700467001",45773220,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Cerebrovascular accident due to embolism of right anterior cerebral artery","849488701000119104",618684,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Bilateral thrombosis of cerebellar arteries","1269244003",37167970,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Vertebral artery occlusion with infarction","434821000124104",763003,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-09-01
+"Dissection of extracranial carotid artery","840419005",3654882,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Multiple and bilateral precerebral arterial occlusion","195183002",439295,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occlusion of bilateral cerebellar arteries","1153638002",607591,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Monoplegia of dominant lower limb due to and following ischemic cerebrovascular accident","672381000119100",765518,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Dysphasia due to and following embolic cerebrovascular accident","690351000119103",42535707,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Radiation induced cerebral vasculitis","26730001000004103",3181814,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Cerebrovascular accident due to embolism of right carotid artery","384430101000119103",609313,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Stroke of uncertain pathology","230713003",4046363,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebral venous thrombosis of cortical vein","230722002",4046443,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ataxia as sequela of cerebrovascular accident","290581000119101",42535411,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Bilateral occlusion of anterior cerebral arteries","329541000119100",601069,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Occlusion of left anterior cerebral artery","1153545009",607525,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Vertebral artery syndrome","34781003",434656,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Multiple AND bilateral precerebral artery thrombosis","14977000",4032493,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Memory deficit due to and following cerebrovascular accident","16703661000119105",37309662,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Congenital malformation of dural sinus","703193000",45766098,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Ischemic stroke with coma","140911000119109",43530669,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Weakness as a late effect of stroke","148871000119109",44782753,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Right basal ganglia embolic stroke","31820001000004100",3174092,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Isolation of right common carotid artery","445349004",40483310,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-07-31
+"Cerebral thrombosis","71444005",441874,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Autosomal recessive leukoencephalopathy, ischemic stroke, retinitis pigmentosa syndrome","771476007",36675148,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Occlusion of right cerebellar artery by embolus","762633000",42538820,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Occlusion of right middle cerebral artery by embolus","762629007",42538818,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Moyamoya disease","69116000",378774,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebral venous sinus thrombosis","192759008",4102202,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Psychomotor retardation due to and following ischemic cerebrovascular accident","16702441000119104",37169686,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Thrombosis of left internal carotid artery","15707881000119106",761411,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Sensory disorder as a late effect of cerebrovascular disease","441735003",40480449,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Endophlebitis of lateral venous sinus","16061002",4052462,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Basilar artery occlusion","195180004",437308,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular accident due to occlusion of right cerebellar artery","16024271000119107",42535149,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Aneurysm of basilar artery","737159004",42537642,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Carotid artery embolism","80606009",4213731,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Spontaneous hemorrhage of subarachnoid space from left middle cerebral artery","291401000119102",762095,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Right vertebral artery embolism with stroke","16002351000119105",761794,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Cerebrovascular accident with intracranial hemorrhage","5571000124103",764721,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-03-01
+"Cerebrovascular accident due to occlusion of left carotid artery","16024111000119109",42539262,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Anterior inferior cerebellar artery embolism","429851000124107",762630,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Aphasia complicating stroke","5420001000004108",3181357,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Abnormal vision as a late effect of cerebrovascular disease","441759008",40480475,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Endophlebitis of intracranial venous sinus","87937009",4338502,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Precerebral arterial occlusion","266253001",443239,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Disorder of basilar artery","371158002",4159164,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31
+"Vertebral artery rupture","234005004",4121637,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Anomalous separate origins of internal carotid arteries and external carotid arteries from single aortic arch","461326001",43021569,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Cerebrofacial arteriovenous metameric syndrome type 2","6729006",4284132,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Asymptomatic cerebrovascular disease","230738008",4046444,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Transection of vertebral artery","262940009",4134159,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrofacial arteriovenous metameric syndrome type 3","703268008",45766162,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Congenital anomaly of cerebral artery","54265003",4183995,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bilateral posterior communicating artery occlusion","1287890000",1244503,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Occlusion and stenosis of middle cerebral artery with infarction","433941000124104",765907,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-03-01
+"Right cerebellar artery thrombosis","1156019004",607818,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Cerebrovascular accident due to occlusion of anterior choroidal artery","1269248000",37167974,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Left middle cerebral artery stroke","32310001000004107",3176312,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Dissection of extracranial vertebral artery","840420004",3654883,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Anomalous origin of left common carotid artery from brachiocephalic artery","460899002",43021430,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Hypoplasia of cranial sinus","860820000",3655290,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Basilar artery embolism","111296006",4006294,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Septic thrombophlebitis of sagittal sinus","302880005",4119136,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombosis of superior sagittal sinus","70607008",4290940,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pseudoaneurysm of vertebral artery","5651000124109",764734,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-03-01
+"Fatigue due to and following ischemic cerebrovascular accident","16469931000119100",37169605,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Aneurysm of intracranial portion of internal carotid artery","284821000119109",43020491,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Monoplegia of dominant upper limb due to and following ischemic cerebrovascular accident","672421000119109",764814,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Cerebrovascular accident due to occlusion of left middle cerebral artery","16000511000119103",42535112,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Cerebral arteritis due to infectious disease","703311009",45766199,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Bilateral thrombosis of vertebral arteries","1269246001",37167972,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Thrombophlebitis of internal cerebral vein","5501000124109",764712,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-03-01
+"Atherosclerosis of left carotid artery","284871000119105",43021851,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Thrombosis of middle cerebral artery","705129007",45767657,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Posterior inferior cerebellar artery occlusion with infarction","436041000124107",763095,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-09-01
+"Carotidynia","230482003",4046228,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombosis of inferior sagittal sinus","15742000",4048890,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"CVA with associated bilateral paralysis","5560001000004105",3188623,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Cerebral ischemic stroke due to subarachnoid hemorrhage","788884002",37312013,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Cerebrovascular accident due to occlusion of left anterior cerebral artery","182960891000119101",609242,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Cerebral ischemic stroke due to intracranial large artery atherosclerosis","724425005",37110238,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Cerebral ischemic stroke due to occlusion of extracranial large artery","724993002",37110678,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Cerebrofacial arteriovenous metameric syndrome type 1","703267003",45766161,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Monoplegia of lower limb as sequela of cerebrovascular accident","290931000119108",42535416,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Embolism of precerebral artery","40276003",4222582,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Left posterior cerebral artery thrombosis","1156016006",607815,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Perinatal cerebral ischemia","276706004",4080888,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ruptured internal carotid-posterior communicating artery zone aneurysm","277329004",4082163,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Non-pyogenic venous sinus thrombosis","195229008",4111713,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bilateral embolism of carotid arteries","1155688007",607611,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Apraxia due to and following embolic cerebrovascular accident","690181000119108",764847,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Memory deficit due to and following embolic cerebrovascular accident","16703711000119100",609092,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Embolism of multiple and bilateral precerebral arteries","37943007",4242222,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Apraxia as sequela of cerebrovascular accident","186831000119104",42535344,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Thrombosis of right internal carotid artery","15707841000119101",761410,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Dissection of precerebral artery","713035000",37016888,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Septic thrombophlebitis of sigmoid sinus","230223008",4041680,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Aneurysm of the vein of Galen","253194008",4099850,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Carotid artery stenosis without infarction","436021000124100",763093,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-09-01
+"Thrombosis of lateral venous sinus","21258007",4057329,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular accident due to thrombosis of right cerebellar artery","496369931000119104",604171,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Embolism of basilar sinus","16418006",4039439,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Paralytic syndrome of dominant side as late effect of stroke","430959006",443609,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-07-31
+"Occlusive stroke","373606000",4189462,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31
+"Thrombophlebitis of torcular Herophili","3681008",4277833,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occlusion and stenosis of anterior cerebral artery without infarction","430841000124101",765774,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Spasm of cerebral arteries","73173006",4249605,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ruptured cerebral aneurysm","233983001",4120104,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Monoplegia of nondominant upper limb as a late effect of cerebrovascular accident","442181008",40482266,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Occlusion and stenosis of posterior cerebral artery without infarction","430831000124106",762707,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Cerebral vasculitis","427020007",4140462,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Nonpyogenic cerebral venous thrombosis with stroke","16002151000119107",761790,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Cerebellar artery embolism","429831000124100",762629,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Middle cerebral artery syndrome","195209007",4110194,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombophlebitis of superior sagittal sinus","26954004",4098706,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular accident due to embolism of bilateral posterior cerebral arteries","168747591000119109",609188,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Embolism of intracranial venous sinus","14246007",4031342,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Exacerbation of cerebrovascular accident","OMOP5165929",1340274,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Bilateral embolism of posterior cerebral arteries","1153633006",607586,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Occlusive thrombus of left cerebellar artery","455911000124103",764504,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"COL4A1-related familial vascular leukoencephalopathy","778060000",36680604,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Cerebrovascular accident due to embolism of bilateral carotid arteries","152148641000119104",608742,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Carotid artery occlusion","266254007",313226,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Vein of Galen malformation","416792008",4215653,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2005-07-31
+"Late effects of cerebrovascular disease","195239002",434056,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular accident due to stenosis of right vertebral artery","292661000119105",42535458,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Cerebral atherosclerosis","55382008",316437,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dissection of internal carotid artery","705066004",45772779,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Occlusion of left posterior cerebral artery","329571000119107",42535510,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Dysarthria due to and following cerebrovascular accident","290631000119103",42535412,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Ataxia as sequela of hemorrhagic cerebrovascular accident","674121000119107",42535685,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Asymptomatic occlusion of extracranial carotid artery","703180005",45766088,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Monoplegia of dominant upper limb as a late effect of cerebrovascular accident","427065003",443525,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Thrombosis of basal vein","5611000124108",764726,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-03-01
+"Hereditary cavernous hemangioma of brain","717003001",37396995,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Dysphagia as a late effect of cerebrovascular accident","426033005",443465,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Cerebral arteritis","28366008",380747,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occlusive embolus of left anterior cerebral","455841000124109",764501,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Embolus of left posterior cerebral artery","734961002",42536242,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Ruptured aneurysm of vertebral artery","703176000",45766085,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Cerebral ischemia","287731003",374384,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Aneurysm of posterior inferior cerebellar artery","783417009",37204665,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Injury of intracranial vessel of head","721328009",36717463,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Occlusion and stenosis of cerebellar arteries","195235008",4112024,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cognitive deficit due to and following ischemic cerebrovascular accident","672561000119103",42535681,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Monoplegia of left dominant lower limb due to and following cerebrovascular accident","290891000119100",762089,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"ADan amyloidosis","783258000",37204554,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Cervical artery dissection","870637009",3656002,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Congenital fenestration of basilar artery","16520041000119104",609074,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Acute cerebral ischemia","16218291000119100",42535227,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Cerebrovascular accident due to embolism of bilateral anterior cerebral arteries","107557061000119108",605421,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Dissection of middle cerebral artery","840436002",3654894,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Thrombosis of right middle cerebral artery","734384004",42538998,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Vertigo as late effect of stroke","426788002",440426,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Cerebrovascular accident due to occlusion of right middle cerebral artery","16000431000119109",42535111,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Occlusion of left vertebral artery","292631000119102",42535457,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Foville syndrome","276220007",4078314,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Brain stem ischemia","95456009",4319330,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Stroke co-occurrent with migraine","724429004",37110241,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Embolus of circle of Willis","297138001",4182186,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebral venous thrombosis of cortical vein without infarction","432261000124102",762811,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Occlusion of right pontine artery","735114006",42536337,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Retroesophageal carotid artery","95235009",4317953,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Anterior cerebral artery syndrome","195210002",4108360,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Symptomatic carotid artery stenosis","9611000119107",44784634,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations","783787000",37204863,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Dural arteriovenous fistula","703166003",45766077,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Cerebrovascular accident of medulla oblongata","881694631000119107",619046,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Dissection of intracranial vertebral artery","840438001",3654896,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Cilioretinal artery occlusion","232036006",4338905,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cardioembolic stroke","413758000",4211509,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2005-01-31
+"Spontaneous rupture of left posterior communicating artery","734396006",42535879,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Multi-infarct dementia, uncomplicated","70936005",377254,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pontine artery thrombosis","408665008",4237181,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-07-31
+"Stroke in utero","29450001000004101",3170557,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Multiple AND bilateral precerebral artery obstruction","67992007",4194897,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombophlebitis of cerebral vein","95461006",4319332,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Embolism of left vertebral artery","1155697006",607619,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Secondary moyamoya disease","1208841001",37163259,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-04-30
+"Weakness of face muscles as sequela of stroke","40161000119102",43530744,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Cerebrovascular accident due to thrombosis of bilateral posterior cerebral arteries","297778421000119102",37170768,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Dysphasia due to and following ischemic cerebrovascular accident","672521000119108",42535679,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Asymptomatic stenosis of extracranial vertebral artery","1204160001",37163028,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Fluency disorder due to and following embolic cerebrovascular accident","690301000119102",37174199,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Cerebral vasoconstriction syndrome","703218000",45766121,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Occlusive thrombus of left vertebral artery","455921000124106",764505,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Embolic stroke","371041009",4153352,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31
+"Ruptured acquired aneurysm of cerebral artery","330111000119103",762351,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Embolism of left anterior cerebral artery","1153611009",607568,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Nontraumatic ruptured cerebral aneurysm","713265001",37017075,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Right internal carotid occlusion","28090001000004102",3184979,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Bilateral embolism of middle cerebral arteries","1153632001",607585,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Cerebral ischemic stroke due to extracranial large artery atherosclerosis","724426006",37110239,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Cerebrovascular accident due to occlusion of right posterior cerebral artery","16000391000119104",42535110,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Intracranial arterial septic embolism","230221005",4041678,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Paralytic syndrome of nondominant side as late effect of stroke","430947007",443599,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-07-31
+"Cerebrovascular accident due to occlusion of right posterior communicating artery","849579281000119106",618685,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Sequela of cerebrovascular accident","1131000119105",43530623,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Dysphasia as late effect of cerebrovascular disease","441529001",40479575,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Cerebrovascular accident due to occlusion of basilar artery","239965291000119107",602584,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Cerebrovascular accident","230690007",381316,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Vertebral artery stenosis with infarction","434831000124101",763004,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-09-01
+"Extension of cerebrovascular accident","281240008",4090122,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular accident due to embolism of left vertebral artery","517253051000119105",618628,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Thrombus of intracranial vein","297157005",4179912,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Basilar artery stenosis","54519002",442263,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nonparalytic stroke","111297002",4006295,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Vertebrobasilar territory transient ischemic attack","230717002",4048785,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombosis of right vertebral artery","15978431000119106",42535096,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Isolation of common carotid artery","253699002",4108869,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Anterior choroidal artery thrombosis","7931000119101",43531717,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Ataxia due to and following ischemic cerebrovascular accident","674111000119100",36685004,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Embolism of lateral venous sinus","80758005",4216353,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombosis of superior cerebellar artery","5451000124107",764703,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-03-01
+"Monoplegia of upper limb as late effect of cerebrovascular disease","442097001",40481842,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Occlusion of left cilioretinal artery","16279441000119105",3657873,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Posterior inferior cerebellar artery embolism","429861000124109",762631,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Cerebral venous sinus thrombosis in puerperium","1156029006",607828,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Ruptured aneurysm of basilar artery","277324009",4082161,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Impending cerebrovascular accident","286742002",4116269,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dissecting aneurysm of posterior cerebral artery","429241000124106",762584,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Cerebrovascular accident due to occlusion of left cerebellar artery by embolus","329461000119102",42535508,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Acquired aneurysm of cerebral artery","783716004",37204812,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Hemiplegia of nondominant side as late effect of cerebrovascular disease","442668000",40484513,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Type I arteriovenous malformation of spinal cord","449903008",42710031,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-01-31
+"Aneurysm of posterior communicating artery","783421002",37204669,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Phlebitis of superior longitudinal sinus","192765008",4102204,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Sinus pericranii","50751005",4179790,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Intracranial aneurysm","128609009",4029966,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acquired caroticocavernous sinus fistula","126011000119107",43531619,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Injury of cerebral portion of internal carotid artery","1263548009",37167037,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-02-28
+"Cerebrovascular accident due to right carotid artery stenosis","16026951000119102",37395575,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Cerebrovascular accident due to embolism of bilateral vertebral arteries","732330391000119107",618670,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Dysarthria due to and following ischemic cerebrovascular accident","672501000119104",36685002,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Phlebitis cavernous sinus","192764007",4104694,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Injury of vertebral artery","262717000",4096625,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebellar stroke","16371781000119100",36716999,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Cerebrovascular accident due to occlusion of bilateral pontine arteries","16644681000119102",37309665,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Cerebrovascular accident due to occlusion of right anterior choroidal artery","16024071000119102",37170180,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Occlusion and stenosis of multiple and bilateral cerebral arteries","195236009",4110197,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Spontaneous hemorrhage of subarachnoid space from intracranial artery","291371000119100",42535421,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Vertigo as sequela of cerebrovascular disease","26021000119107",43531621,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Occlusive embolus of right vertebral artery","455801000124107",764497,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Congenital arteriovenous fistula of brain","234149004",4119782,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebral ischemic stroke due to aortic arch embolism","788881005",37312016,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Ruptured aneurysm of anterior communicating artery","277320000",4079433,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombosis of posterior communicating artery","425932008",4144150,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Multi-infarct dementia with depression","14070001",443864,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occlusion of cerebral vein by nonpyogenic thrombus","455901000124101",764503,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Aneurysm of right vertebral artery","16662331000119106",37209563,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Monoplegia of arm dominant side as sequela of cerebrovascular disease","18761000119108",43530703,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Language deficit complicating stroke","5410001000004100",3183281,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Dysphasia complicating stroke","5430001000004105",3169760,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Cerebrovascular accident due to embolism of basilar artery","915141931000119109",619830,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Septic thrombophlebitis of cortical vein","230224002",4047634,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Carotid cavernous fistula","302213007",4201411,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occlusion of cerebral artery with stroke","9901000119100",43531605,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Hemiplegia of dominant side as sequela of ischemic cerebrovascular accident","672461000119104",42535677,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Dissection of right carotid artery","15708041000119108",37108911,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Thrombophlebitis of sigmoid sinus","5511000124107",764714,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-03-01
+"Carotid artery syndrome hemispheric","195200006",4112020,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular accident due to thrombosis of right vertebral artery","511452481000119102",618627,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Bilateral occlusion of posterior cerebral arteries","1153546005",607526,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Monoplegia of nondominant upper limb due to and following embolic cerebrovascular accident","690241000119106",764850,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Cerebral arteriosclerosis","65312002",4278243,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Posterior cerebral artery embolism","429821000124103",762628,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Aneurysm of right carotid artery","15648521000119107",36717278,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Primary cerebral arteritis","703312002",45766200,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Posterior inferior cerebellar artery syndrome","78569004",4301259,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombosis of internal carotid artery","425420004",4137209,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Injury of carotid artery","6956001",315116,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occlusive embolus of right anterior cerebral","455851000124106",764502,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Cerebrovascular accident due to thrombosis of bilateral carotid arteries","563789641000119101",37173015,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Urinary incontinence due to and following cerebrovascular accident with intracranial hemorrhage","16470041000119105",37169607,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Anterior inferior cerebellar artery occlusion with infarction","436031000124102",763094,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-09-01
+"ITM2B-related amyloidosis","1187126002",37162253,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-11-30
+"Paralytic stroke","116288000",4023571,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ruptured aneurysm of anterior cerebral artery","277315000",4079430,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Carotid sinus syncope","51723007",436392,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bilateral vertebral artery dissection","15710641000119100",37108912,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Cerebrovascular accident due to embolism of right vertebral artery","806161651000119106",618677,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Hereditary cerebral amyloid angiopathy, Dutch type","56453003",4208824,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Aneurysm of left common carotid artery","15648481000119107",35615017,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Occlusion of right vertebral artery","292621000119100",42535456,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Cerebrovascular accident due to occlusion of bilateral posterior communicating arteries","16644981000119109",1245872,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Carotid atherosclerosis","300920004",4102124,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Anterior choroidal artery occlusion with infarction","436791000124101",765664,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-09-01
+"Ischemic stroke of basal ganglia","7530001000004100",3169251,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Hemiplegia of nondominant side as sequela of embolic cerebrovascular accident","690271000119104",42535704,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Carotid territory transient ischemic attack","230716006",4043734,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Stenosis of precerebral artery","1055001",374371,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant middle cerebral artery syndrome","1231168008",37164462,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-06-30
+"Ophthalmic artery occlusion","1231188007",37164476,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-07-31
+"Stenosis of cerebral artery","838275008",3654597,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Carotid artery obstruction","69798007",4288310,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Transient ischemic attack co-occurrent with subarachnoid hemorrhage","1208871009",37163288,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-03-31
+"Bilateral occlusion of pontine arteries","788455001",37312367,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Monoplegia of left dominant upper limb due to and following cerebrovascular accident","291081000119100",762093,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Periventricular hemorrhagic venous infarct","384993003",4298750,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-01-31
+"Paralytic syndrome as late effect of stroke","425882004",372654,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Rupture of superficial cerebral vein","275363001",4173794,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular accident due to occlusion of left vertebral artery","292691000119103",42535461,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Injury of internal carotid artery","80820004",439190,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Agenesis of internal carotid artery","722004001",36716125,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Occlusion of left pontine artery","735115007",42536338,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Cognitive deficit due to and following cerebrovascular disease","290621000119101",42539256,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Cerebrovascular accident due to occlusion of right pontine artery","16024031000119100",42535147,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Monoplegia of left nondominant lower limb due to and following cerebrovascular accident","290901000119101",762090,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Occlusion of right middle cerebral artery","329481000119106",42539276,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Lymphedema and cerebral arteriovenous anomaly syndrome","721979005",36716114,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"CNS infarction due to occlusion or vertebral artery","8320001000004109",3184799,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Multiple and bilateral precerebral artery stenosis without infarction","430861000124102",765775,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Asymptomatic occlusion of middle cerebral artery","703208005",45766111,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Pontine autosomal dominant microangiopathy with leukoencephalopathy","1173997008",37161067,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Stenosis of right vertebral artery","734327009",42539411,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Cerebral ischemic stroke due to stenosis of extracranial large artery","724994008",37110679,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Cerebral ischemic stroke due to dissection of artery","788880006",37312017,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Fatigue due to and following cerebrovascular accident","16469991000119101",37169606,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Cerebrovascular accident due to stenosis of bilateral vertebral arteries","16661931000119102",37309657,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Bilateral atherosclerosis of carotid arteries","284861000119104",37109252,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Disorder of intracranial venous sinus","128218002",4027540,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Perinatal rupture of superficial cerebral vein","276594006",4171108,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Asymptomatic stenosis of intracranial artery","724427002",37119077,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Monoplegia of right nondominant arm as late effect of stroke","291111000119105",42539180,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Dissection of left vertebral artery","15710721000119104",37108913,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Transient ischemic attack due to embolism","710575003",46272244,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Thrombophlebitis of central nervous system venous sinuses","192769002",4100223,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombosis of right anterior cerebral artery","1269240007",37167966,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Aneurysm of left vertebral artery","16662371000119109",37209564,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Endophlebitis of superior sagittal sinus","75138007",4327350,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Intracranial venous septic embolism","307362003",4139561,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occlusion of left posterior communicating artery","1153608008",607565,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Dissecting aneurysm of cerebral artery","429221000124104",765899,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Isolation of left common carotid artery","445109004",40482076,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-07-31
+"Memory deficit due to and following cerebrovascular disease","16703551000119107",37309663,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Cerebral amyloid angiopathy","230724001",4045749,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombophlebitis of straight sinus","5481000124104",764708,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-03-01
+"Cavernous sinus syndrome","35386004",4146840,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular accident of basal ganglia","595899961000119100",602590,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Thrombosis of cerebral venous sinus due to and following surgical procedure","1078223005",602658,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Phlebitis of superior sagittal sinus","4262001",4174848,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Berry aneurysm","277196008",4175205,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Asymptomatic stenosis of extracranial artery","724428007",37110240,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Ruptured aneurysm of posterior inferior cerebellar artery","277325005",4082162,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Apraxia as late effect of cerebrovascular disease","145741000119101",43530679,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Multi-infarct dementia due to atherosclerosis","106021000119105",37395562,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Chronic cerebral ischemia","111298007",4006976,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ruptured aneurysm of posterior communicating artery","277322008",4079434,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"HTRA1-related autosomal dominant cerebral small vessel disease","1186724002",37162098,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-11-30
+"Thrombosis of cerebral veins","95455008",4319329,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Major laceration of vertebral artery","722643003",36717575,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Moyamoya disease with early onset achalasia","718551002",36713633,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Congenital duplication of anterior communicating artery","16528221000119104",609082,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Right carotid artery stenosis","285201000119100",43021859,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Spontaneous rupture of right posterior communicating artery","734397002",42535880,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Congenital aneurysm of precerebral artery","783630000",37204745,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Multiple AND bilateral precerebral artery stenosis","73192008",381036,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Carotid artery thrombosis","86003009",4311124,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Aneurysm of intracranial artery","1293173007",1244908,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-11-01
+"Hemangioma of intracranial structure","93468003",441246,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebral venous sinus thrombosis in pregnancy","1156027008",607826,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Cerebrovascular accident due to occlusion of bilateral vertebral arteries","898941951000119108",619802,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Neonatal stroke","371121002",4159152,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31
+"Cerebrovascular accident due to occlusion of left posterior communicating artery","117776611000119102",603206,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Ruptured cerebral arteriovenous malformation","277299009",4079424,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Spontaneous hemorrhage of subarachnoid space from left posterior communicating artery","291411000119104",42535422,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Cerebrovascular accident due to occlusion of bilateral cerebellar arteries","346674811000119104",609301,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Mechanical complication of carotid artery bypass","213044006",4020435,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Left cerebellar artery thrombosis with stroke","16002191000119102",761791,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Basilar artery syndrome","64009001",374055,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hemiplegia of nondominant side as sequela of ischemic cerebrovascular accident","672441000119103",42535676,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Spontaneous caroticocavernous sinus fistula","128171000119104",43530636,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Cerebral secondary systemic amyloid angiopathy","1187538003",37162370,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-01-31
+"Thrombosis of posterior cerebral artery","5581000124100",764722,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-03-01
+"Occlusion of anterior choroidal artery","870566003",3655964,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Occlusion of left anterior choroidal artery","16023751000119106",37169491,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Neonatal thrombosis of cerebral venous sinus","722930000",36717594,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Aneurysm of extracranial portion of right internal carotid artery","15648281000119108",35615014,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Fabry's disease","16652001",4042934,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular accident due to thrombosis of left cerebellar artery","957319791000119104",619944,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Cerebral vein occlusion","62702001",4269085,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Spasticity as sequela of stroke","108691000119102",43531610,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Monoplegia of nondominant lower limb due to and following ischemic cerebrovascular accident","672371000119103",764813,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Cerebral venous thrombosis in pregnancy","200259003",4062269,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occlusion of right cerebellar artery","735132006",42539514,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Puerperal cerebrovascular disorder with postnatal complication","200333003",313833,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebral infarct complicating carotid stenosis","8300001000004103",3184775,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Hemiplegia of nondominant side due to and following hemorrhagic cerebrovascular accident","672451000119101",764815,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Right carotid artery occlusion","285171000119104",43020497,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Dissection of vertebral artery","230730001",432346,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Aneurysm of internal carotid-posterior communicating artery zone","783423004",37204671,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Occlusive embolus of basilar artery","455811000124105",764498,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Bilateral embolism of anterior cerebral arteries","1153634000",607587,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Cerebrovascular accident due to thrombosis of anterior cerebral artery","1269237007",37167963,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Dysarthria as late effects of cerebrovascular disease","133981000119106",43530687,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Venous hemangioma of brain","428089008",4179824,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-01-31
+"Paralytic syndrome of both lower limbs as sequela of stroke","102831000119104",43530611,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Subarachnoid hemorrhage from vertebral artery","195160000",4111708,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular accident due to thrombosis of left anterior cerebral artery","195772021000119105",37170052,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Cholesterol atheroembolism of cerebrum","1204128009",37163001,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Injury of common carotid artery","19474002",436277,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombosis of multiple cerebral veins","871637001",3656111,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Minor laceration of carotid artery","721411005",36715675,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Ruptured internal carotid bifurcation aneurysm","277330009",4079120,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Asymptomatic stenosis of posterior cerebral artery","1204148002",37163017,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Congenital aneurysm of anterior communicating artery","590005",4243358,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Speech and language deficit as sequela of embolic cerebrovascular accident","690331000119109",42535705,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Weakness of left facial muscle as sequela of cerebrovascular accident","12242711000119109",42534983,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Asymptomatic occlusion of basilar artery","703206009",45766109,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Aphasia as late effect of cerebrovascular accident","442617003",40484101,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Sequela of cardioembolic stroke","33301000119105",43530736,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Congenital malposition of carotid artery","93312006",4247465,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebral infarction due to stenosis of carotid artery","99451000119105",43531607,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Progressive intracranial arterial occlusion","89142007",4230479,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dissection of right vertebral artery","15710681000119105",37117075,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Vertebral artery stenosis without infarction","435281000124100",765609,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-09-01
+"Juvenile myopathy, encephalopathy, lactic acidosis, stroke","39925003",4219010,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dissection of basilar artery","737160009",42537643,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Cerebrovascular disorder due to paradoxical embolus","472746006",43021930,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Monoplegia of arm as late effect of ischemic stroke","674161000119102",42535686,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Multiple and bilateral precerebral artery stenosis with infarction","430851000124104",762708,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Cerebral venous thrombosis of sigmoid sinus","230721009",4048786,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bilateral occlusion of middle cerebral arteries","329501000119102",601068,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Dissecting aneurysm of middle cerebral artery","429231000124101",762583,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Cerebrovascular accident due to occlusion of right posterior cerebral artery by embolus","329421000119107",42535505,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Urinary incontinence due to and following cerebrovascular accident","16470101000119107",37169608,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Abnormality of basilar artery summit","13650001000004102",3185619,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Septic thrombophlebitis of lateral sinus","302881009",4121335,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Monoplegia of upper limb due to and following embolic cerebrovascular accident","690261000119105",764852,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Aneurysm of external carotid artery","61091005",4246316,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Sporadic cerebral amyloid angiopathy","230725000",4045750,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Vertebral artery thrombosis","64775002",4273526,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Speech and language deficit as sequela of hemorrhagic cerebrovascular accident","674391000119106",42535689,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Monoplegia of nondominant lower limb as a late effect of cerebrovascular accident","441894009",40480946,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Dissecting aneurysm of anterior cerebral artery","429251000124108",762585,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Progressing stroke","57981008",4238315,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Phlebitis of intracranial venous sinus","18058007",4110676,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ruptured internal carotid-anterior communicating artery zone aneurysm","277328007",4079021,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Vertebral artery occlusion","195182007",439296,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hemiparesis as late effect of cerebrovascular disease","140281000119108",44782427,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Syphilitic cerebral arteritis","230735006",4048790,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congenital anomaly of precerebral vessel","936271000000100",45771351,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-10-01
+"Cerebrovascular disease due to late-delayed irradiation of brain","1259552002",37166412,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Cerebrovascular accident due to thrombosis of bilateral vertebral arteries","578968971000119100",37173188,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Pediatric arterial ischemic stroke","1197363004",37162743,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Weakness of extremities as sequela of stroke","92341000119107",43531595,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Thrombophlebitis of superior anastomotic vein","436591000124109",763149,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-09-01
+"Vertebral artery stenosis","90520006",380423,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Non-traumatic hemorrhage of subarachnoid space from right middle cerebral artery","291471000119107",762096,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Late effects complicating CVA","5590001000004107",3180159,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Perinatal arterial ischemic stroke of fetus and/or neonate","722929005",36716757,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Impending cerebral ischemia","195205001",4108359,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Speech and language deficit as sequela of ischemic cerebrovascular accident","674401000119108",42535690,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Cerebrospinal angiopathy","8269002",4219904,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Subarachnoid hemorrhage from carotid siphon and bifurcation","195155004",4108952,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive cerebrovascular disease","409601000004102",3174555,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2019-08-15
+"Cerebral arteritis in systemic vasculitis","230731002",4048789,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rupture of syphilitic cerebral aneurysm","186893003",380943,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Weber-Gubler syndrome","24654003",4086178,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Moyamoya angiopathy, short stature, facial dysmorphism, hypergonadotropic hypogonadism syndrome","724097003",37110064,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Occlusion of distal basilar artery","870544005",3655954,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Cerebral venous thrombosis in puerperium","200260008",4066234,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Obstruction of precerebral artery","28790007",4102928,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombophlebitis lateral venous sinus","192772009",4100225,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Septic thrombophlebitis of cavernous sinus","302879007",4116206,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hemiplegia of dominant side as late effect of cerebrovascular disease","442676003",40484522,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Cerebrovascular accident due to occlusion of right cerebellar artery by embolus","329451000119104",42535507,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Cerebrovascular accident due to right vertebral artery occlusion","292681000119101",42535460,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Urinary incontinence due to and following embolic cerebrovascular accident","16470211000119100",37169609,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Dural carotid cavernous fistula","423462008",4311006,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-01-31
+"Cognitive deficit complicating stroke","5400001000004102",3179559,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Psychomotor retardation due to and following cerebrovascular accident with intracranial hemorrhage","16702561000119104",37169687,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Stenosis of middle cerebral artery","21290001000004104",765404,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Sneddon syndrome","716745004",37396805,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Occlusion and stenosis of posterior cerebral artery with infarction","433951000124102",762936,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-03-01
+"Embolism of right vertebral artery","1155698001",607620,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Ataxia as sequela of embolic cerebrovascular accident","690201000119109",42535703,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Thrombophlebitis of basal vein of Rosenthal","5531000124101",764716,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-03-01
+"Recurrent transient cerebral ischemic attack","444172003",40485430,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-01-31
+"Cerebrovascular accident due to embolism of left anterior cerebral artery","251770561000119107",609263,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Cerebrovascular disease","62914000",381591,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Paralytic syndrome as late effect of thalamic stroke","427432001",4146293,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Weakness of right facial muscle as sequela of cerebrovascular accident","12242751000119105",42539260,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Cerebrovascular accident due to thrombus of basilar artery","329641000119104",42535511,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Posterior cerebral artery syndrome","195211003",4110195,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular accident due to thrombosis of right anterior cerebral artery","828066161000119106",37174313,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Bilateral stenosis of carotid arteries","787044009",37204002,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Claude's syndrome","87555007",4337830,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Embolus of left middle cerebral artery","734964005",42539472,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Embolus of right cerebellar artery","734960001",42536241,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Asymptomatic carotid artery stenosis","21000119103",761930,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Fibromuscular hyperplasia of right carotid artery","16001711000119101",765282,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Stenosis of cavernous portion of right internal carotid artery","12720001000004100",760985,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Major laceration of carotid artery","722642008",36716590,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Fluency disorder as sequela of cerebrovascular accident","290791000119105",42535415,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Middle meningeal hemorrhage following injury","30400005",4147995,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Embolism of torcular Herophili","12853006",4134421,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Millard-Gubler syndrome","276221006",4077819,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ataxia as sequela of cerebrovascular disease","29941000119105",43531622,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Hemiparesis as late effect of cerebrovascular accident","441991000",40481389,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Cerebellar artery occlusion","95458005",4317291,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular accident due to thrombus of left carotid artery","330791000119108",42539166,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Phlebitis of torcular Herophili","60706008",4263703,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Middle cerebral artery occlusion","434951000124104",763014,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-09-01
+"Endophlebitis of torcular Herophili","80901002",4217146,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Precerebral artery occlusion w/infarct","1940001000004109",3188894,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Occlusion of left cerebellar artery","735131004",42536349,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Post-radiotherapy cerebral vasculopathy","434191000124107",762954,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-03-01
+"Occlusion of branch of basilar artery","870579007",3655974,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Occlusion of right posterior cerebral artery by embolus","762651004",42538828,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Left carotid artery stenosis","285191000119103",43020498,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Paralytic syndrome on one side of the body as late effect of cerebrovascular accident","361000119103",43530742,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Intracranial septic thrombophlebitis","302878004",4120316,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"CVA with associated dominant monoplegia of leg","5510001000004106",3175600,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Occlusive embolus of right carotid artery","455831000124104",764500,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Small vessel cerebrovascular disease","443929000",40484120,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-01-31
+"Right middle cerebral artery stroke","28080001000004101",3174271,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Thrombosis of superior longitudinal sinus","192760003",4102203,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebral embolism","75543006",375557,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Psychomotor retardation due to and following embolic cerebrovascular accident","16702671000119109",37169688,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Embolism of superior sagittal sinus","40450001",4224614,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occlusion of anterior cerebral artery","1153543002",600670,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Left carotid artery occlusion","285161000119105",43020496,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Asymptomatic occlusion of anterior cerebral artery","703207000",45766110,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Ruptured berry aneurysm","195154000",4111707,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Left carotid artery injury","11842931000119105",608423,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Cerebrovascular accident of brainstem","652287331000119104",618640,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Leukoencephalopathy with calcifications and cysts","1186710001",37162086,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-11-30
+"Thrombosis of bilateral internal carotid arteries","15707921000119104",761412,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Aphasia due to and following embolic cerebrovascular accident","690321000119106",36685012,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Thromboembolus of precerebral artery","446712002",40489292,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-01-31
+"Left sided cerebral hemisphere cerebrovascular accident","195216008",4112022,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute cerebrovascular insufficiency","29322000",4164092,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular accident due to occlusion of left anterior choroidal artery","16023951000119109",37169493,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Nonpyogenic thrombosis of intracranial venous sinus","42970005",314667,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acquired left carotid cavernous fistula","15988391000119106",42535107,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Embolism of inferior sagittal sinus","56384000",4209442,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Embolism of right anterior cerebral artery","1153612002",607569,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy","390936003",4190891,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-01-31
+"Multiple and bilateral precerebral arterial occlusion with infarction","434881000124100",763009,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-09-01
+"Occlusion of right central retinal artery","336191000119105",37207895,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Residual cognitive deficit as late effect of cerebrovascular accident","442212003",40482301,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Asymptomatic stenosis of intracranial carotid artery","1204156004",37163024,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Bilateral carotid artery occlusion","426651005",4145355,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Occlusive embolus of left vertebral artery","455791000124106",764496,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Hemangioma of cerebellum","6090001000004108",3171605,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Multi-infarct dementia","56267009",379778,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Monoplegia of arm complicating stroke","5470001000004107",3180014,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Bilateral paralytic syndrome as late effect of stroke","106241000119108",759831,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-09-01
+"Occlusion and stenosis of middle cerebral artery","195232006",4112023,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Puerperal cerebrovascular disorder with antenatal complication","200332008",313272,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombosis of superior anastomotic vein","5591000124102",764723,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-03-01
+"Occlusion of superior cerebellar artery","454031000124106",764362,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Arteriovenous fistula of carotid artery and internal jugular vein","1258933008",37166011,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-11-30
+"Monoplegia of dominant lower limb as a late effect of cerebrovascular accident","425642008",197303,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Left cerebellar artery thrombosis","1156018007",607817,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Central retinal artery occlusion","38742007",437540,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Embolism of left carotid artery","1153630009",607583,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Neonatal ischemic stroke","1142056004",606048,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Ruptured aneurysm of right posterior communicating artery","734879002",42536192,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Monoplegia of right nondominant lower limb due to and following cerebrovascular accident","290921000119105",762091,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Basilar artery embolism with stroke","16002511000119104",761798,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Cerebrovascular accident due to thrombosis of left vertebral artery","759950981000119101",618672,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Aspergillus mycotic cerebral aneurysm","1163536005",37160845,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Systemic lupus erythematosus encephalitis","95644001",4318863,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular accident due to embolism of bilateral middle cerebral arteries","939885431000119109",619933,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Embolism of right carotid artery","1153631008",607584,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Congenital stenosis of carotid artery","93396008",4246955,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Transection of carotid artery","262942001",4134941,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"White matter disorder co-occurrent and due to cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy","724779000",37110515,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Cerebrovascular accident due to thrombus of right cerebellar artery","16002071000119104",761789,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Aneurysm of internal carotid bifurcation","783415001",37204663,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Right internal carotid artery aneurysm","20970001000004100",3182194,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Aphasia as late effect of cerebrovascular disease","441630004",40480002,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Congenital cerebral arteriovenous aneurysm","2495006",4091512,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombosis of cerebral medullary veins","432481000124106",762828,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Monoplegia of right dominant upper limb due to and following cerebrovascular accident","291101000119107",765462,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Weakness of facial muscle due to and following hemorrhagic cerebrovascular accident","674371000119105",37174009,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Endophlebitis of inferior sagittal sinus","61687004",4267862,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Intracranial artery occlusion with infarction","436781000124104",763168,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-09-01
+"Thrombosis of right carotid artery","734382000",42539417,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Cerebrovascular accident following heart procedure","12204031000119101",37163753,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-03-31
+"Ruptured aneurysm of middle cerebral artery","277316004",4079431,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Superior cerebellar artery embolism","429841000124105",765488,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Cryptogenic stroke","16891111000119104",603326,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Right carotid artery injury","11842891000119102",608422,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Cognitive deficit due to and following embolic cerebrovascular accident","690341000119100",42535706,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Dissection of cerebral artery","713081000",37016924,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Spontaneous hemorrhage of subarachnoid space from anterior communicating artery","16709811000119106",37309659,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Left cavernous carotid aneurysm","16390001000004106",3188439,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Cerebrovascular accident of thalamus","769023031000119104",604192,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Injury of external carotid artery","6715005",437427,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"ABri amyloidosis","783161005",37204495,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Cerebrovascular accident due to embolism of bilateral cerebellar arteries","58173271000119101",602613,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Dissection of multiple cerebral arteries","840437006",3654895,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Traumatic subarachnoid hemorrhage with loss of consciousness","329671000119106",37109288,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Superior cerebellar artery syndrome","444657001",40480273,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-07-31
+"Ischemic stroke","422504002",4310996,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-01-31
+"Spontaneous hemorrhage of subarachnoid space from right posterior communicating artery","291481000119105",42539183,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Dissection of intracranial carotid artery","840439009",3654897,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Cathepsin A-related arteriopathy, strokes, leukoencephalopathy","1197429000",37162757,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Endophlebitis of basilar sinus","55734000",4185701,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombosis of anterior cerebral artery","1269238002",37167964,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Internal carotid artery stenosis","233964008",4121624,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebral aneurysm due to dissection of cerebral artery","783707003",37204809,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Cerebrovascular accident due to thrombosis of bilateral cerebellar arteries","488408691000119104",37172241,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Occlusion and stenosis of posterior cerebral artery","195234007",4111717,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular disorder in the puerperium","6594005",316494,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy","703219008",45766122,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Ischemic stroke without coma","140921000119102",43530670,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Cerebral arteritis in giant cell arteritis","230732009",4045751,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Monoplegia of nondominant arm complicating stroke","5490001000004104",3182970,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Right vertebral artery injury","11844791000119100",608424,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Asymptomatic stenosis of anterior cerebral artery","1204162009",37163030,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-03-31
+"Aneurysm of intracranial portion of left internal carotid artery","15648241000119103",36712951,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Vertebral artery embolism","65084004",4274969,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Stroke in the puerperium","275434003",4168056,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bilateral vertebral artery occlusion","15978631000119109",42535098,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Thrombosis of basilar sinus","88922007",4228209,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Carotid artery aneurysm","233988005",4121629,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Behavioral disturbance due to multi-infarct dementia","293671000119109",37155661,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-04-30
+"Cerebrovascular accident due to thrombus of right vertebral artery","329621000119105",762344,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Vertebral artery obstruction","43658003",4185117,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular abnormality due to Takayasu disease","838309004",3654617,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Thrombophlebitis of cavernous sinus","192770001",4104695,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular accident due to occlusion of left posterior cerebral artery","16000351000119109",42539195,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"CVA (cerebrovascular accident) during surgery","716051003",37396293,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Amaurosis fugax of right eye","12237951000119105",36712813,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Apraxia as sequela of ischemic cerebrovascular accident","674361000119104",42535687,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Cerebrovascular accident due to left carotid artery stenosis","16026991000119107",37395576,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Cerebrovascular accident due to thrombus of right middle cerebral artery","16002031000119102",42535113,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Sequela of thrombotic stroke","91601000119109",43531592,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Dysphasia due to and following cerebrovascular accident","16260551000119106",42535232,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Multi-infarct dementia with delusions","25772007",443790,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Septic thrombophlebitis of great cerebral vein","230225001",4043901,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Fluency disorder due to and following ischemic cerebrovascular accident","672481000119108",764817,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Listerial cerebral arteritis","186317009",4088222,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular accident due to occlusion of left posterior cerebral artery by embolus","329431000119105",42535506,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Basilar artery thrombosis","88174006",4338227,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Asymptomatic stenosis of middle cerebral artery","1204147007",37163016,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Cerebrovascular accident due to occlusion of right anterior cerebral artery","655081461000119101",602615,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Dissection of posterior cerebral artery","840434004",3654892,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Congenital anomaly of cerebrovascular system","65587001",372721,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dysarthria due to and following embolic cerebrovascular accident","690311000119104",36685011,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Bregeat's syndrome","254775002",4116060,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"R.I.N.D. syndrome","36179005",4263370,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occlusion of right posterior cerebral artery","329561000119101",42539787,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Occlusive embolus of left carotid artery","455821000124102",764499,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Stenosis of intracranial vessel","27820001000004104",761994,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Cerebrovascular accident due to occlusion of left pontine artery","16023991000119104",42535146,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Intracranial thrombophlebitis","312586003",4194609,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Monoplegia of lower limb as late effect of cerebrovascular disease","441887006",40480938,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Aneurysm of internal carotid-anterior communicating artery zone","783422009",37204670,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Minor laceration of vertebral artery","721412003",36715676,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Bilateral embolism of vertebral arteries","1155699009",607621,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Cerebrovascular accident due to occlusion of bilateral carotid arteries","16644541000119106",37169663,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Stenosis of left cerebellar artery","762649003",42538826,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Embolus of right middle cerebral artery","734965006",42536243,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Silent micro-hemorrhage of brain","723857007",37109909,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Thrombophlebitis of inferior sagittal sinus","48248005",4167985,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Weakness of facial muscle as sequela of ischemic cerebrovascular accident","674381000119108",42535688,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"CVA with associated paralysis of dominant side","5540001000004100",3187113,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Hereditary neurocutaneous angiomata","403775003",4300451,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Occlusion of left cerebellar artery by embolus","762632005",42539161,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Aneurysm of internal carotid artery","24624008",4078016,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Paralysis of nondominant side complicating stroke","5550001000004102",3185422,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Cerebral venous thrombosis of cortical vein with infarction","433971000124107",762938,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-03-01
+"Late effects of stroke: dysphagia","5580001000004108",3177916,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Dissection of intracranial artery","840441005",3654899,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Left vertebral artery thrombosis with stroke","329631000119108",762345,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Thrombotic stroke","371040005",4159140,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31
+"Spontaneous hemorrhage of subarachnoid space from basilar artery","291351000119109",42535420,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Haemorrhagic stroke","1078001000000105",35609033,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-10-01
+"Cerebrovascular accident due to occlusion of left middle cerebral artery by embolus","329371000119101",42535504,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Cerebral ischemic stroke due to global hypoperfusion with watershed infarct","788882003",37312015,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Diffuse cerebrovascular disease","302909007",4121341,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occlusion of left central retinal artery","341801000119101",37207955,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Stenosis of right carotid artery","9950001000004101",3184417,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Thrombosis of precerebral artery","48601002",4171853,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Paralytic syndrome of all four limbs as sequela of stroke","103761000119107",43530612,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Brainstem stroke syndrome","195212005",4111710,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congenital absence of carotid artery","92962004",4245320,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus","329361000119107",42535503,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Thrombophlebitis of basilar sinus","8166000",4217471,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Postoperative thromboembolism of precerebral artery","698363002",44784293,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Secondary cerebrovascular disease","703163006",45773166,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Cerebrovascular accident due to thrombus of right carotid artery","329651000119102",42535512,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Aneurysm of anterior cerebral artery","783416000",37204664,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Congenital anomaly of carotid artery","92997002",4243901,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Monoplegia of leg dominant side as sequela of cerebrovascular disease","18751000119106",43530702,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Asymptomatic occlusion of extracranial vertebral artery","1204188007",37163054,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-03-31
+"Fibromuscular dysplasia of wall of carotid artery","783731008",37204826,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Cerebrovascular accident due to stenosis of bilateral carotid arteries","16661971000119104",37209562,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Cerebral arterial aneurysm","128608001",4029497,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Left vertebral artery embolism with stroke","16002391000119100",761795,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Chronic central post-stroke pain","277286006",4079008,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebellar artery thrombosis","95459002",4317292,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Vertebral artery occlusion without infarction","435271000124103",763035,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-09-01
+"Congenital intracranial vascular malformation","703221003",45773171,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Hereditary cerebral hemorrhage with amyloidosis","724357007",37119072,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Cerebrovascular accident due to thrombosis of right posterior cerebral artery","38595071000119104",609314,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Vertebral artery aneurysm","297176007",4180026,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ruptured aneurysm of intracranial artery","5471000124102",764707,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-03-01
+"Carotid artery stenosis","64586002",442615,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Internal carotid artery stenosis with infarction","434891000124102",765606,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-09-01
+"Endophlebitis of cavernous venous sinus","73390009",4250507,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Arteriosclerosis of carotid artery","431421000124103",762755,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Cerebrovascular accident due to occlusion of bilateral middle cerebral arteries","188174841000119103",609245,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Congenital aneurysm of cerebral artery","783629005",37204744,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Fatigue due to and following cerebrovascular accident with intracranial hemorrhage","16469821000119106",37170181,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Systemic to pulmonary collateral artery from left carotid artery","460312001",43021181,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Anterior circulation stroke of uncertain pathology","230714009",4045747,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebral ischemic stroke due to small artery occlusion","724424009",37110237,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Atheroma of cerebral arteries","111299004",4009154,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Aneurysm of intracranial portion of right internal carotid artery","15648201000119100",36712950,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Carotid artery insufficiency syndrome","76402003",4296331,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congenital dilatation of carotid artery","93054001",4244961,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Posterior circulation stroke of uncertain pathology","230715005",4045748,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebral artery occlusion","20059004",372924,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congenital stricture of cerebral artery","204501003",4002631,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Systemic to pulmonary collateral artery from right carotid artery","460307002",43021180,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Cerebral arteriovenous malformation","234142008",4121803,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Fatigue due to and following embolic cerebrovascular accident","16469881000119105",37169604,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Bilateral carotid artery dissection","15707961000119109",37108909,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Hereditary cerebral amyloid angiopathy, Icelandic type","45639009",4164289,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Monoplegia of dominant arm complicating stroke","5480001000004103",3184852,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Bilateral fibromuscular dysplasia of wall of carotid arteries","783733006",37204827,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Carotid sinus hypersensitivity","9631000119102",43531599,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Asymptomatic stenosis of extracranial carotid artery","1204158003",37163026,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Hemiplegia complicating stroke","5440001000004106",3184686,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Aneurysm of left internal carotid artery","15648401000119104",36712953,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Hemiplegia of dominant side due to and following embolic cerebrovascular accident","690281000119101",764853,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Pontine artery occlusion","408664007",4237180,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-07-31
+"Tuberculous cerebral arteritis","1177015003",37161117,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-10-31
+"Fibromuscular dysplasia of wall of intracranial artery","838308007",3654616,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Vertigo as sequela of ischemic cerebrovascular accident","674091000119108",42535684,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Monoplegia of left nondominant upper limb as sequela of cerebrovascular accident","291091000119102",42535417,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Monoplegia of dominant upper limb due to and following embolic cerebrovascular accident","690251000119108",764851,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Late effects of stroke: apraxia","5570001000004104",3168875,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Aneurysm of intracranial vein","1293174001",1244909,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-11-01
+"Nonatherosclerotic cerbrovascular accident","140251000119101",761061,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-09-01
+"Fibromuscular hyperplasia of left carotid artery","16001671000119100",761786,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Left anterior cerebral artery embolism with stroke","329401000119103",762340,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Amaurosis fugax of left eye","12237911000119109",36712812,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Non-traumatic hemorrhage of subarachnoid space from left vertebral artery","291421000119106",37170693,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Left vertebral artery injury","11844831000119106",608425,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Occlusion of left posterior cerebral artery by embolus","762652006",42538981,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Occlusion of right anterior choroidal artery","16023831000119107",37169492,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Completed stroke","25133001",4099974,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular accident due to thrombosis of left posterior cerebral artery","851365731000119106",618686,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Embolus of left cerebellar artery","734959006",42536240,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Monoplegia of arm as late effect of stroke","291121000119103",42535419,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Bilateral thrombosis of carotid arteries","1269243009",37167969,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Acquired right carotid cavernous fistula","15988351000119101",42535106,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Disorder of carotid artery","371160000",4153380,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31
+"Seizure disorder as sequela of stroke","137991000119103",43530665,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Dissection of left carotid artery","15708001000119106",37108910,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Non-traumatic hemorrhage of subarachnoid space from vertebral artery","1269555002",37168086,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Cerebrofacial arteriovenous metameric syndrome","703266007",45766160,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Infective occlusion of cerebral artery","1204202004",37163067,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-03-31
+"Hereditary cerebrovascular amyloidosis","237867001",4029597,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Speech and language deficit as late effect of cerebrovascular accident","441960006",40481354,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Cerebral venous thrombosis of great cerebral vein","230723007",4048787,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Aneurysm of posterior cerebral artery","783419007",37204667,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Occlusive thrombus of left posterior cerebral artery","455931000124109",764506,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Thrombosis of left anterior cerebral artery","1269239005",37167965,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Bilateral thrombosis of posterior cerebral arteries","1269245002",37167971,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Neonatal noninfectious cerebral venous sinus thrombosis","702374000",45765438,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Acquired arteriovenous fistula of dura of cerebrum","16476641000119100",37209531,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Multiple aneurysms of cerebral artery","783413008",37204661,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Thrombosis of left middle cerebral artery","734383005",42535874,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Cerebral venous thrombosis of straight sinus","230720005",4043735,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Anomalous common origin of brachiocephalic artery and left common carotid artery","460890003",43021429,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Right sided cerebral hemisphere cerebrovascular accident","195217004",4110196,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombosis of torcular Herophili","18322005",4079905,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebrovascular accident due to right carotid artery occlusion","16023911000119108",37395574,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Arteriovenous malformation of precerebral vessels","204493007",4005616,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Aneurysm of middle cerebral artery","783420001",37204668,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Amaurosis fugax","88032003",4338523,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"CVA - cerebrovascular accident due to cerebral artery occlusion","230691006",4045734,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Embolus of right posterior cerebral artery","734963004",42539014,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Cavernous hemangioma of brain","444869007",40481147,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-07-31
+"Weakness of facial muscle as sequela of embolic cerebrovascular accident","690171000119105",42535702,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Cerebral ischemic stroke due to hypercoagulable state","788883008",37312014,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Intermittent cerebral ischemia","195206000",4112021,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic cerebrovascular accident","434141000124103",765568,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-03-01
+"Cerebrovascular accident due to thrombus of left middle cerebral artery","16002111000119106",42535114,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Weakness of right facial muscle as sequela of cerebrovascular disease","15982271000119104",42539254,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Carotid artery rupture","234006003",4119617,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebral ischemia complicating stroke","8310001000004101",3188677,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Subcortical leukoencephalopathy","90099008",4234089,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cerebellar stroke syndrome","195213000",4111711,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bilateral occlusion of central retinal arteries","347011000119102",37310623,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Embolism of cavernous venous sinus","23819000",4029415,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Right posterior cerebral artery thrombosis","1156017002",607816,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Hemiplegia as late effect of cerebrovascular accident","442733008",40484910,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Stenosis of left vertebral artery","734326000",42535836,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Aneurysm of right internal carotid artery","15648361000119108",36712952,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Cerebrovascular accident due to stenosis of left vertebral artery","292671000119104",42535459,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Occlusion of internal carotid artery","433821000124102",762926,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-03-01
+"Dissection of external carotid artery","720809000",37117127,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Aneurysm of extracranial portion of left internal carotid artery","15648321000119103",35615015,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Visual disturbance as sequela of cerebrovascular disease","87551000119101",43531583,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Occlusion and stenosis of anterior cerebral artery","195233001",4111716,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Septic thrombophlebitis of straight sinus","230222003",4041679,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Vertebral artery atherosclerosis","461431000124108",37208181,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-03-01
+"Monoplegia of nondominant leg complicating stroke","5520001000004103",3190458,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Transient cerebral ischemia","266257000",373503,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Carotid artery occlusion without infarction","430721000124101",762700,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Cerebrovascular accident due to occlusion of bilateral anterior cerebral arteries","720261501000119107",618658,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Retinocochleocerebral vasculopathy","702575003",45765600,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Cerebral amyloid angiopathy associated with systemic amyloidosis","703313007",45766201,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Monoplegia of lower limb due to and following ischemic cerebrovascular accident","674131000119105",764820,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Mixed dementia","79341000119107",43021816,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Cerebrovascular accident due to embolism of left carotid artery","859422751000119101",618688,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Fluency disorder as sequela of cerebrovascular disease","133991000119109",43530688,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Anterior cerebral artery embolism","429811000124106",762627,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Recurrent artery of Huebner occlusion with infarction","437911000124106",763267,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-09-01
+"Bilateral stenosis of vertebral arteries","788454002",37312368,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Neurogenic urinary bladder due to and following cerebrovascular accident","433183000",4198778,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-07-31
+"Aphasia due to and following ischemic cerebrovascular accident","672541000119102",36685003,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Weakness of left facial muscle as sequela of cerebrovascular disease","15982311000119104",42535100,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Occlusion of right anterior cerebral artery","1153544008",607524,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Anterior spinal and vertebral artery compression syndromes","195373009",4110336,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Phlebitis of lateral venous sinus","88755007",4229432,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Visual field defect due to and following cerebrovascular accident","142031000119104",36684470,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Right anterior cerebral artery embolism with stroke","329391000119100",762339,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Asymptomatic occlusion of intracranial carotid artery","703184001",45771319,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Stenosis of right cerebellar artery","762648006",42538980,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Occlusion of left middle cerebral artery by embolus","762630002",42538819,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Rupture of congenital aneurysm of cerebral artery","330101000119101",37171211,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Memory deficit due to and following ischemic cerebrovascular accident","16703761000119102",37309661,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Transient cerebral ischemia due to atrial fibrillation","426814001",4139517,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Arteriovenous fistula of great cerebral vein of Galen","460880006",43021427,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Thrombosis of left vertebral artery","15978471000119109",42535097,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Thrombosis of anterior inferior cerebellar artery","5461000124109",764705,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-03-01
+"Aneurysm of common carotid artery","10878002",4031930,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Carotid sinus syndrome with bradycardia","15500001000004108",3175723,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Monoplegia of right dominant lower limb due to and following cerebrovascular accident","290911000119103",765461,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Multi-infarct dementia with delirium","10349009",444091,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hemiplegia as late effect of cerebrovascular disease","442024001",40481762,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Thrombosis of left carotid artery","734374000",42539416,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Ruptured aneurysm of posterior cerebral artery","277319006",4079432,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Atherosclerosis of right carotid artery","284881000119108",43020493,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Aneurysm of left carotid artery","15648561000119102",36712954,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Dissection of carotid artery","720626009",37109512,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Ischemic stroke without residual deficits","725132001",37110765,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Aneurysm of extracranial portion of internal carotid artery","284811000119102",43020490,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Embolism superior longitudinal sinus","192755002",4104693,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombosis of posterior inferior cerebellar artery","5601000124105",764725,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-03-01
+"Alteration of sensation as late effect of stroke","134771000119108",43531617,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Embolism of middle cerebral artery","699706000",44782551,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Thrombosis of cavernous venous sinus","89980009",4234264,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Phlebitis of inferior sagittal sinus","32112006",4137761,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Phlebitis of basilar sinus","15705007",4049750,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occlusion and stenosis of middle cerebral artery without infarction","430781000124102",765495,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Thrombophlebitis of superior longitudinal venous sinus","192771002",4100224,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Aneurysm of right common carotid artery","15648441000119102",35615016,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Bilateral embolism of cerebellar arteries","1155689004",607612,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Basilar artery occlusion without infarction","430731000124103",762701,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Monoplegia of lower limb due to and following embolic cerebrovascular accident","690231000119102",764849,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Left carotid artery laceration","29330001000004107",3171752,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Dissection of anterior cerebral artery","840422007",3654885,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Cerebrovascular accident due to occlusion of bilateral posterior cerebral arteries","86553761000119103",618689,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31

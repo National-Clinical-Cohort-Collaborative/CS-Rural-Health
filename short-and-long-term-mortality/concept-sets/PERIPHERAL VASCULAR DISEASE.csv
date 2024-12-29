@@ -1,0 +1,204 @@
+"Concept Name","Concept Code","Concept Id","Domain Id","Vocabulary Id","Concept Class Id","Concept Category","Invalid Reason","Valid End Date","Valid Start Date"
+"Bilateral renal artery stenosis","425414000",4139534,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"External iliac artery stenosis","233968006",4121626,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congenital stenosis of subclavian artery","93388003",4246643,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bilateral lower limb atherosclerosis of non-biological bypass graft","16018911000119107",35615116,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Atherosclerosis of autologous bypass graft of left lower limb","15710521000119107",761432,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-03-01
+"Left axillary artery thrombus","26010001000004105",3176693,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Type 2 diabetes mellitus with peripheral angiopathy","314902007",4200875,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Peripheral circulatory disorder due to type 1 diabetes mellitus","421365002",318712,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2006-07-31
+"Subclavian artery stenosis","300921000",4114011,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombosis of left popliteal artery","16012911000119105",35615095,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Stenosis of right subclavian artery","15967341000119100",36712987,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Bilateral thrombosis of common femoral arteries","16013071000119105",609007,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Claudication of left upper limb co-occurrent and due to atherosclerosis","16014231000119100",761829,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Thrombosis of arteries of the extremities","33591000",4141106,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"External iliac artery occlusion","312826009",4194886,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ischemia of right lower extremity","15712521000119108",761464,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Acute occlusion of artery of lower limb","735574006",42536636,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Pain of left upper limb co-occurrent and due to ischemia","16002551000119103",35615071,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Thrombosis of right iliac artery","15972501000119101",35615062,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Thrombosis of ulnar artery","427184002",4140616,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Common iliac artery thrombosis","297150007",4178399,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Non-atherosclerotic chronic arterial occlusive disease","724441006",37110251,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Occlusion of renal artery bypass graft","306852006",4143588,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Peripheral vascular disease","400047006",321052,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Atherosclerosis of bypass graft of left lower limb","15710441000119102",765080,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-03-01
+"Thrombosis of right ulnar artery","16007791000119104",765284,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Thrombosis of arteries of lower extremity","90958004",4236905,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pain at rest of left lower limb due to atherosclerosis","12237111000119107",36712805,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Peripheral arterial occlusive disease","399957001",317309,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Ischemia of bilateral lower limbs","15712561000119103",761465,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-09-01
+"Ischemia of left upper limb","15712681000119106",761467,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Stenosis of lower limb artery","405556007",4226026,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-01-31
+"Atherosclerosis of arteries of left lower limb","12237031000119103",760870,"Condition","SNOMED","Disorder",NA,"U",2023-03-01,2015-09-01
+"Ischemia of feet","300917007",4116977,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occlusion of distal artery of left upper limb","16005471000119100",35615076,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Atherosclerosis of artery of lower limb","724440007",37110250,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Occlusion of right popliteal artery","16014711000119101",35615106,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Pain at rest of right lower limb due to atherosclerosis","12237231000119107",36712807,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Atherosclerosis of bypass graft of bilateral lower limbs","15710601000119102",761434,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-03-01
+"Stenosis of artery of left lower limb","16011391000119108",35615086,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Thrombosis of artery of right lower extremity","16012791000119103",35615093,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Atherosclerosis of arteries of the extremities","51274000",315558,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Claudication of bilateral upper limbs co-occurrent and due to atherosclerosis","16013351000119104",761825,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Occlusion of anterior tibial artery","842721000000102",44808832,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-10-01
+"Acute occlusion of artery of lower limb due to thrombosis","723872006",37109923,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Iliac artery stenosis","312496009",4208944,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ischemic finger","307409006",4139579,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occlusion of right femoral artery","16014871000119101",36713013,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Atherosclerosis of nonautologous biological bypass graft of lower limb","709585003",46271460,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Peripheral angiopathy due to diabetes mellitus","127014009",4131908,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Stenosis of right iliac artery","28810001000004102",762053,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Occlusion of distal artery of right upper limb","16005391000119108",35615075,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Peripheral ischemia","233958001",4124836,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Atherosclerosis of bypass graft of bilateral lower limbs with intermittent claudication","16014071000119107",761828,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2017-09-01
+"Ischemic toe","307408003",4139578,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombosis of mesenteric artery","243410003",4348039,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Stenosis of artery of right lower limb","16011431000119103",35615087,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Thrombosis of artery of right upper extremity","16007751000119109",35615080,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Profunda femoris artery thrombosis","297153009",4179909,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Upper limb ischemia","233959009",4124837,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bilateral atherosclerosis of arteries of lower limbs","12236911000119107",760869,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Atherosclerosis of bypass graft of lower limb","709584004",46271459,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Atherosclerosis of artery of left upper limb","15648691000119108",35615019,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Occlusion of dorsalis pedis artery","842141000000108",44808747,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-10-01
+"Pain at rest of right lower limb co-occurrent and due to atherosclerosis of bypass graft","16066731000119102",761858,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2017-09-01
+"Exacerbation of peripheral arterial occlusive disease","OMOP5166086",1340431,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Thrombosis of left common femoral artery","16013151000119102",35615100,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Renal artery stenosis of unknown cause","282664001",4151848,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bilateral subclavian artery stenosis","15967301000119102",35615054,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Renal artery stenosis","302233006",4118795,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Popliteal artery thrombosis","87239004",4337367,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Transplant renal artery stenosis","713825007",37017533,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Thrombosis of arteries of upper extremity","31529002",4136335,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Stenosis of artery of bilateral lower limbs","16011351000119103",761816,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Thrombosis of right femoral artery","16013031000119107",35615098,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Occlusion of lower limb artery","405557003",434961,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-01-31
+"Ischemic hand","307407008",4139577,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Brachial artery thrombosis","297146000",4179907,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Peripheral arterial insufficiency","153911000119104",43021846,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Stenosis of right renal artery","15710201000119100",765079,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Superior mesenteric artery thrombosis","197000003",4025854,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acquired renal artery stenosis","289923007",4127997,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Right upper limb pain co-occurrent and due to ischemia","16002711000119105",35615073,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Atherosclerosis of nonautologous biological bypass graft of limb","442701004",40484551,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Atherosclerosis of superior mesenteric artery","16899261000119106",37209668,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Atherosclerosis of autologous vein bypass graft of limb","442693003",40484541,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Peripheral vascular disease associated with another disorder","34881000119105",44782775,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Chronic occlusion of artery of extremity","698816006",44782819,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Arteriosclerosis of artery of upper extremity","789704001",37312133,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Critical ischemia of foot","312822006",4208071,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute occlusion of artery of upper limb","735572005",42536634,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Iliac artery occlusion","314187004",4199183,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"External iliac artery thrombosis","297151006",4178400,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Femoral artery thrombosis","52156004",4178609,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombosis of artery of bilateral upper limbs","16007711000119108",761812,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Stenosis of left subclavian artery","18000001000004101",42535335,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Peripheral arterial disease","840580004",3654996,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Thrombosis of artery of left upper extremity","16007871000119108",35615081,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Digital arterial thrombosis","300919005",4115229,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occlusive mesenteric ischemia","235842000",4341646,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Atherosclerosis of renal artery","45281005",195834,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occlusion of left femoral artery","16014671000119100",36713012,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Peripheral vascular disorder due to diabetes mellitus","421895002",321822,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2006-07-31
+"Limb ischemia","21631000119105",43020443,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Right lower limb atherosclerosis of nonbiological bypass graft","16019391000119107",609014,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Atherosclerosis of bypass graft of limb","442439008",40483538,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Atherosclerosis of bilateral iliac arteries","16018831000119106",36713014,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Left lower limb atherosclerosis of nonbiological bypass graft","16019311000119103",609012,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Acute occlusion of artery of upper limb caused by thrombus","733127007",37116422,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Popliteal artery occlusion","314189001",4193057,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bilateral lower limb pain at rest due to atherosclerosis","12236991000119103",35611566,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Occlusion of left popliteal artery","16014791000119105",35615107,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Occlusion of posterior tibial artery","842741000000109",44808833,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-10-01
+"Ischemic gangrene","402861007",4291464,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Atherosclerosis of right renal artery","15648731000119101",35615020,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Superficial femoral artery occlusion","312827000",4195972,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Atherosclerosis of bypass graft of right lower limb","15710401000119104",761430,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-03-01
+"Atherosclerosis of bypass graft of left lower limb with intermittent claudication","16014031000119109",761827,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2017-09-01
+"Crural artery thrombosis","297162006",4182191,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Mesenteric artery stenosis","405545007",4231816,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-01-31
+"Ischemia of right upper limb","15712641000119101",35615036,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Thrombosis of renal artery","95579008",4316367,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Venous varix of jugular vein","911751381000004104",3176677,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2018-01-25
+"Occlusion of aortoiliac artery","10749961000119104",36717256,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Common iliac artery occlusion","312825008",4195971,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Femoral popliteal occlusion","302300004",4117933,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occlusion of superior mesenteric artery","427592000",4141975,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Atherosclerosis of autologous bypass graft of bilateral lower limbs","15710561000119102",761433,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-03-01
+"Atherosclerosis of left iliac artery","16019471000119104",42535143,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Subclavian artery thrombosis","297154003",4175570,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occlusion of artery of upper extremity","431706008",4329498,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-07-31
+"Occlusion of brachial artery","842061000000108",44808745,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-10-01
+"Arteriosclerosis of artery of extremity","443971004",40484167,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-01-31
+"Thrombosis of artery of left lower extremity","16012831000119109",35615094,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Internal iliac artery thrombosis","297152004",4179908,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bilateral atherosclerosis of lower limbs with gangrene","15649941000119102",35615028,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Common femoral artery stenosis","312829002",4208072,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Lower limb ischemia","233961000",4119612,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Atherosclerosis of aortoiliac bypass graft","8001000119106",43022064,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Upper limb artery stenosis","405588004",4231826,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-01-31
+"Peripheral angiopathy due to type 1 diabetes mellitus","31211000119101",36713094,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Congenital stenosis of left renal artery","15966381000119107",761741,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Atherosclerotic renal artery stenosis","302910002",4119141,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gangrene of right lower limb co-occurrent and due to atherosclerosis of bypass graft","16065251000119109",761854,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Atherosclerosis of bypass graft of left upper limb","16019351000119102",609013,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Arteriosclerosis of artery of lower extremity","789703007",37312134,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Claudication of right upper limb co-occurrent and due to atherosclerosis","16013871000119104",765301,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Acute mesenteric arterial occlusion","243286001",4348319,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Atherosclerosis of autologous bypass graft of lower limb","709587006",46271462,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Thrombosis of stent of renal artery","840961000000108",44813802,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-10-01
+"Stenosis of left renal artery","15710241000119103",761428,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Stenosis of artery of right upper limb","16004911000119101",761804,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Ischemia of bilateral upper limbs","15712601000119103",761466,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-09-01
+"Atherosclerosis of bypass graft of right lower limb with intermittent claudication","16013711000119104",761826,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2017-09-01
+"Atherosclerotic peripheral vascular disease with gangrene","8060001000004101",3173780,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Thrombosis of bilateral popliteal arteries","16012871000119107",761824,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Trash foot","307406004",4146012,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Atherosclerosis of nonautologous biological bypass graft of left lower limb","15710361000119108",761429,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-03-01
+"Atherosclerosis of artery of bilateral upper limbs","15648641000119100",761206,"Condition","SNOMED","Disorder",NA,"U",2023-09-01,2017-09-01
+"Atherosclerosis of bypass graft of left lower limb with gangrene","16064811000119108",761853,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Superficial femoral artery stenosis","233969003",4120098,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bilateral atherosclerosis of nonautologous biological bypass graft of lower limbs","15710321000119103",603303,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Atherosclerosis of bilateral renal arteries","15648771000119103",36712955,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Atherosclerosis of bypass graft of right upper limb","16019431000119102",609015,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Critical upper limb ischemia","233960004",4124838,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ischemia of left lower extremity","15712481000119108",761463,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Atherosclerosis of right iliac artery","16019511000119108",36713015,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Bilateral thrombosis of femoral arteries","16013191000119107",609008,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Renal artery occlusion","236488005",4030663,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombosis of left iliac artery","15972461000119101",35615061,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Occlusion of radial artery","842041000000107",44813823,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-10-01
+"Critical lower limb ischemia","233962007",4124839,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Atherosclerosis of left renal artery","15648821000119105",35615021,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Atherosclerosis of autologous vein bypass graft of right upper limb","16019031000119105",609011,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Ischemic foot","301755001",4199887,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congenital stenosis of right renal artery","15966341000119102",761740,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Thrombosis of right popliteal artery","16012951000119106",35615096,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Common femoral artery thrombosis","297149007",4175569,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occlusion of ulnar artery","842081000000104",44808746,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-10-01
+"Atherosclerosis of autologous vein bypass graft of left upper limb","16018991000119103",609010,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Thrombosis of iliac artery","82453008",444264,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Thrombosis of bilateral iliac arteries","15972541000119104",35615063,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Poorly controlled type I diabetes with circulatory disorder","10100001000004109",3198350,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Superficial femoral artery thrombosis","297155002",4179910,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Atherosclerosis of artery of right upper limb","15648601000119102",35615018,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Occlusion of femoropopliteal bypass graft","306848006",4137550,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Poorly controlled type II diabetes with circulatory disease","10140001000004100",3192767,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Occlusion of femorofemoral crossover bypass graft","306849003",4137551,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Peripheral circulatory disorder due to type 2 diabetes mellitus","422166005",443729,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2006-07-31
+"Stenosis of artery of left upper limb","16004991000119105",761805,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Thrombosis of left ulnar artery","16007911000119106",761813,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Thrombosis of artery of bilateral lower limbs","16012751000119108",761823,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Atherosclerosis of nonautologous biological bypass graft of right lower limb","15710481000119107",761431,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-03-01
+"Traumatic aortic disruption","32220001000004108",3181089,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Common femoral artery occlusion","312828005",4195973,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congenital renal artery stenosis","271432005",4153293,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Common iliac artery stenosis","233967001",4121625,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Femoral artery occlusion","314188009",4193056,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Atherosclerosis of autologous bypass graft of right lower limb","15710281000119108",765226,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-03-01
+"Thrombosis of left femoral artery","16012991000119101",35615097,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Thrombosis of right common femoral artery","16013111000119103",35615099,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Atherosclerosis of nonautologous bypass graft of limb","442735001",40484912,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Atherosclerosis of arteries of right lower limb","12237151000119108",760871,"Condition","SNOMED","Disorder",NA,"U",2023-03-01,2015-09-01

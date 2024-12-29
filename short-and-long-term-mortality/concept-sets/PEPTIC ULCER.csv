@@ -1,0 +1,267 @@
+"Concept Name","Concept Code","Concept Id","Domain Id","Vocabulary Id","Concept Class Id","Concept Category","Invalid Reason","Valid End Date","Valid Start Date"
+"Stress ulcer of duodenum","235688009",4342649,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Duodenal ulcer caused by fungus","724534002",37110319,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Gastrocolic ulcer","24060004",4080599,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ulcer of intestine due to immunoglobulin A vasculitis","871631000",3656106,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Erosive gastritis","1086791000119100",45757242,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Chronic erosive gastritis","63137003",4271442,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer caused by Helicobacter pylori and non-steroidal anti-inflammatory agent","724519008",37110306,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Chronic gastric ulcer with hemorrhage AND with perforation but without obstruction","74341002",196442,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cushing ulcer of duodenum","235689001",4341240,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastric ulcer with hemorrhage, with perforation and with obstruction","85787009",198801,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute duodenal ulcer with hemorrhage","12847006",4027729,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Duodenal ulcer caused by virus","724533008",37110318,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Chronic gastrojejunal ulcer with hemorrhage and obstruction","90257004",436729,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastrojejunal ulcer without hemorrhage, without perforation AND without obstruction","41626001",438795,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ulcer of duodenum due to infection","762276009",42538548,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Peptic ulcer","13200003",4027663,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastric ulcer","95530000",4318534,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastrojejunal ulcer with hemorrhage and perforation","45640006",4164920,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic peptic ulcer without hemorrhage AND without perforation but with obstruction","12384004",24973,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Multiple gastric erosions","235652004",4341235,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Peptic ulcer without hemorrhage AND without perforation","37442009",4291028,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastrojejunal ulcer with perforation","30183003",4147351,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Duodenal ulcer induced by platelet aggregation inhibitor","840591006",3655003,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Peptic ulcer with obstruction","786068005",37203956,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Eosinophilic duodenal ulcer","717878007",36713516,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Duodenal ulcer caused by Helicobacter pylori","724528009",37110314,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Acute duodenal ulcer with perforation AND obstruction","62936002",434070,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastrojejunal ulcer with perforation AND obstruction","21759003",4069766,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic duodenal ulcer with perforation","49916007",4173408,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Peptic ulcer with hemorrhage but without obstruction","48658001",4169394,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastrojejunal ulcer with hemorrhage but without perforation","59356009",4244406,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastrojejunal ulcer without hemorrhage, without perforation AND without obstruction","77987006",436460,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute peptic ulcer with perforation","79118000",4194543,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer caused by cytomegalovirus","689991000119100",764846,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-03-01
+"Gastric ulcer with hemorrhage AND perforation but without obstruction","2066005",4071203,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer caused by non-steroidal anti-inflammatory drug in therapeutic use","129141000119104",45757397,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Gastric ulcer with hemorrhage, with perforation and with obstruction","17593008",4069838,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Stress ulcer of stomach","415624002",4188456,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2005-01-31
+"Childhood duodenal ulcer","43035002",4182589,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Prepyloric ulcer","22620000",4331322,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastric ulcer with perforation but without obstruction","36246001",197914,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastrojejunal ulcer with perforation","2807004",4101870,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer caused by bacterium","723099007",36716875,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Gastrojejunal ulcer with hemorrhage, with perforation and with obstruction","54798007",4183005,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastrojejunal ulcer with hemorrhage and with perforation but without obstruction","46523000",437326,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastrojejunal ulcer with obstruction","196712004",4024985,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Normopepsinogenemic familial duodenal ulcer","76338009",4296319,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Antral ulcer","4911000119101",45763550,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Curling's ulcer of duodenum","235690005",4342650,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastric ulcer without hemorrhage AND without perforation but with obstruction","81225008",192954,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute duodenal ulcer with hemorrhage but without obstruction","66767006",434402,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer due to parasitic infection","723102007",36716877,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Duodenal ulcer with hemorrhage but without obstruction","35560008",4149010,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Zollinger-Ellison syndrome","53132006",4200399,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer caused by ionizing radiation","723104008",36716879,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Acute duodenal ulcer without hemorrhage AND without perforation but with obstruction","75342000",435859,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute duodenal ulcer without hemorrhage, without perforation AND without obstruction","23693000",440755,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Curling's ulcers","39755000",4217281,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ulcer of duodenum caused by chemical","724532003",37110317,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Chronic gastrojejunal ulcer","128288009",4028243,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pyloric ulcer","39204006",4189591,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastrojejunal ulcer","196707000",4024984,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Duodenal ulcer caused by drug","724529001",37110315,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Acute peptic ulcer with hemorrhage, with perforation AND with obstruction","28945005",194986,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic peptic ulcer with hemorrhage but without obstruction","81518000",30770,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer","397825006",4265600,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Gastrojejunal ulcer with hemorrhage and with perforation but without obstruction","87796008",4336971,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic duodenal ulcer with hemorrhage, with perforation AND with obstruction","86258000",440756,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer due to Zollinger-Ellison syndrome","717891008",36713527,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Peptic ulcer with perforation but without obstruction","12625009",4054392,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute erosion of duodenum","39344002",4214461,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Lymphocytic duodenal ulcer","717879004",36713517,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Chronic duodenal ulcer","128286008",4028242,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastrojejunal ulcer without hemorrhage AND without perforation","2783007",4101104,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastric ulcer","95529005",4319441,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Non-steroidal anti-inflammatory drug induced gastric ulcer","248891000000103",44791257,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2006-10-02
+"Duodenal erosion","235692002",4340230,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic duodenal ulcer with perforation AND obstruction","60551006",439058,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic duodenal ulcer with hemorrhage but without obstruction","62341002",436148,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute duodenal ulcer with hemorrhage AND obstruction","87756006",441062,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute peptic ulcer with perforation AND obstruction","35681000",26718,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Duodenal ulcer with hemorrhage AND with perforation but without obstruction","15115006",4035167,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastrojejunal ulcer with hemorrhage","62838000",433515,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ulcer of duodenum","51868009",4198381,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic duodenal ulcer with perforation but without obstruction","34602004",432354,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Duodenal ulcer without hemorrhage AND without perforation","56776001",4209746,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastrojejunal ulcer with hemorrhage but without obstruction","50663005",4179773,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Duodenal ulcer due to Zollinger-Ellison syndrome","717892001",36717645,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Chronic duodenal ulcer without hemorrhage AND without perforation","40214005",4222896,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Duodenal ulcer with perforation AND obstruction","77410006",4298227,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastrojejunal ulcer with hemorrhage and obstruction","72408002",441063,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer with perforation AND obstruction","72486001",198190,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic duodenal ulcer without hemorrhage, without perforation AND without obstruction","57940000",433246,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute duodenal ulcer with perforation but without obstruction","22511002",435578,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastric ulcer without hemorrhage AND without perforation","67964002",4195231,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Duodenal ulcer caused by Helicobacter pylori and non-steroidal anti-inflammatory agent","724530006",37110316,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Duodenal ulcer caused by ionizing radiation","724531005",37117196,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Acute gastrojejunal ulcer with hemorrhage, with perforation and with obstruction","58711008",442314,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Peptic anastomotic ulcer","717863000",36713503,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Peptic ulcer without hemorrhage, without perforation AND without obstruction","38365000",201069,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastrojejunal ulcer with hemorrhage and with perforation but without obstruction","66673003",441328,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute duodenal ulcer without hemorrhage AND without perforation","32490005",4138962,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ulcer of stomach due to eosinophilic gastritis","724520002",37110307,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Bleeding stress ulcer of stomach","308882008",4205670,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Recurrent duodenal ulcer","196671008",4024842,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bacterial ulcer of esophagus","235610009",4340115,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ulcerative gastrointestinal mucositis","14511000119108",45757462,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Gastric ulcer without hemorrhage AND without perforation","73481001",4248429,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Anastomotic ulcer of stomach caused by Helicobacter pylori","724522005",37110308,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Anastomotic ulcer of stomach caused by drug","724523000",37110309,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Acute peptic ulcer with obstruction","196687006",4024846,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic peptic ulcer with perforation but without obstruction","80953005",23247,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Duodenal ulcer without hemorrhage AND without perforation but with obstruction","18169007",435305,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic peptic ulcer with perforation AND obstruction","57871005",30442,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic duodenal ulcer without hemorrhage AND without perforation but with obstruction","28082003",443770,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute peptic ulcer with hemorrhage AND with perforation but without obstruction","47064007",27026,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric erosion","235651006",4341234,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastric ulcer with hemorrhage but without obstruction","70418001",193795,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic peptic ulcer with hemorrhage","49232000",4174044,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute duodenal ulcer","196652006",4057053,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ulcer of esophagus due to allergic disorder","737189006",42537661,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Chronic gastric ulcer with obstruction","196639001",4055895,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastrojejunal ulcer with perforation but without obstruction","11818002",4038489,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic duodenal ulcer with hemorrhage","89469000",4232181,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastric ulcer with perforation but without obstruction","90628007",194680,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Curling's ulcer of stomach","781203005",36683388,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Gastric ulcer with perforation but without obstruction","84038009",4223226,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastric ulcer with hemorrhage","89748001",4231580,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ulcer of stomach due to lymphocytic gastritis","724521003",37119136,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Multiple gastric ulcers","313425006",4197598,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Combined gastric AND duodenal ulcer","79806007",4197099,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic peptic ulcer","128287004",4134146,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Tremor, nystagmus, duodenal ulcer syndrome","782935003",37203820,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Acute ulcerative gastroenteritis complicating pneumonia","109814008",4001167,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic peptic ulcer with hemorrhage AND perforation","61300005",4247008,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer with perforation","9829001",4321586,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastrojejunal ulcer with hemorrhage","63954007",4274491,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic duodenal ulcer with obstruction","196666001",436453,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Duodenal ulcer with perforation","88968005",4229614,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic non-specific multiple ulcers of small intestine","722848005",36716693,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Cushing ulcer of stomach","738791006",42538071,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Acute erosive gastritis","444926003",40481540,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-07-31
+"Acute gastric mucosal erosion","18665000",4087594,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Familial duodenal ulcer associated with rapid gastric emptying","16516008",4040644,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastric ulcer with perforation AND obstruction","43694004",200137,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Peptic ulcer without hemorrhage AND without perforation but with obstruction","54157007",200771,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Idiopathic diffuse ulcerative nongranulomatous enteritis of intestine","359656003",4231748,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastrojejunal ulcer with hemorrhage but without obstruction","59515005",438468,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastrojejunal ulcer without hemorrhage AND without perforation","4269005",4177387,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastrojejunal ulcer with obstruction","849621000000100",44808503,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-10-01
+"Acute gastric ulcer with perforation","19850005",4057953,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer with obstruction","849591000000103",44808499,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-10-01
+"Acute peptic ulcer without hemorrhage AND without perforation but with obstruction","58085004",195584,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Peptic ulcer of newborn","276525003",4172869,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ulceration of intestine","85942002",195002,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Healed gastric ulcer leaving a scar","196775009",4057076,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Peptic ulcer with perforation","88169003",4338225,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute duodenal ulcer with hemorrhage AND perforation","86895006",4336230,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Helicobacter-associated pyloric ulcer","89662003",4232767,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer caused by drug","713638002",37017373,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Acute peptic ulcer with hemorrhage AND obstruction","43406003",23237,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastric ulcer with hemorrhage","57246001",4211001,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastrojejunal ulcer with hemorrhage AND perforation","64094003",4273874,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Exacerbation of peptic ulcer","865912001",3655488,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Acute drug-induced ulcer of stomach","235648004",4341233,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Duodenal ulcer caused by bacterium","723884008",37117176,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Acute duodenal ulcer with hemorrhage, with perforation AND with obstruction","41986000",437021,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Peptic ulcer with hemorrhage AND with perforation but without obstruction","90489006",4235740,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastro-esophageal reflux disease with ulceration","245754007",4076267,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastric ulcer with hemorrhage and with obstruction","85859006",201885,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Duodenal ulcer without hemorrhage, without perforation AND without obstruction","34580000",438469,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastric ulcer without hemorrhage AND without perforation but with obstruction","60531007",195583,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Peptic ulcer with hemorrhage","64121000",4271696,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Infection causing ulcer of stomach","762274007",42538546,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Duodenal ulcer with hemorrhage AND perforation","23812009",4031954,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Familial hypergastrinemic duodenal ulcer","6761005",4194177,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Duodenal ulcer with hemorrhage, with perforation AND with obstruction","12355008",4049270,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer induced by platelet aggregation inhibitor","840592004",3655004,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Acute gastric ulcer with obstruction","196632005",4025501,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastrojejunal ulcer","16121001",4059178,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Erosion of stomach with hemorrhage","307233002",4143871,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic peptic ulcer without hemorrhage AND without perforation","5492000",4204555,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastroesophageal erosion","301007008",4102254,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic duodenal ulcer with hemorrhage AND with perforation but without obstruction","81142005",438796,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute peptic ulcer without hemorrhage, without perforation AND without obstruction","3023008",198187,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastrojejunal ulcer without hemorrhage AND without perforation but with obstruction","47152002",438188,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer caused by chemical","723105009",36716880,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Acute gastric ulcer with hemorrhage AND with perforation but without obstruction","17067009",199855,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastrojejunal ulcer with hemorrhage AND obstruction","42698006",4175673,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Peptic ulcer with perforation AND obstruction","48336009",4174823,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Postpyloric ulcer","78054007",4299937,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cushing ulcer","23649000",4126437,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic peptic ulcer with obstruction","196694009",4024849,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastrojejunal ulcer without hemorrhage, without perforation AND without obstruction","35517004",439858,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastrojejunal ulcer with perforation AND with obstruction","10897002",444102,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute peptic ulcer with hemorrhage but without obstruction","22157005",31335,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastrojejunal ulcer with perforation AND obstruction","72219001",435846,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastric erosion associated with drug ingestion","111350000",4006992,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Giant duodenal ulcer","68834009",4285720,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Duodenal ulcer caused by non-steroidal anti-inflammatory drug","722200003",36716253,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Gastric ulcer without hemorrhage, without perforation AND without obstruction","59913009",195851,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute duodenal ulcer with hemorrhage AND with perforation but without obstruction","51847008",435855,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Duodenal ulcer with hemorrhage AND obstruction","18367003",4084844,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Classical histoplasmosis intestinal ulceration","240736005",4081259,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer with hemorrhage and perforation","62366003",4266523,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer with hemorrhage","15902003",4049466,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastrojejunal ulcer without hemorrhage AND without perforation but with obstruction","10389003",432951,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Esophagogastric ulcer","10699001",4027942,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute duodenal ulcer with perforation","61347001",4265479,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic drug-induced ulcer of stomach","235650007",4342642,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastric ulcer without hemorrhage, without perforation AND without obstruction","54053008",199062,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer caused by alcohol","723103002",36716878,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Chronic gastrojejunal ulcer with obstruction","196719008",4024986,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute peptic ulcer without hemorrhage AND without perforation","45485004",4163865,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute peptic ulcer with perforation but without obstruction","34921009",30439,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic duodenal ulcer with hemorrhage AND perforation","36975000",4289830,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastrojejunal ulcer with perforation but without obstruction","72395008",437598,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Erosion of gastrointestinal anastomosis","717862005",36713502,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Gastric hemorrhage due to erosive gastritis","7071000119102",45768629,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Non-infective ulceration of small intestine","722534001",36716506,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Acute gastrojejunal ulcer with hemorrhage and perforation","81387001",4217947,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastric ulcer without hemorrhage AND without perforation","76796008",4296611,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastrojejunal ulcer with perforation but without obstruction","62477005",435579,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastric ulcer with hemorrhage, with perforation and with obstruction","53337006",195845,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic duodenal ulcer with hemorrhage AND obstruction","34021006",437323,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Peptic ulcer with hemorrhage AND perforation","55617001",4206466,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Peptic ulcer with hemorrhage, with perforation AND with obstruction","26221006",4095410,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastrointestinal ulcer","40845000",4247120,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastrojejunal ulcer with hemorrhage, with perforation and with obstruction","24001002",443779,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Peptic ulcer with hemorrhage AND obstruction","64398008",4273101,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Duodenal ulcer with obstruction","849601000000109",44808500,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-10-01
+"Chronic peptic ulcer with hemorrhage, with perforation AND with obstruction","77661009",24397,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer with hemorrhage and obstruction","53877005",4207217,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastric ulcer with hemorrhage and obstruction","46708007",198467,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer caused by virus","723100004",36716876,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Acute duodenal ulcer with obstruction","196658005",4024840,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Drug-induced peptic ulcer","109813002",4003018,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastric ulcer with hemorrhage and perforation","48974009",4169592,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Healed gastric ulcer","235702004",4340787,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastrojejunal ulcer without hemorrhage AND without perforation but with obstruction","56579005",434400,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastric ulcer with hemorrhage and with perforation","76181002",4294973,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Parasitic infection causing ulcer of esophagus","733147004",37116438,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Acute gastrojejunal ulcer without hemorrhage AND without perforation","30514008",4147683,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastric ulcer with perforation","31301004",4150681,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ulcer of small intestine caused by foreign body","723107001",36716882,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Chronic gastric ulcer with hemorrhage but without obstruction","76078009",197018,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic peptic ulcer with perforation","3483000",4146517,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute peptic ulcer","196682000",4057060,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic peptic ulcer with hemorrhage AND with perforation but without obstruction","55746001",22665,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastric ulcer with perforation AND with obstruction","55483002",4206315,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Duodenal ulcer with perforation but without obstruction","86983005",4315039,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic peptic ulcer with hemorrhage AND obstruction","56461008",24076,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Duodenal ulcer with increased serum pepsinogen I","29755007",4105935,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Duodenal ulcer with hemorrhage","27281001",4099014,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer without hemorrhage AND without perforation but with obstruction","31452001",196443,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer with hemorrhage but without obstruction","16694003",4041707,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic gastric ulcer without hemorrhage, without perforation AND without obstruction","1567007",200769,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer caused by Helicobacter pylori","103691000119106",45757062,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Stress ulcer","415623008",4215084,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2005-01-31
+"Chronic peptic ulcer without hemorrhage, without perforation AND without obstruction","60400003",23808,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute gastrojejunal ulcer with perforation","66636001",4280942,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric ulcer caused by fungus","723101000",36717606,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Eosinophilic ulcer of esophagus","235608007",4342628,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastrojejunal ulcer with hemorrhage","84124004",4222477,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute peptic ulcer with hemorrhage","12274003",4046500,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute peptic ulcer with hemorrhage and perforation","111353003",4006994,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31

@@ -1,0 +1,291 @@
+"Concept Name","Concept Code","Concept Id","Domain Id","Vocabulary Id","Concept Class Id","Concept Category","Invalid Reason","Valid End Date","Valid Start Date"
+"Congestive heart failure as post-operative complication of non-cardiac surgery","285221000119109",762003,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Primary idiopathic dilated cardiomyopathy","53043001",4203149,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy with hypergonadotropic hypogonadism syndrome","719451006",36717720,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Combined oxidative phosphorylation defect type 17","775908005",36678496,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Heart-hand syndrome Slovenian type","721014007",36715371,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Fetal heart failure with myocardial hypertrophy","462174007",43022054,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Systolic heart failure stage C due to ischemic cardiomyopathy","15629741000119102",36712929,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Primary eosinophilic endomyocardial cardiomyopathy","53703001",4204856,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cardiomyopathy due to neuromuscular disorder","471846004",43021902,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Cardiomyopathy due to hypertension","108701000119102",36712757,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Dilated cardiomyopathy due to hemochromatosis","8209004",4219376,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diastolic heart failure stage C","120891000119109",43021842,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Dilated cardiomyopathy due to protozoan myocarditis","40532006",4225077,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertrophic cardiomyopathy without obstruction","195020003",4108236,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Arrhythmogenic left ventricular cardiomyopathy","880040003",618985,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Congestive heart failure as post-operative complication of cardiac surgery","285211000119102",762002,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Restrictive cardiomyopathy secondary to sarcoidosis","39041004",4191606,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congestive heart failure due to left ventricular systolic dysfunction","426263006",4139864,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Cobalt cardiomyopathy","50275009",4177188,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Primary familial dilated cardiomyopathy","52029003",4178584,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ventricular myocardial noncompaction cardiomyopathy","471875005",43021903,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Chronic cor pulmonale","79955004",4195892,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Heart failure with reduced ejection fraction","703272007",45766164,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Cardiorespiratory failure","410431009",4259490,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-07-31
+"Dilated cardiomyopathy due to mucopolysaccharidosis","86995005",4314400,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy due to metabolic disorder","111285003",4006292,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute kidney injury due to circulatory failure","722095005",36716182,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Congenital cardiac failure","206586007",4071869,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute on chronic systolic heart failure","443253003",40480602,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-01-31
+"Cardiac insufficiency following cardiac surgery","60856006",4264636,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Saddle embolus of pulmonary artery with acute cor pulmonale","15964701000119109",35615055,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Secondary nonischemic congestive cardiomyopathy","699668009",44783568,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Chronic diastolic heart failure","441530006",40479576,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Dilated cardiomyopathy due to bacterial myocarditis","54830008",4185379,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertrophic mitochondrial cardiomyopathy associated with cataracts and lactic acidosis","472318007",43020668,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Compensated cardiac failure","195112003",4108244,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Restrictive cardiomyopathy with endomyocardial fibrosis","398754006",4162674,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Cardiorenal syndrome","445236007",40482857,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-07-31
+"Hypertensive heart disease with congestive heart failure","5148006",314378,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Heart failure due to end stage congenital heart disease","471880001",43020657,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Congestive heart failure due to valvular disease","426611007",4142561,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Acute left-sided congestive heart failure","74960003",4327205,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy due to viral myocarditis","30496006",4147982,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute on chronic heart failure co-occurrent with normal ejection fraction","7401000175100",764874,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-09-01
+"Dilated cardiomyopathy due to fungal myocarditis","44630002",4258681,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Restrictive cardiomyopathy secondary to malignancy","24584003",4076799,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy secondary to radiation","12563008",4129399,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Fetal hypertrophic cardiomyopathy","472324001",43020782,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Cardiomyopathy and renal anomaly syndrome","720610008",36715122,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Dilated cardiomyopathy","399020009",4163710,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Cardiomyopathy in myotonic dystrophy","195031006",4108238,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Primary dilated cardiomyopathy","195021004",4108822,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute congestive heart failure","10633002",4023479,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic congestive heart failure","88805009",4229440,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Restrictive cardiomyopathy secondary to familial storage disease","30884007",4149725,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Restrictive cardiomyopathy due to mucopolysaccharidosis","84725008",4225117,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic left-sided congestive heart failure","5375005",4206009,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute cor pulmonale due to septic pulmonary embolism","15964661000119102",608954,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Primary restrictive cardiomyopathy","90828009",4236332,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Sepsis-associated right ventricular failure","277639002",4079296,"Condition","SNOMED","Disorder",NA,"U",2022-03-31,2002-01-31
+"Naxos disease","715535009",37398927,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Cardiac failure after obstetrical surgery AND/OR other procedure including delivery","55565007",4205558,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Systolic heart failure stage C","120861000119102",43020421,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Illegal abortion complicated by cardiac failure","1010447000",605120,"Condition","SNOMED","Disorder",NA,"U",2022-05-31,2021-01-31
+"Dilated cardiomyopathy due to infiltration","64749001",4273401,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute heart failure","56675007",442310,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Left ventricular myocardial noncompaction cardiomyopathy","447935001",40487105,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-07-31
+"Dilated cardiomyopathy due to systemic sclerosis","35719004",4147604,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Familial restrictive cardiomyopathy","233878008",4119959,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Exacerbation of congestive heart failure","96311000119109",43022068,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Hypertrophic cardiomyopathy due to lysosomal disease","871649000",3656122,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Dilated cardiomyopathy due to granuloma","39693003",4215284,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Kyphoscoliotic heart disease","45650007",317000,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Restrictive cardiomyopathy secondary to endocardial fibroelastosis","33006007",4139754,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Familial cardiomyopathy","35728003",4261970,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Primary hypertrophic cardiomyopathy","700065003",44784145,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Inflammatory cardiomyopathy","471841009",43020652,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Hypertrophic cardiomyopathy due to Friedreich ataxia","890119003",619074,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Hypertrophic cardiomyopathy due to glycogen storage disease","871638006",3656112,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Hypertrophic cardiomyopathy and renal tubular disease due to mitochondrial DNA mutation","771509001",36675174,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Microcephalus cardiomyopathy syndrome","719380003",36714240,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Reduced ejection fraction co-occurrent and due to chronic heart failure","7381000175100",764872,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-09-01
+"Ayerza's syndrome","78862003",4193236,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatic left ventricular failure","43736008",4184497,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertrophic cardiomyopathy due to disorder","890122001",619077,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Pacing-induced cardiomyopathy","471870000",43020656,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Isolated ventricular noncompaction","9460001000004106",3186078,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Fetal heart failure due to extracardiac disease","704242009",45766964,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Benign hypertensive heart disease with congestive cardiac failure","194767001",439698,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diabetic cardiomyopathy","788878000",37312019,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Chronic heart failure co-occurrent with normal ejection fraction","7411000175102",764876,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-09-01
+"Histiocytoid mitochondrial cardiomyopathy","472317002",43020667,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Cardiac asthma","71892000",4215802,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute combined systolic and diastolic heart failure","153931000119109",44782718,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Acute exacerbation of chronic congestive heart failure","698296002",44782655,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Dilated cardiomyopathy due to Friedreich's ataxia","50270004",4177187,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Reduced ejection fraction co-occurrent and due to acute on chronic heart failure","7371000175103",764871,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-09-01
+"Congestive heart failure due to cardiomyopathy","101281000119107",44782428,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"High output heart failure","10091002",4004279,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Heart failure","84114007",316139,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Progressive sensorineural hearing loss and hypertrophic cardiomyopathy syndrome","719272007",36714157,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Pleural effusion due to congestive heart failure","90727007",4236658,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Primary idiopathic hypertrophic cardiomyopathy","63183009",4270625,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Polyglucosan body myopathy type 1","774148007",36676853,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Acute cor pulmonale","49584005",312927,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cardiomyopathy with cataract and hip spine disease syndrome","720609003",36715121,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Decompensated cardiac failure","195111005",4111554,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive heart AND chronic kidney disease with congestive heart failure","15781000119107",44782728,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Dilated cardiomyopathy due to malignancy","74249003",4251051,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy due to parasitic myocarditis","1153452008",607464,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Chronic systolic heart failure","441481004",40479192,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Sepsis-associated left ventricular failure","277638005",4079695,"Condition","SNOMED","Disorder",NA,"U",2022-03-31,2002-01-31
+"Cardiomyopathy due to COVID-19","119731000146105",3656667,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Ischemic dilated cardiomyopathy due to coronary artery disease","472100003",43020660,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Dilated cardiomyopathy due to systemic lupus erythematosus","36471000",4269448,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute right-sided heart failure","359617009",4233424,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy due to muscular dystrophy","28869005",4103513,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Tubular renal disease with cardiomyopathy syndrome","719839000",36717761,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Myocardial degeneration","64077000",321320,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertrophic mitochondrial cardiomyopathy","472316006",43021905,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Exacerbation of heart failure","OMOP5166003",1340348,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Takotsubo cardiomyopathy","441541008",40479589,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Fetal hypertrophic cardiomyopathy associated with renal disease","472326004",43020784,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Dilated cardiomyopathy due to mitochondrial disease","871639003",3656113,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Cardiomyopathy co-occurrent with human immunodeficiency virus infection","713523008",37017276,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Cardiomyopathy due to viral infection","204981000119101",45757557,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Exacerbation of congestive heart failure","OMOP5165944",1340289,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Chronic combined systolic and diastolic heart failure","153941000119100",44782719,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Cardiomyopathy due to storage disease","860839005",3655303,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Acute on chronic right-sided congestive heart failure","16838951000119100",37309625,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Dilated cardiomyopathy due to lysosomal storage disease","880038008",618983,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Ischemic congestive cardiomyopathy","426856002",4145696,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Severe scapuloperoneal muscular dystrophy with cardiomyopathy","240077004",4345565,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Arrhythmogenic right ventricular dysplasia","253528005",4101624,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congenital cataract, hypertrophic cardiomyopathy, mitochondrial myopathy syndrome","717812000",36713473,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Fetal hypertrophic cardiomyopathy due to maternal diabetes mellitus","704241002",45766963,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Primary endomyocardial fibrosis cardiomyopathy","68602002",315560,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute right-sided congestive heart failure","80479009",4215446,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Fetal dilated cardiomyopathy","472327008",43020785,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Cardiomyopathy associated with another disorder","195029002",320746,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Exacerbation of cardiomyopathy","OMOP5181806",766251,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-07-12
+"Congestive heart failure stage B due to ischemic cardiomyopathy","15629591000119103",36712928,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Systolic heart failure","417996009",443580,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2006-01-31
+"Dilated cardiomyopathy 3B","702424003",45765475,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Tachycardia-induced cardiomyopathy","426300009",4144463,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Heart failure due to thyrotoxicosis","898208007",619797,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Cardiomyopathy in Duchenne muscular dystrophy","315608004",4154093,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy with genetic marker","471890009",43020659,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Amyloid cardiomyopathy","847041000000109",44807892,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-10-01
+"Dilated cardiomyopathy due to electrolyte imbalance","1149109001",600654,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Dilated cardiomyopathy due to polyarteritis nodosa","91604001",4240306,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congestive obstructive cardiomyopathy","233871002",4124692,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cirrhotic cardiomyopathy","725416005",37110890,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Nonischemic cardiomyopathy","21510001000004105",3182861,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Hypertrophic cardiomyopathy with hypotonia and lactic acidosis syndrome","718713000",36713761,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Acute left ventricular failure","195114002",4108245,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Restrictive cardiomyopathy secondary to hemochromatosis","56941009",4211517,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy due to dermatomyositis","46696008",4262911,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Fatty degeneration of heart","9909003",4321717,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Mitochondrial cardiomyopathy","472315005",43020666,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Acute left-sided heart failure","364006",4267800,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Systolic heart failure stage D","120851000119104",43021840,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Cardiac insufficiency due to prosthesis","5053004",4177493,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Right ventricular failure","367363000",4273632,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nonobstructive cardiomyopathy","69609002",4288868,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congestive heart failure stage C due to ischemic cardiomyopathy","15629541000119106",36712927,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Congestive heart failure stage D","67431000119105",43021825,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Dilated cardiomyopathy due to carnitine deficiency","880014009",618981,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Exacerbation of chronic heart failure","OMOP5165936",1340281,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Diastolic heart failure","418304008",443587,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2006-01-31
+"Induced termination of pregnancy complicated by cardiac failure","609507007",43530961,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Refractory heart failure","314206003",4199500,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Primary idiopathic restrictive cardiomyopathy","64041007",4274635,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertrophic cardiomyopathy due to hyperthyroidism","890121008",619076,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Heart failure with reduced ejection fraction due to cardiomyopathy","703275009",45766167,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Hypertensive heart failure","46113002",444101,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Infiltrative cardiomyopathy","871646007",3656119,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Low cardiac output syndrome","44088000",4185565,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute diastolic heart failure","443343001",40481042,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-01-31
+"Heart failure as a complication of care","233924009",4124705,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated peripartum cardiomyopathy","16253001",4037495,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy due to taurine deficiency","413995009",4189147,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2005-01-31
+"Congestive heart failure as early postoperative complication","72481000119103",44784345,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Muscle and heart glycogen synthase deficiency","725027004",37110708,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Acute on chronic diastolic heart failure","443344007",40481043,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-01-31
+"Secondary dilated cardiomyopathy","20529002",4071896,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Familial isolated arrhythmogenic right ventricular dysplasia","715865008",37399476,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Histiocytoid mitochondrial cardiomyopathy due to cytochrome aa3 deficiency","460500001",43021299,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Dilated cardiomyopathy caused by anthracycline","880042006",618987,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Encephalopathy, hypertrophic cardiomyopathy, renal tubular disease syndrome","763280005",35621979,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Right ventricular myocardial noncompaction cardiomyopathy","447934002",40487104,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-07-31
+"Heart failure with reduced ejection fraction due to coronary artery disease","703273002",45766165,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Mitochondrial hypertrophic cardiomyopathy with lactic acidosis due to MTO1 deficiency","771478008",36675150,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Restrictive cardiomyopathy secondary to granulomas","76931005",4297316,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy due to amyloidosis","58629009",4240233,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Heart failure with reduced ejection fraction due to heart valve disease","703276005",45773075,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Cardiomyopathy caused by drug","16228931000119102",35615148,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Reduced ejection fraction co-occurrent and due to acute heart failure","7391000175102",764873,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-09-01
+"Restrictive cardiomyopathy secondary to amyloidosis","79754008",4197087,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bernheim's syndrome","13839000",4030258,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy due to infectious disease","86194008",4313305,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Fetal hypertrophic cardiomyopathy due to twin to twin transfusion syndrome","472325000",43020783,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Neonatal cardiac failure due to decreased left ventricular output","722919003",36716748,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Congestive heart failure with right heart failure","23341000119109",44782713,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Cardiomyopathy","85898001",321319,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congestive heart failure stage C","67441000119101",43021826,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Cardiomyopathy due to connective tissue disease","860837007",3655302,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Congestive rheumatic heart failure","82523003",315295,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Vici syndrome","719824001",36714540,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Sensorineural deafness with dilated cardiomyopathy syndrome","723993005",37109990,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Danish type familial amyloid cardiomyopathy","27097002",4097992,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic left-sided heart failure","111283005",4009047,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Low output heart failure","25544003",4103448,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive heart and renal disease with (congestive) heart failure","194779001",439696,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congestive heart failure stage B","717840005",36713488,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Hypertrophic cardiomyopathy with genetic marker","471885006",43020658,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Familial dilated cardiomyopathy with conduction defect due to LMNA mutation","766883006",35624231,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Heart failure with reduced ejection fraction due to myocarditis","703274008",45766166,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Valvular cardiomyopathy","471858004",43020654,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure","194781004",439694,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cardiac insufficiency during AND/OR resulting from a procedure","89819002",4233224,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy due to rheumatoid arthritis","21430002",4060405,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Primary endomyocardial fibrosis restrictive cardiomyopathy","42099002",4172641,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy due to myotonic dystrophy","2816000",4101863,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Fatal infantile mitochondrial cardiomyopathy","472319004",43020669,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Neonatal cardiac failure","276514007",4172864,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Danon disease","419097006",4167868,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2006-01-31
+"Left heart failure","85232009",439846,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy secondary to alcohol","83521008",318773,"Condition","SNOMED","Disorder",NA,"D",2022-07-31,2002-01-31
+"Legal abortion complicated by cardiac failure","1010444007",605117,"Condition","SNOMED","Disorder",NA,"U",2022-05-31,2021-01-31
+"Cardiomyopathy due to diphtheria","1086051000119107",46269894,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Dilated cardiomyopathy due to phytanic acid storage disease","11104006",4006792,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Low output heart failure due to and following Fontan operation","871617000",3656094,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Heart failure with mid range ejection fraction","788950000",37311948,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Hypertrophic cardiomyopathy","233873004",4124693,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy due to neuromuscular disorder","79152002",4195417,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Restrictive cardiomyopathy","415295002",4190773,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2005-01-31
+"Dystrophic cardiomyopathy","195032004",4108239,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant hypertensive heart disease with congestive heart failure","83105008",316994,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Decompensated chronic heart failure","424404003",4311437,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-01-31
+"Transthyretin related familial amyloid cardiomyopathy","715655000",37396000,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Tropical endomyocardial fibrosis","715626008",37398931,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Right heart failure secondary to left heart failure","44313006",4195785,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rheumatic cardiomyopathy","789037005",37312596,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Maternally inherited cardiomyopathy and hearing loss syndrome","724173009",37119055,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Restrictive cardiomyopathy without endomyocardial fibrosis","233877003",4119592,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Maternally inherited mitochondrial cardiomyopathy and myopathy","472320005",43021906,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Neonatal cardiac failure due to pulmonary overperfusion","724550005",37110330,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Restrictive cardiomyopathy secondary to infiltrations","15544002",4048268,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congestive heart failure","42343007",319835,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Fetal heart failure","462172006",43021735,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Cardiomyopathy in Friedreich's ataxia","195030007",4111569,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Heart failure exacerbated by Sotalol","12610001000004104",3184320,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Cor pulmonale","83291003",4307356,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy due to familial storage disease","60514000",4245506,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy due to glycogen storage disease","58911001",4243983,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nonischemic congestive cardiomyopathy","111000119104",42872390,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-07-31
+"Acute heart failure co-occurrent with normal ejection fraction","7421000175106",764877,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-09-01
+"Biventricular congestive heart failure","92506005",4242669,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy caused by drug","72972005",4218771,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cardiomyopathy due to mucopolysaccharidosis","195027000",4108237,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Secondary restrictive cardiomyopathy","415509000",4217551,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2005-01-31
+"Chronic right-sided congestive heart failure","66989003",4284562,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Fetal cardiomyopathy","472323007",43020781,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Post-myocarditic cardiomyopathy","233875006",4121474,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute on chronic combined systolic and diastolic heart failure","153951000119103",44782733,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Heart failure with normal ejection fraction","446221000",40486933,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-01-31
+"Acute systolic heart failure","443254009",40480603,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-01-31
+"Fetal heart failure with redistribution of cardiac output","462175008",43021736,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Keshan disease","46939000",4264027,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic right-sided heart failure","10335000",4014159,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Postvalvulotomy syndrome","33644002",4141124,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Infantile hypertrophic cardiomyopathy due to MRPL44 deficiency","771513008",36675178,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Restrictive cardiomyopathy secondary to glycogen storage disease","64615000",4273369,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertrophic obstructive cardiomyopathy","45227007",316428,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy with connective tissue disorder","413994008",4185450,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2005-01-31
+"Hypertrophy of septomarginal trabeculation","406428006",4235995,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-01-31
+"Cardiac glycogenosis","195025008",4111421,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Primary familial hypertrophic cardiomyopathy","83978005",4222765,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Primary eosinophilic endomyocardial restrictive cardiomyopathy","33258008",4141588,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic heart failure","48447003",444031,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy due to nutritional deficiency","84733009",4224935,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Postpartum cardiomyopathy","62377009",312383,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dilated cardiomyopathy due to sarcoidosis","6022005",4247261,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diastolic heart failure stage D","120881000119106",43021841,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Wooly hair and palmoplantar keratoderma with dilated cardiomyopathy syndrome","719835006",36714549,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Hypertrophic cardiomyopathy due to neuromuscular disorder","890120009",619075,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Thyrotoxic cardiomyopathy","1137377003",605666,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Primary cardiomyopathy","89461002",4232495,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Symptomatic congestive heart failure","698594003",44784442,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31

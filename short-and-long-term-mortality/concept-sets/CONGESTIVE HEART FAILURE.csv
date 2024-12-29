@@ -1,0 +1,35 @@
+"Concept Name","Concept Code","Concept Id","Domain Id","Vocabulary Id","Concept Class Id","Concept Category","Invalid Reason","Valid End Date","Valid Start Date"
+"Congestive heart failure as post-operative complication of non-cardiac surgery","285221000119109",762003,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Congestive heart failure as post-operative complication of cardiac surgery","285211000119102",762002,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Congestive heart failure due to left ventricular systolic dysfunction","426263006",4139864,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Hypertensive heart disease with congestive heart failure","5148006",314378,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congestive heart failure due to valvular disease","426611007",4142561,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Acute left-sided congestive heart failure","74960003",4327205,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute on chronic heart failure co-occurrent with normal ejection fraction","7401000175100",764874,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-09-01
+"Acute congestive heart failure","10633002",4023479,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic congestive heart failure","88805009",4229440,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic left-sided congestive heart failure","5375005",4206009,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Exacerbation of congestive heart failure","96311000119109",43022068,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Rheumatic left ventricular failure","43736008",4184497,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Benign hypertensive heart disease with congestive cardiac failure","194767001",439698,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute exacerbation of chronic congestive heart failure","698296002",44782655,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Congestive heart failure due to cardiomyopathy","101281000119107",44782428,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Hypertensive heart AND chronic kidney disease with congestive heart failure","15781000119107",44782728,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Exacerbation of congestive heart failure","OMOP5165944",1340289,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Acute on chronic right-sided congestive heart failure","16838951000119100",37309625,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Acute right-sided congestive heart failure","80479009",4215446,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congestive heart failure stage B due to ischemic cardiomyopathy","15629591000119103",36712928,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Congestive heart failure stage C due to ischemic cardiomyopathy","15629541000119106",36712927,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Congestive heart failure stage D","67431000119105",43021825,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Congestive heart failure as early postoperative complication","72481000119103",44784345,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Congestive heart failure with right heart failure","23341000119109",44782713,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Congestive heart failure stage C","67441000119101",43021826,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Congestive rheumatic heart failure","82523003",315295,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive heart and renal disease with (congestive) heart failure","194779001",439696,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congestive heart failure stage B","717840005",36713488,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure","194781004",439694,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant hypertensive heart disease with congestive heart failure","83105008",316994,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congestive heart failure","42343007",319835,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Biventricular congestive heart failure","92506005",4242669,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic right-sided congestive heart failure","66989003",4284562,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Symptomatic congestive heart failure","698594003",44784442,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31

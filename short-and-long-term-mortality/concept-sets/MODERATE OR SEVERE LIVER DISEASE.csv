@@ -1,0 +1,108 @@
+"Concept Name","Concept Code","Concept Id","Domain Id","Vocabulary Id","Concept Class Id","Concept Category","Invalid Reason","Valid End Date","Valid Start Date"
+"Gastric varices","91109007",4237824,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute necrosis of liver following ectopic pregnancy","1264435003",37167450,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-02-28
+"Centrilobular hepatic necrosis","13923006",4030392,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Miscarriage with acute necrosis of liver","40444006",4224597,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Decompensated cirrhosis of liver","716203000",37396401,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Acute fulminating type A viral hepatitis","18917003",4078071,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Esophageal varices associated with another disorder","195474004",4111998,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diffuse hepatic necrosis","11350001",4012013,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute hepatic failure","197270009",4026032,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bleeding gastric varices","24807004",4087310,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Portal systemic encephalopathy","449902003",42710030,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-01-31
+"Congenital cataract, severe neonatal hepatopathy, global developmental delay syndrome","1260140008",37166820,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-12-31
+"Fever-associated acute infantile liver failure syndrome","1208726006",37163225,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-03-31
+"Portal hypertension","34742003",192680,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Focal hepatic necrosis","55294001",4207818,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic ascites co-occurrent with chronic active hepatitis due to toxic liver disease","1092801000119102",46273476,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Subacute hepatic failure","197275004",4059281,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bleeding esophageal varices due to viral hepatitis","1197695008",37162854,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Acute multi-acinar necrosis of liver","707167006",45768686,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Esophageal varices due to alcoholic cirrhosis of liver","897005004",619608,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Acute necrosis of liver","197269008",4058676,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic coma","72836002",377604,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bleeding esophageal varices","17709002",28779,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Secondary portal hypertension","1197664001",37162826,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Hepatorenal syndrome following delivery","22846003",4119093,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute necrosis of liver following molar pregnancy","1264304005",37167419,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-02-28
+"Bleeding esophageal varices due to autoimmune hepatitis","1197700001",37162859,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Sawdust liver","26485002",4096793,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic ascites","236004002",4342883,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic failure","59927004",4245975,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic ascites due to chronic alcoholic hepatitis","1085021000119106",46269835,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Hepatic infarction","17890003",194417,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic failure as a complication of care","213230009",4309163,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Alcoholic hepatic failure","235881000",4340386,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatorenal syndrome","51292008",196455,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatorenal syndrome with acute kidney injury","1285574007",37168714,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-07-31
+"Hepatic coma due to chronic hepatic failure","1085091000119108",46269836,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Hepatic necrosis","87248009",4337543,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic failure due to a procedure","22508003",4331292,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Portal hypertensive gastropathy","303082009",4116347,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic coma due to subacute liver failure","1092691000119109",46269949,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Ascites due to alcoholic hepatitis","1082611000119101",46269817,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Cruveilhier-Baumgarten syndrome","45256007",4163687,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Subfulminant hepatic failure","235885009",4342773,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Drug-induced hepatic necrosis","405542005",4231815,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-01-31
+"Esophageal varices","28670008",24966,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic coma due to acute hepatic failure","1082511000119102",46269814,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Fulminant liver failure secondary to parvovirus found in explanted liver","20090001000004104",3180733,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Acute hepatic failure due to drugs","413438002",4184847,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2005-01-31
+"Solitary varix of esophagus","721206006",36715508,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"End stage liver disease","708248004",45769564,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Hepatic coma due to viral hepatitis D","1137357005",605653,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Bleeding esophageal varices due to alcoholic liver disease","1197698005",37162857,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Portal hypertension caused by antiretroviral drug","713542007",37017293,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Hepatic coma due to acute hepatitis B","424099008",4314443,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-01-31
+"Familial arthrogryposis-cholestatic hepatorenal syndrome","62216007",4265212,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic encephalopathy","13920009",4029488,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic coma due to chronic hepatitis B with delta agent","153091000119109",46270152,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Acute fulminating viral hepatitis","45042004",4260842,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Necrosis of liver of pregnancy","91162000",4239091,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic viral hepatitis C with hepatic coma","435101000124104",763021,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-09-01
+"Idiopathic portal hypertension","722867009",36716711,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Hepatic coma due to acute hepatitis C","125921000119106",46270037,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Fulminant hepatic failure","235884008",4340389,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute fulminating type B viral hepatitis","13265006",4027854,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Esophageal varices with bleeding due to schistosomiasis","1197661009",37162824,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Hepatic coma due to chronic hepatitis B","424340000",4308946,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-01-31
+"Acute infantile liver failure, cerebellar ataxia, peripheral sensory motor neuropathy syndrome","1187643003",37162423,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-01-31
+"Portal hypertension due to cystic fibrosis","707420003",45771017,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Chronic hepatic failure due to portosystemic shunt","1197736003",37162893,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Peripheral hepatic necrosis","53104002",4203168,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Esophageal varices due to cirrhosis of liver","897004000",619607,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Central hemorrhagic necrosis of liver","197364000",4058696,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic coma due to acute hepatitis B with delta agent","186624004",439675,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic hepatic failure","235886005",4340390,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute and subacute liver necrosis","197268000",201065,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gastric varices without bleeding","717865007",36717642,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Bleeding esophageal varices due to primary biliary cholangitis","1197697000",37162856,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Hepatic coma due to viral hepatitis A","16060001",194856,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic coma due to chronic hepatitis C","146371000119104",46270142,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Failed attempted termination of pregnancy complicated by acute necrosis of liver","863897005",3655408,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Ascites due to alcoholic cirrhosis","1082601000119104",46269816,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Solitary necrotic nodule of liver","447058001",40490872,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-01-31
+"Hepatic coma due to viral hepatitis","40946000",196029,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic necrosis of liver","863957008",3655440,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Esophageal varices without bleeding","14223005",22340,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic encephalopathy in fulminant hepatic failure","449901005",42710029,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-01-31
+"Hepatic coma due to alcoholic liver failure","1082621000119108",46269818,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Bleeding esophageal varices due to toxic liver disease","1197694007",37162853,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Subacute hepatic necrosis","197274000",4059280,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatorenal syndrome due to a procedure","31005002",4149888,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Midzonal hepatic necrosis","61250001",4246999,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute hepatic encephalopathy","28660001000004108",3176072,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Induced termination of pregnancy complicated by acute necrosis of liver","609454008",43530913,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Hepatoencephalopathy due to combined oxidative phosphorylation defect type 1","764962002",35622780,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Acute infantile liver failure with multisystemic involvement syndrome","774207004",36676901,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Downhill varices of esophagus","721160006",36715471,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Hepatorenal syndrome as a complication of care","213231008",4308408,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute infantile liver failure due to synthesis defect of mitochondrial deoxyribonucleic acid encoded protein","720461006",36715006,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Hepatic coma due to viral hepatitis B","26206000",200031,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hepatic coma due to hepatitis","103931000119102",46269697,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Subacute hepatic failure caused by hepatitis virus","722865001",36716709,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Submassive hepatic necrosis","1172732001",37160993,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Hepatic failure following surgical procedure","1148573000",606766,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Bleeding esophageal varices due to hepatic fibrosis","1197696009",37162855,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Hepatic coma due to viral hepatitis C","186628001",439672,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute hepatic failure caused by hepatitis virus","722864002",36716708,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31

@@ -1,0 +1,3 @@
+"Concept Name","Concept Code","Concept Id","Domain Id","Vocabulary Id","Concept Class Id","Concept Category","Invalid Reason","Valid End Date","Valid Start Date"
+"Post-acute COVID-19","OMOP5160861",705076,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2021-12-15
+"Post COVID-19 condition, unspecified","U09.9",710706,"Condition","ICD10","ICD10 code",NA,NA,2099-12-31,2020-04-22

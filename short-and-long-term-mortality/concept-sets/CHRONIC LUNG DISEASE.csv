@@ -1,0 +1,439 @@
+"Concept Name","Concept Code","Concept Id","Domain Id","Vocabulary Id","Concept Class Id","Concept Category","Invalid Reason","Valid End Date","Valid Start Date"
+"Thunderstorm asthma","829976001",3661412,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Chronic interstitial lung disease","434301000124102",762964,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-03-01
+"GIP - Giant cell interstitial pneumonitis","192658007",4103099,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Drug-induced interstitial lung disorder","196051003",4112813,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Kartagener syndrome","42402006",4173466,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Uncontrolled asthma","1290026000",1244553,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-09-01
+"Pancreatic insufficiency due to cystic fibrosis of pancreas","707450006",45768915,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Pulmonary hypertension due to hematological disorder","697917003",44782564,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Digestive system manifestation co-occurrent and due to cystic fibrosis","707536003",45768983,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Massive silicotic fibrosis of lung","40640008",4230447,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Giant bullous emphysema","16003001",4050961,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute severe exacerbation of moderate persistent asthma","707980005",45769351,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Acute severe exacerbation of asthma","708090002",45769438,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Acute exacerbation of bronchiectasis","445378003",40483342,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-07-31
+"Inflammation of bronchus caused by Aspergillus","445058002",40482019,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-07-31
+"Pulmonary arterial hypertension associated with chronic hemolytic anemia","697908003",44783626,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Diabetes mellitus due to cystic fibrosis","427089005",4144583,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Acute severe exacerbation of immunoglobin E-mediated allergic asthma","708095007",45769442,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Obstructive emphysema","16846004",4056405,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Severe chronic obstructive pulmonary disease","313299006",4209097,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Lymphoid interstitial pneumonia","44274007",4195014,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Atrophic fibrosis of lung","13274008",4027868,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary hypertension in Langerhans cell histiocytosis","697922003",44782565,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Chronic drug-induced interstitial lung disorders","196053000",4112814,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congenital cystic bronchiectasis","233627004",4050875,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Persistent asthma, well controlled","901000119100",764949,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-09-01
+"Heritable pulmonary arterial hypertension due to ALK1 or endoglin mutation","697900005",44783620,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Mild persistent asthma uncontrolled co-occurrent with allergic rhinitis","10676231000119102",46269782,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Bronchiectasis","12295008",256449,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Uncomplicated non-allergic asthma","735589002",42536649,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Chronic suppuration of bronchus","733497009",37116690,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Acute interstitial pneumonia","236302005",4341520,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary capillary hemangiomatosis","233949008",4121621,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Infarction of lung due to iatrogenic pulmonary embolism","441746000",40480461,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Severe persistent asthma","426656000",4145356,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Interstitial pulmonary fibrosis due to inhalation of drug","1017197007",600563,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Acute exacerbation of intrinsic asthma","708094006",45773005,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Hereditary fibrosing poikiloderma, tendon contractures, myopathy, pulmonary fibrosis syndrome","771306007",36675042,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Pulmonary arterial hypertension associated with schistosomiasis","697907008",44783625,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Inhaled steroid-dependent asthma","16055311000119107",761844,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-03-01
+"Mild persistent asthma co-occurrent with allergic rhinitis","125011000119100",46270029,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Mononuclear interstitial pneumonia","233623000",4052548,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Oral steroid-dependent asthma","16584951000119101",37109103,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Acute severe exacerbation of mild persistent asthma","707981009",45769352,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Mild persistent asthma","426979002",4143828,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Post-infective bronchiectasis","195985008",4112671,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute exacerbation of moderate persistent allergic asthma","10676271000119104",37159958,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-10-31
+"Life threatening acute exacerbation of allergic asthma","1086701000000102",35609846,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-10-01
+"Severe pulmonary hypertension","840308008",3654818,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Acute non-infective exacerbation of chronic obstructive pulmonary disease","847091000000104",44807895,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-10-01
+"Uncomplicated allergic asthma","735588005",42539549,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Chronic lung disease","413839001",4186898,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2005-01-31
+"Moderate asthma","370219009",4155469,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31
+"Intermittent asthma","427603009",4141978,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Liver disease due to cystic fibrosis","427022004",4141669,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Platinum asthma","404804003",4232595,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-01-31
+"Arthropathy in cystic fibrosis","526071000000104",44802278,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-04-01
+"Cylindrical bronchiectasis","83457000",4306635,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Nonspecific interstitial pneumonia","129452008",4044215,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary hypertension due to pulmonary veno-occlusive disease","879815008",604306,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Follicular hamartoma with alopecia and cystic fibrosis syndrome","716088000",37396320,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Familial pulmonary capillary hemangiomatosis","234161007",4121809,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"End stage chronic obstructive pulmonary disease","135836000",4046986,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic cavitary pulmonary aspergillosis","1163150009",37160741,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Pulmonary arterial hypertension associated with portal hypertension","445237003",40482858,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-07-31
+"Obstructive bronchiectasis","233630006",4050876,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Mucopurulent chronic bronchitis","74417001",257905,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic pneumonia","102361000119104",46269693,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Cystic fibrosis without meconium ileus","81423003",434615,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"16q24.1 microdeletion syndrome","770760006",36674196,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Acute severe exacerbation of moderate persistent allergic asthma","10676431000119103",46273462,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Pulmonary exacerbation cystic fibrosis","13840001000004105",3183290,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Purulent bronchitis","29591002",4105601,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary hypertension due to left-sided valvular heart disease","697927009",44782566,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Moderate persistent allergic asthma","10676391000119108",46269784,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Chronic pulmonary blastomycosis","240747003",4080753,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Weavers' cough","59786004",4245292,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bronchiolitis obliterans syndrome due to and following allogeneic stem cell transplant","1177120001",37161191,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-10-31
+"Drug induced pulmonary fibrosis","713244007",37017059,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Allergic asthma","389145006",4191479,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-01-31
+"Emphysematous bleb of lung","57686001",259043,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic obstructive pulmonary disease with acute lower respiratory infection","196001008",4110056,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Plastic bronchitis","53926002",4204998,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic pulmonary congestion","63841001",4274468,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Asthma-chronic obstructive pulmonary disease overlap syndrome","10692761000119107",46274062,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Pulmonary hypertension in lymphangioleiomyomatosis","697923008",44783638,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Mixed simple and mucopurulent chronic bronchitis","195953005",4112826,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Persistent pulmonary hypertension of the newborn","233815004",4121462,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary emphysema in alpha-1 PI deficiency","233674008",4050732,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary hypertension due to familial pulmonary capillary hemangiomatosis","879816009",604307,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Eosinophilic bronchitis","866901000000103",44810118,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2013-04-01
+"Childhood asthma","233678006",4051466,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Asthma with irreversible airway obstruction","401000119107",43530745,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Severe persistent asthma co-occurrent with allergic rhinitis","124991000119109",46270028,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Lung fibrosis, immunodeficiency, 46,XX gonadal dysgenesis syndrome","721977007",36716112,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Hay fever with asthma","233683003",4123253,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic lung disease due to surfactant disorder","707534000",45768981,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Cystic fibrosis due to heterozygous deltaF508 mutation","1296527009",1245046,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-12-01
+"Chronic endogenous lipoid pneumonia","1010670004",605242,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Bronchiolitis obliterans syndrome due to and after lung transplantation","762618008",42538810,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Asthma caused by wood dust","56968009",4211530,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Asthma in pregnancy","72301000119103",42535716,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Acute asthma","281239006",257581,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Exocrine pancreatic manifestation co-occurrent and due to cystic fibrosis","707766007",45769170,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Middle lobe syndrome","28295001",4151351,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diabetes mellitus associated with cystic fibrosis","426705001",4143529,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Pulmonary hypertension due to myeloproliferative disorder","697918008",44783634,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Allergic asthma caused by Dermatophagoides farinae","703954005",45766728,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Pulmonary hypertension due to sleep-disordered breathing","697914005",44783631,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Pulmonary hypertension due to lung disease","OMOP5160883",715989,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-04-08
+"Large vessel pulmonary hypertension","233946001",4120093,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bauxite fibrosis of lung","14700006",4032314,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Exacerbation of asthma","OMOP5165910",1340255,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Heritable pulmonary arterial hypertension due to BMPR2 mutation","697899000",44783619,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Severe early-onset pulmonary alveolar proteinosis due to MARS deficiency","1228876007",37164100,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-05-31
+"Pulmonary hypertension in neurofibromatosis","697924002",44783639,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Acute drug-induced interstitial lung disorder","196052005",4110182,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Uncomplicated moderate persistent asthma","707512002",45768964,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Traction bronchiectasis","19325002",4078695,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occupational asthma","57607007",4212099,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Perinatal jaundice due to cystic fibrosis","206471004",4071743,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2002-01-31
+"Mild intermittent asthma","427679007",4146581,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis","10675991000119100",46269777,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Right heart failure due to pulmonary hypertension","426012001",4138307,"Condition","SNOMED","Disorder",NA,"U",2021-07-31,2007-07-31
+"Cystic fibrosis with gastritis and megaloblastic anemia syndrome","720401009",36714965,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Interstitial pulmonary fibrosis due to inhalation of substance","1017196003",600562,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Chronic pulmonary fibrosis caused by chemical vapors","846637007",3655115,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Chronic pneumonitis of infancy","708026002",45769386,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Arthropathy associated with cystic fibrosis","698940002",44782927,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Pulmonary hypertension due to chronic obstructive pulmonary disease","697911002",44782563,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Fibrosis of lung","51615001",4197819,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic respiratory distress with surfactant metabolism deficiency","783182004",37204512,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Mild asthma","370218001",4155468,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31
+"Acute respiratory distress in newborn with surfactant disorder","707541006",45768986,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Allergic bronchitis","405720007",4233477,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-01-31
+"Congenital bronchiectasis","77593006",255059,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Precapillary pulmonary hypertension","697896007",44783617,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Interstitial pneumonia with autoimmune features","870573008",3655969,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Intermittent asthma co-occurrent with allergic rhinitis","125021000119107",46270030,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Intrinsic asthma without status asthmaticus","12428000",252658,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cystic fibrosis of pancreas","235978006",4341770,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diffuse pulmonary calcinosis","302913000",4116317,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Asthma","195967001",317009,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Associated pulmonary arterial hypertension","697902002",44783621,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Chronic pulmonary African histoplasmosis","240742009",4084973,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Sporadic primary pulmonary hypertension","233943009",4124831,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Scar emphysema","233677001",4050734,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Braddock syndrome","720575002",36715093,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Interstitial lung disease due to juvenile polymyositis","866103007",3655634,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Asthmatic pulmonary eosinophilia","233691007",252942,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Exacerbation of pulmonary hypertension","OMOP5166106",1340451,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Chronic asthma with fixed airflow obstruction","866881000000101",44810117,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-04-01
+"Intrinsic asthma","266361008",4145497,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary hypertension due to pulmonary capillary hemangiomatosis","879814007",604305,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Congenital nephrotic syndrome, interstitial lung disease, epidermolysis bullosa syndrome","733453005",37116655,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Congenital lobar emphysema","66987001",4281815,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Segmental bullous emphysema","195958001",4110635,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Exacerbation of moderate persistent asthma","707446004",45772937,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Pulmonary hypertension due to post-splenectomy hematological disorder","697919000",44783635,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Cystic fibrosis with meconium ileus","86092005",193174,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Carmustine pulmonary toxicity","5920001000004105",3173010,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Acute severe exacerbation of allergic asthma","782513000",36684328,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Liver enzymes level above reference range due to cystic fibrosis","707734002",45769146,"Measurement","SNOMED","Clinical Finding","S",NA,2099-12-31,2015-01-31
+"Exacerbation of severe persistent asthma","707447008",45768912,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Mild bronchopulmonary dysplasia of newborn","1303457006",1245453,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Moderate persistent asthma uncontrolled co-occurrent with allergic rhinitis","10676671000119102",46269789,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Otorhinolaryngological manifestation co-occurrent and due to cystic fibrosis","707542004",45768987,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Toxic emphysema","233675009",4050733,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Interstitial lung disease due to granulomatous disease","737182002",42539687,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Liver cirrhosis due to classical cystic fibrosis","1010616001",605193,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Cheese-makers' asthma","404806001",4225553,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-01-31
+"Subclinical cystic fibrosis","762271004",42538543,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Interstitial pneumonia","64667001",4273378,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Eosinophilic bronchitis","451981000124108",765431,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-03-01
+"Emphysema of left lung","1010333003",605066,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Chronic asthmatic bronchitis","195949008",256448,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Moderate chronic obstructive pulmonary disease","313297008",4193588,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Fetid chronic bronchitis","84409004",4309350,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Printers' asthma","18041002",4080516,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary congestion and hypostasis","196115007",438791,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Progressive pulmonary hypertension","10964002",4033160,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hemolytic anemia with emphysema AND cutis laxa","60805002",4246105,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Small vessel pulmonary hypertension","233942004",4121619,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Primary atypical interstitial pneumonia","35037009",4148529,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Protracted bronchitis caused by bacterium","735465007",42536541,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Idiopathic pulmonary hemosiderosis","40527005",438782,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malarial shock lung","240629003",4084955,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Moderate bronchopulmonary dysplasia of newborn","1303458001",1245454,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Pulmonary hypertension due to lung disease and/or hypoxia","697910001",44783628,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Pulmonary hypertension due to pulmonary disease with mixed restrictive and obstructive pattern","697913004",44783630,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Chronic pulmonary fibrosis caused by chemical fumes","196028003",4112681,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary hypertension due to hypoxia","OMOP5160884",715990,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-04-08
+"Facultative pulmonary hypertension with shunt at atrial level","276794009",4081040,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary hypertensive venous disease","5499009",4207534,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Interstitial lung disease due to systemic disease","737181009",42537657,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Panacinar emphysema","4981000",4177944,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Moderate acute exacerbation of asthma","734905008",42536208,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Simple chronic bronchitis","61937009",261889,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary fibrosis due to and following radiotherapy","405570007",4236725,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-01-31
+"Exacerbation of chronic bronchiolitis","26070001000004103",3187037,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Cirrhosis associated with cystic fibrosis","776981000000103",44805713,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-04-01
+"Chronic bronchiolitis","737180005",42539089,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Life threatening acute exacerbation of intrinsic asthma","1086711000000100",35609847,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-10-01
+"Respiratory bronchiolitis associated interstitial lung disease","129451001",4045227,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic obstructive asthma co-occurrent with acute exacerbation of asthma","10692721000119102",46269802,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Perinatal pulmonary fibroplasia","361194002",4263343,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Perialveolar fibrosis of lung","50196008",4173590,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Post-inflammatory pulmonary fibrosis","266368002",253797,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hyperuricemia, pulmonary hypertension, renal failure, alkalosis syndrome","776416004",36679002,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Confluent fibrosis of lung","30042003",4146744,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary veno-occlusive disease","89420002",4232485,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Catarrhal bronchitis","89549007",4232302,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary arterial hypertension induced by toxin","697901009",44782561,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Pulmonary hypertension due to left heart disease","472790001",43020910,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Seasonal asthma","445427006",40483397,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-07-31
+"Cystic-bullous disease of the lung","2912004",4104506,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute infective exacerbation of chronic obstructive pulmonary disease","285381006",4115044,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute exacerbation of chronic bronchitis","425748003",4137525,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Subacute bronchitis","36426008",4270139,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic obliterative bronchiolitis caused by chemical fumes","840350008",3654836,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Saccular bronchiectasis","52500008",4203619,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Recurrent bronchiectasis","195984007",4110637,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cystic fibrosis exacerbation","18770001000004108",3189821,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Pulmonary hypertension secondary to raised pulmonary vascular resistance","360578005",4235804,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute exacerbation of chronic obstructive bronchitis","293241000119100",46270376,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Pulmonary hypertension due to systolic systemic ventricular dysfunction","697925001",44783640,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Sulfite-induced asthma","233688007",4120261,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diffuse interstitial rheumatoid disease of lung","10713006",4028118,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Asthma in mother complicating childbirth","10742121000119104",45772073,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Cough variant asthma","409663006",313236,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-07-31
+"Infantile-onset pulmonary alveolar proteinosis, hypogammaglobulinemia","1197476009",37162776,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Bakers' asthma","34015007",4143474,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Interstitial lung disease due to collagen vascular disease","427123006",4140605,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Chronic emphysema caused by vapor","836477007",3654571,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Chronic interstitial pneumonia","704345008",45767051,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Brittle asthma","225057002",4075237,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Isocyanate induced asthma","404808000",4225554,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-01-31
+"Pulmonary hypertension due to interstitial lung disease","697912009",44783629,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Pulmonary arterial hypertension associated with connective tissue disease","697903007",44783622,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Chronic obliterative bronchiolitis caused by vapor","840351007",3654837,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Male infertility due to cystic fibrosis","707418001",45772934,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Interstitial lung disease of childhood","328661000119108",46270493,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Centriacinar emphysema","68328006",4286497,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Relapse pulmonary tuberculosis","447006007",40490814,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-01-31
+"Polyneuropathy due to classical cystic fibrosis","721197001",36715501,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Perforation of intestine due to cystic fibrosis with meconium ileus","707578009",45769020,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Aspirin exacerbated respiratory disease","10692681000119108",46269801,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Mild persistent allergic asthma","10675871000119106",46269776,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Familial idiopathic pulmonary fibrosis","426437004",4140134,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Wilson-Mikity syndrome","51577008",4201423,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Neuroendocrine cell hyperplasia of infancy","707435002",45771019,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Uncomplicated mild persistent asthma","707511009",45768963,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Portal hypertension due to cystic fibrosis","707420003",45771017,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Cystic fibrosis of the lung","86555001",254320,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Life threatening acute exacerbation of asthma","734904007",42536207,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Acute severe exacerbation of mild persistent allergic asthma","10675911000119109",46274124,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Chronic silicosis","233762004",4119447,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diffuse interstitial pulmonary fibrosis","196125002",4025168,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Aspirin-induced asthma","407674008",4250128,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-01-31
+"Pulmonary hypertension caused by low air pressure due to chronic exposure to high altitude","233954004",4124833,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute severe exacerbation of asthma co-occurrent with allergic rhinitis","10674711000119105",46269767,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Chronic obliterative bronchiolitis","47938003",4166517,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Emphysema of right lung","1010334009",605067,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Familial primary pulmonary hypertension","233944003",4119611,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Emphysematous bronchitis","185086009",258780,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Zonal bullous emphysema","195959009",4112828,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute severe exacerbation of intrinsic asthma","708096008",45769443,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Chemical-induced asthma","92807009",4245676,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Paraseptal emphysema","31898008",4136683,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Fusiform bronchiectasis","13217005",4027836,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Intermittent asthma uncontrolled","1741000119102",46270322,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis","10676511000119109",46269785,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Moderate persistent asthma co-occurrent with allergic rhinitis","125001000119103",46273454,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Pulmonary fibrosis, hepatic hyperplasia, bone marrow hypoplasia syndrome","723829000",37109889,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Rheumatic pneumonia","7548000",437313,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Distal intestinal obstruction syndrome due to cystic fibrosis","817966005",37311779,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Late onset asthma","233679003",4119298,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary hypertension with extreme obesity","276792008",4081038,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary emphysema","87433001",261325,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary emphysema co-occurrent with fibrosis of lung","708030004",45769389,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Pulmonary hypertension with occult mitral stenosis","276793003",4081039,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary hypertension","70995007",4322024,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bronchiectasis due to aspiration of toxic substance","233632003",4052553,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic bronchitis","63480004",255841,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Atrophic (senile) emphysema","266356006",4148124,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Detergent asthma","41553006",4217558,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute exacerbation of idiopathic pulmonary fibrosis","789574002",37312199,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Acute exacerbation of chronic obstructive pulmonary disease with asthma","1751000119100",43530693,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Childhood bronchiectasis","12310001",4049259,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary fibrosis due to Hermansky-Pudlak syndrome","707434003",45768903,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Desquamative interstitial pneumonia","8549006",4311555,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute exacerbation of chronic obstructive pulmonary disease","195951007",257004,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Female infertility due to cystic fibrosis","707577004",45769019,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Cryptogenic organizing pneumonia","719218000",36714118,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Severe controlled persistent asthma","10675391000119101",37108580,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Solitary pulmonary hypertension","233941006",4120092,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Post-lung transplantation bronchiectasis","233634002",4050878,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Occupational bronchitis","49691004",4172303,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Exacerbation of mild persistent asthma","707445000",45768911,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Pulmonary arterial hypertension","11399002",4013643,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic obstructive pulmonary disease with acute bronchitis","106001000119101",46269701,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Pulmonary arterial hypertension induced by drug","233945002",4121620,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Idiopathic pleuroparenchymal fibroelastosis","1172606002",37160946,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Pulmonary fibrosis due to paracoccidioidomycosis","1177007001",37161110,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-10-31
+"Exercise-induced asthma","31387002",443801,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic rejection of lung transplant","432958009",4333202,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-07-31
+"Acquired bronchiectasis","233628009",4052549,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary eosinophilic granuloma","28122003",4102140,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Classical cystic fibrosis","762269004",42538541,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Pulmonary hypertension due to developmental abnormality","1010627004",605202,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Pulmonary fibroplasia","361195001",4263344,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute severe exacerbation of severe persistent asthma co-occurrent with allergic rhinitis","10675551000119104",46269771,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Severe uncontrolled persistent asthma","10675751000119107",37108581,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Idiopathic bronchiectasis","233629001",4052550,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic coccidioidomycotic pneumonia","28791000119105",45757644,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Severe persistent allergic asthma","10675431000119106",46269770,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Interstitial emphysema of lung","77690003",440748,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic pulmonary insufficiency of prematurity","276537001",4172872,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Adult bronchiectasis","51068008",4199450,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Mild chronic obstructive pulmonary disease","313296004",4196712,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute exacerbation of asthma co-occurrent with allergic rhinitis","99031000119107",46273452,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Severe asthma with fungal sensitisation","1103911000000103",37208352,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-06-01
+"Chronic thromboembolic pulmonary hypertension","233947005",4120094,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Graphite fibrosis of lung","17385007",4066407,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Mild pulmonary hypertension","840306007",3654816,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Chronic bullous emphysema","195957006",4110048,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Severe asthma","370221004",4152913,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31
+"Pulmonary hypertension due to vasculitis","703355003",45766237,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Idiopathic pulmonary arterial hypertension","697898008",44782560,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Idiopathic pulmonary fibrosis","700250006",45763750,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Chronic berylliosis","18121009",4111455,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Asthma without status asthmaticus","55570000",4206340,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Fetal cystic fibrosis","725052002",37110724,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Occasional asthma","370220003",4155470,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31
+"Fetal interstitial neoplasm of lung","860890006",3655347,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Persistent asthma","5281000124103",764677,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-03-01
+"Chronic chemical respiratory disease","266404004",4144107,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Congenital emphysema","47895001",4166508,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary hypertension due to diastolic systemic ventricular dysfunction","697926000",44783641,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Chronic pulmonary histoplasmosis","26427008",4096917,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bullous emphysema with collapse","266355005",4145496,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic fibrosis of lung","36599006",4275496,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"IgE-mediated allergic asthma","424643009",312950,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-01-31
+"Allergic asthma caused by Dermatophagoides pteronyssinus","703953004",45766727,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Uncomplicated asthma","707444001",45768910,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Diffuse pulmonary neurofibromatosis","233717003",4120270,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Drug-induced asthma","93432008",4244339,"Observation","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary hypertension due to developmental abnormality of the lung","697916007",44783633,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Pulmonary lymphangioleiomyomatosis","277844007",4174275,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute exacerbation of chronic asthmatic bronchitis","442025000",40481763,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Rickettsial pneumonia","233621003",4050874,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Massive fibrosis of lung","56841008",4209871,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Tuberculous fibrosis of lung","90117007",258335,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic pulmonary radiation disease","196049002",252348,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Mixed asthma","195977004",4110051,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Progression of massive fibrosis of lung","OMOP5166172",1340517,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Pulmonary venous hypertension as complication of procedure","472757001",43021932,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Pulmonary arterial hypertension associated with congenital heart disease","697905000",44783624,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Bronchiectasis with acute exacerbation","19370001000004105",3185549,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Moderate persistent asthma","427295004",4142738,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Pulmonary hypertension due to alveolar hypoventilation disorder","697915006",44783632,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Interstitial lung disease due to metabolic disease","737183007",42537658,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Acute exacerbation of allergic asthma","708093000",45769441,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Meat-wrappers' asthma","19849005",4057952,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary hypertension associated with chronic underventilation","233950008",4124832,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Non-IgE mediated allergic asthma","423889005",4309833,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-01-31
+"Osteoporosis due to cystic fibrosis","707419009",45768892,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Interstitial lung disease","233703007",4119786,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Uncomplicated severe persistent asthma","707513007",45768965,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Tea-makers' asthma","418395004",4301938,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2006-01-31
+"Chronic fibrosing pulmonary aspergillosis","1163147006",37160739,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Vanishing lung","23958009",4083395,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Eisenmenger's syndrome","445928005",40493243,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2011-01-31
+"Exacerbation of allergic asthma","762521001",42538744,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Toxin-induced bronchiectasis","233631005",4052552,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Exacerbation of allergic asthma due to infection","782520007",36684335,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Heritable pulmonary arterial hypertension","697897003",44783618,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Fibrosis of lung caused by radiation","71193007",4322799,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Lymphangioleiomyomatosis due to tuberous sclerosis syndrome","707433009",45768902,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Localized pulmonary fibrosis","233726000",4120272,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic exogenous lipoid pneumonia","707553005",45768998,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Obstructing Aspergillus tracheobronchitis","788997004",37311903,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Exacerbation of cystic fibrosis","859041000000103",44808532,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-04-01
+"Chronic emphysema caused by chemical fumes","196026004",4112836,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"PF-ILD-progressive fibrosing interstitial lung disease","460561000124109",37208102,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-03-01
+"Chronic obstructive pulmonary disease","13645005",255573,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diffuse panbronchiolitis","430476004",4328679,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-07-31
+"Chronic progressive coccidioidal pneumonia","417688002",4221767,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2005-07-31
+"Severe persistent asthma uncontrolled co-occurrent with allergic rhinitis","10675711000119106",46269775,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Idiopathic chronic eosinophilic pneumonia","724500003",37110292,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Cystic fibrosis due to homozygous deltaF508 mutation","1296528004",1245047,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-12-01
+"Millers' asthma","11641008",4022592,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Interstitial pulmonary fibrosis of prematurity","90610005",4236182,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Colophony asthma","233687002",4119300,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Atypical cystic fibrosis","762270003",42538542,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Idiopathic interstitial pneumonia","700249006",45763749,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Near fatal asthma","786836003",37206717,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Peribronchial fibrosis of lung","3514002",4148685,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Exacerbation of intermittent asthma","425969006",4138760,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Tuberculous bronchiectasis","23022004",257775,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cystic fibrosis transmembrane conductance regulator related metabolic syndrome","16434671000119101",37309675,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2020-01-31
+"Pulmonary arterial hypertension associated with HIV infection","697904001",44783623,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Chronic allergic bronchitis","89099002",4230358,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ruptured emphysematous bleb of lung","86680006",4315386,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Intermittent allergic asthma","10674991000119104",37310241,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Severe bronchopulmonary dysplasia of newborn","1303459009",1245455,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Acute severe exacerbation of severe persistent allergic asthma","10675471000119109",46274059,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Pulmonary arterial hypertension associated with congenital systemic-to-pulmonary shunt","697906004",44782562,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Very severe chronic obstructive pulmonary disease","293991000000106",44791725,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-10-01
+"Allergic asthma without status asthmaticus","63088003",4271333,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic atelectasis","123713005",4048081,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Moderate pulmonary hypertension","840307003",3654817,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Asthmatic bronchitis","405944004",4233784,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-01-31
+"Bronchial atresia with segmental pulmonary emphysema","70756004",4321845,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary interstitial glycogenosis","707551007",45768996,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Acute exacerbation of intermittent allergic asthma","10674791000119101",37159957,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-10-31
+"Pulmonary venous hypertension due to congenital stenosis of pulmonary vein","697928004",44783642,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Secondary pulmonary hypertension","88223008",4339214,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary hypertension in sarcoidosis","697921005",44783637,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Chronic pulmonary edema","46847001",4188331,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute severe refractory exacerbation of asthma","733858005",37116845,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Chronic pulmonary coccidioidomycosis","233615002",260034,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pulmonary hypertension in systemic disorder","697920006",44783636,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Cystic fibrosis","190905008",441267,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Genetic disorder of surfactant dysfunction","328641000119109",46273640,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Postcapillary pulmonary hypertension","360573001",4233689,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic induration of lung","18354001",4084689,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bronchopulmonary dysplasia of newborn","67569000",4283942,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bronchiectasis due to inhalation of toxic substance","233633008",4050877,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Compensatory emphysema","33325001",261895,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Interstitial lung disease due to connective tissue disease","711379004",46272927,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Drug or toxin induced pulmonary arterial hypertension","OMOP5160885",715991,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-04-08
+"Steroid dependent asthma","2360001000004109",46273635,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Chronic pulmonary aspergillosis","733171006",37118654,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Idiopathic hilar fibrosis","361196000",4262577,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Post-arteritic pulmonary hypertension","233948000",4120095,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Persistent pulmonary hypertension","10090001000004100",3174548,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Acute severe exacerbation of severe persistent asthma","707979007",45769350,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31

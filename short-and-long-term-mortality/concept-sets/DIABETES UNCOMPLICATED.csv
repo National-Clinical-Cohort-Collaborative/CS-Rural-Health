@@ -1,0 +1,139 @@
+"Concept Name","Concept Code","Concept Id","Domain Id","Vocabulary Id","Concept Class Id","Concept Category","Invalid Reason","Valid End Date","Valid Start Date"
+"Exacerbation of diabetes mellitus","OMOP5165961",1340306,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Lipoatrophic diabetes","127012008",4131907,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diabetes mellitus, transient neonatal 2","609580007",43531019,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Diabetes mellitus associated with pancreatic disease","51002006",4178452,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diabetes mellitus due to cystic fibrosis","427089005",4144583,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Diabetes mellitus in neonate small for gestational age","276560009",4079850,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Lipoatrophic diabetes mellitus without complication","112991000000101",44787902,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-07-31
+"Stimmler syndrome","733072002",37116379,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Muscular atrophy, ataxia, retinitis pigmentosa, and diabetes mellitus","237611007",4034961,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malnutrition related diabetes mellitus","75524006",4327944,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness","237617006",4034963,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diabetes mellitus due to structurally abnormal insulin","91352004",4237068,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Maturity-onset diabetes of the young, type 7","609574004",43531015,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Diabetes mellitus, transient neonatal 1","609579009",43531645,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Diabetes mellitus type 1 stage 1","721111000124107",37174264,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-09-01
+"Pregnancy and type 1 diabetes mellitus","609566000",43531009,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Maternally inherited diabetes mellitus","335621000000101",44792134,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-04-01
+"Pre-existing diabetes mellitus","385051000000106",44793114,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-04-01
+"Steroid-induced diabetes mellitus without complication","190416008",4099653,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Type I diabetes mellitus in remission","703137001",45766051,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Maturity-onset diabetes of the young, type 9","609576002",43531016,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Progression of diabetes mellitus","OMOP5166170",1340515,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Juvenile-onset diabetes mellitus, central and peripheral neurodegeneration syndrome","1255271005",37165632,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-10-31
+"Maturity onset diabetes of the young, type 2","237604008",4130164,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Permanent neonatal diabetes mellitus","609565001",43531641,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Slowly progressive insulin dependent diabetes mellitus type 1A","OMOP5166183",1340528,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Diabetes mellitus associated with cystic fibrosis","426705001",4143529,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Primary microcephaly, mild intellectual disability, young-onset diabetes syndrome","782755007",37204232,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Rabson-Mendenhall syndrome","33559001",4140808,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diabetes mellitus type 1 without retinopathy","31321000119102",45757674,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Diabetes mellitus induced by non-steroid drugs without complication","413183008",4136889,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-07-31
+"Pre-existing type 2 diabetes mellitus in pregnancy","609567009",43531010,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Diabetes mellitus type 1 stage 3","721201000124104",37174270,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-09-01
+"Diabetes mellitus caused by chemical","737212004",42537681,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Pregnancy and type 2 diabetes mellitus","237627000",4129519,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gestational diabetes mellitus complicating pregnancy","40801000119106",37018765,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Newly diagnosed diabetes","405749004",4228483,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-01-31
+"Type 1 diabetes mellitus","46635009",201254,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Type 1 diabetes mellitus maturity onset","190372001",4099215,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malnutrition-related diabetes mellitus without complications","190412005",4096042,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Woodhouse Sakati syndrome","816067005",37311329,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Gestational diabetes mellitus class A1","75022004",4326434,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Maturity-onset diabetes of the young, type 6","609573005",43531643,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Type 1 diabetes mellitus without complication","313435000",443412,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Type 2 diabetes mellitus without complication","313436004",4193704,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Poorly controlled type 1 diabetes","29680001000004109",3194119,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Insulin dependent diabetes mellitus type 1B","28032008",4102018,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Steroid-induced diabetes","190447002",4099334,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Permanent neonatal diabetes mellitus with cerebellar agenesis syndrome","724067006",37110041,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Intellectual disability, craniofacial dysmorphism, hypogonadism, diabetes mellitus syndrome","722454003",36717215,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Diabetes mellitus due to pancreatic injury","105401000119101",45757077,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Drug-induced diabetes mellitus","5368009",4202383,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diabetes mellitus during pregnancy, childbirth and the puerperium","199223000",4058243,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Poorly controlled type 2 diabetes","29690001000004108",3193274,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Newly diagnosed type 1 diabetes mellitus","870528001",3661732,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Intrauterine growth restriction, short stature, early adult-onset diabetes syndrome","1197592001",37162799,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Gestational diabetes mellitus","11687002",4024659,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Well controlled type 1 diabetes mellitus","444074000",40484649,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-01-31
+"Neonatal diabetes mellitus","49817004",193323,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ketosis-resistant diabetes mellitus","1217044000",37163431,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-04-30
+"Malnutrition-related diabetes mellitus - fibrocalculous","237600004",4030061,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diabetes mellitus in mother complicating pregnancy, childbirth AND/OR puerperium","76751001",194700,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Secondary diabetes mellitus","8801005",195771,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diabetes mellitus associated with genetic syndrome","5969009",4245270,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diabetes mellitus due to genetic defect in insulin action","609569007",43531642,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Gingival disease co-occurrent with diabetes mellitus","716362006",37396524,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Gestational diabetes mellitus in childbirth","10753491000119101",45757124,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Diabetes mellitus","73211009",201820,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Latent autoimmune diabetes mellitus in adult","426875007",4145827,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-07-31
+"Pre-existing type 1 diabetes mellitus in pregnancy","609564002",43531008,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Wolfram-like syndrome","734022008",37116960,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Presymptomatic type 1 diabetes mellitus","1290118005",1244603,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-09-01
+"Diabetes mellitus, transient neonatal 3","609581006",43531020,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Insulin dependent diabetes mellitus type 1A","23045005",4047906,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diabetes mellitus without complication","111552007",4008576,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Insulin resistance - type A","237651005",4129524,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Primary microcephaly, epilepsy, permanent neonatal diabetes syndrome","782825008",37204277,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Gestational diabetes during pregnancy","5620001000004106",3183244,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Houssay's syndrome","123763000",4048202,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Exacerbation of type 2 diabetes mellitus","OMOP5181808",766253,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-07-12
+"Pre-existing type 2 diabetes mellitus","199230006",4063043,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Poorly controlled diabetes mellitus","29770001000004105",3198118,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Transient neonatal diabetes mellitus","237603002",4129378,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Gestational diabetes mellitus class A2","46894009",4263902,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Type 2 diabetes mellitus in nonobese","359642000",4230254,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Atherosclerosis, deafness, diabetes, epilepsy, nephropathy syndrome","720519003",36715051,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Diabetes mellitus caused by drug without complication","367391000119102",765478,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-03-01
+"Maternally inherited diabetes and deafness","237619009",4129516,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diabetes mellitus complicating Cystic fibrosis","2350001000004101",3178281,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Fibrocalculous pancreatic diabetes","2751001",4099741,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pre-existing diabetes mellitus in pregnancy","609563008",43531007,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Pancreatic hypoplasia, diabetes mellitus, congenital heart disease syndrome","722206009",36716258,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Maturity-onset diabetes of the young, type 8","609575003",43531644,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Photomyoclonus, diabetes mellitus, deafness, nephropathy and cerebral dysfunction","237612000",4030066,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Extreme insulin resistance with acanthosis nigricans, hirsutism AND abnormal insulin receptors","24203005",4084643,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diabetes mellitus in mother complicating childbirth","10754881000119104",45757129,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Wolfram syndrome type 1","1285518004",37168689,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Malnutrition-related diabetes mellitus with peripheral circulatory complications","190410002",4096671,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diabetes mellitus in remission","703136005",45766050,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Gingivitis co-occurrent with diabetes mellitus","709147009",46274096,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Myopathy and diabetes mellitus","783722008",37204818,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Exacerbation of type 1 diabetes mellitus","OMOP5181807",766252,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-07-12
+"Insulin resistance - type B","237652003",4129525,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Maturity-onset diabetes of the young, type 5","609572000",43531014,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Type 2 diabetes mellitus in obese","81531005",4304377,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Maturity-onset diabetes of the young","609561005",43531640,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Diabetes mellitus type 2 without retinopathy","1481000119100",45757474,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-09-01
+"Maturity-onset diabetes of the young, type 11","609578001",43531018,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Maturity-onset diabetes of the young, type 4","609571007",43531013,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Pre-existing malnutrition-related diabetes mellitus in pregnancy","1142044000",606039,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Malnutrition-related diabetes mellitus with renal complications","190407009",4096670,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Atypical diabetes mellitus","530558861000132104",36713275,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Pre-existing type 1 diabetes mellitus","199229001",4063042,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Fulminant type 1 diabetes mellitus","1217068008",37163452,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-04-30
+"Leprechaunism syndrome","111307005",4006979,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diabetes mellitus associated with hormonal etiology","59079001",4240589,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Type II diabetes mellitus in remission","703138006",45766052,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Posttransplant diabetes mellitus","445260006",40482883,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-07-31
+"Pre-existing malnutrition-related diabetes mellitus","199231005",4062687,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Secondary endocrine diabetes mellitus","237601000",4034960,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Wolfram syndrome","70694009",4322638,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Postpartum gestational diabetes mellitus","40791000119105",45757789,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Maturity-onset diabetes of the young, type 3","609570008",43531012,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Maturity-onset diabetes of the young, type 10","609577006",43531017,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Ketosis-prone diabetes mellitus","890171006",604357,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Type 2 diabetes mellitus controlled by diet","164971000119101",45757508,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Diabetes mellitus type 1 stage 2","721121000124104",37174265,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-09-01
+"Diabetes mellitus due to genetic defect in beta cell function","609568004",43531011,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Maternal diabetes mellitus with hypoglycemia affecting fetus OR newborn","4783006",4166381,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diabetes mellitus associated with receptor abnormality","42954008",4178790,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Maturity onset diabetes of the young, type 1","609562003",43531006,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Pre-existing diabetes mellitus in mother complicating childbirth","106281000119103",45757079,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Wolfram syndrome type 2","1285519007",37168690,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Insulin treated type 2 diabetes mellitus","237599002",4130162,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Type 2 diabetes mellitus","44054006",201826,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Protein-deficient diabetes mellitus","57886004",4212631,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Diabetes mellitus induced by non-steroid drugs","408540003",4235410,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2004-01-31
+"Well controlled type 2 diabetes mellitus","444110003",40485020,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-01-31

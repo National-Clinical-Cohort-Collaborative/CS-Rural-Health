@@ -1,0 +1,78 @@
+"Concept Name","Concept Code","Concept Id","Domain Id","Vocabulary Id","Concept Class Id","Concept Category","Invalid Reason","Valid End Date","Valid Start Date"
+"Lifelong obesity","294493008",4171317,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Maternal obesity complicating pregnancy, childbirth and the puerperium, antepartum","171000119107",42872398,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-07-31
+"Body mass index 40+ - severely obese","408512008",4256640,"Observation","SNOMED","Clinical Finding","S",NA,2099-12-31,2004-01-31
+"Generalized obesity","238134004",4029276,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Obese class II","443381000124105",763589,"Observation","SNOMED","Clinical Finding","S",NA,2099-12-31,2014-09-01
+"6q16 microdeletion syndrome","1003380001",604591,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Hypogonadal obesity","5036006",4177337,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Central obesity","248311001",4087487,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Obese","414915002",4215968,"Observation","SNOMED","Clinical Finding","S",NA,2099-12-31,2005-01-31
+"Genetic non-syndromic obesity","1260139006",37166819,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-12-31
+"Intellectual disability, seizures, macrocephaly, obesity syndrome","770750002",36674893,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"MORM syndrome","715628009",37395980,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Android obesity","238132000",4079899,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rapid-onset childhood obesity, hypothalamic dysfunction, hypoventilation, autonomic dysregulation syndrome","773663004",36676689,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Alstrom syndrome","63702009",4270189,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Simple obesity","415530009",4217557,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2005-01-31
+"Lower body obesity","461341000124106",37208175,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-03-01
+"Body mass index 30+ - obesity","162864005",4060985,"Observation","SNOMED","Clinical Finding","S",NA,2099-12-31,2002-01-31
+"Hypothyroid obesity","53146006",4203289,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Peripheral obesity","248312008",4093860,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Childhood obesity","444862003",40481140,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-07-31
+"Hydrocephalus with obesity and hypogonadism syndrome","721231007",36717154,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Prader-Willi-like syndrome","770680004",36674827,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"SIM1-related Prader-Willi-like syndrome","1229943004",37164244,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-05-31
+"Obesity due to pituitary disease","1187531009",37162364,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-01-31
+"Familial obesity","290439001",4160821,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Obesity due to CEP19 deficiency","783549006",37204685,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Constitutional obesity","292464007",4097929,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Drug-induced obesity","190965006",4097996,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Colobomatous microphthalmia, obesity, hypogenitalism, intellectual disability syndrome","776204008",36678790,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Hypothalamic obesity","82793005",4220527,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hyperplastic-hypertrophic obesity","293481008",4163032,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Obesity due to prohormone convertase I deficiency","722053001",36716151,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Severe obesity","83911000119104",37018860,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Adult-onset obesity","296526005",4171972,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Obesity due to melanocortin 4 receptor deficiency","717269008",37397209,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Obesity","414916001",433736,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2005-01-31
+"Obesity in adolescence","788996008",37311904,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Gynecoid obesity","238133005",4029900,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Obesity due to leptin receptor gene deficiency","785722006",37206117,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Spastic paraplegia, intellectual disability, nystagmus, obesity syndrome","1260134001",37166818,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-12-31
+"Obesity by adipocyte growth pattern","414917005",4212443,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2005-01-31
+"Obesity of endocrine origin","298464002",4183240,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"PHIP-related behavioral problems, intellectual disability, obesity, dysmorphic features syndrome","1208987006",37163354,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-03-31
+"Obese class I","443371000124107",763588,"Observation","SNOMED","Clinical Finding","S",NA,2099-12-31,2014-09-01
+"MOMO syndrome","724137002",37110069,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"MAGEL2-related Prader-Willi-like syndrome","1229946007",37164247,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-05-31
+"Buffalo obesity","360566006",4235799,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hyperplastic obesity","414438005",4185912,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2005-01-31
+"Intellectual disability, obesity, prognathism, eye and skin anomalies syndrome","774102003",36674490,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Adiposogenital dystrophy","62999006",4271317,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Obese class III","819948005",37311728,"Observation","SNOMED","Clinical Finding","S",NA,2099-12-31,2020-01-31
+"Endogenous obesity","297500005",4182506,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Obesity due to SIM1 deficiency","783719006",37204815,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Congenital leptin deficiency","700150001",45763687,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Severe obesity complicating pregnancy","15750121000119108",42539192,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Clark Baraitser syndrome","1300132009",1245357,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2024-02-01
+"Obesity in mother complicating childbirth","10750551000119100",45757112,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Obese class I (body mass index 30.0 - 34.9)","914721000000105",44811711,"Observation","SNOMED","Clinical Finding","S",NA,2099-12-31,2014-04-01
+"Intellectual disability, obesity, brain malformation, facial dysmorphism syndrome","763350002",35622038,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Wilson Turner syndrome","719834005",36714548,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Hyperinsulinar obesity","111036000",4005991,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"MEHMO syndrome","722037004",36716144,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Obesity caused by energy imbalance","722596001",36716555,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Obese class II (body mass index 35.0 - 39.9)","914731000000107",44811712,"Observation","SNOMED","Clinical Finding","S",NA,2099-12-31,2014-04-01
+"Severe early-onset obesity insulin resistance syndrome due to SH2B1 deficiency","783556000",37204691,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Proopiomelanocortin deficiency syndrome","702949005",45771307,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Extreme obesity with alveolar hypoventilation","190966007",4100857,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Choroideremia with deafness and obesity syndrome","717761005",36713437,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Obesity, colitis, hypothyroidism, cardiac hypertrophy, developmental delay syndrome","722051004",36717199,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Syndromic X-linked intellectual disability type 7","719160009",36714072,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"X-linked intellectual disability, short stature, overweight syndrome","1255335006",37165655,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-10-31
+"Obesity by fat distribution pattern","414920002",4189665,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2005-01-31
+"Morbid obesity","238136002",434005,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Obesity by contributing factors","414919008",4215969,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2005-01-31
+"Pregnancy complicated by obesity","25630001000004106",3199162,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Hypertrophic obesity","295509007",4171147,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31

@@ -1,0 +1,11 @@
+"Concept Name","Concept Code","Concept Id","Domain Id","Vocabulary Id","Concept Class Id","Concept Category","Invalid Reason","Valid End Date","Valid Start Date"
+"Presumptive positive","720735008",36715206,"Meas Value","SNOMED","Qualifier Value","S",NA,2099-12-31,2017-01-31
+"Positive","10828004",9191,"Meas Value","SNOMED","Qualifier Value","S",NA,2099-12-31,2002-01-31
+"Presumptive positive","LA31317-3",36032716,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Positive","LA6576-8",45884084,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Detected","LA11882-0",45877985,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Present","LA9633-4",45879438,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Abnormal","LA12748-2",45878745,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Present","52101004",4181412,"Meas Value","SNOMED","Qualifier Value","S",NA,2099-12-31,2002-01-31
+"Reactive","LA15255-5",45881802,"Meas Value","LOINC","Answer","S",NA,2099-12-31,1970-01-01
+"Detected","260373001",4126681,"Meas Value","SNOMED","Qualifier Value","S",NA,2099-12-31,2002-01-31

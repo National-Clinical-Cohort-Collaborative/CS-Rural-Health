@@ -1,0 +1,127 @@
+"Concept Name","Concept Code","Concept Id","Domain Id","Vocabulary Id","Concept Class Id","Concept Category","Invalid Reason","Valid End Date","Valid Start Date"
+"Postpartum pre-existing essential hypertension","40511000119107",45757787,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Malignant hypertensive end stage renal disease","285841000119104",43020455,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Chronic hypertensive uremia","78544004",4302748,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Essential hypertension complicating AND/OR reason for care during childbirth","18416000",4083723,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cardiomyopathy due to hypertension","108701000119102",36712757,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Chronic kidney disease stage 1 due to hypertension","117681000119102",44782703,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Hypertensive optic neuropathy","421731000",4228419,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2006-07-31
+"Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus","128001000119105",45757393,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Hypertensive renal disease complicating AND/OR reason for care during puerperium","57873008",4240080,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive heart AND renal disease complicating AND/OR reason for care during childbirth","1474004",4032790,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive heart and chronic kidney disease","8501000119104",44784621,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Hypertensive choroidopathy","422001004",4227517,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2006-07-31
+"Benign hypertensive heart disease","36221001",4263504,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic kidney disease due to benign hypertension","284961000119106",46270353,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered","198951008",200157,"Condition","SNOMED","Disorder",NA,"D",2023-01-31,2002-01-31
+"Hypertensive heart AND chronic kidney disease stage 1","96751000119106",44784640,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Chronic kidney disease stage 3 due to hypertension","129171000119106",44782691,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Hypertensive heart disease with congestive heart failure","5148006",314378,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive left ventricular hypertrophy","428163005",4322893,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-01-31
+"Hypertensive heart disease complicating AND/OR reason for care during puerperium","34273003",4145746,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium","199007008",4057978,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive heart AND renal disease","86234004",195556,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive heart AND chronic kidney disease stage 4","96721000119103",44784639,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Hypertension with disorder of left retina","340441000119107",36684718,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Chronic kidney disease stage 1 due to benign hypertension","284971000119100",46270354,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Benign essential hypertension complicating AND/OR reason for care during childbirth","71874008",4215640,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pre-existing hypertensive heart disease in mother complicating pregnancy","10759031000119106",45757140,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Autosomal dominant progressive nephropathy with hypertension","703310005",45766198,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Malignant hypertensive chronic kidney disease stage 1","285851000119102",43021853,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Hypertensive renal disease complicating AND/OR reason for care during pregnancy","66709007",4280382,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Benign essential hypertension complicating AND/OR reason for care during pregnancy","23717007",4034031,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Cardiovascular renal disease","31881008",4135463,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertension concurrent and due to end stage renal disease on dialysis","704667004",45772751,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Hypertensive renal disease","38481006",201313,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Renal sclerosis with hypertension","14973001",4032952,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"End stage renal disease due to hypertension","111411000119103",37018886,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Benign hypertensive heart disease and chronic renal disease stage 3","285081000119102",762001,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Hypertensive heart disease without congestive heart failure","60899001",319034,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Benign hypertensive renal disease","193003",193493,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive renal disease complicating AND/OR reason for care during childbirth","49171007",4169889,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Benign hypertensive heart disease and chronic renal disease stage 2","285061000119106",762000,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Hypertensive heart disease in obstetric context","79355007",4193900,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Fetal disorder due to maternal hypertension","1003728008",604803,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Hypertensive heart AND chronic kidney disease stage 5","96711000119105",44784638,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Malignant arteriolar nephrosclerosis","81363003",4216685,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive leg ulcer","238795008",4033353,"Condition","SNOMED","Disorder",NA,"D",2022-08-31,2002-01-31
+"Pre-existing hypertensive chronic kidney disease in mother complicating pregnancy","118781000119108",45757356,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Chronic kidney disease stage 2 due to benign hypertension","284981000119102",46270355,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Hypertensive nephrosclerosis","473392002",43021748,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Malignant hypertensive chronic kidney disease","285831000119108",43021852,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Benign hypertensive heart disease with congestive cardiac failure","194767001",439698,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"High-renin essential hypertension","19769006",4058987,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Benign essential hypertension","1201005",312648,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Benign hypertensive heart disease and chronic renal disease stage 4","285101000119109",765536,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Malignant hypertensive heart disease and chronic renal disease stage 3","285911000119109",762033,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Chronic kidney disease stage 3 due to benign hypertension","284991000119104",46273636,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Benign essential hypertension complicating AND/OR reason for care during puerperium","35303009",4148205,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive heart AND chronic kidney disease with congestive heart failure","15781000119107",44782728,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Malignant hypertensive heart disease","54225002",4183981,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Labile essential hypertension","371125006",4159755,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31
+"Chronic kidney disease stage 5 due to hypertension","129161000119100",44782690,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Low-renin essential hypertension","46481004",4263067,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pre-existing hypertensive heart and chronic kidney disease in mother complicating pregnancy","10757481000119107",45757139,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Essential hypertension in obstetric context","72022006",4217486,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive heart disease","64715009",442604,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Renal hypertension complicating pregnancy, childbirth and the puerperium - not delivered","198953006",192684,"Condition","SNOMED","Disorder",NA,"D",2023-01-31,2002-01-31
+"End stage renal disease due to benign hypertension","712487000",46273164,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Essential hypertension complicating AND/OR reason for care during puerperium","9901000",4321603,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive end stage renal disease","434431000124103",762973,"Condition","SNOMED","Disorder",NA,"U",2023-03-01,2013-03-01
+"Hypertensive heart disease complicating AND/OR reason for care during childbirth","59733002",4245279,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive heart disease complicating AND/OR reason for care during pregnancy","20753005",4049377,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive encephalopathy","50490005",312938,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bilateral hypertension with disorder of retinas","345771000119101",36684780,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Pre-existing hypertensive heart disease in mother complicating childbirth","10757441000119102",45757138,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Hypertensive renal failure","49220004",443919,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Benign hypertensive renal disease with renal failure","698591006",44784439,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Malignant hypertensive chronic kidney disease stage 5","153851000119106",43020437,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Hypertensive cerebrovascular disease","409601000004102",3174555,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2019-08-15
+"Benign essential hypertension in obstetric context","63287004",4269358,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Benign hypertensive heart AND renal disease","66052004",442626,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant hypertensive end stage renal disease on dialysis","286371000119107",43021864,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Benign hypertensive heart disease and chronic renal disease","449631000124102",764011,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Chronic kidney disease stage 4 due to hypertension","129151000119102",44782689,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Hypertensive heart AND chronic kidney disease on dialysis","96701000119107",44784637,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Hypertensive heart failure","46113002",444101,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Essential hypertension complicating AND/OR reason for care during pregnancy","78808002",4302591,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pre-existing hypertensive heart and chronic kidney disease in mother complicating childbirth","10757401000119104",45757137,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Hypertensive renal disease in obstetric context","73030000",4218784,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Benign arteriolar nephrosclerosis","62240004",4268756,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Renal hypertension complicating pregnancy, childbirth and the puerperium","198949009",197930,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Benign hypertensive heart disease without congestive heart failure","77970009",313502,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic kidney disease stage 5 due to benign hypertension","285011000119108",46270356,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Hypertension concurrent and due to end stage renal disease on dialysis due to type 2 diabetes mellitus","127991000119101",45757392,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Fetal disorder due to maternal pre-eclampsia","1003729000",604804,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Hypertensive heart and renal disease with (congestive) heart failure","194779001",439696,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Benign hypertensive heart disease and chronic renal disease stage 1","285041000119107",765535,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Hypertensive heart AND renal disease in obstetric context","49102001",4169751,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure","194781004",439694,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant hypertensive chronic kidney disease stage 2","285861000119100",43021854,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Hypertensive heart AND chronic kidney disease stage 2","96741000119109",43021836,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Essential hypertension","59621000",320128,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Benign hypertensive heart disease and chronic renal disease stage 5","120261000119101",760850,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Hypertensive heart AND renal disease complicating AND/OR reason for care during pregnancy","22966008",4046813,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant hypertensive heart disease with congestive heart failure","83105008",316994,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant hypertensive renal disease","65443008",442766,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ischemic ulcer of skin due to arterial hypertension","95343001",4317265,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertensive heart AND chronic kidney disease stage 3","96731000119100",43021835,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Malignant hypertensive heart AND renal disease","66610008",442603,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant hypertensive chronic kidney disease stage 3","285871000119106",43020456,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Malignant hypertensive heart disease and chronic renal disease stage 4","285921000119102",762034,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-09-01
+"Cardiomegaly due to hypertension","275516004",4173820,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant hypertensive chronic kidney disease stage 4","285881000119109",43020457,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Hypertensive retinopathy","6962006",376965,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant essential hypertension","78975002",317898,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium","199006004",4062552,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant hypertensive heart disease without congestive heart failure","36315003",314369,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Hypertension with disorder of right retina","334831000119106",36684653,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Hypertensive heart and renal disease with renal failure","194780003",439695,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Chronic kidney disease due to hypertension","104931000119100",44782429,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Systolic essential hypertension","429457004",4180283,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-01-31
+"End stage renal disease on dialysis due to hypertension","153891000119101",44782717,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Chronic kidney disease stage 4 due to benign hypertension","285001000119105",46273514,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Nephropathy following pre-eclampsia","736992003",42537547,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Chronic kidney disease stage 2 due to hypertension","129181000119109",44782692,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Hypertensive complication","449759005",42709887,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-01-31
+"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication","198952001",201912,"Condition","SNOMED","Disorder",NA,"D",2023-01-31,2002-01-31

@@ -1,0 +1,138 @@
+"Concept Name","Concept Code","Concept Id","Domain Id","Vocabulary Id","Concept Class Id","Concept Category","Invalid Reason","Valid End Date","Valid Start Date"
+"Acute ST segment elevation myocardial infarction of posterobasal wall","15713201000119105",46273495,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Rupture of chordae tendinae due to and following acute myocardial infarction","194866002",4108219,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Postoperative transmural myocardial infarction","1089441000000103",35610089,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Acute ST segment elevation myocardial infarction of right ventricle","896697005",604430,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Acute myocardial infarction due to left coronary artery occlusion","17531000119105",44782769,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Acute ST segment elevation myocardial infarction due to proximal left circumflex coronary artery occlusion","44851000087107",37172163,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-04-30
+"Acute infarction of papillary muscle","10273003",4011131,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Old myocardial infarction","1755008",314666,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Old inferior myocardial infarction","233840006",4121467,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute ST segment elevation myocardial infarction of inferior wall","703213009",45766116,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Old infarct of myocardium of anterolateral region","35411000087108",37171466,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-10-31
+"Subsequent ST segment elevation myocardial infarction","703211006",45766114,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Postoperative transmural myocardial infarction of inferior wall","311793000",4209541,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute myocardial infarction of inferolateral wall","65547006",438447,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Subsequent anterior non-ST segment elevation myocardial infarction","1208872002",37163289,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-03-31
+"Non-Q wave myocardial infarction","314207007",4200113,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Old anterior myocardial infarction","233839009",4119949,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute ST segment elevation myocardial infarction of inferior wall involving right ventricle","703253007",45766151,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Subsequent non-ST segment elevation myocardial infarction","703360004",45766241,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Acute ST segment elevation myocardial infarction due to occlusion of proximal portion of right coronary artery","868214006",3661641,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Acute myocardial infarction of inferior wall","73795002",438170,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute ST segment elevation myocardial infarction involving left anterior descending coronary artery","285981000119103",43020460,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Acute anteroseptal myocardial infarction","62695002",4267568,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute myocardial infarction of anterior wall involving right ventricle","703252002",45766150,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Acute non-Q wave infarction - anterolateral","233828006",4119944,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute nontransmural myocardial infarction","1089451000000100",35610091,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Acute ST segment elevation myocardial infarction due to occlusion of marginal branch of right coronary artery","868224003",3661644,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Acute myocardial infarction of inferior wall involving right ventricle","703251009",45771322,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"First myocardial infarction","394710008",4215259,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-01-31
+"Acute ST segment elevation myocardial infarction due to distal left circumflex coronary artery occlusion","44811000087108",37172157,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-04-30
+"Acute myocardial infarction of right ventricle","836293000",3654465,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Acute myocardial infarction of apical-lateral wall","59063002",4243372,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute ST segment elevation myocardial infarction due to right coronary artery occlusion","15713121000119105",46270163,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Acute Q wave infarction - inferior","233829003",4121464,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rupture of ventricle due to acute myocardial infarction","30277009",4147223,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute non-Q wave infarction - inferolateral","233832000",4119946,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Subsequent myocardial infarction of inferior wall","194858006",4108218,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute ST segment elevation myocardial infarction due to posterolateral branch of left circumflex coronary artery occlusion","44841000087109",37172162,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-04-30
+"Acute myocardial infarction due to occlusion of circumflex branch of left coronary artery","896689003",604425,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Acute myocardial infarction of anterior wall","54329005",434376,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute subendocardial infarction","70422006",444406,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Rupture of cardiac wall without hemopericardium as current complication following acute myocardial infarction","194865003",4108679,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Myocardial infarction due to demand ischemia","16837681000119104",37309626,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"True posterior myocardial infarction","194802003",439693,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute ST segment elevation myocardial infarction due to occlusion of diagonal branch of anterior descending branch of left coronary artery","846668006",3661547,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Acute non-ST segment elevation myocardial infarction","401314000",4270024,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Acute ST segment elevation myocardial infarction due to obtuse marginal branch of left circumflex coronary artery occlusion","44831000087103",37172160,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-04-30
+"Acute myocardial infarction during procedure","703212004",45766115,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Acute ST segment elevation myocardial infarction due to mid left circumflex coronary artery occlusion","44821000087100",37172159,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-04-30
+"Acute ST segment elevation myocardial infarction due to occlusion of anterior descending branch of left coronary artery","840609007",3661520,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Acute ST segment elevation myocardial infarction of inferolateral wall","12238111000119106",35611570,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Acute myocardial infarction of posterolateral wall","15990001",4051874,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Old infarct of myocardium of ventricular septum","35451000087107",37171475,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-10-31
+"Acute ST segment elevation myocardial infarction of anteroseptal wall","15712961000119108",46270160,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Myocardial infarction due to atherothrombotic coronary artery disease","726499301000119105",604179,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Old infarct of myocardium of apex of heart","35401000087106",37171463,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-10-31
+"Acute anterior non-ST segment elevation myocardial infarction","1204155000",37163023,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Subsequent inferior non-ST segment elevation myocardial infarction","1208873007",37163290,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-03-31
+"Acute ST segment elevation myocardial infarction of inferoposterior wall","12238151000119107",35611571,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-07-31
+"Acute ST segment elevation myocardial infarction","401303003",4296653,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Postoperative nontransmural myocardial infarction","1089431000000107",35610087,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Acute anterior non-ST segment elevation myocardial infarction with right ventricular involvement","1204154001",37163022,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Acute inferior non-ST segment elevation myocardial infarction","1204152002",37163020,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Acute ST segment elevation myocardial infarction of anterolateral wall","15712881000119105",46270159,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Acute non-Q wave infarction - widespread","233837006",4124685,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute ST segment elevation myocardial infarction due to left coronary artery occlusion","15713081000119108",46270162,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Acute ST segment elevation myocardial infarction of posterior wall","15713041000119103",46270161,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Acute myocardial infarction of lateral wall","58612006",436706,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Subsequent ST segment elevation myocardial infarction of inferior wall","703209002",45773170,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Acute myocardial infarction of basal-lateral wall","282006",4151046,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute myocardial infarction of posterobasal wall","70998009",4324413,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute myocardial infarction due to right coronary artery occlusion","23311000119105",44782712,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Acute Q wave infarction - anterolateral","233827001",4119457,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Old inferolateral myocardial infarction","35421000087100",37155849,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-10-31
+"Acute ST segment elevation myocardial infarction of septum","15713161000119100",46270164,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Exacerbation of myocardial ischemia","OMOP5181812",766257,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-07-12
+"Acute ST segment elevation myocardial infarction due to mid left anterior descending coronary artery occlusion","840312002",3661503,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Subendocardial myocardial infarction","380001000004106",765132,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-09-01
+"Acute ST segment elevation myocardial infarction due to occlusion of circumflex branch of left coronary artery","896691006",604427,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Acute myocardial infarction of septum","79009004",4303359,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute ST segment elevation myocardial infarction due to occlusion of posterior lateral branch of right coronary artery","868226001",3661646,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Acute ST segment elevation myocardial infarction due to occlusion of posterior descending branch of right coronary artery","868225002",3661645,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Acute myocardial infarction","57054005",312327,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Postoperative myocardial infarction","129574000",4030582,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute widespread myocardial infarction","233835003",4119947,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute ST segment elevation myocardial infarction due to occlusion of distal portion of right coronary artery","868217004",3661642,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Old infarct of myocardium of posterolateral region","35441000087109",37171473,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-10-31
+"Acute ST segment elevation myocardial infarction due to occlusion of septal branch of anterior descending branch of left coronary artery","840680009",3661524,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Acute anteroapical myocardial infarction","52035003",4178129,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute ST segment elevation myocardial infarction of lateral wall","15712921000119103",46274044,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31
+"Acute myocardial infarction of atrium","194809007",4108669,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Postoperative transmural myocardial infarction of anterior wall","311792005",4207921,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute myocardial infarction of anterolateral wall","70211005",438438,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute ST segment elevation myocardial infarction of anterior wall involving right ventricle","703165004",45766076,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Acute ST segment elevation myocardial infarction due to distal left anterior descending coronary artery occlusion","840316004",3661504,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Acute non-ST segment elevation myocardial infarction of right ventricle","1204222000",37163084,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Acute myocardial infarction of inferolateral wall with posterior extension","836295007",3654467,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Mixed myocardial ischemia and infarction","428196007",4323202,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-01-31
+"Acute non-Q wave infarction - inferior","233830008",4119945,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Past myocardial infarction diagnosed on ECG AND/OR other special investigation, but currently presenting no symptoms","32574007",4138833,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute Q wave infarction - anteroseptal","233825009",4119943,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute ST segment elevation myocardial infarction due to occlusion of intermediate artery","846683001",3655133,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Old lateral myocardial infarction","233841005",4119950,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Old posterior myocardial infarction","233842003",4121468,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute myocardial infarction of inferoposterior wall","76593002",441579,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute Q wave myocardial infarction","304914007",4126801,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Postoperative subendocardial myocardial infarction","311796008",4206867,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Silent myocardial infarction","233843008",4124686,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Subsequent myocardial infarction of anterior wall","194857001",4108677,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Subsequent ST segment elevation myocardial infarction of anterior wall","703210007",45766113,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Acute ST segment elevation myocardial infarction due to proximal left anterior descending coronary artery occlusion","840309000",3661502,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Acute non-Q wave infarction","307140009",4145721,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute ST segment elevation myocardial infarction of anteroapical wall","15962541000119106",761736,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-09-01
+"Acute transmural myocardial infarction","1089471000000109",35610093,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Acute non-Q wave infarction - lateral","233834004",4121466,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Myocardial infarction with non-obstructive coronary artery","879955009",618951,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Acute Q wave infarction - lateral","233833005",4124684,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute Q wave infarction - inferolateral","233831007",4121465,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute myocardial infarction of high lateral wall","64627002",4275436,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute ST segment elevation myocardial infarction of atrium","15713001000119100",37169262,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-06-30
+"Acute myocardial infarction of apex of heart","836294006",3654466,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Acute inferior non-ST segment elevation myocardial infarction of right ventricle","1204151009",37163019,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-02-28
+"Cardiac rupture due to and following acute myocardial infarction","233847009",4124687,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute posterior myocardial infarction","233838001",319039,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Subsequent myocardial infarction","194856005",4108217,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute anterior ST segment elevation myocardial infarction","703164000",45766075,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Acute Q wave infarction - widespread","233836002",4119948,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Postoperative acute myocardial infarction","1163440003",37160791,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-09-30
+"Anterior subendocardial myocardial infarction","29780001000004101",3189643,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Myocardial infarction in recovery phase","418044006",4170094,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2006-01-31
+"Microinfarct of heart","42531007",4173632,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Old infarct of high lateral wall of myocardium","35431000087103",37171470,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-11-30
+"Acute non-Q wave infarction - anteroseptal","233826005",4119456,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute ST segment elevation myocardial infarction due to occlusion of mid portion of right coronary artery","868220007",3661643,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Acute ST segment elevation myocardial infarction of apex of heart","896696001",604429,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-01-31
+"Myocardial infarction","22298006",4329847,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Acute ST segment elevation myocardial infarction of posterolateral wall","15712841000119100",46270158,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-07-31

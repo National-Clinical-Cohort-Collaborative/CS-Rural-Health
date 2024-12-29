@@ -1,0 +1,217 @@
+"Concept Name","Concept Code","Concept Id","Domain Id","Vocabulary Id","Concept Class Id","Concept Category","Invalid Reason","Valid End Date","Valid Start Date"
+"Dementia due to rheumatological disease","1259661008",37166513,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Dementia due to niacin deficiency","1186881003",37162181,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-11-30
+"Primary degenerative dementia of the Alzheimer type, presenile onset in remission","698955006",44782941,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Progression of Alzheimer's disease","OMOP5166165",1340510,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Dementia due to prion disease","762350007",42538609,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Primary degenerative dementia","22381000119105",43020444,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Dementia co-occurrent with human immunodeficiency virus infection","713844000",37017549,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Psychoactive substance-induced organic dementia","111480006",4009647,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia associated with normal pressure hydrocephalus","698625002",44784473,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Dementia paralytica juvenilis","82959004",4307791,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia associated with another disease","191519005",374888,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Primary degenerative dementia of the Alzheimer type, senile onset","416975007",4220313,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2005-07-31
+"Dementia due to vitamin E deficiency","1186877003",37162177,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-11-30
+"Behavioral disturbance co-occurrent and due to late onset Alzheimer dementia","16219201000119101",37117145,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Uncomplicated senile dementia","191449005",375791,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia due to Whipple disease","1259513009",37166376,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Dementia caused by volatile inhalant","788898005",37311999,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Dementia due to obstructive hydrocephalus","1259675001",37166526,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"General paresis - neurosyphilis","51928006",377788,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Post-traumatic dementia with behavioral change","698687007",44784521,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Dementia in remission","698949001",44782935,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Traumatic encephalopathy","230282000",4047745,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia caused by heavy metal exposure","733184002",37116464,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Dementia due to autoimmune encephalitis","1259586006",37166443,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Dementia due to Pick's disease","21921000119103",44782710,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Dementia due to hypertensive encephalopathy","1259531005",37166393,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Dementia due to Hashimoto encephalopathy","1259471003",37166338,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Hallucinations co-occurrent and due to late onset dementia","2421000119107",37109222,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Pick's disease with Pick cells and no Pick bodies","230272001",4044049,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Vascular dementia in remission","698948009",44782934,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"ADan amyloidosis","783258000",37204554,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Vascular dementia without behavioral disturbance","16276361000119109",37109056,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Frontotemporal dementia due to FUS mutation","1260355006",37166907,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-02-28
+"Sedative, hypnotic AND/OR anxiolytic-induced persisting dementia","59651006",4245766,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia due to primary malignant neoplasm of brain","733190003",37116465,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Autosomal dominant Alzheimer disease due to mutation of amyloid precursor protein","1156789004",608051,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Subcortical vascular dementia","230286002",4047747,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Multi-infarct dementia, uncomplicated","70936005",377254,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia due to metastatic malignant neoplasm to brain","1259492003",37166357,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Presenile dementia with depression","191455000",377527,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"High level Alzheimers neuropathology changes","481311000004107",3184947,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2019-08-15
+"Dementia due to kuru","1259501004",37166366,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Vascular dementia","429998004",443605,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-07-31
+"Primary degenerative dementia of the Alzheimer type, presenile onset, with delirium","65096006",4277746,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia due to infectious disease","724777003",37119154,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Dementia due to thiamine deficiency","1186879000",37162179,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-11-30
+"Mixed cortical and subcortical vascular dementia","230287006",4046090,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia due to cerebral amyloid angiopathy","1259488005",37166354,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Dementia due to Parkinson's disease","101421000119107",44782422,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Non-familial Alzheimer's disease of early onset","230266001",4043242,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia due to hepatic failure","1259465009",37166332,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Intermediate level Alzheimers neuropathology changes","481291000004108",3176418,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2019-08-15
+"Dementia due to multiple sclerosis with altered behavior","82371000119101",44782559,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Dementia due to Creutzfeldt Jakob disease","429458009",4180284,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2008-01-31
+"Dementia due to metabolic abnormality","722979008",36716796,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Dementia due to iron deficiency","840465008",3654921,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Dementia due to Rett syndrome","130121000119104",43020422,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Dementia due to chromosomal anomaly","722980006",36716797,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Early Alzheimers disease","13160001000004109",3179057,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Multi-infarct dementia with depression","14070001",443864,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia due to and following injury of head","762351006",42538610,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Dementia due to trypanosomiasis","1259524006",37166387,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Presenile dementia with delirium","191452002",381832,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Predominantly cortical dementia","1089521000000106",35610098,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Low level Alzheimers neuropathology changes","471041000004103",3177168,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2019-08-15
+"Chronic traumatic encephalopathy","1187004001",37162223,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-11-30
+"ITM2B-related amyloidosis","1187126002",37162253,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-11-30
+"Cortical vascular dementia","833326008",3654434,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Exacerbation of dementia","OMOP5165957",1340302,"Condition","OMOP Extension","Disorder","S",NA,2099-12-31,2022-05-06
+"Semantic dementia","230288001",4046091,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Non-amnestic Alzheimer disease","722600006",36716558,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"CHMP2B-related frontotemporal dementia","702393003",45771254,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Dementia due to leukodystrophy","1259494002",37166359,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Senile dementia with depression","191459006",379784,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia associated with alcoholism","281004",378726,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Early onset Alzheimer's disease with behavioral disturbance","105421000119105",44782432,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Dementia due to hypercalcemia","1259467001",37166334,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Progressive aphasia in Alzheimer's disease","230280008",4043379,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Frontal variant non-amnestic Alzheimer disease","1263585001",37167060,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-02-28
+"Pick's disease with Pick bodies","230271008",4047744,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Senile and presenile organic psychotic conditions","268612007",4152048,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia due to polyarteritis nodosa","1259663006",37166515,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Multi-infarct dementia due to atherosclerosis","106021000119105",37395562,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"HTRA1-related autosomal dominant cerebral small vessel disease","1186724002",37162098,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-11-30
+"Focal Alzheimer's disease","230269008",4043377,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Primary degenerative dementia of the Alzheimer type, senile onset in remission","698954005",44782940,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Arteriosclerotic dementia with paranoia","191465006",4100252,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia with AIDS (acquired immunodeficiency syndrome)","421529006",4228133,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2006-07-31
+"Dementia due to renal failure","1259656006",37166508,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Alzheimer's disease","26929004",378419,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia due to sporadic Creutzfeldt-Jakob disease","1259529001",37166391,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Amyotrophic lateral sclerosis, parkinsonism, dementia complex","838276009",3654598,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Severe dementia","428351000124105",765653,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Presenile dementia","12348006",378125,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia due to paraneoplastic encephalitis","1259667007",37166519,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Alzheimers continuum","245761000004103",3170377,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2019-08-15
+"Subcortical dementia","762707000",42538857,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Patchy dementia","230289009",4047748,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Frontotemporal dementia due to C9orf72 mutation","1260354005",37166906,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-02-28
+"Amyotrophic lateral sclerosis with frontotemporal dementia","1259124000",37166122,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-11-30
+"Dementia due to acquired hypothyroidism","1259591007",37166448,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Presenile dementia co-occurrent with human immunodeficiency virus infection","713488003",37017247,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Presenile dementia with AIDS (acquired immunodeficiency syndrome)","421023003",4224240,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2006-07-31
+"Senile dementia with delirium","191461002",376946,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Ischemic vascular dementia","723123001",36717248,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Presenile dementia with psychosis","1089501000000102",35610096,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Post-dialysis dementia","1259584009",37166441,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Dementia due to Huntington chorea","442344002",40483103,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2009-07-31
+"Dementia due to progressive subcortical gliosis","1259665004",37166517,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Dementia of the Alzheimer type with behavioral disturbance","1581000119101",43530664,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-07-31
+"Dementia due to carbon monoxide poisoning","840464007",3654920,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Toxic dementia","722978000",36717598,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Dementia with aggressive behavior","9960001000004109",3188986,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Right temporal lobar atrophy","716667005",37396752,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Predominantly cortical vascular dementia","1089531000000108",35610099,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-04-01
+"Dementia due to deficiency of folic acid","1148924004",606974,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Dementia associated with Parkinson's Disease","425390006",4314734,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-01-31
+"Primary degenerative dementia of the Alzheimer type, senile onset, uncomplicated","66108005",4278830,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Familial Alzheimer's disease of late onset","230267005",4043243,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia associated with multiple sclerosis","698626001",44784474,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Frontotemporal dementia due to VCP mutation","1260353004",37166905,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-02-28
+"Dementia due to Behcet syndrome","1259579003",37166436,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Moderate dementia","430771000124100",762704,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Frontotemporal dementia","230270009",4043378,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dialysis dementia","9345005",4244346,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Primary degenerative dementia of the Alzheimer type, senile onset, with delirium","4817008",4167839,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Senile dementia","15662003",4048875,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Inhalant-induced persisting dementia","32875003",4139421,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia due to subacute sclerosing panencephalitis","1259519008",37166382,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Dementia due to chronic subdural hematoma","733191004",37116466,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Dementia due to classical pantothenate kinase associated neurodegeneration","1259990004",37166714,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Dementia due to disorder of central nervous system","724776007",37110513,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Dementia","52448006",4182210,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia with behavioral disturbance","1591000119103",43530666,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Presenile dementia with paranoia","191454001",4098163,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia due to cerebral vasculitis","1259485008",37166351,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Dementia associated with viral encephalitis","698726009",44784560,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Alzheimer disease with psychosis","1259128002",37166126,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-11-30
+"Dementia due to variant Creutzfeldt-Jakob disease","1259522005",37166385,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Delusions in Alzheimer's disease","141991000119109",44782726,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Multi-infarct dementia","56267009",379778,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia due to celiac disease","1259581001",37166438,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Non-familial Alzheimer's disease of late onset","230268000",4043244,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia due to systemic lupus erythematosus","1259517005",37166380,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Logopenic non-amnestic Alzheimer disease","1263555006",37167043,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-02-28
+"Senile dementia with paranoia","191458003",4100250,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Delirium co-occurrent with dementia","725898002",37111242,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Senile dementia with psychosis","371026009",4159643,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31
+"Behavioral variant of frontotemporal dementia","716994006",37399020,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Dementia associated with cerebral anoxia","698781002",44784607,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Primary degenerative dementia of the Alzheimer type, senile onset, with behavioral disturbance","429161000124103",762578,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Epilepsy co-occurrent and due to dementia","724992007",37110677,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Dementia associated with cerebral lipidosis","698624003",44784472,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Drug-induced dementia","191493005",376095,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia due to multiple system atrophy","1259677009",37166528,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Familial Alzheimer's disease of early onset","230265002",4043241,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"ABri amyloidosis","783161005",37204495,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-07-31
+"Primary degenerative dementia of the Alzheimer type, presenile onset, with delusions","54502004",4182539,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia due to pellagra","788899002",37311998,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Dementia due to iatrogenic Creutzfeldt-Jakob disease","1259503001",37166368,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Depressed mood in Alzheimer's disease","142001000119106",44782727,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Dementia due to Lyme disease","1259496000",37166361,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Dementia of frontal lobe type","278857002",441002,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia associated with neurosyphilis","698725008",44784559,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Dementia due to herpes encephalitis","733192006",37116467,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Primary degenerative dementia of the Alzheimer type, presenile onset","416780008",4218017,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2005-07-31
+"Frontotemporal dementia due to TARDBP mutation","1260352009",37166904,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-02-28
+"Dementia due to hemorrhagic cerebral infarction due to hypertension","1259499007",37166364,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Primary degenerative dementia of the Alzheimer type, senile onset, with delusions","55009008",4204688,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia due to fatal familial insomnia","1259480003",37166347,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Behavioral disturbance due to multi-infarct dementia","293671000119109",37155661,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2022-04-30
+"Multi-infarct dementia with delusions","25772007",443790,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Primary degenerative dementia of the Alzheimer type, presenile onset, uncomplicated","6475002",4277444,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Altered behavior in Huntington's dementia","82361000119107",44784620,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Disinhibited behavior due to dementia","789170003",37311665,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-01-31
+"Autosomal dominant Alzheimer disease due to mutation of presenilin 1","1156800008",603149,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Dementia due to Gerstmann Straussler Scheinker syndrome","1259469003",37166336,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Dementia due to familial Creutzfeldt-Jakob disease","1259478009",37166345,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Presenile dementia with delusions","31081000119101",44782771,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Altered behavior in Alzheimer's disease","97751000119108",44784643,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-01-31
+"Rapidly progressive dementia","723390000",37109635,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Dementia following injury caused by exposure to ionizing radiation","733185001",42535731,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-01-31
+"Dementia co-occurrent and due to neurocysticercosis","722977005",36716795,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Dementia due to neurofilament inclusion body disease","1259673008",37166524,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Primary degenerative dementia of the Alzheimer type, presenile onset, with depression","10532003",4019705,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Frontal lobe degeneration with motor neurone disease","230274000",4044051,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Primary degenerative dementia of the Alzheimer type, senile onset, with depression","26852004",4097384,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Uncomplicated presenile dementia","191451009",376085,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Mild dementia","428051000124108",762497,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2012-09-01
+"Dementia due to atypical pantothenate kinase associated neurodegeneration","1259679007",37166530,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Dementia caused by manganese","1186887004",37162187,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-11-30
+"Dementia due to fragile X syndrome","1259473000",37166340,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Senile dementia of the Lewy body type","312991009",4196433,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Senile dementia with depressive or paranoid features","191457008",4101137,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"PRKAR1B-related neurodegenerative dementia with intermediate filaments","774069007",36674472,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2019-01-31
+"Dementia due to cobalamin deficiency","1186880002",37162180,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-11-30
+"Arteriosclerotic dementia with delirium","191464005",376094,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia due to nutritional deficiency","1186883000",37162183,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-11-30
+"Altered behavior due to Pick's disease","82351000119105",37397762,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Uncomplicated arteriosclerotic dementia","191463004",439276,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Organic dementia with AIDS (acquired immunodeficiency syndrome)","420614009",4224860,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2006-07-31
+"Alzheimer's disease co-occurrent with delirium","142011000119109",37395572,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Epileptic dementia with behavioral disturbance","82381000119103",37018608,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Dementia due to genetic disease","1259476008",37166343,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Subcortical leukoencephalopathy","90099008",4234089,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Dementia with progressive multifocal leukoencephalopathy","733193001",37116468,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Mixed dementia","79341000119107",43021816,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2013-01-31
+"Dementia with Down syndrome","733194007",37116469,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-07-31
+"Arteriosclerotic dementia with depression","191466007",374326,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Vascular dementia with behavioral disturbance","288631000119104",37018688,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Dementia due to Wilson disease","1259511006",37166374,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2023-01-31
+"Vascular dementia of acute onset","230285003",4046089,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Multi-infarct dementia with delirium","10349009",444091,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Parkinsonism with dementia of Guadeloupe","715737004",37396063,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-07-31
+"Autosomal dominant Alzheimer disease due to mutation of presenilin 2","1156798001",608060,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Senile dementia with delusion","371024007",380986,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-07-31

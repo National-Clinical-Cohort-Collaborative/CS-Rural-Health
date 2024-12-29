@@ -1,0 +1,969 @@
+"Concept Name","Concept Code","Concept Id","Domain Id","Vocabulary Id","Concept Class Id","Concept Category","Invalid Reason","Valid End Date","Valid Start Date"
+"Malignant tumor involving an organ by direct extension from bladder","369594008",4183631,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to superficial inguinal lymph nodes","94612008",4314055,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to pancreas of unknown primary","285614004",4112774,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to the mesentery","94624001",4314062,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to brain and spinal cord","188462001",378087,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to retrocecal tissue","94517007",4315671,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Undifferentiated large cell carcinomatosis","424954002",4310162,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2007-01-31
+"Leukemic reticuloendotheliosis of lymph nodes of head, face and neck","188645002",132570,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic small cell carcinoma to right lung","15956661000119102",608929,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to ilium","94337005",4312019,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to small intestine of unknown primary","285609003",4109233,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to multiple endocrine glands","94417005",4248079,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving right ovary by separate metastasis from vagina","369573005",4289523,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Atelectasis AND/OR obstructive pneumonitis of entire lung associated with direct extension of malignant neoplasm","384980008",4294588,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-01-31
+"Tissue structure invaded by direct extension of primary malignant neoplasm of colon","1220001000004105",3184103,"Observation","Nebraska Lexicon","Observable Entity","S",NA,2099-12-31,2018-01-25
+"Metastatic malignant neoplasm to skin of hand","94560003",4314352,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to thyroglossal duct","94633004",4314488,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic squamous cell carcinoma to bilateral lungs","15957141000119109",608931,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to aortic body","94173006",4246349,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to ischium","94353008",4248062,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving left fallopian tube by separate metastasis from vagina","369546009",4283753,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to lumbar vertebral column","94389000",4312547,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Primary malignant neoplasm of breast with axillary lymph node invasion","1082901000112103",3662037,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2020-07-31
+"Metastatic malignant neoplasm to intestinal tract","94346004",4312022,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to sclera","94530008",4314344,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to myocardium","94433008",4315544,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of foot","94193003",4246355,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to clavicle","94256002",4312941,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to inguinal region","94340005",4313089,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to lung from adenocarcinoma","1661000119106",43530696,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2012-09-01
+"Metastatic carcinoid tumor","705176003",45767695,"Condition","SNOMED","Disorder",NA,"U",2024-02-01,2015-01-31
+"Malignant tumor involving bladder by separate metastasis from uterus","369481008",4283737,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to muscle of pelvis","94426008",4313796,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving bladder by separate metastasis from vagina","369482001",4289378,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic castration-resistant prostate cancer","459381000124106",36684947,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-09-01
+"Germline BRCA-mutated, HER2-negative metastatic breast cancer","767444009",35624616,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-07-31
+"Metastatic malignant neoplasm to skin of buttock","94545001",4315679,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis involving oral cavity","404094007",4297349,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2003-07-31
+"Metastatic malignant neoplasm to skin of forearm","94557005",4313935,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to left lower lobe of lung","94375005",4313211,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic neuroblastoma of orbit proper","414676007",4189478,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2005-01-31
+"Metastatic malignant neoplasm to bone of skull","94220000",4312823,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving vagina by direct extension from uterine cervix","369580007",4289827,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to mastoid air cells","94404007",4313791,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to epitrochlear lymph nodes","94285008",4312950,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to sublingual gland","94608002",4314483,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to intrathoracic organs","94352003",4248061,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to anterior mediastinum","94167005",4312701,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to hypoglossal nerve","94331006",4313085,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to femoral lymph nodes","94299007",4312303,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to right kidney","1079541000119102",602668,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to vestibule of nose","94677006",4314196,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to frontal sinus","94310008",4312015,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to parietal peritoneum","94472007",4312562,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving prostate by direct extension from bladder","369485004",4283738,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of trunk","94575006",4313937,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving vulva by separate metastasis from uterus","369592007",4183630,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic pancreatic endocrine carcinoma","459401000124106",36684949,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-09-01
+"Metastatic malignant neoplasm to occipital lymph nodes","94449005",4248187,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of abdomen","94187006",4311746,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of ear","94549007",4315680,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Vagina involved by direct extension of malignant neoplasm","399383004",4164180,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-07-31
+"Metastatic malignant neoplasm to pyriform sinus","94507002",4315668,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving vagina by separate metastasis from ovary","369584003",4281166,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Malignant tumor involving right fallopian tube by separate metastasis from left fallopian tube","369554006",4289690,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to intercostal lymph nodes","94344001",4248060,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving vagina by direct extension from endometrium","369505004",4289676,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant tumor involving uterine corpus by separate metastasis from vagina","369578001",4283883,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to zygomatic bone","94683009",4314199,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to nose","94445004",4312557,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to urethra","94661005",4315813,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to stomach","94606003",4314053,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of hip","94197002",4246357,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant melanoma to left kidney","15958661000119103",608945,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Ovarian cancer, disseminated","422782004",4307838,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2007-01-31
+"Malignant tumor involving left ovary by separate metastasis uterus","369565001",4289521,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Secondary malignant neoplasm of deep cervical lymph nodes","1090121000000109",35610150,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-04-01
+"Malignant tumor involving right ovary by direct extension from uterus","369566000",4281159,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to retina","94516003",4311324,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Bilateral metastatic small cell carcinoma to lungs","15956741000119106",608930,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Visceral pleura involved by direct extension of malignant neoplasm","384966001",4298747,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-01-31
+"Squamous cell carcinomatosis","425303004",4312923,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2007-01-31
+"Metastatic malignant neoplasm to cardia of stomach","94237007",4312934,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Non-Hodgkin lymphoma of central nervous system metastatic to lymph node of lower limb","116811000119106",37016150,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Secondary malignant neoplasm of bilateral lungs","12246601000119101",760916,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2015-09-01
+"Metastatic small cell neuroendocrine carcinoma to liver","107811000119106",600854,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastasis from malignant tumor of esophagus","315003007",4198445,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Metastatic malignant neoplasm to paraganglion","94462009",4315553,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving left ovary by direct extension from right ovary","369526004",4289682,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant tumor involving vulva by direct extension from ovary","369509005",4283746,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant tumor involving vulva by direct extension from uterine cervix","369510000",4281023,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Lymphoma of kidney","236513009",4030667,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic basal cell carcinoma","402537005",4291148,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2003-07-31
+"Metastatic malignant neoplasm to lower limb","94386007",4312545,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving seminal vesicle by direct extension from prostate","369490001",4283740,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to maxillary sinus","94406009",4315538,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to clitoris","94257006",4247943,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to rib","94521000",4311326,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving right ovary by separate metastasis from endometrium","369568004",4281160,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Krukenberg tumor","359987004",4230544,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm of vestibulocochlear nerve","94156009",4312039,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving an organ by separate metastasis from endometrium","369603003",4182918,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Metastatic malignant neoplasm to skin of hip","94561004",4315793,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving an organ by separate metastasis from bladder","369602008",4183632,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Metastatic malignant neoplasm to bone of upper limb","94221001",4311762,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to nipple of male breast","94444000",4248185,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to chest wall","94253005",4311764,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Cancer of vulva, disseminated","423987006",4312395,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2007-01-31
+"Malignant tumor involving an organ by separate metastasis from uterine cervix","369607002",4183914,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Malignant tumor involving right broad ligament by metastasis from ovary","369540003",4289686,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Malignant tumor involving left fallopian tube by separate metastasis from endometrium","369542006",4289687,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to spinal meninges","94601008",4314481,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic human epidermal growth factor 2 positive carcinoma of breast","459391000124109",36684948,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-09-01
+"Metastatic malignant neoplasm to penis","94481001",4313917,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Pathologic fracture of vertebra at site of metastatic neoplasm","866087009",3655619,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2020-07-31
+"Metastatic malignant neoplasm to omentum","94626004",4314487,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of cheek","94546000",4311331,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving rectum by direct extension from prostate","369451000",4289246,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastasis to head and neck lymph node","303194003",4123439,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving rectum by direct extension from ovary","369450004",4289090,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to ascending colon","94179005",4312150,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant melanoma to right kidney","15958741000119107",608947,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to skin of temporal region","94572009",4314356,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Mediastinum involved by direct extension of malignant neoplasm","384968000",4294474,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-01-31
+"Metastatic malignant neoplasm to uterus","94665001",4314495,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to preauricular lymph nodes","94501001",4311320,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to cervical vertebral column","94250008",4246457,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to pituitary gland","94491007",4311209,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to islets of Langerhans","94354002",4248063,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Prostatic stroma involved by direct extension of malignant neoplasm","399433008",4161541,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-07-31
+"Metastasis from malignant tumor of colon","314998002",4196264,"Condition","SNOMED","Disorder",NA,"D",2022-11-30,2002-01-31
+"Metastasis to adrenal gland of unknown primary","285643007",4112781,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to carina","94238002",4312935,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis from malignant tumor of adrenal gland","314991008",4196260,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Metastatic malignant neoplasm to pharynx","94488007",4315663,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic lymphangitic carcinoma","255118005",4114341,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Pathologic fracture of bone at site of metastatic neoplasm","134421000",4047562,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving left ovary by separate metastasis from uterine cervix","369563008",4289692,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to pelvis","94480000",4313916,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to mediastinum","94409002",434875,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving left fallopian tube by direct extension from endometrium","369515005",4289389,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to undescended testis","94651003",4315812,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to postcricoid region","94495003",4313920,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic lung carcinoma","32140001000004109",3181040,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Metastatic malignant neoplasm to junctional zone of tongue","94359007",4248065,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to urinary system","94663008",78987,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Pulmonary tumor embolism","233940007",4119610,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of lower leg","400058002",4220182,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2003-07-31
+"Metastatic malignant neoplasm to ciliary body","94255003",4312293,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to pancreas","94459006",4248192,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to junctional region of epiglottis","94358004",4312540,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of toe","94574005",4314358,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Bilateral metastatic malignant neoplasm to kidneys","12246481000119106",602333,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Carcinomatosis of peritoneal cavity","255121007",4114343,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of scalp","94570001",4311337,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to mesenteric lymph nodes","94410007",4315539,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to muscle of buttock","94419008",4313794,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to cornea","94265009",4312945,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to sebaceous gland","94532000",4314346,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to thoracic vertebral column","94274006",4247948,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic adenocarcinoma of unknown origin","307226002",4145870,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant tumor involving right fallopian tube by separate metastasis from ovary","369555007",4289519,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to middle third of esophagus","94414003",4248077,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to phalanx of foot","94486006",4315662,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of breast","94544002",4313931,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving an organ by separate metastasis from uterus","369608007",4182920,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Metastatic malignant neoplasm to uvula","94667009",4315814,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to tail of pancreas","94618007",4311347,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm of meninges","722671009",36716609,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2017-01-31
+"Heart involved by direct extension of malignant neoplasm","384969008",4293441,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-01-31
+"Malignant tumor involving uterine corpus by direct extension from fallopian tube","369579009",4281163,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant tumor involving right ovary by direct extension from fallopian tube","369532009",4281033,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to submaxillary gland","94610000",4314484,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Secondary carcinoma of gastrointestinal tract","286902000",192269,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to oculomotor nerve","94450005",4312559,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to multiple lymph nodes","303201005",4123440,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to accessory nerve","94154007",4311631,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to periadrenal tissue","94482008",4313918,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to parametrial lymph nodes","94464005",4315657,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to trapezium","94644007",4315811,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to hepatic flexure of colon","94328005",4312018,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Leukemic infiltrate of retina","314418005",4197152,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant tumor involving urethra by direct extension from prostate","369466002",4280897,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Carcinomatosis of liver","8010/9-C22.0",44503831,"Condition","ICDO3","ICDO Condition","S",NA,2099-12-31,2015-09-18
+"Metastatic malignant neoplasm to skin of eyebrow","94552004",4313934,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Carcinomatosis of peritoneum, NOS","8010/9-C48.2",44505266,"Condition","ICDO3","ICDO Condition","S",NA,2099-12-31,2015-09-18
+"Malignant tumor involving uterine corpus by direct extension from uterine cervix","369495006",4289102,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic small cell carcinoma to left lung","15956701000119109",608896,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to spermatic cord","94597008",4314048,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to floor of mouth","94304008",4313078,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to left fallopian tube","369514009",4281024,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to vocal cord","94679009",4314500,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant melanoma with diffuse hypermelanosis","402563000",4292389,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2003-07-31
+"Metastatic malignant neoplasm to adnexa of skin","94159002",4311633,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving vasa deferentia by separate metastasis from prostate","369484000",4289380,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to urinary bladder neck","94662003",4314494,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to metatarsal bone","94412004",4315540,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to orbit","94453007",4312560,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to adrenal medulla","94162004",4246253,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic adenocarcinoma of ovary","16430001000004107",3177517,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Metastatic malignant neoplasm to bronchus of middle lobe of right lung","94231008",4246454,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Donor derived melanoma","720587009",36715103,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2017-01-31
+"Epididymis involved by direct extension of malignant neoplasm","396774006",4287020,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-07-31
+"Metastatic malignant neoplasm to fallopian tube","94295001",4312957,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to soft tissues of hip","94587004",4315799,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to ethmoid bone","94287000",4312300,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to areola of male breast","94177007",4311636,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis from malignant tumor of prostate","314994000",4196262,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to muscle of thorax","94429001",4313797,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of upper limb","94577003",4314360,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to rectovesical septum","94512001",4313925,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to infraclavicular lymph nodes","94338000",4312020,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to heart","94327000",4247967,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to lip","94380001",4313789,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to inner aspect of lip","94341009",4248058,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to upper limb","94654006",4314073,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to commissure of lip","94261000",4312943,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to bone of lower limb","94219006",4312279,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to frontal lobe","94309003",4312014,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to soft palate","94581003",4311339,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving left fallopian tube by separate metastasis from uterus","369545008",4289516,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to dorsal surface of tongue","94273000",4312295,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to soft tissues of upper limb","94596004",4314480,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to false vocal cord","94296000",4312302,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving right ovary by separate metastasis from left ovary","369570008",4281161,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to middle lobe of right lung","94523002",4315673,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of thigh","94573004",4314357,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to lateral wall of nasopharynx","94372008",4312027,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of perineum","94568005",4313936,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving left broad ligament by metastasis from ovary","369538008",4281034,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Leukemic infiltration of skin (chronic T-cell lymphocytic leukemia)","404122003",4297353,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Metastatic malignant neoplasm to soft tissues of pelvis","94591009",4314478,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant lymphoma, NOS, of renal pelvis","9590/3-C65.9",36560170,"Condition","ICDO3","ICDO Condition","S",NA,2099-12-31,2015-09-18
+"Metastatic malignant neoplasm to maxilla","94405008",4312548,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of inguinal region","94198007",4246358,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to apex of urinary bladder","359782004",4230394,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to gallbladder","94312000",4313079,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis from malignant tumor of lung","315006004",4201621,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Metastatic malignant neoplasm to ovary","94455000",199752,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to retropharyngeal lymph nodes","94520004",4314341,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to retroperitoneum of unknown primary","285617006",4116577,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Secondary malignant neoplasm of sacral lymph nodes","1090171000000108",35610156,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-04-01
+"Metastatic malignant neoplasm to soft tissues of trunk","94595000",4314047,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to hard palate","94324007",4247966,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to nervous system and eye","255123005",4116348,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Mediastinal pleura involved by direct extension of malignant neoplasm","384965002",4294473,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-01-31
+"Metastasis to colon of unknown primary","285611007",4110013,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to anterior wall of urinary bladder","94171008",4312149,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to liver of unknown primary","285613005",4110014,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to upper outer quadrant of female breast","94655007",4314189,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to testis","94623007",4311348,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to brain of unknown primary","285641009",4112780,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to rectouterine pouch","94510009",4314339,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to sacrococcygeal region","94526005",4311327,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to unknown site","274088005",4158910,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to female genital organ","94298004",201240,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis from malignant tumor of tongue","315009006",4196267,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Metastasis to rectum of unknown primary","285612000",4112773,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic neoplasm of left basal ganglion","19090001000004101",765459,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2015-09-01
+"Metastatic malignant neoplasm to body of penis","94213007",4246369,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to vermilion border of upper lip","94675003",4314194,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to retroperitoneum and peritoneum","188445006",196925,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to epididymis and vas deferens","188471005",4096952,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to colon","94260004",4311765,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Squamous cell carcinoma metastatic to pleura","91181000119105",764956,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2016-03-01
+"Metastatic malignant neoplasm to perirenal tissue","94485005",4248200,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving bladder by separate metastasis from fallopian tube","369477008",4281017,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Malignant tumor involving left ovary by separate metastasis from fallopian tube","369561005",4281037,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Perivesical fat involved by direct extension of malignant neoplasm","397227007",4264865,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-07-31
+"Metastatic malignant neoplasm to vagina","94668004",4313225,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Secondary malignant neoplasm of liver and intrahepatic bile duct","813671000000107",44806773,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2012-04-01
+"Malignant tumor involving left fallopian tube by separate metastasis from uterine cervix","369610009",4182921,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to nipple of female breast","94443006",4248184,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving uterine corpus by direct extension from ovary","369494005",4289383,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to phalanx of hand","94487002",4313919,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to posterior wall of nasopharynx","94498001",4311212,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to anus","94172001",4312703,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Secondary malignant neoplasm of diaphragmatic lymph nodes","1090161000000101",35610155,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-04-01
+"Malignant neoplasm involving urinary bladder by direct extension from ovary","369471009",4280900,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Secondary undifferentiated large cell malignant neoplasm of kidney","108201000119105",759974,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2017-09-01
+"Metastatic malignant neoplasm to temporal lobe","94622002",4314061,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to tibial lymph nodes","94636007",4314489,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving seminal vesicle by direct extension from bladder","369489005",4289099,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic adenocarcinoma to pleura","91191000119108",600834,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Secondary malignant neoplasm of internal iliac lymph nodes","1090221000000100",35610162,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-04-01
+"Metastasis from malignant tumor of skin","314988008",4200894,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Malignant tumor involving rectum by separate metastasis from endometrium","369455009",4289248,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Malignant tumor involving vagina by direct extension from ovary","369512008",4283747,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant neoplasm involving urinary bladder by direct extension from vagina","369475000",4289376,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of head","94196006",4246356,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of neck","94201002",4312165,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving right fallopian tube by separate metastasis from uterine cervix","369556008",4281035,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic adenocarcinoma right femur","21440001000004105",3185886,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Metastatic malignant neoplasm to upper inner quadrant of female breast","94653000",4314072,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of axilla","94189009",4312152,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant neoplasm involving urinary bladder by direct extension from endometrium","369469009",4280899,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to right breast","12241071000119106",602332,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to vulva","94681006",4313226,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to axillary lymph nodes","94181007",442252,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to male breast","94401004",442178,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel","94211009",4312276,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic squamous cell carcinoma to right kidney","15958301000119109",608943,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to upper respiratory tract","94656008",4314190,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to lymph node of unknown primary","285644001",4112491,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastasis to heart of unknown primary","285606005",4112771,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Malignant tumor involving vulva by direct extension from vagina","369587005",4283887,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to nasal cavity","94436000",4248183,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to cranial nerve","94266005",4312946,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to brain","94225005",4246451,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to obturator lymph nodes","94446003",4312558,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Thyroid cancer metastatic to bone","424887002",4312667,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2007-01-31
+"Metastatic malignant neoplasm to blood vessel of toe","94208008",4311759,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to left adrenal gland","353721000119100",601143,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to brain stem","94224009",4312280,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to broad ligament","94226006",4312824,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to breast","145501000119108",603292,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Rete testis involved by direct extension of malignant neoplasm","396773000",4245610,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-07-31
+"Malignant tumor involving vulva by separate metastasis from ovary","369590004",4183335,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to pectoral axillary lymph nodes","94477001",4248198,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to trunk","94649002",4314071,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to pisiform bone of hand","94490008",4312564,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of upper arm","449631002",42709759,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2012-01-31
+"Metastatic collecting duct carcinoma","459411000124109",36684950,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-09-01
+"Metastatic malignant neoplasm to uterine adnexa","94664002",4313223,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic adenocarcinoma to left kidney","15958221000119106",608941,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to trachea","94641004",4313217,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Pericarditis secondary to tumor metastatic to pericardium","40312006",4222722,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to tonsillar pillar","94640003",4314490,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of finger","94555002",4315685,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Secondary malignant neoplasm of circumflex iliac lymph nodes","1090211000000106",35610160,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-04-01
+"Malignant tumor involving an organ by direct extension from vagina","369601001",4183338,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Bilateral metastatic malignant melanoma to kidneys","15958701000119105",608946,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic neuroendocrine tumor of abdominal wall","22300001000004106",3192209,"Observation","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Metastatic disseminated retinitis AND retinochoroiditis","61517002",432631,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant tumor involving an organ by separate metastasis from vagina","369609004",4183339,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Malignant tumor involving vagina by separate metastasis from fallopian tube","369583009",4281165,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Tissue structures invaded by direct extension of excised primary malignant neoplasm","911750121000004106",3186711,"Observation","Nebraska Lexicon","Observable Entity","S",NA,2099-12-31,2018-01-25
+"Leukemic reticuloendotheliosis of intrathoracic lymph nodes","93146001",442095,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant tumor involving left broad ligament by direct extension from ovary","369537003",4289685,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to coccygeal body","94258001",4247944,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving rectum by separate metastasis from vagina","369461007",4289095,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to scrotum","94531007",4314345,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis from malignant melanoma of skin","314987003",4200893,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastasis from malignant tumor of bladder","314995004",4196263,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Metastatic malignant neoplasm to right lower lobe of lung","94522007",4313926,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to supraclavicular lymph nodes","94614009",4314485,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant neoplasm involving urinary bladder by direct extension from uterine cervix","369473007",4289097,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to pancreatic duct","94460001",4315550,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving right fallopian tube by direct extension from left fallopian tube","369548005",4283755,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to hamate bone","94322006",4312016,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to right ovary","369530001",4281030,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to vallecula","94670008",4314192,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Seminal vesicle involved by direct extension of malignant neoplasm","399471000",4164329,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-07-31
+"Malignant tumor involving vulva by direct extension from fallopian tube","369508002",4283745,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to base of tongue","94184004",4312705,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic adenocarcinoma to bilateral kidneys","15958181000119103",608940,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to body of pancreas","94212002",4246368,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to muscle of lower limb","94424006",4248081,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving uterine cervix by separate metastasis from ovary","369501008",4289386,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic adenocarcinoma to skin","91231000119104",608852,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to axilla","94180008",4312151,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic sarcoma","443144000",40480137,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-01-31
+"Malignant tumor involving right fallopian tube by separate metastasis from vagina","369558009",4283879,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic squamous cell carcinoma to left lung","15957221000119107",608933,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to laryngeal aspect of aryepiglottic fold","94366008",4248068,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to cervix uteri","188469005",4091766,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of elbow","94550007",4315681,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Tissue structure invaded not transperitoneally by direct extension of primary malignant neoplasm of colon","3090001000004100",3183723,"Observation","Nebraska Lexicon","Observable Entity","S",NA,2099-12-31,2018-01-25
+"Metastatic malignant neoplasm to carpal bone","94240007",4312936,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic renal cell carcinoma","702392008",45773365,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2014-07-31
+"Metastatic malignant neoplasm to skin of wrist","94578008",4315796,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving vagina by direct extension from fallopian tube","369506003",4281021,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to genital organ","145511000119106",608735,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to sphenoid bone","94598003",4314049,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to supraglottis","94616006",4314058,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving rectum by direct extension from uterus","369453002",4289091,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant tumor involving rectum by separate metastasis from fallopian tube","369456005",4283612,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Leukemic infiltration of skin in acute myeloid leukemia","404152006",4300784,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Malignant tumor involving bladder by separate metastasis from ovary","369478003",4283615,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to parotid lymph nodes","94475009",4315659,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of eyelid","94553009",4315683,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to pleura of unknown primary","285605009",4116575,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to anterior wall of nasopharynx","94170009",4312702,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to trigone of urinary bladder","94647000",4314491,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to labia majora","94361003",4248066,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to muscle of hip","94422005",4312552,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving vulva by separate metastasis from endometrium","369588000",4283888,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to soft tissues","94264008",4312944,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to uterus of unknown primary","285635002",4112779,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to rectum","94513006",442174,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to middle ear","94413009",4312549,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving uterine cervix by direct extension from ovary","369498008",4281020,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant tumor involving urethra by direct extension from bladder","369465003",4289373,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to urinary bladder","94186002",4312802,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic urothelial carcinoma","458321000124102",36684913,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-09-01
+"Malignant tumor involving an organ by direct extension from uterus","369600000",4182917,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to upper third of esophagus","94657004",4313220,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to intra-abdominal organs","94348003",4312023,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic adenocarcinoma to bilateral lungs","15956181000119102",36712980,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2017-01-31
+"Metastatic malignant neoplasm to bronchus","94233006",4312284,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to body of uterus","94215000",4312277,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to buccal mucosa","94234000",4312285,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to breast of unknown primary","285634003",4110019,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastasis from malignant tumor of rectum","314997007",4201618,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Metastatic malignant neoplasm to calcaneus","94236003",4312825,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving uterine cervix by separate metastasis from fallopian tube","369500009",4283743,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to alveolar ridge mucosa","94163009",4312040,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of hand","94195005",4312805,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to glossopharyngeal nerve","94317006",4312426,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving rectum by separate metastasis from prostate","369458006",4289249,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to pelvic peritoneum","94479003",4313915,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis from malignant tumor of bone","314990009",4196259,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Lymphomatous infiltrate of kidney","836486002",3654579,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2020-07-31
+"Metastasis from malignant tumor of stomach","315002002",4201620,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Metastatic malignant neoplasm to skin of head","188454009",4091762,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to cecum","94235004",4312286,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant lymphoma of thyroid gland","278051002",4080741,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant tumor involving vulva by direct extension from uterus","369511001",4289677,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to pleura","94493005",72266,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving urethra by separate metastasis from prostate","369468001",4289096,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic nonsmall cell carcinoma abd","16600001000004102",3186659,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Metastatic malignant neoplasm to thymus","94632009",4311472,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to lesser curvature of stomach","94378007",4312542,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic neoplasm of left broad ligament","369535006",4289393,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to appendix","94175004",4311635,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of upper arm","399969009",4266182,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2003-07-31
+"Metastatic malignant neoplasm to vermilion border of lip","94673005",4315815,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to neck","94441008",4315547,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Great vessels involved by direct extension of malignant neoplasm","384970009",4297941,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-01-31
+"Metastatic malignant neoplasm to bronchus of left lower lobe","94228007",4246452,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to parametrium","94465006",4313803,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving vagina by direct extension from uterus","369503006",4289674,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to seminal vesicle","369488002",4283739,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to carotid body","94239005",4246455,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to eustachian tube","94289002",4312952,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"T-cell leukemic infiltration of skin","402879006",4298848,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Leukemic reticuloendotheliosis of lymph nodes of inguinal region and lower limb","188649008",439268,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant tumor involving left ovary by separate metastasis from right ovary","369562003",4283880,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic adenocarcinoma","354081000119101",604497,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to epididymis","94283001",4312948,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to gum","94321004",4247965,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to soft tissue of unknown primary","285633009",4110018,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to subglottis","94607007",4314482,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to right adrenal gland","353571000119109",601141,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to skin of nose","94567000",4314354,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to thyroid gland","94634005",4315809,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to parotid gland","94474008",4315658,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to palatine bone","94457008",4248191,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to pelvic bone","94478006",4313914,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving right fallopian tube by direct extension from endometrium","369547000",4283754,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant infiltration of skin by underlying tumor","404091004",4300690,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2003-07-31
+"Metastasis to skin of unknown primary","285631006",4112488,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to small intestine","94580002",198371,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to lateral portion of floor of mouth","94371001",4313209,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to lymph nodes of upper limb","94398002",434298,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of lower leg","449630001",42709758,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2012-01-31
+"Bilateral metastatic malignant neoplasm to ovaries","15930821000119105",608866,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Secondary malignant neoplasm of internal mammary lymph nodes","1090091000000108",35610148,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-04-01
+"Metastatic malignant neoplasm to head","94326009",4313083,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to glottis","94318001",4247963,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to right lung","353561000119103",46270513,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2015-07-31
+"Malignant tumor involving uterine cervix by direct extension from fallopian tube","369497003",4289673,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of shoulder and arm","188458007",4097426,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to lateral axillary lymph nodes","359780007",4234267,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving left fallopian tube by separate metastasis from ovary","369543001",4283751,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to bronchus of left upper lobe","94229004",4312282,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to back","94183005",4311637,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to tonsil","94458003",4315549,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving left ovary by direct extension from uterine cervix","369527008",4289683,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of chest","94547009",4311332,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Leukemic infiltration of skin (T-cell lymphoblastic leukemia)","404124002",4299143,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Metastatic squamous cell carcinoma to lymph node","1671000119100",43530697,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2012-03-01
+"Metastatic malignant neoplasm to nasopharyngeal wall","242862004",4055132,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to femur","94300004",4313077,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic neuroblastoma","704152002",45772700,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2015-01-31
+"Metastatic malignant neoplasm to lumbosacral plexus","709285002",46271211,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2015-07-31
+"Secondary malignant neoplasm of supratrochlear lymph nodes","1090101000000100",35610149,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-04-01
+"Metastatic malignant neoplasm to great vessels","94319009",4312427,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Adenocarcinoma carcinomatosis","423595004",4311148,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2007-01-31
+"Malignant tumor involving bladder by separate metastasis from prostate","369479006",4281018,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Secondary malignant neoplasm of deep inguinal lymph nodes","1090201000000109",35610159,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-04-01
+"Malignant tumor involving right ovary by direct extension from left ovary","369533004",4283749,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to nasal bone","94435001",4312556,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of external auditory canal","94551006",4313933,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to second cuneiform bone of foot","94533005",4311329,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to paramammary lymph nodes","94463004",4248193,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to accessory sinus","94155008",4312038,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to peripheral nerve","255124004",4111031,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to shoulder","94537006",4314348,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis from malignant tumor of breast","315004001",4198446,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Metastatic malignant neoplasm to cauda equina","94242004",4312937,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving right ovary by separate metastasis from fallopian tube","369569007",4289824,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to descending colon","94271003",4311875,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to lacrimal gland duct","423384009",4308759,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2007-01-31
+"Lymphangitis carcinomatosa","255119002",4114342,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to lateral wall of oropharynx","94373003",4312028,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to ureter","94659001",4314191,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of shoulder","94205006",4312821,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to respiratory and digestive systems","269473008",4147162,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant tumor involving left fallopian tube by direct extension from ovary","369516006",4281025,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of hip and skin of lower leg","827186009",3654229,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2020-07-31
+"Malignant tumor involving right fallopian tube by separate metastasis from endometrium","369553000",4283877,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to bone of face","94218003",4312278,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to hypogastric lymph nodes","94330007",4248055,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to bone marrow","94217008",4246450,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to posterior hypopharyngeal wall","94496002",4313921,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to Waldeyer's ring","94682004",4314198,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to coccyx","94259009",4247945,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to muscle of inguinal region","94423000",4315542,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic adenocarcinoma to right lung","15956221000119105",608927,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Malignant tumor involving vagina by separate metastasis from uterus","369586001",4283886,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to retromolar area","94518002",4314340,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of lower limb","94565008",4315794,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to common bile duct","94262007",4247946,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving right ovary by direct extension from uterine cervix","369534005",4283750,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of lip","94564007",4311335,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to cerebrum","94248000",4311763,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving uterine corpus by separate metastasis from ovary","369576002",4283882,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to skin of neck","94566009",4315795,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to olfactory nerve","94451009",4248189,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Leukemic infiltrate of kidney","236512004",4126118,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic penile cancer","459421000124101",36684951,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-09-01
+"Metastatic squamous cell carcinoma to left kidney","15958381000119101",608944,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to trapezoid bone","94645008",4314069,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving vagina by separate metastasis from uterine cervix","369585002",4283885,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Malignant tumor involving left ovary by direct extension from uterus","369528003",4281029,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic carcinoma to skin","404092006",4299133,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2003-07-31
+"Metastatic malignant neoplasm to intrathoracic lymph nodes","94351005",439751,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to adrenal cortex","94160007",4246251,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Ureter involved by direct extension of malignant neoplasm","399726007",4265160,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-07-31
+"Metastatic malignant neoplasm to acromion","94157000",4312699,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic squamous cell carcinoma to lung","105041000119109",600852,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-01-31
+"Metastatic malignant neoplasm to urachus","94658009",4313221,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving bladder by separate metastasis from endometrium","369476004",4289377,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to soft tissues of head","94586008",4311340,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to optic nerve","94452002",4248190,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to lingual tonsil","94379004",4248070,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to left ovary","369523007",4281027,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of back","94543008",4315678,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to frontal bone","94308006",4312013,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to round ligament of uterus","94525009",4315674,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to lower leg","449632009",42709760,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2012-01-31
+"Metastatic malignant neoplasm to rectosigmoid junction","94509004",4311322,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Diaphragm involved by direct extension of malignant neoplasm","384964003",4293439,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-01-31
+"Metastatic malignant neoplasm to sigmoid colon","94538001",4315677,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to inguinal lymph nodes","94339008",194585,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to left upper lobe of lung","94376006",4313212,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to abdominal esophagus","94152006",4312037,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving bladder by separate metastasis from uterine cervix","369480009",4289098,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to posterior wall of oropharynx","94499009",4315664,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of popliteal space","94204005",4311757,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to lymph node from primary malignant neoplasm of female breast","16260631000119101",36713026,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2017-01-31
+"Metastatic malignant neoplasm to ectopic female breast tissue","94276008",4312296,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Pelvic sidewall involved by direct extension of malignant neoplasm","397231001",4246707,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-07-31
+"Malignant melanoma metastatic to kidney","108101000119101",759938,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2016-03-01
+"Metastatic malignant neoplasm to laryngeal aspect of interarytenoid fold","94367004",4313207,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to tracheobronchial lymph nodes","94642006",4314067,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Sarcomatous metastasis in skin","404093001",4299134,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2003-07-31
+"Malignant tumor involving right ovary by separate metastasis from uterus","369572000",4289826,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to endocrine gland","94280003",4311878,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of groin","94559008",4314351,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to spleen of unknown primary","285615003",4112775,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastasis to digestive organs","275266006",4166589,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to anterior aspect of epiglottis","94166001",4312041,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm","128462008",432851,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to nasopharynx","241861008",4084147,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to oropharynx","94454001",4313802,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to ovary of unknown primary","285637005",4112489,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Malignant tumor involving ureter by direct extension from bladder","369463005",4289251,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant tumor involving vulva by separate metastasis from fallopian tube","369589008",4183628,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Disseminated malignancy of unknown primary","285645000",438701,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastasis from malignant tumor of pancreas","314999005",4201015,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Malignant tumor involving uterine cervix by separate metastasis from vagina","369574004",4281162,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Malignant tumor involving uterine corpus by direct extension from bladder","369493004",4289101,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Status of direct extension and invasion of adjacent tissue structures by primary malignant neoplasm","952951000004108",3185542,"Observation","Nebraska Lexicon","Observable Entity","S",NA,2099-12-31,2019-08-15
+"Parietal pericardium involved by direct extension of malignant neoplasm","384967005",4293440,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-01-31
+"Metastatic malignant neoplasm to perianal skin","94483003",4315661,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Leukemic infiltration of skin","404156009",4301780,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Malignant tumor involving uterine corpus by direct extension from vagina","369496007",4289384,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to sphenoidal sinus","94599006",4314050,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic squamous cell carcinoma","403906006",4301510,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Metastatic HER2 positive gastroesophageal junction cancer","458581000124106",36674609,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-09-01
+"Metastatic malignant neoplasm to liver","94381002",198700,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving right fallopian tube by direct extension from ovary","369549002",4283756,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of face","94554003",4315684,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to retroperitoneum","94628003",4315806,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving seminal vesicle by separate metastasis from prostate","369492009",4283741,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Malignant neoplasm involving urinary bladder by direct extension from uterus","369474001",4280901,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic squamous cell carcinoma to skin","78461000119105",600828,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-01-31
+"Metastatic malignant neoplasm to submental lymph nodes","94611001",4314054,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to gastrointestinal tract","94313005",4247962,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to lymph nodes of head","94394000",442183,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to peritoneum of unknown primary","285616002",4112776,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Main bronchus (less than 2 cm distal to the carina) involved by direct extension of malignant neoplasm","384979005",4294587,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-01-31
+"Metastatic malignant neoplasm to jejunum","94357009",4313092,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving uterine corpus by separate metastasis from bladder","369502001",4283744,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to vestibule of mouth","94676002",4314195,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to vomer","94680007",4314197,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of buttock","94190000",4311747,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to extrahepatic bile ducts","94291005",4312301,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis from malignant tumor of kidney","314996003",4201617,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of thorax","94207003",4311758,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to renal pelvis","94514000",4315670,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Leukemic infiltration of skin in chronic myeloid leukemia","404153001",4299154,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Metastatic malignant neoplasm to soft tissues of neck","94590005",4314046,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to thoracic esophagus","94631002",4315808,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to axillary tail of breast","372093008",4162133,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-07-31
+"Metastatic malignant neoplasm to major salivary gland","94400003",4248074,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Leukemic reticuloendotheliosis of intrapelvic lymph nodes","93145002",196650,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin","94579000",136354,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving ureter by separate metastasis from bladder","369464004",4289252,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to spinal cord","94600009",4311342,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis from malignant tumor of cervix","314992001",4201014,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Metastatic malignant neoplasm to splenic flexure of colon","94604000",4314052,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving vasa deferentia by direct extension from prostate","369483006",4289379,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastasis from malignant tumor of soft tissues","314989000",4196258,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Metastatic malignant neoplasm to paraurethral glands","94468008",4248195,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Leukemic infiltration of skin (T-cell prolymphocytic leukemia)","404123008",4301665,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Metastatic malignant neoplasm to tonsillar fossa","94639000",4314066,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to spleen","94603006",442173,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to muscle of upper limb","94431005",4312555,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of knee","94562006",4311334,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to soft tissues of axilla","94583000",4315797,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant infiltration of oral cavity by underlying tumor","404090003",4301656,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2003-07-31
+"Leukemic infiltration of skin in myeloid leukemia","404151004",4299153,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2003-07-31
+"Metastatic malignant neoplasm to hilus of lung","94329002",4312429,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to prepuce","94307001",4312012,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to larynx","94370000",4312026,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to articular cartilage","128465005",4027231,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to duodenum","94275007",442188,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to thigh","94629006",4315807,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to greater curvature of stomach","94320003",4247964,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to pubis","94504009",4315667,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to cystic duct","94270002",4247947,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of forearm","94194009",4312804,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to metacarpal bone","94411006",4313793,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to epicardium","94282006",4312299,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to soft tissues of face","94585007",4315798,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to epiglottis","94284007",4312949,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to vertebral column","94602001",4315802,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to short bone of upper limb","94536002",4314347,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Secondary malignant neoplasm of mastoid lymph nodes","1090151000000104",35610154,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-04-01
+"Metastatic malignant neoplasm to long bone of lower limb","94382009",4313214,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to choroid","94254004",4246458,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis from malignant tumor of thyroid","315007008",4201622,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Malignant tumor involving an organ by direct extension from endometrium","369595009",4183911,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to fibula","94301000",4247960,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to areola of female breast","94176003",4246350,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to left kidney","1079531000119106",605437,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Melanoma carcinomatosis","103511000119103",759823,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2016-03-01
+"Metastatic malignant neoplasm to flank","94303002",4312423,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to eye of unknown primary","285642002",4110135,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to Meckel's diverticulum","94407000",4248076,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving an organ by separate metastasis from ovary","369605005",4182919,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Metastatic malignant neoplasm to lymph nodes of multiple sites","94396003",320342,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving vulva by separate metastasis from uterine cervix","369591000",4183629,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Malignant tumor involving vagina by separate metastasis from bladder","369581006",4281164,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Malignant tumor involving an organ by direct extension from fallopian tube","369596005",4183337,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to uveal tract","94666000",4313224,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to soft tissue of back","11717361000119108",602316,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Malignant neoplasm involving urinary bladder by direct extension from prostate","369472002",4283614,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to retroperitoneal lymph nodes","94519005",4315672,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving vagina by direct extension from bladder","369504000",4289675,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to anterior portion of floor of mouth","94168000",4312148,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to face","94293008",4312955,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to viscera","1082601000112109",37310458,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2020-01-31
+"Malignant tumor involving right fallopian tube by direct extension from uterus","369551003",4289689,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Primary malignant neoplasm of rectosigmoid junction metastatic to brain","96981000119102",37018661,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2016-01-31
+"Metastatic malignant neoplasm to hypopharynx","94334003",4248056,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to parietal pleura","94473002",4248197,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving an organ by direct extension from uterine cervix","369599003",4182916,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to mediastinal lymph nodes","94408005",4313792,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to paravaginal lymph nodes","94469000",4313912,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis from malignant tumor of buccal cavity","315008003",4201623,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Metastatic malignant neoplasm to diaphragm","94272005",4311876,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to lower outer quadrant of female breast","94387003",4312546,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Leukemic infiltrate of choroid","314408000",4199641,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Carcinomatosis of peritoneum","836274002",3654457,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2020-07-31
+"Non-Hodgkin lymphoma of central nervous system metastatic to lymph node of upper limb","116821000119104",37018877,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Metastatic adenocarcinoma to right kidney","15958261000119101",608942,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastasis to large intestine of unknown primary","285610008",4112772,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to skin of foot","94556001",4315686,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Secondary malignant neoplasm of superficial cervical lymph nodes","1090141000000102",35610152,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-04-01
+"Metastatic malignant neoplasm to lacrimal drainage structure","418529003",4302810,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2006-01-31
+"Metastatic malignant neoplasm to trigeminal nerve","94646009",4313218,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Secondary malignant neoplasm of anterior cervical lymph nodes","1090131000000106",35610151,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-04-01
+"Small cell carcinoma carcinomatosis","424052001",4310595,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2007-01-31
+"Bilateral metastatic malignant neoplasm to adrenal glands","12246561000119101",36712822,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2017-01-31
+"Bilateral metastatic malignant neoplasm to eyes","15977551000119100",608979,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Malignant tumor involving rectum by direct extension from fallopian tube","369449004",4289245,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to intestinal lymph nodes","94345000",4312430,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving rectum by direct extension from endometrium","369448007",4283611,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to para-aortic body","94461002",4315552,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to cuboid","94269003",4312947,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant melanoma to pleura","91221000119102",619828,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Malignant tumor involving right ovary by direct extension from vagina","369567009",4289522,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant infiltration of soft tissue","278433008",4081542,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to pararectal lymph nodes","94466007",4248194,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving left ovary by separate metastasis from endometrium","369560006",4281036,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to bronchopulmonary lymph nodes","94227002",4312281,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant melanoma","443493003",40481908,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2010-01-31
+"Metastatic non-small cell lung cancer","457721000124104",36684857,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2018-09-01
+"Malignant tumor involving rectum by separate metastasis from uterine cervix","369459003",4289094,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to third cuneiform bone of foot","94630001",4311349,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to dome of urinary bladder","359785002",4230395,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to vagus nerve","94669007",4314496,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to trachea of unknown primary","285598005",4112650,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Leukemic infiltration of orbit","423032007",4307000,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2007-01-31
+"Metastatic malignant neoplasm to soft tissues of perineum","94592002",4311341,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to intrahepatic bile ducts","94349006",4312024,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to tibia","94635006",4315810,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic squamous cell carcinoma to liver","107831000119101",608855,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-01-31
+"Metastatic malignant neoplasm to lunate bone","94390009",4248071,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to myometrium","94434002",4313798,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to cubital lymph nodes","94268006",4311768,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to anterior two-thirds of tongue","94169008",4246347,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to palate","94456004",4315548,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to fundus of stomach","94311007",4247961,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to ampulla of Vater","94164003",4311634,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to right eye","15977591000119105",608980,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to scalene lymph nodes","94528006",4315675,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of finger","94192008",4246354,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to respiratory tract","94515004",253717,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic neoplasm of right broad ligament","369536007",4289684,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to occipital bone","94447007",4313801,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to muscle of trunk","94430006",4315543,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to vermilion border of lower lip","94674004",4314498,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to sternum","94605004",4311344,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving an organ by separate metastasis from fallopian tube","369604009",4183744,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Small cell carcinoma metastatic to skin","91251000119105",764957,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2016-03-01
+"Metastasis to bladder of unknown primary","285640005",4112490,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Prostate cancer metastatic to eye","96901000119105",764971,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2016-03-01
+"Metastatic malignant neoplasm to labia minora","94362005",4248067,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Widespread metastatic malignant neoplastic disease","405843009",4233629,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2004-01-31
+"Metastatic malignant neoplasm to pericardium","94484009",4248199,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to lymph nodes of neck from primary malignant neoplasm of thyroid","13351431000119102",36717298,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2017-01-31
+"Metastatic malignant neoplasm to nasal concha","94437009",4315545,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to scaphoid bone","94440009",4315546,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant neoplasm involving urinary bladder by direct extension from fallopian tube","369470005",4289374,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastasis to vertebral column of unknown primary","285619009",4116578,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastasis to bronchus of unknown primary","285603002",4112482,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to peritoneum","94627008",4315805,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to supraclavicular region","94615005",4314057,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to tip and lateral border of tongue","94637003",4314065,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to mediastinum of unknown primary","285607001",4112483,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Malignant tumor involving left fallopian tube by separate metastasis from right fallopian tube","369544007",4283752,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to minor salivary gland","94415002",4248078,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving left fallopian tube by direct extension from vagina","369541004",4289515,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant tumor involving vulva by separate metastasis from vagina","369593002",4183336,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to ventral surface of tongue","94672000",4314497,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to liver from adenocarcinoma","1691000119104",43530694,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2012-09-01
+"Metastatic malignant neoplasm to muscle of face","94420002",4312551,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to bronchus of right upper lobe","94232001",4312283,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Rectum involved by direct extension of malignant neoplasm","397229005",4287939,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-07-31
+"Metastatic malignant neoplasm to cerebral ventricle","94247005",4312291,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to hand","94323001",4313082,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to endocervix","94279001",4247949,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to first cuneiform bone of foot","94302007",4311895,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to septum of nose","94534004",4313927,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of lower limb","94200001",4311756,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to left eye","15977631000119105",608981,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to nervous system","94442001",373425,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to talus","94619004",4314059,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Secondary nodes - axilla/arm","269616004",4151265,"Condition","SNOMED","Disorder",NA,"D",2022-07-31,2002-01-31
+"Chest wall involved by direct extension of malignant neoplasm","384963009",4294472,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-01-31
+"Metastatic small cell neuroendocrine carcinoma to pleura","91211000119109",600835,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to cartilage of nose","94241006",4312287,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to upper gum","94652005",4314493,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving right fallopian tube by direct extension from vagina","369552005",4289518,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastasis from malignant tumor of gallbladder","315001009",4198444,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Metastatic spinal cord compression","713425003",37017192,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2016-01-31
+"Perihilar fat involved by direct extension of malignant neoplasm","396771003",4245609,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-07-31
+"Metastatic malignant neoplasm to lacrimal gland","94364006",4313206,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic testicular cancer","29270001000004102",3178803,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Metastasis to thymus of unknown primary","285608006",4116576,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Carcinomatosis of lung, NOS","8010/9-C34.9",44505002,"Condition","ICDO3","ICDO Condition","S",NA,2099-12-31,2015-09-18
+"Metastatic malignant neoplasm to pineal gland","94489004",4311208,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to left breast","12241031000119108",602331,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to eye","94292003",4312954,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to biliary tract","94185003",4311638,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving seminal vesicle by separate metastasis from bladder","369491002",4289382,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic gastroesophageal adenocarcinoma","459371000124108",36684946,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-09-01
+"Metastatic malignant neoplasm to muscle of head","94421003",4313795,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of upper limb","94210005",4312275,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to lymph nodes of neck","94397007",442181,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to muscle of neck","94425007",4248082,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to main bronchus","94399005",4248073,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to muscle","94432003",4248182,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to ureteric orifice of urinary bladder","94660006",4313222,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving rectum by separate metastasis from ovary","369457001",4289093,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to lymph node","94392001",318096,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of umbilicus","94576007",4314359,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to laryngeal commissure","94368009",4248069,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to trochlear nerve","94648005",4314070,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to right fallopian tube","369521009",4289680,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic adenocarcinoma to bone","91281000119103",36716990,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2017-01-31
+"Prostate cancer metastatic to bone","712849003",37016740,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2016-01-31
+"Metastatic malignant neoplasm to intrapelvic lymph nodes","94350006",200959,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of ankle","94540006",4314350,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving vagina by separate metastasis from endometrium","369582004",4283884,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to sweat gland","94617002",4311346,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to axillary tail of female breast","94182000",4246352,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to male genital organ","94402006",442177,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving urethra by separate metastasis from bladder","369467006",4280898,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Malignant tumor involving left fallopian tube by direct extension from uterine cervix","369518007",4289678,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to ectopic male breast tissue","94277004",4311877,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving left ovary by direct extension from fallopian tube","369525000",4281028,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to muscle of abdomen","94418000",4315541,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Secondary malignant neoplasm of coeliac lymph nodes","1090191000000107",35610158,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-04-01
+"Metastasis from malignant tumor of bronchus","315005000",4201020,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Metastatic malignant neoplasm to posterior wall of urinary bladder","94500000",4314336,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of chin","94548004",4313932,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to submandibular lymph nodes","94609005",4311345,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to lymph nodes of face","94393006",440341,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Secondary neuroendocrine carcinoma of peritoneum","135091000119106",761027,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2013-09-01
+"Metastatic malignant neoplasm to isthmus of uterus","94355001",4248064,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving uterine cervix by direct extension from vagina","369499000",4283742,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to glomus jugulare","94316002",4313081,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Leukemic reticuloendotheliosis of intra-abdominal lymph nodes","93144003",193429,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to the mesocolon","94625000",4314063,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to cheek","94252000",4312940,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to tarsal bone","94620005",4315804,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving rectum by direct extension from uterine cervix","369452007",4289247,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of perineum","94203004",4312166,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Carcinomatosis","307593001",4141245,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant melanoma metastatic to pancreas","97051000119105",764972,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2016-03-01
+"Metastasis to bone of unknown primary","285618001",4112777,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Carcinomatosis of skin, NOS","8010/9-C44.9",44505049,"Condition","ICDO3","ICDO Condition","S",NA,2099-12-31,2015-09-18
+"Malignant tumor involving right ovary by separate metastasis from uterine cervix","369571007",4289825,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to soft tissues of thorax","94594001",4315801,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving uterine corpus by separate metastasis from fallopian tube","369575003",4283881,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of trunk","94209000",4312167,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis from malignant tumor of uterus","314993006",4196261,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Metastatic malignant neoplasm to temporal bone","94621009",4314486,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving left ovary by direct extension from vagina","369559001",4289691,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant tumor involving right ovary by direct extension from endometrium","369531002",4281032,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Uterus and uterine adnexa involved by direct extension of malignant neoplasm","397230000",4264425,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-07-31
+"Metastasis to vagina of unknown primary","285638000",4110133,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastasis to kidney of unknown primary","285639008",4110134,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to esophagus","94286009",4311880,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving right fallopian tube by direct extension from uterine cervix","369550002",4289688,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to short bone of lower limb","94535003",4313928,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to ethmoidal sinus","94288005",4312951,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to adenoid","94158005",4311632,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to soft tissues of shoulder","94593007",4314479,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to occipital lobe","94448002",4248186,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to kidney","94360002",196053,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to adrenal gland","94161006",193144,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to lateral wall of urinary bladder","94374009",4313210,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Secondary adenocarcinoma of kidney","108211000119108",759982,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2013-09-01
+"Metastatic malignant neoplasm to prostate","94503003",4314337,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to bone","94222008",78097,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to conjunctiva","94263002",4311766,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm of peripheral nervous system","722707001",36716630,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2017-01-31
+"Metastatic malignant neoplasm to vas deferens","94671007",4314193,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of face","94191001",4312803,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to gingival mucosa","94314004",4312425,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to forearm","94306005",4311897,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to soft tissues of abdomen","94582005",4314361,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to tongue","94638008",4311473,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Tissue structure invaded by direct extension of primary malignant neoplasm of breast using light microscopy","3280001000004106",3170318,"Observation","Nebraska Lexicon","Observable Entity","S",NA,2099-12-31,2018-01-25
+"No direct extension of malignant neoplasm identified","397207006",4246701,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-07-31
+"Metastatic malignant neoplasm to inner aspect of upper lip","94343007",4248059,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to rectovaginal septum","94511008",4311323,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving right fallopian tube by separate metastasis from uterus","369557004",4283878,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to muscle of perineum","94427004",4312553,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to radius","94508007",4313924,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis to lung of unknown primary","285604008",4112770,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to parietal lobe","94471000",4313913,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving left fallopian tube by direct extension from right fallopian tube","369517002",4281026,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to female breast","94297009",140960,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of pelvis","94202009",4312820,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to patella","94476005",4312563,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to facial nerve","94294002",4312956,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to placenta","94492000",4311210,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Bilateral metastatic malignant neoplasm to breasts","12246641000119104",602334,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Malignant tumor involving left ovary by separate metastasis from vagina","369564002",4289823,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to central nervous system","94243009",4312288,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to craniopharyngeal duct","94267001",4311767,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Scrotal wall involved by direct extension of malignant neoplasm","396775007",4287021,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-07-31
+"Metastatic malignant neoplasm to cerebellum","94245002",4312289,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to visceral pleura","94678001",4314499,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of axilla","94542003",4313930,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to pyloric antrum","94505005",4311321,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to hypopharyngeal aspect of interarytenoid fold","94333009",4313087,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic undifferentiated large cell carcinoma to lung","105051000119106",608853,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-01-31
+"Metastatic disseminated retinitis","193445006",4104214,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to leptomeninges","1155991005",607797,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to scapula","94529003",4311328,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to soft tissues of buttock","94584006",4314362,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to iliac lymph nodes","94336001",4313088,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to exocervix","94290006",4311881,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Secondary malignant neoplasm of inferior epigastric lymph nodes","1090181000000105",35610157,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-04-01
+"Malignant tumor involving rectum by direct extension from vagina","369454008",4289092,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to bronchus of right lower lobe","94230009",4246453,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to upper arm","449633004",42709761,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2012-01-31
+"Metastatic malignant neoplasm to endometrium","94281004",4311879,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to sacrum","94527001",4314343,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to transverse colon","94643001",4314068,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving an organ by separate metastasis from prostate","369606006",4183745,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Metastatic malignant neoplasm to large intestine","94365007",200348,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to colon and/or rectum","781076008",36683301,"Condition","SNOMED","Disorder",NA,"U",2023-07-31,2019-01-31
+"Leukemic reticuloendotheliosis of lymph nodes of multiple sites","93150008",318989,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant tumor involving left ovary by direct extension from endometrium","369524001",4289391,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to glans penis","94315003",4313080,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to endocardium","94278009",4312297,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to parathyroid gland","94467003",4313911,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving an organ by direct extension from prostate","369598006",4183913,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to head of pancreas","94325008",4312017,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant meningitis","230156002",4042194,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Tunica vaginalis involved by direct extension of malignant neoplasm","396770002",4263809,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-07-31
+"Metastatic malignant neoplasm to muscle of shoulder","94428009",4312554,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Leukemic reticuloendotheliosis of lymph nodes of axilla and upper limb","188648000",439269,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Malignant tumor involving an organ by direct extension from ovary","369597001",4183912,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastasis to lymph node from adenocarcinoma","1681000119102",43531596,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2012-03-01
+"Metastatic adenocarcinoma to left lung","15956261000119100",608928,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to presacral region","94502008",4315666,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to long bone of upper limb","94383004",4313215,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic squamous cell carcinoma to right lung","15957181000119104",608932,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to navicular bone of foot","94439007",4313799,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to right upper lobe of lung","94524008",4314342,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to parietal bone","94470004",4312561,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to pylorus","94506006",4314338,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to soft tissues of inguinal region","94588009",4313939,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to jaw","94356000",4313091,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to hypopharyngeal aspect of aryepiglottic fold","94332004",4313086,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to laryngeal surface of epiglottis","94369001",4313208,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to posterior mediastinum","94497006",4313922,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to foot","94305009",4311896,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving prostate by separate metastasis from bladder","369486003",4289381,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to ileum","94335002",4248057,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to central portion of female breast","94244003",4312938,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Secondary malignant neoplasm of paratracheal lymph nodes","1090081000000106",35610147,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2018-04-01
+"Malignant tumor involving uterine corpus by separate metastasis from uterine cervix","369577006",4289524,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to lower gum","94384005",4312543,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to intra-abdominal lymph nodes","94347008",192568,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving rectum by separate metastasis from uterus","369460008",4283613,"Condition","SNOMED","Disorder",NA,"U",2023-03-31,2002-01-31
+"Metastatic malignant neoplasm to skin of shoulder","94571002",4314355,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving left fallopian tube by direct extension from uterus","369519004",4289390,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to ulna","94650002",4314492,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastasis from malignant tumor of liver","315000005",4196266,"Condition","SNOMED","Disorder",NA,"U",2022-09-30,2002-01-31
+"Malignant tumor involving vulva by direct extension from endometrium","369507007",4281022,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to left lung","353741000119106",46273652,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2015-07-31
+"Metastatic malignant neoplasm to inner aspect of lower lip","94342002",4313090,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Small cell carcinoma metastatic to kidney","108131000119108",759939,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2016-03-01
+"Metastatic malignant neoplasm to popliteal lymph nodes","94494004",4311211,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Carcinomatosis of specified parts of peritoneum","8010/9-C48.1",44505257,"Condition","ICDO3","ICDO Condition","S",NA,2099-12-31,2015-09-18
+"Metastatic malignant neoplasm to lower inner quadrant of female breast","94385006",4312544,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to mouth","94416001",4312550,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to blood vessel of thigh","94206007",4246367,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic squamous cell carcinoma to bone","91271000119101",619829,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2021-07-31
+"Metastatic malignant neoplasm to skin of forehead","94558000",4311333,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to soft tissues of lower limb","94589001",4315800,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to lung","94391008",254591,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of abdomen","94539009",4314349,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to anal canal","94165002",4312700,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to lymph nodes of lower limb","94395004",442182,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Malignant tumor involving right broad ligament by direct extension from ovary","369539000",4289394,"Condition","SNOMED","Disorder","S",NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to cervical esophagus","94249008",4312939,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to abducens nerve","94153001",4311630,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to cerebral meninges","94246001",4312290,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to skin of popliteal area","94569002",4311336,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Sinus cancer with intracranial extension","18320001000004108",3181145,"Condition","Nebraska Lexicon","Clinical Finding","S",NA,2099-12-31,2016-01-28
+"Spermatic cord involved by direct extension of malignant neoplasm","396772005",4263810,"Condition","SNOMED","Clinical Finding","S",NA,2099-12-31,2003-07-31
+"Metastatic malignant neoplasm to body of stomach","94214001",4311760,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to superior wall of nasopharynx","94613003",4314056,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to mandible","94403001",4315537,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
+"Metastatic malignant neoplasm to lower third of esophagus","94388008",4313216,"Condition","SNOMED","Disorder",NA,NA,2099-12-31,2002-01-31
