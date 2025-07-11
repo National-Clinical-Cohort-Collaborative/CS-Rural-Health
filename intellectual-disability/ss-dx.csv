@@ -1,6 +1,10 @@
-concept_id,dx_core_concept_ids,dx_concept_names,dx_core_count,concept_name,vocabulary_id,concept_class_id,standard_concept
-1572414,1572413,Intracranial injury,1,Concussion,ICD10CM,4-char nonbill code,NULL
+concept_id,dx_core_concept_ids,dx_core_concept_names,dx_core_count,concept_name,vocabulary_id,concept_class_id,standard_concept
+4057350,10655,Crushing injury of skull,1,Crushing injury of skull,SNOMED,Disorder,S
+45597315,10655,Crushing injury of skull,1,"Crushing injury of skull, initial encounter",ICD10CM,7-char billing code,NULL
+45577925,10655,Crushing injury of skull,1,"Crushing injury of skull, sequela",ICD10CM,7-char billing code,NULL
+45587633,10655,Crushing injury of skull,1,"Crushing injury of skull, subsequent encounter",ICD10CM,7-char billing code,NULL
 45553833,1572413,Intracranial injury,1,Concussion,ICD10CM,5-char nonbill code,NULL
+1572414,1572413,Intracranial injury,1,Concussion,ICD10CM,4-char nonbill code,NULL
 10465,1572413,Intracranial injury,1,Concussion with loss of consciousness of 30 minutes or less,ICD10CM,6-char nonbill code,NULL
 45592507,1572413,Intracranial injury,1,"Concussion with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
 45582806,1572413,Intracranial injury,1,"Concussion with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
@@ -264,8 +268,8 @@ concept_id,dx_core_concept_ids,dx_concept_names,dx_core_count,concept_name,vocab
 45577892,1572413,Intracranial injury,1,"Diffuse traumatic brain injury without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
 45549066,1572413,Intracranial injury,1,"Diffuse traumatic brain injury without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
 45602097,1572413,Intracranial injury,1,"Diffuse traumatic brain injury without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
-45539464,1572413,Intracranial injury,1,Epidural hemorrhage,ICD10CM,5-char nonbill code,NULL
 1572428,1572413,Intracranial injury,1,Epidural hemorrhage,ICD10CM,4-char nonbill code,NULL
+45539464,1572413,Intracranial injury,1,Epidural hemorrhage,ICD10CM,5-char nonbill code,NULL
 10589,1572413,Intracranial injury,1,Epidural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level,ICD10CM,6-char nonbill code,NULL
 45549088,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
 45602117,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL
@@ -647,8 +651,8 @@ concept_id,dx_core_concept_ids,dx_concept_names,dx_core_count,concept_name,vocab
 45549077,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
 45553844,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
 45539455,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
-1572430,1572413,Intracranial injury,1,Traumatic subarachnoid hemorrhage,ICD10CM,4-char nonbill code,NULL
 1572431,1572413,Intracranial injury,1,Traumatic subarachnoid hemorrhage,ICD10CM,5-char nonbill code,NULL
+1572430,1572413,Intracranial injury,1,Traumatic subarachnoid hemorrhage,ICD10CM,4-char nonbill code,NULL
 10609,1572413,Intracranial injury,1,Traumatic subarachnoid hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level,ICD10CM,6-char nonbill code,NULL
 45549091,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
 45563424,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL
@@ -689,8 +693,8 @@ concept_id,dx_core_concept_ids,dx_concept_names,dx_core_count,concept_name,vocab
 45534567,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
 45597303,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
 45553862,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
-45553859,1572413,Intracranial injury,1,Traumatic subdural hemorrhage,ICD10CM,5-char nonbill code,NULL
 1572429,1572413,Intracranial injury,1,Traumatic subdural hemorrhage,ICD10CM,4-char nonbill code,NULL
+45553859,1572413,Intracranial injury,1,Traumatic subdural hemorrhage,ICD10CM,5-char nonbill code,NULL
 10599,1572413,Intracranial injury,1,Traumatic subdural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level,ICD10CM,6-char nonbill code,NULL
 45534565,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
 45573141,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL

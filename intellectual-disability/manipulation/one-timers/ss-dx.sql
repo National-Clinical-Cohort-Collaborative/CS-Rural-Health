@@ -6,7 +6,8 @@ with dx_core as (
   FROM v6.concept
   WHERE
     concept_id in (  -- ancestor concept name
-      1572413     -- ICD10CM for "Intracranial injury"
+      1572413,     -- ICD10CM for "Intracranial injury"
+      10655        -- "Crushing injury of skull"
     )
 )
 ,downstream as (
@@ -48,7 +49,7 @@ with dx_core as (
   SELECT
     s.concept_id
       ,string_agg(s.dx_core_concept_id, ';')         as dx_core_concept_ids
-      ,string_agg(i.concept_name, ';')               as dx_concept_names
+      ,string_agg(i.concept_name, ';')               as dx_core_concept_names
       ,count(distinct s.dx_core_concept_id)          as dx_core_count
   FROM stack s
     inner join v6.concept i on s.dx_core_concept_id = i.concept_id
@@ -67,7 +68,7 @@ SELECT
   --   when c.concept_name like '%enema%'          then 'other'
   -- end                        as guess
   ,co.dx_core_concept_ids
-  ,co.dx_concept_names
+  ,co.dx_core_concept_names
   ,co.dx_core_count
   ,c.concept_name
   ,c.vocabulary_id
@@ -75,7 +76,7 @@ SELECT
   ,c.standard_concept
 FROM collapsed co
   inner join v6.concept c on co.concept_id = c.concept_id
-ORDER BY dx_concept_names, c.concept_name
+ORDER BY dx_core_concept_names, c.concept_name
 -- )
 
 -- SELECT
