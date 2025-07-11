@@ -7,8 +7,8 @@ with dx_core as (
   WHERE
     concept_id in (  -- ancestor concept name
       1572413,     -- ICD10CM for "Intracranial injury"
-      10655       -- "Crushing injury of skull"
-      -- 1572414     -- "Concussion"
+      10655,       -- "Crushing injury of skull"
+      1572414      -- "Concussion"
     )
 )
 ,downstream as (

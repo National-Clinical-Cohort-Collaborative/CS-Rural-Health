@@ -1,26 +1,13 @@
 concept_id,include_guess,include_override,dx_core_concept_ids,dx_core_concept_names,dx_core_count,concept_name,vocabulary_id,concept_class_id,standard_concept
+4001336,TRUE,,1572414,Concussion,1,Concussion injury of brain,SNOMED,Disorder,S
+45592510,TRUE,,1572414;1572413,Concussion;Intracranial injury,2,"Concussion with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+37402975,TRUE,,1572414;1572413,Concussion;Intracranial injury,2,"Concussion with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37402977,TRUE,,1572414;1572413,Concussion;Intracranial injury,2,"Concussion with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
 4057350,TRUE,,10655,Crushing injury of skull,1,Crushing injury of skull,SNOMED,Disorder,S
 45597315,TRUE,,10655,Crushing injury of skull,1,"Crushing injury of skull, initial encounter",ICD10CM,7-char billing code,NULL
 45577925,TRUE,,10655,Crushing injury of skull,1,"Crushing injury of skull, sequela",ICD10CM,7-char billing code,NULL
 45587633,TRUE,,10655,Crushing injury of skull,1,"Crushing injury of skull, subsequent encounter",ICD10CM,7-char billing code,NULL
 1572414,TRUE,,1572413,Intracranial injury,1,Concussion,ICD10CM,4-char nonbill code,NULL
-45553833,TRUE,,1572413,Intracranial injury,1,Concussion,ICD10CM,5-char nonbill code,NULL
-10465,TRUE,,1572413,Intracranial injury,1,Concussion with loss of consciousness of 30 minutes or less,ICD10CM,6-char nonbill code,NULL
-45592507,TRUE,,1572413,Intracranial injury,1,"Concussion with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
-45582806,TRUE,,1572413,Intracranial injury,1,"Concussion with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
-45568223,TRUE,,1572413,Intracranial injury,1,"Concussion with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
-10473,TRUE,,1572413,Intracranial injury,1,Concussion with loss of consciousness of unspecified duration,ICD10CM,6-char nonbill code,NULL
-45592510,TRUE,,1572413,Intracranial injury,1,"Concussion with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
-45534550,TRUE,,1572413,Intracranial injury,1,"Concussion with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
-45549061,TRUE,,1572413,Intracranial injury,1,"Concussion with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
-37402974,TRUE,,1572413,Intracranial injury,1,Concussion with loss of consciousness status unknown,ICD10CM,6-char nonbill code,NULL
-37402975,TRUE,,1572413,Intracranial injury,1,"Concussion with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
-37402977,TRUE,,1572413,Intracranial injury,1,"Concussion with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
-37402976,TRUE,,1572413,Intracranial injury,1,"Concussion with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
-10464,FALSE,,1572413,Intracranial injury,1,Concussion without loss of consciousness,ICD10CM,6-char nonbill code,NULL
-45592506,FALSE,,1572413,Intracranial injury,1,"Concussion without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
-45558578,FALSE,,1572413,Intracranial injury,1,"Concussion without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
-45563393,FALSE,,1572413,Intracranial injury,1,"Concussion without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
 1572422,TRUE,,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified",ICD10CM,5-char nonbill code,NULL
 10529,TRUE,,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness greater than 24 hours with return to pre-existing conscious level",ICD10CM,6-char nonbill code,NULL
 45549074,TRUE,,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
@@ -818,3 +805,17 @@ concept_id,include_guess,include_override,dx_core_concept_ids,dx_core_concept_na
 45563432,TRUE,,1572413,Intracranial injury,1,"Unspecified intracranial injury without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
 45563433,TRUE,,1572413,Intracranial injury,1,"Unspecified intracranial injury without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
 45606939,TRUE,,1572413,Intracranial injury,1,"Unspecified intracranial injury without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
+45553833,TRUE,,1572413;1572414,Intracranial injury;Concussion,2,Concussion,ICD10CM,5-char nonbill code,NULL
+10465,TRUE,,1572413;1572414,Intracranial injury;Concussion,2,Concussion with loss of consciousness of 30 minutes or less,ICD10CM,6-char nonbill code,NULL
+45592507,TRUE,,1572413;1572414,Intracranial injury;Concussion,2,"Concussion with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+45582806,TRUE,,1572413;1572414,Intracranial injury;Concussion,2,"Concussion with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+45568223,TRUE,,1572413;1572414,Intracranial injury;Concussion,2,"Concussion with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+10473,TRUE,,1572413;1572414,Intracranial injury;Concussion,2,Concussion with loss of consciousness of unspecified duration,ICD10CM,6-char nonbill code,NULL
+45534550,TRUE,,1572413;1572414,Intracranial injury;Concussion,2,"Concussion with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+45549061,TRUE,,1572413;1572414,Intracranial injury;Concussion,2,"Concussion with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37402974,TRUE,,1572413;1572414,Intracranial injury;Concussion,2,Concussion with loss of consciousness status unknown,ICD10CM,6-char nonbill code,NULL
+37402976,TRUE,,1572413;1572414,Intracranial injury;Concussion,2,"Concussion with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+10464,FALSE,,1572413;1572414,Intracranial injury;Concussion,2,Concussion without loss of consciousness,ICD10CM,6-char nonbill code,NULL
+45592506,FALSE,,1572413;1572414,Intracranial injury;Concussion,2,"Concussion without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+45558578,FALSE,,1572413;1572414,Intracranial injury;Concussion,2,"Concussion without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+45563393,FALSE,,1572413;1572414,Intracranial injury;Concussion,2,"Concussion without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
