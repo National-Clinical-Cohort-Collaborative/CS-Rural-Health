@@ -76,7 +76,7 @@ SELECT
   ,c.standard_concept
 FROM collapsed co
   inner join v6.concept c on co.concept_id = c.concept_id
-ORDER BY dx_core_concept_names, c.concept_name
+ORDER BY dx_core_concept_names, c.concept_name, co.concept_id
 -- )
 
 -- SELECT
