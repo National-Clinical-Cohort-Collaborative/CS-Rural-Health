@@ -7,7 +7,8 @@ with dx_core as (
   WHERE
     concept_id in (  -- ancestor concept name
       1572413,     -- ICD10CM for "Intracranial injury"
-      10655        -- "Crushing injury of skull"
+      10655       -- "Crushing injury of skull"
+      -- 1572414     -- "Concussion"
     )
 )
 ,downstream as (
@@ -58,15 +59,11 @@ with dx_core as (
 -- ,cte as (
 SELECT
   co.concept_id
-  -- ,case
-  --   when c.concept_name like '%drug implant%'   then 'systemic'
-  --   when c.concept_name like '%inject%'         then 'systemic'
-  --   when c.concept_name like '%oral%'           then 'systemic'
-  --   when c.concept_name like '%inhal%'          then 'inhaled'
-  --   when c.concept_name like '%nasal%'          then 'nasal'
-  --   when c.concept_name like '%cream%'          then 'other'
-  --   when c.concept_name like '%enema%'          then 'other'
-  -- end                        as guess
+  ,case
+    when c.concept_name like 'Concussion without loss%'    then 'FALSE'
+    else                                                        'TRUE'
+  end                        as include_guess
+  ,''                        as include_override
   ,co.dx_core_concept_ids
   ,co.dx_core_concept_names
   ,co.dx_core_count
