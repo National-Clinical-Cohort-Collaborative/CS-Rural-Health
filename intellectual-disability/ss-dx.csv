@@ -1,0 +1,816 @@
+concept_id,dx_core_concept_ids,dx_concept_names,dx_core_count,concept_name,vocabulary_id,concept_class_id,standard_concept
+1572414,1572413,Intracranial injury,1,Concussion,ICD10CM,4-char nonbill code,NULL
+45553833,1572413,Intracranial injury,1,Concussion,ICD10CM,5-char nonbill code,NULL
+10465,1572413,Intracranial injury,1,Concussion with loss of consciousness of 30 minutes or less,ICD10CM,6-char nonbill code,NULL
+45592507,1572413,Intracranial injury,1,"Concussion with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+45582806,1572413,Intracranial injury,1,"Concussion with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+45568223,1572413,Intracranial injury,1,"Concussion with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+10473,1572413,Intracranial injury,1,Concussion with loss of consciousness of unspecified duration,ICD10CM,6-char nonbill code,NULL
+45592510,1572413,Intracranial injury,1,"Concussion with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+45534550,1572413,Intracranial injury,1,"Concussion with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+45549061,1572413,Intracranial injury,1,"Concussion with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37402974,1572413,Intracranial injury,1,Concussion with loss of consciousness status unknown,ICD10CM,6-char nonbill code,NULL
+37402975,1572413,Intracranial injury,1,"Concussion with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37402977,1572413,Intracranial injury,1,"Concussion with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
+37402976,1572413,Intracranial injury,1,"Concussion with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+10464,1572413,Intracranial injury,1,Concussion without loss of consciousness,ICD10CM,6-char nonbill code,NULL
+45592506,1572413,Intracranial injury,1,"Concussion without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+45558578,1572413,Intracranial injury,1,"Concussion without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+45563393,1572413,Intracranial injury,1,"Concussion without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
+1572422,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified",ICD10CM,5-char nonbill code,NULL
+10529,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness greater than 24 hours with return to pre-existing conscious level",ICD10CM,6-char nonbill code,NULL
+45549074,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
+45553841,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL
+45587609,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter",ICD10CM,7-char billing code,NULL
+10530,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving",ICD10CM,6-char nonbill code,NULL
+45597287,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",ICD10CM,7-char billing code,NULL
+45602105,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela",ICD10CM,7-char billing code,NULL
+45553842,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter",ICD10CM,7-char billing code,NULL
+10527,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 1 hour to 5 hours 59 minutes",ICD10CM,6-char nonbill code,NULL
+45577901,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45558587,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45592528,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 1 hour to 5 hours 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10525,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 30 minutes or less",ICD10CM,6-char nonbill code,NULL
+45597285,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+45602104,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+45602103,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+10526,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 31 minutes to 59 minutes",ICD10CM,6-char nonbill code,NULL
+45582816,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 31 minutes to 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45544256,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 31 minutes to 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45597286,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10528,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 6 hours to 24 hours",ICD10CM,6-char nonbill code,NULL
+45549073,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 6 hours to 24 hours, initial encounter",ICD10CM,7-char billing code,NULL
+45534557,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 6 hours to 24 hours, sequela",ICD10CM,7-char billing code,NULL
+45568242,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 6 hours to 24 hours, subsequent encounter",ICD10CM,7-char billing code,NULL
+10531,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness",ICD10CM,6-char nonbill code,NULL
+45563403,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10532,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of any duration with death due to other cause prior to regaining consciousness",ICD10CM,6-char nonbill code,NULL
+45549076,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10533,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of unspecified duration",ICD10CM,6-char nonbill code,NULL
+45577902,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+45553843,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+45577903,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37402998,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness status unknown",ICD10CM,6-char nonbill code,NULL
+37402999,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37403001,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
+37403000,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+10524,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, without loss of consciousness",ICD10CM,6-char nonbill code,NULL
+45592527,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+45577900,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+45553840,1572413,Intracranial injury,1,"Contusion and laceration of cerebrum, unspecified, without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
+1572421,1572413,Intracranial injury,1,Contusion and laceration of left cerebrum,ICD10CM,5-char nonbill code,NULL
+10519,1572413,Intracranial injury,1,Contusion and laceration of left cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level,ICD10CM,6-char nonbill code,NULL
+45539453,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
+45587608,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL
+45558585,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter",ICD10CM,7-char billing code,NULL
+10520,1572413,Intracranial injury,1,Contusion and laceration of left cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving,ICD10CM,6-char nonbill code,NULL
+45606910,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",ICD10CM,7-char billing code,NULL
+45606911,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela",ICD10CM,7-char billing code,NULL
+45534556,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter",ICD10CM,7-char billing code,NULL
+10517,1572413,Intracranial injury,1,Contusion and laceration of left cerebrum with loss of consciousness of 1 hour to 5 hours 59 minutes,ICD10CM,6-char nonbill code,NULL
+45558584,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45592525,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45597284,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness of 1 hour to 5 hours 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10515,1572413,Intracranial injury,1,Contusion and laceration of left cerebrum with loss of consciousness of 30 minutes or less,ICD10CM,6-char nonbill code,NULL
+45563402,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+45592524,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+45592523,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+10516,1572413,Intracranial injury,1,Contusion and laceration of left cerebrum with loss of consciousness of 31 minutes to 59 minutes,ICD10CM,6-char nonbill code,NULL
+45587607,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness of 31 minutes to 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45606908,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness of 31 minutes to 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45539452,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10518,1572413,Intracranial injury,1,Contusion and laceration of left cerebrum with loss of consciousness of 6 hours to 24 hours,ICD10CM,6-char nonbill code,NULL
+45606909,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness of 6 hours to 24 hours, initial encounter",ICD10CM,7-char billing code,NULL
+45553839,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness of 6 hours to 24 hours, sequela",ICD10CM,7-char billing code,NULL
+45549072,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness of 6 hours to 24 hours, subsequent encounter",ICD10CM,7-char billing code,NULL
+10521,1572413,Intracranial injury,1,Contusion and laceration of left cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45539454,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10522,1572413,Intracranial injury,1,Contusion and laceration of left cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45558586,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10523,1572413,Intracranial injury,1,Contusion and laceration of left cerebrum with loss of consciousness of unspecified duration,ICD10CM,6-char nonbill code,NULL
+45573130,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+45582815,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+45606912,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37402994,1572413,Intracranial injury,1,Contusion and laceration of left cerebrum with loss of consciousness status unknown,ICD10CM,6-char nonbill code,NULL
+37402995,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37402997,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
+37402996,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+10514,1572413,Intracranial injury,1,Contusion and laceration of left cerebrum without loss of consciousness,ICD10CM,6-char nonbill code,NULL
+45568239,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+45549071,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+45568240,1572413,Intracranial injury,1,"Contusion and laceration of left cerebrum without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
+1572420,1572413,Intracranial injury,1,Contusion and laceration of right cerebrum,ICD10CM,5-char nonbill code,NULL
+10509,1572413,Intracranial injury,1,Contusion and laceration of right cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level,ICD10CM,6-char nonbill code,NULL
+45606906,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
+45553838,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL
+45592521,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter",ICD10CM,7-char billing code,NULL
+10510,1572413,Intracranial injury,1,Contusion and laceration of right cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving,ICD10CM,6-char nonbill code,NULL
+45606907,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",ICD10CM,7-char billing code,NULL
+45539450,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela",ICD10CM,7-char billing code,NULL
+45602101,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter",ICD10CM,7-char billing code,NULL
+10507,1572413,Intracranial injury,1,Contusion and laceration of right cerebrum with loss of consciousness of 1 hour to 5 hours 59 minutes,ICD10CM,6-char nonbill code,NULL
+45577899,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45539449,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45553837,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness of 1 hour to 5 hours 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10505,1572413,Intracranial injury,1,Contusion and laceration of right cerebrum with loss of consciousness of 30 minutes or less,ICD10CM,6-char nonbill code,NULL
+45573125,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+45573127,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+45573126,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+10506,1572413,Intracranial injury,1,Contusion and laceration of right cerebrum with loss of consciousness of 31 minutes to 59 minutes,ICD10CM,6-char nonbill code,NULL
+45577897,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness of 31 minutes to 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45577898,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness of 31 minutes to 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45558583,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10508,1572413,Intracranial injury,1,Contusion and laceration of right cerebrum with loss of consciousness of 6 hours to 24 hours,ICD10CM,6-char nonbill code,NULL
+45549069,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness of 6 hours to 24 hours, initial encounter",ICD10CM,7-char billing code,NULL
+45568238,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness of 6 hours to 24 hours, sequela",ICD10CM,7-char billing code,NULL
+45568237,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness of 6 hours to 24 hours, subsequent encounter",ICD10CM,7-char billing code,NULL
+10511,1572413,Intracranial injury,1,Contusion and laceration of right cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45587606,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10512,1572413,Intracranial injury,1,Contusion and laceration of right cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45582814,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10513,1572413,Intracranial injury,1,Contusion and laceration of right cerebrum with loss of consciousness of unspecified duration,ICD10CM,6-char nonbill code,NULL
+45573129,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+45549070,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+45597283,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37402990,1572413,Intracranial injury,1,Contusion and laceration of right cerebrum with loss of consciousness status unknown,ICD10CM,6-char nonbill code,NULL
+37402991,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37402993,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
+37402992,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+10504,1572413,Intracranial injury,1,Contusion and laceration of right cerebrum without loss of consciousness,ICD10CM,6-char nonbill code,NULL
+45544254,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+45568236,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+45573124,1572413,Intracranial injury,1,"Contusion and laceration of right cerebrum without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
+1572427,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem",ICD10CM,5-char nonbill code,NULL
+10579,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness greater than 24 hours with return to pre-existing conscious level",ICD10CM,6-char nonbill code,NULL
+45582827,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
+45553856,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL
+45563414,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter",ICD10CM,7-char billing code,NULL
+10580,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving",ICD10CM,6-char nonbill code,NULL
+45597299,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",ICD10CM,7-char billing code,NULL
+45549086,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela",ICD10CM,7-char billing code,NULL
+45568256,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter",ICD10CM,7-char billing code,NULL
+10577,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 1 hour to 5 hours 59 minutes",ICD10CM,6-char nonbill code,NULL
+45549085,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45558592,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45553855,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 1 hour to 5 hours 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10575,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 30 minutes or less",ICD10CM,6-char nonbill code,NULL
+45573137,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+45606924,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+45573138,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+10576,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 31 minutes to 59 minutes",ICD10CM,6-char nonbill code,NULL
+45587617,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 31 minutes to 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45606925,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 31 minutes to 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45577905,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10578,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 6 hours to 24 hours",ICD10CM,6-char nonbill code,NULL
+45597298,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 6 hours to 24 hours, initial encounter",ICD10CM,7-char billing code,NULL
+45573139,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 6 hours to 24 hours, sequela",ICD10CM,7-char billing code,NULL
+45587618,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 6 hours to 24 hours, subsequent encounter",ICD10CM,7-char billing code,NULL
+10581,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness",ICD10CM,6-char nonbill code,NULL
+45563415,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10582,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of any duration with death due to other cause prior to regaining consciousness",ICD10CM,6-char nonbill code,NULL
+45587620,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10583,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of unspecified duration",ICD10CM,6-char nonbill code,NULL
+45592534,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+45602115,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+45563416,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403018,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness status unknown",ICD10CM,6-char nonbill code,NULL
+37403019,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37403021,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
+37403020,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+10574,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem without loss of consciousness",ICD10CM,6-char nonbill code,NULL
+45592533,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+45582826,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+45544264,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of brainstem without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
+1572426,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum",ICD10CM,5-char nonbill code,NULL
+10569,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness greater than 24 hours with return to pre-existing conscious level",ICD10CM,6-char nonbill code,NULL
+45597296,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
+45587615,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL
+45573134,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter",ICD10CM,7-char billing code,NULL
+10570,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving",ICD10CM,6-char nonbill code,NULL
+45587616,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",ICD10CM,7-char billing code,NULL
+45549083,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela",ICD10CM,7-char billing code,NULL
+45573135,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter",ICD10CM,7-char billing code,NULL
+10567,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 1 hour to 5 hours 59 minutes",ICD10CM,6-char nonbill code,NULL
+45606921,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45553853,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45539462,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 1 hour to 5 hours 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10565,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 30 minutes or less",ICD10CM,6-char nonbill code,NULL
+45563410,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+45597294,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+45563411,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+10566,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 31 minutes to 59 minutes",ICD10CM,6-char nonbill code,NULL
+45549081,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 31 minutes to 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45606920,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 31 minutes to 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45568254,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10568,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 6 hours to 24 hours",ICD10CM,6-char nonbill code,NULL
+45553854,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 6 hours to 24 hours, initial encounter",ICD10CM,7-char billing code,NULL
+45549082,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 6 hours to 24 hours, sequela",ICD10CM,7-char billing code,NULL
+45597295,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 6 hours to 24 hours, subsequent encounter",ICD10CM,7-char billing code,NULL
+10571,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness",ICD10CM,6-char nonbill code,NULL
+45597297,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10572,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness",ICD10CM,6-char nonbill code,NULL
+45563413,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10573,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of unspecified duration",ICD10CM,6-char nonbill code,NULL
+45573136,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+45606923,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+45549084,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403014,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness status unknown",ICD10CM,6-char nonbill code,NULL
+37403015,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37403017,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
+37403016,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+10564,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum without loss of consciousness",ICD10CM,6-char nonbill code,NULL
+45539461,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+45563409,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+45568253,1572413,Intracranial injury,1,"Contusion, laceration, and hemorrhage of cerebellum without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
+1572416,1572413,Intracranial injury,1,Diffuse traumatic brain injury,ICD10CM,4-char nonbill code,NULL
+1572417,1572413,Intracranial injury,1,Diffuse traumatic brain injury,ICD10CM,5-char nonbill code,NULL
+10489,1572413,Intracranial injury,1,Diffuse traumatic brain injury with loss of consciousness greater than 24 hours with return to pre-existing conscious levels,ICD10CM,6-char nonbill code,NULL
+45587602,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness greater than 24 hours with return to pre-existing conscious levels, initial encounter",ICD10CM,7-char billing code,NULL
+45573118,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness greater than 24 hours with return to pre-existing conscious levels, sequela",ICD10CM,7-char billing code,NULL
+45539445,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness greater than 24 hours with return to pre-existing conscious levels, subsequent encounter",ICD10CM,7-char billing code,NULL
+10490,1572413,Intracranial injury,1,Diffuse traumatic brain injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving,ICD10CM,6-char nonbill code,NULL
+45587603,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",ICD10CM,7-char billing code,NULL
+45573119,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela",ICD10CM,7-char billing code,NULL
+45553835,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter",ICD10CM,7-char billing code,NULL
+10487,1572413,Intracranial injury,1,Diffuse traumatic brain injury with loss of consciousness of 1 hour to 5 hours 59 minutes,ICD10CM,6-char nonbill code,NULL
+45587601,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45602099,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45597278,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness of 1 hour to 5 hours 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10485,1572413,Intracranial injury,1,Diffuse traumatic brain injury with loss of consciousness of 30 minutes or less,ICD10CM,6-char nonbill code,NULL
+45568232,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+45577893,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+45602098,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+10486,1572413,Intracranial injury,1,Diffuse traumatic brain injury with loss of consciousness of 31 minutes to 59 minutes,ICD10CM,6-char nonbill code,NULL
+45582811,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness of 31 minutes to 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45568233,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness of 31 minutes to 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45592517,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10488,1572413,Intracranial injury,1,Diffuse traumatic brain injury with loss of consciousness of 6 hours to 24 hours,ICD10CM,6-char nonbill code,NULL
+45544248,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness of 6 hours to 24 hours, initial encounter",ICD10CM,7-char billing code,NULL
+45549067,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness of 6 hours to 24 hours, sequela",ICD10CM,7-char billing code,NULL
+45539444,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness of 6 hours to 24 hours, subsequent encounter",ICD10CM,7-char billing code,NULL
+10491,1572413,Intracranial injury,1,Diffuse traumatic brain injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45553836,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10492,1572413,Intracranial injury,1,Diffuse traumatic brain injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45563397,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10493,1572413,Intracranial injury,1,Diffuse traumatic brain injury with loss of consciousness of unspecified duration,ICD10CM,6-char nonbill code,NULL
+45592518,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+45592519,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+45577895,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37402982,1572413,Intracranial injury,1,Diffuse traumatic brain injury with loss of consciousness status unknown,ICD10CM,6-char nonbill code,NULL
+37402983,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37402985,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
+37402984,1572413,Intracranial injury,1,"Diffuse traumatic brain injury with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+10484,1572413,Intracranial injury,1,Diffuse traumatic brain injury without loss of consciousness,ICD10CM,6-char nonbill code,NULL
+45577892,1572413,Intracranial injury,1,"Diffuse traumatic brain injury without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+45549066,1572413,Intracranial injury,1,"Diffuse traumatic brain injury without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+45602097,1572413,Intracranial injury,1,"Diffuse traumatic brain injury without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
+45539464,1572413,Intracranial injury,1,Epidural hemorrhage,ICD10CM,5-char nonbill code,NULL
+1572428,1572413,Intracranial injury,1,Epidural hemorrhage,ICD10CM,4-char nonbill code,NULL
+10589,1572413,Intracranial injury,1,Epidural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level,ICD10CM,6-char nonbill code,NULL
+45549088,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
+45602117,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL
+45597301,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter",ICD10CM,7-char billing code,NULL
+10590,1572413,Intracranial injury,1,Epidural hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving,ICD10CM,6-char nonbill code,NULL
+45553858,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",ICD10CM,7-char billing code,NULL
+45602118,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela",ICD10CM,7-char billing code,NULL
+45563420,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter",ICD10CM,7-char billing code,NULL
+10587,1572413,Intracranial injury,1,Epidural hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes,ICD10CM,6-char nonbill code,NULL
+45544266,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45558593,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45582829,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10585,1572413,Intracranial injury,1,Epidural hemorrhage with loss of consciousness of 30 minutes or less,ICD10CM,6-char nonbill code,NULL
+45592536,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+45539465,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+45592537,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+10586,1572413,Intracranial injury,1,Epidural hemorrhage with loss of consciousness of 31 minutes to 59 minutes,ICD10CM,6-char nonbill code,NULL
+45602116,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness of 31 minutes to 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45549087,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness of 31 minutes to 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45587621,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10588,1572413,Intracranial injury,1,Epidural hemorrhage with loss of consciousness of 6 hours to 24 hours,ICD10CM,6-char nonbill code,NULL
+45577906,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness of 6 hours to 24 hours, initial encounter",ICD10CM,7-char billing code,NULL
+45558594,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness of 6 hours to 24 hours, sequela",ICD10CM,7-char billing code,NULL
+45563419,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness of 6 hours to 24 hours, subsequent encounter",ICD10CM,7-char billing code,NULL
+10591,1572413,Intracranial injury,1,Epidural hemorrhage with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45577907,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10592,1572413,Intracranial injury,1,Epidural hemorrhage with loss of consciousness of any duration with death due to other causes prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45563421,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness of any duration with death due to other causes prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10593,1572413,Intracranial injury,1,Epidural hemorrhage with loss of consciousness of unspecified duration,ICD10CM,6-char nonbill code,NULL
+45582830,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+45606926,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+45568257,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403022,1572413,Intracranial injury,1,Epidural hemorrhage with loss of consciousness status unknown,ICD10CM,6-char nonbill code,NULL
+37403023,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37403025,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
+37403024,1572413,Intracranial injury,1,"Epidural hemorrhage with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+10584,1572413,Intracranial injury,1,Epidural hemorrhage without loss of consciousness,ICD10CM,6-char nonbill code,NULL
+45563418,1572413,Intracranial injury,1,"Epidural hemorrhage without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+45592535,1572413,Intracranial injury,1,"Epidural hemorrhage without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+45597300,1572413,Intracranial injury,1,"Epidural hemorrhage without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
+1572418,1572413,Intracranial injury,1,Focal traumatic brain injury,ICD10CM,4-char nonbill code,NULL
+1572434,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified",ICD10CM,5-char nonbill code,NULL
+10629,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours with return to pre-existing conscious level",ICD10CM,6-char nonbill code,NULL
+45544273,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
+45553868,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL
+45606936,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter",ICD10CM,7-char billing code,NULL
+10630,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving",ICD10CM,6-char nonbill code,NULL
+45587628,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",ICD10CM,7-char billing code,NULL
+45563427,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela",ICD10CM,7-char billing code,NULL
+45573149,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter",ICD10CM,7-char billing code,NULL
+10627,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 1 hour to 5 hours 59 minutes",ICD10CM,6-char nonbill code,NULL
+45597309,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45553866,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45582838,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 1 hour to 5 hours 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10625,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 30 minutes or less",ICD10CM,6-char nonbill code,NULL
+45592543,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+45534568,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+45539472,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+10626,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 31 minutes to 59 minutes",ICD10CM,6-char nonbill code,NULL
+45602126,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 31 minutes to 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45573148,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 31 minutes to 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45606935,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10628,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 6 hours to 24 hours",ICD10CM,6-char nonbill code,NULL
+45577918,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 6 hours to 24 hours, initial encounter",ICD10CM,7-char billing code,NULL
+45553867,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 6 hours to 24 hours, sequela",ICD10CM,7-char billing code,NULL
+45582839,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 6 hours to 24 hours, subsequent encounter",ICD10CM,7-char billing code,NULL
+10631,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness",ICD10CM,6-char nonbill code,NULL
+45602127,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10632,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to other cause prior to regaining consciousness",ICD10CM,6-char nonbill code,NULL
+45549093,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10633,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of unspecified duration",ICD10CM,6-char nonbill code,NULL
+45577919,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+45544274,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+45577920,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403038,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness status unknown",ICD10CM,6-char nonbill code,NULL
+37403039,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37403041,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
+37403040,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+10624,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified without loss of consciousness",ICD10CM,6-char nonbill code,NULL
+45592542,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+45606934,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+45606933,1572413,Intracranial injury,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
+1572433,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified",ICD10CM,5-char nonbill code,NULL
+10619,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours with return to pre-existing conscious level",ICD10CM,6-char nonbill code,NULL
+45606932,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
+45544271,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL
+45558600,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter",ICD10CM,7-char billing code,NULL
+10620,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving",ICD10CM,6-char nonbill code,NULL
+45558601,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",ICD10CM,7-char billing code,NULL
+45592541,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela",ICD10CM,7-char billing code,NULL
+45553865,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter",ICD10CM,7-char billing code,NULL
+10617,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 1 hour to 5 hours 59 minutes",ICD10CM,6-char nonbill code,NULL
+45553863,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45553864,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45568260,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 1 hour to 5 hours 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10615,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 30 minutes or less",ICD10CM,6-char nonbill code,NULL
+45577916,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+45577917,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+45544270,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+10616,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 31 minutes to 59 minutes",ICD10CM,6-char nonbill code,NULL
+45582836,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 31 minutes to 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45539470,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 31 minutes to 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45573145,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10618,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 6 hours to 24 hours",ICD10CM,6-char nonbill code,NULL
+45587625,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 6 hours to 24 hours, initial encounter",ICD10CM,7-char billing code,NULL
+45597307,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 6 hours to 24 hours, sequela",ICD10CM,7-char billing code,NULL
+45558599,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 6 hours to 24 hours, subsequent encounter",ICD10CM,7-char billing code,NULL
+10621,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness",ICD10CM,6-char nonbill code,NULL
+45587626,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10622,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to other cause prior to regaining consciousness",ICD10CM,6-char nonbill code,NULL
+45563426,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10623,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of unspecified duration",ICD10CM,6-char nonbill code,NULL
+45582837,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+45544272,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+45587627,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403034,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness status unknown",ICD10CM,6-char nonbill code,NULL
+37403035,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37403037,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
+37403036,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+10614,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified without loss of consciousness",ICD10CM,6-char nonbill code,NULL
+45544269,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+45558598,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+45539469,1572413,Intracranial injury,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
+437409,1572413,Intracranial injury,1,Intracranial injury,SNOMED,Disorder,S
+1572432,1572413,Intracranial injury,1,Other specified intracranial injuries,ICD10CM,4-char nonbill code,NULL
+1572435,1572413,Intracranial injury,1,Other specified intracranial injury,ICD10CM,5-char nonbill code,NULL
+10639,1572413,Intracranial injury,1,Other specified intracranial injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level,ICD10CM,6-char nonbill code,NULL
+45549094,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
+45568261,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL
+45558604,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter",ICD10CM,7-char billing code,NULL
+10640,1572413,Intracranial injury,1,Other specified intracranial injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving,ICD10CM,6-char nonbill code,NULL
+45587630,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",ICD10CM,7-char billing code,NULL
+45592546,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela",ICD10CM,7-char billing code,NULL
+45539474,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter",ICD10CM,7-char billing code,NULL
+10637,1572413,Intracranial injury,1,Other specified intracranial injury with loss of consciousness of 1 hour to 5 hours 59 minutes,ICD10CM,6-char nonbill code,NULL
+45573152,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45553869,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45577921,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness of 1 hour to 5 hours 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10635,1572413,Intracranial injury,1,Other specified intracranial injury with loss of consciousness of 30 minutes or less,ICD10CM,6-char nonbill code,NULL
+45563430,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+45592544,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+45573150,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+10636,1572413,Intracranial injury,1,Other specified intracranial injury with loss of consciousness of 31 minutes to 59 minutes,ICD10CM,6-char nonbill code,NULL
+45539473,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness of 31 minutes to 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45602128,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness of 31 minutes to 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45573151,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10638,1572413,Intracranial injury,1,Other specified intracranial injury with loss of consciousness of 6 hours to 24 hours,ICD10CM,6-char nonbill code,NULL
+45597312,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness of 6 hours to 24 hours, initial encounter",ICD10CM,7-char billing code,NULL
+45558603,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness of 6 hours to 24 hours, sequela",ICD10CM,7-char billing code,NULL
+45592545,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness of 6 hours to 24 hours, subsequent encounter",ICD10CM,7-char billing code,NULL
+10641,1572413,Intracranial injury,1,Other specified intracranial injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45606937,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10642,1572413,Intracranial injury,1,Other specified intracranial injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45544275,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10643,1572413,Intracranial injury,1,Other specified intracranial injury with loss of consciousness of unspecified duration,ICD10CM,6-char nonbill code,NULL
+45563431,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+45568262,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+45602129,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403042,1572413,Intracranial injury,1,Other specified intracranial injury with loss of consciousness status unknown,ICD10CM,6-char nonbill code,NULL
+37403043,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37403045,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
+37403044,1572413,Intracranial injury,1,"Other specified intracranial injury with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+10634,1572413,Intracranial injury,1,Other specified intracranial injury without loss of consciousness,ICD10CM,6-char nonbill code,NULL
+45587629,1572413,Intracranial injury,1,"Other specified intracranial injury without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+45563429,1572413,Intracranial injury,1,"Other specified intracranial injury without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+45597311,1572413,Intracranial injury,1,"Other specified intracranial injury without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403046,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified",ICD10CM,5-char nonbill code,NULL
+37403067,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness greater than 24 hours with return to pre-existing conscious level",ICD10CM,6-char nonbill code,NULL
+37403068,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
+37403070,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL
+37403069,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403071,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving",ICD10CM,6-char nonbill code,NULL
+37403072,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",ICD10CM,7-char billing code,NULL
+37403074,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela",ICD10CM,7-char billing code,NULL
+37403073,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403059,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of 1 hour to 5 hours 59 minutes",ICD10CM,6-char nonbill code,NULL
+37403060,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+37403062,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+37403061,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of 1 hour to 5 hours 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403051,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of 30 minutes or less",ICD10CM,6-char nonbill code,NULL
+37403052,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+37403054,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+37403053,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403055,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of 31 minutes to 59 minutes",ICD10CM,6-char nonbill code,NULL
+37403056,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of 31 minutes to 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+37403058,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of 31 minutes to 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+37403057,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403063,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of 6 hours to 24 hours",ICD10CM,6-char nonbill code,NULL
+37403064,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of 6 hours to 24 hours, initial encounter",ICD10CM,7-char billing code,NULL
+37403066,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of 6 hours to 24 hours, sequela",ICD10CM,7-char billing code,NULL
+37403065,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of 6 hours to 24 hours, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403075,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness",ICD10CM,6-char nonbill code,NULL
+37403076,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+37403077,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of any duration with death due to other cause prior to regaining consciousness",ICD10CM,6-char nonbill code,NULL
+37403078,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+37403079,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of unspecified duration",ICD10CM,6-char nonbill code,NULL
+37403080,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+37403082,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+37403081,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403083,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness status unknown",ICD10CM,6-char nonbill code,NULL
+37403084,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37403086,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
+37403085,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403047,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified without loss of consciousness",ICD10CM,6-char nonbill code,NULL
+37403048,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+37403050,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+37403049,1572413,Intracranial injury,1,"Primary blast injury of brain, not elsewhere classified without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
+766440,1572413,Intracranial injury,1,Traumatic brain compression and herniation,ICD10CM,4-char nonbill code,NULL
+766443,1572413,Intracranial injury,1,Traumatic brain compression with herniation,ICD10CM,5-char nonbill code,NULL
+766444,1572413,Intracranial injury,1,"Traumatic brain compression with herniation, initial encounter",ICD10CM,7-char billing code,NULL
+766446,1572413,Intracranial injury,1,"Traumatic brain compression with herniation, sequela",ICD10CM,7-char billing code,NULL
+766445,1572413,Intracranial injury,1,"Traumatic brain compression with herniation, subsequent encounter",ICD10CM,7-char billing code,NULL
+766438,1572413,Intracranial injury,1,Traumatic brain compression without herniation,ICD10CM,5-char nonbill code,NULL
+766439,1572413,Intracranial injury,1,"Traumatic brain compression without herniation, initial encounter",ICD10CM,7-char billing code,NULL
+766442,1572413,Intracranial injury,1,"Traumatic brain compression without herniation, sequela",ICD10CM,7-char billing code,NULL
+766441,1572413,Intracranial injury,1,"Traumatic brain compression without herniation, subsequent encounter",ICD10CM,7-char billing code,NULL
+1572415,1572413,Intracranial injury,1,Traumatic cerebral edema,ICD10CM,4-char nonbill code,NULL
+45602094,1572413,Intracranial injury,1,Traumatic cerebral edema,ICD10CM,5-char nonbill code,NULL
+10479,1572413,Intracranial injury,1,Traumatic cerebral edema with loss of consciousness greater than 24 hours with return to pre-existing conscious level,ICD10CM,6-char nonbill code,NULL
+45549064,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
+45539443,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL
+45602095,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter",ICD10CM,7-char billing code,NULL
+10480,1572413,Intracranial injury,1,Traumatic cerebral edema with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving,ICD10CM,6-char nonbill code,NULL
+45544247,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",ICD10CM,7-char billing code,NULL
+45592512,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela",ICD10CM,7-char billing code,NULL
+45602096,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter",ICD10CM,7-char billing code,NULL
+10477,1572413,Intracranial injury,1,Traumatic cerebral edema with loss of consciousness of 1 hour to 5 hours 59 minutes,ICD10CM,6-char nonbill code,NULL
+45568229,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45563396,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45582809,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness of 1 hour to 5 hours 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10475,1572413,Intracranial injury,1,Traumatic cerebral edema with loss of consciousness of 30 minutes or less,ICD10CM,6-char nonbill code,NULL
+45534552,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+45568228,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+45582808,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+10476,1572413,Intracranial injury,1,Traumatic cerebral edema with loss of consciousness of 31 minutes to 59 minutes,ICD10CM,6-char nonbill code,NULL
+45558580,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness of 31 minutes to 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45549062,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness of 31 minutes to 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45577891,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10478,1572413,Intracranial injury,1,Traumatic cerebral edema with loss of consciousness of 6 hours to 24 hours,ICD10CM,6-char nonbill code,NULL
+45544246,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness of 6 hours to 24 hours, initial encounter",ICD10CM,7-char billing code,NULL
+45549063,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness of 6 hours to 24 hours, sequela",ICD10CM,7-char billing code,NULL
+45582810,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness of 6 hours to 24 hours, subsequent encounter",ICD10CM,7-char billing code,NULL
+10481,1572413,Intracranial injury,1,Traumatic cerebral edema with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45549065,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10482,1572413,Intracranial injury,1,Traumatic cerebral edema with loss of consciousness of any duration with death due to other cause prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45534553,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10483,1572413,Intracranial injury,1,Traumatic cerebral edema with loss of consciousness of unspecified duration,ICD10CM,6-char nonbill code,NULL
+45597277,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+45592515,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+45534554,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37402978,1572413,Intracranial injury,1,Traumatic cerebral edema with loss of consciousness status unknown,ICD10CM,6-char nonbill code,NULL
+37402979,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37402981,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
+37402980,1572413,Intracranial injury,1,"Traumatic cerebral edema with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+10474,1572413,Intracranial injury,1,Traumatic cerebral edema without loss of consciousness,ICD10CM,6-char nonbill code,NULL
+45568227,1572413,Intracranial injury,1,"Traumatic cerebral edema without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+45534551,1572413,Intracranial injury,1,"Traumatic cerebral edema without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+45592511,1572413,Intracranial injury,1,"Traumatic cerebral edema without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
+1572425,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified",ICD10CM,5-char nonbill code,NULL
+10559,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness greater than 24 hours with return to pre-existing conscious level",ICD10CM,6-char nonbill code,NULL
+45539460,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
+45558590,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL
+45582824,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter",ICD10CM,7-char billing code,NULL
+10560,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving",ICD10CM,6-char nonbill code,NULL
+45602114,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",ICD10CM,7-char billing code,NULL
+45592532,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela",ICD10CM,7-char billing code,NULL
+45549080,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter",ICD10CM,7-char billing code,NULL
+10557,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 1 hours to 5 hours 59 minutes",ICD10CM,6-char nonbill code,NULL
+45606917,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 1 hours to 5 hours 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45606919,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 1 hours to 5 hours 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45606918,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 1 hours to 5 hours 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10555,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 30 minutes or less",ICD10CM,6-char nonbill code,NULL
+45558589,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+45534560,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+45553851,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+10556,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 31 minutes to 59 minutes",ICD10CM,6-char nonbill code,NULL
+45539459,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 31 minutes to 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45602113,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 31 minutes to 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45544263,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10558,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 6 hours to 24 hours",ICD10CM,6-char nonbill code,NULL
+45582823,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 6 hours to 24 hours, initial encounter",ICD10CM,7-char billing code,NULL
+45587612,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 6 hours to 24 hours, sequela",ICD10CM,7-char billing code,NULL
+45534561,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 6 hours to 24 hours, subsequent encounter",ICD10CM,7-char billing code,NULL
+10561,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness",ICD10CM,6-char nonbill code,NULL
+45568251,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10562,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of any duration with death due to other cause prior to regaining consciousness",ICD10CM,6-char nonbill code,NULL
+45568252,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10563,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of unspecified duration",ICD10CM,6-char nonbill code,NULL
+45597293,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+45553852,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+45563408,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403010,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness status unknown",ICD10CM,6-char nonbill code,NULL
+37403011,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37403013,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
+37403012,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+10554,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, without loss of consciousness",ICD10CM,6-char nonbill code,NULL
+45597292,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+45602112,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+45563407,1572413,Intracranial injury,1,"Traumatic hemorrhage of cerebrum, unspecified, without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
+1572424,1572413,Intracranial injury,1,Traumatic hemorrhage of left cerebrum,ICD10CM,5-char nonbill code,NULL
+10549,1572413,Intracranial injury,1,Traumatic hemorrhage of left cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level,ICD10CM,6-char nonbill code,NULL
+45568248,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
+45558588,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL
+45568249,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter",ICD10CM,7-char billing code,NULL
+10550,1572413,Intracranial injury,1,Traumatic hemorrhage of left cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving,ICD10CM,6-char nonbill code,NULL
+45592531,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",ICD10CM,7-char billing code,NULL
+45602110,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela",ICD10CM,7-char billing code,NULL
+45568250,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter",ICD10CM,7-char billing code,NULL
+10547,1572413,Intracranial injury,1,Traumatic hemorrhage of left cerebrum with loss of consciousness of 1 hours to 5 hours 59 minutes,ICD10CM,6-char nonbill code,NULL
+45553849,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 1 hours to 5 hours 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45606915,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 1 hours to 5 hours 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45587611,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 1 hours to 5 hours 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10545,1572413,Intracranial injury,1,Traumatic hemorrhage of left cerebrum with loss of consciousness of 30 minutes or less,ICD10CM,6-char nonbill code,NULL
+45573133,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+45544260,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+45553847,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+10546,1572413,Intracranial injury,1,Traumatic hemorrhage of left cerebrum with loss of consciousness of 31 minutes to 59 minutes,ICD10CM,6-char nonbill code,NULL
+45534558,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 31 minutes to 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45553848,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 31 minutes to 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45606914,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10548,1572413,Intracranial injury,1,Traumatic hemorrhage of left cerebrum with loss of consciousness of 6 hours to 24 hours,ICD10CM,6-char nonbill code,NULL
+45597291,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 6 hours to 24 hours, initial encounter",ICD10CM,7-char billing code,NULL
+45563406,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 6 hours to 24 hours, sequela",ICD10CM,7-char billing code,NULL
+45553850,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 6 hours to 24 hours, subsequent encounter",ICD10CM,7-char billing code,NULL
+10551,1572413,Intracranial injury,1,Traumatic hemorrhage of left cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45534559,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10552,1572413,Intracranial injury,1,Traumatic hemorrhage of left cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45582822,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10553,1572413,Intracranial injury,1,Traumatic hemorrhage of left cerebrum with loss of consciousness of unspecified duration,ICD10CM,6-char nonbill code,NULL
+45539458,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+45602111,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+45606916,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403006,1572413,Intracranial injury,1,Traumatic hemorrhage of left cerebrum with loss of consciousness status unknown,ICD10CM,6-char nonbill code,NULL
+37403007,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37403009,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
+37403008,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+10544,1572413,Intracranial injury,1,Traumatic hemorrhage of left cerebrum without loss of consciousness,ICD10CM,6-char nonbill code,NULL
+45602109,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+45539457,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+45553846,1572413,Intracranial injury,1,"Traumatic hemorrhage of left cerebrum without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
+1572423,1572413,Intracranial injury,1,Traumatic hemorrhage of right cerebrum,ICD10CM,5-char nonbill code,NULL
+10539,1572413,Intracranial injury,1,Traumatic hemorrhage of right cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level,ICD10CM,6-char nonbill code,NULL
+45587610,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
+45568246,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL
+45606913,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter",ICD10CM,7-char billing code,NULL
+10540,1572413,Intracranial injury,1,Traumatic hemorrhage of right cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving,ICD10CM,6-char nonbill code,NULL
+45544258,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",ICD10CM,7-char billing code,NULL
+45539456,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela",ICD10CM,7-char billing code,NULL
+45602106,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter",ICD10CM,7-char billing code,NULL
+10537,1572413,Intracranial injury,1,Traumatic hemorrhage of right cerebrum with loss of consciousness of 1 hours to 5 hours 59 minutes,ICD10CM,6-char nonbill code,NULL
+45577904,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of 1 hours to 5 hours 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45568244,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of 1 hours to 5 hours 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45553845,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of 1 hours to 5 hours 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10535,1572413,Intracranial injury,1,Traumatic hemorrhage of right cerebrum with loss of consciousness of 30 minutes or less,ICD10CM,6-char nonbill code,NULL
+45582817,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+45549078,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+45582818,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+10536,1572413,Intracranial injury,1,Traumatic hemorrhage of right cerebrum with loss of consciousness of 31 minutes to 59 minutes,ICD10CM,6-char nonbill code,NULL
+45597288,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of 31 minutes to 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45573131,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of 31 minutes to 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45582819,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10538,1572413,Intracranial injury,1,Traumatic hemorrhage of right cerebrum with loss of consciousness of 6 hours to 24 hours,ICD10CM,6-char nonbill code,NULL
+45597289,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of 6 hours to 24 hours, initial encounter",ICD10CM,7-char billing code,NULL
+45573132,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of 6 hours to 24 hours, sequela",ICD10CM,7-char billing code,NULL
+45568245,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of 6 hours to 24 hours, subsequent encounter",ICD10CM,7-char billing code,NULL
+10541,1572413,Intracranial injury,1,Traumatic hemorrhage of right cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45582820,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10542,1572413,Intracranial injury,1,Traumatic hemorrhage of right cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45563404,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10543,1572413,Intracranial injury,1,Traumatic hemorrhage of right cerebrum with loss of consciousness of unspecified duration,ICD10CM,6-char nonbill code,NULL
+45568247,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+45602108,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+45592530,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403002,1572413,Intracranial injury,1,Traumatic hemorrhage of right cerebrum with loss of consciousness status unknown,ICD10CM,6-char nonbill code,NULL
+37403003,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37403005,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
+37403004,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+10534,1572413,Intracranial injury,1,Traumatic hemorrhage of right cerebrum without loss of consciousness,ICD10CM,6-char nonbill code,NULL
+45549077,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+45553844,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+45539455,1572413,Intracranial injury,1,"Traumatic hemorrhage of right cerebrum without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
+1572430,1572413,Intracranial injury,1,Traumatic subarachnoid hemorrhage,ICD10CM,4-char nonbill code,NULL
+1572431,1572413,Intracranial injury,1,Traumatic subarachnoid hemorrhage,ICD10CM,5-char nonbill code,NULL
+10609,1572413,Intracranial injury,1,Traumatic subarachnoid hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level,ICD10CM,6-char nonbill code,NULL
+45549091,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
+45563424,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL
+45558596,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter",ICD10CM,7-char billing code,NULL
+10610,1572413,Intracranial injury,1,Traumatic subarachnoid hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving,ICD10CM,6-char nonbill code,NULL
+45602123,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",ICD10CM,7-char billing code,NULL
+45577914,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela",ICD10CM,7-char billing code,NULL
+45544268,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter",ICD10CM,7-char billing code,NULL
+10607,1572413,Intracranial injury,1,Traumatic subarachnoid hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes,ICD10CM,6-char nonbill code,NULL
+45563423,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45597306,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45587623,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10605,1572413,Intracranial injury,1,Traumatic subarachnoid hemorrhage with loss of consciousness of 30 minutes or less,ICD10CM,6-char nonbill code,NULL
+45597304,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+45597305,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+45606929,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+10606,1572413,Intracranial injury,1,Traumatic subarachnoid hemorrhage with loss of consciousness of 31 minutes to 59 minutes,ICD10CM,6-char nonbill code,NULL
+45606930,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of 31 minutes to 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45544267,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of 31 minutes to 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45582834,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10608,1572413,Intracranial injury,1,Traumatic subarachnoid hemorrhage with loss of consciousness of 6 hours to 24 hours,ICD10CM,6-char nonbill code,NULL
+45573143,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of 6 hours to 24 hours, initial encounter",ICD10CM,7-char billing code,NULL
+45573144,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of 6 hours to 24 hours, sequela",ICD10CM,7-char billing code,NULL
+45587624,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of 6 hours to 24 hours, subsequent encounter",ICD10CM,7-char billing code,NULL
+10611,1572413,Intracranial injury,1,Traumatic subarachnoid hemorrhage with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45606931,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10612,1572413,Intracranial injury,1,Traumatic subarachnoid hemorrhage with loss of consciousness of any duration with death due to other cause prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45539468,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10613,1572413,Intracranial injury,1,Traumatic subarachnoid hemorrhage with loss of consciousness of unspecified duration,ICD10CM,6-char nonbill code,NULL
+45568259,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+45549092,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+45602125,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403030,1572413,Intracranial injury,1,Traumatic subarachnoid hemorrhage with loss of consciousness status unknown,ICD10CM,6-char nonbill code,NULL
+37403031,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37403033,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
+37403032,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+10604,1572413,Intracranial injury,1,Traumatic subarachnoid hemorrhage without loss of consciousness,ICD10CM,6-char nonbill code,NULL
+45534567,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+45597303,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+45553862,1572413,Intracranial injury,1,"Traumatic subarachnoid hemorrhage without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
+45553859,1572413,Intracranial injury,1,Traumatic subdural hemorrhage,ICD10CM,5-char nonbill code,NULL
+1572429,1572413,Intracranial injury,1,Traumatic subdural hemorrhage,ICD10CM,4-char nonbill code,NULL
+10599,1572413,Intracranial injury,1,Traumatic subdural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level,ICD10CM,6-char nonbill code,NULL
+45534565,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
+45573141,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL
+45549089,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter",ICD10CM,7-char billing code,NULL
+10600,1572413,Intracranial injury,1,Traumatic subdural hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving,ICD10CM,6-char nonbill code,NULL
+45582832,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",ICD10CM,7-char billing code,NULL
+45606928,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela",ICD10CM,7-char billing code,NULL
+45602121,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter",ICD10CM,7-char billing code,NULL
+10597,1572413,Intracranial injury,1,Traumatic subdural hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes,ICD10CM,6-char nonbill code,NULL
+45597302,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45534564,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45592539,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10595,1572413,Intracranial injury,1,Traumatic subdural hemorrhage with loss of consciousness of 30 minutes or less,ICD10CM,6-char nonbill code,NULL
+45573140,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+45592538,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+45582831,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+10596,1572413,Intracranial injury,1,Traumatic subdural hemorrhage with loss of consciousness of 31 minutes to 59 minutes,ICD10CM,6-char nonbill code,NULL
+45577909,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness of 31 minutes to 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45539466,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness of 31 minutes to 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45577910,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10598,1572413,Intracranial injury,1,Traumatic subdural hemorrhage with loss of consciousness of 6 hours to 24 hours,ICD10CM,6-char nonbill code,NULL
+45577911,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness of 6 hours to 24 hours, initial encounter",ICD10CM,7-char billing code,NULL
+45539467,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness of 6 hours to 24 hours, sequela",ICD10CM,7-char billing code,NULL
+45553860,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness of 6 hours to 24 hours, subsequent encounter",ICD10CM,7-char billing code,NULL
+10601,1572413,Intracranial injury,1,Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to brain injury before regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45602122,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to brain injury before regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10602,1572413,Intracranial injury,1,Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to other cause before regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45577913,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to other cause before regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10603,1572413,Intracranial injury,1,Traumatic subdural hemorrhage with loss of consciousness of unspecified duration,ICD10CM,6-char nonbill code,NULL
+45568258,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+45553861,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+45582833,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403026,1572413,Intracranial injury,1,Traumatic subdural hemorrhage with loss of consciousness status unknown,ICD10CM,6-char nonbill code,NULL
+37403027,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37403029,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
+37403028,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+10594,1572413,Intracranial injury,1,Traumatic subdural hemorrhage without loss of consciousness,ICD10CM,6-char nonbill code,NULL
+45606927,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+45558595,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+45577908,1572413,Intracranial injury,1,"Traumatic subdural hemorrhage without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
+1572419,1572413,Intracranial injury,1,Unspecified focal traumatic brain injury,ICD10CM,5-char nonbill code,NULL
+10499,1572413,Intracranial injury,1,Unspecified focal traumatic brain injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level,ICD10CM,6-char nonbill code,NULL
+45563400,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
+45568234,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL
+45544251,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter",ICD10CM,7-char billing code,NULL
+10500,1572413,Intracranial injury,1,Unspecified focal traumatic brain injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving,ICD10CM,6-char nonbill code,NULL
+45577896,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",ICD10CM,7-char billing code,NULL
+45592520,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela",ICD10CM,7-char billing code,NULL
+45573122,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter",ICD10CM,7-char billing code,NULL
+10497,1572413,Intracranial injury,1,Unspecified focal traumatic brain injury with loss of consciousness of 1 hour to 5 hours 59 minutes,ICD10CM,6-char nonbill code,NULL
+45573120,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45573121,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45534555,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness of 1 hour to 5 hours 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10495,1572413,Intracranial injury,1,Unspecified focal traumatic brain injury with loss of consciousness of 30 minutes or less,ICD10CM,6-char nonbill code,NULL
+45539446,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+45558581,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+45539447,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+10496,1572413,Intracranial injury,1,Unspecified focal traumatic brain injury with loss of consciousness of 31 minutes to 59 minutes,ICD10CM,6-char nonbill code,NULL
+45544250,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness of 31 minutes to 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45558582,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness of 31 minutes to 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45602100,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10498,1572413,Intracranial injury,1,Unspecified focal traumatic brain injury with loss of consciousness of 6 hours to 24 hours,ICD10CM,6-char nonbill code,NULL
+45539448,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness of 6 hours to 24 hours, initial encounter",ICD10CM,7-char billing code,NULL
+45582812,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness of 6 hours to 24 hours, sequela",ICD10CM,7-char billing code,NULL
+45563399,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness of 6 hours to 24 hours, subsequent encounter",ICD10CM,7-char billing code,NULL
+10501,1572413,Intracranial injury,1,Unspecified focal traumatic brain injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45582813,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10502,1572413,Intracranial injury,1,Unspecified focal traumatic brain injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45597280,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10503,1572413,Intracranial injury,1,Unspecified focal traumatic brain injury with loss of consciousness of unspecified duration,ICD10CM,6-char nonbill code,NULL
+45544253,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+45597281,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+45573123,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37402986,1572413,Intracranial injury,1,Unspecified focal traumatic brain injury with loss of consciousness status unknown,ICD10CM,6-char nonbill code,NULL
+37402987,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37402989,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
+37402988,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+10494,1572413,Intracranial injury,1,Unspecified focal traumatic brain injury without loss of consciousness,ICD10CM,6-char nonbill code,NULL
+45544249,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+45587605,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+45587604,1572413,Intracranial injury,1,"Unspecified focal traumatic brain injury without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
+1572436,1572413,Intracranial injury,1,Unspecified intracranial injury,ICD10CM,4-char nonbill code,NULL
+1572437,1572413,Intracranial injury,1,Unspecified intracranial injury,ICD10CM,5-char nonbill code,NULL
+10649,1572413,Intracranial injury,1,Unspecified intracranial injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level,ICD10CM,6-char nonbill code,NULL
+45602130,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",ICD10CM,7-char billing code,NULL
+45577922,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela",ICD10CM,7-char billing code,NULL
+45544278,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter",ICD10CM,7-char billing code,NULL
+10650,1572413,Intracranial injury,1,Unspecified intracranial injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving,ICD10CM,6-char nonbill code,NULL
+45606943,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",ICD10CM,7-char billing code,NULL
+45544279,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela",ICD10CM,7-char billing code,NULL
+45587631,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter",ICD10CM,7-char billing code,NULL
+10647,1572413,Intracranial injury,1,Unspecified intracranial injury with loss of consciousness of 1 hour to 5 hours 59 minutes,ICD10CM,6-char nonbill code,NULL
+45568263,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45606942,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45544276,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness of 1 hour to 5 hours 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10645,1572413,Intracranial injury,1,Unspecified intracranial injury with loss of consciousness of 30 minutes or less,ICD10CM,6-char nonbill code,NULL
+45606940,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness of 30 minutes or less, initial encounter",ICD10CM,7-char billing code,NULL
+45597313,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness of 30 minutes or less, sequela",ICD10CM,7-char billing code,NULL
+45606941,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness of 30 minutes or less, subsequent encounter",ICD10CM,7-char billing code,NULL
+10646,1572413,Intracranial injury,1,Unspecified intracranial injury with loss of consciousness of 31 minutes to 59 minutes,ICD10CM,6-char nonbill code,NULL
+45582840,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness of 31 minutes to 59 minutes, initial encounter",ICD10CM,7-char billing code,NULL
+45534570,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness of 31 minutes to 59 minutes, sequela",ICD10CM,7-char billing code,NULL
+45563434,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter",ICD10CM,7-char billing code,NULL
+10648,1572413,Intracranial injury,1,Unspecified intracranial injury with loss of consciousness of 6 hours to 24 hours,ICD10CM,6-char nonbill code,NULL
+45544277,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness of 6 hours to 24 hours, initial encounter",ICD10CM,7-char billing code,NULL
+45558605,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness of 6 hours to 24 hours, sequela",ICD10CM,7-char billing code,NULL
+45582841,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness of 6 hours to 24 hours, subsequent encounter",ICD10CM,7-char billing code,NULL
+10651,1572413,Intracranial injury,1,Unspecified intracranial injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45549097,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10652,1572413,Intracranial injury,1,Unspecified intracranial injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness,ICD10CM,6-char nonbill code,NULL
+45544280,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+10653,1572413,Intracranial injury,1,Unspecified intracranial injury with loss of consciousness of unspecified duration,ICD10CM,6-char nonbill code,NULL
+45592548,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness of unspecified duration, initial encounter",ICD10CM,7-char billing code,NULL
+45606944,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness of unspecified duration, sequela",ICD10CM,7-char billing code,NULL
+45587632,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness of unspecified duration, subsequent encounter",ICD10CM,7-char billing code,NULL
+37403087,1572413,Intracranial injury,1,Unspecified intracranial injury with loss of consciousness status unknown,ICD10CM,6-char nonbill code,NULL
+37403088,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness status unknown, initial encounter",ICD10CM,7-char billing code,NULL
+37403090,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness status unknown, sequela",ICD10CM,7-char billing code,NULL
+37403089,1572413,Intracranial injury,1,"Unspecified intracranial injury with loss of consciousness status unknown, subsequent encounter",ICD10CM,7-char billing code,NULL
+10644,1572413,Intracranial injury,1,Unspecified intracranial injury without loss of consciousness,ICD10CM,6-char nonbill code,NULL
+45563432,1572413,Intracranial injury,1,"Unspecified intracranial injury without loss of consciousness, initial encounter",ICD10CM,7-char billing code,NULL
+45563433,1572413,Intracranial injury,1,"Unspecified intracranial injury without loss of consciousness, sequela",ICD10CM,7-char billing code,NULL
+45606939,1572413,Intracranial injury,1,"Unspecified intracranial injury without loss of consciousness, subsequent encounter",ICD10CM,7-char billing code,NULL
