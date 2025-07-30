@@ -206,7 +206,6 @@ synthetic_data <- synthetic_data %>%
 
 # Load and process RUCC data to assign county fips randomly based on population
 rucc_df <- readr::read_csv("/path/to/RUCC_2023.csv")
-# rucc_df <- readr::read_csv('/Users/alfredanzalone/Desktop/Lab Notebooks/2024/Short- and Long-Term Mortality in Rural and Urban Dwllers/Revision #2/Code Repository/RUCC_2023.csv')
 
 # Clean population column
 rucc_df <- rucc_df %>%
