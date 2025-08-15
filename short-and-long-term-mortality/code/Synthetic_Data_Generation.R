@@ -1,7 +1,7 @@
 set.seed(20250721)
 
 required_packages <- c(
-  "dplyr", "tibble", "stringr", "purrr", "readr"
+  "dplyr", "tibble", "stringr", "purrr", "readr", "here"
 )
 
 # Install any missing packages
@@ -205,7 +205,7 @@ synthetic_data <- synthetic_data %>%
   )
 
 # Load and process RUCC data to assign county fips randomly based on population
-rucc_df <- readr::read_csv("/path/to/RUCC_2023.csv")
+rucc_df <- readr::read_csv("RUCC_2023.csv", show_col_types = FALSE)
 
 # Clean population column
 rucc_df <- rucc_df %>%

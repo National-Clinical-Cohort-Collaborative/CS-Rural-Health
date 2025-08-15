@@ -1,7 +1,7 @@
 required_packages <- c(
   "gtsummary", "dplyr", "survival", "ggsurvfit", "survminer", "ggplot2",
   "cowplot", "ggpubr", "purrr", "nnet", "tidyr", "forcats", "coxme",
-  "broom", "scales", "usmap", "stringr"
+  "broom", "scales", "usmap", "stringr", "cards", "cardx"
 )
 
 # Install any missing packages
