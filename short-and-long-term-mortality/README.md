@@ -2,21 +2,7 @@
 
 ## Authors
 
-<p style="line-height: 1.6; white-space: normal;">
-<a href="https://orcid.org/0000-0002-3212-7845">A. Jerrod Anzalone <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>, 
-<a href="https://orcid.org/0000-0002-3525-6095">Michael Vest <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>, 
-Makayla Schissel, 
-<a href="https://orcid.org/0000-0002-0619-3347">Bradley S Price <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>, 
-William B. Hillegass, 
-Ronald Horswell, 
-San Chu, 
-<a href="https://orcid.org/0000-0003-3436-8199">Clifford J Rosen <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>, 
-<a href="https://orcid.org/0000-0002-5853-7287">Lucio Miele <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>, 
-<a href="https://orcid.org/0000-0001-5576-4495">Susan L Santangelo <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>, 
-Gordon S. Smith, 
-Sally L Hodder, 
-on behalf of the National Clinical Cohort Collaborative (N3C) Consortium
-</p>
+[A. Jerrod Anzalone](https://orcid.org/0000-0002-3212-7845), [Michael Vest](https://orcid.org/0000-0002-3525-6095), Makayla Schissel, [Bradley S Price](https://orcid.org/0000-0002-0619-3347), William B. Hillegass, Ronald Horswell, San Chu, [Clifford J Rosen](https://orcid.org/0000-0003-3436-8199), [Lucio Miele](https://orcid.org/0000-0002-5853-7287), [Susan L Santangelo](https://orcid.org/0000-0001-5576-4495), Gordon S. Smith, Sally L Hodder, on behalf of the National Clinical Cohort Collaborative (N3C) Consortium
 
 ## Abstract
 
@@ -24,7 +10,7 @@ Previous studies demonstrated higher short-term mortality among rural compared w
 
 ## Repository Usage
 
-This repository is broken down into two sections: 
+This repository is broken down into two sections:
 
 [Concept Sets](https://github.com/National-Clinical-Cohort-Collaborative/CS-Rural-Health/tree/main/short-and-long-term-mortality/concept-sets)
 
